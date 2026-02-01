@@ -77,9 +77,14 @@ html, body {
 }
 .rb-page-meta { @apply mb-4 flex items-center justify-between gap-4; }
 
+/* Legacy typography cues (from previous repo global.css) */
 .rb-prose { @apply prose prose-invert max-w-none; }
-.rb-prose a { @apply text-light underline; }
-.rb-prose hr { @apply border-light/40; }
+.rb-prose :where(h1,h2,h3,h4,h5,h6) { color: theme('colors.light'); }
+.rb-prose p { margin-bottom: 1.5em; color: theme('colors.light'); }
+.rb-prose hr { height: 1px; border: 0; background-color: theme('colors.light'); margin: 0 0 1.5em; opacity: .9; }
+.rb-prose a { color: #4169e1; text-decoration: underline; }
+.rb-prose a:visited { color: #800080; }
+.rb-prose a:hover, .rb-prose a:focus, .rb-prose a:active { color: #191970; }
 
 /* Separator motif */
 .rb-sep { @apply mx-auto text-center text-light/80; }
