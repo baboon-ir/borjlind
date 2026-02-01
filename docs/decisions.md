@@ -9,3 +9,18 @@
   - `[VIDEO: url]` → `<iframe …>`
   - `[MORE]` → `<details>`
 - **Scroll restore** uses `localStorage['bio:last']` and respects explicit URL hashes.
+
+## Style parity (live sites)
+
+- See `docs/style-audit.md` for the extracted tokens/components from:
+  - https://rolfborjlind.com
+  - https://biografi.rolfborjlind.com
+- **Core palette** (match live):
+  - dark: `#1c1d1e` (bio)
+  - hub-dark: `#282828` (hub)
+  - light text/border: `#fdf9f0`
+- **Core typography**: serif stack `ui-serif, Georgia, Cambria, "Times New Roman", Times, serif`.
+- **Reusable components**:
+  - hub cards use a rounded 2px light stroke and a subtle “hand-drawn” vibe.
+  - biography uses centered titles and an asterisk `∗` separator motif.
+
