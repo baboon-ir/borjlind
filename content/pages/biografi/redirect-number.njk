@@ -1,0 +1,21 @@
+---
+pagination:
+  data: bioRedirectPages
+  size: 1
+  alias: p
+layout: null
+permalink: "/biografi/{{ p.page }}/index.html"
+---
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=/biografi/#{{ p.anchor }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirect…</title>
+  </head>
+  <body>
+    <script>location.replace('/biografi/#{{ p.anchor }}');</script>
+    <p>Redirecting to <a href="/biografi/#{{ p.anchor }}">/biografi/#{{ p.anchor }}</a>…</p>
+  </body>
+</html>

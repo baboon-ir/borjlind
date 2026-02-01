@@ -1,0 +1,8 @@
+---
+layout: base.njk
+---
+<section class="card p-6">
+  <h1 class="text-2xl font-semibold tracking-tight">{{ title }}</h1>
+  {% if teaser %}<p class="mt-2 max-w-prose text-zinc-300">{{ teaser }}</p>{% endif %}
+  {% include "hub-grid.njk" %}
+</section>

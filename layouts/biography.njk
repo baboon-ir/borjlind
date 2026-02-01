@@ -1,0 +1,22 @@
+---
+layout: base.njk
+---
+<section class="card p-6">
+  <h1 class="text-xl font-semibold tracking-tight">{{ title }}</h1>
+  {% if teaser %}<p class="mt-2 text-sm text-zinc-300">{{ teaser }}</p>{% endif %}
+  <div class="mt-2 text-xs text-zinc-500">
+    Kompatibilitet: <span class="font-mono">/biografi/12</span> och <span class="font-mono">/biografi/page/12</span> redirectar till hash.
+  </div>
+
+  {% include "bio-controls.njk" %}
+</section>
+
+<div class="mt-8 grid gap-6" data-bio-pages>
+  {% for p in collections.biografiAll %}
+    {% set page = p %}
+    {% include "bio-page.njk" %}
+    <div class="bio-sep"></div>
+  {% endfor %}
+</div>
+
+<script>document.body.dataset.biography = '1';</script>

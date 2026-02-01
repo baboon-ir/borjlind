@@ -1,0 +1,14 @@
+{# expects: page (object with data.page, data.anchor, templateContent) #}
+{% set pageNum = page.data.page.number or page.data.pageNum or page.data.pageNumber %}
+<section id="{{ page.data.anchor }}" data-page="{{ pageNum }}" class="bio-page scroll-mt-32">
+  <div class="mb-4 flex items-center justify-between gap-4">
+    <div class="text-xs font-mono text-zinc-400">Page {{ pageNum }}/276</div>
+    <a class="text-xs font-mono text-zinc-500 hover:text-zinc-200 no-underline" href="#{{ page.data.anchor }}">#{{ page.data.anchor }}</a>
+  </div>
+
+  {% if (page.templateContent or "") | trim %}
+    {{ page.templateContent | bioRender | safe }}
+  {% else %}
+    <div class="text-sm text-zinc-500">(Demo saknar innehåll för den här sidan.)</div>
+  {% endif %}
+</section>

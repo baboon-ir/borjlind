@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+/* Hand-drawn-ish vibe: slightly imperfect borders + subtle grain */
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl border border-zinc-700 bg-zinc-950/40 px-4 py-2 text-sm text-zinc-100 no-underline;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.03) inset;
+}
+.btn:hover { @apply border-zinc-500; }
+
+.card {
+  @apply rounded-2xl border border-zinc-800 bg-zinc-950/40;
+}
+
+.bio-page {
+  @apply rounded-2xl border border-zinc-800 bg-zinc-950/30 p-5;
+}
+
+.bio-sep {
+  @apply my-6 border-t border-zinc-900;
+}
+
+.prose-dark {
+  @apply prose prose-invert max-w-none;
+}
+.prose-dark a { @apply text-zinc-100 underline; }
+.prose-dark hr { @apply border-zinc-800; }
