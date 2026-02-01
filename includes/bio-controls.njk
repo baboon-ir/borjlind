@@ -1,14 +1,14 @@
-<div class="sticky top-[56px] z-40 mt-4 rounded-2xl border border-zinc-800 bg-black/70 p-4 backdrop-blur">
+<div class="sticky top-[98px] z-40 mt-6 rb-controls">
   <div class="flex flex-wrap items-center justify-between gap-3">
     <form class="flex items-center gap-2" data-jump-form>
-      <label class="text-xs font-mono text-zinc-400" for="page">Hoppa</label>
-      <input class="w-24 rounded-xl border border-zinc-800 bg-black/40 px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:ring-2 focus:ring-zinc-600" id="page" name="page" type="number" min="1" max="276" placeholder="t.ex. 12" />
-      <button class="btn" type="submit">Go</button>
+      <label class="text-xs font-mono text-light/60" for="page">Hoppa</label>
+      <input class="rb-input" id="page" name="page" type="number" min="1" max="276" placeholder="t.ex. 12" />
+      <button class="rb-btn" type="submit">Go</button>
     </form>
 
     <div class="flex items-center gap-2">
-      <button class="btn" type="button" data-continue hidden>Continue reading</button>
-      <button class="btn" type="button" data-top>To top</button>
+      <button class="rb-btn" type="button" data-continue hidden>Continue</button>
+      <button class="rb-btn" type="button" data-top>Top</button>
     </div>
   </div>
 </div>

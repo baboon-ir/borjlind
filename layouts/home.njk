@@ -1,8 +1,19 @@
 ---
 layout: base.njk
+bodyClass: rb-hub-bg
+mainClass: "mx-auto max-w-6xl px-4 py-10"
 ---
-<section class="card p-6">
-  <h1 class="text-2xl font-semibold tracking-tight">{{ title }}</h1>
-  {% if teaser %}<p class="mt-2 max-w-prose text-zinc-300">{{ teaser }}</p>{% endif %}
-  {% include "hub-grid.njk" %}
+<section class="rb-hero">
+  <div class="rb-hero-inner">
+    <h1 class="rb-hero-title">
+      <span>bit den hand</span>
+      <span>som föder dig</span>
+    </h1>
+
+    <a class="rb-cta" href="/biografi/">Biografin</a>
+
+    <div class="mt-10">
+      {% include "hub-grid.njk" %}
+    </div>
+  </div>
 </section>

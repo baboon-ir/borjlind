@@ -7,10 +7,10 @@
     <meta name="description" content="{{ teaser or description or "Rolf Börjlind – biografi" }}" />
     <link rel="stylesheet" href="/assets/css/main.css" />
   </head>
-  <body class="min-h-screen bg-black text-zinc-100">
+  <body class="min-h-screen font-serif {{ bodyClass or 'bg-dark text-light' }}">
     {% include "header.njk" %}
 
-    <main class="mx-auto max-w-5xl px-4 py-10">
+    <main class="{{ mainClass or 'mx-auto max-w-5xl px-4 py-10' }}">
       {{ content | safe }}
     </main>
 
