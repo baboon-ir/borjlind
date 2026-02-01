@@ -5,9 +5,22 @@
     </a>
 
     <nav class="flex items-center gap-4 text-sm">
-      <a class="rb-navlink" href="/biografi/">Biografi</a>
-      <a class="rb-navlink" href="/minnen/">Minnen</a>
-      <a class="rb-navlink" href="/appendix/">Appendix</a>
+      <button data-nav-toggle class="rb-btn" aria-controls="site-nav" aria-expanded="false">Meny</button>
     </nav>
+
+    <div data-nav-panel class="fixed inset-0 z-40 hidden rb-nav-panel" aria-hidden="true">
+      <div class="rb-nav-backdrop absolute inset-0 bg-black/70"></div>
+      <div class="rb-nav-content absolute right-0 top-0 h-full w-[360px] bg-hub p-6">
+        <div class="flex items-center justify-between mb-6">
+          <div class="text-lg font-semibold">Meny</div>
+          <button data-nav-close class="rb-btn">Stäng</button>
+        </div>
+        <ul class="space-y-4 text-lg">
+          <li><a class="rb-navlink block" href="/biografi/">Biografi</a></li>
+          <li><a class="rb-navlink block" href="/minnen/">Minnen</a></li>
+          <li><a class="rb-navlink block" href="/appendix/">Appendix</a></li>
+        </ul>
+      </div>
+    </div>
   </div>
 </header>
