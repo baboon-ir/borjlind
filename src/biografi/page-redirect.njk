@@ -1,0 +1,23 @@
+---
+pagination:
+  data: biografi.pages
+  size: 1
+  alias: p
+layout: null
+permalink: "/biografi/page/{{ p.page }}/index.html"
+---
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=/biografi/#{{ p.id }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirect…</title>
+  </head>
+  <body>
+    <script>
+      location.replace('/biografi/#{{ p.id }}');
+    </script>
+    <p>Redirecting to <a href="/biografi/#{{ p.id }}">/biografi/#{{ p.id }}</a>…</p>
+  </body>
+</html>

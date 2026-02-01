@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+title: Minnen
+pageId: minnen
+permalink: /minnen/index.html
+---
+
+<section class="rounded-2xl border border-zinc-800 bg-zinc-950/40 p-6">
+  <h1 class="text-xl font-semibold tracking-tight">Minnen</h1>
+  <p class="mt-2 text-sm text-zinc-300">Kortare texter (MVP exempel).</p>
+
+  <div class="mt-6 grid gap-3">
+    {% for item in collections.minnen | reverse %}
+      <a class="no-underline" href="{{ item.url }}">
+        <div class="rounded-xl border border-zinc-800 bg-black/30 p-4 hover:border-zinc-600">
+          <div class="flex items-center justify-between gap-4">
+            <div class="text-sm font-semibold">{{ item.data.title }}</div>
+            {% if item.data.date %}<div class="text-xs font-mono text-zinc-500">{{ item.data.date }}</div>{% endif %}
+          </div>
+          {% if item.data.summary %}<div class="mt-1 text-sm text-zinc-400">{{ item.data.summary }}</div>{% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
