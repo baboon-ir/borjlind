@@ -2,6 +2,7 @@
   const root = document.documentElement;
   const btn = document.querySelector('[data-nav-toggle]');
   const panel = document.querySelector('[data-nav-panel]');
+  const closeBtn = document.querySelector('[data-nav-close]');
   if (!btn || !panel) return;
 
   function setOpen(open) {
@@ -18,6 +19,10 @@
     const open = !root.classList.contains('rb-nav-open');
     setOpen(open);
   });
+
+  if (closeBtn) {
+    closeBtn.addEventListener('click', () => setOpen(false));
+  }
 
   // close on ESC
   window.addEventListener('keydown', (e) => {

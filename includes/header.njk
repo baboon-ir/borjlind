@@ -1,21 +1,19 @@
-<header class="sticky top-0 z-50 bg-dark text-light">
+<header class="sticky top-0 z-50 bg-transparent text-light">
   <div class="mx-auto flex h-[98px] max-w-5xl items-center justify-between gap-6 px-4">
     <a class="no-underline" href="/">
-      <div class="text-sm tracking-wide">Rolf Börjlind</div>
+      <div class="rb-brand">Rolf Börjlind</div>
     </a>
 
     <nav class="flex items-center gap-4 text-sm">
-      <button data-nav-toggle class="rb-btn" aria-controls="site-nav" aria-expanded="false">Meny</button>
+      <button data-nav-toggle class="rb-nav-toggle" aria-controls="site-nav" aria-expanded="false">Meny</button>
     </nav>
 
     <div data-nav-panel class="fixed inset-0 z-40 hidden rb-nav-panel" aria-hidden="true">
-      <div class="rb-nav-backdrop absolute inset-0 bg-black/70"></div>
-      <div class="rb-nav-content absolute right-0 top-0 h-full w-[360px] bg-hub p-6">
-        <div class="flex items-center justify-between mb-6">
-          <div class="text-lg font-semibold">Meny</div>
-          <button data-nav-close class="rb-btn">Stäng</button>
-        </div>
-        <ul class="space-y-4 text-lg">
+      <div class="rb-nav-backdrop absolute inset-0 bg-black/80"></div>
+      <div class="rb-nav-content relative z-10 flex min-h-full flex-col items-center justify-center px-8">
+        <button data-nav-close class="rb-nav-close absolute right-6 top-6">Stäng</button>
+        <ul class="text-center space-y-6 text-3xl">
+          <li><a class="rb-navlink block" href="/">Start</a></li>
           <li><a class="rb-navlink block" href="/biografi/">Biografi</a></li>
           <li><a class="rb-navlink block" href="/minnen/">Minnen</a></li>
           <li><a class="rb-navlink block" href="/appendix/">Appendix</a></li>

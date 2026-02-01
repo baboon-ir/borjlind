@@ -20,9 +20,24 @@ html, body {
 }
 
 /* Navigation */
+.rb-brand { font-size: 18px; }
+
 .rb-navlink {
-  @apply no-underline text-light/80 hover:text-light;
+  @apply no-underline text-light/90 hover:text-light;
 }
+
+/* Menu toggle/close: no border */
+.rb-nav-toggle,
+.rb-nav-close {
+  @apply text-light/90 hover:text-light;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+/* Show full-screen panel when open */
+.rb-nav-open [data-nav-panel] { display: block; }
 
 /* Hub hero */
 .rb-hero {
