@@ -4,27 +4,82 @@
 
 :root { color-scheme: dark; }
 
-/* Hand-drawn-ish vibe: slightly imperfect borders + subtle grain */
-.btn {
-  @apply inline-flex items-center justify-center gap-2 rounded-xl border border-zinc-700 bg-zinc-950/40 px-4 py-2 text-sm text-zinc-100 no-underline;
-  box-shadow: 0 0 0 1px rgba(255,255,255,0.03) inset;
-}
-.btn:hover { @apply border-zinc-500; }
-
-.card {
-  @apply rounded-2xl border border-zinc-800 bg-zinc-950/40;
+html, body {
+  @apply font-serif bg-dark text-light;
 }
 
-.bio-page {
-  @apply rounded-2xl border border-zinc-800 bg-zinc-950/30 p-5;
+/* Hub background: dark + subtle contour-ish lines */
+.rb-hub-bg {
+  background-color: theme('colors.hub');
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(253,249,240,0.12) 0 1px, transparent 1px 100%),
+    radial-gradient(circle at 80% 30%, rgba(253,249,240,0.10) 0 1px, transparent 1px 100%),
+    radial-gradient(circle at 30% 80%, rgba(253,249,240,0.08) 0 1px, transparent 1px 100%),
+    repeating-radial-gradient(circle at 50% 50%, rgba(253,249,240,0.10) 0 1px, transparent 1px 28px);
+  background-size: auto, auto, auto, auto;
 }
 
-.bio-sep {
-  @apply my-6 border-t border-zinc-900;
+/* Navigation */
+.rb-navlink {
+  @apply no-underline text-light/80 hover:text-light;
 }
 
-.prose-dark {
-  @apply prose prose-invert max-w-none;
+/* Hub hero */
+.rb-hero {
+  @apply py-10;
 }
-.prose-dark a { @apply text-zinc-100 underline; }
-.prose-dark hr { @apply border-zinc-800; }
+.rb-hero-inner {
+  @apply relative;
+}
+.rb-hero-title {
+  @apply text-center font-serif font-bold leading-[1.15] text-light;
+  font-size: clamp(44px, 6vw, 88px);
+}
+
+/* CTA: match live (uppercase, tracking, 2px stroke, 10px radius) */
+.rb-cta {
+  @apply mt-8 inline-flex h-[60px] w-[250px] items-center justify-center border-2 border-light text-light no-underline;
+  border-radius: 10px;
+  letter-spacing: theme('letterSpacing.cta');
+  text-transform: uppercase;
+}
+
+/* Cards: rounded, 2px stroke, hand-drawn-ish */
+.rb-card {
+  @apply block h-full rounded-2xl border-2 border-light/80 bg-transparent p-4 no-underline;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.04) inset;
+}
+.rb-card:hover { @apply border-light; }
+.rb-card-title { @apply text-sm font-semibold; }
+.rb-card-sub { @apply mt-1 text-xs text-light/70; }
+
+/* Biography title block */
+.rb-title-block { @apply mx-auto mt-2 max-w-5xl text-center; }
+.rb-title-author { @apply text-base text-light; }
+.rb-title-line { @apply text-base text-light; }
+
+/* Biography controls */
+.rb-controls {
+  @apply mx-auto max-w-5xl border-2 border-light/70 bg-dark/90 p-4;
+  border-radius: 18px;
+}
+.rb-input {
+  @apply w-24 rounded-xl border-2 border-light/50 bg-dark/60 px-3 py-2 text-sm text-light focus:outline-none;
+}
+.rb-btn {
+  @apply inline-flex items-center justify-center rounded-xl border-2 border-light/70 bg-transparent px-4 py-2 text-sm text-light no-underline;
+}
+.rb-btn:hover { @apply border-light; }
+
+/* Biography page */
+.rb-bio-page {
+  @apply mx-auto max-w-5xl rounded-2xl border-2 border-light/60 bg-transparent p-5;
+}
+.rb-page-meta { @apply mb-4 flex items-center justify-between gap-4; }
+
+.rb-prose { @apply prose prose-invert max-w-none; }
+.rb-prose a { @apply text-light underline; }
+.rb-prose hr { @apply border-light/40; }
+
+/* Separator motif */
+.rb-sep { @apply mx-auto text-center text-light/80; }
