@@ -7,15 +7,20 @@
     <meta name="description" content="{{ teaser or description or "Rolf Börjlind – biografi" }}" />
     <link rel="stylesheet" href="/assets/css/main.css" />
   </head>
-  <body class="min-h-screen font-serif {{ bodyClass or 'bg-dark text-light' }}">
+  <body class="min-h-screen font-serif {{ bodyClass or 'bg-dark text-light' }} flex flex-col">
     {% include "header.njk" %}
 
-    <main class="{{ mainClass or 'mx-auto max-w-5xl px-4 py-10' }}">
-      {{ content | safe }}
+    <main class="flex-1 relative z-10 w-full {% if mainClass == 'h-full' %}flex items-center justify-center{% endif %}">
+      <div class="{{ mainClass or 'mx-auto max-w-5xl' }}">
+        {{ content | safe }}
+      </div>
     </main>
 
-    {% include "footer.njk" %}
+    <footer class="mt-auto relative z-10">
+      {% include "footer.njk" %}
+    </footer>
 
+    <script src="/assets/js/nav.js" defer></script>
     <script src="/assets/js/bio-reader.js" defer></script>
   </body>
 </html>

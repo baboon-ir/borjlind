@@ -1,14 +1,7 @@
-<div class="sticky top-[98px] z-40 mt-6 rb-controls">
-  <div class="flex flex-wrap items-center justify-between gap-3">
-    <form class="flex items-center gap-2" data-jump-form>
-      <label class="text-xs font-mono text-light/60" for="page">Hoppa</label>
-      <input class="rb-input" id="page" name="page" type="number" min="1" max="276" placeholder="t.ex. 12" />
-      <button class="rb-btn" type="submit">Go</button>
-    </form>
-
-    <div class="flex items-center gap-2">
-      <button class="rb-btn" type="button" data-continue hidden>Continue</button>
-      <button class="rb-btn" type="button" data-top>Top</button>
+<div class="fixed bottom-0 left-0 right-0 z-[100] rb-controls">
+  <div class="mx-auto flex h-[98px] max-w-5xl items-center justify-between gap-6 px-4">
+    <div class="flex items-center gap-2" data-page-display>
+      <input class="rb-page-input" type="number" min="1" max="1000" value="1" data-page-input />
     </div>
   </div>
 </div>

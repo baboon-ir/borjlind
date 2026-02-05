@@ -3,8 +3,7 @@ title: Vägen hem
 slug: vagen-hem
 period: 1990-tal
 teaser: När man går och låter tankarna sortera sig.
-layout: memory.njk
-permalink: /minnen/vagen-hem/
+
 tags: [minne]
 ---
 

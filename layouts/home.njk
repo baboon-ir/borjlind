@@ -1,19 +1,22 @@
 ---
 layout: base.njk
 bodyClass: rb-hub-bg
-mainClass: "mx-auto max-w-6xl px-4 py-10"
+mainClass: "h-full"
 ---
+<div class="rb-hub-pattern"></div>
+<video class="rb-hub-video" autoplay muted loop playsinline>
+  <source src="/assets/images/bongo.mp4" type="video/mp4">
+</video>
+<div class="rb-hub-overlay"></div>
+
 <section class="rb-hero">
   <div class="rb-hero-inner">
     <h1 class="rb-hero-title">
-      <span>bit den hand</span>
-      <span>som föder dig</span>
+      bit den hand<br>som föder dig
     </h1>
 
-    <a class="rb-cta" href="/biografi/">Biografin</a>
-
-    <div class="mt-10">
-      {% include "hub-grid.njk" %}
+    <div class="flex justify-center mt-8">
+      <a class="rb-cta" href="/biografi/">📕 Läs biografin</a>
     </div>
   </div>
 </section>

@@ -1,0 +1,41 @@
+---
+layout: base.njk
+mainClass: ""
+---
+<div class="mx-auto max-w-5xl px-4 pt-2 pb-6">
+  <h1 class="text-6xl font-bold mb-4 lowercase">{{ title }}</h1>
+  {% if description %}<p class="text-lg">{{ description }}</p>{% endif %}
+</div>
+
+<div class="appendix-layout">
+  <div class="px-4">
+    <div class="appendix-inner">
+      <nav class="appendix-nav">
+        <ul>
+          <li><a href="#60-talet" class="appendix-nav-link">60-talet</a></li>
+          <li><a href="#70-talet" class="appendix-nav-link">70-talet</a></li>
+          <li><a href="#80-talet" class="appendix-nav-link">80-talet</a></li>
+          <li><a href="#90-talet" class="appendix-nav-link">90-talet</a></li>
+          <li><a href="#00-talet" class="appendix-nav-link">00-talet</a></li>
+          <li><a href="#10-talet" class="appendix-nav-link">10-talet</a></li>
+          <li><a href="#20-talet" class="appendix-nav-link">20-talet</a></li>
+          <li><a href="#bocker" class="appendix-nav-link">Böcker</a></li>
+          <li><a href="#konst" class="appendix-nav-link">Konst</a></li>
+          <li><a href="#forestallningar" class="appendix-nav-link">Föreställningar</a></li>
+          <li><a href="#tv" class="appendix-nav-link">Tv</a></li>
+          <li><a href="#radio" class="appendix-nav-link">Radio</a></li>
+          <li><a href="#biofilmer" class="appendix-nav-link">Biofilmer</a></li>
+          <li><a href="#scen" class="appendix-nav-link">Scen</a></li>
+          <li><a href="#musik" class="appendix-nav-link">Musik</a></li>
+          <li><a href="#tidningar" class="appendix-nav-link">Tidningar</a></li>
+          <li><a href="#ovrigt" class="appendix-nav-link">Övrigt</a></li>
+          <li><a href="#utmarkelser" class="appendix-nav-link">Utmärkelser</a></li>
+        </ul>
+      </nav>
+      
+      <div class="appendix-content">
+        {{ content | safe }}
+      </div>
+    </div>
+  </div>
+</div>

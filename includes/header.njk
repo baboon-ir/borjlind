@@ -1,24 +1,28 @@
-<header class="sticky top-0 z-50 bg-transparent text-light">
-  <div class="mx-auto flex h-[98px] max-w-5xl items-center justify-between gap-6 px-4">
+<header class="sticky top-0 z-[100] text-light">
+  <div class="mx-auto flex h-[98px] max-w-5xl items-center justify-between gap-6 px-4 relative">
     <a class="no-underline" href="/">
       <div class="rb-brand">Rolf Börjlind</div>
     </a>
 
     <nav class="flex items-center gap-4 text-sm">
-      <button data-nav-toggle class="rb-nav-toggle" aria-controls="site-nav" aria-expanded="false">Meny</button>
+      <button data-nav-toggle class="rb-nav-toggle flex items-center gap-2" aria-controls="site-nav" aria-expanded="false">
+        <span>Meny</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="rb-nav-icon" style="width: 24px; height: 24px; display: inline-block; flex-shrink: 0;">
+          <path fill-rule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 9a.75.75 0 0 0-1.5 0v2.25H9a.75.75 0 0 0 0 1.5h2.25V15a.75.75 0 0 0 1.5 0v-2.25H15a.75.75 0 0 0 0-1.5h-2.25V9Z" clip-rule="evenodd" />
+        </svg>
+      </button>
     </nav>
-
-    <div data-nav-panel class="fixed inset-0 z-40 hidden rb-nav-panel" aria-hidden="true">
-      <div class="rb-nav-backdrop absolute inset-0 bg-black/80"></div>
-      <div class="rb-nav-content relative z-10 flex min-h-full flex-col items-center justify-center px-8">
-        <button data-nav-close class="rb-nav-close absolute right-6 top-6">Stäng</button>
-        <ul class="text-center space-y-6 text-3xl">
-          <li><a class="rb-navlink block" href="/">Start</a></li>
-          <li><a class="rb-navlink block" href="/biografi/">Biografi</a></li>
-          <li><a class="rb-navlink block" href="/minnen/">Minnen</a></li>
-          <li><a class="rb-navlink block" href="/appendix/">Appendix</a></li>
-        </ul>
-      </div>
-    </div>
   </div>
 </header>
+
+<div data-nav-panel class="fixed inset-0 z-[50] hidden rb-nav-panel" aria-hidden="true">
+  <div class="rb-nav-backdrop absolute inset-0 bg-black"></div>
+  <div class="rb-nav-content relative z-10 flex min-h-full flex-col items-start justify-start px-8 pt-[140px] max-w-5xl mx-auto">
+    <ul class="text-left space-y-6 text-3xl">
+      <li><a class="rb-navlink block" href="/">Start</a></li>
+      <li><a class="rb-navlink block" href="/biografi/">Biografi</a></li>
+      <li><a class="rb-navlink block" href="/minnen/">Minnen</a></li>
+      <li><a class="rb-navlink block" href="/appendix/">Appendix</a></li>
+    </ul>
+  </div>
+</div>

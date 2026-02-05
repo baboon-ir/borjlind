@@ -8,32 +8,87 @@ html, body {
   @apply font-serif bg-dark text-light;
 }
 
-/* Hub background: dark + subtle contour-ish lines */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.05;
+}
+
+.h-full {
+  height: calc(100vh - 98px);
+}
+
+/* Hub background: video + pattern overlay */
 .rb-hub-bg {
+  position: relative;
   background-color: theme('colors.hub');
-  background-image:
-    radial-gradient(circle at 20% 20%, rgba(253,249,240,0.12) 0 1px, transparent 1px 100%),
-    radial-gradient(circle at 80% 30%, rgba(253,249,240,0.10) 0 1px, transparent 1px 100%),
-    radial-gradient(circle at 30% 80%, rgba(253,249,240,0.08) 0 1px, transparent 1px 100%),
-    repeating-radial-gradient(circle at 50% 50%, rgba(253,249,240,0.10) 0 1px, transparent 1px 28px);
-  background-size: auto, auto, auto, auto;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.rb-hub-bg footer {
+  display: none;
+}
+
+.rb-hub-pattern {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/assets/images/pattern.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 2;
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.rb-hub-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.rb-hub-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+  pointer-events: none;
 }
 
 /* Navigation */
 .rb-brand { font-size: 18px; }
 
 .rb-navlink {
-  @apply no-underline text-light/90 hover:text-light;
+  @apply no-underline text-light hover:text-light;
 }
 
 /* Menu toggle/close: no border */
 .rb-nav-toggle,
 .rb-nav-close {
-  @apply text-light/90 hover:text-light;
+  @apply text-light hover:text-light;
   background: transparent;
   border: 0;
   padding: 0;
   font-size: 16px;
+}
+
+.rb-nav-icon {
+  transition: transform 0.3s ease;
+  display: inline-block;
+  color: currentColor;
+}
+
+.rb-nav-open .rb-nav-icon {
+  transform: rotate(45deg);
 }
 
 /* Show full-screen panel when open */
@@ -41,22 +96,34 @@ html, body {
 
 /* Hub hero */
 .rb-hero {
-  @apply py-10;
+  position: relative;
+  z-index: 10;
 }
 .rb-hero-inner {
   @apply relative;
+  text-align: center;
 }
 .rb-hero-title {
-  @apply text-center font-serif font-bold leading-[1.15] text-light;
+  @apply text-center font-serif font-bold leading-[1.15];
   font-size: clamp(44px, 6vw, 88px);
+  color: #fdf9f0;
+  opacity: 1;
 }
 
-/* CTA: match live (uppercase, tracking, 2px stroke, 10px radius) */
+/* CTA: filled button med bakgrundsfärg */
 .rb-cta {
-  @apply mt-8 inline-flex h-[60px] w-[250px] items-center justify-center border-2 border-light text-light no-underline;
-  border-radius: 10px;
-  letter-spacing: theme('letterSpacing.cta');
-  text-transform: uppercase;
+  @apply inline-flex items-center justify-center no-underline;
+  background-color: theme('colors.light');
+  color: theme('colors.dark');
+  font-size: 14px;
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.rb-cta:hover {
+  opacity: 0.9;
 }
 
 /* Cards: rounded, 2px stroke, hand-drawn-ish */
@@ -69,14 +136,52 @@ html, body {
 .rb-card-sub { @apply mt-1 text-xs text-light/70; }
 
 /* Biography title block */
-.rb-title-block { @apply mx-auto mt-2 max-w-5xl text-center; }
+.rb-title-block {
+  @apply mx-auto text-center;
+  height: calc(100vh - 98px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/assets/images/pattern.png');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.rb-title-block::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  background: linear-gradient(to top, transparent, #1c1d1e);
+  pointer-events: none;
+}
+
+.rb-title-block::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  background: linear-gradient(to bottom, transparent, #1c1d1e);
+  pointer-events: none;
+}
+
 .rb-title-author { @apply text-base text-light; }
 .rb-title-line { @apply text-base text-light; }
 
 /* Biography controls */
 .rb-controls {
-  @apply mx-auto max-w-5xl border-2 border-light/70 bg-dark/90 p-4;
-  border-radius: 18px;
+  @apply bg-dark/90 text-light;
+}
+.rb-page-input {
+  @apply bg-transparent border-0 px-2 py-1 text-light text-center focus:outline-none;
+  font-size: 32px;
+  width: 5ch;
 }
 .rb-input {
   @apply w-24 rounded-xl border-2 border-light/50 bg-dark/60 px-3 py-2 text-sm text-light focus:outline-none;
@@ -103,3 +208,111 @@ html, body {
 
 /* Separator motif */
 .rb-sep { @apply mx-auto text-center text-light/80; }
+
+/* Appendix layout */
+.appendix-layout {
+  width: 100%;
+  padding-bottom: 3rem;
+}
+
+.appendix-inner {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.appendix-nav {
+  position: sticky;
+  top: 110px;
+  margin: 0;
+  padding: 0;
+}
+
+.appendix-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.appendix-nav-link {
+  display: block;
+  padding: 0.25rem 0;
+  color: theme('colors.light');
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+  font-size: 14px;
+}
+
+.appendix-nav-link:hover {
+  opacity: 1;
+}
+
+.appendix-content {
+  min-width: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.appendix-content > * {
+  max-width: none !important;
+  width: 100%;
+}
+
+.appendix-content h1 {
+  @apply text-3xl font-bold mb-6;
+}
+
+.appendix-content h2 {
+  @apply text-xl font-semibold mt-8 mb-4;
+  border-bottom: 1px solid rgba(253, 249, 240, 0.2);
+  padding-bottom: 0.5rem;
+}
+
+.appendix-content p {
+  @apply mb-4 leading-relaxed;
+}
+
+.stars {
+  font-size: 48px;
+  font-weight: 900;
+  margin: 112px 0px;
+}
+
+.memories h2 {
+  border: 0px !important;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .appendix-layout {
+    flex-direction: column;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .appendix-nav {
+    width: 100%;
+    position: static;
+    margin-bottom: 2rem;
+  }
+  
+  .appendix-nav ul {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+  
+  .appendix-nav-link {
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .appendix-content {
+    width: 100%;
+  }
+}

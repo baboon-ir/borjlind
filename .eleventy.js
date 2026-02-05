@@ -70,6 +70,7 @@ module.exports = function (eleventyConfig) {
   // Assets
   eleventyConfig.addPassthroughCopy({ "assets/css/main.css": "assets/css/main.css" });
   eleventyConfig.addPassthroughCopy({ "assets/js/bio-reader.js": "assets/js/bio-reader.js" });
+  eleventyConfig.addPassthroughCopy({ "assets/js/nav.js": "assets/js/nav.js" });
 
   // If you add images later, place them in assets/images/.
   eleventyConfig.addPassthroughCopy({ "assets/images": "assets/images" });

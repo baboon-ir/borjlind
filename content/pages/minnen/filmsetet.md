@@ -3,8 +3,7 @@ title: Filmsetet
 slug: filmsetet
 period: 1970-tal
 teaser: Ett kort minne från en inspelning.
-layout: memory.njk
-permalink: /minnen/filmsetet/
+
 tags: [minne]
 ---
 

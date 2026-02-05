@@ -6,7 +6,7 @@
   const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
 
   const getCurrentAnchor = () => {
-    const pages = document.querySelectorAll(".bio-page[id^='p-']");
+    const pages = document.querySelectorAll(".rb-bio-page[id^='p-']");
     let best = null;
     let bestTop = -Infinity;
     for (const el of pages) {
@@ -17,6 +17,26 @@
       }
     }
     return best?.id || null;
+  };
+
+  const getCurrentPageNumber = () => {
+    const anchor = getCurrentAnchor();
+    if (!anchor) return 1;
+    const match = anchor.match(/p-(\d+)/);
+    return match ? parseInt(match[1], 10) : 1;
+  };
+
+  const updatePageDisplay = () => {
+    const input = document.querySelector("[data-page-input]");
+    if (!input) return;
+    const currentPage = getCurrentPageNumber();
+    input.value = currentPage;
+    
+    // Update URL hash to match current page
+    const anchor = getCurrentAnchor();
+    if (anchor && location.hash !== `#${anchor}`) {
+      history.replaceState(null, '', `#${anchor}`);
+    }
   };
 
   const save = () => {
@@ -59,15 +79,22 @@
 
     restore();
 
-    // Jump-to-page
-    const form = document.querySelector("[data-jump-form]");
-    form?.addEventListener("submit", (e) => {
-      e.preventDefault();
-      const input = form.querySelector("input[name='page']");
-      const n = Number(input?.value);
-      if (!Number.isFinite(n)) return;
-      gotoPage(n);
-    });
+    // Page input - manual change
+    const pageInput = document.querySelector("[data-page-input]");
+    if (pageInput) {
+      pageInput.addEventListener("change", (e) => {
+        const n = Number(e.target.value);
+        if (!Number.isFinite(n)) return;
+        gotoPage(n);
+      });
+      pageInput.addEventListener("blur", (e) => {
+        const n = Number(e.target.value);
+        if (!Number.isFinite(n)) return;
+        gotoPage(n);
+      });
+      // Initialize with current page
+      updatePageDisplay();
+    }
 
     // Continue reading
     const cont = document.querySelector("[data-continue]");
@@ -95,13 +122,19 @@
         ticking = true;
         requestAnimationFrame(() => {
           save();
+          updatePageDisplay();
           ticking = false;
         });
       },
       { passive: true }
     );
 
-    window.addEventListener("hashchange", () => setTimeout(save, 50));
+    window.addEventListener("hashchange", () => {
+      setTimeout(() => {
+        save();
+        updatePageDisplay();
+      }, 50);
+    });
   };
 
   window.addEventListener("DOMContentLoaded", setup);
