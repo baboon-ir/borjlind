@@ -1,0 +1,40 @@
+---
+page:
+  number: 192
+anchor: p-192
+permalink: false
+tags: [biografiPage]
+layout: biography
+---
+**Mr Rex har just klivit in och spanar långsamt ut över strålbelysta varelser och blödande objekt och hans blick stannar på Balooba Bar där Jesus ömsom blundar och ömsom blinkar för att dölja det gråtande barnet intill och Mr Rex slår sig ner vid den svarta katten på disken och hänger sin hatt på den vakande hökens huvud och vinkar till sig en dubbel Gammeldansk, det är dags ... scenen är rummet och rummet är kaos och ingenting bär sin betydelse och Ormkvinnan sväljer rakblad på rakblad för att utmana Damen som sväljer sig själv, och ingenting är förbjudet längre som aldrig var tillåtet förr ... och i hörnet vaggar Clownen förbi, han har trängt en fjäder genom örsnibben och häller svart sorg i sitt munspel och viskar: misslyckandet är vår enda belöning, och tonerna fångas in av ett snurrade framhjul och slungas ut över tvåhundra skära kaniner som vaggar över trappstegsformade golv, det är en natt för levande och för krig ... och Damen i baren tänder en cigarett på en cigarett och släpar ut sin röst i ljuset för att nagla fast vad ingen annan vågar: det är så här sanningen ser ut, när ingenting annat återstår ... över bardisken går en råtta på lina, halkar till och hamnar i Damens glas och den Blinde föser undan råttan och lägger upp sitt vackra teakfodral och lyfter fram sin sjungande såg och låter stråken besvärja dom försvunna tänderna, och han lyfter den olästa textens hjärta genom jord och asfalt ända upp till den gråtande änkan på bänken i parken som sörjer att sorgen dött ut ... och genom valvet drar en fuktig lukt av andra landskap, ett stråk av obeveklig närvaro, Mannen av Mörker håller en mikrofon i handen och språket strålar ett skelett mot fonden, han vet vad det handlar om: du kan inte läkas i en värld du inte krossat ... och den svarta flamingon vakar mot en enkel blå himmel hundra meter under den välbärgade hustrumisshandlare som korsar gatan arm i arm med sitt nya förälskade offer och genom himlen kliver Sångaren med händer utan oro, han ser den skygga kvinnan bakom cittran och hör klangen från en dov oboe och han vandrar långsamt in i klostret där dom blinda barnen bor ... och Pudelmannen dansar över schackrutornas obarmhärtiga mönster och hans rosa penis vajar längs hundskelettets skugga och Mannen med Stjärnan kliver in i en cirkel av uppriktighet för att överlämna vingarna från den förbrukade fågeln: det finns ingenting att förlora som inte redan är vunnet ... och i ståltrappan vaggar tre nakna skyltdockor med små svarta stjärnor på bröstvårtorna och Kvinnan i Siden lindar sitt lena hår runt en trumpet av guld och Mannen i Jackan lyfter sitt horn och genom munstycket blåser en ande av saknad och saknaden söker sig oblygt in i Kvinnans kåta röst och runt midnatt viner en rysning genom valvet och till och med djuren i trossbottnen tystnar ... och den flådda kalven vaggar från en krok i taket, genom röken glider en ljushårig kvinna med en gunghäst i handen, hon säljer en bild av det förbisedda, ingen ser henne gå eller andas, hon ler mot Rebellen utan Ålder och ser honom böja sin smärta mot flygeln och hör honom rulla sina svarta tärningar av elfenben: helle älskad av fåän hatad av ingen ... han har ingenting att bevara längre, utom kunskapen om det förrådda, och en jättelik svartmålad glödlampa sprutar sitt ljus genom utskurna stjärnhål och Queen of Aces tunga röst skär in sitt sköra budskap genom silverblå rök: ingenting är vackrare än det som nyss försvann ... och den Tatuerade Mannen står stilla mellan splittrade spegelväggar och ser skärvorna slunga sönderskurna ansikten mot barens blodröda neonskylt och ingen hör hans stympade viskning: hur länge kan man leta efter nåt som aldrig har försvunnit ... och hukad över den lilla förstärkaren sitter Skuggan av New York och dödar varje tvekan med sina brutala slingor längs the road of rock&roll och Svärdmannen sänker sin kropp framför ögat och stukar sin välkända baseballmössa och ur hans mun krälar en mask av mjukt förtroende: jag är normal, jag är fullständigt normal, och allting skälver av obehag ... och ur mörkret växer en tennisboll till en jordglob utan axel och Sameflickans kropp står stilla som om all natur satt fast i hennes kött och ur köttet föds en mörk och mäktig jojk som får liv och död att smälta samman till en punkt av innerlig tidlöshet ... och Slaktaren i baren har höjt sitt organiska instrument och hans mekaniska röst upprepar samma strof om och om igen tills Jesus slutar blunda: skärp dig för fan ... skärp dig för fan ... och Mannen i Blå Cheviot låter handen vandra över halsen på sin svidande älskarinna och hans fingrar vet exakt hur en pulsåder ska behandlas och Dr Rythm håller ut en hand av glädje för att blidka alla som svalt tristess och i gulbrunt dunkel står Den Nakna Kvinnan med en pensel mellan läpparna och lovar att hon aldrig ska bekänna, hur hårt dom än slår sönder det hon ändå aldrig trott på ****... och Mannen av Marmor låter händerna svänga i en svunnen epok medan tungan löper gatlopp mellan hänförelse och exakt förakt och Den Vackra Pojken jonglerar med bananer för att minnas det han mist och från väggen talar en stum indiangud om allt det som en gång var värt att förvalta ... och Mr Rex reser sig från Balooba Bar och vänder sitt vitkalkade ansikte mot bongotrummornas avgrund och hans obevekliga blick splittrar rösten: no problems, take i easy ... och rytmen dunstar i tystnades öken, zebrahuden glänser på väggen över soffan, fjäderkuken gungar stilla på bordet, ingen dansar längre i Lilla Beirut, visarna på den gigantiska klockan roterar sakta baklänges, tiden tillhör dom som föraktar den och över den guldkalkade väggen vakar Trubadurens brutala epitaf i rött spray: medan natten obönhörligen faller ... glider dörrarna sakta igen om det absolut sista skriket. **
+
+Av någon anledning finns inte serien ” *Sista Skriket”* bevarat i SVT:s arkiv.
+::: indent
+Söker du på” Sista Skriket ” iÖppet Arkiv får du upp en lätt tintad moralitet av Ingmar Bergman.
+:::
+
+Såkrälar främlingsfientligheten in ytterligare en bit i vårt samhälle. Ny Demokrati bildas, av Ian Wachtmeister och Bert Karlsson - en degenererad greve och en vulg är pajas i ledningen för ettöppet rasistiskt parti. Det ger en föraning om den bruna gas som ska sippra in i ett rämnande samhällsbygge på2000-talet. Ny Demokrati blir en testballong för Sverigedemokraterna.
+::: indent
+En mer skrämmande utlöpare ur den rasistiska myllan är Lasermannen. John Ausonius. En förvriden man som går runt med ett lasergev är och skjuter vad han upplever som ” invandrare ”. Galning, så klart, men den ideologiska backupen finns högre upp i samhället.
+:::
+
+::: indent
+Rasismen är delvis sanktionerad.
+:::
+
+Gösta ringer och har en idé. Han vill göra en tv-serie i tre delar om relationsproblem. Han har redan fått löfte från Dramachefen Ingrid Dahlberg om en första manusfinansiering till en serie om 3x60 minuter. Producenten Christer Abrahamsen och regissören Mats Arehn är vidtalade och intresserade av projektet.
+::: indent
+Vi börjar arbeta påhistorien som har arbetsnamnet ” *Min pappa dog två gånger* ”. Senare ska den döpas om till ” *Paradiset* ”. Jag förstår snabbt att historien till stora delar ska byggas på Göstas egna privata erfarenheter.
+:::
+
+::: indent
+Fine med mig.
+:::
+
+::: indent
+Som vanligt pratar vi fram historien under långa promenader. Den blir mer och mer dramatisk, skratten blir färre. Gösta villåt nånting. När materialet känns tillräckligt omfattande är det dags för mig att traktera skrivmaskinen. Göstaåker ner till Pouliguen på Frankrikesöstkust. Han har bytt vistelseort från Mallorca till Bretagne. Han har ocksåträffat en ny kvinna, konstnären Marie-Louise Ekman. Dom har tangerat varandra i många år, först nu har det utvecklats till kärlek. Jag tycker mycket om Marie-Louise, som jag känner sen 60-talet, och är glad för deras skull. Det känns som en perfekt kombination.
+:::
+
+::: indent
+Jag arbetar några månader med ett förstamanus. När det är klartåker jag och Cilla ner till Pouliguen.
+:::

@@ -1,6 +1,139 @@
+const embedEverything = require("eleventy-plugin-embed-everything");
 const markdownIt = require("markdown-it");
+const markdownItContainer = require("markdown-it-container");
+const markdownItImplicitFigures = require("markdown-it-implicit-figures");
 
 const md = markdownIt({ html: true, linkify: true, breaks: false });
+
+// Lazy-load all images
+const defaultImageRender = md.renderer.rules.image || function (tokens, idx, options, env, self) {
+  return self.renderToken(tokens, idx, options);
+};
+md.renderer.rules.image = function (tokens, idx, options, env, self) {
+  tokens[idx].attrPush(['loading', 'lazy']);
+  return defaultImageRender(tokens, idx, options, env, self);
+};
+
+// Add implicit figures support - converts images with alt text to <figure> with <figcaption>
+md.use(markdownItImplicitFigures, {
+  dataType: false,  // Don't wrap images in a block
+  figcaption: true,  // Use alt text as caption
+  tabindex: false,   // Don't add tabindex
+  link: false        // Don't wrap in links
+});
+
+// Add container support for ::: center, ::: indent, ::: poem, ::: video
+md.use(markdownItContainer, 'center', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-center">\n';
+    } else {
+      return '</div>\n';
+    }
+  }
+});
+
+md.use(markdownItContainer, 'part', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-part"><img src="/assets/images/divider.svg" class="mx-auto w-auto h-[200px]" /></div>\n';
+    } else {
+      return '';
+    }
+  }
+});
+
+// Empty renderer for hidden accordion tokens
+md.renderer.rules['accordion_hidden'] = function () { return ''; };
+
+md.use(markdownItContainer, 'accordion', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      // Find the matching container_accordion_close
+      let closeIdx = idx + 1;
+      let depth = 1;
+      while (closeIdx < tokens.length) {
+        if (tokens[closeIdx].type === 'container_accordion_open') depth++;
+        if (tokens[closeIdx].type === 'container_accordion_close') {
+          depth--;
+          if (depth === 0) break;
+        }
+        closeIdx++;
+      }
+
+      // Extract first paragraph as summary, rest as content
+      let summary = '';
+      let contentStartIdx = idx + 1;
+
+      for (let i = idx + 1; i < closeIdx; i++) {
+        if (tokens[i].type === 'paragraph_open') {
+          if (tokens[i + 1] && tokens[i + 1].type === 'inline') {
+            summary = tokens[i + 1].content;
+          }
+          let pClose = i + 2;
+          while (pClose < closeIdx && tokens[pClose].type !== 'paragraph_close') pClose++;
+          contentStartIdx = pClose + 1;
+          break;
+        }
+      }
+
+      // Collect content tokens (after summary, before close)
+      let contentTokens = [];
+      for (let i = contentStartIdx; i < closeIdx; i++) {
+        contentTokens.push(tokens[i]);
+      }
+
+      // Render content HTML before hiding tokens
+      const contentHtml = md.renderer.render(contentTokens, md.options, {});
+
+      // Hide all inner tokens so markdown-it doesn't render them again
+      for (let i = idx + 1; i < closeIdx; i++) {
+        tokens[i].type = 'accordion_hidden';
+        tokens[i].tag = '';
+        tokens[i].nesting = 0;
+        tokens[i].children = null;
+        tokens[i].content = '';
+      }
+
+      return `<details class="rb-accordion" style="border-top:0.5px solid #ccc;border-bottom:0.5px solid #ccc;">
+        <summary>${md.renderInline(summary)}</summary>
+        <div class="rb-accordion-content">${contentHtml}</div>
+      </details>`;
+    } else {
+      return '';
+    }
+  }
+});
+
+md.use(markdownItContainer, 'indent', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-indent">\n';
+    } else {
+      return '</div>\n';
+    }
+  }
+});
+
+md.use(markdownItContainer, 'poem', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-poem">\n';
+    } else {
+      return '</div>\n';
+    }
+  }
+});
+
+md.use(markdownItContainer, 'video', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-video">\n';
+    } else {
+      return '</div>\n';
+    }
+  }
+});
 
 const pad3 = (n) => String(n).padStart(3, "0");
 
@@ -19,38 +152,49 @@ function renderBio(text) {
   const more = parts.slice(1).join("\n\n").trim();
 
   const renderChunk = (chunk) => {
-    const lines = chunk.split(/\r?\n/);
-    const out = [];
-
-    for (const line of lines) {
-      const img = line.match(/^\s*\[IMAGE:\s*([^\]]+)\]\s*$/i);
-      if (img) {
-        const src = img[1].trim();
-        out.push(
-          `<figure class="my-5 rounded-2xl border border-zinc-800 bg-black/30 p-3">` +
-            `<img class="w-full rounded-xl border border-zinc-800" src="/assets/images/${escapeAttr(src)}" alt="" loading="lazy" />` +
-          `</figure>`
-        );
-        continue;
+    // Custom section parsing: handle <div class=""> blocks
+    const divSectionRegex = /<div class="">([\s\S]*?)<\/div>/g;
+    let renderedSections = [];
+    let lastIndex = 0;
+    while (true) {
+      const match = divSectionRegex.exec(chunk);
+      if (!match) break;
+      // Render everything before the div
+      if (match.index > lastIndex) {
+        let before = chunk.slice(lastIndex, match.index);
+        // Replace [yt-video][URL] with embed
+        before = before.replace(/\[yt-video\]\[(https?:\/\/[^\]]+)\]/g, (m, url) => {
+          // Extract YouTube ID
+          const ytId = url.match(/(?:v=|youtu.be\/|embed\/)([\w-]+)/);
+          const id = ytId ? ytId[1] : '';
+          if (!id) return '';
+          return `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30"><div class="aspect-video"><iframe class="h-full w-full" src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
+        });
+        renderedSections.push(`<div class="prose-dark">${md.render(before)}</div>`);
       }
-
-      const vid = line.match(/^\s*\[VIDEO:\s*([^\]]+)\]\s*$/i);
-      if (vid) {
-        const url = vid[1].trim();
-        out.push(
-          `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30">` +
-            `<div class="aspect-video">` +
-              `<iframe class="h-full w-full" src="${escapeAttr(url)}" title="video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>` +
-            `</div>` +
-          `</div>`
-        );
-        continue;
-      }
-
-      out.push(line);
+      // Render the div section with custom styling
+      let sectionContent = match[1].trim();
+      sectionContent = sectionContent.replace(/\[yt-video\]\[(https?:\/\/[^\]]+)\]/g, (m, url) => {
+        const ytId = url.match(/(?:v=|youtu.be\/|embed\/)([\w-]+)/);
+        const id = ytId ? ytId[1] : '';
+        if (!id) return '';
+        return `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30"><div class="aspect-video"><iframe class="h-full w-full" src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
+      });
+      renderedSections.push(`<div class="rb-section prose-dark">${md.render(sectionContent)}</div>`);
+      lastIndex = divSectionRegex.lastIndex;
     }
-
-    return `<div class="prose-dark">${md.render(out.join("\n"))}</div>`;
+    // Render any remaining content after the last div
+    if (lastIndex < chunk.length) {
+      let after = chunk.slice(lastIndex);
+      after = after.replace(/\[yt-video\]\[(https?:\/\/[^\]]+)\]/g, (m, url) => {
+        const ytId = url.match(/(?:v=|youtu.be\/|embed\/)([\w-]+)/);
+        const id = ytId ? ytId[1] : '';
+        if (!id) return '';
+        return `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30"><div class="aspect-video"><iframe class="h-full w-full" src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
+      });
+      renderedSections.push(`<div class="prose-dark">${md.render(after)}</div>`);
+    }
+    return renderedSections.join("\n");
   };
 
   const mainHtml = renderChunk(main);
@@ -67,6 +211,9 @@ function renderBio(text) {
 }
 
 module.exports = function (eleventyConfig) {
+  // Embeds
+  eleventyConfig.addPlugin(embedEverything);
+
   // Assets
   eleventyConfig.addPassthroughCopy({ "assets/css/main.css": "assets/css/main.css" });
   eleventyConfig.addPassthroughCopy({ "assets/js/bio-reader.js": "assets/js/bio-reader.js" });
@@ -126,6 +273,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("**/.trash_restructure/**");
 
+  // Set custom markdown library with container support
+  eleventyConfig.setLibrary("md", md);
+
   return {
     dir: {
       input: ".",
@@ -135,6 +285,6 @@ module.exports = function (eleventyConfig) {
     },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
-    templateFormats: ["md", "njk"]
+    templateFormats: ["md", "njk", "html"]
   };
 };

@@ -10,11 +10,11 @@ mainClass: "mw-full pt-0!"
 
 {% include "bio-controls.njk" %}
 
-<div class="mt-10 grid gap-10" data-bio-pages>
+<div class="mt-10 grid" data-bio-pages>
   {% for p in collections.biografiAll %}
     {% set page = p %}
     {% include "bio-page.njk" %}
-    <div class="rb-sep" aria-hidden="true">∗</div>
+    {# <div class="rb-sep" aria-hidden="true">∗</div> #}
   {% endfor %}
 </div>
 

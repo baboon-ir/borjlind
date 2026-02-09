@@ -1,0 +1,48 @@
+---
+page:
+  number: 18
+anchor: p-018
+permalink: false
+tags: [biografiPage]
+layout: biography
+---
+::: indent
+Minne från Barcelona: Jag sitter på en uteservering på det vackra innertorget Placa Reial, det är sen kväll, ett antal hemlösa rör sig i mörkret, en del hänger runt fontänen, andra sitter eller ligger vid pelare. Plötsligt kör ett par bandvagnar med vattenkanoner in på torget, slår påkanonerna och börjar spruta bort dom hemlösa, jagar dom med den brutala vattenstrålen över stenbeläggningen. Dom tumlar runt, ramlar, kryper, försöker skydda sig. Efter en stund är torget helt renspolat påhemlösa.
+:::
+
+::: indent
+Från vissa uteserv er ingar hörs applåder.
+:::
+
+Jag köper mina första läderboots i en specialbutik under tjurfäktningsarenan i  Salamanca och allt är en fest. Bland mina spanska vänner kallas jag ” treinta y ocho ” - jag går alltid klädd i en gul amerikansk rugbytröja med 38 på. Denär av ett mycket slitstarkt material.
+::: indent
+Minne från Malaga: Jag är svårt uppslukad av tjurfäktning och betraktar mig, lite över maga, som en aficionado. Under ett parår besöker jag ett stort antal arenor runt om i landet. En eftermiddag, på en tjurfäktningsarena i Malaga, händer nåt märkligt.
+:::
+
+::: indent
+Kvällen innan har jag gått ner till Playa del Malagueta, en lång strand med vit, finkornig sand, i enaänden av stranden står ett antal tältvagnar uppställda i en cirkel. Jag söker mig dit. Småbarn leker med nötta kastanjetter, män trummar påhårt spända tamburiner, havet sköljer in i jämna rytmer. Jag slår mig ner i utkanten av vagnarna. Några kvinnor, kanske fem, dansar runt en eld. En smidig kvinna lindar av sin sidensjal, sveper den tätt över lågorna tills sjalen börjar brinna, gör en båge genom luften ner i sanden, trampar påsjalen och tar fram en kortlek. Försiktigt föser hon upp askan av sjalen på ett kort. Jag hasar lite närmare i skuggan av en vagn. Männen slutar slåpåtamburinerna, en av dom tittaråt mitt håll. Jag sitter orörlig. Från andra sidan närmar sig en liten fet man i leopardkalsonger. Han fryser, det syns. Han har ett blått paraply i handen. Kvinnan med kortet vänder sig mot mannen och håller upp kortet. Barnen lägger ner kastanjetterna. Mannen slickar sig om munnen. Kvinnan blåser sakta askan från kortet mot mannens ansikte, flagorna vaggar genom luften och fastnar på hans fuktiga läppar. Några män tittaråt mitt håll igen och jag hasar undan, drar mig upp längs sanden, in i skuggan, hittar en skyddad sandgrop som jag kan somna i.
+:::
+
+::: indent
+Nu sitter jag påsol-y-sombre-sektionen på Malagas vackra tjurfäktningsarena och väntar på att eftermiddagens fjärde tjur ska springa in. Matadoren innan, Manuel Ortéga, har fått ett avskuretöra från sin fällda tjur, en hygglig utdelning från en svårflörtad publik.
+:::
+
+::: indent
+Sårusar tjuren in.
+:::
+
+::: indent
+Den är stor, svart, förvirrad. Picadoren trycker ner sin grova spetsiga lans i djurets nacke, syftet är att trasa sönder nackmuskeln för att försvåra för tjuren att höja huvudet eller göra nyckfulla kast med hornen mot matadoren, picadoren hänger över lansen tills publiken börjar bua, det mörka blodet sköljer ner över den svarta blanka kroppen, tjuren vaggar med huvudet och plötsligt får jag nog. Jagäcklas. Jag reser mig, tränger mig ut, lämnar arenan och ser aldrig en tjurfäktning mer.
+:::
+
+::: indent
+Varför det händer just nu, just här, har jag ingen aning om. Jag vänder helt enkelt blad, som monarken brukar uttrycka det.
+:::
+
+::: indent
+Eller är det en effekt av ritualen påstranden kvällen innan?
+:::
+
+::: indent
+Jag vet inte.
+:::

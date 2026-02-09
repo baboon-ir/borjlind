@@ -2,25 +2,22 @@
 layout: base.njk
 mainClass: ""
 ---
-<div class="mx-auto max-w-5xl px-4 pt-2 pb-6">
-  <h1 class="text-6xl font-bold mb-4 lowercase">{{ title }}</h1>
-  {% if description %}<p class="text-lg">{{ description }}</p>{% endif %}
-</div>
+<nav class="appendix-nav">
+  <ul>
+    <li><a href="#kusinen" class="appendix-nav-link">kusinen</a></li>
+    <li><a href="#den-osynlige" class="appendix-nav-link">den osynlige</a></li>
+    <li><a href="#yngling" class="appendix-nav-link">en vacker yngling</a></li>
+  </ul>
+</nav>
 
 <div class="appendix-layout">
+  <div class="mx-auto max-w-5xl px-4 pt-2 pb-6">
+    <h1 class="text-6xl font-bold mb-4 lowercase">{{ title }}</h1>
+    {% if description %}<p class="text-lg">{{ description }}</p>{% endif %}
+  </div>
   <div class="px-4">
-    <div class="appendix-inner">
-      <nav class="appendix-nav">
-        <ul>
-          <li><a href="#kusinen" class="appendix-nav-link">kusinen</a></li>
-          <li><a href="#den-osynlige" class="appendix-nav-link">den osynlige</a></li>
-          <li><a href="#yngling" class="appendix-nav-link">en vacker yngling</a></li>
-        </ul>
-      </nav>
-      
-      <div class="appendix-content memories text-center">
-        {{ content | safe }}
-      </div>
+    <div class="appendix-content memories text-center">
+      {{ content | safe }}
     </div>
   </div>
 </div>

@@ -6,6 +6,15 @@
 
 html, body {
   @apply font-serif bg-dark text-light;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+@media (max-width: 640px) {
+  body {
+    font-size: 1rem;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -134,6 +143,7 @@ h1, h2, h3, h4, h5, h6 {
 .rb-card:hover { @apply border-light; }
 .rb-card-title { @apply text-sm font-semibold; }
 .rb-card-sub { @apply mt-1 text-xs text-light/70; }
+.rb-part { @apply my-48; }
 
 /* Biography title block */
 .rb-title-block {
@@ -171,6 +181,10 @@ h1, h2, h3, h4, h5, h6 {
   pointer-events: none;
 }
 
+.eleventy-plugin-youtube-embed {
+  @apply my-24;
+}
+
 .rb-title-author { @apply text-base text-light; }
 .rb-title-line { @apply text-base text-light; }
 
@@ -193,21 +207,66 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Biography page */
 .rb-bio-page {
-  @apply mx-auto max-w-5xl rounded-2xl border-2 border-light/60 bg-transparent p-5;
+  @apply mx-auto w-full bg-transparent max-w-[65ch];
+  padding: 0;
+  margin: 0 auto;
 }
-.rb-page-meta { @apply mb-4 flex items-center justify-between gap-4; }
+.rb-page-meta { @apply hidden; }
 
 /* Legacy typography cues (from previous repo global.css) */
 .rb-prose { @apply prose prose-invert max-w-none; }
-.rb-prose :where(h1,h2,h3,h4,h5,h6) { color: theme('colors.light'); }
-.rb-prose p { margin-bottom: 1.5em; color: theme('colors.light'); }
+.rb-prose :where(h1,h2,h3,h4,h5,h6) {
+  color: theme('colors.light');
+  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  margin-bottom: 3rem;
+}
+.rb-prose p { margin-bottom: 1.5em; color: theme('colors.light'); white-space: pre-wrap; }
 .rb-prose hr { height: 1px; border: 0; background-color: theme('colors.light'); margin: 0 0 1.5em; opacity: .9; }
 .rb-prose a { color: #4169e1; text-decoration: underline; }
 .rb-prose a:visited { color: #800080; }
 .rb-prose a:hover, .rb-prose a:focus, .rb-prose a:active { color: #191970; }
 
+/* Figures and captions */
+.rb-accordion summary {
+  list-style: none;
+  color: theme('colors.light');
+  font-size: 1.0625rem;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-weight: 400;
+  line-height: 1.7;
+  padding: 0;
+  margin-bottom: 2px;
+}
+.rb-accordion {
+  margin-bottom: 2px;
+  margin-top: 2px;
+  padding: 0;
+/* removed stray closing brace */
+}
+.rb-accordion[open] {
+  border-bottom: 0.5px solid #ccc !important;
+}
+.rb-prose figure {
+  margin: 4em 0;
+}
+.rb-prose img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+  height: auto;
+}
+.rb-prose figcaption {
+  @apply mt-2 text-sm italic text-light/70;
+  text-align: center;
+}
+
 /* Separator motif */
-.rb-sep { @apply mx-auto text-center text-light/80; }
+.rb-sep { 
+  @apply mx-auto my-24 text-center text-light/80 stars;
+}
 
 /* Appendix layout */
 .appendix-layout {
@@ -286,6 +345,43 @@ h1, h2, h3, h4, h5, h6 {
 
 .memories h2 {
   border: 0px !important;
+}
+
+/* Markdown containers for biography pages */
+.rb-center {
+  @apply text-center my-6;
+}
+
+.rb-indent {
+  @apply my-4;
+  padding-left: 2em;
+}
+
+.rb-poem::before, .rb-poem::after {
+  content: '*';
+  display: block;
+  text-align: center;
+  font-size: 48px;
+  margin: 12px 0px
+}
+
+.rb-poem {
+  @apply my-6 italic;
+  text-align: center;
+  @apply my-28;
+}
+
+.rb-poem p {
+  @apply my-6;
+}
+
+.rb-video {
+  @apply my-6 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30;
+}
+
+.rb-video iframe,
+.rb-video video {
+  @apply w-full aspect-video;
 }
 
 /* Mobile */
