@@ -33,10 +33,30 @@ md.use(markdownItContainer, 'center', {
   }
 });
 
+md.use(markdownItContainer, 'minne', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-minne">\n';
+    } else {
+      return '</div>\n';
+    }
+  }
+});
+
+md.use(markdownItContainer, 'quote', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<blockquote class="rb-quote">\n';
+    } else {
+      return '</blockquote>\n';
+    }
+  }
+});
+
 md.use(markdownItContainer, 'part', {
   render: function (tokens, idx) {
     if (tokens[idx].nesting === 1) {
-      return '<div class="rb-part"><img src="/assets/images/divider.svg" class="mx-auto w-auto h-[200px]" /></div>\n';
+      return '<div class="rb-part"><img style="border: none; width: 68px !important; height: auto;" src="/assets/images/divider.png" class="mx-auto"></div>\n';
     } else {
       return '';
     }
@@ -95,10 +115,10 @@ md.use(markdownItContainer, 'accordion', {
         tokens[i].content = '';
       }
 
-      return `<details class="rb-accordion" style="border-top:0.5px solid #ccc;border-bottom:0.5px solid #ccc;">
+      return `<div class="w-full gap-1"><span class="read-more">Läs mer</span><details class="rb-accordion" style="border-top:0.5px solid #ccc;border-bottom:0.5px solid #ccc;">
         <summary>${md.renderInline(summary)}</summary>
         <div class="rb-accordion-content">${contentHtml}</div>
-      </details>`;
+      </details></div>\n`;
     } else {
       return '';
     }

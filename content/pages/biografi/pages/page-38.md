@@ -22,7 +22,7 @@ Själv vill jag tatuera mig.
 Min polare Ove Enervald, som nu går på Konstakademien, har gjort en stram, vacker etsning av en svart femuddig stjärna.
 :::
 
-![181.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/181.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/181.png)
 
 Vi bestämmer oss för att tatuera in en motsvarande stjärna på våra över armar. I Nyhavn i Köpenhamn, hos den illustre Tattoo Jack. I en second-handbutik på Högbergsgatan köper vi tvåsidlånga svarta rockar, tvåvackra hawaiislipsar (min ska jag skänka till poeten Allen Ginsberg en frukost i Colorado många år senare) och tvåturochreturbiljetter. Under tågresan filmar vi rakt ut genom kupéfönstret hela vägen ner (någraår innan har Andy Warhol filmat sin sovandeälskare Giorno i drygt fem timmar, allt är möjligt). Väl hemma konstaterar vi en flummig natt att tågfilmen förmodligen är världens i särklass tråkigaste rulle.
 ::: indent
@@ -53,7 +53,7 @@ Jag har funderat på det, lockelsen i just den symbolen. Anarki? När David Bowi
 En bit hud som hänger ihop med en död vän och en tågresa.
 :::
 
-![157.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/157.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/157.png)
 
 Förövrigt den enda tatuering jag har (på utsidan).
 
@@ -62,6 +62,6 @@ Jag kör mer och mer taxi, mår så där, försöker fungera som ” frånvarand
 Samtidigt: Carsten och jag blir ombedda att göra en kortfilm för tv, en barnfilm. Vi spelar in den i en trädgård i Djursholm och döper den till ” *Bobo* ”.
 :::
 
-![44.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/44.png)
+![En dag på jobbet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/44.png)
 
 Filmen är tio minuter lång, svartvit, och sänds i SVT. Vår första tv-produktion.

@@ -697,6 +697,10 @@ video {
   display: none;
 }
 
+.h-\[56px\] {
+  height: 56px;
+}
+
 .h-\[98px\] {
   height: 98px;
 }
@@ -940,6 +944,13 @@ video {
 
 :root {
   color-scheme: dark;
+  --header-h: 56px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --header-h: 98px;
+  }
 }
 
 html, body {
@@ -953,6 +964,15 @@ html, body {
   font-weight: 400;
 }
 
+body {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(/assets/images/noise-light.png) top left repeat;
+}
+
 @media (max-width: 640px) {
   body {
     font-size: 1rem;
@@ -964,7 +984,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .h-full {
-  height: calc(100vh - 98px);
+  height: calc(100vh - var(--header-h));
 }
 
 /* Hub background: video + pattern overlay */
@@ -1135,7 +1155,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
   padding: 1rem;
   text-decoration-line: none;
-  height: calc(100vh - 98px);
+  height: calc(100vh - var(--header-h));
   box-shadow: 0 0 0 1px rgba(255,255,255,0.04) inset;
 }
 
@@ -1159,7 +1179,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .rb-part {
   margin-top: 12rem;
-  margin-bottom: 12rem;
+  margin-bottom: 6rem;
 }
 
 /* Biography title block */
@@ -1168,7 +1188,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  height: calc(100vh - 98px);
+  height: calc(100vh - var(--header-h));
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1226,6 +1246,8 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgb(28 29 30 / 0.9);
   --tw-text-opacity: 1;
   color: rgb(253 249 240 / var(--tw-text-opacity, 1));
+  background-color: rgb(28 29 30 / 0.95);
+  backdrop-filter: blur(8px);
 }
 
 .rb-page-input {
@@ -1890,6 +1912,16 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Figures and captions */
 
+.read-more {
+  margin-bottom: 0.25rem;
+  display: inline-block;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 300;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
 .rb-accordion summary {
   list-style: none;
   color: #fdf9f0;
@@ -1904,12 +1936,30 @@ h1, h2, h3, h4, h5, h6 {
 .rb-accordion {
   margin-bottom: 2px;
   margin-top: 2px;
-  padding: 0;
-  /* removed stray closing brace */
+  padding: 0 4px;
+  background-color: rgb(28, 29, 30);
 }
 
 .rb-accordion[open] {
   border-bottom: 0.5px solid #ccc !important;
+}
+
+.rb-minne {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: rgb(28, 29, 30);
+}
+
+.rb-quote {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  --tw-border-opacity: 1;
+  border-color: rgb(253 249 240 / var(--tw-border-opacity, 1));
+  padding: 1rem;
+  padding-left: 1rem;
+  font-style: italic;
+  border-left: 0.5px solid;
 }
 
 .rb-prose figure {
@@ -1917,10 +1967,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .rb-prose img {
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px;
+  max-width: 450px;
   height: auto;
 }
 
@@ -1956,7 +2009,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .appendix-nav {
   position: sticky;
-  top: 98px;
+  top: var(--header-h);
   z-index: 40;
   background-color: rgb(28 29 30 / 0.95);
   backdrop-filter: blur(8px);
@@ -2057,10 +2110,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .rb-poem::before, .rb-poem::after {
-  content: '*';
+  content: '***';
   display: block;
   text-align: center;
-  font-size: 48px;
+  font-size: 32px;
   margin: 12px 0px
 }
 
@@ -2111,3 +2164,10 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+@media (min-width: 768px) {
+  .md\:h-\[98px\] {
+    height: 98px;
+  }
+}
+

@@ -76,7 +76,9 @@ Vi fullföljer inte projektet.
 LP-boken publiceras aldrig (jag använder senare idén bok/lp till min roman ” *Persona Non Grata* ” 1977).
 :::
 
-Det häråret, 1968, domineras av våldsamma proteströrelser över stora delar av västvärlden. Delvis politiskt betingade, delvis sprungna ur ett legitimt behov av att ifrågasätta och förändra det bestående. Här hemma försöker utbildningsministern Olof Palme förklara för ett antal studenter på Stockholms universitet vad den nya studieordningen UKAS innebär.
+::: part
+:::
+Det här året, 1968, domineras av våldsamma proteströrelser över stora delar av västvärlden. Delvis politiskt betingade, delvis sprungna ur ett legitimt behov av att ifrågasätta och förändra det bestående. Här hemma försöker utbildningsministern Olof Palme förklara för ett antal studenter på Stockholms universitet vad den nya studieordningen UKAS innebär.
 ::: indent
 – Det är inte ett sätt för staten att toppstyra högskolorna!
 :::

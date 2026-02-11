@@ -18,7 +18,7 @@ Det kröker hans rygg.
 :::
 
 ::: indent
-Minne av morfar: Han kommer hem efter en lång dag påvarvet, skär en bred skiva sidfläsk, äter skivan, lägger sig påsoffan med kvällstidningen över ansiktet och snarkar inom en minut. Jag står gömd bakom dörrkarmen och iakttar hur tidningen svävar upp i luften några centimeter vid varje snarkning, dallrar en stund och sänker sig över ansiktet igen.
+Minne av morfar: Han kommer hem efter en lång dag påvarvet, skär en bred skiva sidfläsk, äter skivan, lägger sig påsoffan med kvällstidningen över ansiktet och snarkar inom en minut. Jag står gömd bakom dörrkarmen och iakttar hur tidningen svävar upp i luften några centimeter vid varje snarkning, dallrar en stund och sänker sig över ansiktet igen©.
 :::
 
 ::: indent

@@ -33,4 +33,4 @@ Alla deltagare påbiennalen får utforma ett eget vykort som inbjudan till utst�
 
 Med en text påbaksidan:
 
-**”Om vi hade behövt tid, hade vi behövt dagar, kvällar, timmar, om vi hade behövt morgnarna hade vi hämtat dom. Därute står natten och hoppar, vi betraktar den från balkongen och garvar. Tid är sience fiction. **
+**”Om vi hade behövt tid, hade vi behövt dagar, kvällar, timmar, om vi hade behövt morgnarna hade vi hämtat dom. Därute står natten och hoppar, vi betraktar den från balkongen och garvar. Tid är sience fiction.**
