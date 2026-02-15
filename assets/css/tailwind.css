@@ -245,12 +245,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   .rb-bio-page {
-    padding-left: 8px;
-    padding-right: 8px;
-  }
-
-  .rb-bio-page .rb-prose p {
-    padding-right: 8px;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 16px;
+    padding-right: 24px;
   }
 }
 
