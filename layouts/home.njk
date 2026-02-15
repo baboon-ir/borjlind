@@ -7,6 +7,19 @@ mainClass: "h-full flex items-center justify-center"
 <video class="rb-hub-video" autoplay muted loop playsinline>
   <source src="https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/vid/bongo.mp4" type="video/mp4">
 </video>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var v = document.querySelector('.rb-hub-video');
+    if (!v) return;
+    v.muted = true;
+    v.play().catch(function () {
+      document.addEventListener('touchstart', function once() {
+        v.play();
+        document.removeEventListener('touchstart', once);
+      });
+    });
+  });
+</script>
 <div class="rb-hub-overlay"></div>
 
 <section class="rb-hero">
