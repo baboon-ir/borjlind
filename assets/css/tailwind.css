@@ -245,18 +245,81 @@ h1, h2, h3, h4, h5, h6 {
 .rb-page-meta { @apply hidden; }
 
 @media (max-width: 768px) {
+  /* Container: full width, prevent any overflow */
   .rb-bio-page {
+    max-width: 100vw;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+
+  /* All block children: never exceed parent */
+  .rb-bio-page .rb-prose {
+    max-width: 100%;
+  }
+  .rb-bio-page .rb-prose > * {
     max-width: 100%;
   }
 
+  /* Paragraphs: padding for text inset */
   .rb-bio-page .rb-prose p {
     padding-left: 16px;
     padding-right: 24px;
   }
 
+  /* Indent: keep indent + text padding */
   .rb-bio-page .rb-prose .rb-indent {
     padding-left: calc(2em + 16px);
     padding-right: 24px;
+  }
+
+  /* Figures & images: contained */
+  .rb-bio-page .rb-prose figure {
+    max-width: 100%;
+    padding-left: 16px;
+    padding-right: 24px;
+  }
+
+  /* Accordion: contained */
+  .rb-bio-page .rb-accordion,
+  .rb-bio-page details {
+    max-width: 100%;
+    padding-left: 16px;
+    padding-right: 24px;
+  }
+
+  /* Headings: same padding as paragraphs */
+  .rb-bio-page .rb-prose :where(h1,h2,h3,h4,h5,h6) {
+    padding-left: 16px;
+    padding-right: 24px;
+  }
+
+  /* Poem: contained */
+  .rb-bio-page .rb-prose .rb-poem {
+    padding-left: 16px;
+    padding-right: 24px;
+  }
+
+  /* Quote: contained */
+  .rb-bio-page .rb-prose .rb-quote {
+    margin-left: 16px;
+    margin-right: 24px;
+  }
+
+  /* Minne: contained */
+  .rb-bio-page .rb-prose .rb-minne {
+    margin-left: 16px;
+    margin-right: 24px;
+  }
+
+  /* HR */
+  .rb-bio-page .rb-prose hr {
+    margin-left: 16px;
+    margin-right: 24px;
+  }
+
+  /* Part divider */
+  .rb-bio-page .rb-part {
+    max-width: 100%;
   }
 }
 
