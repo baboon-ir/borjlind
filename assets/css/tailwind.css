@@ -235,21 +235,25 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Biography page */
 .rb-bio-page {
-  @apply mx-auto w-full bg-transparent max-w-[65ch];
-  padding: 0;
+  @apply w-full bg-transparent;
+  max-width: 65ch;
+  padding: 0 16px;
   margin: 0 auto;
   content-visibility: auto;
   contain-intrinsic-size: auto 800px;
+  overflow-x: hidden;
 }
 .rb-page-meta { @apply hidden; }
 
 @media (max-width: 768px) {
   .rb-bio-page {
     max-width: 100%;
-    margin-left: 0;
-    margin-right: 0;
     padding-left: 16px;
     padding-right: 24px;
+  }
+
+  .rb-prose img {
+    max-width: 100%;
   }
 }
 

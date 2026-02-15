@@ -1,6 +1,6 @@
 {# expects: page (object with data.page, data.anchor, templateContent) #}
 {% set pageNum = page.data.page.number or page.data.pageNum or page.data.pageNumber %}
-<section id="{{ page.data.anchor }}" data-page="{{ pageNum }}" class="rb-bio-page max-w-[65ch]! py-12 scroll-mt-32 m-12">
+<section id="{{ page.data.anchor }}" data-page="{{ pageNum }}" class="rb-bio-page py-12 scroll-mt-32">
   <div class="rb-page-meta">
     <div class="text-xs font-mono text-light/60">Page {{ pageNum }}/276</div>
     <a class="text-xs font-mono text-light/60 no-underline" href="#{{ page.data.anchor }}">#{{ page.data.anchor }}</a>
