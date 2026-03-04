@@ -27,7 +27,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. Every page looks visually identical to the Tailwind version (colours, typography, spacing, layout)
   3. `package.json` contains no reference to `tailwindcss`, `postcss`, or `autoprefixer`
   4. A single `assets/css/main.css` file using CSS custom properties replaces all Tailwind output
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Write hand-written assets/css/main.css with CSS custom properties, reset, and all component rules
+- [ ] 01-02-PLAN.md — Update all templates and .eleventy.js to semantic classes, remove Tailwind infrastructure
 
 ### Phase 2: E-book Reader
 **Goal**: Users can read the 276-page biography one page at a time, navigating by swipe, button, or keyboard, with a year-structured table of contents and persistent reading position.
@@ -59,6 +63,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. CSS Foundation | 0/? | Not started | - |
+| 1. CSS Foundation | 0/2 | Not started | - |
 | 2. E-book Reader | 0/? | Not started | - |
 | 3. Design Polish | 0/? | Not started | - |
