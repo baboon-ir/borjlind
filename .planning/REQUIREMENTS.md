@@ -7,10 +7,10 @@
 
 ### CSS-fundament (Tailwind-borttagning)
 
-- [ ] **CSS-01**: Tailwind CSS (PostCSS-pipeline, alla `@apply`-direktiv, `prose`-klasser) är borttaget från projektet
+- [x] **CSS-01**: Tailwind CSS (PostCSS-pipeline, alla `@apply`-direktiv, `prose`-klasser) är borttaget från projektet
 - [x] **CSS-02**: Plain CSS-fil ersätter Tailwind — innehåller CSS reset (ersätter Tailwind preflight) och all befintlig styling
 - [x] **CSS-03**: CSS custom properties definierar färgpalett och typsnitt (ersätter `tailwind.config.cjs` theme-värden)
-- [ ] **CSS-04**: Visuell paritet med nuvarande design — inget ska se annorlunda ut efter migreringen (undantaget intentionella ändringar i fas 2)
+- [x] **CSS-04**: Visuell paritet med nuvarande design — inget ska se annorlunda ut efter migreringen (undantaget intentionella ändringar i fas 2)
 
 ### Läsoptimerad design
 
@@ -75,10 +75,10 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CSS-01 | Phase 1 | Pending |
+| CSS-01 | Phase 1 | Complete |
 | CSS-02 | Phase 1 | Complete |
 | CSS-03 | Phase 1 | Complete |
-| CSS-04 | Phase 1 | Pending |
+| CSS-04 | Phase 1 | Complete |
 | DESIGN-01 | Phase 3 | Pending |
 | DESIGN-02 | Phase 3 | Pending |
 | DESIGN-03 | Phase 3 | Pending |

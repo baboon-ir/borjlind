@@ -12,7 +12,7 @@ The existing Eleventy biography is a vertical-scroll experience with Tailwind CS
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: CSS Foundation** - Remove Tailwind, replace with plain CSS — zero build dependencies, visual parity
+- [x] **Phase 1: CSS Foundation** - Remove Tailwind, replace with plain CSS — zero build dependencies, visual parity (completed 2026-03-04)
 - [ ] **Phase 2: E-book Reader** - Paged reading experience with swipe, keyboard, TOC, and year navigation
 - [ ] **Phase 3: Design Polish** - Reading-optimised typography, colour, spacing — production-ready aesthetics
 
@@ -63,6 +63,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. CSS Foundation | 1/2 | In Progress|  |
+| 1. CSS Foundation | 2/2 | Complete   | 2026-03-04 |
 | 2. E-book Reader | 0/? | Not started | - |
 | 3. Design Polish | 0/? | Not started | - |

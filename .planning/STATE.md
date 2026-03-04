@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 01-css-foundation Plan 01 — assets/css/main.css written
-last_updated: "2026-03-04T15:27:06.689Z"
+stopped_at: Completed 01-css-foundation Plan 02 — awaiting human-verify checkpoint
+last_updated: "2026-03-04T21:39:37.144Z"
 last_activity: 2026-03-04 — Roadmap created, 27 v1 requirements mapped to 3 phases
 progress:
   total_phases: 3
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 2
-  completed_plans: 1
+  completed_plans: 2
   percent: 50
 ---
 
@@ -51,6 +51,7 @@ Progress: [█████░░░░░] 50%
 
 *Updated after each plan completion*
 | Phase 01-css-foundation P01 | 4 | 1 tasks | 2 files |
+| Phase 01-css-foundation P02 | 10 | 2 tasks | 14 files |
 
 ## Accumulated Context
 
@@ -65,6 +66,8 @@ Recent decisions affecting current work:
 - [Phase 01-css-foundation]: CSS custom properties declared in :root for brand colors and font stacks — all component rules reference these variables
 - [Phase 01-css-foundation]: Prose typography rules derived from compiled Tailwind output (prose-invert) to preserve visual parity without @apply prose prose-invert
 - [Phase 01-css-foundation]: Added .planning/** to eleventyConfig.ignores to prevent Eleventy from parsing planning files as Nunjucks templates
+- [Phase 01-css-foundation]: Templates only carry semantic rb-* names — no utility class strings in any .njk or .eleventy.js class attributes
+- [Phase 01-css-foundation]: npm-run-all removed with Tailwind — site builds with single eleventy command, no CSS pipeline
 
 ### Pending Todos
 
@@ -77,6 +80,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-04T15:27:06.687Z
-Stopped at: Completed 01-css-foundation Plan 01 — assets/css/main.css written
+Last session: 2026-03-04T21:39:37.142Z
+Stopped at: Completed 01-css-foundation Plan 02 — awaiting human-verify checkpoint
 Resume file: None
