@@ -292,6 +292,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("docs/**");
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("**/.trash_restructure/**");
+  eleventyConfig.ignores.add(".planning/**");
 
   // Set custom markdown library with container support
   eleventyConfig.setLibrary("md", md);
