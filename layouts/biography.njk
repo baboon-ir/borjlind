@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-bodyClass: bg-dark text-light
-mainClass: "mw-full pt-0!"
+bodyClass: ""
+mainClass: "rb-main-full"
 ---
 <section class="rb-title-block">
   <div class="rb-title-author">Rolf Börjlind</div>
@@ -10,7 +10,7 @@ mainClass: "mw-full pt-0!"
 
 {% include "bio-controls.njk" %}
 
-<div class="mt-10 grid" data-bio-pages>
+<div class="rb-bio-container" data-bio-pages>
   {% for p in collections.biografiAll %}
     {% set page = p %}
     {% include "bio-page.njk" %}

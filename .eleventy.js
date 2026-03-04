@@ -56,7 +56,7 @@ md.use(markdownItContainer, 'quote', {
 md.use(markdownItContainer, 'part', {
   render: function (tokens, idx) {
     if (tokens[idx].nesting === 1) {
-      return '<div class="rb-part"><img style="border: none; width: 68px !important; height: auto;" src="/assets/images/divider.png" class="mx-auto"></div>\n';
+      return '<div class="rb-part"><img style="border: none; width: 68px !important; height: auto; display: block; margin: 0 auto;" src="/assets/images/divider.png"></div>\n';
     } else {
       return '';
     }
@@ -188,9 +188,9 @@ function renderBio(text) {
           const ytId = url.match(/(?:v=|youtu.be\/|embed\/)([\w-]+)/);
           const id = ytId ? ytId[1] : '';
           if (!id) return '';
-          return `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30"><div class="aspect-video"><iframe class="h-full w-full" src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
+          return `<div class="rb-yt-embed"><div class="rb-yt-embed-ratio"><iframe src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
         });
-        renderedSections.push(`<div class="prose-dark">${md.render(before)}</div>`);
+        renderedSections.push(`<div class="rb-prose">${md.render(before)}</div>`);
       }
       // Render the div section with custom styling
       let sectionContent = match[1].trim();
@@ -198,9 +198,9 @@ function renderBio(text) {
         const ytId = url.match(/(?:v=|youtu.be\/|embed\/)([\w-]+)/);
         const id = ytId ? ytId[1] : '';
         if (!id) return '';
-        return `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30"><div class="aspect-video"><iframe class="h-full w-full" src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
+        return `<div class="rb-yt-embed"><div class="rb-yt-embed-ratio"><iframe src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
       });
-      renderedSections.push(`<div class="rb-section prose-dark">${md.render(sectionContent)}</div>`);
+      renderedSections.push(`<div class="rb-section rb-prose">${md.render(sectionContent)}</div>`);
       lastIndex = divSectionRegex.lastIndex;
     }
     // Render any remaining content after the last div
@@ -210,9 +210,9 @@ function renderBio(text) {
         const ytId = url.match(/(?:v=|youtu.be\/|embed\/)([\w-]+)/);
         const id = ytId ? ytId[1] : '';
         if (!id) return '';
-        return `<div class="my-5 overflow-hidden rounded-2xl border border-zinc-800 bg-black/30"><div class="aspect-video"><iframe class="h-full w-full" src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
+        return `<div class="rb-yt-embed"><div class="rb-yt-embed-ratio"><iframe src="https://www.youtube.com/embed/${id}" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>`;
       });
-      renderedSections.push(`<div class="prose-dark">${md.render(after)}</div>`);
+      renderedSections.push(`<div class="rb-prose">${md.render(after)}</div>`);
     }
     return renderedSections.join("\n");
   };
@@ -223,9 +223,9 @@ function renderBio(text) {
   const moreHtml = renderChunk(more);
   return (
     mainHtml +
-    `<details class="mt-6 rounded-2xl border border-zinc-800 bg-black/30 p-4">` +
-      `<summary class="cursor-pointer select-none text-sm text-zinc-200">Mer</summary>` +
-      `<div class="mt-4">${moreHtml}</div>` +
+    `<details class="rb-more-block">` +
+      `<summary class="rb-more-summary">Mer</summary>` +
+      `<div class="rb-more-content">${moreHtml}</div>` +
     `</details>`
   );
 }

@@ -11,11 +11,11 @@ mainClass: ""
 </nav>
 
 <div class="appendix-layout">
-  <div class="mx-auto max-w-5xl px-4 pt-2 pb-6">
-    <h1 class="text-6xl font-bold mb-4 lowercase">{{ title }}</h1>
-    {% if description %}<p class="text-lg">{{ description }}</p>{% endif %}
+  <div class="rb-page-title-wrap">
+    <h1 class="rb-page-h1">{{ title }}</h1>
+    {% if description %}<p class="rb-page-desc">{{ description }}</p>{% endif %}
   </div>
-  <div class="px-4">
+  <div class="rb-page-content">
     <div class="appendix-content memories text-center">
       {{ content | safe }}
     </div>
