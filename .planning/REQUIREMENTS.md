@@ -73,22 +73,41 @@
 
 ## Traceability
 
-Fylls i under roadmap-skapandet.
-
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| CSS-01–04 | — | Pending |
-| DESIGN-01–07 | — | Pending |
-| READER-01–09 | — | Pending |
-| NAV-01–04 | — | Pending |
-| LAYOUT-01–02 | — | Pending |
-| TECH-01 | — | Pending |
+| CSS-01 | Phase 1 | Pending |
+| CSS-02 | Phase 1 | Pending |
+| CSS-03 | Phase 1 | Pending |
+| CSS-04 | Phase 1 | Pending |
+| DESIGN-01 | Phase 3 | Pending |
+| DESIGN-02 | Phase 3 | Pending |
+| DESIGN-03 | Phase 3 | Pending |
+| DESIGN-04 | Phase 3 | Pending |
+| DESIGN-05 | Phase 3 | Pending |
+| DESIGN-06 | Phase 3 | Pending |
+| DESIGN-07 | Phase 3 | Pending |
+| READER-01 | Phase 2 | Pending |
+| READER-02 | Phase 2 | Pending |
+| READER-03 | Phase 2 | Pending |
+| READER-04 | Phase 2 | Pending |
+| READER-05 | Phase 2 | Pending |
+| READER-06 | Phase 2 | Pending |
+| READER-07 | Phase 2 | Pending |
+| READER-08 | Phase 2 | Pending |
+| READER-09 | Phase 2 | Pending |
+| NAV-01 | Phase 2 | Pending |
+| NAV-02 | Phase 2 | Pending |
+| NAV-03 | Phase 2 | Pending |
+| NAV-04 | Phase 2 | Pending |
+| LAYOUT-01 | Phase 2 | Pending |
+| LAYOUT-02 | Phase 2 | Pending |
+| TECH-01 | Phase 2 | Pending |
 
 **Coverage:**
 - v1 requirements: 27 total
-- Mapped to phases: 0
-- Unmapped: 27 ⚠️
+- Mapped to phases: 27
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-04*
-*Last updated: 2026-03-04 after initial definition*
+*Last updated: 2026-03-04 after roadmap creation — all requirements mapped*
