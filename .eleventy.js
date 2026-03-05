@@ -156,6 +156,7 @@ md.use(markdownItContainer, 'video', {
 });
 
 const pad3 = (n) => String(n).padStart(3, "0");
+const TOTAL_PAGES = 276; // single source of truth — TECH-01
 
 function escapeAttr(s) {
   return String(s)
@@ -265,7 +266,7 @@ module.exports = function (eleventyConfig) {
     }
 
     const out = [];
-    for (let n = 1; n <= 276; n++) {
+    for (let n = 1; n <= TOTAL_PAGES; n++) {
       const found = byNum.get(n);
       if (found) {
         out.push(found);
@@ -282,11 +283,17 @@ module.exports = function (eleventyConfig) {
   // Redirect pagination data (1..276)
   eleventyConfig.addGlobalData("bioRedirectPages", () => {
     const arr = [];
-    for (let i = 1; i <= 276; i++) {
+    for (let i = 1; i <= TOTAL_PAGES; i++) {
       arr.push({ page: i, anchor: `p-${pad3(i)}` });
     }
     return arr;
   });
+
+  // TECH-01: expose total page count to templates and JS
+  eleventyConfig.addGlobalData("TOTAL_PAGES", TOTAL_PAGES);
+
+  // NAV-02: safe JSON serialization for inline script tags
+  eleventyConfig.addFilter("json", (val) => JSON.stringify(val));
 
   // Ignore non-site markdown
   eleventyConfig.ignores.add("docs/**");
