@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 02-ebook-reader plan 01 (TECH-01 foundation)
-last_updated: "2026-03-05T15:49:02.778Z"
+stopped_at: Completed 02-ebook-reader plan 04 (paged reader controller)
+last_updated: "2026-03-05T16:11:31.564Z"
 last_activity: 2026-03-04 — Roadmap created, 27 v1 requirements mapped to 3 phases
 progress:
   total_phases: 3
   completed_phases: 1
   total_plans: 8
-  completed_plans: 4
+  completed_plans: 5
   percent: 50
 ---
 
@@ -54,6 +54,7 @@ Progress: [█████░░░░░] 50%
 | Phase 01-css-foundation P02 | 10 | 2 tasks | 14 files |
 | Phase 02-ebook-reader P02 | 10 | 1 tasks | 277 files |
 | Phase 02-ebook-reader P01 | 16 | 2 tasks | 2 files |
+| Phase 02-ebook-reader P04 | 19 | 1 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -75,6 +76,8 @@ Recent decisions affecting current work:
 - [Phase 02-ebook-reader]: Migration script deleted after run; check-frontmatter.js kept as permanent verification tool
 - [Phase 02-ebook-reader]: TOTAL_PAGES constant at module level in .eleventy.js drives all loop bounds and is exposed via addGlobalData to all Nunjucks templates
 - [Phase 02-ebook-reader]: Kept existing check-frontmatter.js unchanged — already present and more capable than spec; all 276 biography pages already had yearGroup frontmatter
+- [Phase 02-ebook-reader]: bio:page key stores plain integer string (not JSON) — simpler persistence than old bio:last scroll payload
+- [Phase 02-ebook-reader]: TOTAL_PAGES reads from container data-total attribute with 276 as fallback — no hardcoded value in logic paths
 
 ### Pending Todos
 
@@ -87,6 +90,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-05T15:49:02.776Z
-Stopped at: Completed 02-ebook-reader plan 01 (TECH-01 foundation)
+Last session: 2026-03-05T16:11:31.561Z
+Stopped at: Completed 02-ebook-reader plan 04 (paged reader controller)
 Resume file: None

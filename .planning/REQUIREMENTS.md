@@ -24,22 +24,22 @@
 
 ### E-boksläsare — sidnavigation
 
-- [ ] **READER-01**: En sida visas åt gången — synlighetsmodell (JS-kontrollerad), inte scroll
-- [ ] **READER-02**: Svep vänster/höger med Pointer Events API navigerar till nästa/föregående sida
-- [ ] **READER-03**: iOS Safari kantsvep hanteras korrekt (`touch-action: pan-y`, riktningsvinkelkontroll)
-- [ ] **READER-04**: Knappar (pil vänster/höger) navigerar sida — synliga på både mobil och desktop
-- [ ] **READER-05**: Tangentbordsnavigation — piltangenter vänster/höger byter sida
-- [ ] **READER-06**: Sidindikator visar aktuell sida och totalt antal ("12 / 276")
-- [ ] **READER-07**: Läsposition sparas i localStorage och återställs vid nästa besök
-- [ ] **READER-08**: Läsarcontainer använder `100dvh` (inte `100vh`) — löser iOS Safari webbläsar-chrome-problem
-- [ ] **READER-09**: Befintlig `bio-reader.js` ersätts helt med ny sidstyrningscontroller (scroll-modell tas bort)
+- [x] **READER-01**: En sida visas åt gången — synlighetsmodell (JS-kontrollerad), inte scroll
+- [x] **READER-02**: Svep vänster/höger med Pointer Events API navigerar till nästa/föregående sida
+- [x] **READER-03**: iOS Safari kantsvep hanteras korrekt (`touch-action: pan-y`, riktningsvinkelkontroll)
+- [x] **READER-04**: Knappar (pil vänster/höger) navigerar sida — synliga på både mobil och desktop
+- [x] **READER-05**: Tangentbordsnavigation — piltangenter vänster/höger byter sida
+- [x] **READER-06**: Sidindikator visar aktuell sida och totalt antal ("12 / 276")
+- [x] **READER-07**: Läsposition sparas i localStorage och återställs vid nästa besök
+- [x] **READER-08**: Läsarcontainer använder `100dvh` (inte `100vh`) — löser iOS Safari webbläsar-chrome-problem
+- [x] **READER-09**: Befintlig `bio-reader.js` ersätts helt med ny sidstyrningscontroller (scroll-modell tas bort)
 
 ### E-boksläsare — årsnavigation
 
 - [x] **NAV-01**: `yearGroup`-metadata läggs till i frontmatter på varje biografisida (innehållsbeslut — vilka sidor tillhör vilket årsintervall)
 - [ ] **NAV-02**: Eleventy exponerar årsindelningsdata som global data vid build-time (bakat in i HTML, ingen runtime-fetch)
 - [ ] **NAV-03**: Innehållsförteckning (panel eller overlay) listar alla årsperioder och låter användaren hoppa direkt till en period
-- [ ] **NAV-04**: Aktuell årsperiod indikeras visuellt under läsning (uppdateras när sida byter)
+- [x] **NAV-04**: Aktuell årsperiod indikeras visuellt under läsning (uppdateras när sida byter)
 
 ### Sidlayout — rikt innehåll
 
@@ -86,19 +86,19 @@
 | DESIGN-05 | Phase 3 | Pending |
 | DESIGN-06 | Phase 3 | Pending |
 | DESIGN-07 | Phase 3 | Pending |
-| READER-01 | Phase 2 | Pending |
-| READER-02 | Phase 2 | Pending |
-| READER-03 | Phase 2 | Pending |
-| READER-04 | Phase 2 | Pending |
-| READER-05 | Phase 2 | Pending |
-| READER-06 | Phase 2 | Pending |
-| READER-07 | Phase 2 | Pending |
-| READER-08 | Phase 2 | Pending |
-| READER-09 | Phase 2 | Pending |
+| READER-01 | Phase 2 | Complete |
+| READER-02 | Phase 2 | Complete |
+| READER-03 | Phase 2 | Complete |
+| READER-04 | Phase 2 | Complete |
+| READER-05 | Phase 2 | Complete |
+| READER-06 | Phase 2 | Complete |
+| READER-07 | Phase 2 | Complete |
+| READER-08 | Phase 2 | Complete |
+| READER-09 | Phase 2 | Complete |
 | NAV-01 | Phase 2 | Complete |
 | NAV-02 | Phase 2 | Pending |
 | NAV-03 | Phase 2 | Pending |
-| NAV-04 | Phase 2 | Pending |
+| NAV-04 | Phase 2 | Complete |
 | LAYOUT-01 | Phase 2 | Pending |
 | LAYOUT-02 | Phase 2 | Pending |
 | TECH-01 | Phase 2 | Complete |
