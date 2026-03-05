@@ -5,6 +5,7 @@ anchor: p-218
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Lite skojigt mellanjobb: Gösta ska uppträda med manskören Orphei Drängar i Uppsala. Oannonserad. Detälskar han.
 ::: indent

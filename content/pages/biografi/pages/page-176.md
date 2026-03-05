@@ -5,6 +5,7 @@ anchor: p-176
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Och Gösta? Ja, eftersom han inte lever längre kan jag inte fråga honom, men jag har inget minne av att vi har några längre samtal om manuset. Kanske är han artig?
 ::: indent

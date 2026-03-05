@@ -5,6 +5,7 @@ anchor: p-139
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Det är filmproducenten Bosse Jonsson som ringer. Mitt manus till ” *Kocken* ” (som han tydligen har läst)  har gjort intryck på honom. Han förklarar att han driver Viking Film, ett produktionsbolag, och vill träffas.
 ::: indent

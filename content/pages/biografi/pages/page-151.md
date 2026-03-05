@@ -5,6 +5,7 @@ anchor: p-151
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Men innan dess ringer Gösta Ekman igen. Han undrar om jag vill komma ner till hans lantställe i Sälshög utanför Tomelilla. Han och Mats Arehn har presenterat ett program för slag till SVT, dom vill göra ett antal kortfilmer med Göstas karaktär Papphammar. Nu behöver Gösta ett bollplank, behöver testa sina idéer.
 ::: indent

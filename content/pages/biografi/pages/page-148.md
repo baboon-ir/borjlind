@@ -5,6 +5,7 @@ anchor: p-148
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 Programmet får namnet ” *Klockan klämtar för dig* ”, är en framtidsvision och skrivs i samarbete med Lars-Ragnar Forssberg. Direkt efter sändningen, en fredagskväll, utbryter en våldsam ” folkstorm ”. Skälet är huvudsakligen ett inslag om Marcus Wallenberg. Vi har skildrat hans likvaka i ett av SE-bankens marmorvalv:

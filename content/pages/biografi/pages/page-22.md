@@ -5,6 +5,7 @@ anchor: p-022
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ![Självporträtt CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/147.png)
 

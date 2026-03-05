@@ -5,6 +5,7 @@ anchor: p-085
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Påtoaletten står det, snett intill spegeln: ” San Francisco had one good poet - he hung himself. ”

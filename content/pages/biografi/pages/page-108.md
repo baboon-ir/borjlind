@@ -5,6 +5,7 @@ anchor: p-108
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Det var här det hände.

@@ -5,6 +5,7 @@ anchor: p-097
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 Vi åker igenom Palm Springs. Indio. Svänger av vid Desert Shores, ner mot Salton Sea. En insjöi Kalifornien. Kör längs en fullständigt förtorkad, ödslig väg, ner till stranden. Går ur. Längst stranden står några slitna, permanenta husbilar intill en liten bar - Helenas Bar. Vi svimmar nästan av värmen, marken går inte att gåpåutan skor. Vi går ner till vattnet och sticker ner fötterna - det är som att sticka ner dom i kokande kastrullvatten. Längs hela kanten ligger döda fiskar och vaggar i marvattnet, stanken är påfrestande. Vi går upp till Helenas Bar. Ett slags ombyggt skjul. Inne i baren är det mörkt, flaskor, en jukebox, en stor kraftig kvinna som förmodligen är Helena. Vi beställer varsin coke. Det sitter tre män i baren och stirrar rakt fram.
 ::: indent

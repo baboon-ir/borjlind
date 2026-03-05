@@ -5,6 +5,7 @@ anchor: p-155
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Föreställningenöppnar med en prolog av den heltatuerade kroppspoeten Lars Wellström, endast iförd stringtrosor:
 

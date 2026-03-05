@@ -5,6 +5,7 @@ anchor: p-137
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Pengarna från mitt påbörjade manusskrivande ger mig själv och min familj en chans att ” fly undan världen ”. Vi köper ett vackert trähus i skärgården och flyttar ut. Jag vill lämna stan, lämna det oavbrutna konfronterandet med allt och ingenting. Jag är trött och vill in i mediaskugga. Sari och Nick är värda en annan miljö.
 ::: indent

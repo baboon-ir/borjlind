@@ -5,6 +5,7 @@ anchor: p-207
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 **”Jag klev in i en liten handelsbod på en ö i Grekland i akt och mening att köpa benunderkläder. I en svensk butik skulle jag kort och enkelt ha sagt: ”** ***Ett par kalsonger, tack*****.” I den lilla handelsboden stod jag framför en skrumpen men vänlig dam från förra seklet som tilltalade med mig obegripliga ord.  ”** ***Kalsonger*** **” sa jag. Det händer att mitt eget språk fungerar även utomlands, speciellt om jag upprepar orden. Inte den här gången. Gumman vindade en aning med ögonen och jag upprepade ”** ***Kalsonger ... underwears.*** **” Då vände hon sig om och plockade fram en vacker visp i trä****. Jag skakade på huvudet. Det förstod hon. Så markerade jag med händerna runt bålen vad jag sökte. Då nickade hon mycket vänligt, gick bakom disken och kom fram med en plasthink. Jag skakade åter på huvudet och gumman log. Jag insåg att vi inte förstod varandra. Hade jag inte drabbats av en lokal bakterie som med explosionsartad hastighet tömt mitt maginnehåll i de kalsonger jag medfört hemifrån, skulle jag omedelbart ha lämnat butiken. Nu var kalsonger ett måste, det sista paret kunde när som helst drabbas av samma häftiga utflöde. Nödd och tvungen tog jag ett steg mot den gamla kvinnan, lossade min livrem, drog ner mina byxor och pekade på kalsongerna.**
 

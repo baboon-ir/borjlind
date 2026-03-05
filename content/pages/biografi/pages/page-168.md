@@ -5,6 +5,7 @@ anchor: p-168
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Den korte, kvicke Gösta och den långe, tunge Sten. Ett klassiskt motsatspar i film. Deras samarbete fungerar utmärkt, lyhört ledsagade av Arehn. Nyckeln ligger i deras känsla för humor, för undertext, deras timing.

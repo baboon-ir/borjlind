@@ -5,6 +5,7 @@ anchor: p-093
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ---
 

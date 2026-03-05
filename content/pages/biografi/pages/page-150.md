@@ -5,6 +5,7 @@ anchor: p-150
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 Minne 4: Vi når vår slutdestination, Chabarovsk, och går in på en bar. Påväggen bakom disken sitter ett stort fotografi av det svenska landslaget i bandy. VM har just gått i Chabarovsk och Sovjetunionen har för första gången förlorat finalen - till Sverige.

@@ -5,6 +5,7 @@ anchor: p-134
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Totalt olagligt, men mäktigt.

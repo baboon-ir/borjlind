@@ -5,6 +5,7 @@ anchor: p-153
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 Medverkande är Carsten, jag själv, Stefan Nilsson och Malla. I föreställningen framför vi en poetisk ritual som inleds med:

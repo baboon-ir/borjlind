@@ -5,6 +5,7 @@ anchor: p-169
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Minne efter operationen: En säng i ett rum med tre andra patienter. Ingen kontakt. Mats Arehn kommer upp med en liten tv som kan placeras påbröstet. Mycket vänligt. Dåoch dåkommer det in en klunga läkare och läkarkandidater och unga sköterskor, ställer sig vid min fotända och pratar om saker jag inte förstår med en vokabul är som jag inte kan tolka.

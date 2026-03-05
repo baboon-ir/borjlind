@@ -5,6 +5,7 @@ anchor: p-105
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 På väg tillbaka passerar vi Bird Cage Theatre. Påväggen sitter en gammal klassisk affisch som upplyser om att den berömda magdansösen Little Egypt ska uppträda här ikväll. Vi fortsätter till baren på Allen St, Crystal Palace, och blir kvar ganska länge.
 

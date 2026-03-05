@@ -5,6 +5,7 @@ anchor: p-233
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 Fortfarande finns hoppet att såfrö, att odla motstånd, tända ett förborgat ursinne, en smygande gräsbrand i den förtorkade tristessen.
 

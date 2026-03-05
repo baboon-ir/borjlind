@@ -5,6 +5,7 @@ anchor: p-213
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: indent
 Privata reflektioner efter deras frånfälle: Tvåföräldrar som saknar verktyg. Unga. Svea är 22 när hon får mig. Vadär hon utrustad med? Otto, son till en alkoholiserad bohem. Vad får han med sig? Vad sänker dom ner i mig? Varför sörjer jag inte deras död? Blev deras fysiska över grepp i ungaår en bumerang? Stängde jag bara av dom? Kan man göra det som barn?

@@ -5,6 +5,7 @@ anchor: p-080
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Dikt till min dotter Sari det häråret:
 

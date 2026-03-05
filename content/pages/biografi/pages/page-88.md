@@ -5,6 +5,7 @@ anchor: p-088
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 Överfulla spårvagnar sliter i backarna, Bruno sitter på Vesuvio och pratar med några poeter, jag går gata upp och gata ner, flanerar, letar efter Joshua Tree Inn, hotellet där Gram Parson knarkade ihjäl sig 1973. Parson är en av mina musikhjältar. Blir upplyst om att hotellet ligger i en nationalpark långt härifrån. Tänker på Parson s, på*”Grievous Angel”*, påhur aktivisten Phil Kaufman snodde Parsons lik på flygplatsen och förde tillbaka det till rummet där han dog.
 ::: indent

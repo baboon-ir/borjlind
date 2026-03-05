@@ -5,6 +5,7 @@ anchor: p-120
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Den vidunderliga känslan när jag sätter mig i Silverkungen, vrider om startnyckeln, Stones dundrar ur högtalarna, fläktarna vräker påkall luft, en lätt kärleksfull smekning av gaspedalen, motorn spinner, ljudlöst lyfter den stora maskinen och flyger fram utan motstånd.

@@ -5,6 +5,7 @@ anchor: p-046
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Boken avslutas med en teckning av Carsten.

@@ -5,6 +5,7 @@ anchor: p-228
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Ändåfinns det gott om tändvätska under det här decenniet. Bara för att ta ett axplock: Ett fruktansvärt grymt krig på Balkan, skolskjutningar i USA, här hemma en galning med ett lasergev är som försöker utrota invandrare, den digitala revolutionens segertåg över världen, en båtkatastrof som direkt eller indirekt berör stora delar av befolkningen. Osv...

@@ -5,6 +5,7 @@ anchor: p-273
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ***     Den lilla Hackspetten tystnade och började putsa sina fjädrar. Ingen av dem såg herr Kackerlacka som kom krälande en bit bort, tegelpanna för tegelpanna. När han nådde nocken stannade han och gav ifrån sig ett väsande ljud. Vindflöjeln fick syn på honom. ***
 

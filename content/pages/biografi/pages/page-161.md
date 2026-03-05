@@ -5,6 +5,7 @@ anchor: p-161
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 – Lite strålning ska en karl tåla.

@@ -5,6 +5,7 @@ anchor: p-043
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Dåkommer problem nummer två. Eller tre eller fyra. Jag har nedsatt färgseende i gränsen mellan rött och grönt. Det lilla jag har blir inte bättre av att det är beckmörkt. Jag inser rätt snabbt att jag inte kan avgöra om fyrarna skickar grönt eller rött ljus. En rätt väsentlig information när man ska ta sig in i denåländska skärgården, nersållad med dolda grynnor och flacka kobbar.

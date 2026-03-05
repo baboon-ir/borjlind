@@ -5,6 +5,7 @@ anchor: p-264
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Sånär Lasse Blomgren får SVT att gåin i en samproduktion om en ny tv-serie baserad på vår bok ” *Springfloden* ”är det kluvet för mig. Jag tycker det är roligt om vår bok blir tv-serie, det är trots allt skillnad påhundratusen bokläsare och en miljon tv-tittare. Det kluvna ligger i att Blomgren vill att vi själva skriver manuset till serien.

@@ -5,6 +5,7 @@ anchor: p-268
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par småkoltrastar påfönsterblecket, ocksåi brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog småkoltrastar påfönsterblecket.

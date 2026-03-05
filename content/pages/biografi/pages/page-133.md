@@ -5,6 +5,7 @@ anchor: p-133
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Men som såmånga gånger förr: Projektet strandar på vägen, Lindblom är sorgsen, teateroperan genomförs aldrig (jag tror fortfarande att det kan bli en fantastisk scen för eställning).
 

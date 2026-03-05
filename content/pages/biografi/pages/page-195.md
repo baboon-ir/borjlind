@@ -5,6 +5,7 @@ anchor: p-195
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Slutet stramasåt för Carsten. Han fyller 50 och alla vet. Alla som känner honom. Jag vill att vi ska fira hans 50-årsdag på Moderna Museet, i deras biosalong. Vi har en sålång och fruktbar relation med museet att det känns som det naturliga stället att manifestera det som måste göras. Vi arrangerar en sista privat multimedia för eställning för honom. Enligt beprövat mönster. Carsten sitter i salongens mittgång, ensam, han har en vit käpp vid sin sida. På scenen framträder gestalter ur hans förflutna, musiker han har jobbat med, konstnärer han har delat utställningar med, poeter, jonglörer, vänner. Under några timmar över lämnar vi våra presenter till honom, i alla olika former.Ägg som singlar, sånger som gråter, strofer ur brännande poem, ett munspel pålänk från Frankrike ... vi gör som vi brukar, med dödens stillsamma flor över rummet.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-030
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Vad som till syvende och sist styr mig igenom mitt privata kaos är besattheten. Att skapa. Att skriva. Att uttrycka mig. Jag fyller oändliga mängder böcker med ord, text, uttryck - småbruna böcker med ett pennfack i ryggen (SL:s arbetsböcker). Jag har alltid en bok med mig, dygnet runt, året om, påkrogar, vindar, i parker och t-banor. Det mesta är fullständigt obegripligt vid en efterläsning, men med en uppfriskande energi. Härär ett slumpvis utsnitt ur nån bok:
 

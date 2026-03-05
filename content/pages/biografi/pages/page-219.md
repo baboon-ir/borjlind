@@ -5,6 +5,7 @@ anchor: p-219
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 **Den eftermiddagen gjorde sig byns samtliga kvinnor ärende till brunnshuset, samtliga utom en. Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
 

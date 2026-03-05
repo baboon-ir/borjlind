@@ -5,6 +5,7 @@ anchor: p-118
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Det är Ginsberg som frågar, han har stannat till en sekund.

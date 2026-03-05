@@ -5,6 +5,7 @@ anchor: p-222
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Operan ska handla om Sigurdskvädet, som finns i den gamla Völsungasagan (och är en bärande del i Wagners ” *Niebelungens ring* ”). Historien handlar om Sigurd som dräper draken Fafner för att hämnas på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och skaåter för enas med sinälskade Brynhilde.

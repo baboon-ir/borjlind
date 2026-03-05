@@ -5,6 +5,7 @@ anchor: p-167
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 **”Det är påskafton 1970. Lars Wellström är 42 år, han är ättling till Karl XIII, skriver poesi och försörjer sig som socialassistent. Han kliver in genom en port i Aspudden. Porten leder till tatueraren Doc Forests ateljé - inklämd mellan en tobaksaffär och en konsumbutik. Lars har aldrig tidigare träffat tatueraren. Han skakar hand med Doc Forest och säger:**
 

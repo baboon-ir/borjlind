@@ -5,6 +5,7 @@ anchor: p-006
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 Parentes: Börjlind är ett synnerligen otympligt efternamn. Jag har kallats otaliga varianter genomåren, till exempel Björvall, Björkling och Böglund (i Köpenhamn). En gång har jag haft glädje av en felstavning. Jag fick en utbetalningsavi i brevlådan tillställd Rolf Björling, sångaren. Den var på5.000. Mycket pengar för mig på den tiden.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-247
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 Fotnot: En nära vän till Kjelle Bergqvist förlorar tvåtonårsbarn i tsunamin. Sussie. För att hantera sorgen, och minnet, startar hon såsmåningom ett barnhem och en skola på Pukhet för thailändska barn som har blivit föräldralösa i katastrofen. Kjelle stöttar hemmet ekonomiskt (så även vi). Idag är verksamheten väletablerad, heter ” Happy Child Foundation ” och slussar löpande ut unga thailändska barn i vuxenlivet.
 

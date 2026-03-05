@@ -5,6 +5,7 @@ anchor: p-193
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Gösta läser manuset. Det är tämligen genomarbetat och beskriver det vi har pratat om. Ett par dagar efter vår ankomst vill Gösta ta en promenad längs kusten. Jag tror att vi ska gnugga detaljer i manuset. Det ska vi inte. Gösta förklarar, mycket uppriktigt, att han inte vill göra historien längre. Att han mår dåligt av att konfronteras med den. Han blir nästan aggressiv. Jag blir lite ställd (andra intressenter i projektet blir betydligt mer ställda). Utan att vi berör det rent ut inser jag att historien har kommit för nära Gösta, för nära det förflutna, det han vill lämna bakom sig. Han vill inte konfronteras med det.

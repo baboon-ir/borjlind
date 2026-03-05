@@ -5,6 +5,7 @@ anchor: p-033
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: poem
 **Stoppa sorgen i en gammal säck och skratta och var glad.**

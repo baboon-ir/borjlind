@@ -5,6 +5,7 @@ anchor: p-057
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Moderna Museetåterinvigs 7 november 1975, efter en omfattande till- och ombyggnad. Carsten och jag ska svara för en av de tre utställningar som ska manifestera invigningen. Vi har presenterat vårt projekt i Vargen nummer 7 (som ocksåblir vår katalog). Vi kallar utställningen för ” *TAG PLATS - DÖRRARNA STÄNGS* ”.
 

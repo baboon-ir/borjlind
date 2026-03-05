@@ -5,6 +5,7 @@ anchor: p-073
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 **”I ”Persona Non Grata” låter Rolf Börjlind sin vision av tillvaron explodera rätt i ansiktet på betraktaren, samtidigt som han bemödar sig om att blockera alla upplevelsemässiga reservationer eller nödutgångar. Så nöjer han sig inte heller med bara en teknik eller ett enda material - ****”Persona Non Grata” rymmer både en utställning, en bok och en grammofonskiva, plus videoband, film, teater. Det är en estetisk manifestation vars ursinniga totalitet knappast liknar något annat i den svenska samtidskulturen utom möjligen Öyvind Fahlström.**
 

@@ -5,6 +5,7 @@ anchor: p-204
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 90-talet rullar på. Succén med ” *Lorry* ” har inte lämnat SVT nån ro. Nu vill dom att vi göråtta nya avsnitt, fem att sändas under hösten och tre under våren. Vissa kvinnliga skådespelare byts ut, Dalle ersätter Sundvall som regissör, Stefan och jag fortsätter. Men Carsten är död och därmed också” *Kanal C* ”. Istället vill jag göra en miniparodi påkrimserier. Jag döper den till ” *Larry löser fallet* ” och skriver den tillsammans med Måns Herngren. Han spelar själv rollen som Larry.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-238
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 Såstartar det skoningslösa kriget mot ” terrorister ”. Bush II krig. Jag har inga problem att förståden emotionella utgångspunkten (jag hörde inspelningarna när kropparna som hoppade från tornen landade påmetalltaken ovanför brandmännen, dunk, dunk, dunk), men jag anar att angreppet kommer att tas som intäkt för betydligt fler sakerän jakten på dom faktiska förövarna: deras ” tro ” kommer att legitimera förföljelser och över grepp och skapa en farligare värld.
 ::: indent

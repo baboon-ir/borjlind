@@ -5,6 +5,7 @@ anchor: p-038
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Han talar för dövaöron och studenterna ockuperar sitt eget kårhus.

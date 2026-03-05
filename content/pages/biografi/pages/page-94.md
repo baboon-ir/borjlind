@@ -5,6 +5,7 @@ anchor: p-094
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Vi kommer fram till Santa Cruz när det är mörkt. Bruno har fått en adress till poeten George Hitchcock. Ocean View Aveny 325. Slår upp hans telefonnummer på en bensinmack. Ringer honom. Han ber oss kommaöver. Bor i en fantastisk, stor trävilla i en grönskande trädgård. Han är stor. Han är gammal. Han är vänlig. Han bjuder in oss i det stora huset. Där sitter en man i 35-årsåldern, John Paul, med svart hår i en lång hästsvans. Han saknar ben och spelar på ett hemmagjort dragspel.

@@ -5,6 +5,7 @@ anchor: p-211
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Suzanne Reuter får också en bagge för bästa kvinnliga skådespelare. Det är hon väl värd.
 

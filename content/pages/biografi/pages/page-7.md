@@ -5,6 +5,7 @@ anchor: p-007
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: poem
 ### *Dikt om Svea*

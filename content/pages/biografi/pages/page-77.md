@@ -5,6 +5,7 @@ anchor: p-077
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 **     Jag sitter nersjunken i en hjärtformad sammetsalkov, belyst av havsgröna snäckor. På det låga marmorbordet tronar ett stearinljus i form av en brudklädd fallos. Till vänster om mig den extatiska orkestern, till höger ett lysande akvarium med elektriska ålar. Mitt emot mig - Storfursten! Järnhanden! Diktatorn! Pampen med stort P - Hans Ericson!**
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-182
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Stefan och jag börjar arbeta. Han får en massa textbitar av mig och börjar repetera framför en uppställd videokamera i ett tomt litet kontorsrum i en träbarack (den inhyser Lorrys redaktionslokaler). I och med att kameran står fast får han själv bestämma skärpa och avstånd. Det gör honom fri. Han jobbar i timmar framför kameran, ensam, lär sig hur han ska förhålla sig till avståndet, var han kan ramla, hur han kan gå, hur han kan försvinna ur bild. Han prövar att skrika, viska, ändra tonläge och dialekt. Efteråt tittar vi påresultatet tillsammans. ” Den gesten är bra ”, sen spolar vi fram tjugo minuter, ” den dialekten är rolig ”, spolar igen, ” det uttrycket håller ” osv. Det är ett nytt sätt att arbeta påsom är möjligt tack vare videokameran.
 ::: indent

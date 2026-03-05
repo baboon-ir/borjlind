@@ -5,6 +5,7 @@ anchor: p-170
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Feedback 1: Jag är i Kapstaden 2005 i samband med inspelningen av ” *Kocken* ”. Jag vill se Nelson Mandelas cell på Robben Island. Han satt där i 18år. Cellen är deprimerande, som jag antar att alla cellerär. Upplevelsen tillför inte så mycket. På väg därifrån, i den fullsatta bussen, säger den svarta guiden plötsligt:
 ::: indent

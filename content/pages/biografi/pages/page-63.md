@@ -5,6 +5,7 @@ anchor: p-063
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: indent
 Vill jag såkan jag skylla påmina gener, dom från mödernet. Sveaälskar att spendera pengar, att sätta ” guldkant påtillvaron ” (varje nyårsaftonäts det lunch hos Lisa Elmqvist iÖstermalmshallen).

@@ -5,6 +5,7 @@ anchor: p-203
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: indent
 Så: kanske detändålåg i det genetiska, eller det faktum att vi hade ett gemensamt släktträd, en förfluten över byggnad som rann ner i oss?

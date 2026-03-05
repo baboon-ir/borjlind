@@ -5,6 +5,7 @@ anchor: p-013
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 På tal om alkoholism: Alla som har växt upp med en alkoholiserad förälder vet vad det handlar om - man blir ett tassande barn. Ett barn som lär sig lyssna påtonfall, avläsa rörelser, registrera: en hand som missar en gaffel, en tunga som missar ett uttal, ett parögon som inte kan fokusera. Man lär sig när ens pappa inte är ens pappa, när han är den andre. Man lär sig att tiga, utan att förstå.
 

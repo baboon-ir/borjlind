@@ -5,6 +5,7 @@ anchor: p-243
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Inte av nonchalans, jag ser ytterst sällan egna produktioner, förmodligen avångest (jag går ocksåytterst sällan påegna premiärer, det är förknippat med för mycket alkohol för att balansera socialiseringen).

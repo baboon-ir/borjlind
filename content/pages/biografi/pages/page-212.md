@@ -5,6 +5,7 @@ anchor: p-212
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 **Verkligheten hårdnade. Människor betraktades inte länge som människor, eller ens som individer, människor reducerades till en konjunkturanpassad tillverkningsresurs. Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år. **
 

@@ -5,6 +5,7 @@ anchor: p-100
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 ” Sierra Grandes con ice! ” säger han.

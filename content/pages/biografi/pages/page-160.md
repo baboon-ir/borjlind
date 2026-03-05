@@ -5,6 +5,7 @@ anchor: p-160
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: poem
 **1973 skrev Heinrich Böll**

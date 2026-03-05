@@ -5,6 +5,7 @@ anchor: p-099
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 Vi befinner oss i Mexicali, den mexikanska gränsstaden. En fruktansvärd håla. Fabriker, damm, skit, fattigdom utan like, stank. Människorna bor som hundar i hoplappade träskjul utefter vägen. Vore det inte för klädtrasorna som hänger påsnören utanför skulle man tro att det var sopstationer. Men det bor faktiskt människor därinne. Vi har sett det förut. Vi har sett det påbilder. Vi har sett det på tv. Vi vet att det ser ut så här. Nu ser vi det på plats och det är fruktansvärt. Det sitter kvinnor påomkullvräkta bensinfat och sprängda däck och ammar småbebisar, det sitter halvnakna män med korslagda ben på marken, deras huvuden hänger ner mot brösten, det står totalt utmärglade getter och lapar gyttjigt lervatten. Själva sitter vi i Silverkungen och lyssnar påglada amerikanska reklamröster som säljer en ny slags moped som kan gå240 mil påbara 4 gallon bensin. Fantastiskt!
 ::: indent

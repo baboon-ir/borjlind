@@ -5,6 +5,7 @@ anchor: p-092
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Jag svarar inte. Hon vänder sig om, för sin hand längs ett av sina lår. Jag sneglar mot benpiporna påväggen och inser hur skickligt dom har lagt upp det. Hon är onekligen läcker, fast byst, klara kåtaögon, angelägen, på det där över åriga sättet. Hon ställer sig med ansiktet mot väggen igen, trycker ut underlivet, smackar lite. Hon borde skriva poesi, tänker jag, skriva om en gråbläckfisk pålakanet. Hennes underliv viks ut ytterligare, hon särar en decimeter påbenen, två, en halvmeter.

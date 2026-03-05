@@ -5,6 +5,7 @@ anchor: p-174
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 När jag är klar med ” *Skål* ”ägnar jag lite tidåt ett hjärteprojekt. Jag har ett antal pärmar i arbetsrummet fyllda med uppslag till texter, filmer, böcker osv. I en av dom har jag sparat ett par artiklar från en kubansk tidning som handlar om dom sista dagarna innan diktatorn Batista flydde och Castro kom. Med utgångspunkt från artiklarna har jag börjat skriva en kärlekshistoria som utspelar sig dom dygnen, just innan en korrumperad makt faller, allt är i upplösning, en ny tid är på väg, drömmar, oro och våld. Jag har döpt den till *”From dusk till dawn”*.
 ::: indent

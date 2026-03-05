@@ -5,6 +5,7 @@ anchor: p-121
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Stannar vid ett ställe med en enda stor neonskylt: ” FOOD ”. En lite mindre skylt säger: ” No brown bagging allowed here ”. Dom bruna påsarnas dubbelmoral.

@@ -5,6 +5,7 @@ anchor: p-110
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 – Jävligt fina bilder, mumlar han, skallerormen och Boot Hill, jävligt fina bilder.

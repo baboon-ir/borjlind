@@ -5,6 +5,7 @@ anchor: p-210
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Och nu ett helt ovidkommande fragment som dyker upp, kanske som en association efter styckningen av da Costa, en information som jag har lagt påminnet. Eller på en kudde av pärlor. Det handlar om den engelska bödeln Albert Pierrepoint som sa såh är när arbetsbördan tidvis blev för stor:
 ::: indent

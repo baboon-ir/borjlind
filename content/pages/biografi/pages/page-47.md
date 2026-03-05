@@ -5,6 +5,7 @@ anchor: p-047
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Jag medverkar i tidningen 1988 med texten *”Skrattar bäst som skrattar sist.”*

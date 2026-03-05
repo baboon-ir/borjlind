@@ -5,6 +5,7 @@ anchor: p-113
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Jag tittar på Don. Ansiktet är uttryckslöst.

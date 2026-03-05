@@ -5,6 +5,7 @@ anchor: p-032
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Ändå: Jag och allroundfenomenet Janne Loffe Carlssonåker till Kuba 1984. Vi är inbjudna av det kubanska filminstitutet och bor på ett vackert hotell i Varadero. Stranden nedanför är fantastisk. En kväll berättar en gammal kvinna vad som hände när Fidel Castro störtade den avskyvärde diktatorn Batista. I sammaögonblick som budet om kuppen kom störtade hela lokalbefolkningen ner till stranden och ut i vattnet.
 ::: indent

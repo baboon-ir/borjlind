@@ -5,6 +5,7 @@ anchor: p-075
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 **”Vem är han? Egentligen? Vet vi det? Hur roterar hans inre? Är han en reklamprodukt? Ett massmediaoffer? En människa som slaktats på politikens altare? Vad tänker han på****? Tänker han? Egentligen?**
 

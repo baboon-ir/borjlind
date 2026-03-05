@@ -5,6 +5,7 @@ anchor: p-179
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: poem
 **det finns vissa nätter när fantomen lämnar djungeln**

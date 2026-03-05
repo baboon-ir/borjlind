@@ -5,6 +5,7 @@ anchor: p-029
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Det fäster hos en del i bekantskapskretsen.

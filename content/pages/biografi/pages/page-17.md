@@ -5,6 +5,7 @@ anchor: p-017
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 Minne från den svåra tiden: Jag ligger i mitt pojkrum med stängd dörr och lyssnar på” *Scheherazade* ”. Det knackar pådörren.
 ::: indent

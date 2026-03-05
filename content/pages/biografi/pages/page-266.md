@@ -5,6 +5,7 @@ anchor: p-266
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 En man som snabbt kommer att demontera all värdig kommunikation på alla plan. Dom närmasteåren kommer han att göra världen till en långt farligare platsän innan, enbart genom sin privata stupiditet.

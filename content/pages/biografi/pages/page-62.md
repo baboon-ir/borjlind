@@ -5,6 +5,7 @@ anchor: p-062
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: indent
 Projektet startar påmuseet i Stockholm, har en ekologisk utgångspunkt och bygger på” *ett kreativt samarbete mellan konstnärer, arkitekter, tekniker, hantverkare och humanister*. ” Fokus ligger på återvinning, småskalig produktion, överblickbara demokratiska processer, alternativ energi och byggande samt ekologisk odling (man framställer bland annat metangas av elefantspillning från Skansen).

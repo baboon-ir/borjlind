@@ -5,6 +5,7 @@ anchor: p-149
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 Jag känner att det finns en större berättelse i materialet som måste skrivas. Jag vill skriva den. Kanske i pjäsform. Jag kontaktar Sten Ljunggren, en man som jag har stor respekt för vid det här laget - hans briljanta intellekt, djupa humanism och tunga gestaltnings för måga (många år senare föreslår jag honom i rollen som Martin Beck när vi ska börja vår Beck-serie, men valet faller på Peter Haber, Sten anses inte tillräckligt ” bankable ”). Sten tänder påidén med en pjäs. Jag föreslår att vi skaåka Transsibiriska Järnvägen och ta med boken, en bandspelare och ett ordentligt förråd med ljudkassetter. Under resan ska vi bryta ner den oerhört omfattande utredningen till en helaftonspjäs (vilket sker, den kommer såsmåningom att fånamnet ” *Rödluvan - och på golvet dansar ett slaktdjur* ” och sättas upp på Norrbottensteatern).

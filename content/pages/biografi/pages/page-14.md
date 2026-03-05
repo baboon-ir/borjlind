@@ -5,6 +5,7 @@ anchor: p-014
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 Först en diktsamling, ” *Som från själ till själ en stråle* ”:
 

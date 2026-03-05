@@ -5,6 +5,7 @@ anchor: p-244
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 Minne från manusarbetet 1: Vi har genomgång på SVT av dom tvåförsta manusen. Som vanligt har kanalen en manusredaktör inkopplad. Anders Weidemann, en man med prudentliga glasögon och högt hårfäste. Han tycker att manusen är för sega.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-259
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 Det första vi gör är att ringa in vilka huvudpersoner vi vill skriva om. Vi är, som det heter, hjärtligt trötta på den konventionella deckarmodellen, ett antal poliser i ett rum som får ett mord påbordet och ska lösa det (vi har sysslat med det scenariot i ett oändligt antal tv-historier vid det här laget). Vi vill skapa en grupp individer som inte har så mycket gemensamt med varandra i början.
 ::: indent

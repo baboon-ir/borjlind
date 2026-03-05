@@ -5,6 +5,7 @@ anchor: p-010
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 Under dom häråren har jag en mycket speciell kompis, dygnet runt. Jag kallar honom Den Osynlige. En imaginär lekkamrat som alltid finns där när jag behöver honom. Jag kan sitta i timtal på golvet, prata med honom och köra småplasttåg fram och tillbaka (dom tillhandahålls i Kalaspuffspaket). Jag inbillar mig att umgänget med Den Osynlige befrämjar min fantasi:

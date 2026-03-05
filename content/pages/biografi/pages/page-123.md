@@ -5,6 +5,7 @@ anchor: p-123
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Tar en lätt joint i Pittsburg vid en vacker sjöoch får en hanterlig och välbehövligt skön flykt: Ett litet vitt hus med röd dörr, runt huset dansar en ring av halvmeterstora chips och en stor mun, plötsligt omformas huset till en jättelik vintunna, genom dörren störtar en stor svart fågel rakt in i tunnan med näbben och ur hålet strömmar en bred stråle vit chablis, jordkällarkall, ner i den dansande munnen.

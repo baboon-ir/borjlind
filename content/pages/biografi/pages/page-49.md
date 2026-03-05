@@ -5,6 +5,7 @@ anchor: p-049
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: poem
 **...**

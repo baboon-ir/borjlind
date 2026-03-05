@@ -5,6 +5,7 @@ anchor: p-119
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Privat fest i en stor villa. Massor av folk. Hög musik. Bar i köket. Bruno och jag går tvärs igenom festen, ut påverandan. Det blir vår bas.
 ::: indent

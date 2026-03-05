@@ -5,6 +5,7 @@ anchor: p-064
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: indent
 Effekt 1: Jag bjuds in på en fest hos Birgitta Andersson och Carl Zetterström (en av författarna till KabaréÖppen Kanal, en mycket sympatisk man). Festenäger rum i derasöstermamslägenhet. Jag kommer dit med en flaska hembränt (egenproduktion). Lägenheten är imposant, vackra tavlor, varma mattor, fylld av kulturpersonligheter, vänner till värdparet, Hasse Alfredsson och Tage Danielsson och neråt. Min paranoia slår omedelbart till: fel snubbe påfel plats. Varför är jag här? Som vanligt i såna här sammanhang blir jag obekväm och över driven. Jag vet inte vem jag ska föreställa, såjag förställer mig, utnyttjar min sprit och hamnar såsmåningom i en fåtölj där Birgitta Andersson med en mycket vänlig röst viskar: ” Du ska nog gåhem nu ”.

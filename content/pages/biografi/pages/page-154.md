@@ -5,6 +5,7 @@ anchor: p-154
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Privatlivet på ön är ljust och fungerande vid den här tidpunkten, även om vi tvingas ta några fighter med trångsynta skolrepresentanter. Jag och Tove väver en borg av kärlek mot omvärlden. Min extrema rastlöshet (epitetet ” isbjörnen ” alluderar inte på min fysiska förmåga att uthärda omänskliga förhållanden utan på mitt ständiga behov av att vanka runt var jagän befinner mig) såväl som mitt mentala högvarv saktar ner dom häråren, en aning, behovet av att bränna ut språket i näst intill extatiska silhuetter avtar, mojnar, jag försöker mer och mer närma mig ett avklarnat förhållande till mina uttryck, att vila i den nakna men exakta formuleringen.
 ::: indent

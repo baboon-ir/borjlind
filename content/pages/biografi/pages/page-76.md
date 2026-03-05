@@ -5,6 +5,7 @@ anchor: p-076
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 **Vi slår oss ner på ett par fernissade stubbar, gåvor från partiet. Thorbjörns medvetande återvänder långsamt, han nickar mot mig och jag formulerar försiktigt en fråga: Thorbjörn, hur blev det så här?**
 ::: indent

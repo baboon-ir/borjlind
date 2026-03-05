@@ -5,6 +5,7 @@ anchor: p-145
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 – Tillsammans kan vi fixa det, säger Gösta. Jag pratar, du pratar, sen skriver du och jag läser. Dom får fixa över några ” *Olsenbanden* ” såser du vad det handlar om.

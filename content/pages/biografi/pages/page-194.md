@@ -5,6 +5,7 @@ anchor: p-194
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam påotaliga scener och framfört egna texter med högt själv för troende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
 

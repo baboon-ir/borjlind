@@ -5,6 +5,7 @@ anchor: p-188
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 **     För det andra har min text vandrat genom ett antal andra människors medvetande, människor med mer eller mindre legitim rätt att förvandla texten till sin: producenter, regissörer och skådespelare. I många fall har dessutom ekonomiska moguler haft synpunkter på texten: ”** ***Måste det vara arton arabiska fullblod i den korta scenen? Och varför måste sex av dom ha avskurna öron? Nej, två gotlandsruss och min dotters ridhäst får räcka. Öronen kan ni väl tejpa bort?*** **”**
 

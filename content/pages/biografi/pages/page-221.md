@@ -5,6 +5,7 @@ anchor: p-221
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 **Mannen drack en klunk ur sitt glas. Det var inte första klunken, det såg Magdalena, både på flaskan och mannens ögon. Hans blick var insjunken. Men eftersom han var den ende gästen i baren just nu hängde hon sig kvar vid bordet, tillräckligt länge för att mannen skulle göra en gest mot stolen mittemot. Hon satte sig och rättade till sina lockar med en snabb gest. Mannen noterade det.**
 

@@ -5,6 +5,7 @@ anchor: p-271
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Jag och Amis medverkar en kväll i en utfrågning om Vargen. Vi  berättar om bakgrunden till tidningen, får frågor och märker hur nyfikenheten kretsar runt dåtidens ” kulturklimat ”. Vad som gjorde att så mycket och såmånga tog plats och uttryckte sig på ett sätt som är nästan främmande idag. Jag har inga bra svar, jag är ingen sociolog, jag kan bara konstatera att det känns flackare nu, på alla plan.

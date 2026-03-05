@@ -5,6 +5,7 @@ anchor: p-109
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 **kärlek fraktas**
 

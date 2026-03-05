@@ -5,6 +5,7 @@ anchor: p-191
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Hela tv-serien avslutas med ett specialprogram där Bruno KÖijer framför sin långa dikt ” *Skisser till ett av dödens tal* ” till ackompanjemang av Jan Tolf och några musiker.
 

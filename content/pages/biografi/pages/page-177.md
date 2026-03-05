@@ -5,6 +5,7 @@ anchor: p-177
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Själv föredrar jag pendangen till den målningen:
 

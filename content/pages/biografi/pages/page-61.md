@@ -5,6 +5,7 @@ anchor: p-061
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Mina barn är nu tvåoch elvaår gamla. Sari lever jag med, Joakim bor med Eva. Hon och jag har en bra relation, även om jag borde vara mycket mer involverad i Joakims liv. Mer närvarande, synlig, med tanke på min egen frånvarande pappa.
 ::: indent

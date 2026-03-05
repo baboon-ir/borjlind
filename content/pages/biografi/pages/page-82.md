@@ -5,6 +5,7 @@ anchor: p-082
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Men året börjar med den ärevördiga teatern Dramatens första satiriska kabaré - ” *ÖPPEN LOKAL - KLACKARNA I TAKET!* ”. Jag, Lars-Ragnar Forssberg, Jan Guillou och trubaduren Finn Zetterholm är huvud författare. Gästförfattare är bland annat PC Jersild, Lars Molin, Lars Ardelius och Margareta Garpe. I ensemblen ingår Kjell Bergqvist, Tommy Körberg, Lars Amble och Liz Nilheim. Sören Brunes står för en fantastisk scenografi!
 

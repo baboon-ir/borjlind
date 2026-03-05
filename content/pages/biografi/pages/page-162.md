@@ -5,6 +5,7 @@ anchor: p-162
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 Ibland, i sällsynta fall, skriver jag utan att tänka. Händerna och tangentbordet är bara transportmedel för ett inre flöde som vill fram till det vita arket så snabbt som möjligt. Utan att bromsas av mitt medvetande. Då är det alltid spännande efteråt, att läsa vad det var som for förbi. Ofta är det en text som jag aldrig kunde ha skrivit om jag hade tänkt skriva den. Denär en gåva från mitt undermedvetna.

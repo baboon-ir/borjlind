@@ -5,6 +5,7 @@ anchor: p-015
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 Minne från Lidingö2: Evas föräldrar har en tax som får valpar. En av valparna är svårt missbildad och måste avlivas. Jag erbjuder mig att dränka den i en hink. Jag sänker ner den varma rörliga kroppen i vattnet. Den sjunker inte. Jag är tvungen att trycka ner den mot botten med min stövel. Den rör sig länge under fotsulan, väldigt länge, den vill inte dö. Till slut stillnar den. Det är en mycket obehaglig upplevelse. Att döda en levande varelse som inte vill dö.

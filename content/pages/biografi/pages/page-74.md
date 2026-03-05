@@ -5,6 +5,7 @@ anchor: p-074
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: indent
 Själv kommer jag direkt från ett lantligt bastumöte med ledningen för Sveriges kärnkraftsindustri. Dom har bjudit in mig och Lars-Ragnar Forssberg. Anledningen är den kommande multi för eställningen på Dramaten som går under namnet ” *Stormen* ”. Forssberg och jag ska skriva en del av föreställningen, som avser att vara kärnkraftskritisk. Bastumötet syftar till att påverka oss i en annan riktning. Mat, sprit och hetånga ska fåoss vänligare inställd till kärnkraft.

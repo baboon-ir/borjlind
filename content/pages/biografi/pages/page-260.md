@@ -5,6 +5,7 @@ anchor: p-260
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 Näst roligast: De länder där dom har egna varianter på våra efternamn. Ibland heter vi ” Börlindovski ”, ibland totalt otolkbara namn. ” Björling ” känns helt ok i det perspektivet.
 

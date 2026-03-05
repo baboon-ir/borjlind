@@ -5,6 +5,7 @@ anchor: p-054
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Äter gambas med Otto: försöker undvika att bli berusad.

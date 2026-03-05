@@ -5,6 +5,7 @@ anchor: p-034
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: poem
 **jag tänker på en helt annan kvinna**

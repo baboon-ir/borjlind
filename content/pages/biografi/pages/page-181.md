@@ -5,6 +5,7 @@ anchor: p-181
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Det är försommar och jag får ett telefonsamtal från regissören Kjell Sundvall. Han ska starta upp en ny tv-serie, innehållet är tänkt att vara sketcher, delvis med satiriska inslag.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-090
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 Vi bjuds påostronparty hemma hos en kulturell dignitet, en poet och affärsman. ” What I can buy doesn ´ t interest me. ” Vi kommer in i en stor, äldre våning. Jag tittar mig omkring. Trendsatt miljö, allt fel pårätt plats, speglar slår sönder alla perspektiv, palmer och modellflygplan, sorl, välrepeterad stämning: art deco!
 ::: indent

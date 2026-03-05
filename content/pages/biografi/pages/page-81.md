@@ -5,6 +5,7 @@ anchor: p-081
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 **Dubbelmoralisternas piruetter har förlamats och svartsjukans giktbrutna kackerlackor har krälat in i sina förgrämda armhålor. Korthuset har störtat samman, stommen har rämnat, taket har rasat ner. Fantasin som makt och orden som vapen har lekfullt lätt bevisat sin brutala styrka. Marionetterna har dinglat i klarspråkets galge och kommit undan med blotta lögnen. Taskspeleriet blir aldrig vad det var. Fickrunkarna har följsamt sköljt ur den senlutheranska kulturpottan och bonat porslinskalvarna igen.**
 

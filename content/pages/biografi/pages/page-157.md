@@ -5,6 +5,7 @@ anchor: p-157
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Tidig morgon på ön. Jag vaknar i en hängmatta i trädgården, gryningsljuset har väckt mig. Jag lämnar tomten och går längs enödslig, smal grusväg, bara för att gå. Efter en stund når jag fram till en stor hage. I hagen finns en ensam häst, långt borta vid ett trästaket. Jag stannar. Hästen ser mig. Daggen gnistrar mellan oss, svag solrök stiger över gräset. Jag vet inte hur länge jag står där innan hästen rör sig. Långsamt, mot mig. Några måsar skriker i fjärran. Jag avvaktar. När hästen är nästan framme stannar den. Jag sträcker in en hand över staketet. Hästen tar ett par steg fram. Jag rör försiktigt handen längs det bruna huvudet, den vänstra kinden, känner värmen som går in i handen. En fysisk beröring med ett stort varmblodigt djur. Jag vet inte hur länge vi står där, tysta, jag smekande och hästen stilla, jag vet fram för allt inte vad hästen upplever.
 ::: indent

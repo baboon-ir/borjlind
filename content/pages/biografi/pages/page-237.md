@@ -5,6 +5,7 @@ anchor: p-237
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Vi diskuterar, återvänder till skrivbordet och kommer tillbaka med en ny version. Reaktion blir likartad, det är fortfarande inte det manus Jönsson är ute efter. Han vill att vi skriver om igen. Det vill inte vi. Vi avbryter samarbetet med Jönsson, inte helt smärtfritt (viåterbetalar all ersättning vi fått till dags dato).

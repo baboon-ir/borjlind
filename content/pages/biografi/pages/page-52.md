@@ -5,6 +5,7 @@ anchor: p-052
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Han kunde ha lagt till ett annat axplock: Marie-Louise Ekman, Bruno KÖijer, Öyvind Fahlström och Ulf Lundell. Eller Ivan Agueli och Bengt Emil Johnson. Eller Pugh Rogefeldt. Den kulturella spännvidden är imponerande.
 

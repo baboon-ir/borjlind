@@ -5,6 +5,7 @@ anchor: p-258
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Några ord om mannen som sänkte mig: Enligt min uppfattning går Ola Magnell i bredd med Bellman, Taube och Cornelis. I vistraditionen. Hans ordkonst är suverän, hans melodier är såriga och uthängda. Idag är han själv död. En marterad människa med djupt liggandeögon. Vi hade bra kontakt under någraår, han gjorde en fantastisk version av Cornelis sång ” *Till Fatumeh* ” i vår tv-serie ” *Sista Skriket* ”. Innan han dog gav han ut en bok med titeln ” *Ord och inga visor* ”.

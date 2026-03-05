@@ -5,6 +5,7 @@ anchor: p-217
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: poem
 **Och världen har ännu inte sjunkit ner i glömska,**

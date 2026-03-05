@@ -5,6 +5,7 @@ anchor: p-242
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 **Till vilket pris vet jag inte riktigt, förmodligen är priset en del av befrielsen: ditt språk vittnar om en del underbara nederlag.**
 

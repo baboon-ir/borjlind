@@ -5,6 +5,7 @@ anchor: p-018
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 Minne från Barcelona: Jag sitter på en uteservering på det vackra innertorget Placa Reial, det är sen kväll, ett antal hemlösa rör sig i mörkret, en del hänger runt fontänen, andra sitter eller ligger vid pelare. Plötsligt kör ett par bandvagnar med vattenkanoner in på torget, slår påkanonerna och börjar spruta bort dom hemlösa, jagar dom med den brutala vattenstrålen över stenbeläggningen. Dom tumlar runt, ramlar, kryper, försöker skydda sig. Efter en stund är torget helt renspolat påhemlösa.

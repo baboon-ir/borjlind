@@ -5,6 +5,7 @@ anchor: p-107
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Stannar till vid en sliten skylt. Läser: ” Här stoppade Cochise en fora med prärievagnar, stekte upp sju vita män och våldtog deras kvinnor, allt inom synhåll för Fort Bowie. Det var upptakten till det 12år långa, grymma, hänsynslösa kriget mellan kavalleriet och Cochise. ”

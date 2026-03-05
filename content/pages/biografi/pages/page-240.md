@@ -5,6 +5,7 @@ anchor: p-240
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Sauk har skapat en karaktär som vi döper till ” *Gunnar Govin* ”. En mycket beskedlig och förundrad människa med stor nyfikenhet påtillvaron. Vi ger filmen en undertitel: ” *En man - ett liv - en resa.* ” Till vår hjälp tar vi Marika Lagercrantz, Kjelle Bergqvist, Mikael Persbrandt och Andrea Edwards.

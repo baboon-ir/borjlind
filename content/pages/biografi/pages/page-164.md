@@ -5,6 +5,7 @@ anchor: p-164
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Nytt märkligt projekt:Radioproducenten Kjell Dabrowski sammanför mig med charmören och ... charlatanen, höll jag på att säga, men det är orättvist ... Gunnar Hellström. En på sin tid mycket välkänd och erkänd skådespelare, med en aura av bedagad Hollywoodparfym runt sig. Anledningen är sångerskan Agnetha Fältskog i ABBA. Det ska göras ett tv-program med henne, en 50-minuters show som går under arbetsnamnet ” *Nun of your business* ”. Jag ska skriva texter, Hellström ska regissera, Fältskog ska agera. Konstellationen av människor fascinerar mig.
 ::: indent

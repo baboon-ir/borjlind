@@ -5,6 +5,7 @@ anchor: p-229
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 **Och ändå något sprött, ömtåligt och nervigt, som om det funnits en Pierrot bakom den tuffa masken, en viskning som hördes tvärs genom tingeltanglet och gjorde det ännu tingeltangligare, en öm gest - och sedan de pinglande narrbjällrorna.**
 

@@ -5,6 +5,7 @@ anchor: p-051
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 I gryningen påföljande dag smyger hans hustru upp till konsulatets port och hänger tillbaka porträttet påytterdörren.

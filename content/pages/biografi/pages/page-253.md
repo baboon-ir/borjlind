@@ -5,6 +5,7 @@ anchor: p-253
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 **Så glider månen undan och en av springorna i taket drar ett långsamt ärr snett över bröstet på den mycket gamla människans kropp; ett av många tusen andra ärr. Svärd och skärvor, hennes kropp har styckats upp och sytts ihop igen, hål av tysta kulor, hennes kropp är täckt av svarta små förhårdnader. Hennes hud, hon har trampats av så många hästar, hennes hud har smekts och stenats. Hon är en mycket gammal människa, galningar har ätit hennes hjärna, väringar har vaktat hennes blygd. Ingenstans har hon fått vila, det syns på hennes hår, det har för länge sedan vuxit fast i tiden. **
 

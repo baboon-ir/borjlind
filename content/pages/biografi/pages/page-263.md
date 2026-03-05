@@ -5,6 +5,7 @@ anchor: p-263
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 **     Mette noterade att hennes man inte var nyansernas mästare just nu, att han till och med var ganska fördomsfull. Men hans utsaga om Kristersson kunde han ha fog för. Själv hade hon varit rätt förtjust i Reinfeldt, han var rak och tydlig, just nu leddes hans parti av en patetisk vindflöjel.**
 

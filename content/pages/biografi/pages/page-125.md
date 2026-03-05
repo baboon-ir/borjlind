@@ -5,6 +5,7 @@ anchor: p-125
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 * En hemlös står och vajar en bit bort, vacklar till, jag vänder mig åt andra hållet. Jag har alltid haft svårt att iaktta vuxna män som långsamt faller med huvudet före i trottoarcement.*
 

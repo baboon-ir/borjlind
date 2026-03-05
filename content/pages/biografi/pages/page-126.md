@@ -5,6 +5,7 @@ anchor: p-126
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Summan av kardemumman (ett uttryck som språkforskare fortfarande inte kan härleda): Vår roadtrip är slut. En natt i Chinatown tar vi  farväl av varandra, Bruno stannar, jagåker hem (och anar inte att vi kommer att mötas på en scen i en kyrka i Lower Bowery igen, ganska snart).

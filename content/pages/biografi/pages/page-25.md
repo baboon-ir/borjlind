@@ -5,6 +5,7 @@ anchor: p-025
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 **”Ur enkelheten och ärligheten uppstår en känsla av fullständig frihet gentemot värderingar och normer, förstärks förmågan att ändra uppfattning från den ena dagen  till den andra, föds den nödvändiga överlägsenheten gentemot materialet, accentueras avståndet till provinsialismen, fördjupas känslan av internationell egoism. **
 

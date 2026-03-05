@@ -5,6 +5,7 @@ anchor: p-141
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 *     Han visste inte riktigt, allt hade gått väldigt snabbt, och oplanerat, och så drack hon vatten? Micke tittade på sina händer, fingrarna, naglarna var ganska avbitna, en av dom var blå**, han hade klämt den när han bröt sig in i Pressbyrån på Thorildsplan, den skulle säkert ramla av.*
 

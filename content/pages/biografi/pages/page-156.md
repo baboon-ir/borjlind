@@ -5,6 +5,7 @@ anchor: p-156
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: poem
 **vi ser en bettlare som slickar porten**

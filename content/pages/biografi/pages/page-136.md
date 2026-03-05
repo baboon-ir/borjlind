@@ -5,6 +5,7 @@ anchor: p-136
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Jag går mycket ambitiöst tillväga. På en av väggarna i den stora lägenheten på Grev Magnigatan fäster jag upp scen efter scen, gör diagram där jag med olika färger markerar vilken temperatur scenerna har, gör kurvor över dramatikens utveckling, färglägger karaktärernas känsloläge, klipper och klistrar och klistrar om (det här är långt innan turning-point-exercisen dyker upp).

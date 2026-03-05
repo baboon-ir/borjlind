@@ -5,6 +5,7 @@ anchor: p-009
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 Minne från barndomen i förhöjd form:

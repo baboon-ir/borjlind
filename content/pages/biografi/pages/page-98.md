@@ -5,6 +5,7 @@ anchor: p-098
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Jag försöker ta kontakt med en av männen vid disken, frågar vad han sysslar med. Det går trevande. Han verkar ha tappat sinaögonlock, ögonen fyller hela hålan. Plötsligt säger han, mer till diskenän mig:

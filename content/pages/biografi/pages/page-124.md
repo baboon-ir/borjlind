@@ -5,6 +5,7 @@ anchor: p-124
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Vi träffar Marianne och hennes kille, John Douglas, en framgångsrik dokumentärfotograf. Platsen är en mörk bar, det är sent på kvällen. Vi pratar i timmar. Jag berättar om mitt förra besök i New York, om mötet med Emilie d ´ Antonio. John känner Emilie väl. Han har hört om det stulna kungaporträttet och vill att jag verifierar historien. Snabbt gjort. John säger att han har en oöppnad Wild Turkey hemma påloftet om vi är intresserade. Vi drar dit, det ligger i Chinatown, röker, dricker, somnar, vaknar. John erbjuder oss att bo påloftet hur länge vi vill, själv ska han upp och fotvandra i bergen i Montana.
 ::: indent

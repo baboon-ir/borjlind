@@ -5,6 +5,7 @@ anchor: p-163
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Såhar Carsten en ny utställning på Galleri Engström. Den heter ” *Nofretete* ”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot medäkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på70-talet. Carsten trivs med honom.
 

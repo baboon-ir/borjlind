@@ -5,6 +5,7 @@ anchor: p-152
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Papphammarsketcherna klipps senare ihop till en långfilm och visas påbiograf.
 

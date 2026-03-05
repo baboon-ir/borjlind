@@ -5,6 +5,7 @@ anchor: p-031
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Carsten försörjer sig som art director, jag frilansar som copywriter. Vi är ” reklamare ” och hatas av ” rättrogna ” för att vi säljer Fyffes bananer och dadaistisk konst med samma förstulna leende. Vi beskylls för att sakna politiska förtecken, vilket är infantilt: allt som driver med det besuttna är per definition politiskt - det handlar om underminerandets försåtliga konst.

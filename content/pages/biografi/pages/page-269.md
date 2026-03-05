@@ -5,6 +5,7 @@ anchor: p-269
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Sexuella över grepp blir påförsvinnande kort tidämnet för alla det häråret. Vittnesbörd från kränkta kvinnor över hela världen staplas på varann. En totalt depraverad manskladdighet slits ut i offentligheten och ställs mot en obarmhärtig skampåle. Den ackumulerade vreden från kvinnor inom nästan alla yrkesområden är enorm. Deras unisona röst skär genom hela samhället och fläker upp dolda och förträngda över grepp på ett sätt som aldrig tidigare i historien. Vreden stänkeråt alla håll, ibland stänker den fel. Men kontentan är omvälvande.

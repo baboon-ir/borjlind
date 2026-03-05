@@ -5,6 +5,7 @@ anchor: p-172
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Ändå: Det är ett misstag, sånt händer, men det är första gången jag är med om det och jag glömmer det aldrig.

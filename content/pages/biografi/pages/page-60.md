@@ -5,6 +5,7 @@ anchor: p-060
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Parallellt med inspelningen skriver jag en text till stenciltidskriften Guru Papers, en av de viktigaste pamflettbladen i skuggan av Vargen. Tidskriften har det uppfriskande mottot: ” *Spräng den förbannade kultureliten!* ”.
 

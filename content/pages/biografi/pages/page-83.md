@@ -5,6 +5,7 @@ anchor: p-083
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 **Gedda är, bitvis, en satanisk fotograf, en målmedveten satiriker - för naturligtvis är det inte en slump vilka porträtt han visar oss. Gedda har massor av kopior att välja mellan. Av varje objekt. Hans val speglar hans intentioner. Att förstora upp Olof Palme till en spänd, åldrad, fullständigt avkönad, värmelös och kamerarädd människa, när han samtidigt har kopior som visar en betydligt gladare, mer avspänd, säkrare Palme - det har givetvis sina övervägda motiv. Som inte enbart är fototekniska.**
 

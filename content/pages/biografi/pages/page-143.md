@@ -5,6 +5,7 @@ anchor: p-143
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 **Funktion innebär att varje handling har ett djupare jämviktsläge som leder till döden, dess stabilitet och psykiska nödtorft - det faktum att disharmoni förorsakar en lugn inre konstitution befriar effektivt full funktionsduglighet: vi vill video, sa han och somnade i fallskärmen.**
 

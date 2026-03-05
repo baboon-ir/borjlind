@@ -5,6 +5,7 @@ anchor: p-111
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Mannen vid kortänden av disken hasar ner från stolen och försvinner ut. Vi sätter oss i baren och beställer tvåkonjak istället (av nån anledning, hitintills har det handlat om tequila och whiskey när det gäller starksprit, nu vill vi ha tvåkonjak - man får inte bli förutsägbar).

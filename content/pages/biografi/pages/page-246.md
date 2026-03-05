@@ -5,6 +5,7 @@ anchor: p-246
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 På tal om massajer: Vi går ute på en vidsträcktödslig savann i sällskap med en massaj. Plötsligt stannar han till, lyssnar. Vi tittar oss omkring, ingenting finns inom synhåll, påmils avstånd. Vi undrar om han har hört ett djur? Nej. En kvart senare får vi förklaringen: långt i fjärran kommer en jeep körande.

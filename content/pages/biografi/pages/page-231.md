@@ -5,6 +5,7 @@ anchor: p-231
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Eftersom Abrahamsen vet att jag inte har nån större erfarenhet som regissör (några kortfilmer, regiass på” *Morrhår&Ärtor* ” och lite annat) väljer han en tung finsk fotograf: Esa Vuorinen, i hopp om att Vuorinen ska styra upp det som saknas i min verktygslåda. Till exempel kunskap om blickriktningar, en delikat företeelse som Cilla kan på sina fem fingrar.

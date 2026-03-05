@@ -5,6 +5,7 @@ anchor: p-261
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Gigantisk skillnad mellan manus och bok som jag nästan glömde: När du skriver en bok är du Gud. Du skapar ditt eget universum, där allt som din fantasi förmår tänka ut kan finnas med. Vill du sänka ner dina gestalter i Marinergraven eller låta dom jagas av 400 bufflar över en prärie är det bara att skriva det. I ett manus förvandlas det till ett dopp i en vattenpöl på Gärdet och tre tröttaåsnor i Trollhättan. Kontenta: Du behöver inte bry dig en sekund om budget, inspelningsplatser, antal karaktärer, tidsskikt eller vad andra tänker eller tycker. Det du skriver är exakt det som når läsaren.

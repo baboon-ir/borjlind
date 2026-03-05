@@ -5,6 +5,7 @@ anchor: p-275
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Vadär det jag har projicerat påmina föräldrar? Har det handlat om helt andra saker? Men var skulle svärtan i mina barndomstexter komma ifrån då? Har jag bara letat efter ett sår för att fåutlopp för min frustration? Och föräldrarna blev såret för att dom låg närmast till hands? Tog jag derasörfilar som intäkt för ett mörker som bara fanns i  mig själv? Barnet som martyr?

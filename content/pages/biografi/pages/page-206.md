@@ -5,6 +5,7 @@ anchor: p-206
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Väl tillbaka i hamnen hissas fisken iland, hängs upp i en krok och vägs. Vågen stannar på121 kilo.
 

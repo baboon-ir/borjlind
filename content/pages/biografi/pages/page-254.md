@@ -5,6 +5,7 @@ anchor: p-254
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ![400.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
 

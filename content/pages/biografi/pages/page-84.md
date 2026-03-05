@@ -5,6 +5,7 @@ anchor: p-084
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 My point of view:

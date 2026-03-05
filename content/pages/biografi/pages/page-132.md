@@ -5,6 +5,7 @@ anchor: p-132
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Vid det här laget börjar jag kränga mig ur rollen som ” rikssatiriker ”. Att bli placerad och definierad i den formen förminskar mig. Eller gör mig påtagligt obekväm. ” *I´m a song and danceman.* ” Vid den här tidpunkten vill ” alla ” ha en satirisk text av mig, i dom mest förbryllande sammanhang. Jag tillmötesgår en hel del, ibland med vänsterhanden, fortfarande finns det ett fåtal vita fläckar som kan göra mig upprörd på det sättet, men det satiriska syret sinar. Jag har vid det här laget producerat långt över hundra satiriska texter. Sverige är ett litet land. Risken att börja tugga mina egna spyor är över hängande.
 ::: indent

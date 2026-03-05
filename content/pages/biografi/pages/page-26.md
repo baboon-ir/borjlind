@@ -5,6 +5,7 @@ anchor: p-026
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 
 ::: part

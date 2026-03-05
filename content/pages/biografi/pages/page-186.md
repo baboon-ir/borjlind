@@ -5,6 +5,7 @@ anchor: p-186
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 **     Carsten är vacker. Amis är vacker. Adam och Lilith? Kanske, som flisan i Dagens Öga ... hon som sköts för sin skönhets skull.**
 

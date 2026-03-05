@@ -5,6 +5,7 @@ anchor: p-012
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt)är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ” färgstarka ” karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosf är (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-065
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: poem
 **Sverige är en falsk bild.**

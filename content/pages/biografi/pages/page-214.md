@@ -5,6 +5,7 @@ anchor: p-214
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ” *Vita lögner* ”, ett uttryck pappan använde för att ursäkta sina småoch stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonensögon (Mats).
 ::: indent

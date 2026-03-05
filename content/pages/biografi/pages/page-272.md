@@ -5,6 +5,7 @@ anchor: p-272
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 Ibland, nakna gryningar när hjärnan är genomspolad av friskt syre, blir jag sugen påsatirformen igen. Den riktiga, råa, den som inte väjer. Den som nästan inte finns idag.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-255
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 Cilla och jag har vid det här laget en mycket nära och respektfull relation till filmproducenten Lasse Blomgren på Filmlance. För mig är han en person som jag kan lita på, som jag tycker om, som får jobbet gjort och som är rak (alltihop en bristvara i filmbranschen, med fåundantag). Blomgren har köpt rättigheterna till Jan Arnalds böcker om ” *Arne Dahl* ”. Han vill att vi ska skriva manus på dom, till en tv-serie för SVT. Det är tio böcker. Det är mycket pengar. Det är eventuellt utmanande. Själv har jag aldrig läst några böcker av ” *Dahl* ”, men jag har börjat på en, på ett flygplan från Nairobi, och ganska snabbt konstaterat att ” *Dahl* ”är språkligt nära det jag själv gillar i korthuggenhet. Bitvis bra dialog.

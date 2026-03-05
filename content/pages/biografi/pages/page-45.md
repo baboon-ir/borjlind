@@ -5,6 +5,7 @@ anchor: p-045
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Carsten har köpt en stencilapparat och startat förlaget ” *Vargen* ”*. * Jag har tillbringat ett antal veckor som gäst i ett kollektiv uppe på Rödön i Jämtland. I gårdens tokstuga har jag gått igenom mina tusen dagboksanteckningar, ” de bruna böckernas universum ”, sovrat, bearbetat, fogat samman. Resultat har blivit en lång uppbruten prosatext med illustrationer från min inre bildvärld.
 ::: indent

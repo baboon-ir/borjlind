@@ -5,6 +5,7 @@ anchor: p-202
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: poem
 **ur hans näsa hängde en ljusgrön sträng**

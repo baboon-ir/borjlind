@@ -5,6 +5,7 @@ anchor: p-101
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Jag har trängt mig in mellan några män i baren och försökt se bortkastad ut. Jag misslyckas. Dom här männen har sadlat påresignationen ett parårtionden innan jag dök upp.

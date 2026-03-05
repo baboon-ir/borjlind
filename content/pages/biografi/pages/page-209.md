@@ -5,6 +5,7 @@ anchor: p-209
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Bestående effekt av femtioårsfyllandet: Min riktiga födelsedag infaller på en torsdag och firas enbart med en lättare mottagning på dagen. På kvällen intar några av mina vännerärtsoppa och punsch pålokal och bestämmer sig för att skapa en tradition. Tillsammans med Cilla och mig bildasÄrtklubben, åtta personer som under tioårs tid träffas en gång i månaden ochäter soppa (över tid tillkommer en del barn ocks å).
 ::: indent

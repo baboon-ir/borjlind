@@ -5,6 +5,7 @@ anchor: p-056
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck ” *Sjukdom är till salu* ”. Under en balett för eställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
 

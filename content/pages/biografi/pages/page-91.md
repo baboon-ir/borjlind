@@ -5,6 +5,7 @@ anchor: p-091
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Jagöppnar dörren. Ska jag slaktas vill jag veta vad som händer med Bruno.Är han ocksåinvigd? Har han ställt upp som lockfågel?Är hela denna tillställning planerad utifrån? I förväg? Av alla som vill plantera en iskniv mellan mina skulderblad? Har Bruno hatat mig hela tiden? Men vår lilla hemlighet då?

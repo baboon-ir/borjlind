@@ -5,6 +5,7 @@ anchor: p-215
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: indent
 Filmfotografen John Olsson och hans hustru, Agnetha Fagerström-Olsson, vill göra en långfilm om händelsen. Dom vill att jag skriver manuset.

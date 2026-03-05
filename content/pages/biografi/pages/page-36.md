@@ -5,6 +5,7 @@ anchor: p-036
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: accordion
 **Det är ingenting fantastiskt med den här natten, det fantastiska är vi. Vår styrka är den sällsamma och personliga klangen i uttrycken, inte i tanken, inte i erfarenheten, inte i synen på omvärlden, helt och fullt i uttrycken, så oändligt starka, så till den grad fulla av liv att dom verkar kvävande samtidigt som dom har fågelns flykt i anslaget. Uttryck som jagar fram likt rabisdrabbade vinthundar, skurna i sin form men överväldigande i sin hänsynslöshet. Våra uttryck är ärliga. Vi arbetar tätt intill vår betraktare. Vi ställer inte problem under debatt - vi ställer oss själva under debatt. Komna utifrån försöker vi spränga den törnrosadröm, den vaddlindade sötkula så många författare och målare vistas i, spränga det skyddande och slutna kulturskal som så effektivt förhindrar praktiskt taget all meningsfull kommunikation idag. Alltför få inser att dom är inspärrade i ett mycket snålt tilltaget rum där polarna sitter uppradade längs väggarna och applåderar varann. Det är äckligt med halvförmågor, geni är en dussinvara och ingen kropp blir stark för att man hänger en rustning på den. Det är äckligt med småborglig underground, det är äckligt med provinsiell djärvhet. Dra av Sverige brallorna och bit det i pitten!**

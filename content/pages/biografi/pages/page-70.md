@@ -5,6 +5,7 @@ anchor: p-070
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: indent
 Det är en kvinna som säger det. Hon heter Monica Nieckels och är intendent på Moderna Museet. Vi sitter i hennes rum och diskuterar min kommande separatutställning ” *Persona Non Grata* ”. Hon är curator för den, en sval och begåvad vän.

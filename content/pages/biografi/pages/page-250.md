@@ -5,6 +5,7 @@ anchor: p-250
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: indent
 I Danmark har man gjort nåt motsvarande. Vår Beckfilm *”Det tysta skriket”* har förvandlats till teater och satts upp i Köpenhamn.

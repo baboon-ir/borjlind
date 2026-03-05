@@ -5,6 +5,7 @@ anchor: p-135
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: poem
 **Jag ställer mig avvaktande vid vattnet -**

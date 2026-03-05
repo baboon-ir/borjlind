@@ -5,6 +5,7 @@ anchor: p-095
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 George väcker ossåtta. Hanåker till universitetet. Han undervisar i vad som för tillfället faller honom in. Den här terminen är det teater. Kvinnan med det okända namnet gör kaffe. Värmer småfranska i ugnen. Jordgubbssylt, ost. Vi sätter oss. Hon är oerhört trevlig och utsövd, charmerande och tilldragande. Vi sitter i ett stort rum med en tänd brasa. Poesin ger oss värme, säger Kvinnan med det okända namnet. Vi ler lite frågande.
 ::: indent

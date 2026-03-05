@@ -5,6 +5,7 @@ anchor: p-106
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 På grund av en incident med två Navajos i ett reservat längre fram är detta den enda bild vi har från resan (förutom blädderblocken i hjärnan).
 

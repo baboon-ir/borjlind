@@ -5,6 +5,7 @@ anchor: p-276
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 Under slutarbetets gång hör Sauk av sig. Han vill göra en kommentar till den pågående coronakrisen och använda sig av en text som jag skrev till filmen ” *Yrrol* ”. Jag tycker det är en bra idé. Tillsammans bearbetar vi den gamla texten och såsläpper Sauk det stringenta resultatet på olika sociala medier:
 

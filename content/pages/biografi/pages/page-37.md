@@ -5,6 +5,7 @@ anchor: p-037
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Tanken på ett skivomslag styr in oss på ett helt nytt projekt. Jag har träffat en amerikansk vietnamdesertör under en tjurfestival i Pamplona. Ken. Han har bosatt sig i London och börjat producera musik. Vi håller kontakt. Carsten och jag vill utnyttja den kontakten. Vi skapar en bildpoesibok i lp-format, jag skriver ett antal sånger som vi spelar in på en demotejp i ett garage. Sång, piano och bongas. Titeln pålp-boken är ” *Inuti varje ögonblick finns en stillhet* ” (ettåterbruk ur ” *Den andra våldsamma döden* ”) och består av 24 illustrerade berättelser och 24 sånger.
 ::: indent

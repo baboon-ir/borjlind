@@ -5,6 +5,7 @@ anchor: p-068
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 ::: poem
 **utan att föregripa mordet**

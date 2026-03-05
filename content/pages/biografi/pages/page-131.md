@@ -5,6 +5,7 @@ anchor: p-131
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Jag har döpt den till ” *pitjiri* ”, ett aboriginsk ord som betyder ” *the snake that will not sink* ”.
 

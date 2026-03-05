@@ -5,6 +5,7 @@ anchor: p-004
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 — Men vadå?! Lägga ut memoarerna på nätet? Helt fritt?

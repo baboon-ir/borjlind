@@ -5,6 +5,7 @@ anchor: p-199
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: indent
 Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här landet. Den avgjort mest originelle är skribenten Lena Anderssons favoritobjekt Roy ” Hugo ” Ander sson. Hans kortfilm ” *Härlig är jorden* ” somöppnar stafettserien ” *90 minuter 90-tal* ”är magnifik, hans säregna filmspråk är unikt i världen.

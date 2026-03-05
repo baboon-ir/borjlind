@@ -5,6 +5,7 @@ anchor: p-087
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Dinaögon svider när du berättar. En enda sommar i ditt liv, en enda sommar pådenna overkliga Gräsö. Idag darrar dina läppar och händerna vrider sig när du möter svenskar och du vågar bara tala amerikanska. Beröringen med Sverige tangerar en omänsklig smärta i din begagnade kropp.

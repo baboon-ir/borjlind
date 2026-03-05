@@ -5,6 +5,7 @@ anchor: p-011
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 **”Hatten av för min fru för att hon avreagerar sin intelligens och sitt behov av svensk likställdhet vid skrivmaskinen hemma under förmiddagen. Och på eftermiddagen alltid finns gammaldags rosig och söt vid köttgrytorna när vi tre manliga familjemedlemmar kommer hemstörtande från skolor och arbete, hungrande efter mat, hemtrivsel och mammaomvårdnad.”**
 

@@ -5,6 +5,7 @@ anchor: p-236
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 På tal om drömmar: Ett tag var jag inne på att drömmar var viktiga, speglade en undermedveten värld som var en pendang till den vakna världen. Jag hade ett anteckningsblock påsängbordet och skrev ner allt jag mindes av nattens drömmar så fort jag vaknade. Det gav inte speciellt mycket. Surrealistiska fragment, så klart, men riktningslösa (häromdrömmen klev jag in i ett sovrum, i en bred säng låg Ulf Lundell, Melania Trump och Robbie Robertson tätt intill varandra, Lundell bad mig släcka sänglampan, jag släckte den och såblev det mörkt ... givande).
 

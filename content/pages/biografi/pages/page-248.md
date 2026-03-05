@@ -5,6 +5,7 @@ anchor: p-248
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Plågsamt minne från Kapstaden: Vi besöker en av dom stora kåkstäder som ligger norr om staden. Kjelle känner en svensk kvinna som arbetar i området, vilket ger oss möjlighet att röra oss hyfsat närgånget i gränderna. Det som slår mig direkt är den enorma skillnaden påmän och kvinnor vi möter. Kvinnorna är raka i ryggen, insvepta i vackra saronger, rör sig målmedvetet, ler mot oss. Männen sitter hopsjunkna mot plåtfasaderna, blicken ner i leran, lama rörelser med händerna, uppgivna - fråntagna sin traditionella roll som familje för sörjare.

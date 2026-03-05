@@ -5,6 +5,7 @@ anchor: p-048
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 **”Vargpojken, som tros vara i 35-****årsåldern, avled igår efter 20 år på ett sjukhus i Lucnow i norra Indien. Lång tid hade han lidit av kroniska andningsbesvär och epilepsi. Mysteriet med Vargpojken började 1953 då en spårvägare fann en naken utmärglad pojke ihopkrupen bakom några väskor på en avlägsen station. Pojken omhändertogs på sjukhus där läkarna med stigande förtjusning observerade hans beteende. Han kunde inte gå upprätt, men sprang däremot mycket snabbt på alla fyra. Han åt endast frukt och rått kött och vägrade intaga kokt föda. Pojken kunde bara utstöta djurliknande läten och när han blev rädd eller arg morrade han och visade tänder som en varg. Under alla år på sjukhuset gjorde Vargpojken ytterst små framsteg. Han lärde sig sova i en sängbur och gick med på att bära vissa klädesplagg, men lärde sig aldrig att tala och förblev fasansfullt skygg. Den enda han någon gång log mot var den sköterska som behandlade honom. Under alla år har vetenskapsmän och politiker tvistat om den gåtfulle pojken. Var han verkligen en varg? Uppfostrad i djungeln? En del svarar otvunget ja på dessa frågor. Andra har spridit ut rykten om att vargpojken i själva verket skulle vara en imbecill 13-****åring som föräldrarna övergivit med flit för att staten skulle ta hand om honom. Vargpojken tog hemligheten med sig i döden.”**
 

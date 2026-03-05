@@ -5,6 +5,7 @@ anchor: p-117
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Ginsberg har satt sig påestradkanten, plingar med en liten bjällra och presenterar, med låg röst: ” Peter Orlovsky. Han var med i Dylans långfilm Renaldo & Clara. ”
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-220
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 **Jag är en ensam man med vingklippta vanor. Min lägenhet är trång. Jag har slitna gardiner, målade med måsar i brunt, på väggen hänger ett gammalt långsmalt gevär, taklampan har marmorerad kupa. Jag har en smal och välfylld bokhylla utan överraskningar, ** ***”Samlagets ställningar”***** samlar damm på översta raden. Mitt akvarium har rent vatten och en ljusgrön docka på botten, inga fiskar, på mitt nattduksbord ligger ett tummat exemplar av ** ***”Såsom käril ur skeppen”*****... ganska spaciös posei, jag föredrar det. Jag har en tunn skivbunt, med Scarlatti som favorit. Det är en mycket enkel lägenhet med en gedigen lukt, komponerad av ensamhet och hygien och ett svagt stråk Anticimex. Jag trivs, i bemärkelsen sover gott. Jag har vad jag behöver, då och då en kvinna som rinner in och ut. Jag tänker aldrig på det som ett hem. Jag har bott här i sex år utan telefon. **
 

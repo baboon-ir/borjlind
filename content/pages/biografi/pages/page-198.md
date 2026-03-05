@@ -5,6 +5,7 @@ anchor: p-198
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: indent
 Efter fjärde versionen av manuset föreslår Alfredsson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys påsex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredsson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett erbjudande han inte vill tacka nej till - som chef för Skansen. Jag får för mig att han har använt min analys som en förevändning att hoppa av. Kanske helt fel, men det känns halvkul för mig.

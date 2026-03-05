@@ -5,6 +5,7 @@ anchor: p-225
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Ett *synops* beskriver kortfattat den tänkta historien från a tillö, på en eller två A4-sidor. Idén, helt enkelt.

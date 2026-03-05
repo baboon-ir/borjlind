@@ -5,6 +5,7 @@ anchor: p-102
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Jag längtar härifrån.

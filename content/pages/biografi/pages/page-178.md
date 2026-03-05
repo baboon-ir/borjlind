@@ -5,6 +5,7 @@ anchor: p-178
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Mindre roligt händer också. Det bildas ett nytt parti som kallar sig Sverigedemokraterna. Det är ett nationalistiskt och socialkonservativt parti som grundas av veteraner inom svensk nazism och fascism. Flera av dom har tidigare varit medlemmar i Nordiska Rikspartiet och Bevara Sverige Svenskt. Deras ungdoms för bund bildas 1992 och leds av nazisten Robert Wennerstedt (Vesterlund). Tvåår senare blir JimmieÅkesson partipolitiskt aktiv i förbundet. Han är då16år.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-096
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 – När som helst, vid vilken tid pådygnet som helst, ring oss, eller knacka påhos oss, vårt husäröppet för poeter från hela världen.

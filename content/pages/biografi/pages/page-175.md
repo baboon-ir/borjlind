@@ -5,6 +5,7 @@ anchor: p-175
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Han är naturligtvis ingen närstående, ingen jag har en personlig relation till. Men han är en symbol, pågott och ont. En röst som jag alltid harälskat att höra. Sättet att formulera sig, brutaliteten när det ville sig, modet, hans retoriska briljans, hettan. Otto, min pappa, stängde alltid av tv-n när Palme kom i bild. Han avskydde honom, antagligen för samma saker som jag uppskattade. Nånstans i botten tror jag det låg i Palmes engagemang, hans förmåga att verbalt gestalta orättvisor och lidanden som om han verkligen var personligt berörd.

@@ -5,6 +5,7 @@ anchor: p-127
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Tre timmar senare reser jag mig ur soffan och tror att det har gått tio minuter. Vad vi har pratat om har jag ingen aning om. Ett schackbräde kommer fram. Jag börjar ett parti med Staffan Scheja, han spelar svart. Jag är en hyfsad amatör, han är betydligt mer durkdriven. Partiet pågår hela natten, upplever jag, i själva verket spelar vi kanske en halvtimme. Jag vinner och anar vad som har hjälpt till. Strax efter beger sig flera i sällskapet iväg till Schejas penthouse vid Central Park. Där börjar jag landa och somnar i en solstol (den kinesiske arkitekten har förmodligen hittat sina kattungar, han syns inte till).

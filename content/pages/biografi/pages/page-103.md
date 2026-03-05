@@ -5,6 +5,7 @@ anchor: p-103
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Vi stannar Silverkungen, tar på oss långbyxor för ormarnas skull, glider nerför järnkorset vid vägkanten, plastblommor markerar en ung mans snabba död. Vi kliver ut i den röda sanden, ut mot kaktusarna, Saguaros, dessa väldiga, mörkgröna, svullna kaktusar med fågelbon i stammarna och tre decimeter långa, stenhårda taggar påarmarna. Vi strosar runt iöknen, länge, går längs en uttorkad flodbädd, sparkar på dom torra vita stenarna, rör upp samma damm som såmånga hästar tidigare har satt i rörelse. Det är alldeles tyst i dalen, inga fåglar, inga cikador, inga bilar, inga människor. Vi gräver några gropar, pissar på en död buske, känner den ljumma vinden rulla ner från bergen, utöver marken, på avstånd börjar det mullra.

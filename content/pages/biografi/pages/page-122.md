@@ -5,6 +5,7 @@ anchor: p-122
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 Stannar i Des Moines, Iowa, fransk befolkning med amerikanska flaggan över allt. Samma döda terminal. Jag ringer Sverige, en tom signal som ringer ut i ett tomt rum. Signalen är min förlängda tunga som jagar fram över väggen och tapeten och sängen och mattan och söker efter spår av mänsklig kontakt.
 ::: indent

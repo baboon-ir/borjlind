@@ -5,6 +5,7 @@ anchor: p-104
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 En av poliserna drar fram ett måttband. Tar kniven, mäter bladet, sträcker tillbaka kniven till hundmannen.

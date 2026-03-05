@@ -5,6 +5,7 @@ anchor: p-078
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Kort därefteråtalar statsministern Aftonbladet för den fingerade intervjun. Tidningen försvaras av den slipade silverräven Hans Göran Franck. Fälldin förlorar målet och får betala 1 krona i skadestånd. Fyra månader senare avgår han.
 ::: indent

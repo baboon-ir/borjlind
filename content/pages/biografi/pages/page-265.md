@@ -5,6 +5,7 @@ anchor: p-265
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 På tal om Kjelle: förutom att han är den han är och det är han, alltid, så är han en extremt solidarisk vän, alltid snar att ställa upp så fort han kan göra en insats. Han går alltid att lita på.
 ::: indent

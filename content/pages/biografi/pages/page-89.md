@@ -5,6 +5,7 @@ anchor: p-089
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 Den vackra träverandan, dom estetiska, välbalanserade tavlorna, dom kliniskt rena fotografierna, kvinnornas trevande, osäkra rörelser, hela detta emotionella koncentrationsläger som fäster mig mot exekutionsväggen direkt när jag kommer in. Deras servila samtal som får mig att svettas av olust. Vad har jag i deras läger att göra? Jag kommer in mitt i en slutuppgörelse, tvåkvinnliga statyer i färd med att slita stenarna ur varann underömsesidiga smekningar, jag själv som en främmande krockkudde mellan dom ... jag sitter i en designad fåtölj ochönskar att det var en katapult, den enda värme som finns i rummet kommer från porslinshunden vid alabasterlampan.

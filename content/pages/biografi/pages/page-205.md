@@ -5,6 +5,7 @@ anchor: p-205
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 Orsak 1är färden dit: Duåker Silvervägen från Arjeplog mot Norge, direkt efter Arjeplog dör all uppkoppling ochåterkommer inte förrän du passerar samma punkt från andra hållet. Efter det är du totalt urkopplad, på det planet. Vid en liten by som heter Tjärnberg kliver du in i en helikopter och stiger mot fjällen, såpass lågt att du kan se renarna röra sig över kalfjället. Det är en fantastisk flygfärd (inte såfantastisk för Olivia Rönning i vår senaste bok ” *Fruset Guld* ”, hon gör samma färd men kraschar mot en bergskam efter ettåsknedslag i maskinen). Helikoptern går ner i Miekaks fiskecamp. Den ligger precis intill ett dånande vattenfall, påkanten till en större sjöfull med feta rödingar ochöringar. Där inkvarteras du i en enkel och funktionell trästuga och saknar ingenting.
 ::: indent

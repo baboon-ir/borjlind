@@ -5,6 +5,7 @@ anchor: p-226
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 Grannen blir populäräven här hemma (till dags dato har han över en kvarts miljon följare pånätet), hans specialuttryck ” *Skaru ha en stänkare?”* blir näst intill ” bevingat ”. Mycket beroende påskådespelaren Ingvar Hirdwalls geniala tolkning av karaktären. Hirdwall vet exakt vad jag villåt i all undertext, han har ett sublimtöra för komisk tajming. Rätt snart får han en egen fanclub, den kallar sig ” Kragakademien ”, syftande på den stödkrage Grannen bär.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-050
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Min andra bok heter ” *Dvärgarnas Vendetta* ”. En diktsamling. Bokens skrivs inte ur ett glödande poetiskt behov - jag behöver pengar och måste presentera nåt för att kunna söka ett författarstipendium. Det lyckas inte.
 ::: indent

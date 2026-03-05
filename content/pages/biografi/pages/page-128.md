@@ -5,6 +5,7 @@ anchor: p-128
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1983–1990"
 ---
 ::: indent
 Självägnar jag oförsvarligt många nätteråt att försöka skriva en fortsättning pålitteraturens mest slitna inledning: ” *Det var en mörk och stormig natt* ”.

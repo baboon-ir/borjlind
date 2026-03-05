@@ -5,6 +5,7 @@ anchor: p-257
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 **Satir är inte en underhållningsform. Den som tar satiren i anspråk ska vara medveten om redskapets funktion - satiren är ett rått instrument, utan ironins eleganta undertext eller driftens lättköpta poänger. Swift snarare än Wilde. Den främsta funktionen är inte att roa, utan att beröra och uppröra: att åstadkomma en djupare reaktion. Använd på allvar, är satiren ett anarkistiskt redskap för samhällskritik. Ett vapen, inte en försörjning. Den använder sig av namns nämnande och faktiska företeelser. Av tydlighet - Strindbergs Svarta Fanor, men utan täcknamn.**
 

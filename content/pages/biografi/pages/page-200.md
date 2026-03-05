@@ -5,6 +5,7 @@ anchor: p-200
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: poem
 **döden glider genom bäckenet som en stråle utan ljus**

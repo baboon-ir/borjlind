@@ -5,6 +5,7 @@ anchor: p-067
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Satiren har rullat igång. Min talang när det gäller förlöjligandetsädla konst (en gåva från dadaisterna) sprider sig. Jag kontaktas av SVT för att tillsammans med reportern och författaren Lars-Ragnar Forssberg skriva texter till fem satirprogram som ska heta ” *Kabaré Öppen Final* ” (inte speciellt originellt, menänd å). Vi får göra tre av programmen innan vårt kontrakt bryts. Anledningen kan vara flera. Kanske för att vi visar den nyfödda prinsessan Victorias dop upp och ner? Kanske för att vi visar brösten som ammar den nyfödda? Kanske för att vi tittar in i framtiden och låter Sten Ljunggren uppträda som drottning Victoria, lyckligt gift med en shejk sen hon nobbat en svart man som Palme utsett som gemål? Eller för att jag själv uppträder som tv-presentatör med tvåblågula flaggor utstickande uröronen?
 

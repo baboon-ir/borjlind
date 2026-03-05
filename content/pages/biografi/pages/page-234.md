@@ -5,6 +5,7 @@ anchor: p-234
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 Själv har jag tråcklat mig fram genom spärrar och räddningspersonal, jag har ingen officiell journalistbricka påjackan vilket underlättar, obemärkt har jag trängt mycket nära borrhålet. Jag ser när en av männen försiktigt börjar hala upp linan ur hålet, iänden av den sitter en lapp. Mannen lossar lappen och läser vad som står på den, inte såhögt, bara såatt andra män runt honom hör.

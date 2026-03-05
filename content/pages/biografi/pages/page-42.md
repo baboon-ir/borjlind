@@ -5,6 +5,7 @@ anchor: p-042
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Han, jag, Ove och *Kalle Maräng* ger oss iväg från Löka hamn på Möja. Humöret sprudlar. Solen skiner. Vi har rustat med mat och whisky. *”Hybris II”* klyver det lugna vattnet upp mot Söderarm, sista utposten motÅlands hav. Där, strax innan vi når fram, slår vädret om avsevärt, solen försvinner, lätt regn faller, vinden tilltar. Vi måste fatta ett beslut: vända, ankra upp eller fortsätta.

@@ -5,6 +5,7 @@ anchor: p-171
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 Proceduren runt manuset blir som den brukar med Gösta och mig. Dagenägnasåt prat (och för min del memorering), kvällarna och nätternaåt att fästa ner och redigera allt som har sagts (och umgås med Lena). Jag bor i ett mycket vackert litet rum, eller det är väl tvåi lägenheten, men det jag sitter iär vitkalkat, ett par väggar är strösslade med småikoner, förmodligen föreställande religiösa mysterier, utsikt genom ett blåramat fönster mot en stenbelagd gångväg, vackra blomkrukor.
 ::: indent

@@ -5,6 +5,7 @@ anchor: p-165
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Klargörande 2: Jan Myrdal beskriver sig själv som ” brödskrivare ” (ett mer sympatiskt ordän det fisförnäma ” skriftställare ”) . Jag tycker mycket om det uttrycket. Min tolkning är en författare som skriver för ” bröd ”. För att över leva på sina ord. For better or for worse. Jag har över levt. Allt jag harätit, druckit, klätt mig i, bott i, konsumerat, skänkt bort, är resultatet av det mina tvåhänder har förvandlat till ord (som ett slags redskap för hjärnan).
 ::: indent

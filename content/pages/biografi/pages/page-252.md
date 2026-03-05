@@ -5,6 +5,7 @@ anchor: p-252
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 Sånågra rader om en person med ett beundransvärt civilkurage. Han heter Claes Eriksson och är primus motor i Galenskaparna. Hans film *”Hajen som visste för mycket”* har sänts på TV4 och brutits upp av reklaminslag. Eriksson anser att det kränker hans verk och hans upphovsrätt. TV4 anser inte det. Erikssonåtalar TV4 för avbrotten. Han är medlem i Dramatiker för bundet och vi ställer oss bakom hansåtal. Både han och vi är medvetna om att det kommer att bli en mycket lång och kostsam process, men vi har konfliktmedel vi kan använda för detta.
 ::: indent

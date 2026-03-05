@@ -5,6 +5,7 @@ anchor: p-241
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 **Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev dåsig ro. Han tyckte om när det var över. **
 

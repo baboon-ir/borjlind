@@ -5,6 +5,7 @@ anchor: p-028
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Privat har jag problem i mitt äktenskap. Mitt huvud är ockuperat av en alltmer glupande hunger efter bekräftelse. Balansen mellan familjen och världen utanför blir mer och mer ohållbar. Jag vet inte vad jag villåt, bara att jag villåt det. Påbekostnad av ganska mycket. Det mesta av min tid gåråt till att odla idéer, vansinniga hugskott, det mesta helt obegripligt för alla utom Carsten: jag vill framställa en jättestor palett av skinande svart plast med en enda lång svängd rispa tvärsöver, iänden av rispan ska det ligga en konståkningsskridsko. Den typen av idéer.
 ::: indent

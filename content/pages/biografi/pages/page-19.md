@@ -5,6 +5,7 @@ anchor: p-019
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 Iställetägnar jag en periodåt att försöka importera sandblästrade läderboots till Sverige. ” *Spanish boots of spanish leather* ”. Jag besöker några stövelfabriker i inlandet, ett mycket hett inland, Toledo, Navalmoral, tills jag inser att det är en volymfråga. Jag vill börja med 10 par. Det är ingen som är intresserad av det. Projektet läggs ner.

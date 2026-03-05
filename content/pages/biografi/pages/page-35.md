@@ -5,6 +5,7 @@ anchor: p-035
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 ::: indent
 Vi skriver till Konstakademien i Stockholm och ber att fålåna en ateljémed anledningen av inbjudan till biennalen, eftersom vi ” inte har tillgång till den volym som krävs för det verk vi har tänkt oss ”.

@@ -5,6 +5,7 @@ anchor: p-086
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1976–1982"
 ---
 ::: indent
 En kinesisk servitör dyker upp med mat i händerna. Han ser iskall ut, rör inte en min i ansiktet och ger mig fläsk istället för dom räkor jag har beställt. Han påpekar också att det står folk i kötill vårt bord. Vi blir provocerade och dricker vår kalla, kaliforniska Chablis ytterligt långsamt. Kön till bordet växer, vi njuter av vinet. Till slut stormar servitören fram och kastar fram en lapp framför mig där det står: ” You have an unusual equipment for success, be sure to use it properly! ”

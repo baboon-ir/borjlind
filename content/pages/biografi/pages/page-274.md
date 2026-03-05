@@ -5,6 +5,7 @@ anchor: p-274
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 2020 blir ett märkligtår.
 ::: indent

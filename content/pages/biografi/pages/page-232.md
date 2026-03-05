@@ -5,6 +5,7 @@ anchor: p-232
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 ::: indent
 – Jonas, det är litteratur, fiktion, ” jaget ” kan vara du eller din mamma eller en självmordsbombare i Beirut. Vad tycker du om filmen?

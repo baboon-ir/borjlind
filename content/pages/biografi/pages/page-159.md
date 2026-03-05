@@ -5,6 +5,7 @@ anchor: p-159
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 Idén till historien kommer från LasseÅberg och producenten Bosse Jonsson. Huvudrollen som Karl XII ska göras av Gösta Ekman, omgiven av bland annatÅberg, Brasse Brännström, Lena Nyman och Sten Ljunggren. Regi: Mats Arehn. Filmen ska spelas in i Ungern.
 ::: indent

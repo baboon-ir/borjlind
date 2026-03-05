@@ -5,6 +5,7 @@ anchor: p-072
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1969–1975"
 ---
 Nedanför maskerna står en telefon. När besökarna lyfter påluren spelas det upp ettäckligt anonymt telefonhot som jag har fått, en man som avser att skära av mina testiklar en mörk natt.
 ::: indent

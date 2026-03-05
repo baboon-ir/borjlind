@@ -5,6 +5,7 @@ anchor: p-216
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2007–2012"
 ---
 ::: indent
 Rätt snabbt byter vi sjukhuset mot vår lägenhet på Bondegatan, korsningen Nytorgsgatan. För mig är det en märklig känsla att bo på Söder igen. På50-talet hängde jag i Björns Trädgård och spelade fotboll på den sandplan som fortfarande ligger kvar vid Folkungagatan. Brandstationen på Tjärhovsgatan ser nästintill intakt ut på utsidan. Det anrika huset som härbärgerade polisstationen är kvar, men stationen är flyttad några hundra meter. Huset minns jag eftersom det var på den vinden vi hittade en försvarlig packe porrtidningar och drog upp på Fåfängan för att runka (i förhållande till dagens porrexplosion pånätet var dåtidens tidningar extremt pryda, kanske en skymtande bröstkant under en bikinitop, men det räckte). Idag sitter ungdomen påkafé String och dricker latte med exotiska kryddor och pratar om sin favoritinfluencers.

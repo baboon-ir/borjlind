@@ -5,6 +5,7 @@ anchor: p-166
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Jag vet hur jag själv fungerar när jag ska läsa en ny bok: första sidan, ofta bara första meningen - vrider det inte till dåorkar jag inte fortsätta (naturligtvis ett idiotiskt sätt att förhålla sig till litteratur, men jag får pungsvett när en bok inleds med tvåsidors uppräkning av alla inblandades namn och yrken, ibland följt av kartor!). Jag vill slukas direkt, vilket gör att jag sällan har fullföljt dom böcker som jag kunde ha haft nytta av, rent litterärt.

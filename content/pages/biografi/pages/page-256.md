@@ -5,6 +5,7 @@ anchor: p-256
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2018–2024"
 ---
 ::: poem
 **När tappade vi det?**

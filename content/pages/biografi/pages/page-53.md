@@ -5,6 +5,7 @@ anchor: p-053
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 **Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och förödmjukande underkastelse, vi ser den mentala klaustrofobin brinna i hennes vilda, blågula ögon, vi känner ensamhetens kalla vindar svepa över landet.   **
 

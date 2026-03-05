@@ -5,6 +5,7 @@ anchor: p-016
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1942–1955"
 ---
 ::: indent
 – Nej. Hon ville nog inte att jag skulle göra det.

@@ -5,6 +5,7 @@ anchor: p-144
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1991–1998"
 ---
 ::: indent
 Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jagälskarögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett brak som får rosettfönstren att skallra. Jag tittar på Stefan. Han ler. Jag går fram mot scenkanten, bugar och börjar framföra min dikt ” *Vem kan tatuera ett telefonnummer över min skräck?* ”

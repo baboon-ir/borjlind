@@ -5,6 +5,7 @@ anchor: p-190
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1999–2006"
 ---
 ::: indent
 Reflektion: Med hänsyn till den enorma blandningen av utpräglade individualister och fågivna kommandon (i princip inga körscheman över huvudtaget)är det imponerande hur friktionslöst inspelningen genomförs, hur den genomsyras av respekt för var och en som deltar, hur själva sammelsuriet är befruktande.

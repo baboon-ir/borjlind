@@ -5,6 +5,7 @@ anchor: p-227
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "2013–2017"
 ---
 Extra trängd blir jag av det faktum att konflikten hanteras av min näre vän Lars Blomgren. Till slut enas vi om en kompromiss: Grannen får användasäven i fortsättningen, under förutsättning att jag ersätts rundligt för varje film han ingår i. En deal som skapar blodstörtning hos några personer på Nordisk Film som anser att det är orimligt att dom ska betala för nåt dom redanäger.
 ::: indent

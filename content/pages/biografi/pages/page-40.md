@@ -5,6 +5,7 @@ anchor: p-040
 permalink: false
 tags: [biografiPage]
 layout: biography
+yearGroup: "1956–1968"
 ---
 Mötet med byn och dess innevånare blir omtumlande. Vi är två långhåriga ufon från Stockholm som skaägna ossåt att ” skapa ”. Byn ligger mitt inne skogen och består av en smal grusväg kantad av låga, delvis prefabricerade hus. I slutet av vägen ligger en klassisk lanthandel med lång disk och ett brett utbud av konserver. Inklusive fiskbullar. Själva vägen slutar vid en insjöfull med tusenbröder.
 ::: indent
