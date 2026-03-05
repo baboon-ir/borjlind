@@ -48,7 +48,7 @@
 
 ### Teknisk städning
 
-- [ ] **TECH-01**: Hårdkodat sidantal (276) ersätts med en enda konfigurationspunkt i `.eleventy.js` — refereras från alla mallar och JS
+- [x] **TECH-01**: Hårdkodat sidantal (276) ersätts med en enda konfigurationspunkt i `.eleventy.js` — refereras från alla mallar och JS
 
 ## v2 Requirements
 
@@ -101,7 +101,7 @@
 | NAV-04 | Phase 2 | Pending |
 | LAYOUT-01 | Phase 2 | Pending |
 | LAYOUT-02 | Phase 2 | Pending |
-| TECH-01 | Phase 2 | Pending |
+| TECH-01 | Phase 2 | Complete |
 
 **Coverage:**
 - v1 requirements: 27 total

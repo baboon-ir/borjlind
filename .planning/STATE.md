@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 02-ebook-reader-02-PLAN.md
-last_updated: "2026-03-05T15:48:39.613Z"
+stopped_at: Completed 02-ebook-reader plan 01 (TECH-01 foundation)
+last_updated: "2026-03-05T15:49:02.778Z"
 last_activity: 2026-03-04 — Roadmap created, 27 v1 requirements mapped to 3 phases
 progress:
   total_phases: 3
   completed_phases: 1
   total_plans: 8
-  completed_plans: 3
+  completed_plans: 4
   percent: 50
 ---
 
@@ -53,6 +53,7 @@ Progress: [█████░░░░░] 50%
 | Phase 01-css-foundation P01 | 4 | 1 tasks | 2 files |
 | Phase 01-css-foundation P02 | 10 | 2 tasks | 14 files |
 | Phase 02-ebook-reader P02 | 10 | 1 tasks | 277 files |
+| Phase 02-ebook-reader P01 | 16 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -72,6 +73,8 @@ Recent decisions affecting current work:
 - [Phase 01-css-foundation]: Human verified visual parity across all 5 page types — Home, Biography, Minnen, Memory detail, Appendix all confirmed matching original Tailwind output
 - [Phase 02-ebook-reader]: yearGroup placeholder ranges used (10 groups, 1942–2024); user replaces with real boundaries before production
 - [Phase 02-ebook-reader]: Migration script deleted after run; check-frontmatter.js kept as permanent verification tool
+- [Phase 02-ebook-reader]: TOTAL_PAGES constant at module level in .eleventy.js drives all loop bounds and is exposed via addGlobalData to all Nunjucks templates
+- [Phase 02-ebook-reader]: Kept existing check-frontmatter.js unchanged — already present and more capable than spec; all 276 biography pages already had yearGroup frontmatter
 
 ### Pending Todos
 
@@ -84,6 +87,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-05T15:48:39.611Z
-Stopped at: Completed 02-ebook-reader-02-PLAN.md
+Last session: 2026-03-05T15:49:02.776Z
+Stopped at: Completed 02-ebook-reader plan 01 (TECH-01 foundation)
 Resume file: None
