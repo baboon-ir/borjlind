@@ -43,7 +43,15 @@ Plans:
   3. The table of contents lists all year periods and jumping to one lands on the correct first page of that period
   4. Closing the browser and reopening returns the reader to the last page read
   5. Pages containing video or large images display correctly — media gets its own dedicated page slot
-**Plans**: TBD
+**Plans**: 6 plans
+
+Plans:
+- [ ] 02-01-PLAN.md — Extract TOTAL_PAGES constant in .eleventy.js + create Wave 0 validation scripts
+- [ ] 02-02-PLAN.md — Add yearGroup frontmatter to all 276 biography page .md files
+- [ ] 02-03-PLAN.md — Add reader CSS to main.css (container, visibility model, controls bar, TOC panel)
+- [ ] 02-04-PLAN.md — Replace bio-reader.js with new paged reader controller (swipe, keyboard, localStorage, year badge)
+- [ ] 02-05-PLAN.md — Update templates and Eleventy data pipeline (yearGroupMap collection, biography.njk, bio-controls.njk, bio-page.njk, bio-toc.njk)
+- [ ] 02-06-PLAN.md — Human verify: device testing checkpoint (iOS swipe, edge-swipe, keyboard, TOC, localStorage)
 
 ### Phase 3: Design Polish
 **Goal**: The typography, colour, and spacing of the reader are optimised for long-form reading — the experience feels like holding a printed book, not browsing a website.
@@ -64,5 +72,5 @@ Phases execute in numeric order: 1 → 2 → 3
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. CSS Foundation | 2/2 | Complete    | 2026-03-05 |
-| 2. E-book Reader | 0/? | Not started | - |
+| 2. E-book Reader | 0/6 | Not started | - |
 | 3. Design Polish | 0/? | Not started | - |
