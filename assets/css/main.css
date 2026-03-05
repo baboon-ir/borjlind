@@ -21,6 +21,16 @@
   --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Inter, Arial, sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+
+  /* Reader semantic tokens (Phase 2 — e-book reader) */
+  --rb-bg: #1c1d1e;
+  --rb-surface: #282828;
+  --rb-text: #fdf9f0;
+  --rb-text-muted: rgb(113, 113, 122);
+  --rb-border: rgba(253, 249, 240, 0.2);
+  --rb-accent: #4169e1;
+  --rb-font-body: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --rb-font-heading: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 @media (min-width: 768px) {
@@ -1204,4 +1214,189 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   .appendix-content {
     width: 100%;
   }
+}
+
+/* =====================================================
+   E-BOOK READER — Container layout (Phase 2)
+   READER-08: 100dvh container, READER-03: touch-action
+===================================================== */
+
+.rb-bio-reader-wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.rb-bio-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+  touch-action: pan-y;           /* iOS Safari: signal horizontal swipe interest */
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* =====================================================
+   E-BOOK READER — Page visibility model (Phase 2)
+   READER-01: one page visible, LAYOUT-02: local scroll
+===================================================== */
+
+/* Inactive pages: hidden from render pipeline, no layout cost */
+.rb-bio-container .rb-bio-page:not(.is-active) {
+  content-visibility: hidden;
+  contain-intrinsic-size: auto 800px;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+/* Active page: full rendering + local vertical scroll for accordions */
+.rb-bio-container .rb-bio-page.is-active {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 800px;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  min-height: 0;
+  flex: 1;
+}
+
+/* =====================================================
+   E-BOOK READER — Controls bar (Phase 2)
+   READER-04: prev/next buttons, READER-06: page indicator
+===================================================== */
+
+.rb-controls-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--rb-surface);
+  border-top: 1px solid var(--rb-border);
+  flex-shrink: 0;
+}
+
+.rb-ctrl-btn {
+  background: transparent;
+  border: 1px solid var(--rb-border);
+  color: var(--rb-text);
+  cursor: pointer;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  line-height: 1;
+  min-width: 2.5rem;
+}
+
+.rb-ctrl-btn:hover {
+  background: var(--rb-border);
+}
+
+.rb-ctrl-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.125rem;
+  flex: 1;
+}
+
+.rb-page-indicator {
+  font-size: 0.875rem;
+  color: var(--rb-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.rb-year-badge {
+  font-size: 0.75rem;
+  color: var(--rb-text-muted);
+}
+
+/* =====================================================
+   E-BOOK READER — TOC panel (Phase 2)
+   NAV-03: year-structured table of contents
+===================================================== */
+
+.rb-toc-panel {
+  position: fixed;
+  inset: 0;
+  background: var(--rb-bg);
+  z-index: 200;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  /* Hidden state — toggled by JS adding .is-open */
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s, visibility 0s 0.2s;
+}
+
+.rb-toc-panel.is-open {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.2s, visibility 0s;
+}
+
+.rb-toc-inner {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.rb-toc-close {
+  align-self: flex-end;
+  background: transparent;
+  border: 1px solid var(--rb-border);
+  color: var(--rb-text);
+  cursor: pointer;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.rb-toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.rb-toc-item {
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: 1px solid var(--rb-border);
+  color: var(--rb-text);
+  cursor: pointer;
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.rb-toc-item:hover {
+  background: var(--rb-surface);
+}
+
+/* =====================================================
+   E-BOOK READER — Media page layout (Phase 2)
+   LAYOUT-01: dedicated page slot for video/image pages
+===================================================== */
+
+.rb-bio-page--media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.rb-bio-page--media img,
+.rb-bio-page--media .rb-yt-embed {
+  max-height: 80dvh;
+  width: auto;
+  max-width: 100%;
 }
