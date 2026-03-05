@@ -1,7 +1,9 @@
-<div class="rb-controls-outer rb-controls">
-  <div class="rb-controls-inner">
-    <div class="rb-controls-group" data-page-display>
-      <input class="rb-page-input" type="number" min="1" max="1000" value="1" data-page-input />
-    </div>
+<div class="rb-controls-bar" data-controls>
+  <button class="rb-ctrl-btn" data-prev aria-label="Föregående sida">&#8592;</button>
+  <div class="rb-ctrl-center">
+    <span class="rb-page-indicator" data-page-indicator>1 / {{ TOTAL_PAGES }}</span>
+    <span class="rb-year-badge" data-year-badge></span>
   </div>
+  <button class="rb-ctrl-btn" data-next aria-label="Nästa sida">&#8594;</button>
+  <button class="rb-ctrl-btn" data-toc-toggle aria-label="Innehållsförteckning">&#9776;</button>
 </div>

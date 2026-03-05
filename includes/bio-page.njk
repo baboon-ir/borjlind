@@ -1,8 +1,10 @@
-{# expects: page (object with data.page, data.anchor, templateContent) #}
+{# expects: page (object with data.page, data.anchor, data.mediaPage, templateContent) #}
 {% set pageNum = page.data.page.number or page.data.pageNum or page.data.pageNumber %}
-<section id="{{ page.data.anchor }}" data-page="{{ pageNum }}" class="rb-bio-page">
+<section id="{{ page.data.anchor }}"
+         data-page="{{ pageNum }}"
+         class="rb-bio-page{% if page.data.mediaPage %} rb-bio-page--media{% endif %}">
   <div class="rb-page-meta">
-    <div class="rb-page-meta-text">Page {{ pageNum }}/276</div>
+    <div class="rb-page-meta-text">Sida {{ pageNum }} / {{ TOTAL_PAGES }}</div>
     <a class="rb-page-meta-text" href="#{{ page.data.anchor }}">#{{ page.data.anchor }}</a>
   </div>
 
@@ -14,4 +16,3 @@
     <div class="rb-page-placeholder">(Demo saknar innehåll för den här sidan.)</div>
   {% endif %}
 </section>
- 

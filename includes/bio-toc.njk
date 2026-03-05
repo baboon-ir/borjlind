@@ -1,0 +1,15 @@
+{# TOC panel — NAV-03: year-structured table of contents #}
+<div class="rb-toc-panel" data-toc-panel aria-hidden="true">
+  <div class="rb-toc-inner">
+    <button class="rb-toc-close" data-toc-close aria-label="Stäng innehållsförteckning">&#10005;</button>
+    <ul class="rb-toc-list">
+      {% for group in collections.yearGroupMap %}
+        <li>
+          <button class="rb-toc-item" data-toc-page="{{ group.firstPage }}">
+            {{ group.yearGroup }}
+          </button>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

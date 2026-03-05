@@ -3,19 +3,26 @@ layout: base.njk
 bodyClass: ""
 mainClass: "rb-main-full"
 ---
-<section class="rb-title-block">
-  <div class="rb-title-author">Rolf Börjlind</div>
-  <div class="rb-hero-title">bit den hand <br>som föder dig</div>
-</section>
+{# NAV-02: bake year groups into HTML at build time — no runtime fetch #}
+<script type="application/json" id="rb-year-groups">{{ collections.yearGroupMap | json | safe }}</script>
 
-{% include "bio-controls.njk" %}
+<div class="rb-bio-reader-wrap">
+  <section class="rb-title-block">
+    <div class="rb-title-author">Rolf Börjlind</div>
+    <div class="rb-hero-title">bit den hand <br>som föder dig</div>
+  </section>
 
-<div class="rb-bio-container" data-bio-pages>
-  {% for p in collections.biografiAll %}
-    {% set page = p %}
-    {% include "bio-page.njk" %}
-    {# <div class="rb-sep" aria-hidden="true">∗</div> #}
-  {% endfor %}
+  {% include "bio-controls.njk" %}
+
+  {# TECH-01: data-total exposes TOTAL_PAGES to bio-reader.js #}
+  <div class="rb-bio-container" data-bio-pages data-total="{{ TOTAL_PAGES }}">
+    {% for p in collections.biografiAll %}
+      {% set page = p %}
+      {% include "bio-page.njk" %}
+    {% endfor %}
+  </div>
 </div>
+
+{% include "bio-toc.njk" %}
 
 <script>document.body.dataset.biography = '1';</script>
