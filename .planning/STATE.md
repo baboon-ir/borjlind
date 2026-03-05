@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: planning
-stopped_at: Completed 02-ebook-reader plan 03 (reader CSS — 5 sections, --rb-* tokens)
-last_updated: "2026-03-05T16:29:33.185Z"
+stopped_at: Completed 02-ebook-reader plan 05 (Eleventy data pipeline and template restructure)
+last_updated: "2026-03-05T16:36:47.574Z"
 last_activity: 2026-03-04 — Roadmap created, 27 v1 requirements mapped to 3 phases
 progress:
   total_phases: 3
   completed_phases: 1
   total_plans: 8
-  completed_plans: 6
+  completed_plans: 7
   percent: 50
 ---
 
@@ -56,6 +56,7 @@ Progress: [█████░░░░░] 50%
 | Phase 02-ebook-reader P01 | 16 | 2 tasks | 2 files |
 | Phase 02-ebook-reader P04 | 19 | 1 tasks | 1 files |
 | Phase 02-ebook-reader P03 | 5 | 1 tasks | 1 files |
+| Phase 02-ebook-reader P05 | 8 | 2 tasks | 5 files |
 
 ## Accumulated Context
 
@@ -80,6 +81,9 @@ Recent decisions affecting current work:
 - [Phase 02-ebook-reader]: bio:page key stores plain integer string (not JSON) — simpler persistence than old bio:last scroll payload
 - [Phase 02-ebook-reader]: TOTAL_PAGES reads from container data-total attribute with 276 as fallback — no hardcoded value in logic paths
 - [Phase 02-ebook-reader]: Added --rb-* CSS custom properties to :root — plan stated they existed in Phase 1 but were absent; mapped to existing palette values
+- [Phase 02-ebook-reader]: yearGroupMap baked as inline JSON at build time — no runtime fetch
+- [Phase 02-ebook-reader]: bio-toc.njk placed outside rb-bio-reader-wrap to allow full-viewport overlay
+- [Phase 02-ebook-reader]: bio-page.njk uses TOTAL_PAGES global data — zero hardcoded 276 remain in templates
 
 ### Pending Todos
 
@@ -92,6 +96,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-05T16:29:33.183Z
-Stopped at: Completed 02-ebook-reader plan 03 (reader CSS — 5 sections, --rb-* tokens)
+Last session: 2026-03-05T16:36:47.572Z
+Stopped at: Completed 02-ebook-reader plan 05 (Eleventy data pipeline and template restructure)
 Resume file: None

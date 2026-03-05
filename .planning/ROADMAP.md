@@ -72,5 +72,5 @@ Phases execute in numeric order: 1 → 2 → 3
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. CSS Foundation | 2/2 | Complete    | 2026-03-05 |
-| 2. E-book Reader | 4/6 | In Progress|  |
+| 2. E-book Reader | 5/6 | In Progress|  |
 | 3. Design Polish | 0/? | Not started | - |

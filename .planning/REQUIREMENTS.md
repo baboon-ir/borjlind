@@ -37,14 +37,14 @@
 ### E-boksläsare — årsnavigation
 
 - [x] **NAV-01**: `yearGroup`-metadata läggs till i frontmatter på varje biografisida (innehållsbeslut — vilka sidor tillhör vilket årsintervall)
-- [ ] **NAV-02**: Eleventy exponerar årsindelningsdata som global data vid build-time (bakat in i HTML, ingen runtime-fetch)
-- [ ] **NAV-03**: Innehållsförteckning (panel eller overlay) listar alla årsperioder och låter användaren hoppa direkt till en period
+- [x] **NAV-02**: Eleventy exponerar årsindelningsdata som global data vid build-time (bakat in i HTML, ingen runtime-fetch)
+- [x] **NAV-03**: Innehållsförteckning (panel eller overlay) listar alla årsperioder och låter användaren hoppa direkt till en period
 - [x] **NAV-04**: Aktuell årsperiod indikeras visuellt under läsning (uppdateras när sida byter)
 
 ### Sidlayout — rikt innehåll
 
-- [ ] **LAYOUT-01**: Sidor där video eller bild inte ryms tillsammans med text renderas som egna dedikerade sidor (hanteras vid build-time i Eleventy-konfigurationen)
-- [ ] **LAYOUT-02**: Dropdowns/accordions (`<details>`) expanderar sidan vertikalt — lokal vertikal scroll tillåts på sidor med expanderat innehåll
+- [x] **LAYOUT-01**: Sidor där video eller bild inte ryms tillsammans med text renderas som egna dedikerade sidor (hanteras vid build-time i Eleventy-konfigurationen)
+- [x] **LAYOUT-02**: Dropdowns/accordions (`<details>`) expanderar sidan vertikalt — lokal vertikal scroll tillåts på sidor med expanderat innehåll
 
 ### Teknisk städning
 
@@ -96,11 +96,11 @@
 | READER-08 | Phase 2 | Complete |
 | READER-09 | Phase 2 | Complete |
 | NAV-01 | Phase 2 | Complete |
-| NAV-02 | Phase 2 | Pending |
-| NAV-03 | Phase 2 | Pending |
+| NAV-02 | Phase 2 | Complete |
+| NAV-03 | Phase 2 | Complete |
 | NAV-04 | Phase 2 | Complete |
-| LAYOUT-01 | Phase 2 | Pending |
-| LAYOUT-02 | Phase 2 | Pending |
+| LAYOUT-01 | Phase 2 | Complete |
+| LAYOUT-02 | Phase 2 | Complete |
 | TECH-01 | Phase 2 | Complete |
 
 **Coverage:**
