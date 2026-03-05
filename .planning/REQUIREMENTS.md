@@ -36,7 +36,7 @@
 
 ### E-boksläsare — årsnavigation
 
-- [ ] **NAV-01**: `yearGroup`-metadata läggs till i frontmatter på varje biografisida (innehållsbeslut — vilka sidor tillhör vilket årsintervall)
+- [x] **NAV-01**: `yearGroup`-metadata läggs till i frontmatter på varje biografisida (innehållsbeslut — vilka sidor tillhör vilket årsintervall)
 - [ ] **NAV-02**: Eleventy exponerar årsindelningsdata som global data vid build-time (bakat in i HTML, ingen runtime-fetch)
 - [ ] **NAV-03**: Innehållsförteckning (panel eller overlay) listar alla årsperioder och låter användaren hoppa direkt till en period
 - [ ] **NAV-04**: Aktuell årsperiod indikeras visuellt under läsning (uppdateras när sida byter)
@@ -95,7 +95,7 @@
 | READER-07 | Phase 2 | Pending |
 | READER-08 | Phase 2 | Pending |
 | READER-09 | Phase 2 | Pending |
-| NAV-01 | Phase 2 | Pending |
+| NAV-01 | Phase 2 | Complete |
 | NAV-02 | Phase 2 | Pending |
 | NAV-03 | Phase 2 | Pending |
 | NAV-04 | Phase 2 | Pending |
