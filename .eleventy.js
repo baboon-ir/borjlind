@@ -280,6 +280,24 @@ module.exports = function (eleventyConfig) {
     return out;
   });
 
+
+  // NAV-02: build year group map for TOC data pipeline
+  eleventyConfig.addCollection("yearGroupMap", (api) => {
+    const items = api.getFilteredByTag("biografiPage");
+    const getNum = (it) => (it.data.page && it.data.page.number) || 0;
+    const sorted = [...items].sort((a, b) => getNum(a) - getNum(b));
+    const groups = [];
+    const seen = new Set();
+    for (const item of sorted) {
+      const yg = item.data.yearGroup;
+      if (yg && !seen.has(yg)) {
+        seen.add(yg);
+        groups.push({ yearGroup: yg, firstPage: getNum(item) });
+      }
+    }
+    return groups;
+  });
+
   // Redirect pagination data (1..276)
   eleventyConfig.addGlobalData("bioRedirectPages", () => {
     const arr = [];
