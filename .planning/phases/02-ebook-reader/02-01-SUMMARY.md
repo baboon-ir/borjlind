@@ -72,7 +72,7 @@ Each task was committed atomically:
 1. **Task 1: Extract TOTAL_PAGES constant in .eleventy.js** - `4638f1a` (feat)
 2. **Task 2: Create Wave 0 validation scripts** - `540cb4c` (feat)
 
-**Plan metadata:** _(pending)_
+**Plan metadata:** `f050b93` (docs: complete plan)
 
 ## Files Created/Modified
 
@@ -101,6 +101,15 @@ None - no external service configuration required.
 - TECH-01 prerequisite satisfied: all Wave 2 plans can reference `{{ TOTAL_PAGES }}` in templates and `data-total` attribute
 - `scripts/validate-build.js` ready for Wave 2 verification commands; use `--strict` flag after plans 02-04/02-05 are wired
 - `scripts/check-frontmatter.js` confirms all 276 biography pages have yearGroup — plan 02-02 can proceed directly to validating year-period boundaries
+
+## Self-Check: PASSED
+
+- .eleventy.js: FOUND
+- scripts/validate-build.js: FOUND
+- scripts/check-frontmatter.js: FOUND
+- .planning/phases/02-ebook-reader/02-01-SUMMARY.md: FOUND
+- Commit 4638f1a: FOUND
+- Commit 540cb4c: FOUND
 
 ---
 *Phase: 02-ebook-reader*
