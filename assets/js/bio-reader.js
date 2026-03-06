@@ -269,7 +269,8 @@
     wireResize();
 
     const hashPage = getHashSourcePage();
-    if (hashPage && jumpToSourcePage(hashPage)) return;
+    // Keep the dedicated cover as initial page. Deep-link from page 2+ still works.
+    if (hashPage && hashPage > 1 && jumpToSourcePage(hashPage)) return;
 
     // No hash: always start from the beginning.
     showPosition(0, 0, false);

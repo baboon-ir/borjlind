@@ -1230,7 +1230,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   align-items: center;
   justify-content: space-between;
   text-align: left;
-  padding: 0.35rem 0.25rem 0.25rem;
+  padding: 1rem 1rem 0.25rem;
 }
 
 .rb-reader-kicker-title {
@@ -1306,7 +1306,12 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 @media (max-width: 768px) {
-  .rb-bio-container .rb-segment.is-active {
+  .rb-reader-kicker {
+    padding-bottom: 2rem;
+  }
+
+  .rb-cover-page,
+  .rb-segment .rb-page-prose {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
   }
