@@ -17,7 +17,7 @@
   const formatSpan = (start, end) => (start === end ? `${start}` : `${start}-${end}`);
 
   // column = screen column index inside active segment
-  let state = { segment: 0, column: 0 };
+  let state = { segment: -1, column: 0 };
 
   // --- Element helpers ---
   const getSegmentEl = (idx) => document.getElementById(`segment-${idx}`);

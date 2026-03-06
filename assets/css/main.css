@@ -1298,10 +1298,18 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   max-width: 628px;
   margin-left: auto;
   margin-right: auto;
+  box-sizing: border-box;
   column-gap: 0;
   column-fill: auto;
   overflow: hidden;        /* JS controls scrollLeft — no native scroll */
   /* column-width set by JS to el.clientWidth */
+}
+
+@media (max-width: 768px) {
+  .rb-bio-container .rb-segment.is-active {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
 }
 
 /* Page anchor markers — zero height, preserve id targets */
