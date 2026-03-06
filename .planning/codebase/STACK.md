@@ -1,105 +1,114 @@
 # Technology Stack
 
-**Analysis Date:** 2026-03-04
+**Analysis Date:** 2026-03-06
 
-## Languages
+## Snapshot
 
-**Primary:**
-- JavaScript (Node.js) - Build tooling, configuration
-- Markdown - Content format for all pages
-- Nunjucks (njk) - HTML templating engine for layouts and includes
-- CSS - Styling via Tailwind
+- Static site built with Eleventy 3 and rendered to `_site` via `npm run build` in [package.json](/Users/hakanfilip/my-workspace/projects/borjlind/package.json).
+- Main build/runtime wiring lives in [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js).
+- Frontend is plain CSS plus small vanilla JS files, not Tailwind/PostCSS anymore:
+  [assets/css/main.css](/Users/hakanfilip/my-workspace/projects/borjlind/assets/css/main.css),
+  [assets/js/nav.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/nav.js),
+  [assets/js/bio-reader.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/bio-reader.js).
 
-**Secondary:**
-- Python - Utility scripts for content preprocessing (fix-spacing.py, import-biography.py, etc.)
+## Languages And Templating
 
-## Runtime
+- JavaScript / Node.js
+  Used for Eleventy config, collections, filters, and browser behavior.
+  Key files:
+  [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js),
+  [_data/chapters.js](/Users/hakanfilip/my-workspace/projects/borjlind/_data/chapters.js),
+  [assets/js/bio-reader.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/bio-reader.js).
+- Markdown
+  Primary content format under [content/pages](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages).
+- Nunjucks
+  Layout/includes layer under [layouts](/Users/hakanfilip/my-workspace/projects/borjlind/layouts) and [includes](/Users/hakanfilip/my-workspace/projects/borjlind/includes).
+- CSS
+  Hand-written stylesheet in [assets/css/main.css](/Users/hakanfilip/my-workspace/projects/borjlind/assets/css/main.css).
 
-**Environment:**
-- Node.js (version 22 specified in GitHub Actions) - Development and build
+## Build And Runtime
 
-**Package Manager:**
-- npm - Dependency management
-- Lockfile: `package-lock.json` (present)
+- Package manager: npm
+- App type: static site, no server runtime
+- Dev command: `npm run dev` -> `eleventy --serve --watch` in [package.json](/Users/hakanfilip/my-workspace/projects/borjlind/package.json)
+- Build command: `npm run build` -> `eleventy`
+- Output dir: `_site` from [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js)
+- CI runtime target: Node.js 22 in [.github/workflows/deploy.yml.disabled](/Users/hakanfilip/my-workspace/projects/borjlind/.github/workflows/deploy.yml.disabled)
 
-## Frameworks
+## Direct Dependencies
 
-**Core:**
-- Eleventy (11ty) v2.0.1 - Static site generator (SSG)
-  - Template formats: Markdown (md), Nunjucks (njk), HTML
-  - Output directory: `_site`
+- `@11ty/eleventy` `^3.1.2`
+  Core SSG, configured in [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js).
+- `markdown-it` `^14.1.0`
+  Custom markdown pipeline with HTML enabled and custom rendering rules in [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js).
+- `markdown-it-container` `^4.0.0`
+  Supports custom blocks such as `::: center`, `::: quote`, `::: accordion`, `::: poem`, `::: video`.
+- `markdown-it-implicit-figures` `^0.12.0`
+  Converts markdown images to figures/captions.
+- `eleventy-plugin-embed-everything` `^1.21.1`
+  Registered as an Eleventy plugin in [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js).
 
-**Markdown Processing:**
-- markdown-it v14.1.0 - Markdown parser and renderer
-- markdown-it-container v4.0.0 - Support for custom containers (`::: center`, `::: poem`, `::: accordion`, etc.)
-- markdown-it-implicit-figures v0.12.0 - Converts images with alt text to `<figure>` elements with captions
+## Eleventy Configuration
 
-**Embedding:**
-- eleventy-plugin-embed-everything v1.21.1 - Auto-embeds external content (YouTube, Twitter, etc.)
+- Input/output/includes/layouts are all declared in [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js):
+  input `.`, output `_site`, includes `includes`, layouts `layouts`.
+- Template formats: `md`, `njk`, `html`.
+- Markdown engine: Nunjucks for markdown and HTML templates.
+- Ignored from site build:
+  `docs/**`, `README.md`, `**/.trash_restructure/**`, `.planning/**`.
+- Passthrough copy explicitly publishes:
+  `assets/css/main.css`,
+  `assets/js/bio-reader.js`,
+  `assets/js/nav.js`,
+  `assets/images/**`.
 
-**Styling:**
-- Tailwind CSS v3.4.10 - Utility-first CSS framework
-  - Plugin: @tailwindcss/typography v0.5.15 - Prose styling for markdown content
+## Content Model
 
-**Build & CSS:**
-- PostCSS v8.4.38 - CSS transformation pipeline
-- autoprefixer v10.4.19 - Adds vendor prefixes for cross-browser compatibility
+- Main sections:
+  [content/pages/index.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/index.md),
+  [content/pages/biografi/index.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/index.md),
+  [content/pages/minnen/index.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/minnen/index.md),
+  [content/pages/appendix.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/appendix.md).
+- Biography content is page-based markdown under [content/pages/biografi/pages](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/pages).
+- Chapter metadata is centralized in [_data/chapters.js](/Users/hakanfilip/my-workspace/projects/borjlind/_data/chapters.js).
 
-**Development:**
-- npm-run-all v4.1.5 - Run multiple npm scripts in parallel/sequence
+## Collections And Filters
 
-## Key Dependencies
+- `minnen`
+  Tag-based collection for memory pages.
+- `biografiPages`
+  Sorted biography markdown pages.
+- `biografiAll`
+  Generates a full 1..276 page sequence with placeholders for missing content.
+- `yearGroupMap`
+  Derives TOC-related year group metadata.
+- `biografiChapters`
+  Groups biography pages into 20 chapters from `_data/chapters.js`.
+- Filters:
+  `pad3`, `bioRender`, `chaptersMeta`, `json`.
 
-**Critical:**
-- @11ty/eleventy v2.0.1 - Core static site generation; templates, collections, filters, passthrough copy
-- markdown-it v14.1.0 - Markdown rendering with lazy-load images and custom HTML output
+## Frontend Runtime
 
-**Infrastructure:**
-- markdown-it-container v4.0.0 - Enables semantic markdown blocks (accordions, quotes, poems, sections)
-- eleventy-plugin-embed-everything v1.21.1 - YouTube/video embedding from markdown links
-- Tailwind CSS v3.4.10 - Responsive design, dark mode theming
+- Global base template in [layouts/base.njk](/Users/hakanfilip/my-workspace/projects/borjlind/layouts/base.njk) always loads:
+  `/assets/css/main.css`,
+  `/assets/js/nav.js`,
+  `/assets/js/bio-reader.js`.
+- Main site navigation behavior is handled by [assets/js/nav.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/nav.js).
+- The e-book reader at [layouts/biography.njk](/Users/hakanfilip/my-workspace/projects/borjlind/layouts/biography.njk) depends on:
+  JSON metadata injected into `#rb-chapter-data`,
+  chapter containers with `id="chapter-{id}"`,
+  client-side pagination/state in [assets/js/bio-reader.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/bio-reader.js).
 
-## Configuration
+## Styling
 
-**Environment:**
-- No environment variables detected; static site with no runtime secrets
-- Build-time configuration only
+- Styling is consolidated into one handwritten stylesheet:
+  [assets/css/main.css](/Users/hakanfilip/my-workspace/projects/borjlind/assets/css/main.css).
+- CSS declares its own tokens, reset, layout, navigation, and reader styles.
+- README explicitly says "Ingen Tailwind längre" in [README.md](/Users/hakanfilip/my-workspace/projects/borjlind/README.md), which matches the absence of Tailwind/PostCSS config files in the repo root.
 
-**Build:**
-- `.eleventy.js` - Main Eleventy configuration
-  - Input directory: `.` (root)
-  - Output directory: `_site`
-  - Include paths: `includes/`, `layouts/`
-  - Collections: `minnen` (memories), `biografiPages` (biography pages), `biografiAll` (1-276 paginated)
-  - Global data: `bioRedirectPages` for pagination compatibility
-- `postcss.config.cjs` - PostCSS pipeline for CSS processing
-- `tailwind.config.cjs` - Tailwind theme customization
-  - Extends color palette: `dark` (#1c1d1e), `hub` (#282828), `light` (#fdf9f0)
-  - Font families: serif (Georgia, Times), sans (System UI stack), mono (SFMono, Menlo, Monaco)
+## Practical Observations
 
-## Platform Requirements
-
-**Development:**
-- Node.js 22+
-- npm (comes with Node.js)
-- Unix-like shell for `npm-run-all` parallel execution
-
-**Production:**
-- Static file hosting (GitHub Pages or Cloudflare Pages)
-  - Output: pre-built `_site` directory
-  - No runtime dependencies; pure static assets
-
-## Deployment
-
-**CI/CD:**
-- GitHub Actions (disabled, file: `.github/workflows/deploy.yml.disabled`)
-  - Would target GitHub Pages
-  - Runs `npm ci`, `npm run build`, uploads `_site` artifact
-
-**Static Hosting:**
-- GitHub Pages (workflow present but disabled)
-- Cloudflare Pages (referenced in docs)
-
----
-
-*Stack analysis: 2026-03-04*
+- The old stack docs were stale: Tailwind, PostCSS, Autoprefixer, and `npm-run-all` are not declared in current [package.json](/Users/hakanfilip/my-workspace/projects/borjlind/package.json).
+- Browser JS is intentionally small and framework-free.
+- No test runner, lint script, formatter script, or type checker is declared in [package.json](/Users/hakanfilip/my-workspace/projects/borjlind/package.json).
+- No environment-variable driven config was found in the examined build/runtime files.

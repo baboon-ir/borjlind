@@ -1,12 +1,15 @@
-{# TOC panel — NAV-03: year-structured table of contents #}
+{# TOC panel — segment-based navigation (Prolog, år, Epilog) #}
 <div class="rb-toc-panel" data-toc-panel aria-hidden="true">
   <div class="rb-toc-inner">
     <button class="rb-toc-close" data-toc-close aria-label="Stäng innehållsförteckning">&#10005;</button>
     <ul class="rb-toc-list">
-      {% for group in collections.yearGroupMap %}
+      {% for segment in collections.biografiSegments %}
         <li>
-          <button class="rb-toc-item" data-toc-page="{{ group.firstPage }}">
-            {{ group.yearGroup }}
+          <button class="rb-toc-item" data-toc-segment="{{ segment.id }}">
+            <span class="rb-toc-item-page">
+              {{ segment.start }}{% if segment.end != segment.start %}–{{ segment.end }}{% endif %}
+            </span>
+            <span class="rb-toc-item-label">{{ segment.label }}</span>
           </button>
         </li>
       {% endfor %}

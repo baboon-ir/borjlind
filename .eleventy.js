@@ -2,6 +2,8 @@ const embedEverything = require("eleventy-plugin-embed-everything");
 const markdownIt = require("markdown-it");
 const markdownItContainer = require("markdown-it-container");
 const markdownItImplicitFigures = require("markdown-it-implicit-figures");
+const fs = require("node:fs");
+const path = require("node:path");
 
 const md = markdownIt({ html: true, linkify: true, breaks: false });
 
@@ -55,11 +57,7 @@ md.use(markdownItContainer, 'quote', {
 
 md.use(markdownItContainer, 'part', {
   render: function (tokens, idx) {
-    if (tokens[idx].nesting === 1) {
-      return '<div class="rb-part"><img style="border: none; width: 68px !important; height: auto; display: block; margin: 0 auto;" src="/assets/images/divider.png"></div>\n';
-    } else {
-      return '';
-    }
+    return '';
   }
 });
 
@@ -157,6 +155,57 @@ md.use(markdownItContainer, 'video', {
 
 const pad3 = (n) => String(n).padStart(3, "0");
 const TOTAL_PAGES = 276; // single source of truth — TECH-01
+const PROLOG_END_PAGE = 4;
+const EPILOG_START_PAGE = 276;
+const CHAPTERS_DIR = path.join(__dirname, "content/pages/biografi/chapters");
+const YEAR_GROUP_RANGES = [
+  { label: "1942–1955", start: 1, end: 27 },
+  { label: "1956–1968", start: 28, end: 55 },
+  { label: "1969–1975", start: 56, end: 83 },
+  { label: "1976–1982", start: 84, end: 110 },
+  { label: "1983–1990", start: 111, end: 138 },
+  { label: "1991–1998", start: 139, end: 165 },
+  { label: "1999–2006", start: 166, end: 193 },
+  { label: "2007–2012", start: 194, end: 220 },
+  { label: "2013–2017", start: 221, end: 248 },
+  { label: "2018–2024", start: 249, end: 276 },
+];
+
+function getYearGroupForPage(pageNumber) {
+  const found = YEAR_GROUP_RANGES.find((range) => pageNumber >= range.start && pageNumber <= range.end);
+  return found ? found.label : "Okänt år";
+}
+
+function isMediaOnlyMarkdown(markdown) {
+  const normalized = String(markdown || "").trim();
+  if (!normalized) return false;
+  // Single image-only pages should keep dedicated media-page behavior.
+  return /^!\[[^\]]*]\([^)]+\)$/.test(normalized);
+}
+
+function loadChapterPageContentMap() {
+  const pageMap = new Map();
+  if (!fs.existsSync(CHAPTERS_DIR)) return pageMap;
+
+  const chapterFiles = fs
+    .readdirSync(CHAPTERS_DIR)
+    .filter((file) => /^chapter-\d+.*\.md$/i.test(file))
+    .sort();
+
+  for (const file of chapterFiles) {
+    const fullPath = path.join(CHAPTERS_DIR, file);
+    const content = fs.readFileSync(fullPath, "utf8");
+    const markerRegex = /<!--\s*PAGE\s+(\d+)\s+START\s*-->\s*([\s\S]*?)\s*<!--\s*PAGE\s+\1\s+END\s*-->/g;
+    let match;
+    while ((match = markerRegex.exec(content)) !== null) {
+      const pageNumber = Number.parseInt(match[1], 10);
+      if (!Number.isFinite(pageNumber) || pageNumber < 1 || pageNumber > TOTAL_PAGES) continue;
+      pageMap.set(pageNumber, match[2].trim());
+    }
+  }
+
+  return pageMap;
+}
 
 function escapeAttr(s) {
   return String(s)
@@ -250,29 +299,50 @@ module.exports = function (eleventyConfig) {
   // Collections
   eleventyConfig.addCollection("minnen", (api) => api.getFilteredByTag("minne"));
 
-  eleventyConfig.addCollection("biografiPages", (api) => {
-    const items = api.getFilteredByTag("biografiPage");
-    const getNum = (it) => (it.data.page && it.data.page.number) || it.data.pageNum || it.data.pageNumber || 0;
-    return items.sort((a, b) => getNum(a) - getNum(b));
+  eleventyConfig.addCollection("biografiPages", () => {
+    const chapterPageContentMap = loadChapterPageContentMap();
+    const items = [];
+    for (let n = 1; n <= TOTAL_PAGES; n++) {
+      const templateContent = chapterPageContentMap.get(n);
+      if (!templateContent) continue;
+      items.push({
+        data: {
+          page: { number: n },
+          anchor: `p-${pad3(n)}`,
+          yearGroup: getYearGroupForPage(n),
+          mediaPage: isMediaOnlyMarkdown(templateContent),
+        },
+        templateContent,
+      });
+    }
+    return items;
   });
 
   // Full 1..276 list (creates placeholder entries for missing pages)
-  eleventyConfig.addCollection("biografiAll", (api) => {
-    const items = api.getFilteredByTag("biografiPage");
-    const byNum = new Map();
-    for (const it of items) {
-      const n = (it.data.page && it.data.page.number) || 0;
-      if (n) byNum.set(n, it);
-    }
+  eleventyConfig.addCollection("biografiAll", () => {
+    const chapterPageContentMap = loadChapterPageContentMap();
 
     const out = [];
     for (let n = 1; n <= TOTAL_PAGES; n++) {
-      const found = byNum.get(n);
-      if (found) {
-        out.push(found);
+      const templateContent = chapterPageContentMap.get(n);
+      if (templateContent) {
+        out.push({
+          data: {
+            page: { number: n },
+            anchor: `p-${pad3(n)}`,
+            yearGroup: getYearGroupForPage(n),
+            mediaPage: isMediaOnlyMarkdown(templateContent),
+          },
+          templateContent,
+        });
       } else {
         out.push({
-          data: { page: { number: n }, anchor: `p-${pad3(n)}` },
+          data: {
+            page: { number: n },
+            anchor: `p-${pad3(n)}`,
+            yearGroup: getYearGroupForPage(n),
+            mediaPage: false,
+          },
           templateContent: ""
         });
       }
@@ -281,22 +351,103 @@ module.exports = function (eleventyConfig) {
   });
 
 
-  // NAV-02: build year group map for TOC data pipeline
-  eleventyConfig.addCollection("yearGroupMap", (api) => {
-    const items = api.getFilteredByTag("biografiPage");
-    const getNum = (it) => (it.data.page && it.data.page.number) || 0;
-    const sorted = [...items].sort((a, b) => getNum(a) - getNum(b));
-    const groups = [];
-    const seen = new Set();
-    for (const item of sorted) {
-      const yg = item.data.yearGroup;
-      if (yg && !seen.has(yg)) {
-        seen.add(yg);
-        groups.push({ yearGroup: yg, firstPage: getNum(item) });
+  // Year group map derived from the canonical ranges used by chapter source.
+  eleventyConfig.addCollection("yearGroupMap", () => {
+    return YEAR_GROUP_RANGES.map((range) => ({
+      yearGroup: range.label,
+      firstPage: range.start,
+    }));
+  });
+
+  // Segment-based collection for e-book reader:
+  // Prolog (1..PROLOG_END_PAGE) + year groups + Epilog (EPILOG_START_PAGE..TOTAL_PAGES)
+  eleventyConfig.addCollection("biografiSegments", () => {
+    const chapterPageContentMap = loadChapterPageContentMap();
+
+    const pageRows = [];
+    for (let n = 1; n <= TOTAL_PAGES; n++) {
+      const templateContent = chapterPageContentMap.get(n) || "";
+      pageRows.push({
+        number: n,
+        anchor: `p-${pad3(n)}`,
+        mediaPage: isMediaOnlyMarkdown(templateContent),
+        yearGroup: getYearGroupForPage(n),
+        item: templateContent
+          ? {
+              data: {
+                page: { number: n },
+                anchor: `p-${pad3(n)}`,
+                mediaPage: isMediaOnlyMarkdown(templateContent),
+                yearGroup: getYearGroupForPage(n),
+              },
+              templateContent,
+            }
+          : null,
+      });
+    }
+
+    const segments = [];
+    const clampedPrologEnd = Math.max(1, Math.min(PROLOG_END_PAGE, TOTAL_PAGES));
+    const validEpilogStart = (
+      Number.isInteger(EPILOG_START_PAGE) &&
+      EPILOG_START_PAGE > clampedPrologEnd + 1 &&
+      EPILOG_START_PAGE <= TOTAL_PAGES
+    )
+      ? EPILOG_START_PAGE
+      : null;
+
+    segments.push({
+      id: segments.length,
+      type: "prolog",
+      label: "Prolog",
+      start: 1,
+      end: clampedPrologEnd,
+    });
+
+    const middleStart = clampedPrologEnd + 1;
+    const middleEnd = validEpilogStart ? (validEpilogStart - 1) : TOTAL_PAGES;
+    if (middleStart <= middleEnd) {
+      let runStart = middleStart;
+      let runLabel = pageRows[middleStart - 1].yearGroup;
+
+      for (let n = middleStart + 1; n <= middleEnd + 1; n++) {
+        const currentLabel = n <= middleEnd ? pageRows[n - 1].yearGroup : null;
+        if (currentLabel !== runLabel) {
+          segments.push({
+            id: segments.length,
+            type: "year",
+            label: runLabel || "Okänt år",
+            start: runStart,
+            end: n - 1,
+          });
+          runStart = n;
+          runLabel = currentLabel;
+        }
       }
     }
-    return groups;
+
+    if (validEpilogStart) {
+      segments.push({
+        id: segments.length,
+        type: "epilog",
+        label: "Epilog",
+        start: validEpilogStart,
+        end: TOTAL_PAGES,
+      });
+    }
+
+    return segments.map((seg) => {
+      const pages = [];
+      for (let n = seg.start; n <= seg.end; n++) {
+        pages.push(pageRows[n - 1]);
+      }
+      return { ...seg, pages };
+    });
   });
+
+  eleventyConfig.addFilter("segmentsMeta", (segments) =>
+    segments.map(({ id, type, label, start, end }) => ({ id, type, label, start, end }))
+  );
 
   // Redirect pagination data (1..276)
   eleventyConfig.addGlobalData("bioRedirectPages", () => {
@@ -318,6 +469,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("**/.trash_restructure/**");
   eleventyConfig.ignores.add(".planning/**");
+  eleventyConfig.ignores.add("content/pages/biografi/chapters/**");
+  eleventyConfig.ignores.add("gemini.md");
+  eleventyConfig.ignores.add("gemini-brief.md");
+  eleventyConfig.ignores.add("gemini-report.md");
 
   // Set custom markdown library with container support
   eleventyConfig.setLibrary("md", md);

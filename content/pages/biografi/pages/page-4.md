@@ -53,11 +53,8 @@ Eller enkelt uttryckt: take it or leave it.
 
 ::: poem
 **Tre år innan jag föds fäller nazisterna en bomb i Slottsparken i Malmö.**
-
 **Året är 1940 och Sverige hukar.**
-
 **Idag marscherar nazisterna på våra egna gator och vi hukar fortfarande.**
-
 **Bågen mellan då och nu är min berättelse.**
 :::
 

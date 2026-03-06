@@ -1,106 +1,93 @@
 # External Integrations
 
-**Analysis Date:** 2026-03-04
+**Analysis Date:** 2026-03-06
 
-## APIs & External Services
+## Snapshot
 
-**Video Embedding:**
-- YouTube - Video embeds in biography pages
-  - Method: URL parsing and iframe generation via eleventy-plugin-embed-everything
-  - URLs supported: `https://www.youtube.com/watch?v=...`, `https://youtu.be/...`, direct links
-  - Implementation: Auto-detected by plugin; also custom iframe rendering in `.eleventy.js`
+- This is primarily a static Eleventy site with very few live integrations.
+- External dependencies are mostly public media hosts plus optional deployment infrastructure.
+- No authenticated API clients, backend services, or secret-driven runtime were found in the examined code.
 
-**Content Embedding:**
-- eleventy-plugin-embed-everything - Auto-embeds external content
-  - Supported: YouTube, Vimeo, Twitter/X, Codepen, and more
-  - No authentication required; public embeds only
+## Public Media Hosts
 
-## Data Storage
+- Cloudflare R2 public bucket at `pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev`
+  Used directly from content and templates for hosted images and video.
+  Evidence:
+  [layouts/home.njk](/Users/hakanfilip/my-workspace/projects/borjlind/layouts/home.njk),
+  [content/pages/biografi/pages/page-4.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/pages/page-4.md),
+  [content/pages/biografi/pages/page-183.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/pages/page-183.md).
+- Usage pattern:
+  markdown image URLs point straight at the bucket,
+  the home page background video is loaded from `/vid/bongo.mp4` on the same bucket.
+- Integration mode:
+  no SDK, no signed URLs, no upload code in repo; the site just references public HTTPS assets.
 
-**Databases:**
-- Not applicable - Static site generator with no server-side data storage
+## Video / Embed Integrations
 
-**File Storage:**
-- Cloudflare R2 - Image storage
-  - Domain: `pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev`
-  - Usage: All biography page images (content/pages/biografi/pages/*.md reference this domain)
-  - Connection: Direct HTTPS image URLs in markdown; no API client
-  - Examples:
-    - `https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/39.png`
-    - `https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/102.png`
+- YouTube embeds are supported in two ways:
+  via `eleventy-plugin-embed-everything`,
+  and via custom `[yt-video][URL]` parsing in [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js).
+- The custom renderer converts YouTube URLs into `https://www.youtube.com/embed/{id}` iframes.
+- Example content input:
+  [content/pages/biografi/pages/page-11.md](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/pages/page-11.md).
+- Practical note:
+  the custom embed path is specifically coded for YouTube URL variants; other providers depend on the Eleventy plugin and are not evidenced in current content.
 
-**Local Assets:**
-- `/assets/` directory
-  - CSS: `assets/css/tailwind.css`, `assets/css/main.css`
-  - Images: `assets/images/` (divider.png, pattern.png, noise-light.png)
-  - JavaScript: `assets/js/bio-reader.js`, `assets/js/nav.js`
+## Build / Deployment Integrations
 
-**Caching:**
-- None detected - Static site with no runtime caching layer
+- GitHub Actions workflow exists in disabled form:
+  [.github/workflows/deploy.yml.disabled](/Users/hakanfilip/my-workspace/projects/borjlind/.github/workflows/deploy.yml.disabled).
+- The disabled workflow integrates with:
+  `actions/checkout@v4`,
+  `actions/setup-node@v4`,
+  `actions/configure-pages@v5`,
+  `actions/upload-pages-artifact@v3`,
+  `actions/deploy-pages@v4`.
+- Deployment target implied by workflow: GitHub Pages.
+- Build artifact uploaded by the workflow: `_site`.
+- README still mentions Cloudflare Pages as a possible deployment target in [README.md](/Users/hakanfilip/my-workspace/projects/borjlind/README.md), but there is no Cloudflare config file or deploy script in the files reviewed.
 
-## Authentication & Identity
+## Client-Side Browser Integrations
 
-**Auth Provider:**
-- None - Public static site
-- No user login, authentication, or permissions system
+- `localStorage`
+  The biography reader persists reading position under key `bio:pos` in [assets/js/bio-reader.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/bio-reader.js).
+- DOM dataset contract
+  [layouts/biography.njk](/Users/hakanfilip/my-workspace/projects/borjlind/layouts/biography.njk) sets `document.body.dataset.biography = '1'`, which activates the reader runtime.
+- Inline JSON contract
+  [layouts/biography.njk](/Users/hakanfilip/my-workspace/projects/borjlind/layouts/biography.njk) injects chapter metadata into `#rb-chapter-data`; [assets/js/bio-reader.js](/Users/hakanfilip/my-workspace/projects/borjlind/assets/js/bio-reader.js) consumes it on load.
 
-## Monitoring & Observability
+## Content Pipeline Integrations
 
-**Error Tracking:**
-- Not detected
+- Chapter metadata import
+  [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js) imports [_data/chapters.js](/Users/hakanfilip/my-workspace/projects/borjlind/_data/chapters.js) and turns it into:
+  `biografiChapters`,
+  `TOTAL_CHAPTERS`,
+  redirect/global page data.
+- Redirect pagination
+  [content/pages/biografi/redirect-page.njk](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/redirect-page.njk) and [content/pages/biografi/redirect-number.njk](/Users/hakanfilip/my-workspace/projects/borjlind/content/pages/biografi/redirect-number.njk) generate legacy redirect routes that bounce to `/biografi/#p-XXX`.
+- Passthrough asset publishing
+  [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js) publishes CSS, JS, and images into the built site without transformation.
 
-**Logs:**
-- Build logs available via GitHub Actions (if deploy workflow enabled)
-- No application-level logging
+## Authentication, Secrets, And Protected Services
 
-## CI/CD & Deployment
+- No user authentication or authorization system found.
+- No API keys, tokens, or environment variables referenced in:
+  [package.json](/Users/hakanfilip/my-workspace/projects/borjlind/package.json),
+  [.eleventy.js](/Users/hakanfilip/my-workspace/projects/borjlind/.eleventy.js),
+  [README.md](/Users/hakanfilip/my-workspace/projects/borjlind/README.md),
+  [.github/workflows/deploy.yml.disabled](/Users/hakanfilip/my-workspace/projects/borjlind/.github/workflows/deploy.yml.disabled).
+- If R2 uploads are managed elsewhere, that tooling is not present in this repo.
 
-**Hosting:**
-- GitHub Pages (primary option, workflow disabled)
-- Cloudflare Pages (alternative option)
+## What Is Not Present
 
-**CI Pipeline:**
-- GitHub Actions (`.github/workflows/deploy.yml.disabled`)
-  - Trigger: Push to main branch or manual workflow_dispatch
-  - Environment: Ubuntu latest
-  - Steps:
-    1. Checkout repository
-    2. Setup Node.js 22 with npm cache
-    3. Install dependencies (`npm ci`)
-    4. Build site (`npm run build`)
-    5. Configure GitHub Pages
-    6. Upload `_site` artifact
-    7. Deploy to GitHub Pages
-  - Permissions: contents read, pages write, id-token write
+- No database integration.
+- No CMS integration.
+- No analytics, error tracking, or observability SDK.
+- No payment provider, email provider, webhook handler, or search backend.
+- No external font service; typography uses system stacks in [assets/css/main.css](/Users/hakanfilip/my-workspace/projects/borjlind/assets/css/main.css).
 
-## Environment Configuration
+## Practical Observations
 
-**Required env vars:**
-- None - Static site requires no runtime environment variables
-
-**Secrets location:**
-- No secrets management configured
-- Cloudflare R2 credentials (if needed to upload new images) not in repo
-
-## Webhooks & Callbacks
-
-**Incoming:**
-- None detected
-
-**Outgoing:**
-- None detected
-
-## External Asset Domains
-
-**Image CDN:**
-- `pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev` - Cloudflare R2 bucket
-  - Serves biography images (276 pages + misc images)
-  - Public read access via HTTPS
-
-**Video Hosting:**
-- `youtube.com` / `youtu.be` - YouTube video embeds
-  - Uses standard YouTube iframe embed
-
----
-
-*Integration audit: 2026-03-04*
+- The previously documented "Cloudflare R2 credentials" integration is overstated for this repo; current code only consumes public asset URLs.
+- The strongest real integration surface is content-to-public-media hosting, not application-to-API communication.
+- GitHub Pages deployment is prepared but inactive because the workflow file is intentionally suffixed `.disabled`.

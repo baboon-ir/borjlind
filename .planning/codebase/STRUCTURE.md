@@ -1,266 +1,377 @@
 # Codebase Structure
 
-**Analysis Date:** 2026-03-04
+**Analysis Date:** 2026-03-06
 
-## Directory Layout
+## Top-Level Layout
 
-```
-rolfborjlind-site/
-├── .eleventy.js              # Eleventy config: collections, filters, markdown plugins
-├── .gitignore                # Excludes _site, node_modules, etc.
-├── .github/                  # GitHub workflows (CI/CD)
-├── .planning/                # GSD planning documents
-│   └── codebase/            # This folder
-├── README.md                 # Project documentation
-├── package.json              # NPM dependencies (11ty, tailwindcss, markdown-it plugins)
+```text
+borjlind/
+├── .eleventy.js
+├── README.md
+├── package.json
 ├── package-lock.json
-├── postcss.config.cjs        # PostCSS: tailwindcss, autoprefixer
-├── tailwind.config.cjs       # Tailwind theme: custom colors, fonts, plugins
-│
-├── assets/                   # Static files (not processed as templates)
+├── _data/
+│   └── chapters.js
+├── assets/
 │   ├── css/
-│   │   ├── tailwind.css      # Tailwind source (import directives)
-│   │   └── main.css          # Generated output (minified in production)
-│   ├── images/               # Image files (jpg, png, svg) referenced in markdown
+│   │   └── main.css
+│   ├── images/
+│   │   ├── divider.png
+│   │   ├── -divider.png
+│   │   ├── noise-light.png
+│   │   └── pattern.png
 │   └── js/
-│       ├── bio-reader.js     # Biography scroll state manager
-│       └── nav.js            # Navigation menu toggle + header scroll effect
-│
-├── content/                  # Source content (Markdown)
+│       ├── bio-reader.js
+│       └── nav.js
+├── content/
 │   └── pages/
-│       ├── index.md          # Home page (/)
-│       ├── appendix.md       # Appendix page (/appendix/)
+│       ├── index.md
+│       ├── appendix.md
 │       ├── biografi/
-│       │   ├── index.md      # Biography index (/biografi/)
+│       │   ├── index.md
+│       │   ├── redirect-number.njk
+│       │   ├── redirect-page.njk
 │       │   └── pages/
-│       │       ├── page-11.md         # Page 11 (example)
-│       │       ├── page-35.md         # Page 35 (example)
-│       │       └── ... (sparse: only ~10 pages for demo)
-│       └── minnen/           # Memory collection
-│           ├── index.md      # Memories list (/minnen/)
-│           ├── filmsetet.md  # Memory detail (/minnen/filmsetet/)
+│       │       ├── page-1.md
+│       │       ├── page-2.md
+│       │       ├── ...
+│       │       └── page-276.md
+│       └── minnen/
+│           ├── index.md
+│           ├── filmsetet.md
 │           ├── skrivbordet.md
 │           └── vagen-hem.md
-│
-├── layouts/                  # Page templates (Nunjucks)
-│   ├── base.njk              # Root layout (doctype, head, body, scripts)
-│   ├── home.njk              # Home page layout (hub grid)
-│   ├── biography.njk         # Biography page layout (stacked pages, controls)
-│   ├── minnen.njk            # Memories list layout
-│   ├── memory.njk            # Memory detail layout
-│   ├── appendix.njk          # Appendix layout
-│   └── page.njk              # Generic page layout
-│
-├── includes/                 # Reusable components (Nunjucks partials)
-│   ├── header.njk            # Sticky header with nav menu
-│   ├── footer.njk            # Footer content
-│   ├── hub-grid.njk          # Memory card grid
-│   ├── bio-controls.njk      # Page number input + continue button
-│   └── bio-page.njk          # Single biography page section
-│
-├── docs/                     # Documentation (not rendered)
-│   ├── deploy-github-pages.md
+├── docs/
+│   ├── decisions.md
 │   ├── deploy-cloudflare.md
-│   └── decisions.md
-│
-├── _site/                    # Output directory (generated, excluded from git)
-│
-└── Python scripts (data processing, not core to site)
-    ├── add-frontmatter-to-html.py
-    ├── fix-formatting.py
-    ├── fix-spacing.py
-    ├── import-biography.py
-    └── ... (5 total)
+│   ├── deploy-github-pages.md
+│   ├── qa-checklist.md
+│   └── style-audit.md
+├── includes/
+│   ├── bio-controls.njk
+│   ├── bio-page.njk
+│   ├── bio-toc.njk
+│   ├── footer.njk
+│   ├── header.njk
+│   └── hub-grid.njk
+├── layouts/
+│   ├── appendix.njk
+│   ├── base.njk
+│   ├── biography.njk
+│   ├── home.njk
+│   ├── memory.njk
+│   ├── minnen.njk
+│   └── page.njk
+├── scripts/
+│   ├── check-frontmatter.js
+│   └── validate-build.js
+└── assorted one-off import/fix Python scripts
 ```
 
-## Directory Purposes
+## Directory Roles
 
-**assets/:**
-- Purpose: Static assets passed through to output unchanged
-- Contains: CSS, JavaScript, images
-- Key files: `css/main.css` (compiled Tailwind), `js/bio-reader.js`, `js/nav.js`, `images/*`
+### `_data/`
 
-**content/pages/:**
-- Purpose: Markdown source files organized by route
-- Contains: YAML frontmatter + content body in CommonMark
-- Key files: All `.md` files; biografi/pages/ has ~10 example pages out of 276 total
+- Holds Eleventy global data modules.
+- Current central file is `_data/chapters.js`, which defines the 20 chapter ranges used to build `collections.biografiChapters`.
 
-**layouts/:**
-- Purpose: Nunjucks templates that wrap content
-- Contains: Base layout, page-specific layouts, template variables
-- Key files: `base.njk` (used by all), `biography.njk` (biography page collection)
+### `assets/`
 
-**includes/:**
-- Purpose: Reusable Nunjucks components (template fragments)
-- Contains: Partials for header, footer, components
-- Key files: `header.njk` (sticky nav), `bio-page.njk` (page section), `bio-controls.njk` (input+button)
+- Passthrough-copied by Eleventy.
+- `assets/css/main.css` is the main site stylesheet.
+- `assets/js/nav.js` provides global nav/header behavior.
+- `assets/js/bio-reader.js` only activates on the biography reader.
+- `assets/images/` contains static imagery referenced by CSS/templates/content.
 
-**docs/:**
-- Purpose: Project documentation, guides, decisions
-- Contains: Deployment instructions, architecture notes
-- Committed: Yes; not rendered by Eleventy
+### `content/pages/`
 
-**.github/workflows/:**
-- Purpose: CI/CD automation
-- Contains: GitHub Actions workflows
-- Committed: Yes
+- Canonical source for routed site content.
+- Files here are organized by URL area rather than by component type.
+- Markdown and Nunjucks coexist in the route tree.
 
-## Key File Locations
+Subareas:
 
-**Entry Points:**
-- `content/pages/index.md`: Home page route, uses `layouts/home.njk`
-- `content/pages/biografi/index.md`: Biography page route, uses `layouts/biography.njk`
-- `content/pages/minnen/index.md`: Memories list route, uses `layouts/minnen.njk`
-- `content/pages/appendix.md`: Appendix page route, uses `layouts/appendix.njk`
+- `content/pages/index.md`
+  - home route `/`
 
-**Configuration:**
-- `.eleventy.js`: Build config, collections, filters, markdown setup
-- `tailwind.config.cjs`: Theme colors, fonts, plugin registration
-- `postcss.config.cjs`: PostCSS processor setup
-- `package.json`: Dependencies and npm scripts
+- `content/pages/appendix.md`
+  - appendix route `/appendix/`
 
-**Core Logic:**
-- `assets/js/bio-reader.js`: Scroll position tracking, page navigation
-- `assets/js/nav.js`: Menu toggle, header scroll styling
-- `.eleventy.js` (lines 168–230): `renderBio` filter for content transformation
+- `content/pages/minnen/`
+  - index route plus individual memory pages
 
-**Testing:**
-- No test files; static site with no unit/integration tests
+- `content/pages/biografi/`
+  - reader entry route
+  - redirect templates
+  - 276 numbered content fragments used by the reader
 
-## Naming Conventions
+### `layouts/`
 
-**Files:**
-- Content: `<slug>.md` for single pages, `pages/<slug>/<n>.md` for numbered pages (e.g., `biografi/pages/page-11.md`)
-- Layouts: `<page-type>.njk` (e.g., `home.njk`, `biography.njk`)
-- Includes: `<component-name>.njk` (e.g., `header.njk`, `bio-page.njk`)
-- Styles: `tailwind.css` (source), `main.css` (generated)
-- Scripts: `<feature>.js` (e.g., `bio-reader.js`, `nav.js`)
+- Page-level Nunjucks layouts.
+- `base.njk` is the shared wrapper.
+- Other layouts either extend `base.njk` or provide route-specific composition around page content.
 
-**Directories:**
-- kebab-case: `assets/`, `content/`, `layouts/`, `includes/`, `content/pages/minnen/`
-- Plural form: `assets/css/`, `assets/js/`, `assets/images/`, `content/pages/`
+### `includes/`
 
-**Data Attributes (HTML):**
-- `data-page-input`: Page number input element
-- `data-page="{{ n }}"`: Biography page section identifier
-- `data-biography`: Marker on body to enable bio-reader.js
-- `data-nav-toggle`: Menu button
-- `data-nav-panel`: Menu panel
-- `data-continue`: Continue reading button
-- `data-header`: Header element (for scroll styling)
+- Reusable partials included by layouts.
+- Contains shared shell pieces and biography reader UI pieces.
+- Also contains some currently unused partials left in the repo.
 
-**CSS Classes (Tailwind + Custom):**
-- Tailwind: Standard utilities (`flex`, `grid`, `text-sm`, `bg-dark`, `text-light`)
-- Custom: `.rb-*` prefix for role-based styles (e.g., `.rb-bio-page`, `.rb-prose`, `.rb-header`)
+### `docs/`
 
-## Where to Add New Code
+- Project documentation only.
+- Explicitly ignored by Eleventy via `.eleventy.js`.
 
-**New Biography Page:**
-- File: `content/pages/biografi/pages/page-NNN.md` (replace NNN with page number)
-- Frontmatter:
-  ```yaml
-  ---
-  page:
-    number: NNN
-  anchor: p-NNN
-  tags: [biografiPage]
-  layout: biography
-  ---
-  ```
-- Rendered: Automatically added to `collections.biografiPages` and `collections.biografiAll`
+### `scripts/`
 
-**New Memory:**
-- File: `content/pages/minnen/<slug>.md`
-- Frontmatter:
-  ```yaml
-  ---
-  title: Memory Title
-  tags: [minne]
-  layout: memory.njk
-  ---
-  ```
-- Rendered: Automatically added to `collections.minnen`
+- Local validation/utility scripts.
+- Not wired into `npm run build` or `npm run dev`.
 
-**New Page (Static):**
-- File: `content/pages/<slug>.md`
-- Frontmatter:
-  ```yaml
-  ---
-  title: Page Title
-  layout: page.njk
-  ---
-  ```
-- Route: `/slug/` (Eleventy auto-generates from directory structure)
+## Route-Oriented Structure
 
-**New Component/Include:**
-- File: `includes/<component-name>.njk`
-- Usage: `{% include "component-name.njk" %}` in layouts/content
-- Context: Pass variables via `with { var: value }` syntax
+### Home
 
-**Utility/Filter:**
-- Add to `.eleventy.js` via `eleventyConfig.addFilter(name, fn)`
-- Example: `eleventyConfig.addFilter("example", (val) => val.toUpperCase())`
+- Source file: `content/pages/index.md`
+- Layout: `layouts/home.njk`
+- Output route: `/`
 
-**Custom Markdown Block:**
-- Register in `.eleventy.js` via `md.use(markdownItContainer, 'blockname', { render: (tokens, idx) => ... })`
-- Usage in markdown: `::: blockname` … `:::`
+Notable structure:
+- Minimal markdown file; almost all visual structure lives in `home.njk`.
+- `home.njk` currently renders a full-screen hero with background video and CTA directly to `/biografi/`.
+- `includes/hub-grid.njk` exists but is not used by the current home layout.
 
-## Special Directories
+### Biography
 
-**_site/:**
-- Purpose: Output directory for generated static site
-- Generated: Yes (created by Eleventy during build)
-- Committed: No (git-ignored)
+- Route entry: `content/pages/biografi/index.md`
+- Layout: `layouts/biography.njk`
+- Output route: `/biografi/`
 
-**node_modules/:**
-- Purpose: Installed npm dependencies
-- Generated: Yes (created by npm install)
-- Committed: No (git-ignored)
+Supporting files:
+- `_data/chapters.js`
+- `assets/js/bio-reader.js`
+- `includes/bio-controls.njk`
+- `includes/bio-toc.njk`
+- `content/pages/biografi/pages/page-1.md` through `page-276.md`
+- redirect templates in the same folder
 
-**.github/workflows/:**
-- Purpose: CI/CD automation
-- Generated: No (hand-written)
-- Committed: Yes
+Important structural fact:
+- The `pages/` directory is content storage, not a directory of standalone routes.
+- Every numbered page file sets `permalink: false`.
+- The reader route is assembled from the collection, so the site has one biography HTML document plus generated redirect routes.
 
-**.planning/:**
-- Purpose: GSD planning documents and analysis
-- Generated: Partially (some auto-generated, some hand-written)
-- Committed: Yes
+### Memories
 
-**assets/images/:**
-- Purpose: Image assets referenced in markdown (lazy-loaded)
-- Generated: No (hand-uploaded)
-- Committed: Yes
+- Index source: `content/pages/minnen/index.md`
+- Index layout: `layouts/minnen.njk`
+- Detail files: `content/pages/minnen/*.md` tagged with `minne`
+- Detail layout: `layouts/memory.njk`
 
-## Build & Development
+Observed files:
+- `filmsetet.md`
+- `skrivbordet.md`
+- `vagen-hem.md`
 
-**Development Mode:**
-- Run: `npm run dev`
-- Spawns: `npm-run-all --parallel dev:11ty dev:css`
-  - `dev:11ty`: Eleventy server on port 8080, watches `content/`, `layouts/`, `includes/`, `assets/`
-  - `dev:css`: Tailwind CLI watches CSS and generates `assets/css/main.css`
+Structural note:
+- The index page content is handwritten markdown with internal anchors and is structurally separate from the tagged memory detail pages.
+- The `slug` frontmatter present on detail pages is editorial metadata in the files read here; route generation still follows Eleventy path defaults because no custom `permalink` is set.
 
-**Production Build:**
-- Run: `npm run build`
-- Spawns: `npm-run-all build:css build:11ty`
-  - `build:css`: Tailwind with minification
-  - `build:11ty`: Eleventy with production mode (optimizations)
-- Output: `_site/` with minified CSS/HTML
+### Appendix
 
-## Import/Require Patterns
+- Source file: `content/pages/appendix.md`
+- Layout: `layouts/appendix.njk`
+- Output route: `/appendix/`
 
-**No ES modules in client code** (vanilla JavaScript with IIFE pattern)
+Structural note:
+- The content file is long-form markdown/HTML with explicit anchor divs.
+- The layout contains a hardcoded in-page nav that assumes those anchor IDs exist in the content body.
 
-**Eleventy plugins** (required in `.eleventy.js`):
-```javascript
-const embedEverything = require("eleventy-plugin-embed-everything");
-const markdownIt = require("markdown-it");
-const markdownItContainer = require("markdown-it-container");
-const markdownItImplicitFigures = require("markdown-it-implicit-figures");
+## Biography Content Shape
+
+### Numbered page files
+
+The directory `content/pages/biografi/pages/` contains exactly 276 markdown files.
+
+Common frontmatter pattern:
+
+```yaml
+---
+page:
+  number: 1
+anchor: p-001
+permalink: false
+tags: [biografiPage]
+layout: biography
+yearGroup: "1942–1955"
+---
 ```
 
-**No shared JavaScript library** between pages (each script is self-contained IIFE)
+Notes:
+- `page.number` drives numeric sorting.
+- `anchor` maps directly to in-document hash targets like `#p-001`.
+- `layout: biography` is present but these files do not render as routes because `permalink: false`.
+- `yearGroup` exists on biography pages and feeds `yearGroupMap`.
+- `mediaPage` is supported by collection/render logic but was not found in the page files read during this pass.
+
+### Redirect templates
+
+`content/pages/biografi/redirect-number.njk`
+- Generates `/biografi/{n}/index.html`
+
+`content/pages/biografi/redirect-page.njk`
+- Generates `/biografi/page/{n}/index.html`
+
+Shared characteristics:
+- `pagination.data: bioRedirectPages`
+- `layout: null`
+- emit complete redirect HTML documents
+
+## Layout and Include Structure
+
+### `layouts/base.njk`
+
+Shared shell with:
+- `<head>` title and description
+- optional header include
+- `<main>` wrapper
+- optional footer include
+- deferred loading of `nav.js` and `bio-reader.js`
+
+Control variables used by child layouts/frontmatter:
+- `bodyClass`
+- `mainClass`
+- `noHeader`
+- `noFooter`
+
+### `layouts/biography.njk`
+
+Specialized reader layout:
+- extends `base.njk`
+- disables shared header/footer
+- injects chapter JSON into `<script type="application/json" id="rb-chapter-data">`
+- renders `.rb-bio-container` and chapter wrappers
+- includes `bio-controls.njk` and `bio-toc.njk`
+- marks the body with `data-biography`
+
+### Other layouts
+
+- `layouts/home.njk`
+  - landing page presentation
+
+- `layouts/appendix.njk`
+  - hardcoded appendix nav plus content wrapper
+
+- `layouts/minnen.njk`
+  - hardcoded nav plus content wrapper for the memories index
+
+- `layouts/memory.njk`
+  - detail-page presentation for tagged memory items
+
+- `layouts/page.njk`
+  - generic prose page layout, currently peripheral to the main routes examined
+
+### Includes
+
+- `includes/header.njk`
+  - shared site header and nav panel
+
+- `includes/footer.njk`
+  - shared footer
+
+- `includes/bio-controls.njk`
+  - reader top controls
+
+- `includes/bio-toc.njk`
+  - chapter buttons derived from `collections.biografiChapters`
+
+- `includes/bio-page.njk`
+  - older standalone biography page partial; not used by current `biography.njk`
+
+- `includes/hub-grid.njk`
+  - card grid partial; not used by current `home.njk`
+
+## Eleventy Configuration Structure
+
+`.eleventy.js` currently contains six kinds of responsibilities:
+
+1. Dependency setup
+   - `eleventy-plugin-embed-everything`
+   - `markdown-it`
+   - `markdown-it-container`
+   - `markdown-it-implicit-figures`
+
+2. Markdown customization
+   - lazy-load image renderer
+   - custom containers
+   - custom accordion token handling
+
+3. Site-specific filters/helpers
+   - `pad3`
+   - `bioRender`
+   - `chaptersMeta`
+   - `json`
+
+4. Collections
+   - `minnen`
+   - `biografiPages`
+   - `biografiAll`
+   - `yearGroupMap`
+   - `biografiChapters`
+
+5. Global data and passthrough assets
+   - `TOTAL_PAGES`
+   - `TOTAL_CHAPTERS`
+   - `bioRedirectPages`
+   - CSS/JS/image passthrough copy
+
+6. Eleventy project config
+   - `dir.input = "."`
+   - `dir.output = "_site"`
+   - `dir.includes = "includes"`
+   - `dir.layouts = "layouts"`
+   - template formats: `md`, `njk`, `html`
+
+## Output-Relevant Conventions
+
+### Naming
+
+- Biography page filenames use `page-{n}.md`.
+- Hash anchors use zero-padded `p-001` form.
+- Reader chapter elements use `chapter-{id}`.
+- CSS classes consistently use the `rb-` prefix.
+
+### Content conventions
+
+- Biography page content frequently relies on custom markdown container syntax and `bioRender` transforms.
+- `index.md` files define section landing routes.
+- The appendix and minnen index content use inline HTML anchors that their layouts assume.
+
+### Ignored paths
+
+The following are explicitly excluded from the site build:
+- `docs/**`
+- `README.md`
+- `**/.trash_restructure/**`
+- `.planning/**`
+
+## Development Commands
+
+From `package.json`:
+
+- `npm run dev`
+  - runs `eleventy --serve --watch`
+
+- `npm run build`
+  - runs `eleventy`
+
+There is no Tailwind/PostCSS pipeline in the current package manifest; the checked-in `README.md` and older planning docs describing Tailwind are out of date relative to the current code.
+
+## Structural Observations
+
+- The codebase is small and route-centric; most behavior is concentrated in `.eleventy.js`, `layouts/biography.njk`, and `assets/js/bio-reader.js`.
+- The biography reader is the only part with meaningful runtime state.
+- Some files remain as legacy or spare components (`includes/bio-page.njk`, `includes/hub-grid.njk`, `layouts/page.njk`, `yearGroupMap`) and should not be mistaken for the active rendering path.
+- The route tree under `content/pages/biografi/` mixes canonical route entry, redirect generators, and non-routed source fragments in one folder, which is important context when modifying that area.
 
 ---
 
-*Structure analysis: 2026-03-04*
+This document reflects the current repository structure relevant to architecture, rendering, data flow, templates, collections, routing, and directory layout.

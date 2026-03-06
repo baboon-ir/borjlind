@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/assets/css/main.css" />
   </head>
   <body class="rb-body {{ bodyClass }}">
-    {% include "header.njk" %}
+    {% if not noHeader %}{% include "header.njk" %}{% endif %}
 
     <main class="rb-main{% if mainClass == 'h-full' %} rb-main-centered{% endif %}">
       <div class="{% if mainClass == 'h-full' %}{% elif mainClass %}{{ mainClass }}{% else %}rb-main-inner{% endif %}">
@@ -16,9 +16,11 @@
       </div>
     </main>
 
+    {% if not noFooter %}
     <footer class="rb-mt-auto relative z-10">
       {% include "footer.njk" %}
     </footer>
+    {% endif %}
 
     <script src="/assets/js/nav.js" defer></script>
     <script src="/assets/js/bio-reader.js" defer></script>

@@ -1,85 +1,158 @@
 (() => {
-  // Guard: only run on biography page
   if (!document.body.dataset.biography) return;
 
-  // --- Constants ---
-  const container = document.querySelector('[data-bio-pages]');
-  const TOTAL_PAGES = parseInt(container?.dataset.total || '276', 10);
-  const KEY = 'bio:page';
-  const EDGE_PX = 20;      // px from screen edge — give to iOS Safari back gesture
-  const ANGLE_LIMIT = 30;  // degrees from horizontal — above = vertical scroll, abort
-  const MIN_DIST = 40;     // minimum horizontal px to trigger page turn
-
-  const pad3 = (n) => String(n).padStart(3, '0');
-  const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
-
-  let currentPage = 1;
-
-  // --- Year groups (baked into HTML by plan 02-05) ---
-  let yearGroups = [];
+  // --- Segment metadata (baked at build time) ---
+  let segmentMeta = [];
   try {
-    yearGroups = JSON.parse(
-      document.getElementById('rb-year-groups')?.textContent || '[]'
+    segmentMeta = JSON.parse(
+      document.getElementById('rb-segment-data')?.textContent || '[]'
     );
   } catch {}
 
-  const getYearGroup = (page) => {
-    let label = yearGroups[0]?.yearGroup || '';
-    for (const g of yearGroups) {
-      if (g.firstPage <= page) label = g.yearGroup;
-      else break;
+  const TOTAL_SEGMENTS = segmentMeta.length;
+  if (!TOTAL_SEGMENTS) return;
+
+  const KEY = 'bio:pos:v2';
+  const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
+  const formatSpan = (start, end) => (start === end ? `${start}` : `${start}-${end}`);
+
+  // column = screen column index inside active segment
+  let state = { segment: 0, column: 0 };
+
+  // --- Element helpers ---
+  const getSegmentEl = (idx) => document.getElementById(`segment-${idx}`);
+
+  // --- Init CSS columns for a segment element ---
+  // column-width must equal clientWidth so each column = one full screen
+  const initColumns = (el) => {
+    if (!el) return;
+    el.style.columnWidth = el.clientWidth + 'px';
+  };
+
+  // --- Total screen-columns in an active segment ---
+  const getColumnCount = (el) => {
+    if (!el) return 1;
+    return Math.max(1, Math.round(el.scrollWidth / el.clientWidth));
+  };
+
+  const getVisibleSourcePages = (el, columnIdx) => {
+    const anchors = Array.from(el.querySelectorAll('.rb-page-anchor[data-page-number]'))
+      .map((anchor) => ({
+        number: Number.parseInt(anchor.dataset.pageNumber || '', 10),
+        left: anchor.offsetLeft,
+      }))
+      .filter((row) => Number.isFinite(row.number))
+      .sort((a, b) => a.left - b.left);
+
+    if (!anchors.length) return { first: null, last: null };
+
+    const left = columnIdx * el.clientWidth;
+    const right = left + el.clientWidth;
+    const visible = [];
+
+    for (let i = 0; i < anchors.length; i++) {
+      const start = anchors[i].left;
+      const end = (i + 1 < anchors.length) ? anchors[i + 1].left : el.scrollWidth;
+      if (end > left && start < right) visible.push(anchors[i].number);
     }
-    return label;
+
+    if (!visible.length) {
+      let fallback = anchors[0].number;
+      for (const row of anchors) {
+        if (row.left <= left) fallback = row.number;
+      }
+      return { first: fallback, last: fallback };
+    }
+
+    return { first: visible[0], last: visible[visible.length - 1] };
   };
 
-  // --- localStorage state (READER-07) ---
-  const save = (n) => {
-    try { localStorage.setItem(KEY, String(n)); } catch {}
-  };
-  const restore = () => {
-    // Remove old scroll-position key if present (cleanup)
-    try { localStorage.removeItem('bio:last'); } catch {}
-    try {
-      const n = parseInt(localStorage.getItem(KEY) || '1', 10);
-      return Number.isFinite(n) ? clamp(n, 1, TOTAL_PAGES) : 1;
-    } catch { return 1; }
+  const getColumnForSourcePage = (el, sourcePage) => {
+    const target = el.querySelector(`.rb-page-anchor[data-page-number="${sourcePage}"]`);
+    if (!target || !el.clientWidth) return 0;
+    return clamp(Math.floor(target.offsetLeft / el.clientWidth), 0, getColumnCount(el) - 1);
   };
 
-  // --- Page visibility (READER-01) ---
-  const showPage = (n) => {
-    n = clamp(n, 1, TOTAL_PAGES);
-    const prev = document.querySelector('.rb-bio-page.is-active');
-    if (prev) prev.classList.remove('is-active');
-    const next = document.getElementById(`p-${pad3(n)}`);
-    if (!next) return;
-    next.classList.add('is-active');
-    currentPage = n;
-    updateIndicator();
-    updateYearBadge();
-    save(n);
+  const updateUI = (el) => {
+    const footerEl = document.querySelector('[data-footer-center]');
+    const yearEl = document.querySelector('[data-year-toggle]');
+    const meta = segmentMeta[state.segment] || {};
+    if (!footerEl || !meta.start || !meta.end) return;
+
+    const visible = getVisibleSourcePages(el, state.column);
+    const visibleStart = visible.first ?? meta.start;
+    // SIDA should always be a single page number, never a range.
+    const current = `${visibleStart}`;
+    footerEl.textContent = current;
+    if (yearEl) yearEl.textContent = meta.label || "";
   };
 
-  const goNext = () => { if (currentPage < TOTAL_PAGES) showPage(currentPage + 1); };
-  const goPrev = () => { if (currentPage > 1) showPage(currentPage - 1); };
+  // --- Navigate to segment + column ---
+  const showPosition = (segmentIdx, columnIdx, animate = true) => {
+    segmentIdx = clamp(segmentIdx, 0, TOTAL_SEGMENTS - 1);
+    const sameSegment = state.segment === segmentIdx;
+    let el;
 
-  // --- UI updates ---
-  const updateIndicator = () => {
-    const el = document.querySelector('[data-page-indicator]');
-    if (el) el.textContent = `${currentPage} / ${TOTAL_PAGES}`;
+    if (!sameSegment) {
+      // Deactivate old segment only when actually switching
+      const prev = document.querySelector('.rb-segment.is-active');
+      if (prev) {
+        prev.classList.remove('is-active');
+        prev.style.columnWidth = '';
+      }
+      el = getSegmentEl(segmentIdx);
+      if (!el) return;
+      el.classList.add('is-active');
+      initColumns(el);
+    } else {
+      // Same segment — never touch is-active or columnWidth
+      el = getSegmentEl(segmentIdx);
+      if (!el) return;
+    }
+
+    const totalColumns = getColumnCount(el);
+    columnIdx = clamp(columnIdx === Infinity ? totalColumns - 1 : columnIdx, 0, totalColumns - 1);
+
+    el.scrollTo({
+      left: columnIdx * el.clientWidth,
+      behavior: animate && sameSegment ? 'smooth' : 'auto',
+    });
+
+    state = { segment: segmentIdx, column: columnIdx };
+    updateUI(el);
+    save();
   };
 
-  const updateYearBadge = () => {
-    const el = document.querySelector('[data-year-badge]');
-    if (el) el.textContent = getYearGroup(currentPage);
+  const goNext = () => {
+    const el = getSegmentEl(state.segment);
+    const totalColumns = getColumnCount(el);
+    if (state.column < totalColumns - 1) {
+      showPosition(state.segment, state.column + 1);
+    } else if (state.segment < TOTAL_SEGMENTS - 1) {
+      showPosition(state.segment + 1, 0, false);
+    }
   };
 
-  // --- Arrow buttons (READER-04) ---
+  const goPrev = () => {
+    if (state.column > 0) {
+      showPosition(state.segment, state.column - 1);
+    } else if (state.segment > 0) {
+      showPosition(state.segment - 1, Infinity, false);
+    }
+  };
+
+  // --- LocalStorage ---
+  const save = () => {
+    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {}
+  };
+
+  // --- Buttons ---
   const wireButtons = () => {
     document.querySelector('[data-prev]')?.addEventListener('click', goPrev);
     document.querySelector('[data-next]')?.addEventListener('click', goNext);
   };
 
-  // --- Keyboard navigation (READER-05) ---
+  // --- Keyboard ---
   const wireKeyboard = () => {
     document.addEventListener('keydown', (e) => {
       if (e.target.matches('input, textarea, select')) return;
@@ -88,17 +161,20 @@
     });
   };
 
-  // --- Pointer Events swipe (READER-02, READER-03) ---
+  // --- Pointer/swipe ---
   const wireSwipe = () => {
+    const container = document.querySelector('[data-segments]');
     if (!container) return;
+
+    const EDGE_PX = 20;
+    const ANGLE_LIMIT = 30;
+    const MIN_DIST = 40;
     let startX, startY, tracking = false;
 
     container.addEventListener('pointerdown', (e) => {
       if (e.pointerType === 'mouse') return;
-      // iOS Safari edge-swipe exclusion zone (READER-03)
       if (e.clientX < EDGE_PX || e.clientX > window.innerWidth - EDGE_PX) return;
-      startX = e.clientX;
-      startY = e.clientY;
+      startX = e.clientX; startY = e.clientY;
       tracking = true;
       container.setPointerCapture(e.pointerId);
     });
@@ -107,13 +183,8 @@
       if (!tracking) return;
       const dx = e.clientX - startX;
       const dy = e.clientY - startY;
-      // Angle check: abort if gesture is more vertical than ANGLE_LIMIT degrees
       const angle = Math.abs(Math.atan2(Math.abs(dy), Math.abs(dx)) * 180 / Math.PI);
-      if (angle > ANGLE_LIMIT) {
-        tracking = false;
-        return;
-      }
-      // Lock horizontal scroll once intent is confirmed
+      if (angle > ANGLE_LIMIT) { tracking = false; return; }
       if (Math.abs(dx) > 8) e.preventDefault();
     });
 
@@ -122,37 +193,70 @@
       tracking = false;
       const dx = e.clientX - startX;
       if (Math.abs(dx) < MIN_DIST) return;
-      if (dx < 0) goNext();
-      else goPrev();
+      if (dx < 0) goNext(); else goPrev();
     });
 
     container.addEventListener('pointercancel', () => { tracking = false; });
   };
 
-  // --- TOC panel (NAV-03) ---
+  // --- TOC ---
   const wireToc = () => {
     const panel = document.querySelector('[data-toc-panel]');
     if (!panel) return;
 
-    const openToc = () => {
-      panel.classList.add('is-open');
-      panel.setAttribute('aria-hidden', 'false');
-    };
-    const closeToc = () => {
-      panel.classList.remove('is-open');
-      panel.setAttribute('aria-hidden', 'true');
-    };
+    const openToc  = () => { panel.classList.add('is-open');    panel.setAttribute('aria-hidden', 'false'); };
+    const closeToc = () => { panel.classList.remove('is-open'); panel.setAttribute('aria-hidden', 'true');  };
 
     document.querySelector('[data-toc-toggle]')?.addEventListener('click', openToc);
+    document.querySelector('[data-year-toggle]')?.addEventListener('click', openToc);
     document.querySelector('[data-toc-close]')?.addEventListener('click', closeToc);
 
-    // Year group jump buttons
-    panel.querySelectorAll('[data-toc-page]').forEach((btn) => {
+    panel.querySelectorAll('[data-toc-segment]').forEach((btn) => {
       btn.addEventListener('click', () => {
-        const page = parseInt(btn.dataset.tocPage, 10);
-        if (Number.isFinite(page)) showPage(page);
+        const idx = parseInt(btn.dataset.tocSegment, 10);
+        if (Number.isFinite(idx)) showPosition(idx, 0, false);
         closeToc();
       });
+    });
+  };
+
+  const getHashSourcePage = () => {
+    const match = window.location.hash.match(/^#p-(\d{1,3})$/);
+    if (!match) return null;
+    const sourcePage = Number.parseInt(match[1], 10);
+    return Number.isFinite(sourcePage) ? sourcePage : null;
+  };
+
+  const jumpToSourcePage = (sourcePage) => {
+    const segmentIdx = segmentMeta.findIndex(
+      (segment) => sourcePage >= segment.start && sourcePage <= segment.end
+    );
+    if (segmentIdx < 0) return false;
+
+    showPosition(segmentIdx, 0, false);
+    const el = getSegmentEl(segmentIdx);
+    if (!el) return false;
+    const targetColumn = getColumnForSourcePage(el, sourcePage);
+    showPosition(segmentIdx, targetColumn, false);
+    return true;
+  };
+
+  // --- Resize: re-init columns, clamp page ---
+  const wireResize = () => {
+    let timer;
+    window.addEventListener('resize', () => {
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        const el = getSegmentEl(state.segment);
+        if (!el) return;
+        el.style.columnWidth = '';
+        initColumns(el);
+        const totalColumns = getColumnCount(el);
+        const column = clamp(state.column, 0, totalColumns - 1);
+        el.scrollLeft = column * el.clientWidth;
+        state.column = column;
+        updateUI(el);
+      }, 150);
     });
   };
 
@@ -162,7 +266,13 @@
     wireKeyboard();
     wireSwipe();
     wireToc();
-    showPage(restore());
+    wireResize();
+
+    const hashPage = getHashSourcePage();
+    if (hashPage && jumpToSourcePage(hashPage)) return;
+
+    // No hash: always start from the beginning.
+    showPosition(0, 0, false);
   };
 
   window.addEventListener('DOMContentLoaded', setup);

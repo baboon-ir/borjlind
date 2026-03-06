@@ -2,24 +2,45 @@
 layout: base.njk
 bodyClass: ""
 mainClass: "rb-main-full"
+noHeader: true
+noFooter: true
 ---
-{# NAV-02: bake year groups into HTML at build time — no runtime fetch #}
-<script type="application/json" id="rb-year-groups">{{ collections.yearGroupMap | json | safe }}</script>
+{# Segment metadata for bio-reader.js — no content, just id/type/label/start/end #}
+<script type="application/json" id="rb-segment-data">{{ collections.biografiSegments | segmentsMeta | json | safe }}</script>
 
 <div class="rb-bio-reader-wrap">
-  <section class="rb-title-block">
-    <div class="rb-title-author">Rolf Börjlind</div>
-    <div class="rb-hero-title">bit den hand <br>som föder dig</div>
-  </section>
+  <div class="rb-reader-kicker">
+    <span class="rb-reader-kicker-title">bit den hand som föder dig</span>
+    <button class="rb-year-toggle" data-year-toggle aria-label="Öppna innehållsförteckning"></button>
+  </div>
 
-  {% include "bio-controls.njk" %}
-
-  {# TECH-01: data-total exposes TOTAL_PAGES to bio-reader.js #}
-  <div class="rb-bio-container" data-bio-pages data-total="{{ TOTAL_PAGES }}">
-    {% for p in collections.biografiAll %}
-      {% set page = p %}
-      {% include "bio-page.njk" %}
+  <div class="rb-bio-container" data-segments data-total-segments="{{ collections.biografiSegments | length }}">
+    {% for segment in collections.biografiSegments %}
+      <div class="rb-segment" id="segment-{{ segment.id }}" data-segment-id="{{ segment.id }}">
+        {% if segment.id == 0 %}
+          <section class="rb-cover-page" aria-label="Omslagssida">
+            <h1 class="rb-cover-title">bit den hand<br>som föder dig</h1>
+            <p class="rb-cover-author">Rolf Börjlind</p>
+          </section>
+        {% endif %}
+        {% for page in segment.pages %}
+          <span id="{{ page.anchor }}" class="rb-page-anchor" data-page-number="{{ page.number }}" aria-hidden="true"></span>
+          {% if page.item and page.item.templateContent %}
+            <div class="rb-page-prose{% if page.mediaPage %} rb-page-prose--media{% endif %}">
+              {{ page.item.templateContent | bioRender | safe }}
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
     {% endfor %}
+  </div>
+
+  <div class="rb-reader-footer">
+    <button class="rb-reader-arrow" data-prev aria-label="Föregående">&#8592;</button>
+    <div class="rb-reader-nav-info">
+      <span class="rb-page-indicator" data-footer-center></span>
+    </div>
+    <button class="rb-reader-arrow" data-next aria-label="Nästa">&#8594;</button>
   </div>
 </div>
 
