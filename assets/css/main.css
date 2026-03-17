@@ -1215,22 +1215,22 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 ===================================================== */
 
 .rb-bio-reader-wrap {
-  display: flex;
-  flex-direction: column;
-  height: 100dvh;
-  overflow: hidden;
+  width: 100%;
+  padding-bottom: 3rem;
 }
 
 .rb-reader-kicker {
-  flex-shrink: 0;
+  position: sticky;
+  top: 0;
+  z-index: 40;
   width: 100%;
-  max-width: 628px;
-  margin: 0 auto;
+  background: color-mix(in srgb, var(--rb-bg) 88%, transparent);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  text-align: left;
-  padding: 1rem 1rem 0.25rem;
+  padding: 1rem;
 }
 
 .rb-reader-kicker-title {
@@ -1244,25 +1244,23 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 .rb-bio-container {
-  flex: 1;
-  overflow: hidden;
+  max-width: 628px;
+  margin: 0 auto;
   position: relative;
-  margin-top: 0;
-  -webkit-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  user-select: text;
 }
 
 /* Dedicated first reader page (cover) before biography content starts */
 .rb-cover-page {
-  height: 100%;
-  min-height: 100%;
+  min-height: 72dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
   gap: 0.75rem;
-  break-after: column;
+  padding: 1rem;
 }
 
 .rb-cover-title {
@@ -1284,30 +1282,17 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 /* =====================================================
-   E-BOOK READER — Chapter visibility + CSS columns
+   E-BOOK READER — Scroll content
 ===================================================== */
 
-/* Inactive segments: fully hidden */
-.rb-bio-container .rb-segment:not(.is-active) {
-  display: none;
-}
-
-/* Active segment: CSS columns — content paginates into screen-sized columns */
-.rb-bio-container .rb-segment.is-active {
-  height: 100%;
-  max-width: 628px;
-  margin-left: auto;
-  margin-right: auto;
+.rb-bio-container .rb-segment {
   box-sizing: border-box;
-  column-gap: 0;
-  column-fill: auto;
-  overflow: hidden;        /* JS controls scrollLeft — no native scroll */
-  /* column-width set by JS to el.clientWidth */
+  margin-bottom: 1rem;
 }
 
 @media (max-width: 768px) {
   .rb-reader-kicker {
-    padding-bottom: 2rem;
+    padding-bottom: 0.75rem;
   }
 
   .rb-cover-page,
@@ -1320,11 +1305,13 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 /* Page anchor markers — zero height, preserve id targets */
 .rb-page-anchor {
   display: block;
-  height: 0;
+  height: 72px;
+  margin-top: -72px;
   overflow: hidden;
+  pointer-events: none;
 }
 
-/* Keep figures, video embeds and accordions together on one screen */
+/* Keep figures, video embeds and accordions together in flow */
 .rb-segment figure,
 .rb-segment .rb-yt-embed,
 .rb-segment .rb-accordion,
@@ -1333,36 +1320,29 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 /* Keep image blocks and caption text on the same reader page/column */
-.rb-segment figure {
-  break-before: avoid-column;
-  break-after: avoid-column;
-}
+.rb-segment figure { margin-bottom: 1.25rem; }
 
-/* Keep poem blocks intact on one reader page/column */
+/* Keep poem blocks intact in normal flow */
 .rb-segment .rb-poem,
 .rb-segment .rb-poem p {
   break-inside: avoid;
 }
 
-.rb-segment .rb-poem {
-  break-before: avoid-column;
-  break-after: avoid-column;
-}
+.rb-segment .rb-poem { margin-bottom: 1rem; }
 
 /* Prefer keeping a following image with preceding poem context */
 .rb-segment .rb-poem + figure {
-  break-before: avoid-column;
+  break-before: avoid-page;
 }
 
-/* Titles should always start on a new reader page/column */
+/* Titles should keep clean rhythm in long-form scroll */
 .rb-segment .rb-page-prose h1,
 .rb-segment .rb-page-prose h2,
 .rb-segment .rb-page-prose h3,
 .rb-segment .rb-page-prose h4,
 .rb-segment .rb-page-prose h5,
 .rb-segment .rb-page-prose h6 {
-  break-before: column;
-  break-after: avoid-column;
+  break-after: avoid-page;
   margin-top: 0;
 }
 
@@ -1373,79 +1353,12 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   object-fit: contain;
 }
 
-/* Media pages: force onto their own column/screen */
+/* Media pages: centered in scroll flow */
 .rb-page-prose--media {
-  break-before: column;
-  break-after: column;
-}
-
-/* Prevent an empty first reader page when a segment starts with media content */
-.rb-segment .rb-page-prose--media:first-of-type {
-  break-before: auto;
-}
-
-/* =====================================================
-   E-BOOK READER — Controls bar (Phase 2)
-   READER-04: prev/next buttons, READER-06: page indicator
-===================================================== */
-
-.rb-controls-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: var(--header-h);
-  padding: 0 1rem;
-  background-color: transparent;
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
-  flex-shrink: 0;
-}
-
-.rb-bio-book-title {
-  font-size: 1rem;
-  font-style: italic;
-  color: var(--color-light);
-}
-
-.rb-reader-footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 44px;
-  padding: 0 1rem;
-  background-color: transparent;
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
-  flex-shrink: 0;
-}
-
-.rb-reader-nav-info {
+  min-height: 60dvh;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 0;
-  font-size: 0.875rem;
-  color: var(--rb-text);
-}
-
-.rb-reader-arrow {
-  background: transparent;
-  border: 0;
-  color: var(--color-light);
-  cursor: pointer;
-  font-size: 1.25rem;
-  padding: 0.25rem 0.5rem;
-  line-height: 1;
-}
-
-.rb-page-indicator {
-  font-size: 0.875rem;
-  color: var(--rb-text);
-  font-variant-numeric: tabular-nums;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 48vw;
 }
 
 .rb-year-toggle {
@@ -1461,6 +1374,33 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   max-width: 32vw;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.rb-reader-footer {
+  position: sticky;
+  bottom: 0;
+  z-index: 35;
+  width: 100%;
+  max-width: 628px;
+  margin: 0 auto;
+  padding: 0.6rem 1rem calc(0.6rem + env(safe-area-inset-bottom));
+  background: color-mix(in srgb, var(--rb-bg) 88%, transparent);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
+
+.rb-reader-nav-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rb-page-indicator {
+  font-size: 0.82rem;
+  color: var(--rb-text-muted);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 /* =====================================================

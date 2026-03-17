@@ -5,7 +5,7 @@ mainClass: "rb-main-full"
 noHeader: true
 noFooter: true
 ---
-{# Segment metadata for bio-reader.js — no content, just id/type/label/start/end #}
+{# Segment metadata for scroll TOC/year state #}
 <script type="application/json" id="rb-segment-data">{{ collections.biografiSegments | segmentsMeta | json | safe }}</script>
 
 <div class="rb-bio-reader-wrap">
@@ -14,7 +14,7 @@ noFooter: true
     <button class="rb-year-toggle" data-year-toggle aria-label="Öppna innehållsförteckning"></button>
   </div>
 
-  <div class="rb-bio-container" data-segments data-total-segments="{{ collections.biografiSegments | length }}">
+  <div class="rb-bio-container">
     {% for segment in collections.biografiSegments %}
       <div class="rb-segment" id="segment-{{ segment.id }}" data-segment-id="{{ segment.id }}">
         {% if segment.id == 0 %}
@@ -36,11 +36,9 @@ noFooter: true
   </div>
 
   <div class="rb-reader-footer">
-    <button class="rb-reader-arrow" data-prev aria-label="Föregående">&#8592;</button>
     <div class="rb-reader-nav-info">
       <span class="rb-page-indicator" data-footer-center></span>
     </div>
-    <button class="rb-reader-arrow" data-next aria-label="Nästa">&#8594;</button>
   </div>
 </div>
 
