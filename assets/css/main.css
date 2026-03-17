@@ -1381,26 +1381,31 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   bottom: 0;
   z-index: 35;
   width: 100%;
-  max-width: 628px;
-  margin: 0 auto;
-  padding: 0.6rem 1rem calc(0.6rem + env(safe-area-inset-bottom));
-  background: color-mix(in srgb, var(--rb-bg) 88%, transparent);
+  height: 44px;
+  padding: 0 1rem calc(env(safe-area-inset-bottom));
+  background-color: transparent;
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .rb-reader-nav-info {
   display: flex;
   align-items: center;
   justify-content: center;
+  min-width: 0;
 }
 
 .rb-page-indicator {
-  font-size: 0.82rem;
-  color: var(--rb-text-muted);
+  font-size: 0.875rem;
+  color: var(--rb-text);
   font-variant-numeric: tabular-nums;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 48vw;
 }
 
 /* =====================================================
