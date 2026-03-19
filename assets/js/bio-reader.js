@@ -16,13 +16,16 @@
     }))
     .filter((row) => Number.isFinite(row.number));
 
-  const totalPages = pageAnchors.length
-    ? pageAnchors[pageAnchors.length - 1].number
-    : null;
-
   const yearToggle = document.querySelector('[data-year-toggle]');
   const footerIndicator = document.querySelector('[data-footer-center]');
   const tocPanel = document.querySelector('[data-toc-panel]');
+
+  let segmentPositions = [];
+  let pagePositions = [];
+  let currentSegmentId = null;
+  let currentPageNumber = null;
+  let frameId = null;
+  let reflowId = null;
 
   const setYearLabel = (segmentId) => {
     if (!yearToggle) return;
@@ -30,46 +33,80 @@
     yearToggle.textContent = match?.label || 'Innehåll';
   };
 
-  const getActiveSegmentId = () => {
-    const threshold = window.innerHeight * 0.35;
-    let current = segmentEls[0];
+  const binarySearchLastAtOrBefore = (list, targetY) => {
+    if (!list.length) return null;
 
-    for (const el of segmentEls) {
-      if (el.getBoundingClientRect().top <= threshold) {
-        current = el;
+    let lo = 0;
+    let hi = list.length - 1;
+    let best = 0;
+
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      if (list[mid].top <= targetY) {
+        best = mid;
+        lo = mid + 1;
       } else {
-        break;
+        hi = mid - 1;
       }
     }
 
-    return current?.dataset.segmentId;
+    return list[best];
   };
 
-  const getCurrentPageNumber = () => {
-    if (!pageAnchors.length) return null;
+  const recomputePositions = () => {
+    segmentPositions = segmentEls
+      .map((el) => ({
+        el,
+        id: el.dataset.segmentId,
+        top: el.offsetTop,
+      }))
+      .sort((a, b) => a.top - b.top);
 
-    const threshold = window.innerHeight * 0.28;
-    let current = pageAnchors[0].number;
+    pagePositions = pageAnchors
+      .map((row) => ({
+        number: row.number,
+        top: row.el.offsetTop,
+      }))
+      .sort((a, b) => a.top - b.top);
 
-    for (const row of pageAnchors) {
-      if (row.el.getBoundingClientRect().top <= threshold) {
-        current = row.number;
-      } else {
-        break;
-      }
-    }
+    updateFromScroll();
+  };
 
-    return current;
+  const scheduleRecompute = () => {
+    if (reflowId) return;
+    reflowId = window.requestAnimationFrame(() => {
+      recomputePositions();
+      reflowId = null;
+    });
   };
 
   const updateFromScroll = () => {
-    const activeId = getActiveSegmentId();
-    if (activeId != null) setYearLabel(activeId);
+    const scrollTop = window.scrollY || window.pageYOffset || 0;
 
-    const currentPage = getCurrentPageNumber();
-    if (footerIndicator && currentPage != null) {
-      footerIndicator.textContent = `${currentPage}`;
+    const segmentProbeY = scrollTop + (window.innerHeight * 0.35);
+    const pageProbeY = scrollTop + (window.innerHeight * 0.28);
+
+    const segmentHit = binarySearchLastAtOrBefore(segmentPositions, segmentProbeY);
+    if (segmentHit && segmentHit.id !== currentSegmentId) {
+      currentSegmentId = segmentHit.id;
+      setYearLabel(currentSegmentId);
     }
+
+    const pageHit = binarySearchLastAtOrBefore(pagePositions, pageProbeY);
+    if (pageHit && pageHit.number !== currentPageNumber) {
+      currentPageNumber = pageHit.number;
+      if (footerIndicator) {
+        footerIndicator.textContent = `${currentPageNumber}`;
+      }
+    }
+  };
+
+  const onScroll = () => {
+    if (frameId) return;
+    frameId = window.requestAnimationFrame(() => {
+      updateFromScroll();
+      frameId = null;
+    });
   };
 
   const openToc = () => {
@@ -104,18 +141,23 @@
     });
   };
 
+  const wireReflowTriggers = () => {
+    window.addEventListener('resize', scheduleRecompute, { passive: true });
+    window.addEventListener('load', scheduleRecompute, { passive: true });
+
+    document.querySelectorAll('.rb-page-prose img').forEach((img) => {
+      if (!img.complete) {
+        img.addEventListener('load', scheduleRecompute, { passive: true });
+        img.addEventListener('error', scheduleRecompute, { passive: true });
+      }
+    });
+  };
+
   const setup = () => {
     wireToc();
-    updateFromScroll();
-
-    let frameId = null;
-    window.addEventListener('scroll', () => {
-      if (frameId) return;
-      frameId = window.requestAnimationFrame(() => {
-        updateFromScroll();
-        frameId = null;
-      });
-    }, { passive: true });
+    wireReflowTriggers();
+    recomputePositions();
+    window.addEventListener('scroll', onScroll, { passive: true });
   };
 
   window.addEventListener('DOMContentLoaded', setup);
