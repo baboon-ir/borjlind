@@ -10,13 +10,13 @@ Nuvarande lasare ar segmenterad och scroll-baserad (Prolog / arssegment / Epilog
 
 - Phase 1 (CSS Foundation): klar.
 - Phase 2 (E-book Reader): delvis uppfylld enligt ursprunglig kravbild; funktionell lasare finns, men flera READER-krav ar ej implementerade i aktuell kod.
-- Phase 3 (Design Polish): paborjad, 03-01 klart.
+- Phase 3 (Design Polish): klar, 03-01 och 03-02 fullforda.
 
 ## Phases
 
 - [x] **Phase 1: CSS Foundation** - Tailwind borttaget, plain CSS etablerat.
 - [ ] **Phase 2: Reader Implementation (Reality-synkad)** - Segmenterad vertikal lasning + TOC i drift; ursprunglig swipe/page-toggle-spec ej fullt uppfylld.
-- [ ] **Phase 3: Design Polish** - typografi/farg/lasbarhetspolish.
+- [x] **Phase 3: Design Polish** - typografi/farg/lasbarhetspolish.
 
 ## Phase Details
 
@@ -40,7 +40,7 @@ Nuvarande lasare ar segmenterad och scroll-baserad (Prolog / arssegment / Epilog
 **Status**: In Progress (reality drift dokumenterad)
 
 ### Phase 3: Design Polish
-**Status**: In Progress (03-01 complete, 03-02 pending)
+**Status**: Complete (03-01 and 03-02 complete)
 
 ## Progress
 
@@ -48,7 +48,7 @@ Nuvarande lasare ar segmenterad och scroll-baserad (Prolog / arssegment / Epilog
 |-------|--------|-------|
 | 1. CSS Foundation | Complete | Klar och i drift |
 | 2. Reader Implementation | In Progress | As-built avviker fran ursprunglig paged/swipe-spec |
-| 3. Design Polish | In Progress | 03-01 klart: tokeniserad lasbarhet, text-rails och chrome-tone |
+| 3. Design Polish | Complete | 03-01/03-02 klara: tokeniserad lasbarhet och verifierad visuell sign-off |
 
 ## Next Planning Action
 
