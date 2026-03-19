@@ -1227,32 +1227,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
 .rb-bio-reader-wrap {
   width: 100%;
-  padding-bottom: 3rem;
-}
-
-.rb-reader-kicker {
-  position: sticky;
-  top: 0;
-  z-index: 40;
-  width: 100%;
-  background-color: color-mix(in srgb, var(--rb-surface) 82%, transparent);
-  border-bottom: 1px solid var(--rb-border);
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1rem;
-}
-
-.rb-reader-kicker-title {
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--rb-text-muted);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  padding-bottom: calc(4rem + env(safe-area-inset-bottom));
 }
 
 .rb-bio-container {
@@ -1308,10 +1283,6 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 @media (max-width: 768px) {
-  .rb-reader-kicker {
-    padding-bottom: 0.75rem;
-  }
-
   .rb-cover-page,
   .rb-segment .rb-page-prose {
     padding-inline: var(--rb-inline-inset-mobile);
@@ -1393,38 +1364,48 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   text-overflow: ellipsis;
 }
 
+.rb-reader-nav {
+  justify-self: end;
+}
+
 .rb-year-toggle:hover,
 .rb-year-toggle:focus-visible {
   color: var(--rb-text);
   border-color: var(--rb-border);
 }
 
-.rb-reader-footer {
+.rb-reader-bar {
   position: sticky;
   bottom: 0;
-  z-index: 35;
+  z-index: 40;
   width: 100%;
-  height: 44px;
-  padding: 0 1rem calc(env(safe-area-inset-bottom));
+  min-height: 52px;
+  padding: 0.7rem 1rem calc(0.7rem + env(safe-area-inset-bottom));
   background-color: color-mix(in srgb, var(--rb-surface) 78%, transparent);
-  border-top: 1px solid var(--rb-border);
+  border-top: 1px solid color-mix(in srgb, var(--rb-border) 85%, transparent);
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
   align-items: center;
-  justify-content: center;
+  gap: 0.5rem;
 }
 
-.rb-reader-nav-info {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.rb-reader-title {
   min-width: 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .rb-page-indicator {
+  justify-self: center;
   font-size: 0.875rem;
-  color: var(--rb-text-muted);
+  color: #fff;
   letter-spacing: 0.03em;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;

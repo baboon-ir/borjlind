@@ -67,8 +67,8 @@
     if (activeId != null) setYearLabel(activeId);
 
     const currentPage = getCurrentPageNumber();
-    if (footerIndicator && currentPage != null && totalPages != null) {
-      footerIndicator.textContent = `Sida ${currentPage} / ${totalPages}`;
+    if (footerIndicator && currentPage != null) {
+      footerIndicator.textContent = `${currentPage}`;
     }
   };
 

@@ -9,11 +9,6 @@ noFooter: true
 <script type="application/json" id="rb-segment-data">{{ collections.biografiSegments | segmentsMeta | json | safe }}</script>
 
 <div class="rb-bio-reader-wrap">
-  <div class="rb-reader-kicker">
-    <span class="rb-reader-kicker-title">bit den hand som föder dig</span>
-    <button class="rb-year-toggle" data-year-toggle aria-label="Öppna innehållsförteckning"></button>
-  </div>
-
   <div class="rb-bio-container">
     {% for segment in collections.biografiSegments %}
       <div class="rb-segment" id="segment-{{ segment.id }}" data-segment-id="{{ segment.id }}">
@@ -35,10 +30,10 @@ noFooter: true
     {% endfor %}
   </div>
 
-  <div class="rb-reader-footer">
-    <div class="rb-reader-nav-info">
-      <span class="rb-page-indicator" data-footer-center></span>
-    </div>
+  <div class="rb-reader-bar">
+    <span class="rb-reader-title">bit den hand som föder dig</span>
+    <span class="rb-page-indicator" data-footer-center></span>
+    <button class="rb-year-toggle rb-reader-nav" data-year-toggle aria-label="Öppna innehållsförteckning">Innehåll</button>
   </div>
 </div>
 
