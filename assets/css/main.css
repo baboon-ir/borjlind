@@ -441,7 +441,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 .rb-bio-page {
   width: 100%;
   background: transparent;
-  max-width: 65ch;
+  max-width: var(--rb-measure);
   padding: 0;
   margin: 0 auto;
   content-visibility: auto;
@@ -466,61 +466,53 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
     max-width: 100%;
   }
 
-  /* Paragraphs: padding for text inset */
+  /* Paragraphs: symmetric logical inset */
   .rb-bio-page .rb-prose p {
-    padding-left: 16px;
-    padding-right: 24px;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 
-  /* Indent: keep indent + text padding */
+  /* Indent: keep indent + text inset */
   .rb-bio-page .rb-prose .rb-indent {
-    padding-left: calc(2em + 16px);
-    padding-right: 24px;
+    padding-inline-start: calc(2em + var(--rb-inline-inset-mobile));
+    padding-inline-end: var(--rb-inline-inset-mobile);
   }
 
   /* Figures & images: contained */
   .rb-bio-page .rb-prose figure {
     max-width: 100%;
-    padding-left: 16px;
-    padding-right: 24px;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Accordion: contained */
   .rb-bio-page .rb-accordion,
   .rb-bio-page details {
     max-width: 100%;
-    padding-left: 16px;
-    padding-right: 24px;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Headings: same padding as paragraphs */
   .rb-bio-page .rb-prose :where(h1,h2,h3,h4,h5,h6) {
-    padding-left: 16px;
-    padding-right: 24px;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Poem: contained */
   .rb-bio-page .rb-prose .rb-poem {
-    padding-left: 16px;
-    padding-right: 24px;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Quote: contained */
   .rb-bio-page .rb-prose .rb-quote {
-    margin-left: 16px;
-    margin-right: 24px;
+    margin-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Minne: contained */
   .rb-bio-page .rb-prose .rb-minne {
-    margin-left: 16px;
-    margin-right: 24px;
+    margin-inline: var(--rb-inline-inset-mobile);
   }
 
   /* HR */
   .rb-bio-page .rb-prose hr {
-    margin-left: 16px;
-    margin-right: 24px;
+    margin-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Part divider */
@@ -536,10 +528,23 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
    ============================================================ */
 
 .rb-prose {
-  max-width: none;
-  color: var(--color-light);
-  line-height: 1.75;
-  font-size: 1rem;
+  max-width: var(--rb-measure);
+  margin-inline: auto;
+  color: var(--rb-text);
+  font-family: var(--rb-font-body);
+  font-size: var(--rb-body-size);
+  line-height: var(--rb-body-leading);
+  letter-spacing: var(--rb-body-tracking);
+}
+
+.rb-page-prose {
+  max-width: var(--rb-measure);
+  margin-inline: auto;
+  font-family: var(--rb-font-body);
+  font-size: var(--rb-body-size);
+  line-height: var(--rb-body-leading);
+  letter-spacing: var(--rb-body-tracking);
+  color: var(--rb-text);
 }
 
 /* Prose invert color variables */
@@ -754,7 +759,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   margin-bottom: 0.25rem;
   font-size: 0.75rem;
   font-weight: 300;
-  color: #ffffff;
+  color: var(--rb-text);
 }
 
 .rb-accordion summary {
@@ -1296,6 +1301,11 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   margin-bottom: 1rem;
 }
 
+.rb-cover-page,
+.rb-segment .rb-page-prose {
+  padding-inline: var(--rb-inline-inset-desktop);
+}
+
 @media (max-width: 768px) {
   .rb-reader-kicker {
     padding-bottom: 0.75rem;
@@ -1303,8 +1313,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
   .rb-cover-page,
   .rb-segment .rb-page-prose {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 }
 
