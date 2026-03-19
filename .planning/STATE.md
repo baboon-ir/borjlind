@@ -2,100 +2,62 @@
 gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
-status: planning
-stopped_at: Completed 02-ebook-reader plan 05 (Eleventy data pipeline and template restructure)
-last_updated: "2026-03-05T16:36:47.574Z"
-last_activity: 2026-03-04 — Roadmap created, 27 v1 requirements mapped to 3 phases
+status: executing
+stopped_at: Completed 03-design-polish-01-PLAN.md
+last_updated: "2026-03-19T08:26:30.000Z"
+last_activity: 2026-03-19 - Completed 03-design-polish plan 01 (reader polish rails + chrome tone)
 progress:
   total_phases: 3
-  completed_phases: 1
-  total_plans: 8
-  completed_plans: 7
-  percent: 50
+  completed_phases: 2
+  total_plans: 10
+  completed_plans: 9
+  percent: 90
 ---
 
 # Project State
 
 ## Project Reference
 
-See: .planning/PROJECT.md (updated 2026-03-04)
+See: .planning/PROJECT.md
 
-**Core value:** Läsupplevelsen ska kännas som att hålla en bok i handen — enkel att navigera, tidlös i sin design, och alltid tillgänglig utan att beroenden förfaller.
-**Current focus:** Phase 1 — CSS Foundation
+**Core value:** Lasupplevelsen ska kannas som att halla en bok i handen - enkel att navigera, tidlos i sin design, och alltid tillganglig utan att beroenden forfaller.
+**Current focus:** Phase 3 design polish execution
 
 ## Current Position
 
-Phase: 1 of 3 (CSS Foundation)
-Plan: 0 of ? in current phase
-Status: Ready to plan
-Last activity: 2026-03-04 — Roadmap created, 27 v1 requirements mapped to 3 phases
+Phase: 3 of 3 (Design Polish)
+Plan: 1 of 2 (03-01 complete)
+Status: In progress, continuing to next Phase 3 plan
+Last activity: 2026-03-19 - Completed 03-01 tokenized readability/chrome polish
 
-Progress: [█████░░░░░] 50%
+Progress: [█████████░] 90%
 
-## Performance Metrics
+## Reality Snapshot (Code Truth)
 
-**Velocity:**
-- Total plans completed: 0
-- Average duration: -
-- Total execution time: 0 hours
+- Reader is currently segment-based and scroll-driven (`collections.biografiSegments`, `scrollIntoView`).
+- TOC panel works for segment navigation.
+- Footer page indicator updates from anchor position in viewport.
+- No pointer-swipe paging, no keyboard page-turn, no prev/next pager buttons.
+- No localStorage restore of reading position in current `assets/js/bio-reader.js`.
+- Biography content source in build pipeline is chapter marker files (`content/pages/biografi/chapters/*.md`).
 
-**By Phase:**
+## Decisions Logged (2026-03-19 sync)
 
-| Phase | Plans | Total | Avg/Plan |
-|-------|-------|-------|----------|
-| - | - | - | - |
+- Keep documenting original v1 requirements, but mark as-built gaps explicitly in REQUIREMENTS.md.
+- Treat current reader as valid in-production behavior, but not equivalent to original paged-swipe acceptance criteria.
+- Mark legacy/unused templates in planning context (`includes/bio-controls.njk`, `includes/bio-page.njk`, `includes/hub-grid.njk`).
+- Keep single dark-theme reader model and refine to warm charcoal/off-white semantic tokens for long-form comfort.
+- Map `.rb-page-prose` and `.rb-prose` to shared body rails (`--rb-body-size`, `--rb-body-leading`, `--rb-body-tracking`, `--rb-measure`).
+- Standardize mobile reader insets to logical property token rails and align kicker/footer/TOC chrome to shared semantic contrast tokens.
 
-**Recent Trend:**
-- Last 5 plans: -
-- Trend: -
+## Blockers/Concerns
 
-*Updated after each plan completion*
-| Phase 01-css-foundation P01 | 4 | 1 tasks | 2 files |
-| Phase 01-css-foundation P02 | 10 | 2 tasks | 14 files |
-| Phase 02-ebook-reader P02 | 10 | 1 tasks | 277 files |
-| Phase 02-ebook-reader P01 | 16 | 2 tasks | 2 files |
-| Phase 02-ebook-reader P04 | 19 | 1 tasks | 1 files |
-| Phase 02-ebook-reader P03 | 5 | 1 tasks | 1 files |
-| Phase 02-ebook-reader P05 | 8 | 2 tasks | 5 files |
-
-## Accumulated Context
-
-### Decisions
-
-Decisions are logged in PROJECT.md Key Decisions table.
-Recent decisions affecting current work:
-
-- Roadmap: Phase 1 must be Tailwind removal — JIT class scanning conflicts with dynamically toggled `.is-active` classes needed by the reader
-- Roadmap: Design polish (DESIGN-01–07) is Phase 3, not Phase 1 — intentional changes separated from visual parity requirement
-- Roadmap: `yearGroup` frontmatter is a content decision to be made early in Phase 2 before any TOC work
-- [Phase 01-css-foundation]: CSS custom properties declared in :root for brand colors and font stacks — all component rules reference these variables
-- [Phase 01-css-foundation]: Prose typography rules derived from compiled Tailwind output (prose-invert) to preserve visual parity without @apply prose prose-invert
-- [Phase 01-css-foundation]: Added .planning/** to eleventyConfig.ignores to prevent Eleventy from parsing planning files as Nunjucks templates
-- [Phase 01-css-foundation]: Templates only carry semantic rb-* names — no utility class strings in any .njk or .eleventy.js class attributes
-- [Phase 01-css-foundation]: npm-run-all removed with Tailwind — site builds with single eleventy command, no CSS pipeline
-- [Phase 01-css-foundation]: Human verified visual parity across all 5 page types — Home, Biography, Minnen, Memory detail, Appendix all confirmed matching original Tailwind output
-- [Phase 02-ebook-reader]: yearGroup placeholder ranges used (10 groups, 1942–2024); user replaces with real boundaries before production
-- [Phase 02-ebook-reader]: Migration script deleted after run; check-frontmatter.js kept as permanent verification tool
-- [Phase 02-ebook-reader]: TOTAL_PAGES constant at module level in .eleventy.js drives all loop bounds and is exposed via addGlobalData to all Nunjucks templates
-- [Phase 02-ebook-reader]: Kept existing check-frontmatter.js unchanged — already present and more capable than spec; all 276 biography pages already had yearGroup frontmatter
-- [Phase 02-ebook-reader]: bio:page key stores plain integer string (not JSON) — simpler persistence than old bio:last scroll payload
-- [Phase 02-ebook-reader]: TOTAL_PAGES reads from container data-total attribute with 276 as fallback — no hardcoded value in logic paths
-- [Phase 02-ebook-reader]: Added --rb-* CSS custom properties to :root — plan stated they existed in Phase 1 but were absent; mapped to existing palette values
-- [Phase 02-ebook-reader]: yearGroupMap baked as inline JSON at build time — no runtime fetch
-- [Phase 02-ebook-reader]: bio-toc.njk placed outside rb-bio-reader-wrap to allow full-viewport overlay
-- [Phase 02-ebook-reader]: bio-page.njk uses TOTAL_PAGES global data — zero hardcoded 276 remain in templates
-
-### Pending Todos
-
-None yet.
-
-### Blockers/Concerns
-
-- Phase 2: `yearGroup` frontmatter does not exist yet — year-period boundaries must be defined against actual content before TOC can be built (content decision, not technical)
-- Phase 2: iOS Safari edge-swipe conflict is highest-severity implementation risk — requires real-device testing on iOS Safari and mid-range Android before sign-off
+- Product decision needed: continue toward original paged/swipe model, or formalize segment-scroll model as target.
+- Until that decision is made, Phase 2 cannot be marked complete against original READER acceptance criteria.
+- No blockers encountered for 03-01 execution.
 
 ## Session Continuity
 
-Last session: 2026-03-05T16:36:47.572Z
-Stopped at: Completed 02-ebook-reader plan 05 (Eleventy data pipeline and template restructure)
+Last session: 2026-03-19T08:25:01.847Z
+Stopped at: Completed 03-design-polish-01-PLAN.md
 Resume file: None

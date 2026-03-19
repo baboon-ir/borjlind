@@ -14,25 +14,25 @@
 
 ### Läsoptimerad design
 
-- [ ] **DESIGN-01**: Bakgrundsfärg är forskningsoptimerad för ögonkomfort — inte ren `#000000` (mjuk svart, t.ex. `#111111`–`#1a1a1a`)
-- [ ] **DESIGN-02**: Textfärg är forskningsoptimerad — inte ren `#ffffff` (varm off-white, t.ex. `#e8e8e8`–`#f0ede4`)
-- [ ] **DESIGN-03**: Ingen mörkt/ljust-läge-toggle — ett enda tema genomgående
-- [ ] **DESIGN-04**: Bastextstorlek är läsoptimerad (16–18px för brödtext)
-- [ ] **DESIGN-05**: Radavstånd är läsoptimerat (1.6–1.8 för löptext)
-- [ ] **DESIGN-06**: Teckenavstånd är läsoptimerat (lätt positivt tracking för brödtext, 0.01–0.02em)
-- [ ] **DESIGN-07**: Radlängd är begränsad till optimal läsbredd (60–75 tecken, ca 65ch)
+- [x] **DESIGN-01**: Bakgrundsfärg är forskningsoptimerad för ögonkomfort — inte ren `#000000` (mjuk svart, t.ex. `#111111`–`#1a1a1a`)
+- [x] **DESIGN-02**: Textfärg är forskningsoptimerad — inte ren `#ffffff` (varm off-white, t.ex. `#e8e8e8`–`#f0ede4`)
+- [x] **DESIGN-03**: Ingen mörkt/ljust-läge-toggle — ett enda tema genomgående
+- [x] **DESIGN-04**: Bastextstorlek är läsoptimerad (16–18px för brödtext)
+- [x] **DESIGN-05**: Radavstånd är läsoptimerat (1.6–1.8 för löptext)
+- [x] **DESIGN-06**: Teckenavstånd är läsoptimerat (lätt positivt tracking för brödtext, 0.01–0.02em)
+- [x] **DESIGN-07**: Radlängd är begränsad till optimal läsbredd (60–75 tecken, ca 65ch)
 
 ### E-boksläsare — sidnavigation
 
-- [x] **READER-01**: En sida visas åt gången — synlighetsmodell (JS-kontrollerad), inte scroll
-- [x] **READER-02**: Svep vänster/höger med Pointer Events API navigerar till nästa/föregående sida
-- [x] **READER-03**: iOS Safari kantsvep hanteras korrekt (`touch-action: pan-y`, riktningsvinkelkontroll)
-- [x] **READER-04**: Knappar (pil vänster/höger) navigerar sida — synliga på både mobil och desktop
-- [x] **READER-05**: Tangentbordsnavigation — piltangenter vänster/höger byter sida
+- [ ] **READER-01**: En sida visas åt gången — synlighetsmodell (JS-kontrollerad), inte scroll
+- [ ] **READER-02**: Svep vänster/höger med Pointer Events API navigerar till nästa/föregående sida
+- [ ] **READER-03**: iOS Safari kantsvep hanteras korrekt (`touch-action: pan-y`, riktningsvinkelkontroll)
+- [ ] **READER-04**: Knappar (pil vänster/höger) navigerar sida — synliga på både mobil och desktop
+- [ ] **READER-05**: Tangentbordsnavigation — piltangenter vänster/höger byter sida
 - [x] **READER-06**: Sidindikator visar aktuell sida och totalt antal ("12 / 276")
-- [x] **READER-07**: Läsposition sparas i localStorage och återställs vid nästa besök
-- [x] **READER-08**: Läsarcontainer använder `100dvh` (inte `100vh`) — löser iOS Safari webbläsar-chrome-problem
-- [x] **READER-09**: Befintlig `bio-reader.js` ersätts helt med ny sidstyrningscontroller (scroll-modell tas bort)
+- [ ] **READER-07**: Läsposition sparas i localStorage och återställs vid nästa besök
+- [ ] **READER-08**: Läsarcontainer använder `100dvh` (inte `100vh`) — löser iOS Safari webbläsar-chrome-problem
+- [ ] **READER-09**: Befintlig `bio-reader.js` ersätts helt med ny sidstyrningscontroller (scroll-modell tas bort)
 
 ### E-boksläsare — årsnavigation
 
@@ -79,22 +79,22 @@
 | CSS-02 | Phase 1 | Complete |
 | CSS-03 | Phase 1 | Complete |
 | CSS-04 | Phase 1 | Complete |
-| DESIGN-01 | Phase 3 | Pending |
-| DESIGN-02 | Phase 3 | Pending |
-| DESIGN-03 | Phase 3 | Pending |
-| DESIGN-04 | Phase 3 | Pending |
-| DESIGN-05 | Phase 3 | Pending |
-| DESIGN-06 | Phase 3 | Pending |
-| DESIGN-07 | Phase 3 | Pending |
-| READER-01 | Phase 2 | Complete |
-| READER-02 | Phase 2 | Complete |
-| READER-03 | Phase 2 | Complete |
-| READER-04 | Phase 2 | Complete |
-| READER-05 | Phase 2 | Complete |
+| DESIGN-01 | Phase 3 | Complete |
+| DESIGN-02 | Phase 3 | Complete |
+| DESIGN-03 | Phase 3 | Complete |
+| DESIGN-04 | Phase 3 | Complete |
+| DESIGN-05 | Phase 3 | Complete |
+| DESIGN-06 | Phase 3 | Complete |
+| DESIGN-07 | Phase 3 | Complete |
+| READER-01 | Phase 2 | Gap (as-built) |
+| READER-02 | Phase 2 | Gap (as-built) |
+| READER-03 | Phase 2 | Gap (as-built) |
+| READER-04 | Phase 2 | Gap (as-built) |
+| READER-05 | Phase 2 | Gap (as-built) |
 | READER-06 | Phase 2 | Complete |
-| READER-07 | Phase 2 | Complete |
-| READER-08 | Phase 2 | Complete |
-| READER-09 | Phase 2 | Complete |
+| READER-07 | Phase 2 | Gap (as-built) |
+| READER-08 | Phase 2 | Gap (as-built) |
+| READER-09 | Phase 2 | Gap (as-built) |
 | NAV-01 | Phase 2 | Complete |
 | NAV-02 | Phase 2 | Complete |
 | NAV-03 | Phase 2 | Complete |
@@ -103,6 +103,13 @@
 | LAYOUT-02 | Phase 2 | Complete |
 | TECH-01 | Phase 2 | Complete |
 
+## As-Built Audit (2026-03-19)
+
+Current implementation in `main` uses a segment-based scroll reader, not one-page swipe paging.
+
+- Implemented: READER-06, NAV-01, NAV-02, NAV-03, NAV-04, LAYOUT-01, LAYOUT-02, TECH-01
+- Gaps vs original v1 acceptance: READER-01, READER-02, READER-03, READER-04, READER-05, READER-07, READER-08, READER-09
+
 **Coverage:**
 - v1 requirements: 27 total
 - Mapped to phases: 27
@@ -110,4 +117,4 @@
 
 ---
 *Requirements defined: 2026-03-04*
-*Last updated: 2026-03-04 after roadmap creation — all requirements mapped*
+*Last updated: 2026-03-19 after reality sync with current codebase*
