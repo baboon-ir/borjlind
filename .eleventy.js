@@ -57,6 +57,9 @@ md.use(markdownItContainer, 'quote', {
 
 md.use(markdownItContainer, 'part', {
   render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<hr class="rb-part">\n';
+    }
     return '';
   }
 });
@@ -113,10 +116,13 @@ md.use(markdownItContainer, 'accordion', {
         tokens[i].content = '';
       }
 
-      return `<div class="w-full gap-1"><span class="read-more">Läs mer</span><details class="rb-accordion" style="border-top:0.5px solid #ccc;border-bottom:0.5px solid #ccc;">
-        <summary>${md.renderInline(summary)}</summary>
-        <div class="rb-accordion-content">${contentHtml}</div>
-      </details></div>\n`;
+      return `<div class="rb-accordion">
+        <div class="rb-accordion-excerpt">${md.renderInline(summary)}</div>
+        <details class="rb-accordion-details">
+          <summary class="rb-accordion-btn">LÄS MER</summary>
+          <div class="rb-accordion-content">${contentHtml}</div>
+        </details>
+      </div>\n`;
     } else {
       return '';
     }
@@ -147,6 +153,16 @@ md.use(markdownItContainer, 'video', {
   render: function (tokens, idx) {
     if (tokens[idx].nesting === 1) {
       return '<div class="rb-video">\n';
+    } else {
+      return '</div>\n';
+    }
+  }
+});
+
+md.use(markdownItContainer, 'fullpage', {
+  render: function (tokens, idx) {
+    if (tokens[idx].nesting === 1) {
+      return '<div class="rb-fullpage">\n';
     } else {
       return '</div>\n';
     }
@@ -288,6 +304,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "assets/css/main.css": "assets/css/main.css" });
   eleventyConfig.addPassthroughCopy({ "assets/js/bio-reader.js": "assets/js/bio-reader.js" });
   eleventyConfig.addPassthroughCopy({ "assets/js/nav.js": "assets/js/nav.js" });
+  eleventyConfig.addPassthroughCopy({ "assets/js/section-reader.js": "assets/js/section-reader.js" });
 
   // If you add images later, place them in assets/images/.
   eleventyConfig.addPassthroughCopy({ "assets/images": "assets/images" });

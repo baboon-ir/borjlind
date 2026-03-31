@@ -1,6 +1,7 @@
 (() => {
   if (!document.body.dataset.biography) return;
 
+  const totalPages = Number.parseInt(document.body.dataset.totalPages || '276', 10);
   let segmentMeta = [];
   try {
     segmentMeta = JSON.parse(
@@ -96,7 +97,7 @@
     if (pageHit && pageHit.number !== currentPageNumber) {
       currentPageNumber = pageHit.number;
       if (footerIndicator) {
-        footerIndicator.textContent = `${currentPageNumber}`;
+        footerIndicator.textContent = `${currentPageNumber} av ${totalPages}`;
       }
     }
   };

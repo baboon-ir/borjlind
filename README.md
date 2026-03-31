@@ -27,13 +27,16 @@ borjlind/
   includes/
     header.njk
     footer.njk
-    bio-controls.njk    ← topbar (boktitel + hamburgare)
-    bio-toc.njk         ← kapitel-TOC overlay
-    bio-page.njk        ← (kvar men oanvänd av biography.njk)
+    site-nav.njk        ← delad meny-drawer (glider från vänster)
+    section-toc.njk     ← section-specifik TOC-drawer (glider från höger)
+    bio-toc.njk         ← kapitel-TOC overlay (biografi)
+    bio-controls.njk    ← (legacy, ej inkluderad)
+    bio-page.njk        ← (legacy, ej inkluderad)
   assets/
     css/main.css
     js/bio-reader.js
     js/nav.js
+    js/section-reader.js  ← drawer/TOC-logik för Appendix & Minnen
   _data/
     chapters.js         ← 20 kapitelsdefinitioner (id, title, start, end)
   .eleventy.js
@@ -48,9 +51,9 @@ borjlind/
 |-----|------|
 | `/` | Startsida |
 | `/biografi/` | E-boksläsaren |
-| `/minnen/` | Minnen-index |
+| `/minnen/` | Minnen-hub (3 dikter: Kusinen, Den osynlige, En vacker yngling) |
 | `/minnen/{slug}/` | Enskilt minne |
-| `/appendix/` | Appendix |
+| `/appendix/` | Appendix (7 decennier + 10 kategorier + utmärkelser) |
 
 ---
 

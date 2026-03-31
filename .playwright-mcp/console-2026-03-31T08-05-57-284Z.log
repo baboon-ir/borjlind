@@ -1,0 +1,9 @@
+[     133ms] [LOG] [11ty][08:05:57.416 UTC] Connected @ http://localhost:8181/.11ty/reload-client.js:20
+[     334ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997
+[   22798ms] [LOG] [11ty][08:06:20.081 UTC] Page reload initiated. @ http://localhost:8181/.11ty/reload-client.js:20
+[     334ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997
+[   22942ms] [LOG] [11ty][08:06:20.225 UTC] Connected @ http://localhost:8181/.11ty/reload-client.js:20
+[     334ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997
+[     334ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997
+[     334ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997
+[     334ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997

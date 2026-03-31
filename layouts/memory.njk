@@ -1,18 +1,30 @@
 ---
 layout: base.njk
+mainClass: "rb-main-full"
+noHeader: true
+noFooter: true
 ---
-<section class="rb-memory-section">
-  <div class="rb-memory-header">
-    <div>
-      <h1 class="rb-memory-title">{{ title }}</h1>
-      {% if period %}<div class="rb-memory-period">{{ period }}</div>{% endif %}
-    </div>
-    <a class="rb-btn" href="/minnen/">Tillbaka</a>
+<div class="rb-section-reader-wrap">
+  <div class="rb-section-container">
+    <section class="rb-memory-section">
+      <div class="rb-memory-header">
+        <h1 class="rb-memory-title">{{ title }}</h1>
+        {% if period %}<div class="rb-memory-period">{{ period }}</div>{% endif %}
+      </div>
+      {% if teaser %}<p class="rb-memory-teaser">{{ teaser }}</p>{% endif %}
+      <div class="rb-memory-content rb-prose">
+        {{ content | safe }}
+      </div>
+    </section>
   </div>
 
-  {% if teaser %}<p class="rb-memory-teaser">{{ teaser }}</p>{% endif %}
-
-  <div class="rb-memory-content rb-prose">
-    {{ content | safe }}
+  <div class="rb-reader-bar">
+    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
+    <span class="rb-reader-title">{{ title }}</span>
+    <a class="rb-reader-bar-btn rb-reader-nav" href="/minnen/">Tillbaka</a>
   </div>
-</section>
+</div>
+
+{% include "site-nav.njk" %}
+
+<script>document.body.dataset.sectionReader = '1';</script>

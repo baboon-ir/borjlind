@@ -1,0 +1,15 @@
+{# Section TOC drawer — receives tocItems variable from parent layout #}
+<div class="rb-toc-panel" data-section-toc aria-hidden="true">
+  <div class="rb-toc-inner">
+    <button class="rb-toc-close" data-section-toc-close aria-label="Stäng innehållsförteckning">&#10005;</button>
+    <ul class="rb-toc-list">
+      {% for item in tocItems %}
+        <li>
+          <a class="rb-toc-item" href="#{{ item.id }}" data-section-toc-link>
+            <span class="rb-toc-item-label">{{ item.label }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

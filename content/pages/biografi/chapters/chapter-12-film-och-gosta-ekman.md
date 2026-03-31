@@ -2,7 +2,7 @@
 
 <!-- PAGE 121 START -->
 ::: indent
-Stannar vid ett ställe med en enda stor neonskylt: ” FOOD ”. En lite mindre skylt säger: ” No brown bagging allowed here ”. Dom bruna påsarnas dubbelmoral.
+Stannar vid ett ställe med en enda stor neonskylt: ”FOOD”. En lite mindre skylt säger: ”No brown bagging allowed here”. Dom bruna påsarnas dubbelmoral.
 :::
 
 ::: indent
@@ -19,7 +19,7 @@ Terminalrestaurangen: det skabbigaste vi sett såh är långt, en svinsylta, sku
 :::
 
 ::: indent
-Tom, död stad, blinda som irrar i korsningarna, nån viskar: ” Det är gräddan av stilettmördare som är ute vid den här tidpunkten ”.
+Tom, död stad, blinda som irrar i korsningarna, nån viskar: ”Det är gräddan av stilettmördare som är ute vid den här tidpunkten”.
 :::
 
 ::: indent
@@ -35,11 +35,11 @@ Vi går ut igen.
 :::
 
 ::: indent
-Står utanför detta bidande bårhus och tittar upp på en jättelik skyskrapa med en blixtande neonskylt: ” HEALT H LIFE - WORLD INSURANCE ”. Kapitalismen skrattar en rakt i ansiktet och sparkar en i skrevet var manän ruttnar.
+Står utanför detta bidande bårhus och tittar upp på en jättelik skyskrapa med en blixtande neonskylt: ”HEALT H LIFE - WORLD INSURANCE”. Kapitalismen skrattar en rakt i ansiktet och sparkar en i skrevet var manän ruttnar.
 :::
 
 ::: indent
-Tillbaka till restaurangen. Jättekötill disken. När Brunoäntligen kommer fram pajar kassaapparaten. Mumien bakom disken ställer sig och kontrollräknar 2000 bronsmynt. Jag ser att Brunoåldras oroväckande snabbt. För att späpåstämningen vrålar en högtalare ut ” Thanks for going Greyhound! ”
+Tillbaka till restaurangen. Jättekötill disken. När Brunoäntligen kommer fram pajar kassaapparaten. Mumien bakom disken ställer sig och kontrollräknar 2000 bronsmynt. Jag ser att Brunoåldras oroväckande snabbt. För att späpåstämningen vrålar en högtalare ut ”Thanks for going Greyhound!”
 :::
 
 ::: indent
@@ -71,7 +71,7 @@ Vi lyckas beställa ett parägg av henne, bloody side up.
 :::
 
 ::: indent
-Jag hittar enöppen presentshop i terminalen. Köper ett set med skolväska, krita och block till min dotter Sari och en vacker penna till min son Joakim.
+Jag hittar en öppen presentshop i terminalen. Köper ett set med skolväska, krita och block till min dotter Sari och en vacker penna till min son Joakim.
 :::
 
 ::: indent
@@ -83,12 +83,12 @@ Det känns.
 :::
 
 ::: indent
-Sista repliken vi hör när vi lämnar terminalen: ” There was only one killed. ”
+Sista repliken vi hör när vi lämnar terminalen: ”There was only one killed.”
 :::
 
-Nebraska. Oerhört tråkigt landskap, oändligt och platt. Rullar genom förmiddagen, gråmolnfilter.Är människorna härute lyckliga? Delvis lyckliga? Lyckliga ibland? Saknar dom sina anhöriga? Gråter dom i vattnet när allting blir för vackert? Hur mår dom?
+Nebraska. Oerhört tråkigt landskap, oändligt och platt. Rullar genom förmiddagen, gråmolnfilter. Är människorna härute lyckliga? Delvis lyckliga? Lyckliga ibland? Saknar dom sina anhöriga? Gråter dom i vattnet när allting blir för vackert? Hur mår dom?
 ::: indent
-Bruno sover en orolig, genomsvettig timme. Ser hälsosamt galen ut när han tvingas till medvetande av ” Street Legal ” påkassetten. Jag tittar ut. Mobila hus. Ta ditt hem ochåk.Överallt sveper dom förbi, hela tiden på väg. Vart? In i glömskan?
+Bruno sover en orolig, genomsvettig timme. Ser hälsosamt galen ut när han tvingas till medvetande av ”Street Legal”påkassetten. Jag tittar ut. Mobila hus. Ta ditt hem och åk. Överallt sveper dom förbi, hela tiden på väg. Vart? In i glömskan?
 :::
 <!-- PAGE 121 END -->
 
@@ -99,7 +99,7 @@ Förgäves.
 :::
 
 ::: indent
-Påterminalen finns en datamaskin som mot 25 cent informerar dig om din specifika ” biorythm ”. Ställ in på ditt födelsedatum såfår du din ” biograph ” som får dig att 1: Utnyttja din tid mer effektivt. 2: Arbeta med din maximala potential. 3: Kunna fatta viktiga beslut. 4: Reducera risken för olycksfall.
+Påterminalen finns en datamaskin som mot 25 cent informerar dig om din specifika”biorythm”. Ställ in på ditt födelsedatum så får du din ”biograph”som får dig att 1: Utnyttja din tid mer effektivt. 2: Arbeta med din maximala potential. 3: Kunna fatta viktiga beslut. 4: Reducera risken för olycksfall.
 :::
 
 ::: indent
@@ -115,18 +115,18 @@ Cochise, hur många gånger har du roterat i graven vid det här laget, snurrat 
 :::
 
 ::: indent
-Vi går ut i Des Moines. Det enda vi ser är enäcklig skalbagge på en bänk och en jättestor skylt där det står ” MARS ”. Bruno säckar ihop pågräsmattan.
+Vi går ut i Des Moines. Det enda vi ser är en äcklig skalbagge på en bänk och en jättestor skylt där det står”MARS”. Bruno säckar ihop pågräsmattan.
 :::
 
 ::: indent
-Gul brandpost, vackra taxibilar, röda och vita. Vi är i fransk-kanadensiska områden. Fina villor, påhörnet en neonskylt: ” GO FOR THE GOAL! ”
+Gul brandpost, vackra taxibilar, röda och vita. Vi är i fransk-kanadensiska områden. Fina villor, påhörnet en neonskylt: ”GO FOR THE GOAL!”
 :::
 
 ::: indent
 Dom förnekar sig aldrig.
 :::
 
-Korsar Mississippi. Schacket fram, allöldrickning förbjuden påbussen, inga kassettbandspelare tillåtna, av nån märklig anledning. Tror dom vi är spioner (när jagåker Transsibiriska järnvägen ett parår senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
+Korsar Mississippi. Schacket fram, allöldrickning förbjuden påbussen, inga kassettbandspelare till åtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett parår senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
 ::: indent
 En vit, rödhårig benget löper längs Mississippifloden, några killar står på en flodbåt och skjuter på ett sjunket bilvrak.
 :::
@@ -148,7 +148,7 @@ Varför stannar vi inte här?
 Varför måste vi in i den där vidriga plåtburken igen?
 :::
 
-Chicago. Vi kliver av bussen, huden flagnar från kroppen, Bruno är såslut att han över väger attäta kött.
+Chicago. Vi kliver av bussen, huden flagnar från kroppen, Bruno är såslut att han över väger att äta kött.
 ::: indent
 I kön till bussen: ett par militärer. Medaljerna hänger som nackskott påuniformen. Högröda ansikten. Såna som använder hjärnskålar som vinbål, tänker jag.
 :::
@@ -164,7 +164,7 @@ Nya passagerare, rakt in i tortyrkammaren. En fransman med lång svart hästsvan
 
 Pennsylvania. Frukost i Pittsburg. Kaffe, juice, napp påtelefonen. Pratar med Tove, äntligen. En röst av värme och längtan.
 ::: indent
-Vi börjar anpassa oss till Greyhoundlivet. Terminaler. Hålor.Ökenmänniskor. Neonkitsch. Slafs. On the road på riktigt. Känner oss mer och mer ” hemma ”. Garderar våra säten längst bak, som hökar.
+Vi börjar anpassa oss till Greyhoundlivet. Terminaler. Hålor. Ökenmänniskor. Neonkitsch. Slafs. On the road på riktigt. Känner oss mer och mer ”hemma”. Garderar våra säten längst bak, som hökar.
 :::
 <!-- PAGE 122 END -->
 
@@ -194,7 +194,7 @@ Blandskog, landsväg med samma låga, kraftiga järnräck som på svenska motorv
 Åker genom Tuscarora Mountain, en jättelång kakelklädd tunnel.
 :::
 
-Fyra timmar från New York. Skumpar fram på en stålhäst, guppig väg, hitintills inte en enda trafikolycka eller spåren av en trafikolycka (jämfört med hur det var senast jagåkte genom Tyskland). 55 miles i timmen kanske är vettigt?
+Fyra timmar från New York. Skumpar fram på en stålhäst, guppig väg, hitintills inte en enda trafikolycka eller spåren av en trafikolycka (jämfört med hur det var senast jag åkte genom Tyskland). 55 miles i timmen kanske är vettigt?
 ::: indent
 Alla vi mött påbussen har talat om New York med avsmak.
 :::
@@ -222,7 +222,7 @@ Jag går ut och ringer Robban Broberg. Inget svar. Bruno ringer Staffan Scheja. 
 :::
 
 ::: indent
-Ingen brådska, vi sitter i en fin, gammal inrökt bar, baseball på tv-n, servitrisen runt 60, stencool, med glimten iögat. Bruno spiller ut drinken, får en ny gratis. Det känns somäventyr i luften. Barradion smeker ut ” Plaisir dAmour ”.
+Ingen brådska, vi sitter i en fin, gammal inrökt bar, baseball på tv-n, servitrisen runt 60, stencool, med glimten iögat. Bruno spiller ut drinken, får en ny gratis. Det känns som äventyr i luften. Barradion smeker ut ”Plaisir dAmour”.
 :::
 
 ::: indent
@@ -241,7 +241,7 @@ Och Jack Daniels.
 <!-- PAGE 124 START -->
 Vi träffar Marianne och hennes kille, John Douglas, en framgångsrik dokumentärfotograf. Platsen är en mörk bar, det är sent på kvällen. Vi pratar i timmar. Jag berättar om mitt förra besök i New York, om mötet med Emilie d ´ Antonio. John känner Emilie väl. Han har hört om det stulna kungaporträttet och vill att jag verifierar historien. Snabbt gjort. John säger att han har en oöppnad Wild Turkey hemma påloftet om vi är intresserade. Vi drar dit, det ligger i Chinatown, röker, dricker, somnar, vaknar. John erbjuder oss att bo påloftet hur länge vi vill, själv ska han upp och fotvandra i bergen i Montana.
 ::: indent
-Ett magiskt loft, fullt med växter och palmer och ett tält inne i ett grönt rum och ett badkar dolt av klängväxter och en stor vinge av enörn påväggen. John samlar påvingar. Har fyra stora. På andra väggen en stor målning där Maria håller Jesusbarnet som räcker över en handgranat till Josef. Påköksbordet står en stor kruka, som ett Höganäskrus, fullt med marijuanaplantor.
+Ett magiskt loft, fullt med växter och palmer och ett tält inne i ett grönt rum och ett badkar dolt av klängväxter och en stor vinge av en örn på väggen. John samlar påvingar. Har fyra stora. På andra väggen en stor målning där Maria håller Jesusbarnet som räcker över en handgranat till Josef. Påköksbordet står en stor kruka, som ett Höganäskrus, fullt med marijuanaplantor.
 :::
 
 ::: indent
@@ -253,7 +253,7 @@ Men det får vi hacka i oss.
 :::
 
 ::: indent
-Vi får nycklarna för att göra dubletter. ” No problem. ”
+Vi får nycklarna för att göra dubletter. ”No problem.”
 :::
 
 ::: indent
@@ -289,7 +289,7 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *    Möter en man utan händer på Canal Street, två stumpar som svänger runt höfterna, han kommer just ut från den populäraste lumpaffären i distriktet, ett tillhåll för välbärgade drop-ins. I skyltfönstret står inplastade jordnötter avsedda som pennställ. *
 
-*     Kommer hem till loftet. Dukar upp räkor, öppnar vinet. Bruno ringer collect call till Zekeli i Sverige. Växeln får tag i Zekeli och frågar om han accepterar kostnaden för ett collect call från Bruno K Öijer i New York. Zekeli svarar ”Nej” och lägger på luren.*
+*     Kommer hem till loftet. Dukar upp räkor, öppnar vinet. Bruno ringer collect call till Zekeli i Sverige. Växeln får tag i Zekeli och frågar om han accepterar kostnaden för ett collect call från Bruno K Öijer i New York. Zekeli svarar ”Nej”och lägger på luren.*
 
 *     Bruno funderar på att röka en svart gardin. *
 
@@ -305,7 +305,7 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *    Jag lämnar loftet.     *
 
-*    Tar mig till klubben CBGB, kommer in utan problem. Tequlia Sunrise i ölsejdlar. Bartendern: ”Har du tur dyker kung Jagger upp ikväll.” Avlång lokal, utbränd, skabbig, vackra färgrika neonskyltar över baren, dånande flipperspel längs väggarna och hög, kanonhård punkmusik som tränger ut öronmembranen, trägolv, fimpar och flisor av krossade ölflaskor. Dead Boys spelar, Slander Band spelar, Ramones spelar, detta är den mondäna skabbighetens inkarnation, detta är Patti Smiths sandiga tempel: CBGB på Lower Bowery, den nya innegatan. *
+*    Tar mig till klubben CBGB, kommer in utan problem. Tequlia Sunrise i ölsejdlar. Bartendern:”Har du tur dyker kung Jagger upp ikväll.”Avlång lokal, utbränd, skabbig, vackra färgrika neonskyltar över baren, dånande flipperspel längs väggarna och hög, kanonhård punkmusik som tränger ut öronmembranen, trägolv, fimpar och flisor av krossade ölflaskor. Dead Boys spelar, Slander Band spelar, Ramones spelar, detta är den mondäna skabbighetens inkarnation, detta är Patti Smiths sandiga tempel: CBGB på Lower Bowery, den nya innegatan. *
 
 *     Jag går därifrån.*
 
@@ -321,7 +321,7 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *     Lämnar partyt rätt snabbt.*
 
-*     Går genom Central Park, tar mig ner till Village, in på baren Back Fence, på scenen spelar ”Cecilia” - långt krulligt rött hår, ett blixtrande leende, stora vackra näsvingar, rytmiska fingrar som smeker över gitarrhalsen, en mogen, hes röst som spottar ut: ”Once in i parkinglot.” *
+*     Går genom Central Park, tar mig ner till Village, in på baren Back Fence, på scenen spelar”Cecilia”- långt krulligt rött hår, ett blixtrande leende, stora vackra näsvingar, rytmiska fingrar som smeker över gitarrhalsen, en mogen, hes röst som spottar ut:”Once in i parkinglot.”*
 
 *     Jag sätter mig i baren, tar in en öl och tittar på bartendern. *
 
@@ -337,15 +337,15 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *     - Ja. *
 
-*Vi sitter på Oscars, 3ave West Side. Beställer Blue Fish, vitt vin, 3.90. Bruno tittar ut genom fönstret, försjunken.*
+*Vi sitter på Oscars, 3 ave West Side. Beställer Blue Fish, vitt vin, 3.90. Bruno tittar ut genom fönstret, försjunken.*
 
 *     - Vad tänker du på**?*
 
 *     - Alla dessa människor man dödar, säger han. Man ses för första gången på kvällen, vid frukostbordet skiljs man och vet att båda kommer att dö utan att ses igen. Det kunde lika gärna vara ett skelett man tog farväl av.*
 
-*     Ett bord bakom oss sitter en uppklädd, parant kvinna i övre medelåldern med en kostymklädd man utan hår. Plötsligt vänder sig kvinnan mot oss: ”Har ni nån marijuana?! Eller måste jag flytta över till ert bord?” Hennes man vänder sig bort. En servitris kommer fram, ursäktar att maten dröjer, kockarna har råkat i slagsmål. Hon är förkrossad. *
+*     Ett bord bakom oss sitter en uppklädd, parant kvinna i övre medelåldern med en kostymklädd man utan hår. Plötsligt vänder sig kvinnan mot oss:”Har ni nån marijuana?! Eller måste jag flytta över till ert bord?”Hennes man vänder sig bort. En servitris kommer fram, ursäktar att maten dröjer, kockarna har råkat i slagsmål. Hon är förkrossad. *
 
-*     Jag skriver (med blyerts) på baksidan av servetten: ”Natten kommer alltid att besegra oss och vi kommer att duka under som skrattande barn utan tänder.” *
+*     Jag skriver (med blyerts) på baksidan av servetten:”Natten kommer alltid att besegra oss och vi kommer att duka under som skrattande barn utan tänder.”*
 
 *     Vi lämnar Oscars, tar en taxi till Village (vi ska till Kettle of Fish), passerar Madison Square Garden, fyra snutar störtar ur en buss med dragna revolvrar, skottlossning, vi hukar i taxin. Ett par minuter senare passerar vi en filminspelning. *
 
@@ -359,7 +359,7 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *     - För två dar sen beslöt jag att inte ligga med fler utländska killar den här månaden.*
 
-*     Plötsligt släcks ljuset, en stor duk hänger ner framför ett fönster, en svartvit film rullar igång. Naturligtvis är det ”Den Andalusiska hunden”**. Här, i ett rum fullt med tiltade illrar, mitt i New York: Flyglar med döda hästkroppar, präster som släpas över gatan som hundar, ögon som snittas upp av rakblad, händer som smeker styva bröst och fylls med myror.*
+*     Plötsligt släcks ljuset, en stor duk hänger ner framför ett fönster, en svartvit film rullar igång. Naturligtvis är det”Den Andalusiska hunden”**. Här, i ett rum fullt med tiltade illrar, mitt i New York: Flyglar med döda hästkroppar, präster som släpas över gatan som hundar, ögon som snittas upp av rakblad, händer som smeker styva bröst och fylls med myror.*
 
 *     Det är fantastiskt, och sjukt. *
 
@@ -381,7 +381,7 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *     Kinesen, en rätt framgångsrik arkitekt, ger ifrån sig ett vrål som hörs ända in i Lennons sovrum. Marianne får lugna honom: ”Bruno skojade.”*
 
-* **Vi går fram till takkanten och tittar ut: det är en mäktig syn. Nedanför ligger det mörka Central Park, mitt i parken glittrar sjön av Empire States färgade spotbelysning, över västra Manhattan hänger en pulserande blodröd måne, alla skyskraporna gnistrar av lampor och sprakande neon, det ser ut som om ett gigantiskt rymdskepp har landat runt den svarta parken och plötsligt hörs en vrålande röst ur mörkret därnere: ”DROP THAT GUN!” *
+* **Vi går fram till takkanten och tittar ut: det är en mäktig syn. Nedanför ligger det mörka Central Park, mitt i parken glittrar sjön av Empire States färgade spotbelysning, över västra Manhattan hänger en pulserande blodröd måne, alla skyskraporna gnistrar av lampor och sprakande neon, det ser ut som om ett gigantiskt rymdskepp har landat runt den svarta parken och plötsligt hörs en vrålande röst ur mörkret därnere: ”DROP THAT GUN!”*
 
 *     Vi lämnar våningen. Hissen saknar tak, vi kan följa vår egen hädanfärd, 14 våningar ner. Tar en taxi till Village, några drinkar på Kettle of Fish, kollar upp det legendariska stället Other End, rätt trist, bestämmer oss för att skita i taxi och gå hem, börjar en lång, underlig vandring genom Manhattan, bilar saktar in vid vår sida och kör iväg igen, stora råttor sitter på huk vid avfallstunnor och gnager på ett eller annat, trötta fnask vinkar med ännu tröttare händer, ett par biffiga poliser skjuter en ficklampa rakt i ansiktet på oss, säger inte ett ord, vinkar iväg oss igen, vi slinker in på en bar, tankar och går vidare.*
 
@@ -400,7 +400,7 @@ Så:
 
 <!-- PAGE 126 START -->
 ::: indent
-Summan av kardemumman (ett uttryck som språkforskare fortfarande inte kan härleda): Vår roadtrip är slut. En natt i Chinatown tar vi  farväl av varandra, Bruno stannar, jagåker hem (och anar inte att vi kommer att mötas på en scen i en kyrka i Lower Bowery igen, ganska snart).
+Summan av kardemumman (ett uttryck som språkforskare fortfarande inte kan härleda): Vår roadtrip är slut. En natt i Chinatown tar vi  farväl av varandra, Bruno stannar, jag åker hem (och anar inte att vi kommer att mötas på en scen i en kyrka i Lower Bowery igen, ganska snart).
 :::
 
 ::: indent
@@ -432,11 +432,11 @@ Vi får en efterlängtad familjetid ihop.
 
 Ett tag.
 ::: indent
-Jag och Lars-Ragnar Forssberg har lagt fram ett program för slag till Sveriges Radio, en dokumentärserie under namnet ” *5 x New York* ”. Det bygger mycket på det kontaktnät jag har skapat under min roadtrip.
+Jag och Lars-Ragnar Forssberg har lagt fram ett program för slag till Sveriges Radio, en dokumentärserie under namnet”*5 x New York*”. Det bygger mycket på det kontaktnät jag har skapat under min roadtrip.
 :::
 
 ::: indent
-Vi beskriver serien som ” *ett annorlunda resereportage som bygger på hörnstenarna subjektivitet och gestaltning. Vi som reportrar är med i förloppen och påverkar dem. Ingen falsk objektivitet. Inte den sedvanliga icke-beröras-attityden. Ingen upphöjd besserwisserroll* ”.
+Vi beskriver serien som ”*ett annorlunda resereportage som bygger på hörnstenarna subjektivitet och gestaltning. Vi som reportrar är med i förloppen och påverkar dem. Ingen falsk objektivitet. Inte den sedvanliga icke-beröras-attityden. Ingen upphöjd besserwisserroll*”.
 :::
 
 ::: indent
@@ -451,7 +451,7 @@ Vi åker till New York.
 Serien spelas in på plats under tre veckor. Medverkar gör bl.a gatuteatergruppen Squad, poeterna Allen Ginsberg och Anne Waldman, filmarna John Douglas, de`Antonio och Jack Churchill, konstnärerna PeterÅström och Mihail, musikerna Staffan Scheja och Jojje Wadenius, skådisen Kjell Bergqvist samt ett stort antal kulturarbetare i New York.
 :::
 
-![131.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/131.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/131.png)
 
 Minne från inspelningen 1: Vi ska besöka en klinik där man behandlar drogberoende. Kliniken ligger på en mörk bakgata i Bronx. Viöppnar dörren och kommer in ett svagt upplyst rum, det luktar instängt. Närögonen har vant sig ser vi ett antal storvuxna män sittande pålåga bänkar runt väggarna med nakna över kroppar. Alla är svarta. Alla har höga, svajande nålar i svålen. Rakt upp ur huvudet. Det är fullkomligt tyst. Det är en mycket bisarr scen. Det tar en stund innan vi får klart för oss att drogbehandlingen innefattar akupunktur.
 ::: indent
@@ -468,7 +468,7 @@ Tre timmar senare reser jag mig ur soffan och tror att det har gått tio minuter
 Den som väcker mig har en djurmask över ansiktet och säger att tiden är ute.
 :::
 
- Hemkommen från New York skriver jag en text till tidskriften City med titeln ” *Vanmaktens diktatur* ”. Den inleds så här:
+ Hemkommen från New York skriver jag en text till tidskriften City med titeln ”*Vanmaktens diktatur*”. Den inleds så här:
 
 **”Det är en märklig stad, Stockholm. Nyss landad från New York, med en vulkans förödande energi i ryggmärgen, försöker jag se Stockholm. Försöker jag begripa vad som pågår. Och varför det pågår. Vad som är i den här staden. Vad som är den här staden.**
 
@@ -476,7 +476,7 @@ Den som väcker mig har en djurmask över ansiktet och säger att tiden är ute.
 
 Konstnären Peter Tillberg har gjort en lysande målning som illustrerar var roten till det onda börjar:
 
-![296.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/296.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/296.png)
 
 1979 får jag min andra son. Nick, bror till Sari. Ett hjälplöst knyte med vackraögon och händer som kniper om mitt pekfinger.
 ::: indent
@@ -500,7 +500,7 @@ Viälskar varandra.
 :::
 
 ::: indent
-Vi flyttar in från lanthandeln i Ekskogen tillÖstermalm. Vi har fått hyra en gammal lägenhet på Grev Magnigatan i andra hand - den där typen med vitrinskåp i hallen och stuckatur en halvmil upp i taket. Mörk, men mycket rymlig.
+Vi flyttar in från lanthandeln i Ekskogen till Östermalm. Vi har fått hyra en gammal lägenhet på Grev Magnigatan i andra hand - den där typen med vitrinskåp i hallen och stuckatur en halvmil upp i taket. Mörk, men mycket rymlig.
 :::
 
 ::: indent
@@ -510,7 +510,7 @@ Sari börjar på ett dagis i Spiltan (på min ungdomstid känt för den så kall
 
 <!-- PAGE 128 START -->
 ::: indent
-Självägnar jag oförsvarligt många nätteråt att försöka skriva en fortsättning pålitteraturens mest slitna inledning: ” *Det var en mörk och stormig natt* ”.
+Självägnar jag oförsvarligt många nätteråt att försöka skriva en fortsättning pålitteraturens mest slitna inledning: ”*Det var en mörk och stormig natt*”.
 :::
 
 ::: indent
@@ -533,7 +533,7 @@ Jag börjar i en annanände.
 
 :::
 
-Minne från Grev Magnigatan: Tvärs över gården från mitt skrivrum bor en mycket märklig kvinna. Hon står ofta i sitt fönster i en tunn, rosa morgonrock. Hennes långa vita hår faller ner över axlarna. Dåoch dåskrapar hon påfönsterblecket med naglarna och strax efter landar ett antal kråkor påblecket.
+Minne från Grev Magnigatan: Tvärs över gården från mitt skrivrum bor en mycket märklig kvinna. Hon står ofta i sitt fönster i en tunn, rosa morgonrock. Hennes långa vita hår faller ner över axlarna. Dåoch dåskrapar hon på fönsterblecket med naglarna och strax efter landar ett antal kråkor påblecket.
 ::: indent
 En dag går jag upp till henne och ringer på. Hon släpper in mig utan ett ord, som om hon väntade att jag skulle komma. Jag går efter henne in. Hela lägenheten är belamrad med tidningstravar, från väggarna i hallen och in i resten av rummen. I köket står ett stort antal småglasburkar uppställda pådiskbänken. I varje burk har hon samlat olikfärgade snörstumpar. Hon tittar länge på mig när jag kommer in. Till slut säger hon:
 :::
@@ -551,50 +551,50 @@ En dag går jag upp till henne och ringer på. Hon släpper in mig utan ett ord,
 :::
 
 ::: indent
-Jag använder henne senare i en Beckfilm, ” *Pensionat Pärlan* ”, där Beck och Persbrandt gör ett besök i ” hennes ” lägenhet.
+Jag använder henne senare i en Beckfilm, ”*Pensionat Pärlan*”, där Beck och Persbrandt gör ett besök i ”hennes”lägenhet.
 :::
 
-I mars det häråret gör Carsten och jag tre multimedia för eställningar på Moderna Museet under namnet ” *Panik* ”.
+I mars det häråret gör Carsten och jag tre multimedia för eställningar på Moderna Museet under namnet”*Panik*”.
 
-![134.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/134.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/134.png)
 
 Varje föreställning inleds med att Carsten, i elegant svart frack och vit halsduk, avlossar en k-pistsalva över publiken (inga kulor, bara tomskott). Under drygt en timme varvar vi musik, film, manifest och poesi.
 ::: indent
-Ur innehållet: Jag framför ” *Råttor av glas* ” - monologen som nekrolog. Carsten visar kortfilmen ” *Love is a mystery* ”. Stefan Nilsson improviserar påflygel över temat ” *Stilla natt, heliga natt* ”. Bruno K framför texter ur sin nya diktsaming ” *Spelarens sten* ”. Allt integreras till en surrealistisk blandning av mörker och dov frånvaro.
+Ur innehållet: Jag framför ”*Råttor av glas*”- monologen som nekrolog. Carsten visar kortfilmen”*Love is a mystery*”. Stefan Nilsson improviserar påflygel över temat ”*Stilla natt, heliga natt*”. Bruno K framför texter ur sin nya diktsaming ”*Spelarens sten*”. Allt integreras till en surrealistisk blandning av mörker och dov frånvaro.
 :::
 
-![144.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/144.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/144.png)
 <!-- PAGE 128 END -->
 
 <!-- PAGE 129 START -->
 ---
 
-Kort mellanspel: Jag får ett långt brev Expressens kulturchef Arne Ruth. Han beskriver en debattserie han har tänkt sig i tidningen, under namnet ” *Befria Kulturen* ”, och ber mig om ett bidrag. Jag klipper upp hans brev i korta ord och meningar, klistrar ihop lapparna slumpvis och presenterar förslaget som en dadadikt - ” *oändligt originell och förtrollande sensibel men ingenting för vanligt sunt förnuft*. ”
+Kort mellanspel: Jag får ett långt brev Expressens kulturchef Arne Ruth. Han beskriver en debattserie han har tänkt sig i tidningen, under namnet ”*Befria Kulturen*”, och ber mig om ett bidrag. Jag klipper upp hans brev i korta ord och meningar, klistrar ihop lapparna slumpvis och presenterar förslaget som en dadadikt - ”*oändligt originell och förtrollande sensibel men ingenting för vanligt sunt förnuft*.”
 ::: indent
 Den publiceras aldrig.
 :::
 
-Starkt biominne den här perioden: Jag bjuds in till en specialvisning i en liten biosalong på Kungsgatan. Vi ska se Stefan Jarls ” *Ett anständigt liv* ”.
+Starkt biominne den här perioden: Jag bjuds in till en specialvisning i en liten biosalong på Kungsgatan. Vi ska se Stefan Jarls ”*Ett anständigt liv*”.
 ::: indent
 När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda utän när jag klev in. Filmen har skakat om mig. Den har, som Ingmar Bergman senare ska sakna i en av mina egna filmer, nåttända in till smärtpunkten. Jag är våldsamt berörd. Det är en av dom filmer jag alltid nämner när jag tvingas namnge filmer som har påverkat mig.
 :::
 
 ::: indent
-En annan är ” *Krigarens själ”*. Denär regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är tämligen banal, men styrkan som den gestaltas på, råheten, har fäst hos mig (den ligger väldigt långt från min förstaälsklingsfilm, ” *Jules och Jim* ”, ettömsint triangeldrama mellan franska slackers med Jeanne Moreau som kvinnan i mitten ... förmodligen var jag själv lite förälskad i henne, 1962).
+En annan är ” *Krigarens själ”*. Denär regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är tämligen banal, men styrkan som den gestaltas på, råheten, har fäst hos mig (den ligger väldigt långt från min förstaälsklingsfilm, ”*Jules och Jim*”, ett ömsint triangeldrama mellan franska slackers med Jeanne Moreau som kvinnan i mitten ... förmodligen var jag själv lite förälskad i henne, 1962).
 :::
 
-Det häråret, påsenhösten, skriver jag ocksåmitt första filmmanus: ” *Kocken* ”. Det spelas in 26 (!)år senare, med Kjelle Bergqvist i huvudrollen - *slow train coming*.
+Det häråret, påsenhösten, skriver jag ocksåmitt första filmmanus: ”*Kocken*”. Det spelas in 26 (!)år senare, med Kjelle Bergqvist i huvudrollen - *slow train coming*.
 ::: indent
-Men innan dess är jag medförfattare till en kabarépå restaurang Zum Alten Brunnen, skriver en egen kabarétill Norrbottensteatern, ” *Sockerkorven* ” och gör en dokumentärfilm i New York för SVT med den bestickande titeln ” *Voeyeur - Våldtäkt på verkligheten* ” - en djupdykning i olika urbana avarter.
+Men innan dess är jag medförfattare till en kabarépå restaurang Zum Alten Brunnen, skriver en egen kabarétill Norrbottensteatern, ”*Sockerkorven*”och gör en dokumentärfilm i New York för SVT med den bestickande titeln”*Voeyeur - Våldtäkt på verkligheten*”- en djupdykning i olika urbana avarter.
 :::
 
-Succén med vår kabarépå Dramaten har gett flera inblandade mersmak. Mig måttligt, men det är grupptryck från begåvade människor. Vi beslutar att sätta upp en krogkabaréoch väljer restaurang Zum Alten Brunnen i Vasastan. Vi döper kabarén till ” *Bortkastat & Uppkastat - En containerkabaré*. ” Ensemblen består av Lars Amble, Tommy Körberg och Liz Nilheim. Musiken står Carl-Axel Dominique och Stefan Nilsson för.
+Succén med vår kabarépå Dramaten har gett flera inblandade mersmak. Mig måttligt, men det är grupptryck från begåvade människor. Vi beslutar att sätta upp en krogkabaréoch väljer restaurang Zum Alten Brunnen i Vasastan. Vi döper kabarén till”*Bortkastat & Uppkastat - En containerkabaré*.”Ensemblen består av Lars Amble, Tommy Körberg och Liz Nilheim. Musiken står Carl-Axel Dominique och Stefan Nilsson för.
 ::: indent
-Scenen domineras av en skabbig container i nästan naturlig storlek, byggd av geniet Sören Brunes. Föreställningen börjar med att ensemblen glider upp över containerkanten och sjunger ” *Här är gudagott att vara*. ” Det är mitt förslag och emanerar ur min uppväxt. Vid en viss alkoholnivåskulle Otto alltid träna stämsång med familjen, främst mig. Alltid samma sång: ” *Här är gudagott att vara* ”. Sjungen ur containern får naturligtvis texten en annan innebörd.
+Scenen domineras av en skabbig container i nästan naturlig storlek, byggd av geniet Sören Brunes. Föreställningen börjar med att ensemblen glider upp över containerkanten och sjunger”*Här är gudagott att vara*.”Det är mitt förslag och emanerar ur min uppväxt. Vid en viss alkoholnivåskulle Otto alltid träna stämsång med familjen, främst mig. Alltid samma sång:”*Här är gudagott att vara*”. Sjungen ur containern får naturligtvis texten en annan innebörd.
 :::
 
 ::: indent
-Huvuddelen av föreställningens texter skrivs av mig själv, Forssberg och Finn Zetterholm.Även Jan Guillou bidrar med texter. Han uttalar sig i en tidning efter premiären:
+Huvuddelen av föreställningens texter skrivs av mig själv, Forssberg och Finn Zetterholm. Även Jan Guillou bidrar med texter. Han uttalar sig i en tidning efter premiären:
 :::
 
 ::: indent
@@ -641,7 +641,7 @@ Körberg kläs under scenen om från en gråkommunalpolitiker till en fullödig 
 **Nu nalkas uppgörelsens natt.**
 **Vi öppnade våra gränser.**
 **Vi ställde våra dörrar på glänt.**
-**Vi gjorde vad världen krävde av oss, som medmännisk0r.**
+**Vi gjorde vad världen krävde av oss, som medmännisk 0 r.**
 **Nu stundar andra tider.**
 **Nu kräver svensken vad svensken tillhör.**
 **Här och nu!**
@@ -655,7 +655,7 @@ Dåett uppenbart satiriskt tal, i dagens Sverige finns det ett antal människor 
 Det är där vi har hamnat.
 :::
 
-Jag sticker emellan medåtta kärleksdikter till tidskriften Hjärnstorm. Bland annat den här:
+Jag sticker emellan med åtta kärleksdikter till tidskriften Hjärnstorm. Bland annat den här:
 ::: poem
 **nej**
 
@@ -675,22 +675,22 @@ Jag sticker emellan medåtta kärleksdikter till tidskriften Hjärnstorm. Bland 
 <!-- PAGE 130 END -->
 
 <!-- PAGE 131 START -->
-Jag har döpt den till ” *pitjiri* ”, ett aboriginsk ord som betyder ” *the snake that will not sink* ”.
+Jag har döpt den till ”*pitjiri*”, ett aboriginsk ord som betyder ”*the snake that will not sink*”.
 
-Möjligen med ” inspiration ” från den dikten skriver jag strax efter min första sångtext (en genre som jag senare ska bli ordentligt produktiv i, periodvis). Det är en låt som Stefan Nilsson har skrivit till Tommy Körberg och lp-n ” *Blixtlås* ”. Den heter ” *Kärlek är ett genomskinligt slott* ”.
+Möjligen med ”inspiration”från den dikten skriver jag strax efter min första sångtext (en genre som jag senare ska bli ordentligt produktiv i, periodvis). Det är en låt som Stefan Nilsson har skrivit till Tommy Körberg och lp-n”*Blixtlås*”. Den heter ”*Kärlek är ett genomskinligt slott*”.
 ::: indent
 Mystisk metafor.
 :::
 
-![295.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/295.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/295.jpeg)
 
-Så är det dags för min första produktion på Norrbottensteatern i Luleå(det ska bli en till, tvåår senare, av betydligt tyngre kaliber). Den här gången är det en helaftonskabaré. Initiativet till föreställningen kommer från Sten Ljunggren, som ska regissera den. Vi döper den till ” *Sockerkorven* ”. Titeln förklaras i en sketch i kabarén (en kemisk reaktion framkallar en växande brun korv). På scenen finns Sara Arnia, Eva Munther, Gustav Levin och Carl Magnus Dellow.
+Så är det dags för min första produktion på Norrbottensteatern i Luleå(det ska bli en till, tvåår senare, av betydligt tyngre kaliber). Den här gången är det en helaftonskabaré. Initiativet till föreställningen kommer från Sten Ljunggren, som ska regissera den. Vi döper den till ”*Sockerkorven*”. Titeln förklaras i en sketch i kabarén (en kemisk reaktion framkallar en växande brun korv). På scenen finns Sara Arnia, Eva Munther, Gustav Levin och Carl Magnus Dellow.
 ::: indent
-DN:s kritiker Bengt Jahnson (han som fick en propp av Ingmar Bergman), är både nykter och vaken under hela föreställningen och anser att ” *texterna blandar fränhet med solidaritet, joddlande fjällturister med desillusionism, uppsluppna köttslamsor med ärlig vrede...med ”Sockerkorven” har man skapat ett alldeles nytt begrepp inom revyvärlden som tillåter sig full frihet inom groteskeriets skinn.”*
+DN:s kritiker Bengt Jahnson (han som fick en propp av Ingmar Bergman), är både nykter och vaken under hela föreställningen och anser att ”*texterna blandar fränhet med solidaritet, joddlande fjällturister med desillusionism, uppsluppna köttslamsor med ärlig vrede...med”Sockerkorven” har man skapat ett alldeles nytt begrepp inom revyvärlden som tillåter sig full frihet inom groteskeriets skinn.”*
 :::
 
 ::: indent
-” Uppsluppna köttslamsor ”är tänkvärt.
+”Uppsluppna köttslamsor”är tänkvärt.
 :::
 
 Hemkommen från Luleåskriver jag sex satiriska personporträtt till tidningen Arbetaren. Dom kallas för *”Skarpa Skott”* - en utomordentligt fånig rubricering.
@@ -710,30 +710,30 @@ Ett litet avsnitt ur intervjun med folkpartisten och det politiska underbarnet C
 
 **     - Folkpartiet, svarar han, med ett hest profetiskt vemod. **
 
-**     Rösten har en kuslig klang av bitter insikt. Armen darrar när spaden jagar den bortsmältande fettklicken. Så stramar han upp sig. Knäpper bort en droppe från näsbenet. Kastar in en handfull isbitar i munnen och är åter den kylige, glasklare analytikern. Jag frågar: ”1974 krävde du fler kärnkraftskritiker i utredningsarbetet om kärnkraften. Idag är du kärnkraftsförespråkare. Hur förklarar du den omsvängningen?” **
+**     Rösten har en kuslig klang av bitter insikt. Armen darrar när spaden jagar den bortsmältande fettklicken. Så stramar han upp sig. Knäpper bort en droppe från näsbenet. Kastar in en handfull isbitar i munnen och är åter den kylige, glasklare analytikern. Jag frågar: ”1974 krävde du fler kärnkraftskritiker i utredningsarbetet om kärnkraften. Idag är du kärnkraftsförespråkare. Hur förklarar du den omsvängningen?”**
 
-**     - Enkelt. Den förklaras med liberalismens inbyggda rotationsmönster. Hela folkpartiet är ju egentligen en enda gigantisk alternativ energikälla, om jag får uttrycka mig lite symboliskt. Folkpartiet har alltid använt vinden som politisk drivkraft. Genom ledarskiktets suveräna förmåga att ständigt befinna sig i rotation, att utnyttja vindens alla skiftande riktningar, överför vi outtömlig energi till basplanet. Där gräsrötterna behöver all kraft dom kan få för att hänga med i svängarna. Detta bildlikt talat. Jag kan ta ett pikant exempel om du vill. När vårt riksorgan Expressen fick ny chefredaktör, Bo Strömstedt, slog han helt följdriktigt fast i sin debutledare att ”Blåsväder är vad Expressen vill ha!”****. För att på så sätt kunna fungera som partiets förlängda vindflöjel och dra sitt massmediastrå till folkpartiets energistack.**
+**     - Enkelt. Den förklaras med liberalismens inbyggda rotationsmönster. Hela folkpartiet är ju egentligen en enda gigantisk alternativ energikälla, om jag får uttrycka mig lite symboliskt. Folkpartiet har alltid använt vinden som politisk drivkraft. Genom ledarskiktets suveräna förmåga att ständigt befinna sig i rotation, att utnyttja vindens alla skiftande riktningar, överför vi outtömlig energi till basplanet. Där gräsrötterna behöver all kraft dom kan få för att hänga med i svängarna. Detta bildlikt talat. Jag kan ta ett pikant exempel om du vill. När vårt riksorgan Expressen fick ny chefredaktör, Bo Strömstedt, slog han helt följdriktigt fast i sin debutledare att”Blåsväder är vad Expressen vill ha!”****. För att på så sätt kunna fungera som partiets förlängda vindflöjel och dra sitt massmediastrå till folkpartiets energistack.**
 
-**     Tham ler förnöjt och smeker sin uppstoppade kameleont. Hans bländande intellekt och briljanta klarsyn har än en gång firat retoriska triumfer.” **
+**     Tham ler förnöjt och smeker sin uppstoppade kameleont. Hans bländande intellekt och briljanta klarsyn har än en gång firat retoriska triumfer.”**
 <!-- PAGE 131 END -->
 
 <!-- PAGE 132 START -->
-Vid det här laget börjar jag kränga mig ur rollen som ” rikssatiriker ”. Att bli placerad och definierad i den formen förminskar mig. Eller gör mig påtagligt obekväm. ” *I´m a song and danceman.* ” Vid den här tidpunkten vill ” alla ” ha en satirisk text av mig, i dom mest förbryllande sammanhang. Jag tillmötesgår en hel del, ibland med vänsterhanden, fortfarande finns det ett fåtal vita fläckar som kan göra mig upprörd på det sättet, men det satiriska syret sinar. Jag har vid det här laget producerat långt över hundra satiriska texter. Sverige är ett litet land. Risken att börja tugga mina egna spyor är över hängande.
+Vid det här laget börjar jag kränga mig ur rollen som”rikssatiriker”. Att bli placerad och definierad i den formen förminskar mig. Eller gör mig påtagligt obekväm. ”*I´m a song and danceman.*”Vid den här tidpunkten vill”alla”ha en satirisk text av mig, i dom mest förbryllande sammanhang. Jag tillmötesgår en hel del, ibland med vänsterhanden, fortfarande finns det ett fåtal vita fläckar som kan göra mig upprörd på det sättet, men det satiriska syret sinar. Jag har vid det här laget producerat långt över hundra satiriska texter. Sverige är ett litet land. Risken att börja tugga mina egna spyor är över hängande.
 ::: indent
 Inte är det gott heller.
 :::
 
 ::: indent
-Jagåtervänder egentligen inte till den riktigt seriösa satiren förrän i tv-serien ” *Lorry* ” tioår senare.
+Jagåtervänder egentligen inte till den riktigt seriösa satiren förrän i tv-serien”*Lorry*”tioår senare.
 :::
 
-Tvåprojekt drar mig åt ett helt annat håll. Ett av dom är extra spännande, ett samarbete med skådespelerskan och regissören Gunnel Lindblom på Dramaten.  Tillsammans med henne bearbetar Carsten och jag den engelske hovpoeten Ted Hughes ikoniska diktepos ” *Crow* ” till en teateropera med namnet ” *Truth Kills Everybody* ”. Hughes ” Kråka ” har skapats av ett väsen i en av Guds mardrömmar.
+Tvåprojekt drar mig åt ett helt annat håll. Ett av dom är extra spännande, ett samarbete med skådespelerskan och regissören Gunnel Lindblom på Dramaten.  Tillsammans med henne bearbetar Carsten och jag den engelske hovpoeten Ted Hughes ikoniska diktepos”*Crow*”till en teateropera med namnet”*Truth Kills Everybody*”. Hughes ”Kråka”har skapats av ett väsen i en av Guds mardrömmar.
 ::: indent
 Bara det.
 :::
 
 ::: indent
-Hela diktcykeln är skriven strax efter hans hustru Sylvia Plaths självmord. Det är en förtvivlad, iskall rapport om en människas relation till sina sinnen och sitt kött, en förödande blottläggning av enövergiven människa som går till sin extas med släckta lampor. Ett avgrundsvrål av djup, innerlig kärlek till det omöjliga.
+Hela diktcykeln är skriven strax efter hans hustru Sylvia Plaths självmord. Det är en förtvivlad, iskall rapport om en människas relation till sina sinnen och sitt kött, en förödande blottläggning av en övergiven människa som går till sin extas med släckta lampor. Ett avgrundsvrål av djup, innerlig kärlek till det omöjliga.
 :::
 
 ::: indent
@@ -762,23 +762,23 @@ Upplyftande.
 Arbetet sker tillsammans med Lars Ragnar Forssberg och Stefan Nilsson. Vi bryter ner Hughes fantastiska diktsvit till scener, monologer, musik, körer. En helaftons för eställning i 3 akter: *Födelsen*, *Livet* och *Döden.* Lindblom avser att sätta upp verket på Dramaten. Carsten skapar en symbol till projektet.
 :::
 
-![138.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/138.png)
+![Truth Kills Everybody.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/138.png)
 
 Och tvåskisser till huvudrollen:
 
-![145.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/145.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/145.png)
 <!-- PAGE 132 END -->
 
 <!-- PAGE 133 START -->
-Men som såmånga gånger förr: Projektet strandar på vägen, Lindblom är sorgsen, teateroperan genomförs aldrig (jag tror fortfarande att det kan bli en fantastisk scen för eställning).
+Men som så många gånger förr: Projektet strandar på vägen, Lindblom är sorgsen, teateroperan genomförs aldrig (jag tror fortfarande att det kan bli en fantastisk scen för eställning).
 
-Det andra projektet som styr bort från satirträsket är ” *Voeyeur* ” (ett extremt svårstavat ord). En dokumentärfilm för SVT som jag, Lars-Ragnar Forssberg och frilansfilmaren Bertil Larsson ska göra på plats i New York.
+Det andra projektet som styr bort från satirträsket är”*Voeyeur*” (ett extremt svårstavat ord). En dokumentärfilm för SVT som jag, Lars-Ragnar Forssberg och frilansfilmaren Bertil Larsson ska göra på plats i New York.
 ::: indent
 Idén till filmen kommer från Forssberg (han är en mycket driftig, kreativ och orädd person, vi fungerar bra ihop) och blir en på många sätt omtumlande upplevelse.
 :::
 
 ::: indent
-Starkast intryck gör kontakten med *”Action Movie News”**, * ett filmbolag som har tagit begreppet ” underhållningsvåld ” ett steg till. Bolaget startades av Sheldon Levy för femår sen. Dåarbetade han inom New Yorks brandkår. För att tjäna lite extra pengar började han filma eldsvådor och sälja till dom stora nyhetskanalerna. Det var upptakten till en verksamhet som växte lavinartat. Idag har Levy filmteam ute pågatorna i New York dygnet runt, för att filma alla slags olyckor, allt slags våld och alla katastrofer.
+Starkast intryck gör kontakten med *”Action Movie News”**, * ett filmbolag som har tagit begreppet ”underhållningsvåld”ett steg till. Bolaget startades av Sheldon Levy för femår sen. Dåarbetade han inom New Yorks brandkår. För att tjäna lite extra pengar började han filma eldsvådor och sälja till dom stora nyhetskanalerna. Det var upptakten till en verksamhet som växte lavinartat. Idag har Levy filmteam ute pågatorna i New York dygnet runt, för att filma alla slags olyckor, allt slags våld och alla katastrofer.
 :::
 
 ::: indent
@@ -790,7 +790,7 @@ Han är kort, fetlagd och besynnerligt godmodig, även om han svettas utan egent
 :::
 
 ::: indent
-Levy är ingen obetydlig person. Hela trenden inom New York-televisionen har svängt markant mot mer actionvåld i nyhetsprogrammen. Det är till stor del hans ” förtjänst ”. Hans material är stilbildande. Alla dom stora tv-bolagen erkänner att *”Action Movie News”* har förändrat nyheterna påbara ett parår.
+Levy är ingen obetydlig person. Hela trenden inom New York-televisionen har svängt markant mot mer actionvåld i nyhetsprogrammen. Det är till stor del hans”förtjänst”. Hans material är stilbildande. Alla dom stora tv-bolagen erkänner att *”Action Movie News”* har förändrat nyheterna påbara ett parår.
 :::
 
 ::: indent
@@ -798,11 +798,11 @@ Levy är ingen obetydlig person. Hela trenden inom New York-televisionen har sv�
 :::
 
 ::: indent
-Forssberg och jag är över tygade om att det faktum att dom stora networken står i köför att köpa Levys material ocksåkommer att påverka televisionen i andra länder (i själva verket dröjer det inte speciellt länge innan ringarna från hans massmediafilosofi rinner in ocksåi den svenska televisionens nyhetsprogram).
+Forssberg och jag är över tygade om att det faktum att dom stora networken står i köför att köpa Levys material också kommer att påverka televisionen i andra länder (i själva verket dröjer det inte speciellt länge innan ringarna från hans massmediafilosofi rinner in ocksåi den svenska televisionens nyhetsprogram).
 :::
 
 ::: indent
-Under ett dygn får viåka med ett av hans filmteam i New York och följa deras arbete pånära håll, när dom jagar mord, våldtäkter och bränder. När vi sätter oss i kamerabilen viskar Levy: ” *Don´t panic until I do*. ”
+Under ett dygn får vi åka med ett av hans filmteam i New York och följa deras arbete pånära håll, när dom jagar mord, våldtäkter och bränder. När vi sätter oss i kamerabilen viskar Levy: ”*Don´t panic until I do*.”
 :::
 
 ::: indent
@@ -811,7 +811,7 @@ Det blir en ganska vidrig natt.
 
 Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i *”Tillfälligt avbrott”*. Denär klart påverkad av det vi upplevde med *”Action Movie News”*:
 
-Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut småaskar vid golvlisterna med texten ” *Cockroach Motel* ”.  Giftiga dödsfällor för kackerlackor. När jag vaknar är lägenheten tom. Min vana trogen kollar jag hennes bokhylla. Jag drar ut en tjock bok (jag tror det är ” *Brott och Straff* ”) och fäller upp den. Inuti boken är alla sidorna utskurna i form av en liten pistol. Placerad där, med pärmarna igenslagna: det perfekta smuggelobjektet. Romanen som vapen, på riktigt.
+Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut småaskar vid golvlisterna med texten ”*Cockroach Motel*”.  Giftiga dödsfällor för kackerlackor. När jag vaknar är lägenheten tom. Min vana trogen kollar jag hennes bokhylla. Jag drar ut en tjock bok (jag tror det är ”*Brott och Straff*”) och fäller upp den. Inuti boken är alla sidorna utskurna i form av en liten pistol. Placerad där, med pärmarna igenslagna: det perfekta smuggelobjektet. Romanen som vapen, på riktigt.
 ::: indent
 Kvinnan hävdar senare att hon aldrig har smugglat nån pistol i boken.
 :::
@@ -985,7 +985,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **det är dom inslagna som ska ut.**
 :::
 
-Året rundas av med mitt första långfilmsmanus. Det heter ” *Kocken* ” och är baserat på en självupplevd historia av regissören Mats Arehn. Filmen kommer, som jag tidigare nämnt, att spelas in och visas först 2005  med Kjelle Bergqvist i huvudrollen.
+Året rundas av med mitt första långfilmsmanus. Det heter ”*Kocken*”och är baserat på en självupplevd historia av regissören Mats Arehn. Filmen kommer, som jag tidigare nämnt, att spelas in och visas först 2005  med Kjelle Bergqvist i huvudrollen.
 ::: indent
 Det hela börjar med att Arehn ringer och frågar om jag är intresserad av att skriva för film. Ett långfilmsmanus. Frågan kommer out of the blue och jag säger som det är.
 :::
@@ -1003,7 +1003,7 @@ Det hela börjar med att Arehn ringer och frågar om jag är intresserad av att 
 :::
 
 ::: indent
-Eftersom jag aldrig har skrivit för film har jag heller ingen aning om hur ett manus ser ut. Hur man utformar det rent strukturellt. Arehn budar över ett manus för att jag ska fåse hur man skriver scenbeteckningar, scenanvisningar, dialog etc. Det visar sig ocksåvara ett manus som bygger på samma historia som jag ska skriva. Fast den heter ” *Vargens Hav* ” istället. Uppenbarligen har inte manuset fallit Arehn i smaken och han vill ha en ny variant.
+Eftersom jag aldrig har skrivit för film har jag heller ingen aning om hur ett manus ser ut. Hur man utformar det rent strukturellt. Arehn budar över ett manus för att jag ska fåse hur man skriver scenbeteckningar, scenanvisningar, dialog etc. Det visar sig ocksåvara ett manus som bygger på samma historia som jag ska skriva. Fast den heter”*Vargens Hav*”istället. Uppenbarligen har inte manuset fallit Arehn i smaken och han vill ha en ny variant.
 :::
 
 ::: indent
@@ -1033,7 +1033,7 @@ Arehn blir mycket nöjd med manuset och jag får min ersättning - 65.000 kronor
 :::
 
 ::: indent
-Den följande processen, som involverar helt andra personerän mig själv - producenter, finansiärer, distributörer, kreti och pleti - blir minst sagt utdragen. Eftersom filmen i stort sett utspelas på ett handelsfartyg hela tiden och Arehn vill att den ” görs på riktigt ”, blir det en dyr historia.
+Den följande processen, som involverar helt andra personerän mig själv - producenter, finansiärer, distributörer, kreti och pleti - blir minst sagt utdragen. Eftersom filmen i stort sett utspelas på ett handelsfartyg hela tiden och Arehn vill att den”görs på riktigt”, blir det en dyr historia.
 :::
 
 ::: indent
@@ -1045,7 +1045,7 @@ Och förmodligen orsaken till att det dröjer ett kvarts sekel innan filmen blir
 :::
 
 ::: indent
-En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva Kocken, som är involverad i nästan alla scener rakt igenom. Manuset vandrar runt i filmsverige och letar sig såsmåningom utomlands. Det ena märkliga skådespelar för slaget efter det andra virvlar runt. En morgon ringer Arehn och är upphetsad. Donald Sutherlands agent har hört av sig. Sutherland är intresserad av att göra rollen. Nästa samtal kommer från Bob Hoskins i London.
+En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva Kocken, som är involverad i nästan alla scener rakt igenom. Manuset vandrar runt i filmsverige och letar sig så småningom utomlands. Det ena märkliga skådespelar för slaget efter det andra virvlar runt. En morgon ringer Arehn och är upphetsad. Donald Sutherlands agent har hört av sig. Sutherland är intresserad av att göra rollen. Nästa samtal kommer från Bob Hoskins i London.
 :::
 
 ::: indent
@@ -1053,10 +1053,10 @@ Och såvidare.
 :::
 
 ::: indent
-Jag börjar få en insikt i filmvärlden (vid den här tidpunkten är branschen en vit fläck för mig, en fläck som såsmåningom blir ganska solkig).
+Jag börjar få en insikt i filmvärlden (vid den här tidpunkten är branschen en vit fläck för mig, en fläck som så småningom blir ganska solkig).
 :::
 
-Minne från cirkusen runt ” *Kocken* ”: Arehn har fått ett nytt napp. Den uppburneösterrikiske skådespelaren Klaus Maria Brandauer vill göra rollen. Men först vill han ha ett möte. Arehn och jagåker ner till Wien och träffar Brandauer i en elegant hotellbar.Österrikaren pratar oavbrutet om manuset i ett par timmar, haråsikter och förslag, torkar sig ofta över sina sötsura läppar. Jag tar in och antecknar. På natten sitter jag och en flaska kallt vitt vin påhotellrummet ochändrar manuset efter Brandauers idéer. Jag är klar när det ljusnar. Brandauer får det vid lunch. Jag och Arehnåker hem. Kort efteråt erbjuds Brandauer rollen som Beethoven i en storfilm och hoppar av vårt projekt.
+Minne från cirkusen runt ”*Kocken*”: Arehn har fått ett nytt napp. Den uppburneösterrikiske skådespelaren Klaus Maria Brandauer vill göra rollen. Men först vill han ha ett möte. Arehn och jag åker ner till Wien och träffar Brandauer i en elegant hotellbar. Österrikaren pratar oavbrutet om manuset i ett par timmar, haråsikter och förslag, torkar sig ofta över sina sötsura läppar. Jag tar in och antecknar. På natten sitter jag och en flaska kallt vitt vin påhotellrummet och ändrar manuset efter Brandauers idéer. Jag är klar när det ljusnar. Brandauer får det vid lunch. Jag och Arehnåker hem. Kort efteråt erbjuds Brandauer rollen som Beethoven i en storfilm och hoppar av vårt projekt.
 ::: indent
 Exitösterrikaren.
 :::
@@ -1091,14 +1091,14 @@ Men om inte om fanns.
 <!-- PAGE 136 END -->
 
 <!-- PAGE 137 START -->
-Pengarna från mitt påbörjade manusskrivande ger mig själv och min familj en chans att ” fly undan världen ”. Vi köper ett vackert trähus i skärgården och flyttar ut. Jag vill lämna stan, lämna det oavbrutna konfronterandet med allt och ingenting. Jag är trött och vill in i mediaskugga. Sari och Nick är värda en annan miljö.
+Pengarna från mitt påbörjade manusskrivande ger mig själv och min familj en chans att ”fly undan världen”. Vi köper ett vackert trähus i skärgården och flyttar ut. Jag vill lämna stan, lämna det oavbrutna konfronterandet med allt och ingenting. Jag är trött och vill in i mediaskugga. Sari och Nick är värda en annan miljö.
 ::: indent
 Vi flyttar till Skarpö.
 :::
 
 Jag kommer att tillbringa tio lyckligaår härute, med hyfsad ekonomi, bra fysik, underbar familj, närhet till havet. Och nästan enbart uppåtjobb.
 ::: indent
-Papphammar. Jönssonligan. Morrhår ochÄrtor. Lorry.
+Papphammar. Jönssonligan. Morrhår och Ärtor. Lorry.
 :::
 
 ::: indent
@@ -1109,7 +1109,7 @@ Roliga projekt, roliga människor, mjuka gryningar.
 Jag försöker skrapa bort mörkret ur hjärnan.
 :::
 
-Skrapandet börjar inte såbra. Sammaår som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett parår sen). Förövaren är inte värd många ord. Lennons död fogas in i ledet av för tidigt försvunna begåvningar, människor som har vidgat andra människor genom sina verk.
+Skrapandet börjar inte så bra. Sammaår som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett parår sen). Förövaren är inte värd många ord. Lennons död fogas in i ledet av för tidigt försvunna begåvningar, människor som har vidgat andra människor genom sina verk.
 ::: indent
 Jag sörjer och spelar hans skivor.
 :::
@@ -1118,17 +1118,17 @@ Jag sörjer och spelar hans skivor.
 Om någraår ska en annan begåvad man mördas på öppen gata.
 :::
 
-Carsten börjar det häråret, 1980, med att ge ut en konstbok, ” *LUPUS ULTRA* ”.
+Carsten börjar det häråret, 1980, med att ge ut en konstbok, ”*LUPUS ULTRA*”.
 
-![170.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/170.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/170.png)
 
-Det är enöversikt av hans konstnärliga verksamhet såh är långt. En generös och mäktig bok i mycket stort format, garnerad med vackra målningar.
+Det är en översikt av hans konstnärliga verksamhet såh är långt. En generös och mäktig bok i mycket stort format, garnerad med vackra målningar.
 
-![188A.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/188A.png)
+![The End.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/188A.png)
 
-Konstintendenten Ulf Linde skriver ett intressant förord med rubriken ” *Det Omognas Strategi* ”:
+Konstintendenten Ulf Linde skriver ett intressant förord med rubriken ”*Det Omognas Strategi*”:
 
-**”Dessa förvändheter åt alla håll, dessa ** ***polymorfa perversiteter***** - för att använda Freuds berömda karakteristik av det infantila psyket - kan givetvis avfärdas som en barnslig taktik att väcka uppmärksamhet. Man utsätts för ett äcklets komik av påträngande omogenhet, något som - visserligen under hyssjanden - kan tolereras hos barn, men som inte anses legitimt bland vuxna. Allra minst i en tid som tagit mogenheten på en ganska lönsam entreprenad under slagordet ”medvetenhet”****; jag har också stött på åtskilliga ”medvetna” av olika schatteringar som funnit Carsten Regild alltför oklar och subjektiv. Han manifesterar ** ***sitt eget***** trots, medan de ”medvetna” i regel uppmanar ** ***de andra***** till ett trots enligt ”medvetenhetens” redan fastställda ordning. Regilds trots tycks framför allt ta sig uttryck i en serie spasmer, avvärjande ryckningar som förhindrar att det outvecklade hos honom själv ingår i utvecklingen, med allt vad ordet utveckling kan tänkas stå för. Men det är också klart att själva det faktum att han ** ***uttrycker***** sitt trots gör det på en gång subjektivt och objektivt, dvs det är här för vem som helst att ta del av och göra till sitt eget - han värnar med andra ord inte bara om sin egen omogenhet, utan om omogenheten i allmänhet: förmågan att äcklas och njuta på fel ställen, den odisciplinerade och otämjda, djupt ** ***infantila***** klarsyn som H.C. Andersen hyllat i sagan om kejsarens nya kläder, förmågan att blixtsnabbt tänka på annat när de mogna påkallar uppmärksamhet därför att ”saken” för dem tagit en så allvarlig vändning, insikten om det subversiva i all djup distraktion osv ... det omogna, det non-konforma - med hänsyn till dem som känner livet i kulturfastrarnas fångenskap - som Witold Gombrowics så utomordentligt formulerat det.”**
+**”Dessa förvändheter åt alla håll, dessa ** ***polymorfa perversiteter***** - för att använda Freuds berömda karakteristik av det infantila psyket - kan givetvis avfärdas som en barnslig taktik att väcka uppmärksamhet. Man utsätts för ett äcklets komik av påträngande omogenhet, något som - visserligen under hyssjanden - kan tolereras hos barn, men som inte anses legitimt bland vuxna. Allra minst i en tid som tagit mogenheten på en ganska lönsam entreprenad under slagordet ”medvetenhet”****; jag har också stött på åtskilliga ”medvetna”av olika schatteringar som funnit Carsten Regild alltför oklar och subjektiv. Han manifesterar ** ***sitt eget***** trots, medan de”medvetna”i regel uppmanar ** ***de andra***** till ett trots enligt”medvetenhetens”redan fastställda ordning. Regilds trots tycks framför allt ta sig uttryck i en serie spasmer, avvärjande ryckningar som förhindrar att det outvecklade hos honom själv ingår i utvecklingen, med allt vad ordet utveckling kan tänkas stå för. Men det är också klart att själva det faktum att han ** ***uttrycker***** sitt trots gör det på en gång subjektivt och objektivt, dvs det är här för vem som helst att ta del av och göra till sitt eget - han värnar med andra ord inte bara om sin egen omogenhet, utan om omogenheten i allmänhet: förmågan att äcklas och njuta på fel ställen, den odisciplinerade och otämjda, djupt ** ***infantila***** klarsyn som H. C. Andersen hyllat i sagan om kejsarens nya kläder, förmågan att blixtsnabbt tänka på annat när de mogna påkallar uppmärksamhet därför att”saken” för dem tagit en så allvarlig vändning, insikten om det subversiva i all djup distraktion osv ... det omogna, det non-konforma - med hänsyn till dem som känner livet i kulturfastrarnas fångenskap - som Witold Gombrowics så utomordentligt formulerat det.”**
 
 Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci:
 <!-- PAGE 137 END -->
@@ -1149,9 +1149,9 @@ Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci
 **Latriner efter sig.**
 :::
 
-![82.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/82.png)
+![I begynnelsen skalade Gud en banan.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/82.png)
 
-Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett myller av symboler, bygger upp ett eget språk, en visuell rebus, med hjälp avåterkommande markörer. Varghatten, Nefertite, en Assanyckel, den svarta glödlampan, ögat, siffrorna 333, en kvinna i högklackade skor, en livmoder osv ... jag kan tolka en del av symbolerna, andra inte, men jag vet att varenda detalj i hans målningar ingår i en större berättelse. Om honom själv, om oss, om den tillvaro vi lever i. Den amerikanske filosofen och sociologen Lewis Mumford har skrivit några tänkvärda rader om symbolernas betydelse i sin bok ” *Människans villkor* ”:
+Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett myller av symboler, bygger upp ett eget språk, en visuell rebus, med hjälp avåterkommande markörer. Varghatten, Nefertite, en Assanyckel, den svarta glödlampan, ögat, siffrorna 333, en kvinna i högklackade skor, en livmoder osv ... jag kan tolka en del av symbolerna, andra inte, men jag vet att varenda detalj i hans målningar ingår i en större berättelse. Om honom själv, om oss, om den tillvaro vi lever i. Den amerikanske filosofen och sociologen Lewis Mumford har skrivit några tänkvärda rader om symbolernas betydelse i sin bok ”*Människans villkor*”:
 
 **”Förmågan att skapa och reagera för symboler innebär en väsentlig skillnad mellan människans värld och djurens. Utan symboler skulle människans liv vara ett liv av omedelbara begär, omedelbara sensationer: hon skulle vara bunden till ett förflutet som var kortare än hennes egen livstid, utlämnad åt en framtid som hon varken kunde förutse eller bereda sig på****. I en sådan värld skulle det som var utom hörhåll aldrig kunna nås, och bortom synhåll skulle betyda borta ur sinnet. Med hjälp av symbolerna bygger människan en sammanhängande värld av iakttagna fakta och glimtar av individuell erfarenhet.**
 
@@ -1159,9 +1159,9 @@ Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett
 
 Carstens visuella uppfinningsrikedom smittar ocksåav sig på hans generationskamrater:
 
-![1000.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1000.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1000.png)
 
-![1001.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1001.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1001.png)
 
 Jag har precis kommit ut ur duschen på Skarpö, otorkad, när Tove sträcker över telefonen.
 ::: indent
@@ -1176,4 +1176,3 @@ Jag tar luren.
 – Ja? Hej?
 :::
 <!-- PAGE 138 END -->
-

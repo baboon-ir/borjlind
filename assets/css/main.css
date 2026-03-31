@@ -194,12 +194,15 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 .rb-header.is-scrolled {
-  background-color: rgb(28 29 30 / 0.95);
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
+  background-color: transparent;
 }
 
-.rb-brand { font-size: 18px; }
+.rb-brand {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+}
 
 .rb-navlink { text-decoration: none; color: var(--color-light); }
 .rb-navlink:hover { color: var(--color-light); }
@@ -223,44 +226,69 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   transform: rotate(45deg);
 }
 
-.rb-nav-open [data-nav-panel] { display: block; }
+/* Side drawer visibility controlled via .rb-nav-open on :root — see nav panel rules */
 
-/* Nav panel component rules */
+/* Nav panel component rules — side drawer from right */
 [data-nav-panel] {
   position: fixed;
   inset: 0;
   z-index: 50;
-  display: none;
+  visibility: hidden;
+  pointer-events: none;
+  transition: visibility 0s 0.3s;
+}
+
+.rb-nav-open [data-nav-panel] {
+  visibility: visible;
+  pointer-events: auto;
+  transition: visibility 0s;
 }
 
 .rb-nav-backdrop {
   position: absolute;
   inset: 0;
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.rb-nav-open .rb-nav-backdrop {
+  opacity: 1;
 }
 
 .rb-nav-content {
-  position: relative;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
   z-index: 10;
   display: flex;
-  min-height: 100%;
+  width: 280px;
+  max-width: 80vw;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 140px 2rem 2rem;
-  max-width: 64rem;
-  margin: 0 auto;
+  padding: calc(var(--header-h) + 2rem) 2rem 2rem;
+  background-color: var(--color-dark);
+  border-left: 1px solid var(--rb-border);
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+}
+
+.rb-nav-open .rb-nav-content {
+  transform: translateX(0);
 }
 
 .rb-nav-list {
   text-align: left;
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   padding: 0;
   margin: 0;
   list-style: none;
+  width: 100%;
 }
 
-.rb-nav-list li + li { margin-top: 1.5rem; }
+.rb-nav-list li + li { margin-top: 1.25rem; }
 .rb-nav-list a { display: block; }
 
 /* ============================================================
@@ -298,18 +326,24 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   text-decoration: none;
   background-color: var(--color-light);
   color: var(--color-dark);
-  font-size: 14px;
-  padding: 4px 12px;
-  border-radius: 6px;
-  font-weight: 500;
-  transition: opacity 0.2s ease;
+  font-family: var(--font-serif);
+  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
+  padding: 0.9em 2.4em;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.3);
 }
-.rb-cta:hover { opacity: 0.9; }
+.rb-cta:hover {
+  transform: scale(1.04);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
 
 .rb-cta-wrap {
   display: flex;
   justify-content: center;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 .rb-card {
@@ -484,8 +518,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   }
 
   /* Accordion: contained */
-  .rb-bio-page .rb-accordion,
-  .rb-bio-page details {
+  .rb-bio-page .rb-accordion {
     max-width: 100%;
     padding-inline: var(--rb-inline-inset-mobile);
   }
@@ -746,42 +779,73 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 .rb-prose p { margin-bottom: 1.5em; color: var(--color-light); white-space: pre-wrap; }
 .rb-prose hr { height: 1px; border: 0; background-color: var(--color-light); margin: 0 0 1.5em; opacity: .9; }
-.rb-prose a { color: #4169e1; text-decoration: underline; }
-.rb-prose a:visited { color: #800080; }
-.rb-prose a:hover, .rb-prose a:focus, .rb-prose a:active { color: #191970; }
+.rb-prose a { color: var(--rb-accent); text-decoration: underline; }
+.rb-prose a:visited { color: #9b8579; }
+.rb-prose a:hover, .rb-prose a:focus, .rb-prose a:active { color: #6b8cff; }
 
 /* ============================================================
    Section 12 — Content components
    ============================================================ */
 
-.read-more {
-  display: inline-block;
-  margin-bottom: 0.25rem;
-  font-size: 0.75rem;
-  font-weight: 300;
-  color: var(--rb-text);
+/* Accordion – ghost-button style */
+.rb-accordion {
+  margin: 1.5rem 0;
 }
 
-.rb-accordion summary {
-  list-style: none;
+.rb-accordion-excerpt {
   color: var(--color-light);
   font-size: 1.0625rem;
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: 400;
   line-height: 1.7;
-  padding: 0;
-  margin-bottom: 2px;
 }
 
-.rb-accordion {
-  margin-bottom: 2px;
-  margin-top: 2px;
-  padding: 0 4px;
-  background-color: rgb(28, 29, 30);
+.rb-accordion-details {
+  display: flex;
+  flex-direction: column;
 }
 
-.rb-accordion[open] {
-  border-bottom: 0.5px solid #ccc !important;
+.rb-accordion-details summary {
+  list-style: none;
+  order: 2;
+}
+.rb-accordion-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.rb-accordion-content {
+  order: 1;
+}
+
+.rb-accordion-btn {
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.6rem 0;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+  background: transparent;
+  border-top: 0.5px solid var(--rb-border);
+  border-bottom: 0.5px solid var(--rb-border);
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.rb-accordion-btn:hover {
+  color: var(--color-light);
+  border-color: var(--color-light);
+}
+
+.rb-accordion-content {
+  color: var(--color-light);
+  font-size: 1.0625rem;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-weight: 400;
+  line-height: 1.7;
 }
 
 .rb-minne {
@@ -841,24 +905,40 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
 .rb-center { text-align: center; margin-top: 1.5rem; margin-bottom: 1.5rem; }
 
+.rb-fullpage {
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 .rb-indent { margin-top: 1rem; margin-bottom: 1rem; padding-left: 2em; }
 
-.rb-poem::before {
+.rb-poem::before,
+.rb-poem::after {
   content: '***';
   display: block;
   text-align: center;
   font-size: 32px;
-  margin: 12px 0;
+  margin: 1.5rem 0;
 }
 
 .rb-poem {
-  margin-top: 7rem;
-  margin-bottom: 7rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
   font-style: italic;
   text-align: center;
 }
 
 .rb-poem p { margin-top: 1.5rem; margin-bottom: 1.5rem; }
+
+.rb-part {
+  border: none;
+  border-top: 0.5px solid var(--rb-border);
+  margin: 3rem 20%;
+}
 
 .rb-video {
   margin-top: 1.5rem;
@@ -970,7 +1050,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 .appendix-content > * {
-  max-width: none !important;
+  max-width: 100%;
   width: 100%;
 }
 
@@ -999,33 +1079,52 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 .rb-header-outer {
   position: sticky;
   top: 0;
-  z-index: 100;
+  z-index: 40;
+  width: 100%;
+  min-height: 52px;
+  padding: 0.7rem 1rem;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: transparent;
   color: var(--color-light);
 }
 
+.rb-site-nav-open .rb-header-outer {
+  visibility: hidden;
+}
+
 .rb-header-inner {
-  margin: 0 auto;
-  display: flex;
-  height: var(--header-h);
-  max-width: 64rem;
-  align-items: center;
-  justify-content: space-between;
+  display: contents;
   gap: 1.5rem;
   padding: 0 1rem;
   position: relative;
 }
 
 .rb-header-nav {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  font-size: 0.875rem;
+  justify-self: end;
 }
 
-.rb-nav-toggle-wrap {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+/* Header menu button — matches reader-bar-btn style */
+.rb-header-menu-btn {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: var(--rb-text-muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.15rem 0.4rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.rb-header-menu-btn:hover,
+.rb-header-menu-btn:focus-visible {
+  color: var(--rb-text);
+  border-color: var(--rb-border);
 }
 
 /* ============================================================
@@ -1153,9 +1252,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
    ============================================================ */
 
 .rb-page-title-wrap {
-  margin: 0 auto;
-  max-width: 64rem;
-  padding: 0.5rem 1rem 1.5rem;
+  padding: 0.5rem var(--rb-inline-inset-desktop) 1.5rem;
 }
 
 .rb-page-h1 {
@@ -1166,7 +1263,12 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 .rb-page-desc { font-size: 1.125rem; }
-.rb-page-content { padding: 0 1rem; }
+.rb-page-content { padding: 0 var(--rb-inline-inset-desktop); }
+
+@media (max-width: 768px) {
+  .rb-page-title-wrap { padding-inline: var(--rb-inline-inset-mobile); }
+  .rb-page-content { padding-inline: var(--rb-inline-inset-mobile); }
+}
 
 /* ============================================================
    Section 24 — Memory layout (semantic classes)
@@ -1315,7 +1417,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   break-inside: avoid;
 }
 
-.rb-segment .rb-poem { margin-bottom: 1rem; }
+.rb-segment .rb-poem { margin-top: 3rem; margin-bottom: 3rem; }
 
 /* Prefer keeping a following image with preceding poem context */
 .rb-segment .rb-poem + figure {
@@ -1386,7 +1488,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  grid-template-columns: auto 1fr auto;
   align-items: center;
   gap: 0.5rem;
 }
@@ -1400,6 +1502,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 .rb-reader-title {
+  justify-self: center;
   min-width: 0;
   font-size: 0.72rem;
   letter-spacing: 0.08em;
@@ -1429,22 +1532,29 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
 .rb-toc-panel {
   position: fixed;
-  inset: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 320px;
+  max-width: 85vw;
   background: var(--rb-bg);
+  border-left: 1px solid var(--rb-border);
   z-index: 200;
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  transform: translateX(100%);
   /* Hidden state — toggled by JS adding .is-open */
   visibility: hidden;
   opacity: 0;
-  transition: opacity 0.2s, visibility 0s 0.2s;
+  transition: transform 0.3s ease, opacity 0.2s, visibility 0s 0.3s;
 }
 
 .rb-toc-panel.is-open {
   visibility: visible;
   opacity: 1;
-  transition: opacity 0.2s, visibility 0s;
+  transform: translateX(0);
+  transition: transform 0.3s ease, opacity 0.2s, visibility 0s;
 }
 
 .rb-toc-inner {
@@ -1537,4 +1647,150 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   max-height: 80dvh;
   width: auto;
   max-width: 100%;
+}
+
+/* =====================================================
+   Reader bar button — shared across all reader bars
+===================================================== */
+
+.rb-reader-bar-btn {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: var(--rb-text-muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.15rem 0.4rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.rb-reader-bar-btn:hover,
+.rb-reader-bar-btn:focus-visible {
+  color: var(--rb-text);
+  border-color: var(--rb-border);
+}
+
+/* =====================================================
+   Section reader wrapper — used by Minnen, Appendix, Memory
+===================================================== */
+
+.rb-section-reader-wrap {
+  width: 100%;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--rb-bg);
+  padding-bottom: calc(4rem + env(safe-area-inset-bottom));
+}
+
+.rb-section-container {
+  flex: 1;
+  max-width: 628px;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+  -webkit-user-select: text;
+  user-select: text;
+}
+
+/* =====================================================
+   Site-wide navigation drawer — slides from left
+===================================================== */
+
+.rb-site-nav {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  visibility: hidden;
+  pointer-events: none;
+  transition: visibility 0s 0.3s;
+}
+
+.rb-site-nav.is-open {
+  visibility: visible;
+  pointer-events: auto;
+  transition: visibility 0s;
+}
+
+.rb-site-nav-backdrop {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.rb-site-nav.is-open .rb-site-nav-backdrop {
+  opacity: 1;
+}
+
+.rb-site-nav-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 280px;
+  max-width: 80vw;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  background-color: var(--color-dark);
+  border-right: 1px solid var(--rb-border);
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+}
+
+.rb-site-nav.is-open .rb-site-nav-content {
+  transform: translateX(0);
+}
+
+.rb-site-nav-close {
+  align-self: flex-end;
+  background: transparent;
+  border: 1px solid var(--rb-border);
+  color: var(--rb-text);
+  cursor: pointer;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.rb-site-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.rb-site-nav-link {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: var(--rb-text-muted);
+  text-decoration: none;
+  font-size: 1.25rem;
+  border-radius: 4px;
+  transition: color 0.15s, background 0.15s;
+}
+
+.rb-site-nav-link:hover {
+  color: var(--rb-text);
+  background: var(--rb-surface);
+}
+
+/* On start page: slide site-nav from right instead of left */
+.rb-hub-bg .rb-site-nav-content {
+  left: auto;
+  right: 0;
+  border-right: none;
+  border-left: 1px solid var(--rb-border);
+  transform: translateX(100%);
+}
+
+.rb-hub-bg .rb-site-nav.is-open .rb-site-nav-content {
+  transform: translateX(0);
 }

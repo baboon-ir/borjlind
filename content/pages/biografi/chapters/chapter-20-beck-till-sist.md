@@ -3,7 +3,7 @@
 <!-- PAGE 249 START -->
 Det häråret kliver Steve Jobs ut på scenen med en i-phone i handen och världen blir en annan. Under det närmaste decenniet ska stora delar av jordens befolkning titta neråt istället för framåt. En revolution som förändrar vårt sätt att kommunicera, informeras och umgås. Pågott och ont, som med alla banbrytande innovationer.
 ::: indent
-Själv är jag inte speciellt tekniskt bevandrad. Jag kan fortfarande inte ” först å” hur jag kan sitta i mitt vardagsrum och se ett spjut kastas i Melbourne i samma sekund som spjutet kastas. På andra sidan jordklotet. Jag kan inte ” först å” signalerna och vågorna som färdas genom rymden i realtid och skapar bilder påskärmen framför mig. Eller i min mobil. Förmodligen kommer jag inte heller att förstån är bilderna landar direkt i hjärnan utan att passera skärmen.
+Själv är jag inte speciellt tekniskt bevandrad. Jag kan fortfarande inte ” först å”hur jag kan sitta i mitt vardagsrum och se ett spjut kastas i Melbourne i samma sekund som spjutet kastas. På andra sidan jordklotet. Jag kan inte” först å”signalerna och vågorna som färdas genom rymden i realtid och skapar bilder påskärmen framför mig. Eller i min mobil. Förmodligen kommer jag inte heller att förstån är bilderna landar direkt i hjärnan utan att passera skärmen.
 :::
 
 ::: indent
@@ -11,7 +11,7 @@ Elon Musk på är redan pågång med det, ett inopererat chip i hjärnsubstansen
 :::
 
 ::: indent
-Kina banar väg på sitt sätt. Ansikts över vakning i offentliga miljöer. ” Social credit system ”. Sköter du dig får du poäng, går du mot rött får du inteåka utomlands. Storebror i sin ultimata uniform.
+Kina banar väg på sitt sätt. Ansikts över vakning i offentliga miljöer.”Social credit system”. Sköter du dig får du poäng, går du mot rött får du inteåka utomlands. Storebror i sin ultimata uniform.
 :::
 
 ::: indent
@@ -62,7 +62,7 @@ Vi ställer upp och skriver *”I stormens öga”* och *”Levande begravd”*.
 Någraår senare kan vi konstatera att löftet om tvåavslutningsfilmer inte höll. Beckserien fortsätter att produceras, dock utan vår inblandning.
 :::
 
-En udda payoff: Jag skriver en pjäs baserad på mitt långfilmsmanus ” *Dödspolare* ”. Pjäsen sätts upp på Nya Teatern iÖrebro.
+En udda payoff: Jag skriver en pjäs baserad på mitt långfilmsmanus ”*Dödspolare*”. Pjäsen sätts upp på Nya Teatern i Örebro.
 ::: indent
 Växelbruk.
 :::
@@ -79,18 +79,18 @@ Berättelser, allt handlar om berättelser.
 
 Min gamle kompis Ove Enervald ringer en sen kväll. Det är inget kul samtal. Skånska Lasse har hittats död, ensam i sin lägenhet på Söder. Levde ensam och dog ensam, omgiven av sina teckningar och lp-skivor. Det känns ödsligt och sorgligt.
 ::: indent
-Jag har inte haft kontakt med honom påflera år, livet har styrt mig åt andra håll. Tankarna virvlar tillbaka, nätterna vi satt på hans golv och lyssnade oss igenom alla kufiska plattor han hade kommit över. Hans kärnfulla humor, dom glittrandeögonen, det krulliga tunna håret, hans välvårdade naglar. En självklar kompis under många år, nu är han i jorden, granne med vem vet?
+Jag har inte haft kontakt med honom på flera år, livet har styrt mig åt andra håll. Tankarna virvlar tillbaka, nätterna vi satt på hans golv och lyssnade oss igenom alla kufiska plattor han hade kommit över. Hans kärnfulla humor, dom glittrandeögonen, det krulliga tunna håret, hans välvårdade naglar. En självklar kompis under många år, nu är han i jorden, granne med vem vet?
 :::
 
 ::: indent
 Men hans mjuka teckningar finns kvar.
 :::
 
-![287.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/287.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/287.jpg)
 
 Ett roligare samtal kommer strax efter. Tommy Körberg behöver en översättning på en sång som i original heter *”Caruso Farrapo”*.
 ::: indent
-Jag har vid det här laget producerat tämligen många låttexter till olika artister. Ibland har mina egna texter tonsatts, ibland har jag skrivit svenska tolkningar påutländska sånger. Med större eller mindre engagemang. När jag får höra den här sången blir jag inspirerad, huvudsakligen av melodin, och skriver en svensk version som får titeln: ” *Om du minns, Esmeralda* ”.
+Jag har vid det här laget producerat tämligen många låttexter till olika artister. Ibland har mina egna texter tonsatts, ibland har jag skrivit svenska tolkningar påutländska sånger. Med större eller mindre engagemang. När jag får höra den här sången blir jag inspirerad, huvudsakligen av melodin, och skriver en svensk version som får titeln: ”*Om du minns, Esmeralda*”.
 :::
 
 ***Ingenting här har ändrats, Esmeralda***
@@ -249,7 +249,7 @@ Total seger för Eriksson (och oss).
 :::
 
 ::: indent
-TV4åläggs att ståför samtliga rättegångskostnader.
+TV4 åläggs att ståför samtliga rättegångskostnader.
 :::
 
 ::: indent
@@ -387,7 +387,7 @@ Istället återanvänder jag skarabén i vår deckare *”Kallbrand”*:
 
 Så återskapas det förflutna igen.
 ::: indent
-Jag träffar den tungt etablerade galleriägaren Lars Bohman hemma hos Amis Regild, Carstens änka. Bohman har förvärvat ett stort antal av Carstens målningar ochäven haft en utställning av verken. Vi går igenom en del av all den dokumentation Amis har kvar från Carstens och mitt samarbete. Under genomgången föreslår Bohman, som blir fascinerad av hur det hela startade, att vi skaåterskapa vår första utställning på Galleri Maxim 1966, i detalj. För att visa hur tidigt vi var ute med ett visst konstnärligt språk. Det är ett märkligt förslag för mig.
+Jag träffar den tungt etablerade galleriägaren Lars Bohman hemma hos Amis Regild, Carstens änka. Bohman har förvärvat ett stort antal av Carstens målningar och även haft en utställning av verken. Vi går igenom en del av all den dokumentation Amis har kvar från Carstens och mitt samarbete. Under genomgången föreslår Bohman, som blir fascinerad av hur det hela startade, att vi skaåterskapa vår första utställning på Galleri Maxim 1966, i detalj. För att visa hur tidigt vi var ute med ett visst konstnärligt språk. Det är ett märkligt förslag för mig.
 :::
 
 ::: indent
@@ -395,7 +395,7 @@ Och lockande.
 :::
 
 ::: indent
-Vi ska alltså återskapa ett 43år gammalt material, iscensatt i en nutida konstutställning? Bohman har resurser, det vet jag, vill han genomföra det här såkommer det att bli på riktigt.
+Vi ska alltså återskapa ett 43 år gammalt material, iscensatt i en nutida konstutställning? Bohman har resurser, det vet jag, vill han genomföra det här så kommer det att bli på riktigt.
 :::
 
 ::: indent
@@ -412,11 +412,11 @@ Det förflutna är en båge av tid, pilen landar där du står.
 
 För mig blir utställningen en resa, på många plan. Dels iåterskapandet av dom verk Carsten och jag gjorde 1966 (in i minsta vattenslang och genomskinliga slipsar),  dels i berättelsen om Happy Cousins. Jag bestämmer mig snabbt för att utforma utställningskatalogen som det sista numret av Vargen, nummer 9. Det som aldrig kom ut. Framsidan ser ut som alla tidigare Vargen, men mannen med hatten har slutnaögon.
 
-![213.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/213.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/213.jpg)
 
 I numret/katalogen går jag igenom Carstens och min resa, utformat på det sätt vi skapade Vargen: fragmentariskt, illustrativt, lekfullt, provokativt.
 
-![214.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/214.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/214.png)
 
 Jag försöker berätta på det sätt vi försökte berätta.
 ::: indent
@@ -425,7 +425,7 @@ Utställningen har vernissage hösten 2009.
 <!-- PAGE 253 END -->
 
 <!-- PAGE 254 START -->
-![400.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
 
 Vid det här laget, den här tidpunkten, har jag tvådöttrar, tvåsöner och fyra barnbarn. Jag tänker: Dom kommer att läsa det här (kanske). Hur mycket kommer dom att begripa av det jag harägnat mitt livåt? Inte i bemärkelsen förstå, men det bakomliggande? Hur mycket är beroende av bakgrunden, sammanhanget, tidskänslan? Hur ser det ut idag? Hur långt är det intellektuella och emotionella avståndet till då?
 ::: indent
@@ -473,7 +473,7 @@ Jag vet inte.
 :::
 
 ::: indent
-Jag kan ta det utanför den familjära kretsen. När blir det privata allmängiltigt? När bli det provinsiella universellt? När blir det i mig det i dig? Författaren Björn Ranelid har sagt: ” *Att leva är att simma från stranden jag till stranden du i havet vi.* ” Fint uttryckt. Poeten Gunnar Ekelöf har uttryckt det så här:
+Jag kan ta det utanför den familjära kretsen. När blir det privata allmängiltigt? När bli det provinsiella universellt? När blir det i mig det i dig? Författaren Björn Ranelid har sagt: ”*Att leva är att simma från stranden jag till stranden du i havet vi.*” Fint uttryckt. Poeten Gunnar Ekelöf har uttryckt det så här:
 :::
 
 ::: poem
@@ -505,7 +505,7 @@ Arne Dahl.
 
 <!-- PAGE 255 START -->
 ::: indent
-Cilla och jag har vid det här laget en mycket nära och respektfull relation till filmproducenten Lasse Blomgren på Filmlance. För mig är han en person som jag kan lita på, som jag tycker om, som får jobbet gjort och som är rak (alltihop en bristvara i filmbranschen, med fåundantag). Blomgren har köpt rättigheterna till Jan Arnalds böcker om ” *Arne Dahl* ”. Han vill att vi ska skriva manus på dom, till en tv-serie för SVT. Det är tio böcker. Det är mycket pengar. Det är eventuellt utmanande. Själv har jag aldrig läst några böcker av ” *Dahl* ”, men jag har börjat på en, på ett flygplan från Nairobi, och ganska snabbt konstaterat att ” *Dahl* ”är språkligt nära det jag själv gillar i korthuggenhet. Bitvis bra dialog.
+Cilla och jag har vid det här laget en mycket nära och respektfull relation till filmproducenten Lasse Blomgren på Filmlance. För mig är han en person som jag kan lita på, som jag tycker om, som får jobbet gjort och som är rak (alltihop en bristvara i filmbranschen, med fåundantag). Blomgren har köpt rättigheterna till Jan Arnalds böcker om ”*Arne Dahl*”. Han vill att vi ska skriva manus på dom, till en tv-serie för SVT. Det är tio böcker. Det är mycket pengar. Det är eventuellt utmanande. Själv har jag aldrig läst några böcker av ”*Dahl*”, men jag har börjat på en, på ett flygplan från Nairobi, och ganska snabbt konstaterat att ”*Dahl*”är språkligt nära det jag själv gillar i korthuggenhet. Bitvis bra dialog.
 :::
 
 ::: indent
@@ -513,7 +513,7 @@ Varför jag inte avslutar boken har förmodligen med min allmänna läströtthet
 :::
 
 ::: indent
-Cilla och jag börjar bryta ner böckerna till manus. Det visar sig oväntat komplicerat. Dels på grund av Arnalds i sig hårt flätade historier, dels på grund av mängden huvudpersoner.Åtta stycken, exklusive offer och gärningsmän. Från början är tanken att det ska bli en 90-minutersfilm per bok. Vi aviserar snabbt att det inte är möjligt att göra böckerna rättvisa inom det formatet. Vi föreslår den dubbla tiden, vilket accepteras. I första omgången ska vi bearbeta fem böcker. Processen blir besvärligareän vi är vana vid, både rent skrivtekniskt, men också för ett par extremt tröttande konflikter.
+Cilla och jag börjar bryta ner böckerna till manus. Det visar sig oväntat komplicerat. Dels på grund av Arnalds i sig hårt flätade historier, dels på grund av mängden huvudpersoner. Åtta stycken, exklusive offer och gärningsmän. Från början är tanken att det ska bli en 90-minutersfilm per bok. Vi aviserar snabbt att det inte är möjligt att göra böckerna rättvisa inom det formatet. Vi föreslår den dubbla tiden, vilket accepteras. I första omgången ska vi bearbeta fem böcker. Processen blir besvärligareän vi är vana vid, både rent skrivtekniskt, men också för ett par extremt tröttande konflikter.
 :::
 
 ::: indent
@@ -528,17 +528,17 @@ Dels med producenten Gunnar Carlsson på SVT. Jag känner Carlsson ytligt, sen h
 Men vi får slutföra vårt manusarbete under hyfsat lugna former.
 :::
 
-Enligt mig: Den bästa av dom fem filmer vi skriver är ” *Europa Blues* ” och regisseras av tvåtämligen okända herrar, Niklas Ohlson och Mattias Ohlsson. Dom ska senare komma att regissera vår tv-serie ” *Springfloden* ”.
+Enligt mig: Den bästa av dom fem filmer vi skriver är ”*Europa Blues*”och regisseras av tvåtämligen okända herrar, Niklas Ohlson och Mattias Ohlsson. Dom ska senare komma att regissera vår tv-serie”*Springfloden*”.
 
-![276.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/276.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/276.jpg)
 
-![277.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/277.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/277.jpeg)
 
-![278.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/278.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/278.jpg)
 
-![279.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/279.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/279.jpeg)
 
-![280.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/280.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/280.jpeg)
 
 Reflektion: Strulet och svårigheterna med Dahl-projektet bidrar påtagligt till Cillas och mitt beslut att börja skriva egna böcker, vilket vi gör strax därefter.
 
@@ -566,9 +566,9 @@ Några frågor, en vargtimme när sömnen tuggar pålakanet och liemannen går m
 **Idag?**
 :::
 
-![306.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/306.png)
+![Curre Hillfon.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/306.png)
 
-Och när sömnen väl omsluter mig får jag en egendomlig dröm. Jag balanserar i en hängränna påfemte våningen på Palmgrenska samskolan i Stockholm, min realskola, nedanför ligger den stenbelagda skolgården, jag tar ett par steg och tappar fästet, i fallet mot gården fattar jag att jag kommer att dö, allt blir en mörk tunnel, längst bort ser jag ljus, jag springer mot ljuset och kommer ut i kanten av enäng, en damcykel står lutad mot en gammal ek, jag sätter mig påcykeln och trampar bort ... sen vaknar jag.
+Och när sömnen väl omsluter mig får jag en egendomlig dröm. Jag balanserar i en hängränna påfemte våningen på Palmgrenska samskolan i Stockholm, min realskola, nedanför ligger den stenbelagda skolgården, jag tar ett par steg och tappar fästet, i fallet mot gården fattar jag att jag kommer att dö, allt blir en mörk tunnel, längst bort ser jag ljus, jag springer mot ljuset och kommer ut i kanten av en äng, en damcykel står lutad mot en gammal ek, jag sätter mig påcykeln och trampar bort ... sen vaknar jag.
 ::: indent
 En damcykel?
 :::
@@ -577,7 +577,7 @@ En damcykel?
 Var det Sveas?
 :::
 
-Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samlingsvolym *”Den skrattretande teatern”*.Ämnet ligger mig inte såspeciellt varmt om hjärtat längre, men Gösta är en av initiativtagarna såjag ställer upp. Möjligen finns det elever påskolan som är nyfikna. Jag kallar texten *”Om satir”*, helt enkelt, ochåteranvänder en del tidigare slutsatser:
+Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samlingsvolym *”Den skrattretande teatern”*. Ämnet ligger mig inte såspeciellt varmt om hjärtat längre, men Gösta är en av initiativtagarna så jag ställer upp. Möjligen finns det elever påskolan som är nyfikna. Jag kallar texten *”Om satir”*, helt enkelt, och återanvänder en del tidigare slutsatser:
 
 **”Sann satir har ett enda uppdrag: att genom groteskt förlöjligande demaskera och blottlägga ovärdiga makthavare och offentliga lögner - den har ett politiskt syfte.**
 <!-- PAGE 256 END -->
@@ -606,7 +606,7 @@ Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samli
 Dagen efter dör han.
 :::
 
-![224.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/224.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/224.png)
 
 Oves aska sprids på Kanholmsfjärden i Stockholms skärgård, i närheten av hans hem på Runmarö. Några dagar efter ceremonin påhavet samlas hans närmaste släkt och vänner i hans vardagsrum, inrymt iövervåningen på en gammal lada. Tvåav dom är hans son John och hans mamma Maja-Lena, vi har alltid kallat henne Masa. Hon har bett mig säga några ord om Ove.
 ::: indent
@@ -618,7 +618,7 @@ Sagt med samma oreflekterade enkelhet som när jag ombads presentera Dylan på S
 :::
 
 ::: indent
-Dock har jag den här gången ingen större svårighet att komma påvad jag ska prata om - jag har känt Ove sen mitten på60-talet, vi har rest både utrikes och invärtes, jag vet exakt vad och hur mycket jag ska berätta. Just innan jag ska resa mig och börja mitt ” tal ” vill Masa spela en av Ovesälsklingssånger. Det är Ola Magnells *”Vallmoland”*.
+Dock har jag den här gången ingen större svårighet att komma påvad jag ska prata om - jag har känt Ove sen mitten på 60-talet, vi har rest både utrikes och invärtes, jag vet exakt vad och hur mycket jag ska berätta. Just innan jag ska resa mig och börja mitt ”tal” vill Masa spela en av Ovesälsklingssånger. Det är Ola Magnells *”Vallmoland”*.
 :::
 
 Under den andäktiga lyssningen, i ett rum fyllt av sorgsna, tysta människor, känner jag hur det börjar spänna i bröstet, hur jag får svälja upprepade gånger, hur texten och melodin rammar mig rakt i magen. Eller hjärtat. När sången är slut reser jag mig, harklar mig och vet inte vad jag ska säga. Jag famlar några sekunder efter ord, kommer inte ihåg hur jag hade tänkt börja, säger några improviserade saker och hör hur rösten brister.
@@ -637,16 +637,16 @@ Efteråt går jag ut för att fåluft, svalka ner blodet. Och tänker: musik är
 
 <!-- PAGE 258 START -->
 ::: indent
-Några ord om mannen som sänkte mig: Enligt min uppfattning går Ola Magnell i bredd med Bellman, Taube och Cornelis. I vistraditionen. Hans ordkonst är suverän, hans melodier är såriga och uthängda. Idag är han själv död. En marterad människa med djupt liggandeögon. Vi hade bra kontakt under någraår, han gjorde en fantastisk version av Cornelis sång ” *Till Fatumeh* ” i vår tv-serie ” *Sista Skriket* ”. Innan han dog gav han ut en bok med titeln ” *Ord och inga visor* ”.
+Några ord om mannen som sänkte mig: Enligt min uppfattning går Ola Magnell i bredd med Bellman, Taube och Cornelis. I vistraditionen. Hans ordkonst är suverän, hans melodier är såriga och uthängda. Idag är han själv död. En marterad människa med djupt liggandeögon. Vi hade bra kontakt under någraår, han gjorde en fantastisk version av Cornelis sång ”*Till Fatumeh*”i vår tv-serie”*Sista Skriket*”. Innan han dog gav han ut en bok med titeln ”*Ord och inga visor*”.
 :::
 
 ::: indent
 Den rekommenderas starkt.
 :::
 
-När viändå är inne påbegravningar: Min aska kommer också att spridas på Kanholmsfjärden. Egentligen vill jag begravas på en uteservering, gärna på en bakgata med släpsol mellan fasaderna och en iskallöl påbordet, jag tror att min själ skulle uppskatta det. Men nu blir det Kanholmsfjärden, som jag har korsat ett otal gånger i turbulenta väderlag. Möjligen finns Ove kvar nere i djupet, möjligen kan det inspirera Magnell i hans himmel till en sång om Bröderna Aska.
+När vi ändå är inne påbegravningar: Min aska kommer också att spridas på Kanholmsfjärden. Egentligen vill jag begravas på en uteservering, gärna på en bakgata med släpsol mellan fasaderna och en iskallöl på bordet, jag tror att min själ skulle uppskatta det. Men nu blir det Kanholmsfjärden, som jag har korsat ett otal gånger i turbulenta väderlag. Möjligen finns Ove kvar nere i djupet, möjligen kan det inspirera Magnell i hans himmel till en sång om Bröderna Aska.
 
-Cilla och jag har underårens lopp kontaktats av diverse förlag som har föreslagit att vi ska skriva kriminalromaner. Vi har inte haft tid. Vi har dessutom trivts väldigt bra med att skriva film- och tv-manus. Nu har vi tröttnat på det (jag merän Cilla, för mig är manusskrivandet ett avslutat kapitel). Vi har ocksåkontaktats av olika agenturer i samma syfte. Nu tar vi själv kontakt med en av dom. Grand Agency. Den drivs av Lena Stjernström tillsammans med bland annat hennes man Peter. Cilla och Lena känner varandra sen gymnasietiden, sådet blir ett naturligt val för oss. Vi förklarar vad vi vill göra och Lena förklarar vad hon behöver för att kontakta olika förlag: ett längre synops som visar att vi kan skriva ” litterärt ” och inte enbart manus.
+Cilla och jag har underårens lopp kontaktats av diverse förlag som har föreslagit att vi ska skriva kriminalromaner. Vi har inte haft tid. Vi har dessutom trivts väldigt bra med att skriva film- och tv-manus. Nu har vi tröttnat på det (jag merän Cilla, för mig är manusskrivandet ett avslutat kapitel). Vi har ocksåkontaktats av olika agenturer i samma syfte. Nu tar vi själv kontakt med en av dom. Grand Agency. Den drivs av Lena Stjernström tillsammans med bland annat hennes man Peter. Cilla och Lena känner varandra sen gymnasietiden, så det blir ett naturligt val för oss. Vi förklarar vad vi vill göra och Lena förklarar vad hon behöver för att kontakta olika förlag: ett längre synops som visar att vi kan skriva ”litterärt”och inte enbart manus.
 ::: indent
 Att vi har ett eget språk.
 :::
@@ -669,7 +669,7 @@ Nuär det bara att börja skriva.
 
 En egen deckare.
 ::: indent
-För mig är det här skrivandet oerhört lustfyllt. Jag känner att jagäntligen har hittat hem.Ända sen jag plöjde mina föräldrars Manhattan-serie med amerikansk pulp fiction, kiosklitteratur, har jag vetat, innerst inne, att det är här jag vill hamna. Bland Mickey Spillane, Peter Cheney, James Hadley Chase och Ed McBain. Författare med raka, råa och enkla berättelser om ondska, hjältar och monster. Kryddade med svart humor och samhällskritik.
+För mig är det här skrivandet oerhört lustfyllt. Jag känner att jag äntligen har hittat hem. Ända sen jag plöjde mina föräldrars Manhattan-serie med amerikansk pulp fiction, kiosklitteratur, har jag vetat, innerst inne, att det är här jag vill hamna. Bland Mickey Spillane, Peter Cheney, James Hadley Chase och Ed McBain. Författare med raka, råa och enkla berättelser om ondska, hjältar och monster. Kryddade med svart humor och samhällskritik.
 :::
 
 ::: indent
@@ -682,24 +682,24 @@ Det är ocksåextra roligt att göra det med Cilla. Vi kompletterar varann utmä
 <!-- PAGE 258 END -->
 
 <!-- PAGE 259 START -->
-Det första vi gör är att ringa in vilka huvudpersoner vi vill skriva om. Vi är, som det heter, hjärtligt trötta på den konventionella deckarmodellen, ett antal poliser i ett rum som får ett mord påbordet och ska lösa det (vi har sysslat med det scenariot i ett oändligt antal tv-historier vid det här laget). Vi vill skapa en grupp individer som inte har så mycket gemensamt med varandra i början.
+Det första vi gör är att ringa in vilka huvudpersoner vi vill skriva om. Vi är, som det heter, hjärtligt trötta på den konventionella deckarmodellen, ett antal poliser i ett rum som får ett mord på bordet och ska lösa det (vi har sysslat med det scenariot i ett oändligt antal tv-historier vid det här laget). Vi vill skapa en grupp individer som inte har så mycket gemensamt med varandra i början.
 ::: indent
 På nåt som helst plan.
 :::
 
 ::: indent
-Vi vill bygga upp gruppen ungef är som vi gjorde i tv-serien ” *Graven* ”.
+Vi vill bygga upp gruppen ungef är som vi gjorde i tv-serien”*Graven*”.
 :::
 
 ::: indent
-Resultatet blir en ung polisaspirant, Olivia Rönning, en äldre hemlös uteliggare, Tom Stilton, en croupier med ett kriminellt förflutet, Abbas el Fassi, och en ” riktig ” polis, kriminalkommissarien Mette Olsäter. Vi vill ocksåha ett par medspelare till gruppen. En pensionerad barnpsykolog, Mårten Olsäter, gift med Mette, och en usel tjallare som lystrar till namnet Minken och har en privat pipeline från Colombia rakt in i näsan.
+Resultatet blir en ung polisaspirant, Olivia Rönning, en äldre hemlös uteliggare, Tom Stilton, en croupier med ett kriminellt förflutet, Abbas el Fassi, och en ”riktig”polis, kriminalkommissarien Mette Olsäter. Vi vill ocksåha ett par medspelare till gruppen. En pensionerad barnpsykolog, Mårten Olsäter, gift med Mette, och en usel tjallare som lystrar till namnet Minken och har en privat pipeline från Colombia rakt in i näsan.
 :::
 
 ::: indent
 Med den uppsättningen karaktärer vet vi att det kan bli inspirerande att skriva tre böcker. Gruppen innehåller tillräckligt många oanade lucköppningar, både för oss som författare och för läsarna (fortfarande idag, när vi just är klara med den sjätte boken, är vår nyfikenhet påkaraktärerna nästan oförändrad).
 :::
 
-Det andra vi gör är att hitta ettämne som vi kan gåigång på. Vi bestämmer oss för att skriva ” i realtid ”, dvs att bokens handling ska utspela sig under den tid vi skriver. Just när vi ska börja skissa på vår berättelse kommer ett antal artiklar om Lundin Oil och deras härjningar i Afrika, hur dom hänsynslöst exploaterar markområden i sin jakt pålukrativa batterimineraler. Och på vägen kränker alla mänskliga rättigheter som finns, inkluderande mord och tvångs för flyttningar.
+Det andra vi gör är att hitta ett ämne som vi kan gåigång på. Vi bestämmer oss för att skriva”i realtid”, dvs att bokens handling ska utspela sig under den tid vi skriver. Just när vi ska börja skissa på vår berättelse kommer ett antal artiklar om Lundin Oil och deras härjningar i Afrika, hur dom hänsynslöst exploaterar markområden i sin jakt pålukrativa batterimineraler. Och på vägen kränker alla mänskliga rättigheter som finns, inkluderande mord och tvångs för flyttningar.
 ::: indent
 Det blir utgångspunkten för vår första berättelse.
 :::
@@ -710,7 +710,7 @@ Vi vet att deckare generellt kräver en kraftig gåta i början. Ju större gåt
 :::
 
 ::: indent
-Den första boken inleder vi med ett mycket brutalt mord. Inte blodigt, men grymt. En kvinna grävs ner i havsbotten utanför enöpå Nordkoster, endast hennes huvud sticker upp. Gärningsmännen står påstranden och inväntar tidvattnet, som sakta dränker kvinnan.
+Den första boken inleder vi med ett mycket brutalt mord. Inte blodigt, men grymt. En kvinna grävs ner i havsbotten utanför en öpå Nordkoster, endast hennes huvud sticker upp. Gärningsmännen står på stranden och inväntar tidvattnet, som sakta dränker kvinnan.
 :::
 
 ::: indent
@@ -718,32 +718,32 @@ Hon är dessutom med barn.
 :::
 
 ::: indent
-Idén kom från inledningen på vår skröna ” *Georg von Ingenting* ”, då en komisk scen, nu omgjord till en tortyrliknande avrättning.
+Idén kom från inledningen på vår skröna ”*Georg von Ingenting*”, då en komisk scen, nu omgjord till en tortyrliknande avrättning.
 :::
 
 ::: indent
 Boken tar tre månader att skriva.
 :::
 
-Som jag nämnt tidigare är vår första titel påboken ” *Varför saknade ingen Adelita Rivera?* ” Det fäster inte påförlaget. Så småningom enas vi om ” *Springfloden”**.*
+Som jag nämnt tidigare är vår första titel påboken ”*Varför saknade ingen Adelita Rivera?*”Det fäster inte påförlaget. Så småningom enas vi om” *Springfloden”**.*
 
 Boken kommer ut 2011 och vår agent Lena Stjernström lyckas sälja den till 35 länder runt om i världen.
 
-![274.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
 
 Roligaste utländska boken: Den kinesiska, där historien börjar påsista sidan och texten står rakt upp och ner i kryptiska kolumner.
 
-![284.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/284.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/284.png)
 <!-- PAGE 259 END -->
 
 <!-- PAGE 260 START -->
-Näst roligast: De länder där dom har egna varianter på våra efternamn. Ibland heter vi ” Börlindovski ”, ibland totalt otolkbara namn. ” Björling ” känns helt ok i det perspektivet.
+Näst roligast: De länder där dom har egna varianter på våra efternamn. Ibland heter vi ”Börlindovski”, ibland totalt otolkbara namn. ”Björling”känns helt ok i det perspektivet.
 
-![701.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/701.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/701.jpeg)
 
-![702.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/702.png)
+![Min dotter Sari fyndar i Belgrad.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/702.png)
 
-Att skriva och ge ut en bok, en deckare, får konsekvenser som vi inte är riktigt beredda på. Vi har legat i mediaskugga mycket länge, mycket medvetet, den biten av offentlighet är vi totalt ointresserade av. Nu tvingas vi ut i ljuset. Det handlar om marknads för ing. Det handlar om attåka runt på Bokens Dag och prata om vår bok, att uppträda i olika sammanhang med andra författare, att befinna sig påbibliotek medåtta välvilligaäldre damer, i teatersalonger med 400 personer och taskig medhörning och påkrimfestivaler.
+Att skriva och ge ut en bok, en deckare, får konsekvenser som vi inte är riktigt beredda på. Vi har legat i mediaskugga mycket länge, mycket medvetet, den biten av offentlighet är vi totalt ointresserade av. Nu tvingas vi ut i ljuset. Det handlar om marknads för ing. Det handlar om att åka runt på Bokens Dag och prata om vår bok, att uppträda i olika sammanhang med andra författare, att befinna sig påbibliotek med åtta välvilligaäldre damer, i teatersalonger med 400 personer och taskig medhörning och påkrimfestivaler.
 ::: indent
 Jag har inte såstort problem med det, jag har ett tillräckligt svullet ego för att hantera publika framträdanden, men Cilla har svårare (över tid, efter snart tioår, äräven hon tämligen bekväm med situationen).
 :::
@@ -761,7 +761,7 @@ Och lite över rumplande.
 :::
 
 ::: indent
-Och jag tänker: Om manus författarna i det här landet skulle fåsamma respons och samma uppskattning för det dom gör, om deras verk skulle skattas lika högt som en deckar författares, hur mycket skulle det påverka nivån påsvensk film? Inte minst eftersom tv-serier mer och mer börjar betraktas som ” litterära berättelser ” ... vår tids ” romaner ”.
+Och jag tänker: Om manus författarna i det här landet skulle fåsamma respons och samma uppskattning för det dom gör, om deras verk skulle skattas lika högt som en deckar författares, hur mycket skulle det påverka nivån påsvensk film? Inte minst eftersom tv-serier mer och mer börjar betraktas som”litterära berättelser”... vår tids”romaner”.
 :::
 
 Vanligaste frågan vi får i offentliga sammanhang:
@@ -827,11 +827,11 @@ Kanske hade han skrivkramp.
 
 Dom följandeåren skriver vi ytterligare fem böcker.
 
-![329.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/329.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/329.png)
 
-Tematisk om våra böcker: Vi försöker hitta över gripandeämnen som berör oss just när vi ska börja skriva, en tändvätska. Första boken, ” *Springfloden* ”,  handlade om Lundin Oils över grepp i Afrika, som jag nämnt.
+Tematisk om våra böcker: Vi försöker hitta över gripandeämnen som berör oss just när vi ska börja skriva, en tändvätska. Första boken, ”*Springfloden*”,  handlade om Lundin Oils över grepp i Afrika, som jag nämnt.
 ::: indent
-Andra boken, ” *Den tredje rösten* ”, handlar om ett nätfenomen som är ovanligtäckligt, nämligen det faktum att du kan sitta i Sverige, framför en datorskärm, och betrakta en våldtäkt på ett minderårigt barn i till exempel Asien, beställd av dig själv. I realtid.
+Andra boken, ”*Den tredje rösten*”, handlar om ett nätfenomen som är ovanligtäckligt, nämligen det faktum att du kan sitta i Sverige, framför en datorskärm, och betrakta en våldtäkt på ett minderårigt barn i till exempel Asien, beställd av dig själv. I realtid.
 :::
 
 ::: indent
@@ -839,11 +839,11 @@ Sidohistorien är ett mord på en prostituerad i Marseille, som visar sig vara l
 :::
 
 ::: indent
-Tredje boken, ” *Svart Gryning* ”, ägnar vi ossåt mörkermännens frammarsch i Sverige, rasistgyttjan som tränger in mer och mer. Sverigedemokraternasökande inflytande skrämmer oss och vi försöker visa konsekvenserna av det.
+Tredje boken, ”*Svart Gryning*”, ägnar vi ossåt mörkermännens frammarsch i Sverige, rasistgyttjan som tränger in mer och mer. Sverigedemokraternasökande inflytande skrämmer oss och vi försöker visa konsekvenserna av det.
 :::
 
 ::: indent
-Fjärde boken, ” *Sov du lilla videung * ”, skriver sig själv. Vi påbörjar den mitt under den gigantiska flyktingströmmen in i Sverige 2015 och vill visa vilka fruktansvärda konsekvenser strömmen kan få. Inte minst för ensamkommande barn.
+Fjärde boken, ”*Sov du lilla videung *”, skriver sig själv. Vi påbörjar den mitt under den gigantiska flyktingströmmen in i Sverige 2015 och vill visa vilka fruktansvärda konsekvenser strömmen kan få. Inte minst för ensamkommande barn.
 :::
 
 ::: indent
@@ -851,16 +851,16 @@ Vi får stor inspiration av journalisten Magda Gads brutala reportage från den 
 :::
 
 ::: indent
-Udda konstruktionsdetalj i ” *Sov du lilla videung* ”: Vi låter boken inledas med en nästan 20 sidor lång mininovell. Först när läsarna når sista sidan i boken framgår det att inledningen är avslutningen påberättelsen.
+Udda konstruktionsdetalj i ”*Sov du lilla videung*”: Vi låter boken inledas med en nästan 20 sidor lång mininovell. Först när läsarna når sista sidan i boken framgår det att inledningen är avslutningen påberättelsen.
 :::
 <!-- PAGE 261 END -->
 
 <!-- PAGE 262 START -->
-![518.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
 
-Femte boken, ” *Kallbrand* ”, skrivs i efterdyningarna av terrordå det på Drottninggatan. Det är en bok som fokuserar påhur långt en pedofil är beredd att gåför att rädda sitt eget skinn. Väldigt långt, visar det sig.
+Femte boken, ”*Kallbrand*”, skrivs i efterdyningarna av terrordå det på Drottninggatan. Det är en bok som fokuserar påhur långt en pedofil är beredd att gåför att rädda sitt eget skinn. Väldigt långt, visar det sig.
 ::: indent
-Parentes: Inför den femte boken kom vi påtiteln först, ” *Kallbrand* ”, våra förläggare tände på den och såfick vi konstruera en historia som gav täckning för titeln.
+Parentes: Inför den femte boken kom vi påtiteln först, ”*Kallbrand*”, våra förläggare tände på den och såfick vi konstruera en historia som gav täckning för titeln.
 :::
 
 ::: indent
@@ -868,16 +868,16 @@ Såkan det ocksågåtill.
 :::
 
 ::: indent
-Den sjätte boken, ” *Fruset guld* ”, har tvåunderliggande teman: klimat förändringarna och kärnkraftsproblematiken. Sidolinjerna berör psykisk ohälsa och en maktmänniskans desperata försök att dölja det förflutna.
+Den sjätte boken, ”*Fruset guld*”, har tvåunderliggande teman: klimat förändringarna och kärnkraftsproblematiken. Sidolinjerna berör psykisk ohälsa och en maktmänniskans desperata försök att dölja det förflutna.
 :::
 
-” Politiskt korrekta ” romaner? Absolut. En vanligt förekommande kommentar om våra böckerär: ” *Jag orkar inte med författare som ska skriva mig på näsan med sina politiska åsikter, eller komiker heller, för den delen*. ”
+”Politiskt korrekta”romaner? Absolut. En vanligt förekommande kommentar om våra böckerär:”*Jag orkar inte med författare som ska skriva mig på näsan med sina politiska åsikter, eller komiker heller, för den delen*.”
 ::: indent
 Good luck.
 :::
 
 ::: indent
-Att våra ställningstaganden i böckerna väcker läsarreaktioner är både begripligt ochönskvärt, även om det i viss utsträckning drabbar vår försäljning - till exempel är förmodligen en femtedel av våra potentiella läsare sverigedemokrater. Dom är nog inte såförtjusta i det här stycket ur *”Fruset guld”*:
+Att våra ställningstaganden i böckerna väcker läsarreaktioner är både begripligt och önskvärt, även om det i viss utsträckning drabbar vår försäljning - till exempel är förmodligen en femtedel av våra potentiella läsare sverigedemokrater. Dom är nog inte såförtjusta i det här stycket ur *”Fruset guld”*:
 :::
 
 **”Mårten hade tillbringat ett antal timmar nere i källaren i natt, i musikrummet, med extremt hög puls. Orsaken var mörkret. Det mörker som enligt honom sänkte sig över den här nationen just nu. Bush Thor hade fraterniserat med Jimmie Åkesson. Ätit lunch, som omskrivningen var. Sverigedemokraterna var på väg att bli lika stora som sossarna, förtroendet för Åkesson var högst bland alla partiledare.**
@@ -932,11 +932,11 @@ Att våra ställningstaganden i böckerna väcker läsarreaktioner är både beg
 
 Skriva pånäsor är inte helt oangenämt.
 
-![5225.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5225.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5225.jpg)
 
-Det häråret dör Lena Nyman, i februari, efter en längre tids sjukdom. Vi har inte haft nån närmare kontakt sen hennes medverkan i ” Sista Skriket ”, men hennes bortgång skapar en bro till det förflutna. Till dygnen när vi satt på Mallorca och drack vin och pratade om ” Morrhår &Ärtor ”. Hennes särpräglade gestaltnings för måga i alla olika roller i ” Sista Skriket ” sitter kvar. Hennes djupa inlevelse i den text jag skrev till henne, talet till en dotter som hon aldrig fick. Här framför hon den till en samuraj-akt av Stefan Sauk:
+Det häråret dör Lena Nyman, i februari, efter en längre tids sjukdom. Vi har inte haft nån närmare kontakt sen hennes medverkan i ”Sista Skriket”, men hennes bortgång skapar en bro till det förflutna. Till dygnen när vi satt på Mallorca och drack vin och pratade om ”Morrhår &Ärtor”. Hennes särpräglade gestaltnings för måga i alla olika roller i ”Sista Skriket”sitter kvar. Hennes djupa inlevelse i den text jag skrev till henne, talet till en dotter som hon aldrig fick. Här framför hon den till en samuraj-akt av Stefan Sauk:
 
-Såfyller jag 70år och gör en resa igen (att resa är en respons på min isbjörnsläggning, jag måste ut ibland). Den här gången går resan till byn Bassano del Grappa, nedanför berget Monte Grappa. Jagåker dit med Cilla och våra nära vännerÅsa och Timo (jag har fått resan av dom i 70-årspresent). När jag går in i en liten bokhandel leder det ena till det andra: det ena till att jag får veta att det finns andra författare som har bott i den här lilla hålan, författare med internationella vingar. Scott Fitzgerald. Dos Passos. Hemingway, som skrev delar av ” *Farväl till vapnen* ” här. Jag har ingen aning om det. Förmodligen var det grappan som drog dom hit. Eller stadens marterade förflutna.
+Såfyller jag 70 år och gör en resa igen (att resa är en respons på min isbjörnsläggning, jag måste ut ibland). Den här gången går resan till byn Bassano del Grappa, nedanför berget Monte Grappa. Jagåker dit med Cilla och våra nära vännerÅsa och Timo (jag har fått resan av dom i 70-årspresent). När jag går in i en liten bokhandel leder det ena till det andra: det ena till att jag får veta att det finns andra författare som har bott i den här lilla hålan, författare med internationella vingar. Scott Fitzgerald. Dos Passos. Hemingway, som skrev delar av”*Farväl till vapnen*” här. Jag har ingen aning om det. Förmodligen var det grappan som drog dom hit. Eller stadens marterade förflutna.
 ::: indent
 Det är det andra jag får veta.
 :::
@@ -954,7 +954,7 @@ Vi går längs allén. På varje träd sitter ett litet foto av, eller en inskri
 :::
 
 ::: indent
-En son, enälskare eller en familjefar.
+En son, en älskare eller en familjefar.
 :::
 
 ::: indent
@@ -962,11 +962,11 @@ Kuslig promenad.
 :::
 
 ::: indent
-Återigen påminns jag om hur förskonade vi är från det makabra förflutna, det som ligger såtätt intill.
+Återigen påminns jag om hur förskonade vi är från det makabra förflutna, det som ligger så tätt intill.
 :::
 
 ::: indent
-200år utan krig?
+200 år utan krig?
 :::
 
 ::: indent
@@ -993,13 +993,13 @@ Så vi dricker byns goda drycker och låter det förflutna sjunka ner i det ment
 – Det som händer hela tiden, människor dödar varann.
 :::
 
-” Jag är färdig med manusskrivande ”.
+”Jag är färdig med manusskrivande”.
 ::: indent
 En replik som jag upprepar ett antal gånger efter det att Cilla och jag är klara med Arne Dahl-serien och börjar skriva egna böcker. Och det är inte läppluft. Jag är genuint ointresserad av att skriva fler film- och tv-manus. Inte för skrivandet i sig, utan för allt strul i processen. Alla komplikationer, alla kapningar av min egen vision.
 :::
 
 ::: indent
-Det är så här: När du skriver ett manus, när du går in i en scen med levande människor i en dramatisk konflikt, sålägger du ner dig själv i den konflikten, dina känslor, dina reaktioner, ditt språk. Det är en kreativ förlossning. Du vill inte att det ska sluta i ett missfall. Har det gjort det för många gånger såkänner du att det är vettigare att befrukta andra sammanhang. Där du bestämmer att barnet ska födas och se exakt ut såsom du har beskrivit det. Som i en bok.
+Det är så här: När du skriver ett manus, när du går in i en scen med levande människor i en dramatisk konflikt, så lägger du ner dig själv i den konflikten, dina känslor, dina reaktioner, ditt språk. Det är en kreativ förlossning. Du vill inte att det ska sluta i ett missfall. Har det gjort det för många gånger såkänner du att det är vettigare att befrukta andra sammanhang. Där du bestämmer att barnet ska födas och se exakt ut såsom du har beskrivit det. Som i en bok.
 :::
 
 ::: indent
@@ -1009,7 +1009,7 @@ Missfall tär pålusten.
 
 <!-- PAGE 264 START -->
 ::: indent
-Sånär Lasse Blomgren får SVT att gåin i en samproduktion om en ny tv-serie baserad på vår bok ” *Springfloden* ”är det kluvet för mig. Jag tycker det är roligt om vår bok blir tv-serie, det är trots allt skillnad påhundratusen bokläsare och en miljon tv-tittare. Det kluvna ligger i att Blomgren vill att vi själva skriver manuset till serien.
+Sånär Lasse Blomgren får SVT att gåin i en samproduktion om en ny tv-serie baserad på vår bok ”*Springfloden*”är det kluvet för mig. Jag tycker det är roligt om vår bok blir tv-serie, det är trots allt skillnad påhundratusen bokläsare och en miljon tv-tittare. Det kluvna ligger i att Blomgren vill att vi själva skriver manuset till serien.
 :::
 
 ::: indent
@@ -1021,14 +1021,14 @@ Det är Cilla som kommenterar. Varför ska andra manus författare skriva manus 
 :::
 
 ::: indent
-Så jag backar in i manusfållan igen och skriver manuset till ” *Springfloden* ” ihop med Cilla.
+Så jag backar in i manusfållan igen och skriver manuset till ”*Springfloden*”ihop med Cilla.
 :::
 
-![274.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
 
-Parentes om Minken: Han är ursprungligen tänkt som en form av side-kick, ungef är som Grannen i Beck, en gestalt som kommer in från fel håll. Det fungerar bra i den första boken, i den andra drar vi ner på honom. Vi tycker inte han fyller den funktion vi har tänkt. Såkommer tv-serien ” *Springfloden* ”, där Minken gestaltas på ett fullständigt kongenialt sätt av skådespelaren Johan Widerberg. Och tränger ut ordentligt genom rutan.
+Parentes om Minken: Han är ursprungligen tänkt som en form av side-kick, ungef är som Grannen i Beck, en gestalt som kommer in från fel håll. Det fungerar bra i den första boken, i den andra drar vi ner på honom. Vi tycker inte han fyller den funktion vi har tänkt. Såkommer tv-serien”*Springfloden*”, där Minken gestaltas på ett fullständigt kongenialt sätt av skådespelaren Johan Widerberg. Och tränger ut ordentligt genom rutan.
 
-Vi inser att vi måste vårda Minken lite mer ochökar hans utrymme i den tredje boken - en intressant växelverkan mellan bok och tv-serie.
+Vi inser att vi måste vårda Minken lite mer och ökar hans utrymme i den tredje boken - en intressant växelverkan mellan bok och tv-serie.
 ::: indent
 Minne från förproduktionen: Vi diskuterar val av skådespelare till en av huvudrollerna, Tom Stilton, uteliggaren. Blomgren föreslår att han ska kontakta Peter Stormare. Och gör så. Stormare läser manuset, blir taggad och kommer till Stockholm. Han inackorderas på hotell Diplomat på Strandvägen.
 :::
@@ -1046,7 +1046,7 @@ Jag nickar och anar, merän jag vet (jag är ingen kiromantiker): det här med S
 :::
 
 ::: indent
-Vilket det inte gör. Han visar sig fullständigt omöjlig att samarbeta med. Inte bara manusmässigt. Producenten för projektet, Francy Suntinger, får till slut nog av Stormares attityd. Droppen är förmodligen när han skriver ett upprört brev till Blomgren: ” DEN HÄR PRODUKTIONEN SAKNAR EN KAPTEN PÅSKUTAN! ” Han använder versaler och syftar på Suntinger. En odör av misogyna drag anas.
+Vilket det inte gör. Han visar sig fullständigt omöjlig att samarbeta med. Inte bara manusmässigt. Producenten för projektet, Francy Suntinger, får till slut nog av Stormares attityd. Droppen är förmodligen när han skriver ett upprört brev till Blomgren: ”DEN HÄR PRODUKTIONEN SAKNAR EN KAPTEN PÅSKUTAN!”Han använder versaler och syftar på Suntinger. En odör av misogyna drag anas.
 :::
 
 ::: indent
@@ -1088,7 +1088,7 @@ På tal om Kjelle: förutom att han är den han är och det är han, alltid, så
 Dessutom är han barnsligt förtjust i varm korv.
 :::
 
-Sidoprojekt, för att krydda tillvaron lite: Vi kontaktas av förläggaren John-Henri Holmberg. Han ska sammanställa en antologi med nyskrivna deckarnoveller för den amerikanska marknaden och vill att vi medverkar. Vi har aldrig skrivit i novellform tidigare, men tackar ja (ny mark igen). Resultatet blir novellen ” *Sitt hår tyckte han om* ”. Den handlar om en man som lider av en dissociativ identitetsstörning ochägnar nätternaåt obehagliga mord.
+Sidoprojekt, för att krydda tillvaron lite: Vi kontaktas av förläggaren John-Henri Holmberg. Han ska sammanställa en antologi med nyskrivna deckarnoveller för den amerikanska marknaden och vill att vi medverkar. Vi har aldrig skrivit i novellform tidigare, men tackar ja (ny mark igen). Resultatet blir novellen”*Sitt hår tyckte han om*”. Den handlar om en man som lider av en dissociativ identitetsstörning och ägnar nätternaåt obehagliga mord.
 ::: indent
 Den inleds så här:
 :::
@@ -1101,11 +1101,11 @@ Den inleds så här:
 
 **     Det, och stegandet.”**
 
-Novellen publiceras senareäven i den svenska antologin ” *Svart Lucia* ” och ges ocksåut i bokform av Bokfabriken i Malmö.
+Novellen publiceras senareäven i den svenska antologin ”*Svart Lucia*” och ges ocksåut i bokform av Bokfabriken i Malmö.
 
-” *The Night of ... * ”
+”*The Night of ... *”
 ::: indent
-En amerikansk tv-serie som imponerar oerhört på mig. Vi följer den andäktigt, lysande skådespelare, brutal intrig (även om det slackar mot slutet, som i princip alla bra tv-serier). Men det är nånting i den här serien som berör mig, som gör att jag fårångest över att aldrig ha kunnat prestera på den här nivån (möjligen ” *Graven* ” undantagen).
+En amerikansk tv-serie som imponerar oerhört på mig. Vi följer den andäktigt, lysande skådespelare, brutal intrig (även om det slackar mot slutet, som i princip alla bra tv-serier). Men det är nånting i den här serien som berör mig, som gör att jag fårångest över att aldrig ha kunnat prestera på den här nivån (möjligen ”*Graven*”undantagen).
 :::
 
 ::: indent
@@ -1113,11 +1113,11 @@ Eller fått medverka i sammanhang där det hade varit möjligt.
 :::
 
 ::: indent
-Serien har just den balans mellan absurd humor och brutala konflikter som jagälskar. Och en gåta i början som är stenspänd.
+Serien har just den balans mellan absurd humor och brutala konflikter som jag älskar. Och en gåta i början som är stenspänd.
 :::
 
 ::: indent
-Annan tv-serie som alltid rinner upp: ” *Den sjungande detektiven* ”. En musikalthriller som gick 1986 med sir Michael Gambion i huvudrollen (förmodligen mest känd som Albus Dumbledore i Harry Potter-serien). Denär skriven av tv-geniet Dennis Potter och handlar om författaren Philip Marlowe, specialist pånoir-deckare. Marlow ligger påsjukhus och behandlas för svår psoriasis, i sina yrselanfall ser han sig själv i en fantasivärld där han agerar som deckar författaren Raymond Chandlers huvudperson Philip Marlowe. Ofta brister han ut i sång i sin yrsel.
+Annan tv-serie som alltid rinner upp:”*Den sjungande detektiven*”. En musikalthriller som gick 1986 med sir Michael Gambion i huvudrollen (förmodligen mest känd som Albus Dumbledore i Harry Potter-serien). Denär skriven av tv-geniet Dennis Potter och handlar om författaren Philip Marlowe, specialist pånoir-deckare. Marlow ligger på sjukhus och behandlas för svår psoriasis, i sina yrselanfall ser han sig själv i en fantasivärld där han agerar som deckar författaren Raymond Chandlers huvudperson Philip Marlowe. Ofta brister han ut i sång i sin yrsel.
 :::
 
 ::: indent
@@ -1144,18 +1144,18 @@ Det är sorgen i att kunna tänka.
 :::
 
 ::: indent
-Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, klyvas i tvåo för sonliga hatblock, påeldat av den man som ska utgöra symbolen för ” världens mäktigaste land ”.
+Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, klyvas i tvåo för sonliga hatblock, påeldat av den man som ska utgöra symbolen för ”världens mäktigaste land”.
 :::
 
 ::: indent
 En man som utarmar det han är satt att förvalta.
 :::
 
-![330.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/330.jpg)
+![CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/330.jpg)
 
 Det är många sätt obegripligt
 ::: indent
-Men så är demokratins spelregler, säger en del. Eller som Carsten sa på70-talet: ” Vi får dom politiker vi förtjänar. ”
+Men så är demokratins spelregler, säger en del. Eller som Carsten sa på 70-talet: ”Vi får dom politiker vi förtjänar.”
 :::
 
 ::: indent
@@ -1186,38 +1186,38 @@ Men skrämmande är det, i all sin blinda och förödande framfart.
 **ny tid nalkas**
 :::
 
-![305.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
 
 Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Ståinte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
 ::: indent
-Och framför allt: odla konsten att orkaälska, när ingenting attälska finns kvar. Odla hoppet om en värdig tillvaro, även när skuggorna ryter i natten.
+Och framför allt: odla konsten att orkaälska, när ingenting att älska finns kvar. Odla hoppet om en värdig tillvaro, även när skuggorna ryter i natten.
 :::
 
 ::: indent
 Dröm gärna, men se er för när ni går över gatan.
 :::
 
-![602.JPEG](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/602.JPEG)
+![Den tredje familjen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/602.JPEG)
 <!-- PAGE 266 END -->
 
 <!-- PAGE 267 START -->
 ---
 
-Arbete igen: Cilla och jag skriver fortsättningen på tv-serien ” *Springfloden* ”. Den kallas av varumärkesskäl för ” *Springfloden 2* ”. Otroligt tråkigt. Den nya serien bygger på vår andra deckare ” *Den tredje rösten* ” och har samma uppsättning skådespelare. Det är hyfsat roligt att skriva den, även för en manustrött person som jag själv. Sammanhanget är roligt, människorna i processen är bra, utfallet blir rimligt.
+Arbete igen: Cilla och jag skriver fortsättningen på tv-serien ”*Springfloden*”. Den kallas av varumärkesskäl för ”*Springfloden 2*”. Otroligt tråkigt. Den nya serien bygger på vår andra deckare ”*Den tredje rösten*”och har samma uppsättning skådespelare. Det är hyfsat roligt att skriva den, även för en manustrött person som jag själv. Sammanhanget är roligt, människorna i processen är bra, utfallet blir rimligt.
 ::: indent
-Av olika skäl blir det ingen ” *Springfloden 3* ”.
+Av olika skäl blir det ingen”*Springfloden 3*”.
 :::
 
 ::: indent
 Än så länge.
 :::
 
-Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. Påbetongpuckeln nedanför Bellmansgatan har någon sprejat: ” *Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.* ”. Det är 39år sen jag skrev det i ” *Persona Non Grata* ”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
+Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. Påbetongpuckeln nedanför Bellmansgatan har någon sprejat: ”*Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.*”. Det är 39 år sen jag skrev det i ”*Persona Non Grata*”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
 ::: indent
 Nån ordning får det vara.
 :::
 
-Såblir det ett nyttår, 2017, och ett nytt dödsfall, av den sort som känns för tidigt och för fel och för jävligt. Gösta Ekman dör, i april, efter en tids sjukdom. Hanåterhämtar sig aldrig helt från den cancer som sänkte honom någraår tidigare. Hans fru Marie-Louise Ekman har skrivit en säregen och gripande rapportbok från den perioden, ” *Få se om hundarna är snälla ikväll *... ”. Jag orkar bara läsa en tredjedel av boken, den kommer för nära.
+Såblir det ett nyttår, 2017, och ett nytt dödsfall, av den sort som känns för tidigt och för fel och för jävligt. Gösta Ekman dör, i april, efter en tids sjukdom. Hanåterhämtar sig aldrig helt från den cancer som sänkte honom någraår tidigare. Hans fru Marie-Louise Ekman har skrivit en säregen och gripande rapportbok från den perioden, ”*Få se om hundarna är snälla ikväll *...”. Jag orkar bara läsa en tredjedel av boken, den kommer för nära.
 ::: indent
 Jag kommer att fullfölja den, både av respekt för Marie-Louise och för Gösta, men i sinom.
 :::
@@ -1227,7 +1227,7 @@ Gösta är död.
 :::
 
 ::: indent
-En ledsagare under såmånga år, en själsfrände, en sparringpartner, en kompis. Jag går på hans begravning i Katarina kyrka. Det är en värdig tillställning, långt från det jag upplevde när Carsten begravdes. Prästen talar inkännande på ett sätt som är trovärdigt, som om han faktiskt hade känt Gösta personligen (vilket han hade). Defileringen förbi kistan tar lång tid, Gösta har berört och arbetat med otroligt många begåvade människor genomåren. Många av dom är här.
+En ledsagare under så många år, en själsfrände, en sparringpartner, en kompis. Jag går på hans begravning i Katarina kyrka. Det är en värdig tillställning, långt från det jag upplevde när Carsten begravdes. Prästen talar inkännande på ett sätt som är trovärdigt, som om han faktiskt hade känt Gösta personligen (vilket han hade). Defileringen förbi kistan tar lång tid, Gösta har berört och arbetat med otroligt många begåvade människor genomåren. Många av dom är här.
 :::
 
 ::: indent
@@ -1249,14 +1249,14 @@ Så jag förklarade:
 
 <!-- PAGE 268 START -->
 ::: indent
-Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par småkoltrastar påfönsterblecket, ocksåi brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog småkoltrastar påfönsterblecket.
+Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par småkoltrastar på fönsterblecket, ocksåi brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog småkoltrastar på fönsterblecket.
 :::
 
 ::: indent
 Såkan ocksåkärlek uttryckas.
 :::
 
-Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest påhänderna. Du ritade med händerna, småskisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var varma, dom gånger du la högerhanden ovan på min vänsterhand och tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var över ens. Det var vi nog, oftast. Dina händer sträckte sig ibland mot böcker, bokryggar, titlar från världens alla hörn och jag fick en bok i knät. Behåll den. Du hade nästan alltid tvåexemplar av alla böcker du gillade. Ett för dina egna marginalanteckningar, ett för mindre vetgiriga vänner. Som jag, som sällan läste. Vi pratade inte såofta om kvinnor. Eller gjorde vi det? Jo, det gjorde vi nog, kvinnor ur det förflutna och kvinnor som hade förflyttat oss. Närmast varandra kom vi när vi skrattade, när vi sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom däråren? Jag kom från en spårvagns för are i Malmömed ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, tvåinledningsfraser och sålossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. Påtå, det var sådu förhöjde mig. Kanske inte alltid såkomfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka pådina händer, tvåkrabbor av mjuk längtan, det fanns nåt i dina händer som var såsökande. Som var du.
+Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest påhänderna. Du ritade med händerna, småskisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var varma, dom gånger du la högerhanden ovan på min vänsterhand och tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var över ens. Det var vi nog, oftast. Dina händer sträckte sig ibland mot böcker, bokryggar, titlar från världens alla hörn och jag fick en bok i knät. Behåll den. Du hade nästan alltid tvåexemplar av alla böcker du gillade. Ett för dina egna marginalanteckningar, ett för mindre vetgiriga vänner. Som jag, som sällan läste. Vi pratade inte så ofta om kvinnor. Eller gjorde vi det? Jo, det gjorde vi nog, kvinnor ur det förflutna och kvinnor som hade förflyttat oss. Närmast varandra kom vi när vi skrattade, när vi sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom däråren? Jag kom från en spårvagns för are i Malmömed ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, tvåinledningsfraser och sålossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. Påtå, det var sådu förhöjde mig. Kanske inte alltid såkomfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka pådina händer, tvåkrabbor av mjuk längtan, det fanns nåt i dina händer som var såsökande. Som var du.
 ::: indent
 Mjukt ljus över  en vän.
 :::
@@ -1271,7 +1271,7 @@ Han är bara ytterligare ett exempel påindivider som är uppskruvade i huvudet 
 :::
 
 ::: indent
-Men då det framkallar en ” nationella uppslutning ”. Plötsligt samverkar myndigheter på alla plan. En massiv medial exponering tröstar oss. Får oss att lita på våra myndigheters handlingskraft. Får oss att känna oss delaktiga i en kollektiv tragedi.
+Men då det framkallar en ”nationella uppslutning”. Plötsligt samverkar myndigheter på alla plan. En massiv medial exponering tröstar oss. Får oss att lita på våra myndigheters handlingskraft. Får oss att känna oss delaktiga i en kollektiv tragedi.
 :::
 
 ::: indent
@@ -1291,7 +1291,7 @@ Sexuella över grepp blir påförsvinnande kort tidämnet för alla det häråre
 :::
 
 ::: indent
-Det går att tala om ett före och ett efter ” metoo ”, tror jag.
+Det går att tala om ett före och ett efter ”metoo”, tror jag.
 :::
 
 ::: indent
@@ -1302,9 +1302,9 @@ På många plan.
 Inte minst vad gäller Svenska Akademien, de så kallade aderton. När maken till en av ledamöterna, poeten Katarina Frostensson, anklagas för sexuella över grepp briserar den höglitterära borgen. En unken, misogyn odör väller ut och blottar häpnadsväckande världs från vända och inskränkta människor. Den ständiga sekreteraren Sara Danius, en stark och rättrådig kvinna, anser att akademien måste ta sin del av ansvaret för det inträffade. För detta får hon löpa ett motbjudande gatlopp i media, anfört av ledamoten Horace Engdahl, en hustrumisshandlare med mycket blanka skor - *”Il porco del Nobel”*, som han beskrivs i den italienska tidningen La Repubblica.
 :::
 
- Kontenta: ” Vivören ” och våldtäktsmannen Jean-Claude Arnaultåtalas och fälls för tvåvåldtäkter. Sju ledamöter lämnar akademien i protest mot dess eget agerande, inklusive KlasÖstergren (han gör det mycket elegant, genom att citera Leonard Cohen: ” *I´m leaving the table, I´m out of the game”*). Sara Danius tvingas avgåsom ständig sekreterare, Akademien fråntas rätten att dela utårets Nobelpris och dess rykte blir extremt skamfilat världenöver.
+ Kontenta: ”Vivören”och våldtäktsmannen Jean-Claude Arnaultåtalas och fälls för tvåvåldtäkter. Sju ledamöter lämnar akademien i protest mot dess eget agerande, inklusive KlasÖstergren (han gör det mycket elegant, genom att citera Leonard Cohen:” *I´m leaving the table, I´m out of the game”*). Sara Danius tvingas avgåsom ständig sekreterare, Akademien fråntas rätten att dela utårets Nobelpris och dess rykte blir extremt skamfilat världenöver.
 ::: indent
-Allt på grund av mannen som i många år kallats för ” Janne Klådan ”, en perifer hangaround med ett obegripligt stort inflytande i vissa kretsar.
+Allt på grund av mannen som i många år kallats för ”Janne Klådan”, en perifer hangaround med ett obegripligt stort inflytande i vissa kretsar.
 :::
 
 ::: indent
@@ -1315,11 +1315,11 @@ Metoo-reflektion i efterdyningarna: Hundratusentals kvinnor över hela världen 
 
  Jag tycker det är vämjeligt.
 
-(Fotnot: Idag har hon kommit ut som ” klimat för nekare ”,  en flock för sig.)
+(Fotnot: Idag har hon kommit ut som ”klimat för nekare”,  en flock för sig.)
 
-Såhar vi riksdagsval i vårt land, en nationell begivenhet, inte minst i massmedia. Utfallet blir skrämmande. Sverigedemokraterna blir tredje största parti i Sverige. Det osannolika har passerat det sannolika och blivit ett faktum. Brunskjortorna har färgats blåoch rasismen harändrat förtecken. Nu kallas den ” migrationsproblematik ” och dominerar debatten.
+Såhar vi riksdagsval i vårt land, en nationell begivenhet, inte minst i massmedia. Utfallet blir skrämmande. Sverigedemokraterna blir tredje största parti i Sverige. Det osannolika har passerat det sannolika och blivit ett faktum. Brunskjortorna har färgats blåoch rasismen harändrat förtecken. Nu kallas den ”migrationsproblematik”och dominerar debatten.
 
-![252.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
 
 Skrämmande.
 
@@ -1335,7 +1335,7 @@ Skrämmande.
 **...**
 :::
 
-Dåen obehaglig föraning, 41år senare en brutal verklighet. Som väldigt fåbjuder motstånd. Jag kan sakna Olof Palme i det här läget. Hans blixtrande intellekt, hans hetta och skoningslösa retorik hade gjort kebab av JimmieÅkesson. Istället bjuds den skånske kameleonten pålunch och smicker i högeranfrätta finrum medan hans bulvaner går runt och misshandlar folk med järnrör och påstår att samer inte är svenskar och vill ståpå Öresundsbron och skjuta ankommande flyktingar och skrika ” segra eller d ö”!
+Dåen obehaglig föraning, 41 år senare en brutal verklighet. Som väldigt fåbjuder motstånd. Jag kan sakna Olof Palme i det här läget. Hans blixtrande intellekt, hans hetta och skoningslösa retorik hade gjort kebab av JimmieÅkesson. Istället bjuds den skånske kameleonten pålunch och smicker i högeranfrätta finrum medan hans bulvaner går runt och misshandlar folk med järnrör och påstår att samer inte är svenskar och vill ståpå Öresundsbron och skjuta ankommande flyktingar och skrika” segra eller d ö”!
 
 ::: poem
 **dolt**
@@ -1360,11 +1360,11 @@ Civilt motstånd, när det är som bäst.
 
 Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. Påutställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
 
-![331.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331.jpeg)
 
-![331A.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331A.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331A.jpeg)
 
-Jag besöker utställningen. Det är lite märkligt att se Carstens och mitt projekt redovisat i den här miljön, 43år senare. Det väcker en del känslor. Saknad efter kusinen, efter den vulkaniska optimism vi hade, hur vi trodde att allt var möjligt.
+Jag besöker utställningen. Det är lite märkligt att se Carstens och mitt projekt redovisat i den här miljön, 43 år senare. Det väcker en del känslor. Saknad efter kusinen, efter den vulkaniska optimism vi hade, hur vi trodde att allt var möjligt.
 ::: indent
 Att världen skulle gåatt förädla.
 :::
@@ -1372,11 +1372,11 @@ Att världen skulle gåatt förädla.
 
 <!-- PAGE 271 START -->
 ::: indent
-Jag och Amis medverkar en kväll i en utfrågning om Vargen. Vi  berättar om bakgrunden till tidningen, får frågor och märker hur nyfikenheten kretsar runt dåtidens ” kulturklimat ”. Vad som gjorde att så mycket och såmånga tog plats och uttryckte sig på ett sätt som är nästan främmande idag. Jag har inga bra svar, jag är ingen sociolog, jag kan bara konstatera att det känns flackare nu, på alla plan.
+Jag och Amis medverkar en kväll i en utfrågning om Vargen. Vi  berättar om bakgrunden till tidningen, får frågor och märker hur nyfikenheten kretsar runt dåtidens ”kulturklimat”. Vad som gjorde att så mycket och så många tog plats och uttryckte sig på ett sätt som är nästan främmande idag. Jag har inga bra svar, jag är ingen sociolog, jag kan bara konstatera att det känns flackare nu, på alla plan.
 :::
 
 ::: indent
-– Viåt allt, på den tiden, och spydde ut det för attäta mer. Vi var konstant hungriga.
+– Viåt allt, på den tiden, och spydde ut det för att äta mer. Vi var konstant hungriga.
 :::
 
 ::: indent
@@ -1385,25 +1385,25 @@ Jag vet inte om publiken blir så mycket klokare.
 
 Och mitt i allt detta kommer mitt femte barnbarn. Det är yngste sonen Nick och hans sambo Josefin som får en son. Leon (en sötkaramell). Blir man farfar igen. Underbart! ... (tyvärr slår den kommande pandemin sönder en tätare kontakt med Leon förstaåret, men den får tas ikapp i sinom).
 
-Cillas och min dotter Molly bor i Köpenhamn och är 24år. Hon har avslutat filmskolan i Stockholm och arbetar på en servering. Jag vet att hon skriver bra, jag har läst mycket av henne genomåren. Nu föreslår jag att vi ska skriva en bok ihop. En ljudbok, direkt för den marknaden. Det är nytt för mig och definitivt för henne. Vi kontaktar ljudboks för laget Storytel som blir intresserade. Samtidigt får mitt eget förlag Norstedts höra talas om våra planer och föreslår att vi ska ge ut boken på deras ljudboks för lag istället, Tiden. Min agent tycker att vi ska välja det senare, vilket vi gör. Under ett drygt halvår skriver vi boken, som får namnet ” *Mörkret oss emellan* ”, en psykologisk thriller som utspelar sig i ett hus i Stockholms skärgård. Denär uppdelad iåtta avsnitt och läses in av Nina Zanjani.
+Cillas och min dotter Molly bor i Köpenhamn och är 24 år. Hon har avslutat filmskolan i Stockholm och arbetar på en servering. Jag vet att hon skriver bra, jag har läst mycket av henne genomåren. Nu föreslår jag att vi ska skriva en bok ihop. En ljudbok, direkt för den marknaden. Det är nytt för mig och definitivt för henne. Vi kontaktar ljudboks för laget Storytel som blir intresserade. Samtidigt får mitt eget förlag Norstedts höra talas om våra planer och föreslår att vi ska ge ut boken på deras ljudboks för lag istället, Tiden. Min agent tycker att vi ska välja det senare, vilket vi gör. Under ett drygt halvår skriver vi boken, som får namnet ”*Mörkret oss emellan*”, en psykologisk thriller som utspelar sig i ett hus i Stockholms skärgård. Denär uppdelad iåtta avsnitt och läses in av Nina Zanjani.
 
-![700.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/700.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/700.png)
 
-Det är stimulerande och lärorikt att arbeta med sin dotter. Hon har kunskaper som jag är totalt renons påoch vice versa. Tillsammans flätar vi ihop historien med ganska fåkontroverser, delvis pådistans.
+Det är stimulerande och lärorikt att arbeta med sin dotter. Hon har kunskaper som jag är totalt renons på och vice versa. Tillsammans flätar vi ihop historien med ganska fåkontroverser, delvis pådistans.
 ::: indent
-Vi har fått ett par råd av vår förläggare, Clara Gustavsson, inför skrivandet, råd som är specifika för ljudböcker: Inte ha för många karaktärer, inte byta tidsplan för många gånger osv. En form av ” litter är förenkling ” som underlättar för lyssnaren.
+Vi har fått ett par råd av vår förläggare, Clara Gustavsson, inför skrivandet, råd som är specifika för ljudböcker: Inte ha för många karaktärer, inte byta tidsplan för många gånger osv. En form av ”litter är förenkling”som underlättar för lyssnaren.
 :::
 
 ::: indent
-Reflektion: Redan idag har många författare fler lyssnareän läsare till sina böcker. Hur påverkar det skrivandet? Hur mycket anpassar man sig efter den insikten? Hur mycket ” förenklar ” man när man vet att mer komplicerade berättelser inte uppskattas lika mycket av lyssnarna? Majoriteten av ens potentiella konsumenter?
+Reflektion: Redan idag har många författare fler lyssnareän läsare till sina böcker. Hur påverkar det skrivandet? Hur mycket anpassar man sig efter den insikten? Hur mycket”förenklar”man när man vet att mer komplicerade berättelser inte uppskattas lika mycket av lyssnarna? Majoriteten av ens potentiella konsumenter?
 :::
 
 ::: indent
-Och hur förhåller sig förlagen till det, i en tid när försäljningen av den fysiska boken minskar kraftigt?Ökar benägenheten att satsa mer påprodukter som fungerar som ljudböcker? Mer ” förenklade ” berättelser?
+Och hur förhåller sig förlagen till det, i en tid när försäljningen av den fysiska boken minskar kraftigt? Ökar benägenheten att satsa mer påprodukter som fungerar som ljudböcker? Mer”förenklade”berättelser?
 :::
 
 ::: indent
-Att det finns en uppenbar risk i det här har många påpekat, Jonas Gardell inte minst. I en dystopisk förlängning kanske begreppet ” kiosklitteratur ” ersätts av ” ljudlitteratur ”?
+Att det finns en uppenbar risk i det här har många påpekat, Jonas Gardell inte minst. I en dystopisk förlängning kanske begreppet”kiosklitteratur”ersätts av”ljudlitteratur”?
 :::
 
 ::: indent
@@ -1419,7 +1419,7 @@ Igen.
 :::
 
 ::: indent
-Parentes: En av mina favoritböcker på60-talet, Hemingways klassiker ” *Och solen har sin gång* ”är berättad i jag-form, såjag kunde ha lärt mig det tidigare.
+Parentes: En av mina favoritböcker på 60-talet, Hemingways klassiker ”*Och solen har sin gång*”är berättad i jag-form, så jag kunde ha lärt mig det tidigare.
 :::
 <!-- PAGE 271 END -->
 
@@ -1430,7 +1430,7 @@ Varför?
 :::
 
 ::: indent
-Det finns ju en uppsjöav personangrepp som ligger oskrivna, en skrämmande mängd perverterade företeelser, men ingen tar sig an dom? Det är som om tiden har sänkt enängslig filt av konformitet över allt som produceras.
+Det finns ju en uppsjöav personangrepp som ligger oskrivna, en skrämmande mängd perverterade företeelser, men ingen tar sig an dom? Det är som om tiden har sänkt en ängslig filt av konformitet över allt som produceras.
 :::
 
 ::: indent
@@ -1453,7 +1453,7 @@ Han är modig.
 Men utöver det? Vågar vi inte uppröra längre? På riktigt? Har den digitala undervegetationens dreglande sekatörer klippt ner oss till harmlösa underhållare? Till stumma trygghetsnarkomaner?
 :::
 
-![297.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
 
 Var finns vreden?
 ::: indent
@@ -1605,7 +1605,7 @@ Den kunde börja så här:
 
 ***     Vindflöjeln tittade efter dom och höll tummarna. Gick det bra kanske det var han som åt lunch med herr Kackerlacka nästa gång. Han vred sig om och tittade ut över nejden, kanske skulle han  få sitta på den högsta taknocken ändå******? ***
 
-***     Det gällde bara att parera vindarna.”     ***
+***     Det gällde bara att parera vindarna.”   ***
 
 Fotnot: Efter jag skrev den här lilla fabeln haräven Vindflöjeln krupit ner i sängen till herr Kackerlacka. Nu ligger dom där, tätt intill varandra, och drömmer om den högsta nocken, alla tre.
 ::: indent
@@ -1616,12 +1616,12 @@ Beklämmande.
 <!-- PAGE 274 START -->
 2020 blir ett märkligtår.
 ::: indent
-Coronan slår till och lamslår världen. Ordet ” karantän ” får en global och fruktansvärd innebörd, det handlar inte om pudelfrakt längre. Hela tillvaron förändras.
+Coronan slår till och lamslår världen. Ordet”karantän” får en global och fruktansvärd innebörd, det handlar inte om pudelfrakt längre. Hela tillvaron förändras.
 :::
 
 ***”Hej, mitt namn är Bond. James Bond. Kan jag få ett glas handsprit, rörd, inte skakad.”***
 
-Människor tvingas till ” distansering ”, sluter sig i sina hem, isolerade, bara besökta av psykisk ohälsa. Plötsligt får mitt gamla uttryck ” varje människa måste ta avstånd från varje annan människa ” en skrämmande aktualitet. Sverige väljer sin egen väg. Statsepidemiologen Anders Tegnell blir symbolen för den vägen, en man som använder sin integritet för att ge trovärdig information. Jag är en av dom som litar på det han säger. Varför skulle han ljuga? En våldsam debatt drar igång över hela landet, alla har svaren men ingen har facit.
+Människor tvingas till ”distansering”, sluter sig i sina hem, isolerade, bara besökta av psykisk ohälsa. Plötsligt får mitt gamla uttryck ”varje människa måste ta avstånd från varje annan människa”en skrämmande aktualitet. Sverige väljer sin egen väg. Statsepidemiologen Anders Tegnell blir symbolen för den vägen, en man som använder sin integritet för att ge trovärdig information. Jag är en av dom som litar på det han säger. Varför skulle han ljuga? En våldsam debatt drar igång över hela landet, alla har svaren men ingen har facit.
 ::: indent
 Så?
 :::
@@ -1635,14 +1635,14 @@ Magkänsla, bara.
 :::
 
 ::: indent
-Ett antal idioter runt om i världen ser till att konsekvenserna av coronan blir mycket värreän den behövde bli.Återigen slås man av den deprimerande stupiditeten hos män med makt. Alla dom som urholkar demokratin. Som urholkar idén om att dom mångas ansvar är att skydda dom få, inte utplåna dom. Att behandlingen av dom fåär dom mångas testamente. Att styrka mäts i omtanke, inte i förtryck.
+Ett antal idioter runt om i världen ser till att konsekvenserna av coronan blir mycket värreän den behövde bli. Återigen slås man av den deprimerande stupiditeten hos män med makt. Alla dom som urholkar demokratin. Som urholkar idén om att dom mångas ansvar är att skydda dom få, inte utplåna dom. Att behandlingen av dom fåär dom mångas testamente. Att styrka mäts i omtanke, inte i förtryck.
 :::
 
 ::: indent
 Det är bedrövligt.
 :::
 
-Cilla och jagåker ut till vårt sommarställe på Tynningöi mitten påmars och stannar där (det är gångavstånd till vår hemkommun). Vi har just lämnat ifrån oss vår sjätte bok, ” *Fruset guld* ” och jag inser att det är dags att göra bokslut.
+Cilla och jag åker ut till vårt sommarställe på Tynningöi mitten påmars och stannar där (det är gångavstånd till vår hemkommun). Vi har just lämnat ifrån oss vår sjätte bok,”*Fruset guld*” och jag inser att det är dags att göra bokslut.
 ::: indent
 Jagägnar våren, sommaren och höstenåt att färdigställa det här materialet - katarsis och sisyfos. Till min hjälp tar jag min sonson Ludvig,
 :::
@@ -1655,7 +1655,7 @@ Och jag blir totalt förvirrad.
 :::
 
 ::: indent
-Hur har vår relation sett ut? Egentligen? Kvinnan som undvek fysiskt kladd, var kom den upplevelsen ifrån?Är den ens sann? Mannen som alltid gled undan, som aldrig fanns till hands?Är det bara ett fantasifoster?
+Hur har vår relation sett ut? Egentligen? Kvinnan som undvek fysiskt kladd, var kom den upplevelsen ifrån? Är den ens sann? Mannen som alltid gled undan, som aldrig fanns till hands? Är det bara ett fantasifoster?
 :::
 
 ::: indent
@@ -1685,7 +1685,7 @@ Jag får inte ihop det.
 
 <!-- PAGE 275 START -->
 ::: indent
-Vadär det jag har projicerat påmina föräldrar? Har det handlat om helt andra saker? Men var skulle svärtan i mina barndomstexter komma ifrån då? Har jag bara letat efter ett sår för att fåutlopp för min frustration? Och föräldrarna blev såret för att dom låg närmast till hands? Tog jag derasörfilar som intäkt för ett mörker som bara fanns i  mig själv? Barnet som martyr?
+Vadär det jag har projicerat på mina föräldrar? Har det handlat om helt andra saker? Men var skulle svärtan i mina barndomstexter komma ifrån då? Har jag bara letat efter ett sår för att fåutlopp för min frustration? Och föräldrarna blev såret för att dom låg närmast till hands? Tog jag derasörfilar som intäkt för ett mörker som bara fanns i  mig själv? Barnet som martyr?
 :::
 
 ::: indent
@@ -1696,7 +1696,7 @@ Jag vet inte.
 Kanske skriver jag en roman om det, familjeuppgörelser ligger ju i tiden ... *”Koprofagens ystra dans”*.
 :::
 
-Sitter i halvdunkel och funderar (utan munskydd): När blir det förflutna viktigareän framtiden? När börjar man titta bakåt istället för framåt? Närövergår ” *Dont look back* ” till ” *Look back in anger* ”? Dylan till Osborne?
+Sitter i halvdunkel och funderar (utan munskydd): När blir det förflutna viktigareän framtiden? När börjar man titta bakåt istället för framåt? Närövergår ”*Dont look back*”till”*Look back in anger*”? Dylan till Osborne?
 ::: indent
 Förmodligen handlar det om den utmätta tiden: ju mindre man har att se fram emot, desto mer ser man bakåt.
 :::
@@ -1725,9 +1725,9 @@ Det får bli nästa gång.
 Snart är jag igenom det jag skulle genomföra. Slutet påhistorien, som Guillou kallar det. Nu i efterläsningen inser jag att oändligt många människor jag har mött inte ingår i berättelsen, inte nämns, förblir osynliggjorda (i just min historia). För detta ber jag om ursäkt, det är inte nonchalans eller ointresse, inte ens glömska. Eller the survival of the fittest. Jag har följt mina fotspår och noterat dom som har tangerat stigen (en del kantareller missar man för att blicken är vändåt fel håll).
 :::
 
-I sista minuten: Just när jag skriver detta får jag ett brev med en tidning i, det är *”Situation Stockholm”* som fyller 25år och vill tacka olika människor som medverkat.
+I sista minuten: Just när jag skriver detta får jag ett brev med en tidning i, det är *”Situation Stockholm”* som fyller 25 år och vill tacka olika människor som medverkat.
 
-![302.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/302.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/302.png)
 
 Jag konstaterar att epitetet *”hänsynslös häcklare”* fortfarande hängde med 1999 och att jag log. I intervjun säger jag:
 
@@ -1735,4 +1735,3 @@ Jag konstaterar att epitetet *”hänsynslös häcklare”* fortfarande hängde 
 
 Det gäller fortfarande.
 <!-- PAGE 275 END -->
-

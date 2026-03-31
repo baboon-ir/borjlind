@@ -3,13 +3,13 @@
 <!-- PAGE 211 START -->
 Suzanne Reuter får också en bagge för bästa kvinnliga skådespelare. Det är hon väl värd.
 
-Påsensommaren det häråret tilldelas jag Rydöpriset: ” *För den fria tanken - till Olof Palmes minne* ”. Tidigare pristagare är Jan Myrdal, Ivar-Lo och Maria-Pia Boethius. Priset delas ut av den tidigare kulturministern Bengt Göransson och motiveringen är en orgie i självslick:
+Påsensommaren det häråret tilldelas jag Rydöpriset: ”*För den fria tanken - till Olof Palmes minne*”. Tidigare pristagare är Jan Myrdal, Ivar-Lo och Maria-Pia Boethius. Priset delas ut av den tidigare kulturministern Bengt Göransson och motiveringen är en orgie i självslick:
 
 **”Rolf Börjlind tilldelas Rydöpriset för sin manusproduktion till film, radio och tv. I underhållningsprogram som Kabaret Öppen Kanal, Lorry, Jönssonligan och Sista Skriket har Börjlind med sina texter på ett enastående sätt gisslat makthavare, fördomar och företeelser i vårt samhälle.**
 
 **     Det hans vassa penna format har klivit in i våra vardagsrum och biosalonger och fått oss att besinna ett djupt allvar bakom det vi lockas att skratta åt.**
 
-**    Rolf Börjlind är nyskapande som samhällskritiker. Han har gång på gång sökt nya former och vägar för sitt engagemang och sitt skrivande. Genom detta har han också banat sig en särpräglad och värdefull plats i samtidsdebatten.” **
+**    Rolf Börjlind är nyskapande som samhällskritiker. Han har gång på gång sökt nya former och vägar för sitt engagemang och sitt skrivande. Genom detta har han också banat sig en särpräglad och värdefull plats i samtidsdebatten.”**
 
 Vad hände med ikonoklasten och folkhemsterroristen? Hädelsens härförare?
 ::: indent
@@ -33,7 +33,7 @@ Bra fråga.
 **det jag har förlorat**
 :::
 
-Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framför en text jag har skrivit (långt tidigare, till en kabarépå Zum Alten Brunnen). Den heter ” *Varför försvann vi?* ”:
+Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framför en text jag har skrivit (långt tidigare, till en kabarépå Zum Alten Brunnen). Den heter”*Varför försvann vi?*”:
 
 **”Jag har rymt ... från framtiden. Jag har rymt tillbaka, hit, för att få träffa människor igen. Er. Riktiga människor. Framtiden har berövat mig min mänsklighet. Framtiden är inte grym, den är bara logisk och osentimental. När den upptäckte att jag såg det jag inte borde se, stack den ut mina ögon. När den upptäckte att jag lyssnade för noga, spräckte den mina trumhinnor. Nu är den ute efter mitt språk. Språket är den sista mänskliga rest jag har kvar. Det är därför ni måste lyssna. Det började ju redan på er tid.**
 <!-- PAGE 211 END -->
@@ -68,7 +68,7 @@ Texten trycks i Expressen en vecka efter prisutdelningen.
 Bra spridning, gratis.
 :::
 
-Klargörande 4: Jag har aldrig deltagit i ” det offentliga samtalet ”. Jag har aldrig haft behov av att ” göra min röst hörd ” i det för dagen ” stekheta ”, att oavbrutet ha en privatåsikt (som sagt: man bör bytaåsikter som man byter skjortor). Vid ett fåtal tillfällen (två, tror jag) under 55år har jag reagerat och gett offentligt uttryckåt en privat upprördhet, senast som svar på en intervjufråga:
+Klargörande 4: Jag har aldrig deltagit i ”det offentliga samtalet”. Jag har aldrig haft behov av att ”göra min röst hörd”i det för dagen”stekheta”, att oavbrutet ha en privatåsikt (som sagt: man bör bytaåsikter som man byter skjortor). Vid ett fåtal tillfällen (två, tror jag) under 55 år har jag reagerat och gett offentligt uttryckåt en privat upprördhet, senast som svar på en intervjufråga:
 ::: indent
 – Vadönskar du mest av allt just nu?
 :::
@@ -81,7 +81,7 @@ Klargörande 4: Jag har aldrig deltagit i ” det offentliga samtalet ”. Jag h
 Resten har jag kanaliserat i min konstnärliga verksamhet.
 :::
 
-Mina föräldrar dör på90-talet, med någraårs mellanrum. Svea i cancer, Otto av utslitet hjärta. Arvet består huvudsakligen av en del vackra möbler och föremål, tillverkade av intarsiaspecialisten och rumlaren Nils, farfar. Det pekuniära utfallet är magert, men vi behöver inte göda kistkrämarna i onödan. Båda föräldrarna är noga med att deras kremerade kroppar ska strös för vinden. Inga privata minnesplatser. Inget konkret som ska minna om deras liv. En sekul är attityd som jag kan sympatisera med.
+Mina föräldrar dör på 90-talet, med någraårs mellanrum. Svea i cancer, Otto av utslitet hjärta. Arvet består huvudsakligen av en del vackra möbler och föremål, tillverkade av intarsiaspecialisten och rumlaren Nils, farfar. Det pekuniära utfallet är magert, men vi behöver inte göda kistkrämarna i onödan. Båda föräldrarna är noga med att deras kremerade kroppar ska strös för vinden. Inga privata minnesplatser. Inget konkret som ska minna om deras liv. En sekul är attityd som jag kan sympatisera med.
 <!-- PAGE 212 END -->
 
 <!-- PAGE 213 START -->
@@ -94,7 +94,7 @@ Får man det?
 :::
 
 ::: indent
-När Gösta och jag ska göra ” *Morrhår och Ärto* r ” finns det en central fråga som han ofta tar upp: ” *Måste man älska sin mamma?* ” Han kommer fram till att det måste man nog, trots allt. Själv har jag svårt att applicera det begreppet påmina föräldrar.Älska hur? Kvinnor har jagälskat, mina barn och barnbarnälskar jag, min syster, men mina föräldrar?
+När Gösta och jag ska göra ”*Morrhår och Ärto* r”finns det en central fråga som han ofta tar upp:”*Måste man älska sin mamma?*” Han kommer fram till att det måste man nog, trots allt. Själv har jag svårt att applicera det begreppet på mina föräldrar. Älska hur? Kvinnor har jag älskat, mina barn och barnbarnälskar jag, min syster, men mina föräldrar?
 :::
 
 ::: indent
@@ -134,7 +134,7 @@ Eller såsaknar han verktyg, han också.
 :::
 
 ::: indent
-Minne av Svea: Jag har intervjuats i en tidning och fått en del frågor om min bakgrund, mitt ursprung, och råkat nämna att min pappa körde spårvagn som ung. Svea läser intervjun och ringer upp mig. Hon är fullständigt rasande och förbjuder mig att nånsin mer tala om ” vår familj ”. Själv kommer hon att bryta kontakten med mig (det händer dåoch då, pågår ett tag och sen tar hon kontakt igen). Jag försöker försvara det jag har sagt:
+Minne av Svea: Jag har intervjuats i en tidning och fått en del frågor om min bakgrund, mitt ursprung, och råkat nämna att min pappa körde spårvagn som ung. Svea läser intervjun och ringer upp mig. Hon är fullständigt rasande och förbjuder mig att nånsin mer tala om ”vår familj”. Själv kommer hon att bryta kontakten med mig (det händer då och då, pågår ett tag och sen tar hon kontakt igen). Jag försöker försvara det jag har sagt:
 :::
 
 ::: indent
@@ -146,7 +146,7 @@ Hon lägger på.
 :::
 
 ::: indent
-Minne av Otto: Han ger aldrig ifrån sig några kommentarer om allt jagåstadkommer genomåren. Inte ett ord.
+Minne av Otto: Han ger aldrig ifrån sig några kommentarer om allt jag åstadkommer genomåren. Inte ett ord.
 :::
 
 ::: indent
@@ -154,7 +154,7 @@ Som om han skäms.
 :::
 
 ::: indent
-Strax innan han flyttas till ett hem drar han plötsligt ut en tjock pärm ur bokhyllan. Den innehåller urklippta och noga daterade artiklar om allt jag har gjort sen 25år tillbaka. Samlade och sorterade av honom.
+Strax innan han flyttas till ett hem drar han plötsligt ut en tjock pärm ur bokhyllan. Den innehåller urklippta och noga daterade artiklar om allt jag har gjort sen 25 år tillbaka. Samlade och sorterade av honom.
 :::
 
 ::: indent
@@ -162,7 +162,7 @@ Hur knuten kan man bli?
 :::
 
 ::: indent
-Ändå, i slutet av deras liv: Enömhet.Åldrade käril, tvåsammanväxta stammar utan grenar ... ingen av dom la märke till ett par rotlösaättelägg i utkanten av skogen.
+Ändå, i slutet av deras liv: Enömhet. Åldrade käril, tvåsammanväxta stammar utan grenar ... ingen av dom la märke till ett par rotlösaättelägg i utkanten av skogen.
 :::
 
 ::: indent
@@ -178,28 +178,28 @@ På tal om söner och fäder.
 <!-- PAGE 213 END -->
 
 <!-- PAGE 214 START -->
-Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ” *Vita lögner* ”, ett uttryck pappan använde för att ursäkta sina småoch stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonensögon (Mats).
+Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ”*Vita lögner*”, ett uttryck pappan använde för att ursäkta sina småoch stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonensögon (Mats).
 ::: indent
-Jag tycker historien är fantasifull och djupt mänsklig. Och dråplig. Vid ett tillfälle köper pappan på sig ett antal stora vinfat i trä(för familjens besparingar). Han tänker starta en stugby i Frankrike. När dom nermonterade vinfaten anländer är dom omöjliga att montera ihop.Ännu en dröm spricker.
+Jag tycker historien är fantasifull och djupt mänsklig. Och dråplig. Vid ett tillfälle köper pappan på sig ett antal stora vinfat i trä(för familjens besparingar). Han tänker starta en stugby i Frankrike. När dom nermonterade vinfaten anländer är dom omöjliga att montera ihop. Ännu en dröm spricker.
 :::
 
 ::: indent
-Filmen ska utspelas på40-talet, huvudsakligen, och spelas in pålite olika ställen i Europa.
+Filmen ska utspelas på 40-talet, huvudsakligen, och spelas in på lite olika ställen i Europa.
 :::
 
 ::: indent
 Manuset blir klart ett tag senare, filmen spelas in och Peter Haber gör en lysande rolltolkning av Arehns pappa. Han blir välförtjänt guldbaggenominerad för sin insats.
 :::
 
-![259.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/259.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/259.jpeg)
 
 Filmen går senare som tv-serie.
 
-Själv går jag vidare och skriver en ny pjäs till Scen Offside. Den heter ” *Från lem till lever* ”. Förmodligen är det en komedi, med viss underskruv. I programbladet beskrivs föreställningen som ” en väldoftande komedi, en osande samtidssatir och en hoppfull och innerlig samtidssaga om 90-talets människor. ”
+Själv går jag vidare och skriver en ny pjäs till Scen Offside. Den heter ”*Från lem till lever*”. Förmodligen är det en komedi, med viss underskruv. I programbladet beskrivs föreställningen som ”en väldoftande komedi, en osande samtidssatir och en hoppfull och innerlig samtidssaga om 90-talets människor.”
 
-![515.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/515.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/515.png)
 
-Tvåmän träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånskäppelkaka. En tredje person sitter vid ett piano och spelar melodier dåoch då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
+Tvåmän träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånskäppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
 ::: indent
 Ett par gånger före premiären samlas vi hemma hos mig och Cilla för att provlaga hela menyn, stämma av tider och repliker för att fåmåltiden att ticka in rätt på scenen. En av replikerna minns jag:
 :::
@@ -230,7 +230,7 @@ Filmfotografen John Olsson och hans hustru, Agnetha Fagerström-Olsson, vill gö
 Det är deras lägenhet jag är på väg till.
 :::
 
-Det finns lägenheter och lägenheter. Det finns avskalade, minimalistiska och vita, och såfinns det den jag kliver in i här. Mörk, stor, belamrad och full av fantasi. Jag föredrar det. Jag inbillar mig att ett hem är utsidan av det som finns inuti dom som bor där.
+Det finns lägenheter och lägenheter. Det finns avskalade, minimalistiska och vita, och så finns det den jag kliver in i här. Mörk, stor, belamrad och full av fantasi. Jag föredrar det. Jag inbillar mig att ett hem är utsidan av det som finns inuti dom som bor där.
 ::: indent
 Vi sätter oss i djupa, sköna fåtöljer, föser undan en hund och börjar prata om Vietas. Om kuppen. Om Johns tankar, hans episka visioner, dom suggestiva miljöer det handlar om, människorna i en vattenrallarby, spänningen i själva brottet.
 :::
@@ -260,7 +260,7 @@ Vi samlar in så mycket information vi kan fåpå plats, om rånet, om teorierna
 Påkvällarnaäter vi lamm och dricker rödvin i en stor, tom restaurang i byn.
 :::
 
-Hemkommen skriver jag manuset, diskuterar med John, skriver om och landar såsmåningom i en omfångsrik och dramatisk berättelse med många bottnar.
+Hemkommen skriver jag manuset, diskuterar med John, skriver om och landar så småningom i en omfångsrik och dramatisk berättelse med många bottnar.
 ::: indent
 Problemet med berättelsen är slutet. Vi kan inte presentera en gärningsman. Vi vet inte vem som begick brottet (även om vi har våra teorier). Det blir en open end.
 :::
@@ -293,7 +293,7 @@ Men vi författare tolkar gärna in saker och ting där ingenting finns att tolk
 
 <!-- PAGE 216 START -->
 ::: indent
-Rätt snabbt byter vi sjukhuset mot vår lägenhet på Bondegatan, korsningen Nytorgsgatan. För mig är det en märklig känsla att bo på Söder igen. På50-talet hängde jag i Björns Trädgård och spelade fotboll på den sandplan som fortfarande ligger kvar vid Folkungagatan. Brandstationen på Tjärhovsgatan ser nästintill intakt ut på utsidan. Det anrika huset som härbärgerade polisstationen är kvar, men stationen är flyttad några hundra meter. Huset minns jag eftersom det var på den vinden vi hittade en försvarlig packe porrtidningar och drog upp på Fåfängan för att runka (i förhållande till dagens porrexplosion pånätet var dåtidens tidningar extremt pryda, kanske en skymtande bröstkant under en bikinitop, men det räckte). Idag sitter ungdomen påkafé String och dricker latte med exotiska kryddor och pratar om sin favoritinfluencers.
+Rätt snabbt byter vi sjukhuset mot vår lägenhet på Bondegatan, korsningen Nytorgsgatan. För mig är det en märklig känsla att bo på Söder igen. På 50-talet hängde jag i Björns Trädgård och spelade fotboll på den sandplan som fortfarande ligger kvar vid Folkungagatan. Brandstationen på Tjärhovsgatan ser nästintill intakt ut på utsidan. Det anrika huset som härbärgerade polisstationen är kvar, men stationen är flyttad några hundra meter. Huset minns jag eftersom det var på den vinden vi hittade en försvarlig packe porrtidningar och drog upp på Fåfängan för att runka (i förhållande till dagens porrexplosion på nätet var dåtidens tidningar extremt pryda, kanske en skymtande bröstkant under en bikinitop, men det räckte). Idag sitter ungdomen på kafé String och dricker latte med exotiska kryddor och pratar om sin favoritinfluencers.
 :::
 
 ::: indent
@@ -308,7 +308,7 @@ På tal om vår lägenhet på Bondegatan: Vi bor granne med en person som ett pa
 Han är mycket excentrisk.
 :::
 
-Men nu backar jag lite:Året innan har jag fått ett samtal från Gunnar Bergdahl, en av cheferna för Göteborgs Filmfestival. Dom har startat en stafettfilmserie som kallas ” *90 minuter 90-tal* ”. Ett antal filmmakare ska göra var sin tio minuter lång kortfilm under tioårs tid, som ska skildra 90-talet. Resultatet ska klippas ihop till en långfilm när decenniet är slut.
+Men nu backar jag lite:Året innan har jag fått ett samtal från Gunnar Bergdahl, en av cheferna för Göteborgs Filmfestival. Dom har startat en stafettfilmserie som kallas ”*90 minuter 90-tal*”. Ett antal filmmakare ska göra var sin tio minuter lång kortfilm under tioårs tid, som ska skildra 90-talet. Resultatet ska klippas ihop till en långfilm när decenniet är slut.
 ::: indent
 Flummig idé.
 :::
@@ -329,15 +329,15 @@ Lindblom och jag har samarbetat tidigare, i Kråka-projektet, och fått bra kont
 Eftersom jag och Cilla just befinner oss djupt inne i en mörk skog påjakt efter svamp, ett av våra tunga intressen, såber jag att fååterkomma. Så fort jag stöter på en liten porcini, en späd stensopp med utsökt smak, vet jag vad jag ska svara.
 :::
 
-![212.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
 
-Lindblom och jag träffas. Hon vill göra en enkel och rak film, med en enda person i centrum. Keve Hjelm. Hon vill att filmen ska handla om vad vi gör med vår jord (detta är alltså1992). I princip handlar det om en monolog, gestaltad av en ensam man i ett litet torp som försöker leva nära jorden, nära ljuset, tätt intill den rytm som ingen längre minns, som försöker hålla sig fast i en värld som försvinner.
+Lindblom och jag träffas. Hon vill göra en enkel och rak film, med en enda person i centrum. Keve Hjelm. Hon vill att filmen ska handla om vad vi gör med vår jord (detta är alltså 1992). I princip handlar det om en monolog, gestaltad av en ensam man i ett litet torp som försöker leva nära jorden, nära ljuset, tätt intill den rytm som ingen längre minns, som försöker hålla sig fast i en värld som försvinner.
 ::: indent
 Jag skriver den.
 :::
 
 ::: indent
-Filmen heter ” *Betraktelse* ” och Hjelms monolog blir som följer:
+Filmen heter ”*Betraktelse*”och Hjelms monolog blir som följer:
 :::
 <!-- PAGE 216 END -->
 
@@ -394,7 +394,7 @@ Filmen heter ” *Betraktelse* ” och Hjelms monolog blir som följer:
 **Det är märkligt.**
 :::
 
-Möte med Keve Hjelm: Han är en stark gestalt för mig, ända sen han medverkade i filmen som utspelade sig påfarmor och farfars bakgård, ” *Kvarteret Korpen* ”. Jag känner också till hans status i skådespelarkretsar och hans närmast devota beundrare inom en viss typ av gestaltningskonst. Stanislavskij. Hämta det inte från huvudet eller bröstet, inte från fötterna heller, hämta det fem meter under golvet du står på.
+Möte med Keve Hjelm: Han är en stark gestalt för mig, ända sen han medverkade i filmen som utspelade sig påfarmor och farfars bakgård,”*Kvarteret Korpen*”. Jag känner också till hans status i skådespelarkretsar och hans närmast devota beundrare inom en viss typ av gestaltningskonst. Stanislavskij. Hämta det inte från huvudet eller bröstet, inte från fötterna heller, hämta det fem meter under golvet du står på.
 ::: indent
 Vi möts på en liten järnvägsperrong, han har en finsk träningsoverall på sig och är nykter. Och mycket seriös. Lindblom och Hjelm diskuterar monologen. Hjelm har inga invändningar, han är mest intresserad av gestaltningen. Jag är mest iakttagare. Jag har arbetat tätt intill ett antal begåvade skådespelare vid det här laget, Hjelm är annorlunda. Jag får inte grepp om honom. Kanske är han sorgsen? Vi får ingen djupare kontakt.
 :::
@@ -407,7 +407,7 @@ Ur filmen: Det finns en scen när Hjelm häller upp en sup i ett gnistrande snap
 <!-- PAGE 218 START -->
 Lite skojigt mellanjobb: Gösta ska uppträda med manskören Orphei Drängar i Uppsala. Oannonserad. Detälskar han.
 ::: indent
-Han gör entréinför en fullsatt salong påtypiskt Gösta-manér - mitt i en maffig sång knuffar han sig bryskt ner mellan körmedlemmarna, iklädd sin Papphammarmundering. Det tar ett tag innan publiken fattar vem det är som stökar sig fram genom kören. Väl på scenen framför Gösta tvåsånger som vi har skrivit tillsammans, den ena heter ” *Hotellet i Kalmar* ”, den andra är en parafras på en av Karl Gerhards succéer, ” *Jazzgossen* ”, där Gösta gör en rätt hård satir på sin morfinmissbrukande farfar, den ” store ” Gösta Ekman.
+Han gör entréinför en fullsatt salong påtypiskt Gösta-manér - mitt i en maffig sång knuffar han sig bryskt ner mellan körmedlemmarna, iklädd sin Papphammarmundering. Det tar ett tag innan publiken fattar vem det är som stökar sig fram genom kören. Väl på scenen framför Gösta tvåsånger som vi har skrivit tillsammans, den ena heter ”*Hotellet i Kalmar*”, den andra är en parafras på en av Karl Gerhards succéer, ”*Jazzgossen*”, där Gösta gör en rätt hård satir på sin morfinmissbrukande farfar, den ”store” Gösta Ekman.
 :::
 
 ::: indent
@@ -486,7 +486,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     - På mitt ansikte.**
 
-**     Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få****, om ens någon, som tänkte på****: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter” och försvunnit?**
+**     Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få****, om ens någon, som tänkte på****: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter”och försvunnit?**
 
 **     Brunnshuset tömdes mycket snabbt. En svärm svarta skalbaggar kilade mellan byns gränder, knastrande, alla i samma riktning. Till och med Vattenkvinnan följde med, en bit bakom, med en kraftig tygbit över huvudet. Ingen vände sig om, alla var på väg till den enda i byn som inte hade varit i brunnshuset: Enögda Bierté****, annalisten. Den enda kvinnan i byn som kunde skriva. För övrigt den enda kvinna som hade sett en man tidigare.**
 
@@ -504,7 +504,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     - Han har sett Vattenkvinnans ansikte ... kröp det upp ur hopen.**
 
-**     - Och sagt ”katter” till henne ...**
+**     - Och sagt”katter”till henne ...**
 
 **     - Jag vet.**
 
@@ -520,7 +520,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     Så lyfte Biertéförsiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.**
 
-**     - ... ”En dag ska en man komma till Änkornas By, på andra sidan det öde landskapet. Ingen ska se honom komma, ingen ska veta vem han är. Plötsligt ska han stå där, utanför byns enda bar, en brun skugga med ett långsmalt gevär under armen ... ”**
+**     - ...”En dag ska en man komma till Änkornas By, på andra sidan det öde landskapet. Ingen ska se honom komma, ingen ska veta vem han är. Plötsligt ska han stå där, utanför byns enda bar, en brun skugga med ett långsmalt gevär under armen ... ”**
 
 **     - Och en ryggsäck!**
 
@@ -611,7 +611,7 @@ Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så j
 
 **     Det var på den tiden jag såg mig om i världen, reste överallt, tog påhugg där det fanns, överlevde, lärde mig språk och människor... ett tag jobbade jag för en distriktsförvaltning i Mexico och hade till uppgift att skjuta av katter på landsbygden.**
 
-Kommen sålångt känner jag att jag villåt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
+Kommen så långt känner jag att jag villåt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
 
 **Mannen som satt vid det skitiga barfönstret var brunbränd och mager, inte tärd, men mager. Ett långsmalt gevär stod lutat mot träväggen intill honom, på bordet stod en flaska Wild Turkey. Han hällde upp ett glas av den bruna drycken och undrade om macken var uppkallad efter whiskyn. Turkey Flat. Förmodligen inte. Ute vid pumpen stod en rostig ambulans, ett par hundar rörde sig längs oljefaten, värmen dallrade över asfalten.**
 
@@ -627,4 +627,3 @@ Kommen sålångt känner jag att jag villåt en annan ingång, mer analog med ur
 
 **     - En magpie, sa hon. Klyver man tungan på den kan man lära den att prata.**
 <!-- PAGE 220 END -->
-

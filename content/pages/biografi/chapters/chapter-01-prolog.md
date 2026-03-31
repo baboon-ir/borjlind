@@ -5,7 +5,7 @@
 <!-- PAGE 1 END -->
 
 <!-- PAGE 2 START -->
-::: center
+::: fullpage
 **till**
 
 **Joakim Sari Nick Molly**
@@ -78,11 +78,10 @@ Reflektion: Jag har aldrig blickat bakåt. Nånsin. Aldrig grävt i det passerad
 Det är inte helt angenämt.
 :::
 
-Fotnot till alla svensklärare påmellanstadiet: Mitt val att använda talspråksformerna ” nån ”, ” dom ”, ” nåt ”, ” sen ” och ” nånsin ”är mycket medvetet och handlar om den litterära sången. Av samma orsak har jag kvar det lilla ogräset ” att ” påställen där allt fler har ryckt bort det idag - det fyller en melodisk funktion för mig.
+Fotnot till alla svensklärare på mellanstadiet: Mitt val att använda talspråksformerna ”nån”, ”dom”, ”nåt”, ”sen”och”nånsin”är mycket medvetet och handlar om den litterära sången. Av samma orsak har jag kvar det lilla ogräset ”att” på ställen där allt fler har ryckt bort det idag - det fyller en melodisk funktion för mig.
 
-Jag inser snabbt att min berättelse inte är optimal i traditionell bokform. Jag har producerat så mycket som innefattar ljud och rörlig bild. Som blir tydligast i den form det har gjorts i. En digital berättelse? I form av en slags hemsida? Utlagd pånätet? Har det gjorts förut?
+Jag inser snabbt att min berättelse inte är optimal i traditionell bokform. Jag har producerat så mycket som innefattar ljud och rörlig bild. Som blir tydligast i den form det har gjorts i. En digital berättelse? I form av en slags hemsida? Utlagd på nätet? Har det gjorts förut?
 ::: indent
 Min bokagent och mina förläggarkontakter reagerar direkt.
 :::
 <!-- PAGE 3 END -->
-

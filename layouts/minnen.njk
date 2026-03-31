@@ -1,23 +1,36 @@
 ---
 layout: base.njk
-mainClass: ""
+mainClass: "rb-main-full"
+noHeader: true
+noFooter: true
 ---
-<nav class="appendix-nav">
-  <ul>
-    <li><a href="#kusinen" class="appendix-nav-link">kusinen</a></li>
-    <li><a href="#den-osynlige" class="appendix-nav-link">den osynlige</a></li>
-    <li><a href="#yngling" class="appendix-nav-link">en vacker yngling</a></li>
-  </ul>
-</nav>
+{% set tocItems = [
+  { id: "kusinen", label: "Kusinen" },
+  { id: "den-osynlige", label: "Den osynlige" },
+  { id: "yngling", label: "En vacker yngling" }
+] %}
 
-<div class="appendix-layout">
-  <div class="rb-page-title-wrap">
-    <h1 class="rb-page-h1">{{ title }}</h1>
-    {% if description %}<p class="rb-page-desc">{{ description }}</p>{% endif %}
-  </div>
-  <div class="rb-page-content">
-    <div class="appendix-content memories text-center">
-      {{ content | safe }}
+<div class="rb-section-reader-wrap">
+  <div class="rb-section-container">
+    <div class="rb-page-title-wrap">
+      <h1 class="rb-page-h1">{{ title }}</h1>
+      {% if description %}<p class="rb-page-desc">{{ description }}</p>{% endif %}
+    </div>
+    <div class="rb-page-content">
+      <div class="appendix-content memories text-center">
+        {{ content | safe }}
+      </div>
     </div>
   </div>
+
+  <div class="rb-reader-bar">
+    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
+    <span class="rb-reader-title">Minnen</span>
+    <button class="rb-reader-bar-btn rb-reader-nav" data-section-toc-open aria-label="Öppna innehållsförteckning">Innehåll</button>
+  </div>
 </div>
+
+{% include "section-toc.njk" %}
+{% include "site-nav.njk" %}
+
+<script>document.body.dataset.sectionReader = '1';</script>

@@ -1,7 +1,7 @@
 # Epilog
 
 <!-- PAGE 276 START -->
-Under slutarbetets gång hör Sauk av sig. Han vill göra en kommentar till den pågående coronakrisen och använda sig av en text som jag skrev till filmen ” *Yrrol* ”. Jag tycker det är en bra idé. Tillsammans bearbetar vi den gamla texten och såsläpper Sauk det stringenta resultatet på olika sociala medier:
+Under slutarbetets gång hör Sauk av sig. Han vill göra en kommentar till den pågående coronakrisen och använda sig av en text som jag skrev till filmen ”*Yrrol*”. Jag tycker det är en bra idé. Tillsammans bearbetar vi den gamla texten och såsläpper Sauk det stringenta resultatet på olika sociala medier:
 
 Han gör också en engelsk version, för säkerhets skull.
 
@@ -15,12 +15,12 @@ Det är förtröstansfullt.
 :::
 
 ::: indent
-Snart börjar vi på vår sjunde deckare, ” *Den barmhärtige Samarite* n ”.
+Snart börjar vi på vår sjunde deckare, ”*Den barmhärtige Samarite* n”.
 :::
 
-![800.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/800.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/800.png)
 
-Slutord: Nåt jagångrar såh är långt? Inte mycket. Gjort är gjort, utifrån dom förutsättningar som rådde. Många val kunde ha gjorts annorlunda, gett enklare kärlek, mer insikt och bättre kulturellt utfall (med facit i hand är alla människor smartareän dom var). Men det är som det är. Eller som John Holm påpekade: Lagt kort ligger.
+Slutord: Nåt jag ångrar såh är långt? Inte mycket. Gjort är gjort, utifrån dom förutsättningar som rådde. Många val kunde ha gjorts annorlunda, gett enklare kärlek, mer insikt och bättre kulturellt utfall (med facit i hand är alla människor smartareän dom var). Men det är som det är. Eller som John Holm påpekade: Lagt kort ligger.
 ::: indent
 Men en sak har jag lärt mig: det ernådda är aska i en urna av tid, livet rör sig över gravarna, bort mot ljuset. Allt måste erövras igen.
 :::
@@ -29,12 +29,11 @@ Men en sak har jag lärt mig: det ernådda är aska i en urna av tid, livet rör
 Hela tiden.
 :::
 
-![248.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/248.png)
+![...so far, so good...](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/248.png)
 
-![309.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/309.png)
+![Lars Lerin.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/309.png)
 
 *Fotnot: Så långt möjligt har tillstånd inhämtats för publicerat material i Självbiografin.*
 
 *Slutligen: ett stort och varmt tack till Ludvig Börjlind, Håkan-Filip Swahn**, Dennis Dufbäck och Sebastian Lindfors** för bygget av den här hemsidan.*
 <!-- PAGE 276 END -->
-

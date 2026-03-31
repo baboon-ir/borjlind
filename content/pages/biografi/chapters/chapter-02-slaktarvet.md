@@ -36,9 +36,9 @@ Strössla med lakonismer? Gärna.
 Sålångt möjligt ska jag belägga det jag redovisar. Mitt privata arkivär, som sagt, tämligen omfattande. Slår minnet fel får det korrigeras i efterhand, alla har luckor (den som minns sextitalet var inte med, typ).
 :::
 
-![Pssst… I’m on fire](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/500.jpg)
+![Pssst… I'm on fire](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/500.jpg)
 
-Att lägga ut min berättelse digitalt, öppet för den som vill ta del av det, gör också att jag slipper förhålla mig till balansen mellan privat och ” allmängiltigt ”, vad som är intressant för vem (vilket jagändåaldrig kan spekulera i). Det jag väljer att berätta är det jag vill förmedla, är det ointressant är det bara att scrolla eller klicka bort, kostnadsfritt.
+Att lägga ut min berättelse digitalt, öppet för den som vill ta del av det, gör också att jag slipper förhålla mig till balansen mellan privat och ”allmängiltigt”, vad som är intressant för vem (vilket jag ändå aldrig kan spekulera i). Det jag väljer att berätta är det jag vill förmedla, är det ointressant är det bara att scrolla eller klicka bort, kostnadsfritt.
 ::: indent
 Eller enkelt uttryckt: take it or leave it.
 :::
@@ -59,9 +59,9 @@ Eller enkelt uttryckt: take it or leave it.
 <!-- PAGE 4 END -->
 
 <!-- PAGE 5 START -->
-:::part
+::: part
 :::
-Jag föds i oktober 1943 i Västra Skrävlinge. En församling i Malmömed ett roligt namn. Zlatan föds där 38år senare. Jag döps till Rolf Sigvard.
+Jag föds i oktober 1943 i Västra Skrävlinge. En församling i Malmömed ett roligt namn. Zlatan föds där 38 år senare. Jag döps till Rolf Sigvard.
 
 ![Som barn kan jag se mycket oskyldig ut.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/2.png)
 
@@ -79,12 +79,12 @@ Det är spännande.
 :::
 
 ::: indent
-Mormor ligger delvis i dunkel. Hon heter Beatha och är dotter till en välbärgad skånsk bonde. Hennes gråa hår är prydligt uppsatt med tunna, bruna nålar, ansiktet är runt och vänligt. Hemmet är alltid välstädat.Över soffan i vardagsrummet hänger en guldinramad variant av ungraren Charles Rokas målning ” *Zigenarflickan* ”, en ung kvinna med yppiga och blottade bröst.
+Mormor ligger delvis i dunkel. Hon heter Beatha och är dotter till en välbärgad skånsk bonde. Hennes gråa hår är prydligt uppsatt med tunna, bruna nålar, ansiktet är runt och vänligt. Hemmet är alltid välstädat. Över soffan i vardagsrummet hänger en guldinramad variant av ungraren Charles Rokas målning ”*Zigenarflickan*”, en ung kvinna med yppiga och blottade bröst.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/323.png)
 
-Ett, kan det tyckas, ekivokt motiv i det förövrigt mycket prudentliga hemmet, eventuellt en relikt från morfars sjömansår.
+Ett, kan det tyckas, ekivokt motiv i det för övrigt mycket prudentliga hemmet, eventuellt en relikt från morfars sjömansår.
 ::: indent
 Minne av mormor: Hon luktar nybakta bullar.
 :::
@@ -114,16 +114,16 @@ Emma är gift med dekopören Nils. En mycket skicklig ebenist med intarsia som s
 <!-- PAGE 5 END -->
 
 <!-- PAGE 6 START -->
-Parentes: Börjlind är ett synnerligen otympligt efternamn. Jag har kallats otaliga varianter genomåren, till exempel Björvall, Björkling och Böglund (i Köpenhamn). En gång har jag haft glädje av en felstavning. Jag fick en utbetalningsavi i brevlådan tillställd Rolf Björling, sångaren. Den var på5.000. Mycket pengar för mig på den tiden.
+Parentes: Börjlind är ett synnerligen otympligt efternamn. Jag har kallats otaliga varianter genomåren, till exempel Björvall, Björkling och Böglund (i Köpenhamn). En gång har jag haft glädje av en felstavning. Jag fick en utbetalningsavi i brevlådan tillställd Rolf Björling, sångaren. Den var på 5.000. Mycket pengar för mig på den tiden.
 ::: indent
-Sen många år använder jag namnet ” Månsson ” när jag beställer bord eller taxi.
+Sen många år använder jag namnet ”Månsson” när jag beställer bord eller taxi.
 :::
 
 Farfar Nils är en mycket excentrisk man som promenerar runt i Malmöiförd stor slokhatt och röd fladdrande halsduk. Hans begivenhet påstarka drycker gör att många av hans vackra möbler hamnar som betalning på olika krogar i staden. Inte mycket rinner tillbaka till Emma och de nio barnen.
 
 ![Upphovsmannen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5.png)
 
-En gång lämnar han hemmet utan ett ord ochåtervänderåtskilliga månader senare med en liten torkad Edelweiss. Denär till Emma. Han har fotvandrat till Engadin i Alperna, plockat blomman och snidat en vacker svart ram till den.
+En gång lämnar han hemmet utan ett ord och återvänderåtskilliga månader senare med en liten torkad Edelweiss. Denär till Emma. Han har fotvandrat till Engadin i Alperna, plockat blomman och snidat en vacker svart ram till den.
 ::: indent
 Farmor hänger tavlan ovanför sin säng.
 :::
@@ -143,7 +143,7 @@ Han är ocksåduktig påokarina och påfallande lik skådespelaren Leslie Howard
 :::
 
 ::: indent
-Min mamma Svea arbetar som expedit i en parfymaffär. Hon har mörkt, lockigt hår och ettöppet, leende ansikte. En dag pekar en av hennes arbetskamrater mot butiksfönstret. Utanför står en sjavig man i stor slokhatt och röd halsduk och tittar in. Arbetskamraten skrattar högt. Svea vill inte avslöja att det är hennes fästmans pappa.
+Min mamma Svea arbetar som expedit i en parfymaffär. Hon har mörkt, lockigt hår och ett öppet, leende ansikte. En dag pekar en av hennes arbetskamrater mot butiksfönstret. Utanför står en sjavig man i stor slokhatt och röd halsduk och tittar in. Arbetskamraten skrattar högt. Svea vill inte avslöja att det är hennes fästmans pappa.
 :::
 
 ::: indent
@@ -156,11 +156,10 @@ Minne av Otto: Han står i denöppna dörrlösa förarhytten på en spårvagn, s
 
  Minne av Svea: Saknas.
 ::: indent
-Jag ska senare i en svit dikter om barndomen benämna henne som <br>” kvinnan utan händer ”.
+Jag ska senare i en svit dikter om barndomen benämna henne som <br>”kvinnan utan händer”.
 :::
 
 ::: indent
-Otto får rollen som ” den frånvarande ”.
+Otto får rollen som ”den frånvarande”.
 :::
 <!-- PAGE 6 END -->
-

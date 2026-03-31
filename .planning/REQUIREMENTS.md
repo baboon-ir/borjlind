@@ -22,17 +22,16 @@
 - [x] **DESIGN-06**: Teckenavstånd är läsoptimerat (lätt positivt tracking för brödtext, 0.01–0.02em)
 - [x] **DESIGN-07**: Radlängd är begränsad till optimal läsbredd (60–75 tecken, ca 65ch)
 
-### E-boksläsare — sidnavigation
+### Biografiläsare — segmenterad scroll-navigation
 
-- [ ] **READER-01**: En sida visas åt gången — synlighetsmodell (JS-kontrollerad), inte scroll
-- [ ] **READER-02**: Svep vänster/höger med Pointer Events API navigerar till nästa/föregående sida
-- [ ] **READER-03**: iOS Safari kantsvep hanteras korrekt (`touch-action: pan-y`, riktningsvinkelkontroll)
-- [ ] **READER-04**: Knappar (pil vänster/höger) navigerar sida — synliga på både mobil och desktop
-- [ ] **READER-05**: Tangentbordsnavigation — piltangenter vänster/höger byter sida
+> **Beslut 2026-03-31:** Segment-scroll-modellen formaliseras som målbild. Ursprunglig paged/swipe-spec (READER-01–05, READER-08–09) ersätts med nedanstående krav. Se Out of Scope för borttagna features.
+
+- [x] **READER-01**: Biografin renderas som segmenterad vertikal scroll — Prolog, årsperioder, Epilog — via `collections.biografiSegments`
+- [x] **READER-02**: TOC-panel navigerar till segment med smooth scroll (`scrollIntoView`)
+- [x] **READER-03**: Scroll-position spåras i realtid — aktuellt segment och sidnummer uppdateras i reader-baren via binärsökning i viewport
 - [x] **READER-06**: Sidindikator visar aktuell sida och totalt antal ("12 / 276")
 - [ ] **READER-07**: Läsposition sparas i localStorage och återställs vid nästa besök
-- [ ] **READER-08**: Läsarcontainer använder `100dvh` (inte `100vh`) — löser iOS Safari webbläsar-chrome-problem
-- [ ] **READER-09**: Befintlig `bio-reader.js` ersätts helt med ny sidstyrningscontroller (scroll-modell tas bort)
+- [x] **READER-10**: Fullskärmsläsare utan header/footer (`noHeader: true`, `noFooter: true`) med egen reader-bar
 
 ### E-boksläsare — årsnavigation
 
@@ -54,10 +53,10 @@
 
 ### Läsarfunktioner (framtida)
 
-- **V2-01**: Sidövergångsanimation (fade eller slide) vid bläddrande
-- **V2-02**: URL per sida (`/biografi/#p-001`) uppdateras vid navigation — möjliggör djuplänkning och webbläsarhistorik
-- **V2-03**: Onboarding-hint vid första besök ("Svep för att bläddra")
-- **V2-04**: Hoppa direkt till specifikt sidnummer via inmatningsfält
+- **V2-01**: Läsposition sparas i localStorage och återställs vid nästa besök (kvarvarande från READER-07)
+- **V2-02**: URL per sida (`/biografi/#p-001`) uppdateras vid scroll — möjliggör djuplänkning och webbläsarhistorik
+- **V2-03**: Hoppa direkt till specifikt sidnummer via inmatningsfält
+- **V2-04**: Smooth scroll-animering vid TOC-navigation (förbättrad)
 
 ## Out of Scope
 
@@ -70,6 +69,12 @@
 | Typsnittsbyte av användaren | Tidlös design — inte ett användarvalt gränssnitt |
 | Font-size-slider / zoom-inställningar | Webbläsarens inbyggda zoom räcker |
 | Tredjepartsbibliotek i webbläsaren | Zero runtime-beroenden |
+| Paged/swipe-navigation (en sida åt gången) | Beslut 2026-03-31: segment-scroll-modellen formaliserad som målbild |
+| Pointer Events swipe-hantering | Ej relevant för scroll-modellen |
+| Tangentbordsnavigation (piltangenter byter sida) | Ej relevant för scroll-modellen |
+| Prev/next-knappar | Ej relevant för scroll-modellen — TOC-navigation räcker |
+| `100dvh` page-container | Ej relevant — läsaren scrollar fritt |
+| Sidövergångsanimation (fade/slide) | Ej relevant för scroll-modellen |
 
 ## Traceability
 
@@ -86,15 +91,12 @@
 | DESIGN-05 | Phase 3 | Complete |
 | DESIGN-06 | Phase 3 | Complete |
 | DESIGN-07 | Phase 3 | Complete |
-| READER-01 | Phase 2 | Gap (as-built) |
-| READER-02 | Phase 2 | Gap (as-built) |
-| READER-03 | Phase 2 | Gap (as-built) |
-| READER-04 | Phase 2 | Gap (as-built) |
-| READER-05 | Phase 2 | Gap (as-built) |
+| READER-01 | Phase 2 | Complete (rewritten for scroll model) |
+| READER-02 | Phase 2 | Complete (rewritten for scroll model) |
+| READER-03 | Phase 2 | Complete (rewritten for scroll model) |
 | READER-06 | Phase 2 | Complete |
-| READER-07 | Phase 2 | Gap (as-built) |
-| READER-08 | Phase 2 | Gap (as-built) |
-| READER-09 | Phase 2 | Gap (as-built) |
+| READER-07 | Phase 2 | Deferred to v2 (V2-01) |
+| READER-10 | Phase 2 | Complete |
 | NAV-01 | Phase 2 | Complete |
 | NAV-02 | Phase 2 | Complete |
 | NAV-03 | Phase 2 | Complete |
@@ -103,18 +105,21 @@
 | LAYOUT-02 | Phase 2 | Complete |
 | TECH-01 | Phase 2 | Complete |
 
-## As-Built Audit (2026-03-19)
+## Decision Log
 
-Current implementation in `main` uses a segment-based scroll reader, not one-page swipe paging.
+### 2026-03-31: Segment-scroll formaliserad som målbild
 
-- Implemented: READER-06, NAV-01, NAV-02, NAV-03, NAV-04, LAYOUT-01, LAYOUT-02, TECH-01
-- Gaps vs original v1 acceptance: READER-01, READER-02, READER-03, READER-04, READER-05, READER-07, READER-08, READER-09
+Segment-scroll-modellen (vertikal scroll med Prolog/årsperioder/Epilog-segment och TOC-navigation) formaliseras som v1-målbild. Ursprungliga paged/swipe-krav (READER-01–05 gamla, READER-08–09) stryks och flyttas till Out of Scope.
+
+**Borttagna krav:** Gamla READER-01 (one-page-at-a-time), READER-02 (Pointer Events swipe), READER-03 (iOS Safari kantsvep), READER-04 (prev/next-knappar), READER-05 (tangentbordsnavigation), READER-08 (100dvh container), READER-09 (ny sidstyrningscontroller).
+
+**Rationale:** Scroll-modellen fungerar i produktion, är enklare att underhålla, och uppfyller kärnvärdet — enkel att navigera, tidlös i sin design.
 
 **Coverage:**
-- v1 requirements: 27 total
-- Mapped to phases: 27
-- Unmapped: 0
+- v1 requirements: 22 total (efter omskrivning)
+- Complete: 21
+- Deferred to v2: 1 (READER-07 → V2-01)
 
 ---
 *Requirements defined: 2026-03-04*
-*Last updated: 2026-03-19 after reality sync with current codebase*
+*Last updated: 2026-03-31 — scroll-modell formaliserad som målbild*

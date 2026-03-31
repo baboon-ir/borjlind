@@ -1,7 +1,7 @@
 # Sibirsk väg
 
 <!-- PAGE 154 START -->
-Privatlivet på ön är ljust och fungerande vid den här tidpunkten, även om vi tvingas ta några fighter med trångsynta skolrepresentanter. Jag och Tove väver en borg av kärlek mot omvärlden. Min extrema rastlöshet (epitetet ” isbjörnen ” alluderar inte på min fysiska förmåga att uthärda omänskliga förhållanden utan på mitt ständiga behov av att vanka runt var jagän befinner mig) såväl som mitt mentala högvarv saktar ner dom häråren, en aning, behovet av att bränna ut språket i näst intill extatiska silhuetter avtar, mojnar, jag försöker mer och mer närma mig ett avklarnat förhållande till mina uttryck, att vila i den nakna men exakta formuleringen.
+Privatlivet på ön är ljust och fungerande vid den här tidpunkten, även om vi tvingas ta några fighter med trångsynta skolrepresentanter. Jag och Tove väver en borg av kärlek mot omvärlden. Min extrema rastlöshet (epitetet ”isbjörnen”alluderar inte på min fysiska förmåga att uthärda omänskliga förhållanden utan på mitt ständiga behov av att vanka runt var jag än befinner mig) såväl som mitt mentala högvarv saktar ner dom häråren, en aning, behovet av att bränna ut språket i näst intill extatiska silhuetter avtar, mojnar, jag försöker mer och mer närma mig ett avklarnat förhållande till mina uttryck, att vila i den nakna men exakta formuleringen.
 ::: indent
 Bruno K har på ett, enligt mig, mästerligt sätt tämjt sin poesi till en befriande enkelhet, lyckats hitta en väg där det utskurna och vackra ordet säger tusenfalt merän det blödande såret, lyckats såmystik och sorg i det till synes vardagliga - det är stor konst:
 :::
@@ -20,23 +20,23 @@ Källarhyllorna fylls med flaskor.
 :::
 
 ::: indent
-Det andra jagägnar mig åtärålfiske. Jag köper ett antalålryssjor och placerar ut dom runt stränderna på ön (det här är långt innanålen rödlistades). Ryssjorna läggs en bit ut i vattnet, med ett smalt nät som följer botten in till stranden. Närålarna möter nätet följer dom det tills dom simmar in i ryssjan och hamnar iänden av den.
+Det andra jag ägnar mig åtärålfiske. Jag köper ett antalålryssjor och placerar ut dom runt stränderna på ön (det här är långt innanålen rödlistades). Ryssjorna läggs en bit ut i vattnet, med ett smalt nät som följer botten in till stranden. Närålarna möter nätet följer dom det tills dom simmar in i ryssjan och hamnar iänden av den.
 :::
 
 ::: indent
-Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att döda enål).  En stor grön plasttunna fylls med salt på botten, ålen läggs ner, saltet torkar ut fettlagret runt skinnet ochålen dör (jag och min dotter Mollyåterger detta i vår ljudbok ” *Mörkret oss emellan* ”). Jag levererar dom dödaålarna till ett rökeri på Kungsholmen, får tillbaka dom och förser umgängeskretsen med röktål under någraår. Det är då jag får epitetet ”Ålkungen ”.
+Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att döda en ål).  En stor grön plasttunna fylls med salt på botten, ålen läggs ner, saltet torkar ut fettlagret runt skinnet och ålen dör (jag och min dotter Mollyåterger detta i vår ljudbok”*Mörkret oss emellan*”). Jag levererar dom dödaålarna till ett rökeri på Kungsholmen, får tillbaka dom och förser umgängeskretsen med röktål under någraår. Det är då jag får epitetet ”Ålkungen ”.
 :::
 
 ::: indent
 Ett tips: färsk, rundröktål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
 :::
 
-Carsten och jag försöker utveckla begreppet multimedia,  dvs en form där olika konstarter möts inom en given avantgardistisk ram. Vårt nästa projekt är en föreställning på Folkoperan där vi tar det ett steg till. Den heter ” *It´s my party and I cry if I want to* ” - ursprungligen titeln på en låt av artisten Lesley Gore.
+Carsten och jag försöker utveckla begreppet multimedia,  dvs en form där olika konstarter möts inom en given avantgardistisk ram. Vårt nästa projekt är en föreställning på Folkoperan där vi tar det ett steg till. Den heter ”*It´s my party and I cry if I want to*”- ursprungligen titeln på en låt av artisten Lesley Gore.
 ::: indent
 Musik, poesi, film, drama, gestaltning.
 :::
 
-![298.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/298.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/298.jpg)
 <!-- PAGE 154 END -->
 
 <!-- PAGE 155 START -->
@@ -76,11 +76,11 @@ Föreställningenöppnar med en prolog av den heltatuerade kroppspoeten Lars Wel
 **DÅ MISSTÄNKER VI ATT ALLT ÄR SLUT**
 :::
 
-![193.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/193.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/193.png)
 
-Mer ur föreställningen: Stefan Nilsson framför ett eget stycke påpiano som heter ” *Tribute to Ferlin* ”. En bit in i musiken stiger spridda körröster upp ur salongen - Leif Strand Kammarkör sitter utplacerade i den stora publiken och fullföljer Stefans pianoverk.
+Mer ur föreställningen: Stefan Nilsson framför ett eget stycke påpiano som heter”*Tribute to Ferlin*”. En bit in i musiken stiger spridda körröster upp ur salongen - Leif Strand Kammarkör sitter utplacerade i den stora publiken och fullföljer Stefans pianoverk.
 ::: indent
-Själv framför jag dikten ” *rent & rått* ” - mitt i en fras lämnar jag plötsligt mikrofonen medan min röst fortsätter läsa i högtalarna i exakt samma tonläge. Jag försvinner ut i kulisserna medan den förinspelade dikten klingar ut från en tom scen.
+Själv framför jag dikten ”*rent & rått*”- mitt i en fras lämnar jag plötsligt mikrofonen medan min röst fortsätter läsa i högtalarna i exakt samma tonläge. Jag försvinner ut i kulisserna medan den förinspelade dikten klingar ut från en tom scen.
 :::
 <!-- PAGE 155 END -->
 
@@ -101,7 +101,7 @@ Själv framför jag dikten ” *rent & rått* ” - mitt i en fras lämnar jag p
 **vi ser en flaska som guppar i dyningen**
 **med ett brev av blod och skinn**
 **fråm en av dom som stannade**
-**när lösenordet hette ”försvinn”**
+**när lösenordet hette”försvinn”**
 
 **vi ser en duva som sväljer en kula**
 **och lyfter med blodigt bröst**
@@ -139,7 +139,7 @@ Föreställningen spelas in och sänds senare på SVT.
 <!-- PAGE 156 END -->
 
 <!-- PAGE 157 START -->
-Tidig morgon på ön. Jag vaknar i en hängmatta i trädgården, gryningsljuset har väckt mig. Jag lämnar tomten och går längs enödslig, smal grusväg, bara för att gå. Efter en stund når jag fram till en stor hage. I hagen finns en ensam häst, långt borta vid ett trästaket. Jag stannar. Hästen ser mig. Daggen gnistrar mellan oss, svag solrök stiger över gräset. Jag vet inte hur länge jag står där innan hästen rör sig. Långsamt, mot mig. Några måsar skriker i fjärran. Jag avvaktar. När hästen är nästan framme stannar den. Jag sträcker in en hand över staketet. Hästen tar ett par steg fram. Jag rör försiktigt handen längs det bruna huvudet, den vänstra kinden, känner värmen som går in i handen. En fysisk beröring med ett stort varmblodigt djur. Jag vet inte hur länge vi står där, tysta, jag smekande och hästen stilla, jag vet fram för allt inte vad hästen upplever.
+Tidig morgon på ön. Jag vaknar i en hängmatta i trädgården, gryningsljuset har väckt mig. Jag lämnar tomten och går längs en ödslig, smal grusväg, bara för att gå. Efter en stund når jag fram till en stor hage. I hagen finns en ensam häst, långt borta vid ett trästaket. Jag stannar. Hästen ser mig. Daggen gnistrar mellan oss, svag solrök stiger över gräset. Jag vet inte hur länge jag står där innan hästen rör sig. Långsamt, mot mig. Några måsar skriker i fjärran. Jag avvaktar. När hästen är nästan framme stannar den. Jag sträcker in en hand över staketet. Hästen tar ett par steg fram. Jag rör försiktigt handen längs det bruna huvudet, den vänstra kinden, känner värmen som går in i handen. En fysisk beröring med ett stort varmblodigt djur. Jag vet inte hur länge vi står där, tysta, jag smekande och hästen stilla, jag vet fram för allt inte vad hästen upplever.
 ::: indent
 När jag går tillbaka börjar det regna.
 :::
@@ -164,7 +164,7 @@ Och jag minns:
 
 Samtidigt har Carsten en utställning på Galleri Engström i Stockholm: ” *333/207”**. *
 
-![194.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/194.png)
+![Jorum Njetta.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/194.png)
 
 Jag skriver en text till katalogen som handlar om Carstens och min privata resa (såh är långt):
 
@@ -188,7 +188,7 @@ Jag tackar ja.
 :::
 
 ::: indent
-Programmet förinspelas. Jag läser korta, expressiva stycken varvade med enbart manliga rockartister (varför just enbart manliga vet jag inte, lite obegripligt, jag har ett antal kvinnliga artister på min favoritlista vid den här tiden, Janis Joplin och Lucinda Williams till exempel, Emmelou Harris). Just innan vi börjar inspelningen bestämmer jag mig för att prata skånska, genomgående, en dialekt jag behärskar fullt ut.Åtskilliga i mitt närområde fattar inte att det är jag som sommarpratar (när jag träffar författaren Björn Ranelid på Bokens Dag 30år senare inleder han samtalet med att berömma mig för min utsökta skånska som han hörde i ett radioprogram på80-talet - snacka om minne!).
+Programmet förinspelas. Jag läser korta, expressiva stycken varvade med enbart manliga rockartister (varför just enbart manliga vet jag inte, lite obegripligt, jag har ett antal kvinnliga artister på min favoritlista vid den här tiden, Janis Joplin och Lucinda Williams till exempel, Emmelou Harris). Just innan vi börjar inspelningen bestämmer jag mig för att prata skånska, genomgående, en dialekt jag behärskar fullt ut. Åtskilliga i mitt närområde fattar inte att det är jag som sommarpratar (när jag träffar författaren Björn Ranelid på Bokens Dag 30 år senare inleder han samtalet med att berömma mig för min utsökta skånska som han hörde i ett radioprogram på 80-talet - snacka om minne!).
 :::
 
 ::: indent
@@ -203,22 +203,22 @@ Senare har jag hört att jag har placerats på en lista över sommarpratare som 
 Bit den hand.
 :::
 
-Det häråret skriver jag också ett filmmanus som heter ” *Kalabaliken i Bender* ”.
+Det häråret skriver jag också ett filmmanus som heter ”*Kalabaliken i Bender*”.
 
-![261.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/261.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/261.jpeg)
 <!-- PAGE 158 END -->
 
 <!-- PAGE 159 START -->
 Idén till historien kommer från LasseÅberg och producenten Bosse Jonsson. Huvudrollen som Karl XII ska göras av Gösta Ekman, omgiven av bland annatÅberg, Brasse Brännström, Lena Nyman och Sten Ljunggren. Regi: Mats Arehn. Filmen ska spelas in i Ungern.
 ::: indent
-Samtidigt med inspelningen medverkar Gösta i Hasse & Tages revy ” *Fröken Fleggmans mustasch* ” på Göta Lejon. För att hinna fåmed Gösta tillräckligt antal inspelningsdagar i Ungern beslutar produktionen att hämta honom på Göta Lejon direkt efter en föreställning och flyga honom i ett litet privatjet till Budapest (alla myter om filmvärlden bekräftas). Med på det trånga planetäräven jag och Lena Nyman. Vi trakteras med champagne som muntrar upp flygningen. En bit ner i Europa luftar Gösta en fundering:
+Samtidigt med inspelningen medverkar Gösta i Hasse & Tages revy ”*Fröken Fleggmans mustasch*”på Göta Lejon. För att hinna fåmed Gösta tillräckligt antal inspelningsdagar i Ungern beslutar produktionen att hämta honom på Göta Lejon direkt efter en föreställning och flyga honom i ett litet privatjet till Budapest (alla myter om filmvärlden bekräftas). Med på det trånga planetäräven jag och Lena Nyman. Vi trakteras med champagne som muntrar upp flygningen. En bit ner i Europa luftar Gösta en fundering:
 :::
 
 ::: indent
 – Det är en jävla tur att det är snoppen och inteöronen som är våra könsorgan, tänk dig att gåpå stan, se en snygg tjej och plötsligt ståröronen rakt ut, illröda.
 :::
 
-Filmen blir en rejäl flopp. En kalkon. Orsakerna är flera, själv får jag min beskärda släng av sleven. En kritiker skriver: ” *Manuset ryms på baksidan av ett frimärke.* ”
+Filmen blir en rejäl flopp. En kalkon. Orsakerna är flera, själv får jag min beskärda släng av sleven. En kritiker skriver:”*Manuset ryms på baksidan av ett frimärke.*”
 ::: indent
 Fyndigt.
 :::
@@ -228,12 +228,12 @@ Bortsett från just det här specifika fallet: Problemet när kritiker uttalar s
 :::
 
 ::: indent
-Men ” *Kalabaliken i Bender* ” har ett dåligt, spretigt manus och är en dålig film, förmodligen resultatet av alltför många kockar med alltför lite kommunikation.
+Men ”*Kalabaliken i Bender*”har ett dåligt, spretigt manus och är en dålig film, förmodligen resultatet av alltför många kockar med alltför lite kommunikation.
 :::
 
-Minne av Kalabalikenproduktionen: Jag, Åberg och Bosse Jonsson tillbringar en helg på Grythyttans Värdshus för att diskutera manus. Första kvällen i restaurangen kommerägaren Carl-Jan Granqvist in och ställer sig påknävid vårt bord. I den positionen samtalar han en bra stund medÅberg och Jonsson. Jag sneglar dåoch dåner påmannen vid bordskanten och undrar om han faller påknäinför alla gäster? Det verkar väldigt obekvämt. Såbjuder han med oss ner i vinkällaren. Mörk, suggestiv, fylld med vad jag antar är rariteter. Jag råkar dra ut en väldigt dammig flaska ur ett träfack och ser iögonvrån Granqvist förskräckta reaktion. Förmodligen har det med dammet att göra, att jag avlägsnar en del damm från flaskkroppen, eller för att jag håller flaskan rakt upp och ner - mystiska saker i botten kan vandra uppåt. När Granqvist har hämtat sig börjar han berätta om ” döda viner ”, ett okänt begrepp för mig, viner som har ” gått över sin tid ” och dött.Ändåfinns det folk som dricker det. Nekrofilpimplare. Jag använder mig senare av informationen i en scen i en Beckfilm, ” *Den japanska Shungamålningen* ”, där Jan Malmsjötalar varmt om ” döda viner ”.
+Minne av Kalabalikenproduktionen: Jag, Åberg och Bosse Jonsson tillbringar en helg på Grythyttans Värdshus för att diskutera manus. Första kvällen i restaurangen kommerägaren Carl-Jan Granqvist in och ställer sig påknävid vårt bord. I den positionen samtalar han en bra stund med Åberg och Jonsson. Jag sneglar då och dåner påmannen vid bordskanten och undrar om han faller påknäinför alla gäster? Det verkar väldigt obekvämt. Såbjuder han med oss ner i vinkällaren. Mörk, suggestiv, fylld med vad jag antar är rariteter. Jag råkar dra ut en väldigt dammig flaska ur ett träfack och ser iögonvrån Granqvist förskräckta reaktion. Förmodligen har det med dammet att göra, att jag avlägsnar en del damm från flaskkroppen, eller för att jag håller flaskan rakt upp och ner - mystiska saker i botten kan vandra uppåt. När Granqvist har hämtat sig börjar han berätta om”döda viner”, ett okänt begrepp för mig, viner som har ”gått över sin tid”och dött. Ändåfinns det folk som dricker det. Nekrofilpimplare. Jag använder mig senare av informationen i en scen i en Beckfilm,”*Den japanska Shungamålningen*”, där Jan Malmsjötalar varmt om ”döda viner”.
 
-Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sammanhang framöver. Den heter ” *Nyttiga Idioter* ” och utgår från ett uttryck av den tyske författaren Heinrich Böll:
+Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sammanhang framöver. Den heter ”*Nyttiga Idioter*” och utgår från ett uttryck av den tyske författaren Heinrich Böll:
 <!-- PAGE 159 END -->
 
 <!-- PAGE 160 START -->
@@ -330,18 +330,18 @@ Jan-Olof Strandberg framför dikten i SVT påföljandeår, själv läser jag den
 Facklor, gråt, mörker.
 :::
 
-Om vi hade kunnat titta tillbaka på dom häråren när dom faktiskt pågick, liteåt det holistiska hållet, hade vi förmodligen reagerat mycket starkt - dom av oss som inte tror på den ” fria marknaden ”. Som tror att det är en semantisk täckmantel för en cynisk form av plundring. Det är nämligen dom häråren som ” marknaden ” släpps ut ur sina hålor och får fritt spelrum. När den kollektiva solidariteten börjar rämna och allt ska handla om jaget. Skit i andra och skjut dig själv. Om privatisering. När mer och mer av det gemensamma säljs ut och omtanke ersätts av profit, i den fria konkurrensens heliga slakthus (svallvågorna slår fortfarande in som en makaber tsunami i samhället).
+Om vi hade kunnat titta tillbaka på dom häråren när dom faktiskt pågick, liteåt det holistiska hållet, hade vi förmodligen reagerat mycket starkt - dom av oss som inte tror på den ”fria marknaden”. Som tror att det är en semantisk täckmantel för en cynisk form av plundring. Det är nämligen dom häråren som ”marknaden”släpps ut ur sina hålor och får fritt spelrum. När den kollektiva solidariteten börjar rämna och allt ska handla om jaget. Skit i andra och skjut dig själv. Om privatisering. När mer och mer av det gemensamma säljs ut och omtanke ersätts av profit, i den fria konkurrensens heliga slakthus (svallvågorna slår fortfarande in som en makaber tsunami i samhället).
 ::: indent
-Till dettaåterkommer jag.
+Till detta återkommer jag.
 :::
 
-Och såhänder det som inte kunde hända men som händer igen. Ett nytt kärnkraftverk havererar. Tjernobyl. I tillräckligt närområde för att förgifta bär och svamp och djur somäter bär och svamp och tvingar människor att inteäta varken bär eller svamp eller djur somäter bär och svamp.
+Och såhänder det som inte kunde hända men som händer igen. Ett nytt kärnkraftverk havererar. Tjernobyl. I tillräckligt närområde för att förgifta bär och svamp och djur som äter bär och svamp och tvingar människor att inteäta varken bär eller svamp eller djur som äter bär och svamp.
 ::: indent
 Överkomligt, naturligtvis, sett till haveriets påverkan där det faktiskt händer. Där allt raderas från bebolighet för oöverskådlig tid. Allt som blir kvar är en enorm död zon.
 :::
 
 ::: indent
-Såhur upprörda blir ” vi ”?
+Såhur upprörda blir”vi”?
 :::
 
 ::: indent
@@ -349,7 +349,7 @@ Klädsamt upprörda över bristen påsen information om haveriet.
 :::
 
 ::: indent
-Förväntat informativa om skillnaden mellan ” gamla ryska kärnkraftverk ” och våra svenska.
+Förväntat informativa om skillnaden mellan ”gamla ryska kärnkraftverk”och våra svenska.
 :::
 
 ::: indent
@@ -361,7 +361,7 @@ Summarum: Ingen ko på isen.
 :::
 
 ::: indent
-Jag har skrivit några texter om kärnkraftverken i Sverige, om riskerna, om effekterna av ett haveri. Det alla, mer eller mindre, är medvetna om. Jag har ocksåskrivit en film om den flagranta bristen påsäkerhet runt dom svenska kärnkraftverken. Jag har gjort research påbåde stängda och aktiva anläggningar, pratat med tekniker och ingenjörer, mött ” rättshaverister ” som visat skisser påhur enkelt ett svenskt kärnkraftverk kan intas och utsättas för utpressning och framför allt: Jag har beskrivit vad som händer i realtid när ett svenskt kärnkraftverk i närheten av en storstadsregion drabbas av en härdsmälta. Det som inte kan hända menändåhänder. Som det hände i Tjernobyl.
+Jag har skrivit några texter om kärnkraftverken i Sverige, om riskerna, om effekterna av ett haveri. Det alla, mer eller mindre, är medvetna om. Jag har ocksåskrivit en film om den flagranta bristen påsäkerhet runt dom svenska kärnkraftverken. Jag har gjort research påbåde stängda och aktiva anläggningar, pratat med tekniker och ingenjörer, mött”rättshaverister”som visat skisser påhur enkelt ett svenskt kärnkraftverk kan intas och utsättas för utpressning och framför allt: Jag har beskrivit vad som händer i realtid när ett svenskt kärnkraftverk i närheten av en storstadsregion drabbas av en härdsmälta. Det som inte kan hända menändåhänder. Som det hände i Tjernobyl.
 :::
 
 ::: indent
@@ -378,7 +378,7 @@ Kanske är det som finnen sa som slickade på en uranstav:
 – Lite strålning ska en karl tåla.
 :::
 
-SVT kontaktar mig och vill att jag skriver en text som ska framföras på årets Guldbaggegala.Återigen ett tillfälle att nålite längre ut. Jag skriver ett ” kungörande ” från Svenska Filminstitutet:
+SVT kontaktar mig och vill att jag skriver en text som ska framföras på årets Guldbaggegala. Återigen ett tillfälle att nålite längre ut. Jag skriver ett”kungörande” från Svenska Filminstitutet:
 
 **”Filminstitutet har just lyckats övertala ingen mindre än Ingmar Bergman att göra ytterligare en långfilm - en dramadokumentär om Nya Testamentet i modern tappning. **
 
@@ -392,7 +392,7 @@ Texten stoppas av tv-ledningen, men trycks senare i tidningen Arbetaren.
 
 Mot slutet av det häråret gör Sergeant Honolulu Double Fucking Five sitt sista framträdande, på Mosebacke Etablissemang. Fullsatt, stökigt och roligt - en musikalisk lustifikation går i graven.
 ::: indent
-R.I.P.
+R. I. P.
 :::
 
 ::: indent
@@ -422,7 +422,7 @@ Jag är inte där.
 :::
 
 ::: indent
-Andra dagar ligger jag raklång på golvet och lyssnar påingenting, i stereo: jag försöker höra tystnaden. Det är svårt, ljud ger inte upp sålätt, det tar tid. Så småningom tar det inre brusetöver, ett avlägset rymdepos anas, djupt inne i hjärnan. Ligger jag tillräckligt länge kan jag urskilja slingor därinne, stråk av ljusår som drar förbi, ibland mörka mystiska ljud, som från okända oceanbottnar.
+Andra dagar ligger jag raklång på golvet och lyssnar påingenting, i stereo: jag försöker höra tystnaden. Det är svårt, ljud ger inte upp så lätt, det tar tid. Så småningom tar det inre brusetöver, ett avlägset rymdepos anas, djupt inne i hjärnan. Ligger jag tillräckligt länge kan jag urskilja slingor därinne, stråk av ljusår som drar förbi, ibland mörka mystiska ljud, som från okända oceanbottnar.
 :::
 
 ::: indent
@@ -481,7 +481,9 @@ Ochär så än idag.
 
  Kanske, men bara kanske, skrev jag aldrig texten.
 
+::: indent
 – Vi vill ha en bild av Fälldin påomslaget, den med plåstret.
+:::
 ::: indent
 – Carstens?
 :::
@@ -491,10 +493,10 @@ Ochär så än idag.
 :::
 
 ::: indent
-Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sjuåren och fånamnet ” *s.k. satir* ”. Påförekommen anledning.
+Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sjuåren och fånamnet ”*s.k. satir*”. Påförekommen anledning.
 :::
 
-![196.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/196.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/196.png)
 
 Jag skriver ett kort förord:
 
@@ -508,11 +510,11 @@ Ord och inga visor.
 <!-- PAGE 162 END -->
 
 <!-- PAGE 163 START -->
-Såhar Carsten en ny utställning på Galleri Engström. Den heter ” *Nofretete* ”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot medäkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på70-talet. Carsten trivs med honom.
+Såhar Carsten en ny utställning på Galleri Engström. Den heter ”*Nofretete*”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på 70-talet. Carsten trivs med honom.
 
-![197.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/197.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/197.png)
 
-Jag bidrar med en kort text till katalogen: ” *When future became history* ”:
+Jag bidrar med en kort text till katalogen: ”*When future became history*”:
 
 **”Han vet att Ni ser. Även den här gången. Han försöker fatta sig kort. Tiden är utmätt. Han ger Er några snabba stänk från den skönhet som är hans. Han vet vad Ni längtar efter, innerst inne. Han lever ensam, genomborrad av ett löfte, i skuggan av det ljus dom blinda kallar klarsyn. Han leker med Er, som alltid. I hans mörka hjärnskål vaggar minnet av en trasig tystnad.**
 
@@ -524,7 +526,7 @@ Jag bidrar med en kort text till katalogen: ” *When future became history* ”
 
 Ett par nyhetsartiklar fångar min uppmärksamhet. Dom handlar om hur vackra kvinnor frånöstländer kontaktar svenska tjänstemän påmellannivåoch förleder dom att börjaägna sigåt industrispionage. Via erotiskt umgänge. Kontakterna tas på olika mässor runt om i Europa.
 ::: indent
-Upplägget kittlar mig. Jag får en idétill en filmhistoria som jag döper till ” *Fallet Landell* ”. Den handlar om den okomplicerade systemutvecklaren Johan Landell. Han besöker datamässan ” Analytics ” i Munchen och fascineras av en dator som används vid balettakademin i Chicago för att mäta ballerinornas stressnivå. PåTrelleborgsfärjan hem kontaktas han av Anna, en attraktiv kvinna med lätt brytning. Hon presenterar sig som italiensk kulturjournalist på väg till Sverige för ett reportage. Erotisk laddning uppstår.
+Upplägget kittlar mig. Jag får en idétill en filmhistoria som jag döper till ”*Fallet Landell*”. Den handlar om den okomplicerade systemutvecklaren Johan Landell. Han besöker datamässan ”Analytics”i Munchen och fascineras av en dator som används vid balettakademin i Chicago för att mäta ballerinornas stressnivå. PåTrelleborgsfärjan hem kontaktas han av Anna, en attraktiv kvinna med lätt brytning. Hon presenterar sig som italiensk kulturjournalist på väg till Sverige för ett reportage. Erotisk laddning uppstår.
 :::
 
 ::: indent
@@ -545,13 +547,13 @@ Plums igen.
 <!-- PAGE 163 END -->
 
 <!-- PAGE 164 START -->
-Nytt märkligt projekt:Radioproducenten Kjell Dabrowski sammanför mig med charmören och ... charlatanen, höll jag på att säga, men det är orättvist ... Gunnar Hellström. En på sin tid mycket välkänd och erkänd skådespelare, med en aura av bedagad Hollywoodparfym runt sig. Anledningen är sångerskan Agnetha Fältskog i ABBA. Det ska göras ett tv-program med henne, en 50-minuters show som går under arbetsnamnet ” *Nun of your business* ”. Jag ska skriva texter, Hellström ska regissera, Fältskog ska agera. Konstellationen av människor fascinerar mig.
+Nytt märkligt projekt:Radioproducenten Kjell Dabrowski sammanför mig med charmören och ... charlatanen, höll jag på att säga, men det är orättvist ... Gunnar Hellström. En på sin tid mycket välkänd och erkänd skådespelare, med en aura av bedagad Hollywoodparfym runt sig. Anledningen är sångerskan Agnetha Fältskog i ABBA. Det ska göras ett tv-program med henne, en 50-minuters show som går under arbetsnamnet”*Nun of your business*”. Jag ska skriva texter, Hellström ska regissera, Fältskog ska agera. Konstellationen av människor fascinerar mig.
 ::: indent
-Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, hon är mycket sympatisk, vacker och avspänd. Efter detåker jag och Dabrowski till Hellströms sommarhus på Torö- enösom har sin egen skvallernivå.
+Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, hon är mycket sympatisk, vacker och avspänd. Efter det åker jag och Dabrowski till Hellströms sommarhus på Torö- en ösom har sin egen skvallernivå.
 :::
 
 ::: indent
-Hellströms sommarhus var en tid ett häng för Greta Garbo och andra ur den tidens kulturliv, senare blev det granne till ett annat ochännu mer spektakulärt hus, den danske resebaronen Simon Spies rymdskepp (från källarplanet byggde han en räls ner till vattnet, såhan kunde fraktas rakt ner i badet utan knotiga mellansteg). När han dog blev hans stenrikaänka Jannie kvar i huset. Vilket inte undgick grannen och charmören Hellström, som inledde en relation med henne.
+Hellströms sommarhus var en tid ett häng för Greta Garbo och andra ur den tidens kulturliv, senare blev det granne till ett annat och ännu mer spektakulärt hus, den danske resebaronen Simon Spies rymdskepp (från källarplanet byggde han en räls ner till vattnet, såhan kunde fraktas rakt ner i badet utan knotiga mellansteg). När han dog blev hans stenrikaänka Jannie kvar i huset. Vilket inte undgick grannen och charmören Hellström, som inledde en relation med henne.
 :::
 
 ::: indent
@@ -562,9 +564,9 @@ Kul syn: Jannie och Gunnar i den lilla rälsbussen på väg ner i det iskalla ha
 Facit: Programmet produceras aldrig.
 :::
 
-Det gör inte heller nästa projekt, tyvärr: ” *Truth Kills Everybody* ”.
+Det gör inte heller nästa projekt, tyvärr: ”*Truth Kills Everybody*”.
 ::: indent
-Multimediagruppen Gateway skriver tillsammans ett treatment till en tv-film som ska handla om våra aktioner och föreställningar, interfolierade med nytt material. Vi har valt titeln från Carstens och mitt arbete med Ted Hughes epos ” *Crow* ”. Vi vill helt enkelt visa multimediaformen i tv-format. Vårt treatment är rikt illustrerat och hyfsat dramatiskt (jag har börjat lära mig en del om treatment: fånga, binda, chocka). Det inleds med:
+Multimediagruppen Gateway skriver tillsammans ett treatment till en tv-film som ska handla om våra aktioner och föreställningar, interfolierade med nytt material. Vi har valt titeln från Carstens och mitt arbete med Ted Hughes epos ”*Crow*”. Vi vill helt enkelt visa multimediaformen i tv-format. Vårt treatment är rikt illustrerat och hyfsat dramatiskt (jag har börjat lära mig en del om treatment: fånga, binda, chocka). Det inleds med:
 :::
 
 ::: poem
@@ -574,26 +576,26 @@ Multimediagruppen Gateway skriver tillsammans ett treatment till en tv-film som 
 **Som förstenade dem med sin blick.**
 :::
 
-Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp påköksbordet till sin fru: ” *va rörigt det blev* ”).
+Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp påköksbordet till sin fru: ”*va rörigt det blev*”).
 ::: indent
-Vårt treatment är ingenting som fäster hos några tv-producenter (det dröjer till 1990 innan vi får genomföra idén i SVT, dåi 8 halvtimmesprogram under namnet ” *Sista Skriket* ”).
+Vårt treatment är ingenting som fäster hos några tv-producenter (det dröjer till 1990 innan vi får genomföra idén i SVT, då i 8 halvtimmesprogram under namnet ”*Sista Skriket*”).
 :::
 
-Resten avåret skriver jag mängder av texter: dikter, jubileumskantater, program för slag, sketcher, artiklar, satirer, sångtexter (för kalenderbitaren finns allt ” extramaterial ” redovisat under APPENDIX).
+Resten avåret skriver jag mängder av texter: dikter, jubileumskantater, program för slag, sketcher, artiklar, satirer, sångtexter (för kalenderbitaren finns allt ”extramaterial”redovisat under APPENDIX).
 <!-- PAGE 164 END -->
 
 <!-- PAGE 165 START -->
-Klargörande 2: Jan Myrdal beskriver sig själv som ” brödskrivare ” (ett mer sympatiskt ordän det fisförnäma ” skriftställare ”) . Jag tycker mycket om det uttrycket. Min tolkning är en författare som skriver för ” bröd ”. För att över leva på sina ord. For better or for worse. Jag har över levt. Allt jag harätit, druckit, klätt mig i, bott i, konsumerat, skänkt bort, är resultatet av det mina tvåhänder har förvandlat till ord (som ett slags redskap för hjärnan).
+Klargörande 2: Jan Myrdal beskriver sig själv som”brödskrivare”(ett mer sympatiskt ordän det fisförnäma”skriftställare”) . Jag tycker mycket om det uttrycket. Min tolkning är en författare som skriver för ”bröd”. För att över leva på sina ord. For better or for worse. Jag har över levt. Allt jag harätit, druckit, klätt mig i, bott i, konsumerat, skänkt bort, är resultatet av det mina tvåhänder har förvandlat till ord (som ett slags redskap för hjärnan).
 ::: indent
 Jag ärvde 40.000 kronor av mina föräldrar.
 :::
 
 ::: indent
-Bortsett från nattaxi, hamnarbete och ett försvinnande kort lärarvikariat har allt mitt ” bröd ” emanerat ur mitt konstnärliga arbete (jo, jag frilansade som copywriter någraår i mitten på60-talet, mest för att fåfri tillgång till sardinburkar). Det har inneburit en konstant flytande tillvaro, utan möjlighet att planera längreän den senaste ersättningen, med ständiga besök av Kronofogdemyndigheten i jakt på nåt att utmäta. Och en tärande ekonomisk oro för framtiden, speciellt med familj och barn, många mörka nätter med isbjörnsvandrande. Talangen att ” bita den hand som föder dig ” har inte underlättat.
+Bortsett från nattaxi, hamnarbete och ett försvinnande kort lärarvikariat har allt mitt ”bröd”emanerat ur mitt konstnärliga arbete (jo, jag frilansade som copywriter någraår i mitten på 60-talet, mest för att fåfri tillgång till sardinburkar). Det har inneburit en konstant flytande tillvaro, utan möjlighet att planera längreän den senaste ersättningen, med ständiga besök av Kronofogdemyndigheten i jakt på nåt att utmäta. Och en tärande ekonomisk oro för framtiden, speciellt med familj och barn, många mörka nätter med isbjörnsvandrande. Talangen att”bita den hand som föder dig”har inte underlättat.
 :::
 
 ::: indent
-Jag har dessutom en förkärlek för att omedelbart omsätta det jag genererar, ordet ” spara ” hann aldrig in i mitt medvetande.
+Jag har dessutom en förkärlek för att omedelbart omsätta det jag genererar, ordet”spara”hann aldrig in i mitt medvetande.
 :::
 
 ::: indent
@@ -601,18 +603,18 @@ Drömmen om att bli ekonomiskt oberoende?
 :::
 
 ::: indent
-Har aldrig funnits där, inte i den bemärkelsen, de flesta genuina författare och konstnärer har lite andra drömmar. Men att bli ekonomiskt oberoende inom ramen för sitt samvete har sin lockelse.Över tid har många ” hjältar ” blivit det. Kanske inte som en effekt av förslappad integritet utan mer som en obönhörlig följd av ” framgång ”.
+Har aldrig funnits där, inte i den bemärkelsen, de flesta genuina författare och konstnärer har lite andra drömmar. Men att bli ekonomiskt oberoende inom ramen för sitt samvete har sin lockelse. Över tid har många”hjältar”blivit det. Kanske inte som en effekt av förslappad integritet utan mer som en obönhörlig följd av”framgång”.
 :::
 
 ::: indent
 Och begåvning.
 :::
 
-Det är sent om natten, mörker utanför, jag har Ulf Lundell i hörlurarna, ” *Kär och Galen* ”. Jag har alltid musik påfull volym när jag skriver, ett lite speciellt sätt att fokusera (idag behöver jag total tystnad). Jag hugger tag i Lundells strofer, låter dom skölja in, befrukta, skjuta iväg mig åt mitt håll (jag respekterar Lundell väldigt mycket för hans förmåga att hålla fast vid sitt uppsåt, många tenderar att tappa det halvvägs in i camemberten). Just ikväll har jag fått tag i en bunt thaisticks, god flykt, det är första gången på mycket länge. Jag brottas med ” *Legenden om Baronessan Borelli* ”. Jag har en enorm samling texter, korta stycken, granatsplitter ur hjärnan, nerslag i det förflutna, ansikten i vattenpölar, röster, tvång, jag vet inte hur jag ska fåihop det till en fungerande berättelse. En roman. Jag vill inte ha en början och ett slut och en hängmatta i mitten.
+Det är sent om natten, mörker utanför, jag har Ulf Lundell i hörlurarna, ”*Kär och Galen*”. Jag har alltid musik påfull volym när jag skriver, ett lite speciellt sätt att fokusera (idag behöver jag total tystnad). Jag hugger tag i Lundells strofer, låter dom skölja in, befrukta, skjuta iväg mig åt mitt håll (jag respekterar Lundell väldigt mycket för hans förmåga att hålla fast vid sitt uppsåt, många tenderar att tappa det halvvägs in i camemberten). Just ikväll har jag fått tag i en bunt thaisticks, god flykt, det är första gången på mycket länge. Jag brottas med ”*Legenden om Baronessan Borelli*”. Jag har en enorm samling texter, korta stycken, granatsplitter ur hjärnan, nerslag i det förflutna, ansikten i vattenpölar, röster, tvång, jag vet inte hur jag ska fåihop det till en fungerande berättelse. En roman. Jag vill inte ha en början och ett slut och en hängmatta i mitten.
 
-**”Jag är mycket trygg. Rummet ljusnar, barnet i bortre hörnet vaknar, vänder sig och somnar om. Tredje gången lyfter jag barnet, tar det försiktigt i famnen, stryker lite fukt från ögonlocken, trycker den lilla utslängda kroppen mot mina försvunna behov och börjar tala. Långsamt, enkelt, utan större innebörd ... om en död man hittar en tom sten och gömmer sitt skrik i stenen, om ett litet barn hittar stenen på en strand, lyfter den i handen, mycket varsamt, som ett fågelägg, och plötsligt slungar stenen över vattenytan, ljudlöst, för att inte skrämma vågorna, först då ska skriket tystna, först då ska en död man nå sitt barn, först då ska han förklara: ”När ingenting finns att berätta finns ingenting. Då har inte ens du och jag varann, då är till och med du och jag främlingar.” Jag slutar tala och tittar ner, barnet i min famn har somnat om, med ett okänt djur i munnen.” **
+**”Jag är mycket trygg. Rummet ljusnar, barnet i bortre hörnet vaknar, vänder sig och somnar om. Tredje gången lyfter jag barnet, tar det försiktigt i famnen, stryker lite fukt från ögonlocken, trycker den lilla utslängda kroppen mot mina försvunna behov och börjar tala. Långsamt, enkelt, utan större innebörd ... om en död man hittar en tom sten och gömmer sitt skrik i stenen, om ett litet barn hittar stenen på en strand, lyfter den i handen, mycket varsamt, som ett fågelägg, och plötsligt slungar stenen över vattenytan, ljudlöst, för att inte skrämma vågorna, först då ska skriket tystna, först då ska en död man nå sitt barn, först då ska han förklara: ”När ingenting finns att berätta finns ingenting. Då har inte ens du och jag varann, då är till och med du och jag främlingar.” Jag slutar tala och tittar ner, barnet i min famn har somnat om, med ett okänt djur i munnen.”**
 
-Jag är besatt av ord, av orden i sig, das Wort an sich, oavsett vad dom betyder, vad dom har för mening. ” *Genomsprungen, fylld av förlåtelse, närskott, återflykt, inuti den vita sorgen.* ” Orden klöser mig i ansiktet, lockar in mig i en ogenomtränglig djungel, får mig att gåvilse i min egen hjärna.
+Jag är besatt av ord, av orden i sig, das Wort an sich, oavsett vad dom betyder, vad dom har för mening.”*Genomsprungen, fylld av förlåtelse, närskott, återflykt, inuti den vita sorgen.*” Orden klöser mig i ansiktet, lockar in mig i en ogenomtränglig djungel, får mig att gåvilse i min egen hjärna.
 ::: indent
 Jag vet inte vad jag villåt.
 :::
@@ -621,4 +623,3 @@ Jag vet inte vad jag villåt.
 Dessutom måste jag ha en ingång.
 :::
 <!-- PAGE 165 END -->
-

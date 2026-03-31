@@ -23,11 +23,15 @@ Läsupplevelsen ska kännas som att hålla en bok i handen — enkel att naviger
 
 ### Active
 
-- [ ] E-boksläsare för biografin — svep vänster/höger (mobil + desktop), en sida per vy
-- [ ] Årsbaserad navigation — innehållsförteckning med alla årsperioder + visuell indikation om vilket år man läser i
-- [ ] Smart sidlayout — bilder/videos som inte ryms med text får egen sida; dropdowns expanderar sidan och tillåter vertikal scroll
-- [ ] Ta bort Tailwind och ersätt med plain CSS — noll runtime-beroenden, minimalt npm-beroende
-- [ ] Design-ovärsyn — fullständig polish för produktion (typografi, spacing, mobiloptimering)
+_Inga aktiva krav — v1.0 milestone komplett (2026-03-31)._
+
+### Completed (v1.0)
+
+- [x] Biografiläsare med segmenterad scroll-navigation — Prolog, årsperioder, Epilog med TOC-panel
+- [x] Årsbaserad navigation — innehållsförteckning med alla årsperioder + visuell indikation om vilket år man läser i
+- [x] Smart sidlayout — bilder/videos som inte ryms med text får egen sida; dropdowns expanderar sidan och tillåter vertikal scroll
+- [x] Ta bort Tailwind och ersätt med plain CSS — noll runtime-beroenden, minimalt npm-beroende
+- [x] Design-översyn — fullständig polish för produktion (typografi, spacing, mobiloptimering)
 
 ### Out of Scope
 
@@ -57,10 +61,10 @@ Känd tech debt: sidantal (276) hårdkodat på flera ställen; Python-scripts ha
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| E-boksläsare bara för biografin | Minnen och appendix har annan natur (kortsamling vs lång narrativ) | — Pending |
-| Plain CSS ersätter Tailwind | Tidlös kodbas utan npm-beroenden som förfaller | — Pending |
-| Sida-per-sida navigation (inte horisontell scroll) | Tydlig paginering, ren gestalt, fungerar med rika element | — Pending |
-| Media får egen sida vid platsbrist | Undviker kompromissad layout för videos/bilder | — Pending |
+| E-boksläsare bara för biografin | Minnen och appendix har annan natur (kortsamling vs lång narrativ) | Complete |
+| Plain CSS ersätter Tailwind | Tidlös kodbas utan npm-beroenden som förfaller | Complete |
+| Segmenterad scroll-navigation (inte paged/swipe) | Enklare underhåll, fungerar i produktion, uppfyller kärnvärdet. Beslut 2026-03-31 | Complete |
+| Media får egen sida vid platsbrist | Undviker kompromissad layout för videos/bilder | Complete |
 
 ---
-*Last updated: 2026-03-04 after initialization*
+*Last updated: 2026-03-31 — scroll-modell formaliserad, v1.0 milestone komplett*

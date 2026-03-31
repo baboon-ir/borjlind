@@ -93,7 +93,7 @@
 
 **     Mannen snurrade sitt glas mellan händerna, ganska länge, innan  han tittade upp på Magdalena igen. Plötsligt var den insjunkna blicken fokuserad, rakt på henne. Hon gjorde en ofrivillig rörelse mot lockarna igen. **
 
-**     - ****”Vattenkvinnan” hade fått halsen avskuren, sa mannen.  **
+**     - ****”Vattenkvinnan”hade fått halsen avskuren, sa mannen.  **
 
 **    Magdalena slet upp en hand för munnen och mannen tittade ut genom det skitiga fönstret: en magpie hade landat på trästaketet vid parkeringen, hundarna var försvunna, borta vid pumpen satt tre japanska turister och sög på en fårkropp. **
 
@@ -119,14 +119,16 @@
 
 **     - Vill du ha skjuts nånstans? sa hon.**
 
-Nu blir det inte så mycket ” hängande i luften ” tycker jag. Inte mannen från resemagasinet heller.
+Nu blir det inte så mycket”hängande i luften” tycker jag. Inte mannen från resemagasinet heller.
 ::: indent
 Båda är nöjda.
 :::
 
  For the record: En av kvinnorna i berättelsen, Enögda Bierté, blir delvis förebilden till karaktären Enögda Vera i vår första deckare *”Springfloden”* - kvinnor som ser mycket bra, speciellt i mörker, och kan paralysera en jaktfalk i flykten med sin blick.
 
+::: indent
 – Jag ska komponera en opera, har du lust att skriva librettot?
+:::
 ::: indent
 Det är Stefan Nilsson som hör av sig. Han ska skriva en opera till Folkoperan i Stockholm. Vi har över tid blivit nära vänner och min respekt för hans musikaliska talang har fördjupats för varje nytt samarbete.
 :::
@@ -138,7 +140,7 @@ Nu vill han att vi jobbar ihop igen.
 
 <!-- PAGE 222 START -->
 ::: indent
-Operan ska handla om Sigurdskvädet, som finns i den gamla Völsungasagan (och är en bärande del i Wagners ” *Niebelungens ring* ”). Historien handlar om Sigurd som dräper draken Fafner för att hämnas på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och skaåter för enas med sinälskade Brynhilde.
+Operan ska handla om Sigurdskvädet, som finns i den gamla Völsungasagan (och är en bärande del i Wagners ”*Niebelungens ring*”). Historien handlar om Sigurd som dräper draken Fafner för att hämnas på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och skaåter för enas med sinälskade Brynhilde.
 :::
 
 ::: indent
@@ -146,14 +148,14 @@ Men guld och girighet leder honom på andra vägar och det slutar inte som han h
 :::
 
 ::: indent
-Jag blir taggad av historien och av utmaningen att skapa ett operalibretto -återigen oskriven mark. Texten vandrar fram och tillbaka ett antal gånger mellan Stefan och mig, korrigeras i förhållande till musiken, till slut är den på plats och får namnet ” *Drakdödaren* ”.
+Jag blir taggad av historien och av utmaningen att skapa ett operalibretto -återigen oskriven mark. Texten vandrar fram och tillbaka ett antal gånger mellan Stefan och mig, korrigeras i förhållande till musiken, till slut är den på plats och får namnet ”*Drakdödaren*”.
 :::
 
 ::: indent
 Operan uruppförs på Folkoperan 1998 i regi avÅsa Kalmér.
 :::
 
-Minne med Stefan: Vi besöker hans barndomshem, en gammal gård uppe i Kukasjärvi, nära finska gränsen. Han visar det spartanska rummet där hans far placerade ett piano som Stefan skulleägna sigåt, han var yngst i barnaskaran och för liten för att arbeta i jordbruket. Oändliga timmar satt han ensam vid pianot och försökte lära sig att spela. Föga anade väl fadern vad det skulle resultera i - bland annat enastående filmmusik som renderade Stefan en Guldbagge 1998 ” för en tonkonst som berikar såväl epik som komik ”.
+Minne med Stefan: Vi besöker hans barndomshem, en gammal gård uppe i Kukasjärvi, nära finska gränsen. Han visar det spartanska rummet där hans far placerade ett piano som Stefan skulleägna sigåt, han var yngst i barnaskaran och för liten för att arbeta i jordbruket. Oändliga timmar satt han ensam vid pianot och försökte lära sig att spela. Föga anade väl fadern vad det skulle resultera i - bland annat enastående filmmusik som renderade Stefan en Guldbagge 1998 ”för en tonkonst som berikar såväl epik som komik”.
 
 Tvågånger i mitt liv har jag befunnit mig utomlands när stora katastrofer inträffar. Den första är nu. Jag bor i en liten fransk by som heter La Garde Frenet. Jag och Cilla har hyrt en lägenhet i en månad. Det är en mycket liten by med ett klassiskt pittoreskt torg där råvaror inhandlas påförmiddagen.
 ::: indent
@@ -180,20 +182,20 @@ Det är en märklig upplevelse. Att avståndet, bristen pånärvaro, skalar bort
 Andra gången det händer är när den stora tsunamin slår till. Denåterkommer jag till.
 :::
 
-En stor del av det häråret, 1995, och en bit in pånästa, kommer jag attägna mig åt att skrivaåtta tv- och filmmanus om Martin Beck. Men innan dess bidrar jag med smått och gott till sju nya avsnitt av ” *Lorry* ”. Sauk och jag har lagt ner ” *Tillfälligt Avbrott* ”, våra inslag i den här omgången går under namnet ” *Cyber-Sauk* ”, olika gestalter med synpunkter på det mesta.
+En stor del av det häråret, 1995, och en bit in pånästa, kommer jag att ägna mig åt att skrivaåtta tv- och filmmanus om Martin Beck. Men innan dess bidrar jag med smått och gott till sju nya avsnitt av ”*Lorry*”. Sauk och jag har lagt ner ”*Tillfälligt Avbrott*”, våra inslag i den här omgången går under namnet ”*Cyber-Sauk*”, olika gestalter med synpunkter på det mesta.
 
-” *Larry löser fallet* ” har nu ersatts av ” *Blaséholmen* ” - ett antal satiriska politikerporträtt som jag skriver tillsammans med Cilla.
+”*Larry löser fallet*”har nu ersatts av”*Blaséholmen*”- ett antal satiriska politikerporträtt som jag skriver tillsammans med Cilla.
 ::: indent
-Detta är den definitivt sista omgången av ” *Lorry* ”.
+Detta är den definitivt sista omgången av”*Lorry*”.
 :::
 <!-- PAGE 222 END -->
 
 <!-- PAGE 223 START -->
 ---
 
-Cilla och jag lämnar innerstan, vi har ett litet barn och söker oss ut en bit från avgaserna. Det blir ett hus i Nacka, tillräckligt stort för att fungera både som hem och arbetsplats. Molly får en dagisplats på ett föräldrakollektiv och jag får en kort story i handen. Denär skriven av Christer Abrahamsen och regissören Mikael Hylin. Dom vill ha hjälp att utveckla den till ett långfilmsmanus. Grundidénär en vältränad pilot som under en dykning slår huvudet i botten ochådrar sig en nackskada som delvis invalidiserar honom. Historien handlar om hur han och hans kvinna försöker klara av att gåvidare med sitt radikalt förändrade förhållande. Ett relationsdrama, helt enkelt. Jag skriver manuset och inseråterigen vad som är sålockande med att skriva manus: det är otroligt svårt.
+Cilla och jag lämnar innerstan, vi har ett litet barn och söker oss ut en bit från avgaserna. Det blir ett hus i Nacka, tillräckligt stort för att fungera både som hem och arbetsplats. Molly får en dagisplats på ett föräldrakollektiv och jag får en kort story i handen. Denär skriven av Christer Abrahamsen och regissören Mikael Hylin. Dom vill ha hjälp att utveckla den till ett långfilmsmanus. Grundidénär en vältränad pilot som under en dykning slår huvudet i botten och ådrar sig en nackskada som delvis invalidiserar honom. Historien handlar om hur han och hans kvinna försöker klara av att gåvidare med sitt radikalt förändrade förhållande. Ett relationsdrama, helt enkelt. Jag skriver manuset och inseråterigen vad som är sålockande med att skriva manus: det är otroligt svårt.
 
-![258.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/258.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/258.png)
 
  Filmen får titeln *”Älskar, älskar inte”* och spelas in med Thomas Hanzon och Camilla Lundén i huvudrollerna. Abrahamsen, som har personliga relationer till Ingmar Bergman, berättar vad mästerregissören sagt när han sett filmen:
 ::: indent
@@ -204,14 +206,14 @@ Cilla och jag lämnar innerstan, vi har ett litet barn och söker oss ut en bit 
 Förmodligen har han rätt.
 :::
 
-Det är den 18 augusti 1995, på morgonen, när nyheten når mig. Kvällen innan har ett sällsynt vidrigt mordägt rum. Fyra nynazistiska ungdomar har sparkat ihjäl en 15-årig skolkamrat, John Hron. Mordet harägt rum vid en liten insjöoch i närvaro av en kamrat till Hron. Orsaken till mordet är att Hron vägrade säga att hanälskade nazister. Detaljerna om misshandeln är plågsamma att ta in, morgonljusetändrar färg, då det gräver sig in i magen.
+Det är den 18 augusti 1995, på morgonen, när nyheten når mig. Kvällen innan har ett sällsynt vidrigt mordägt rum. Fyra nynazistiska ungdomar har sparkat ihjäl en 15-årig skolkamrat, John Hron. Mordet harägt rum vid en liten insjöoch i närvaro av en kamrat till Hron. Orsaken till mordet är att Hron vägrade säga att han älskade nazister. Detaljerna om misshandeln är plågsamma att ta in, morgonljusetändrar färg, då det gräver sig in i magen.
 ::: indent
-Reflektion: Ungdomarna som sparkar ihjäl Hron är nynazister, dvs omhuldar samma ideologi som har legat till grund för Sverigedemokraternas ungdoms för bund när det startades av nazisten Robert Wennerstedt treår tidigare. När mordetäger rum har JimmieÅkesson varit aktiv medlem i förbundet i ettår.
+Reflektion: Ungdomarna som sparkar ihjäl Hron är nynazister, dvs omhuldar samma ideologi som har legat till grund för Sverigedemokraternas ungdoms för bund när det startades av nazisten Robert Wennerstedt treår tidigare. När mordetäger rum har JimmieÅkesson varit aktiv medlem i förbundet i ett år.
 :::
 
-![307.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
 
-Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes program i radioserien ” *Frispel* ”. Jag läser egna texter varvade med musik. En av dom är den här:
+Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes program i radioserien ”*Frispel*”. Jag läser egna texter varvade med musik. En av dom är den här:
 
 **”Den morgonen öppnar Maria sitt fönster, sju våningar upp, och håller ut sin lilla dotter ett par minuter innan hon släpper taget och stänger fönstret igen. När dom får henne att tala, två dygn senare, ber hon att få tala med fängelsets präst.**
 
@@ -243,15 +245,15 @@ Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes progr
 
 **     - Alla dom som vaknar som om ingenting har hänt.”**
 
-Musiken jag har valt till texten är Mari Boines ” *Örnebror* ”.
+Musiken jag har valt till texten är Mari Boines ”*Örnebror*”.
 
-Såringer Gösta. Ett danskt filmbolag som heter Victoria Film vill göra nya Beck-filmer som bygger på dom gamla karaktärerna, men med nya historier. Dom har köpt rättigheterna till karaktärerna av Maj Sjöwall. Gösta undrar om jag är intresserad av att vara med och skriva manus. Projektet har redan pågått en tid, visar det sig, andra manus författare har varit inkopplade. Det har inte funkat såbra. Gösta berättar att det rör sig omåtta filmer om 90 minuter vardera, sex av dom för tv, tvåav dom för både bio och tv.
+Såringer Gösta. Ett danskt filmbolag som heter Victoria Film vill göra nya Beck-filmer som bygger på dom gamla karaktärerna, men med nya historier. Dom har köpt rättigheterna till karaktärerna av Maj Sjöwall. Gösta undrar om jag är intresserad av att vara med och skriva manus. Projektet har redan pågått en tid, visar det sig, andra manus författare har varit inkopplade. Det har inte funkat så bra. Gösta berättar att det rör sig omåtta filmer om 90 minuter vardera, sex av dom för tv, tvåav dom för både bio och tv.
 ::: indent
 Jag vill fundera.
 :::
 
 ::: indent
-Jag har skrivit några kriminalserier vid det här laget, bland annat en med Gösta själv i huvudrollen (” *Skulden* ”). Jag vet att jag gillar genren, att jag gillar Sjöwall-Wahlöös karaktärer. Och att arbeta med Gösta. När jag har funderat klart ringer jag Gösta:
+Jag har skrivit några kriminalserier vid det här laget, bland annat en med Gösta själv i huvudrollen (”*Skulden*”). Jag vet att jag gillar genren, att jag gillar Sjöwall-Wahlöös karaktärer. Och att arbeta med Gösta. När jag har funderat klart ringer jag Gösta:
 :::
 
 ::: indent
@@ -259,7 +261,7 @@ Jag har skrivit några kriminalserier vid det här laget, bland annat en med Gö
 :::
 
 ::: indent
-Jag ser det som en rejäl utmaning: att skrivaåtta gånger 90 minuter med nya kriminalhistorier i ett paket är en rätt unik uppgift. Det skulle ge mig möjlighet att skapa ett helt eget universum med hjälp av några givna karaktärer. Och påallvar testa min förmåga att skriva dialog.
+Jag ser det som en rejäl utmaning: att skrivaåtta gånger 90 minuter med nya kriminalhistorier i ett paket är en rätt unik uppgift. Det skulle ge mig möjlighet att skapa ett helt eget universum med hjälp av några givna karaktärer. Och på allvar testa min förmåga att skriva dialog.
 :::
 
 ::: indent
@@ -267,7 +269,7 @@ Jag får som jag vill.
 :::
 
 ::: indent
-Serien ska produceras av det svenska filmbolaget Filmlance, som leds av bland annat Lars Blomgren. Gösta och jag börjar arbeta, prata, jag börjar skissa påhistorier och manus. Plötsligt får Gösta veta att filmbolaget vill göra en ” omstart ”, för att skilja dom nya Beckfilmerna från dom tio som gjorts tidigare och varit baserade på Sjöwall-Wahlöös böcker. I samband med det vill dom ocksåbyta ut alla huvudskådespelare från den serien, inklusive Gösta och Kjelle Bergqvist.
+Serien ska produceras av det svenska filmbolaget Filmlance, som leds av bland annat Lars Blomgren. Gösta och jag börjar arbeta, prata, jag börjar skissa påhistorier och manus. Plötsligt får Gösta veta att filmbolaget vill göra en ”omstart”, för att skilja dom nya Beckfilmerna från dom tio som gjorts tidigare och varit baserade på Sjöwall-Wahlöös böcker. I samband med det vill dom ocksåbyta ut alla huvudskådespelare från den serien, inklusive Gösta och Kjelle Bergqvist.
 :::
 
 ::: indent
@@ -288,7 +290,7 @@ Det kräver en viss logistik.
 :::
 
 ::: indent
-Jag bestämmer att varje synops får ta 2 veckor, treatment 2 veckor, förstamanuset 3 veckor, andramanuset 2 veckor och slutmanuset 2 veckor. Totalt elva veckor. Gångeråtta. Jag arbetar alltså88 veckor med serien.
+Jag bestämmer att varje synops får ta 2 veckor, treatment 2 veckor, förstamanuset 3 veckor, andramanuset 2 veckor och slutmanuset 2 veckor. Totalt elva veckor. Gångeråtta. Jag arbetar alltså 88 veckor med serien.
 :::
 
 Mitt skrivschema blir senare en mall för kommande tv-serieproduktioner, även i dom nordiska länderna, pågott och ont.
@@ -298,7 +300,7 @@ För att klargöra en del elementära begrepp som jag ofta får frågor om i fil
 
 <!-- PAGE 225 START -->
 ::: indent
-Ett *synops* beskriver kortfattat den tänkta historien från a tillö, på en eller två A4-sidor. Idén, helt enkelt.
+Ett *synops* beskriver kortfattat den tänkta historien från a till ö, på en eller två A4-sidor. Idén, helt enkelt.
 :::
 
 ::: indent
@@ -306,7 +308,7 @@ Ett *treatment*är en utförligare beskrivning av historien, med tänkta karakt�
 :::
 
 ::: indent
-Ett *manus* skrivs ofta i flera versioner, förstaversion, andraversion osv. Det landar i ett *slutmanus*, som såsmåningom blir ett *inspelningsmanus*, där alla slutgiltiga korrigeringar har förts in.
+Ett *manus* skrivs ofta i flera versioner, förstaversion, andraversion osv. Det landar i ett *slutmanus*, som så småningom blir ett *inspelningsmanus*, där alla slutgiltiga korrigeringar har förts in.
 :::
 
 ::: indent
@@ -317,9 +319,9 @@ Idag används iblandäven *outline*, som är ett mellanting mellan synopsis och 
 Ett ytterligare begrepp som har etablerat sig är *pitch, * ett ofog där du förväntas gör en muntlig presentation av din historia (för att folk inte orkar läsa, antar jag). Personligen har jag aldrig accepterat den formen.
 :::
 
-Jag börjar skriva. Under arbetets gång tar jag hjälp av Cilla för läsning och idébollande. Hon blir dessutom direkt involverad i utformningen av ” *Monstret* ” och ” *Öga för öga* ”.
+Jag börjar skriva. Under arbetets gång tar jag hjälp av Cilla för läsning och idébollande. Hon blir dessutom direkt involverad i utformningen av ”*Monstret*”och”*Öga för öga*”.
 ::: indent
-Den senare historien är förövrigt ett bra exempel på vår metod att kasta runt pjäserna en bit in i skrivandet. Mördaren var från början en man. Vad händer om det är en kvinna istället? Resultat: den första kvinnliga seriemördaren i det här sammanhanget.
+Den senare historien är för övrigt ett bra exempel på vår metod att kasta runt pjäserna en bit in i skrivandet. Mördaren var från början en man. Vad händer om det är en kvinna istället? Resultat: den första kvinnliga seriemördaren i det här sammanhanget.
 :::
 
 ::: indent
@@ -327,10 +329,10 @@ Byta kön, ålder, ras och nationalitet ger ofta oanade effekter i en långt skr
 :::
 
 ::: indent
-Metoden kan med fördelas applicerasäven påkända litterära verk. Byt ut Holden Caulfield i ” Catcher in the Rye ” mot Holly Caulfield, eller läs Siddhartha som historien om en ung flicka. Det ger en del spännande effekter.
+Metoden kan med fördelas applicerasäven påkända litterära verk. Byt ut Holden Caulfield i ”Catcher in the Rye”mot Holly Caulfield, eller läs Siddhartha som historien om en ung flicka. Det ger en del spännande effekter.
 :::
 
-Samtidigt som jag skriver mina Beckmanus pågår ett febrilt arbete för att hitta en ny Martin Beck. Själv föreslår jag Sten Ljunggren, en person med exakt den tyngd och humanitära utstrålning som jag inbillar mig att Beck har. Det stöter påpatrull. Sten anses inte ” bankable ”. Valet faller istället påskådespelaren Peter Haber.
+Samtidigt som jag skriver mina Beckmanus pågår ett febrilt arbete för att hitta en ny Martin Beck. Själv föreslår jag Sten Ljunggren, en person med exakt den tyngd och humanitära utstrålning som jag inbillar mig att Beck har. Det stöter påpatrull. Sten anses inte”bankable”. Valet faller istället påskådespelaren Peter Haber.
 ::: indent
 Även karaktären Gunvald Larsson ska hittas. Jag tittar på ett antal provfilmer, med bland annat Thorsten Flink. När jag får se filmen med Mikael Persbrandt (en hårt arbetande skådis) känns valet självklart. Han får rollen.
 :::
@@ -353,7 +355,7 @@ Jag skriver in karaktären i manuset och tycker att det fungerar bra, det bryter
 :::
 
 ::: indent
-Det är det många som inte tycker, framför allt inte dom tunga tyska finansiärerna. Dom begriper inte ett dugg och kräver att Grannen tas bort ur manusen. Jag har vid det här laget en ganska tung position i hela processen och kan lugnt förklara att stryks Grannen såblir det inga manus.
+Det är det många som inte tycker, framför allt inte dom tunga tyska finansiärerna. Dom begriper inte ett dugg och kräver att Grannen tas bort ur manusen. Jag har vid det här laget en ganska tung position i hela processen och kan lugnt förklara att stryks Grannen så blir det inga manus.
 :::
 
 ::: indent
@@ -366,7 +368,7 @@ Grannen behålls.
 <!-- PAGE 225 END -->
 
 <!-- PAGE 226 START -->
-Grannen blir populäräven här hemma (till dags dato har han över en kvarts miljon följare pånätet), hans specialuttryck ” *Skaru ha en stänkare?”* blir näst intill ” bevingat ”. Mycket beroende påskådespelaren Ingvar Hirdwalls geniala tolkning av karaktären. Hirdwall vet exakt vad jag villåt i all undertext, han har ett sublimtöra för komisk tajming. Rätt snart får han en egen fanclub, den kallar sig ” Kragakademien ”, syftande på den stödkrage Grannen bär.
+Grannen blir populäräven här hemma (till dags dato har han över en kvarts miljon följare på nätet), hans specialuttryck ” *Skaru ha en stänkare?”* blir näst intill ”bevingat”. Mycket beroende påskådespelaren Ingvar Hirdwalls geniala tolkning av karaktären. Hirdwall vet exakt vad jag villåt i all undertext, han har ett sublimtöra för komisk tajming. Rätt snart får han en egen fanclub, den kallar sig ”Kragakademien”, syftande på den stödkrage Grannen bär.
 ::: indent
 Grannenminne 1: Vid en illuster tillställning på restaurang Tennstopet tilldelas Hirdwall en Guldkrage av Akademien. Han är mycket stolt och bär den hela kvällen.
 :::
@@ -380,7 +382,7 @@ Lite kul ska man ha.
 :::
 
 ::: indent
-Mindre roligt Grannenminne: Statsminister Stefan Löfven framträder i tv-programmet ” Hellenius Hörna ” som Grannen, med stödkrage och rödtonade glasögon och säger ” *Skaru ha en stänkare?* ”.
+Mindre roligt Grannenminne: Statsminister Stefan Löfven framträder i tv-programmet ”Hellenius Hörna”som Grannen, med stödkrage och rödtonade glasögon och säger”*Skaru ha en stänkare?*”.
 :::
 
 ::: indent
@@ -391,11 +393,11 @@ Det är enbart pinsamt.
 Direkt corny Grannenminne: Inför en Guldbaggegala får Filminstitutet för sig att kontakta den framgånsrika kommunikationsbyrån Acne för att skapa lite hajp runtårets utdelning. Det resulterar i  en liten docka föreställande Grannen, förpackad i en plastkartong som en Star Wars-figur, ful och olik. Den delas ut med ett drinkset och en liten plastcigarill.
 :::
 
-![328.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/328.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/328.png)
 
 Hej och hå.
 ::: indent
-Till slut går det sålångt att tidskriften Cafébasunerar ut: ” Vi måste organisera oss i kampen för ett stänkarfritt Sverige! ”
+Till slut går det så långt att tidskriften Cafébasunerar ut: ”Vi måste organisera oss i kampen för ett stänkarfritt Sverige!”
 :::
 
 Intressant konflikt om upphovsrätt: Cilla och jag avslutar vårt Beckskrivande efter 26 filmer. Filmlance, TV4 och den motsvarande kanalen i Tyskland (ZDF) vill fortsätta serien. Det är fine med oss, även om det känns extremt mjölkigt. Däremot påpekar jag att dom inte kan använda sig av Grannen i en eventuell fortsättning. Den karaktären är min. Det blir upptakten till en segsliten upphovsrättslig konflikt. I första vändan försöker Filmlance fåmig att enbart skriva Grannen-scenerna i den tänkta fortsättningen. Jag är helt ointresserad av det. Istället föreslår jag att dom förnyar konceptet, låter en begåvad komedienne, typ Suzanne Reuter, dyka upp som Grannens okända syster. Grannen har dött och hon har tagit över hans lägenhet. Det skulle ge ny komisk energiåt scenerna. Jag får inget gehör för det förslaget. Istället hävdar filmbolaget att hela det fortsatta Beckprojektet skulle gåi stöpet om inte Grannen är med, vilket i sin tur skulleäventyra hela produktionsbolagets existens.
@@ -404,7 +406,7 @@ Ett lite egendomligt argument.
 :::
 
 ::: indent
-Jag tar det ett steg till, kontaktar Dramatiker för bundets jurister och låter dom lusläsa avtalen som finns mellan mig, Cilla och Nordisk Film (huvudägaren av Beckrättigheterna). Tjocka, delvis svårbegripliga avtal på engelska. Juristerna kommer fram till att det finns ett visst tolkningsutrymme för en konflikt, det är inte glasklart uttryckt i det finstilta vem somäger rätten till vilka karaktärer.
+Jag tar det ett steg till, kontaktar Dramatiker för bundets jurister och låter dom lusläsa avtalen som finns mellan mig, Cilla och Nordisk Film (huvudägaren av Beckrättigheterna). Tjocka, delvis svårbegripliga avtal på engelska. Juristerna kommer fram till att det finns ett visst tolkningsutrymme för en konflikt, det är inte glasklart uttryckt i det finstilta vem som äger rätten till vilka karaktärer.
 :::
 
 ::: indent
@@ -419,7 +421,7 @@ Ska jag ta en juridisk tvist med oviss utgång? Ta det till skiljedomstol? Tid? 
 <!-- PAGE 227 START -->
 Extra trängd blir jag av det faktum att konflikten hanteras av min näre vän Lars Blomgren. Till slut enas vi om en kompromiss: Grannen får användasäven i fortsättningen, under förutsättning att jag ersätts rundligt för varje film han ingår i. En deal som skapar blodstörtning hos några personer på Nordisk Film som anser att det är orimligt att dom ska betala för nåt dom redanäger.
 ::: indent
-Men såblir det.
+Men så blir det.
 :::
 
 ::: indent
@@ -431,9 +433,9 @@ Beck-serien släpps och visas i TV4. Kritiken är bitvis hård från professione
 Nåväl, var och en efter tycke och smak (tv-publiken delar inte hans uppfattningen, men det är en annan sak).
 :::
 
-![516.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/516.png)
+![Cillas och mina 26 Beck-filmer.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/516.png)
 
-Apropåreaktionerna på Beckserien: det svala mottagande den får på många håll i Sverige speglar förmodligen tv-recensenternasärliga uppfattning. Jag noterar det och tänker inte mer på det. Inte förrän jag besöker olika författarsammanhang i dom nordiska länderna och blir mött med en oerhörd respekt för just Beckserien. I Danmark och Norge berättar regissörer och manus författare att ” *Beck är ribban för oss* ” ... detta är ett tag innan danskarna började göra några av tv-världens bästa krimiserier, ” *Brottet* ” till exempel.
+Apropåreaktionerna på Beckserien: det svala mottagande den får på många håll i Sverige speglar förmodligen tv-recensenternasärliga uppfattning. Jag noterar det och tänker inte mer på det. Inte förrän jag besöker olika författarsammanhang i dom nordiska länderna och blir mött med en oerhörd respekt för just Beckserien. I Danmark och Norge berättar regissörer och manus författare att ”*Beck är ribban för oss*”... detta är ett tag innan danskarna började göra några av tv-världens bästa krimiserier,”*Brottet*” till exempel.
 ::: indent
 Och det får mig att reflektera över det Croneman skrev, om att ge sig på en nationalklenod. Det gör man tydligen inte hur som helst.
 :::
@@ -442,7 +444,7 @@ Och det får mig att reflektera över det Croneman skrev, om att ge sig på en n
 Åandra sidan skrev samme Croneman såh är ett tag senare:
 :::
 
-![225.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/225.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/225.png)
 
 Efterhandskommentar om den första Beckserien: Den höjde tempot. Den vässade dialogen. Den drog upp dagsaktuell kriminalitet och försökte gestalta den inom ramen för 90 minuter. Den hade humor. Och framför allt: den hade några oerhört begåvade skådespelare. Några av filmerna försvarade tveklöst sitt utrymme.
 ::: indent
@@ -455,7 +457,7 @@ Och tydligen ocksåenligt radioprofilen Kjell Alinge som skriver såh är om Bec
 
 **”Vi har alldeles för få bra svenska nutidsserier. Beck är kanske den enda som fått växa ut och skriva en sorts svensk dagbok mitt i polisjakten på buset. Den fria framställningen och respektlösheten i berättelserna gör att jag hoppas att de (Cilla & Rolf Börjlind) aldrig slutar. Beck är svensk samtidskommentar utan motstycke. Brottslighetens förändring är en god temptagning på läget i landet. Nu spränger serien hela tiden ramen och snubblar vigt mellan satir, thriller och fri Börjlindfabulering. Se nya Beck. Se nya Beck. Alltid.”**
 
-1996är ett märkligt tomtår, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
+1996 är ett märkligt tomtår, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
 ::: indent
 Annars går början avåretåt till att avsluta första Beck-serien, efter det är det stiltje. Avståndet mellan den yttre världen och mitt skrivande har dragits ut under en längre tid, skrivandet har blivit ett skrivande per se, inte en direkt reaktion påomvärlden.
 :::
@@ -479,7 +481,7 @@ Resultat: Jag går ner i stabsläge, grupperar om tankarna, försöker hitta ett
 :::
 
 ::: indent
-Tänker: Om du slår en squashboll stenhårt mot betongväggen framför dig och såfinns det ingen vägg där? Bollen bara fortsätter ut i tomma intet? Du får ingen retur? Hela ditt uppsåt bygger på att du får en stenhård boll tillbaka och kan dra till den igen? Men om det inte kommer nån boll? Vad ska du dåmed ett racket till? Varför står duöverhuvudtaget där och glor ut i tomma intet efter en boll som försvann? Om det inte finns en vägg, eller en mur, vad handlar spelet om då?
+Tänker: Om du slår en squashboll stenhårt mot betongväggen framför dig och så finns det ingen vägg där? Bollen bara fortsätter ut i tomma intet? Du får ingen retur? Hela ditt uppsåt bygger på att du får en stenhård boll tillbaka och kan dra till den igen? Men om det inte kommer nån boll? Vad ska du då med ett racket till? Varför står duöverhuvudtaget där och glor ut i tomma intet efter en boll som försvann? Om det inte finns en vägg, eller en mur, vad handlar spelet om då?
 :::
 
 ::: indent
@@ -490,14 +492,14 @@ Enkelt svar:
 
  Samma racket, samma språk.
 
-Sorglig notering: den amerikanska sångerskan Eva Cassidy dör, bara 33år gammal. Hudcancer. Hennes sånger når inte fram till mig förrän en bra bit in på2000-talet. Hon går under radarn hela sin livstid och blir världskänd först flera år efter sin död. Cassidy har en enastående röst och en bländande musikalitet, hon kan plocka upp en irländsk gammal ballad eller en söndersjungen evergreen och ge sångerna helt nya dimensioner. Hennes död är verkligen en förlust för musikvärlden. Men hennes sånger lever pådiverse cd-skivor.
+Sorglig notering: den amerikanska sångerskan Eva Cassidy dör, bara 33 år gammal. Hudcancer. Hennes sånger når inte fram till mig förrän en bra bit in på 2000-talet. Hon går under radarn hela sin livstid och blir världskänd först flera år efter sin död. Cassidy har en enastående röst och en bländande musikalitet, hon kan plocka upp en irländsk gammal ballad eller en söndersjungen evergreen och ge sångerna helt nya dimensioner. Hennes död är verkligen en förlust för musikvärlden. Men hennes sånger lever pådiverse cd-skivor.
 ::: indent
 Njut!
 :::
 
 Ulf Linde har slutat som konstintendent på Moderna Museet och tagit över Thielska Galleriet på Djurgården. Han arrangerar en minnesutställning med Carstens verk.
 
-![209.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/209.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/209.png)
 
 Såhär skriver Linde om Carsten i inbjudan till utställningen:
 
@@ -517,15 +519,15 @@ Såhär skriver Linde om Carsten i inbjudan till utställningen:
 
 **     Ändå**** ... - kanske skulle han ha sagt att han helt enkelt ville göra något vackert.”**
 
-![210.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/210.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/210.png)
 
-Jag skriver själv en text till utställningskatalogen med titeln ” *Konstens Öga* ”:
+Jag skriver själv en text till utställningskatalogen med titeln ”*Konstens Öga*”:
 
 **”Det finns en bristpunkt i varje människa, en punkt där kollapsen bidar. Den punkten är konstens öga. Därifrån återvänder ingen oanfrätt: det blicken sett i konstens öga utesluter allt slagg. Somliga av oss sugs mot punkten, med eller mot vår vilja. Somliga flyr åt andra hållet. Carsten flydde aldrig. Obönhörligt sögs han mot sin bristpunkt, balanserade över avgrunden och återvände: punkten blev hans öga.**
 
-**Det var därifrån han målade. Anfrätt, och konstant besatt: han brast på duken. Resultatet var vackert och påfrestande. Exakt och gåtfullt. Han skar ett snitt i varje tavla och presenterade sin bristpunkt: han målade kollapsen. Inte sin egen, den hade han dresserat, utan vår. Samtidens kollaps. Den är avläsbar i varje bild, för den som vågar. Den är där för oss, vi som glider vårdslösa genom världen. För att vi ska minnas det vi helst vill glömma: hur det egentligen ser ut. På riktigt. När sanningen är det enda som återstår. Det blev hans verk. Och öde. När andra samlade sin kompetens i estetiskt  fulländade tavlor, slet Carsten upp ett trasigt hål av skräck. Fulhet, skam, groteskeri ... han visste sin omutliga uppgift: att förvalta skriket. Han var alltigenom sann. Det gjorde honom farlig, och förtvivlad. Och mycket utanför. Han visste för mycket om det förbjudna. Om det som avtäcks vid bristpunkten: han visste vem han var. Det är få förunnat, och det har sitt pris. Konstens öga är obarmhärtigt, i bristpunkten finns ingen nåd. Där härskar ett säreget ultimatum: berätta exakt det du ser, eller brist. Carsten berättade. Om absolut kärlek, som det innersta och yttersta av allt: han älskade sin kvinna tills han dog. Om ondskan, den lismande ondskan, som omärkligt förvandlar oss till det vi en gång fruktade. Om längtan, efter den sortens samhörighet som utesluter alla andra. Om hungern, det skållade barnet, den hunger som handlar om bekräftelse, eller bara enkel tröst. Om hatet, skuggan som förföljer oss, rösten av den innan, som förminskar oss med flit: han visste allt om den sortens hat. Och han berättade. Han berättade om det rudimentära. Om lusten, glädjen, den färgade hjärnan som exploderar i en orgasm av primitiv lycka. Om sexualiteten. Sexualiteten, som flåsar genom kroppen som en rabiesdrabbad vinthund: han vågade glänta på mörkret. Han vågade se. Åt oss. Och berätta. Han arbetade utan förtecken, avskalat och direkt, han hade gångavstånd till det undermedvetna. Hans redskap var skurna ur omvärlden, tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som tillät hans blick att betrakta tillvaron med skoningslös konsekvens: han hade tolkningsföreträde till det djupt skrämmande. Och sanna: konstens öga. Nu är han död ... och jag såg honom senast igår, när han leende gled genom minnet och kastade släckt ljus mot himlen.” **
+**Det var därifrån han målade. Anfrätt, och konstant besatt: han brast på duken. Resultatet var vackert och påfrestande. Exakt och gåtfullt. Han skar ett snitt i varje tavla och presenterade sin bristpunkt: han målade kollapsen. Inte sin egen, den hade han dresserat, utan vår. Samtidens kollaps. Den är avläsbar i varje bild, för den som vågar. Den är där för oss, vi som glider vårdslösa genom världen. För att vi ska minnas det vi helst vill glömma: hur det egentligen ser ut. På riktigt. När sanningen är det enda som återstår. Det blev hans verk. Och öde. När andra samlade sin kompetens i estetiskt  fulländade tavlor, slet Carsten upp ett trasigt hål av skräck. Fulhet, skam, groteskeri ... han visste sin omutliga uppgift: att förvalta skriket. Han var alltigenom sann. Det gjorde honom farlig, och förtvivlad. Och mycket utanför. Han visste för mycket om det förbjudna. Om det som avtäcks vid bristpunkten: han visste vem han var. Det är få förunnat, och det har sitt pris. Konstens öga är obarmhärtigt, i bristpunkten finns ingen nåd. Där härskar ett säreget ultimatum: berätta exakt det du ser, eller brist. Carsten berättade. Om absolut kärlek, som det innersta och yttersta av allt: han älskade sin kvinna tills han dog. Om ondskan, den lismande ondskan, som omärkligt förvandlar oss till det vi en gång fruktade. Om längtan, efter den sortens samhörighet som utesluter alla andra. Om hungern, det skållade barnet, den hunger som handlar om bekräftelse, eller bara enkel tröst. Om hatet, skuggan som förföljer oss, rösten av den innan, som förminskar oss med flit: han visste allt om den sortens hat. Och han berättade. Han berättade om det rudimentära. Om lusten, glädjen, den färgade hjärnan som exploderar i en orgasm av primitiv lycka. Om sexualiteten. Sexualiteten, som flåsar genom kroppen som en rabiesdrabbad vinthund: han vågade glänta på mörkret. Han vågade se. Åt oss. Och berätta. Han arbetade utan förtecken, avskalat och direkt, han hade gångavstånd till det undermedvetna. Hans redskap var skurna ur omvärlden, tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som till ät hans blick att betrakta tillvaron med skoningslös konsekvens: han hade tolkningsföreträde till det djupt skrämmande. Och sanna: konstens öga. Nu är han död ... och jag såg honom senast igår, när han leende gled genom minnet och kastade släckt ljus mot himlen.” **
 
-Till vernissaget trycker jag ocksåupp en diktsamling, 38 epitaph till minne av Carsten. Den heter” *Som en akt av längtan* ” (finns redovisad i MINNEN). Såhär lyder den första dikten:
+Till vernissaget trycker jag ocksåupp en diktsamling, 38 epitaph till minne av Carsten. Den heter”*Som en akt av längtan*”(finns redovisad i MINNEN). Såhär lyder den första dikten:
 <!-- PAGE 229 END -->
 
 <!-- PAGE 230 START -->
@@ -537,29 +539,29 @@ Till vernissaget trycker jag ocksåupp en diktsamling, 38 epitaph till minne av 
 **mellan händer som sörjt sig vackra**
 :::
 
-![304.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/304.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/304.png)
 
-På tal om döda: Allen Ginsberg avlider i april det häråret. I East Village, New York. Han är 70år och tämligen sliten. När jag läser om hans död tänker jag på våra dygn i Boulder, med Bruno, våra samtal och dispyter, hans varma mörkaögon, hans mjuka röst ... det känns som ett annatårhundrade.
+På tal om döda: Allen Ginsberg avlider i april det häråret. I East Village, New York. Han är 70 år och tämligen sliten. När jag läser om hans död tänker jag på våra dygn i Boulder, med Bruno, våra samtal och dispyter, hans varma mörkaögon, hans mjuka röst ... det känns som ett annatårhundrade.
 ::: indent
 Jag hoppas han dog lycklig.
 :::
 
-Minns ni den satiriska tv-serien ” *Pannrum 2* ”?
+Minns ni den satiriska tv-serien”*Pannrum 2*”?
 ::: indent
-Förmodligen inte. Idén kommer från ett engelskt tv-program: halvbild påtvåmän med nakna över kroppar, tätt intill varann vid ett bord pratande om ditten och datten. I min version är det Stefan Sauk och Kjelle Bergqvist och programmen döper jag till ” *Pannrum 2* ”. Dom är fem minuter långa och avslutar samhällsprogrammet ” *Striptease* ” i TV2.
+Förmodligen inte. Idén kommer från ett engelskt tv-program: halvbild på tvåmän med nakna över kroppar, tätt intill varann vid ett bord pratande om ditten och datten. I min version är det Stefan Sauk och Kjelle Bergqvist och programmen döper jag till ”*Pannrum 2*”. Dom är fem minuter långa och avslutar samhällsprogrammet ”*Striptease*” i TV2.
 :::
 
 ::: indent
 Såhär beskriver filmprofessorn Leif Furhammar dom småstänkarna:
 :::
 
-**”Med risk att stöta mig med den mer väluppfostrade delen av läsekretsen skulle jag vilja hävda att några av tv-veckans fem mest spännande minuter är de som brukar komma efter ”Striptease” på onsdagskvällarna. ”Pannrum 2” kallas denna satirkortis av någon anledning. Det är där Stefan Sauk och Kjell Bergqvist sitter och viskar om ditt och datt i den svenska offentligheten. Det är utomordentligt provocerande, förfärligt elakt, kolossalt kvickt och dessutom helgalet på ett diskret sätt. Ta risken att titta. Det går fort över.”**
+**”Med risk att stöta mig med den mer väluppfostrade delen av läsekretsen skulle jag vilja hävda att några av tv-veckans fem mest spännande minuter är de som brukar komma efter ”Striptease”på onsdagskvällarna.”Pannrum 2” kallas denna satirkortis av någon anledning. Det är där Stefan Sauk och Kjell Bergqvist sitter och viskar om ditt och datt i den svenska offentligheten. Det är utomordentligt provocerande, förfärligt elakt, kolossalt kvickt och dessutom helgalet på ett diskret sätt. Ta risken att titta. Det går fort över.”**
 
-![211.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/211.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/211.png)
 
 Dags att debutera som långfilmsregissör.
 ::: indent
-Ett uppdrag som börjar med att jag får en bok av Christer Abrahamsen som heter ” *Dödlig Drift* ”. Denär skriven av polisen Bo Norgren och Abrahamsen undrar om jag vill skriva ett manus på den. Jag läser boken och svarar honom:
+Ett uppdrag som börjar med att jag får en bok av Christer Abrahamsen som heter ”*Dödlig Drift*”. Denär skriven av polisen Bo Norgren och Abrahamsen undrar om jag vill skriva ett manus på den. Jag läser boken och svarar honom:
 :::
 
 ::: indent
@@ -567,7 +569,7 @@ Ett uppdrag som börjar med att jag får en bok av Christer Abrahamsen som heter
 :::
 
 ::: indent
-Abrahamsen tycker att det låter som en spännande idé. En reaktion som inte är speciellt evidensbaserad, som det heter idag, utan förmodligen bygger på hans allmänna förtroende för mig (han känner inte till när jag filmade invigningen av Gul&Blå1966 och glömde ta bort linsskyddet).
+Abrahamsen tycker att det låter som en spännande idé. En reaktion som inte är speciellt evidensbaserad, som det heter idag, utan förmodligen bygger på hans allmänna förtroende för mig (han känner inte till när jag filmade invigningen av Gul&Blå 1966 och glömde ta bort linsskyddet).
 :::
 
 ::: indent
@@ -581,7 +583,7 @@ Jag skriver manuset. Historien handlar om en seriemördare med ett knyppligt fö
 
 <!-- PAGE 231 START -->
 ::: indent
-Eftersom Abrahamsen vet att jag inte har nån större erfarenhet som regissör (några kortfilmer, regiass på” *Morrhår&Ärtor* ” och lite annat) väljer han en tung finsk fotograf: Esa Vuorinen, i hopp om att Vuorinen ska styra upp det som saknas i min verktygslåda. Till exempel kunskap om blickriktningar, en delikat företeelse som Cilla kan på sina fem fingrar.
+Eftersom Abrahamsen vet att jag inte har nån större erfarenhet som regissör (några kortfilmer, regiass på”*Morrhår&Ärtor*”och lite annat) väljer han en tung finsk fotograf: Esa Vuorinen, i hopp om att Vuorinen ska styra upp det som saknas i min verktygslåda. Till exempel kunskap om blickriktningar, en delikat företeelse som Cilla kan på sina fem fingrar.
 :::
 
 ::: indent
@@ -602,7 +604,7 @@ Jag drar ocksånytta av Persbrandts förflutna som dansare:
 
 Filmen spelas in digitalt, den första långfilmen i Sverige som använder den tekniken. Mycket material, mycket i klippbordet, men relativt lättredigerat jämfört med konventionell film.
 
-Parentes på tal om klippningen: Cilla och jag har hanterat det faktum att jag som regissör kommer att vara tämligen frånvarande under hela inspelningsperioden, både fysiskt och mentalt. Hon har själv varit med påflera inspelningar och vet hur det fungerar. Vad vi inte riktigt har sett komma är fasen efter inspelningen - klippningen. Som fortsätter att involvera mig nästan lika mycket som inspelning, över långt tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
+Parentes på tal om klippningen: Cilla och jag har hanterat det faktum att jag som regissör kommer att vara tämligen frånvarande under hela inspelningsperioden, både fysiskt och mentalt. Hon har själv varit med på flera inspelningar och vet hur det fungerar. Vad vi inte riktigt har sett komma är fasen efter inspelningen - klippningen. Som fortsätter att involvera mig nästan lika mycket som inspelning, över långt tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
 ::: indent
 Vi reder ut det och jag lär mig en del.
 :::
@@ -611,9 +613,9 @@ Vi reder ut det och jag lär mig en del.
 Igen.
 :::
 
-Filmen får premiär. Mitt under visningen reser sig Nils-Petter Sundgren och lämnar lokalen, påtagligt upprörd, eller berörd. Jag vet inte vad han blir provocerad av. I en följande filmkrönika anser han att filmen är en ” kalkon ” och utgjuter sig i märkligt affekterade ordalag över det vi haråstadkommit -  han tycker det är vedervärdigt. Hans utgångspunkt är intressant:
+Filmen får premiär. Mitt under visningen reser sig Nils-Petter Sundgren och lämnar lokalen, påtagligt upprörd, eller berörd. Jag vet inte vad han blir provocerad av. I en följande filmkrönika anser han att filmen är en”kalkon”och utgjuter sig i märkligt affekterade ordalag över det vi haråstadkommit -  han tycker det är vedervärdigt. Hans utgångspunkt är intressant:
 ::: indent
-– Alla filmer som innehåller ordet ” dödlig ” i titeln är undermåliga! Såocksådenna!
+– Alla filmer som innehåller ordet”dödlig” i titeln är undermåliga! Såocksådenna!
 :::
 
 ::: indent
@@ -621,22 +623,24 @@ Kanske inte en analys värdig Sundgren.
 :::
 
 ::: indent
-Men filmen får ett mycket blandat mottagande. Ris och ros. En recensent ondgör sig över att vi nu har fått den första seriemördarfilmen i Sverige och *”vad ska det tjäna till?”* Förmodligen har han ” *Seven* ” iåtanke, David Finchers tämligen snaskiga och utomordentligt välspelade film som kom ett parår innan.
+Men filmen får ett mycket blandat mottagande. Ris och ros. En recensent ondgör sig över att vi nu har fått den första seriemördarfilmen i Sverige och *”vad ska det tjäna till?”* Förmodligen har han ”*Seven*”iåtanke, David Finchers tämligen snaskiga och utomordentligt välspelade film som kom ett parår innan.
 :::
 
 ::: indent
-Märkligt minne: I samband med premiären intervjuas jag av Jonas Sima, en journalist som jag har stor respekt för. Han börjar intervjun med att ta upp ett citat från min bok ” *Persona Non Grata* ”:
+Märkligt minne: I samband med premiären intervjuas jag av Jonas Sima, en journalist som jag har stor respekt för. Han börjar intervjun med att ta upp ett citat från min bok”*Persona Non Grata*”:
 :::
 
 **”Varför skulle jag förneka det vackra inom mig, bara för att det är bestialiskt?”**
 
+::: indent
 – Vad menar du med det?
+:::
 ::: indent
 Vi sitter i röda sammetsstolar i en filmlobby med stråk av popcorn i luften och Sima tittar på mig som om han har slungat fram en handgranat. När Hanna Olsson abrupt frågade om Kerstin Thorvall blev jag aningen mer över rumplad, nu tar jag det påuppstuds.
 :::
 
 ::: indent
-– Du menar att det är jag som är ” jaget ” i citatet?
+– Du menar att det är jag som är ”jaget”i citatet?
 :::
 
 ::: indent
@@ -646,7 +650,7 @@ Vi sitter i röda sammetsstolar i en filmlobby med stråk av popcorn i luften oc
 
 <!-- PAGE 232 START -->
 ::: indent
-– Jonas, det är litteratur, fiktion, ” jaget ” kan vara du eller din mamma eller en självmordsbombare i Beirut. Vad tycker du om filmen?
+– Jonas, det är litteratur, fiktion,”jaget”kan vara du eller din mamma eller en självmordsbombare i Beirut. Vad tycker du om filmen?
 :::
 
 ::: indent
@@ -669,12 +673,12 @@ Han tycker den är obehaglig, välspelad och förstår inte varför man ska gör
 Sima förstår inte kopplingen, inte jag heller, men det leder över till mer konkreta frågor om inspelningstekniska ditten och datten.
 :::
 
-Anteckningar i samband med ” *Dödlig Drift* ”: Huvudpersonen är en gravt störd människa, i total avsaknad av empati, ett dansant monster i propra kläder. Jagägnar en hel del tidåt att försöka förståvem han är, varför han gör som han gör. Det frestar på. För att förståhur en monstruös människa tänker måste man vara förmögen att i viss utsträckning kunna tänka såsjälv, annars blir det fejk. Men att sänka sig ner i monstrets hjärna har sina risker, du vet aldrig hur hemmastadd du blir, vem duär när du kommer upp till ytan igen, vad som har triggats igång därnere. Att umgås för djupt och för länge med det morbida är ett vågspel. Fråga Hannibal Lecter.
+Anteckningar i samband med”*Dödlig Drift*”: Huvudpersonen är en gravt störd människa, i total avsaknad av empati, ett dansant monster i propra kläder. Jagägnar en hel del tidåt att försöka förståvem han är, varför han gör som han gör. Det frestar på. För att förståhur en monstruös människa tänker måste man vara förmögen att i viss utsträckning kunna tänka såsjälv, annars blir det fejk. Men att sänka sig ner i monstrets hjärna har sina risker, du vet aldrig hur hemmastadd du blir, vem duär när du kommer upp till ytan igen, vad som har triggats igång därnere. Att umgås för djupt och för länge med det morbida är ett vågspel. Fråga Hannibal Lecter.
 ::: indent
 Jag kommer upp till ytan igen och tror att jag vet vad den dödliga driften handlar om. I det här speciella fallet.
 :::
 
-Märklig effekt av en recension: Jag haråkt med familjen till Florida direkt efter premiären på” *Dödlig Drift* ”. Jag vill undvika media. I Fort Lauderdale får jag ett samtal från filmens producent, Abrahamsen, han berättar att Sundgren betecknat filmen som en kalkon och sågat den med fötterna. Kanske ett onödigt samtal, men det faller på mig. Jag blir obegripligt nedstämd. Av en enda persons omdöme. Visserligen i nationell tv, menändå. Jag trodde jag var stålsmidd för negativa reaktioner efter alla hudflängda satirår (inte minst). Men icke. Jag påverkas på ett ” oproportionerligt ” sätt. Kanske en effekt av all tid jag har lagt ner påfilmen, med en mental utmattning som följd. Menändå? Min familj drabbas av mitt humör, jag blir låg och innesluten, Florida blir en dyster parentes.
+Märklig effekt av en recension: Jag haråkt med familjen till Florida direkt efter premiären på”*Dödlig Drift*”. Jag vill undvika media. I Fort Lauderdale får jag ett samtal från filmens producent, Abrahamsen, han berättar att Sundgren betecknat filmen som en kalkon och sågat den med fötterna. Kanske ett onödigt samtal, men det faller på mig. Jag blir obegripligt nedstämd. Av en enda persons omdöme. Visserligen i nationell tv, menändå. Jag trodde jag var stålsmidd för negativa reaktioner efter alla hudflängda satirår (inte minst). Men icke. Jag påverkas på ett ”oproportionerligt”sätt. Kanske en effekt av all tid jag har lagt ner påfilmen, med en mental utmattning som följd. Menändå? Min familj drabbas av mitt humör, jag blir låg och innesluten, Florida blir en dyster parentes.
 ::: indent
 Bara för en kort kommentar av en filmkritiker?
 :::
@@ -691,9 +695,9 @@ Tack och lov spolas det av väldigt snabbt.
 Som smuts.
 :::
 
-Det har startats en ny tidning det häråret, den heter ” *98-Stockholm* ”. Jag blir ombedd om en text. Varför inte? Jag är brödskrivare och driver ett gammalt kärntema vidare, från Keve Hjelms ” *Betraktelse* ”:
+Det har startats en ny tidning det häråret, den heter”*98-Stockholm*”. Jag blir ombedd om en text. Varför inte? Jag är brödskrivare och driver ett gammalt kärntema vidare, från Keve Hjelms ”*Betraktelse*”:
 
-**”Det finns egentligen bara en giltig strävan idag, oavsett vem du är, vad du heter eller vad du gör: att återupprätta den mänskliga värdigheten. Den värdighet som oavbrutet besudlas. Förnedras. Vart vi oss i världen vänder. Den värdighet som stympas och kränks. Överallt. Dygnet runt. Vi vet alla hur. Var. Och på vilket sätt. Det finns ingen skuld vi inte alla är en del av, ingen oskuld vi kan kalla vår. Den tiden är förbi. Vi vet exakt vad som pågår och varför. Vi vet att vi obönhörligt förvandlas till det vi en gång fruktade. Det vi såg på med avsmak. Den avbild av människan som var människans varg. Vi är den vargen nu. Oavsett vem vi är, vad vi heter eller vad vi gör. Vi deltar i blindo. Vi accepterar. Vi reduceras tills vi tystnar. Mot detta finns bara ett vapen i framtiden. En enda genuin rörelse: den maximalt frigjorda skaparkraften. En kraft som ligger så långt utanför all social kontroll att den blir revolutionär enbart genom sin existens. En kraft som förmår att uttala den brutala sanningen genom ett obarmhärtigt språk och därmed möjliggöra vår enda giltiga strävan: att återupprätta den mänskliga värdigheten.” **
+**”Det finns egentligen bara en giltig strävan idag, oavsett vem du är, vad du heter eller vad du gör: att återupprätta den mänskliga värdigheten. Den värdighet som oavbrutet besudlas. Förnedras. Vart vi oss i världen vänder. Den värdighet som stympas och kränks. Överallt. Dygnet runt. Vi vet alla hur. Var. Och på vilket sätt. Det finns ingen skuld vi inte alla är en del av, ingen oskuld vi kan kalla vår. Den tiden är förbi. Vi vet exakt vad som pågår och varför. Vi vet att vi obönhörligt förvandlas till det vi en gång fruktade. Det vi såg på med avsmak. Den avbild av människan som var människans varg. Vi är den vargen nu. Oavsett vem vi är, vad vi heter eller vad vi gör. Vi deltar i blindo. Vi accepterar. Vi reduceras tills vi tystnar. Mot detta finns bara ett vapen i framtiden. En enda genuin rörelse: den maximalt frigjorda skaparkraften. En kraft som ligger så långt utanför all social kontroll att den blir revolutionär enbart genom sin existens. En kraft som förmår att uttala den brutala sanningen genom ett obarmhärtigt språk och därmed möjliggöra vår enda giltiga strävan: att återupprätta den mänskliga värdigheten.”**
 <!-- PAGE 232 END -->
 
 <!-- PAGE 233 START -->
@@ -709,7 +713,7 @@ Sveriges Dramatiker för bund. Av anständighetsskäl. Jag har över tid först�
 :::
 
 ::: indent
-Huvudskälet för mig personligen emanerar ur min upprördhet över manus författarnas behandling i filmvärlden. ” *Give him a fish*. ” En bra film är regissörens förtjänst, en dålig film är manus författarens fel. En klyscha som omhuldas av alltför många.
+Huvudskälet för mig personligen emanerar ur min upprördhet över manus författarnas behandling i filmvärlden.”*Give him a fish*.”En bra film är regissörens förtjänst, en dålig film är manus författarens fel. En klyscha som omhuldas av alltför många.
 :::
 
 ::: indent
@@ -717,11 +721,11 @@ Jag är ocksåupprörd över manus författarnas kreditering. Vi förekommer i p
 :::
 
 ::: indent
-Men det stör mig, av flera skäl. Under nästan allaår jag har varit verksam som manus författare har ” branschen ” klagat pånivån påsvensk manusproduktion. Delvis med rätta, helt enkelt för att det är, som jag tidigare nämnt, väldigt svårt att skriva manus, speciellt bra manus (det vet varje regissör, journalist och roman författare som har försökt sig på det). Men en högre manusnivånås inte genom att negligera eller förminska manus författarnas delaktighet i och betydelse för filmproduktionen. Tvärtom. Den går via höjd status och höjd ersättning och likställdhet - manus författarens arbete måste likställas med regissörens och producentens, på alla plan.
+Men det stör mig, av flera skäl. Under nästan allaår jag har varit verksam som manus författare har”branschen”klagat pånivån påsvensk manusproduktion. Delvis med rätta, helt enkelt för att det är, som jag tidigare nämnt, väldigt svårt att skriva manus, speciellt bra manus (det vet varje regissör, journalist och roman författare som har försökt sig på det). Men en högre manusnivånås inte genom att negligera eller förminska manus författarnas delaktighet i och betydelse för filmproduktionen. Tvärtom. Den går via höjd status och höjd ersättning och likställdhet - manus författarens arbete måste likställas med regissörens och producentens, på alla plan.
 :::
 
 ::: indent
-En del av detta lyckas jagåstadkomma under min tid som ordförande, med mycket benäget bistånd av vår briljanta förbundsdirektör Susin Lindblom (en av dom varmaste, roligaste och skärptaste kvinnor jag haft glädjen att arbeta med).
+En del av detta lyckas jag åstadkomma under min tid som ordförande, med mycket benäget bistånd av vår briljanta förbundsdirektör Susin Lindblom (en av dom varmaste, roligaste och skärptaste kvinnor jag haft glädjen att arbeta med).
 :::
 
 ::: indent
@@ -742,7 +746,7 @@ Vi åker till Ringvägen. En bergvägg har rasat in, slam och vatten har forsat 
 :::
 
 ::: indent
-Vid det här laget är ” hela ” Sverige fokuserat påtunneldramat. Alla medier finns där. Tv-teamet leds av en ung energisk reporter, Bo ” Lägg ut! ” Holmström.
+Vid det här laget är”hela”Sverige fokuserat påtunneldramat. Alla medier finns där. Tv-teamet leds av en ung energisk reporter, Bo”Lägg ut!” Holmström.
 :::
 
 ::: indent
@@ -756,7 +760,7 @@ Dom får napp.
 
 <!-- PAGE 234 START -->
 ::: indent
-Själv har jag tråcklat mig fram genom spärrar och räddningspersonal, jag har ingen officiell journalistbricka påjackan vilket underlättar, obemärkt har jag trängt mycket nära borrhålet. Jag ser när en av männen försiktigt börjar hala upp linan ur hålet, iänden av den sitter en lapp. Mannen lossar lappen och läser vad som står på den, inte såhögt, bara såatt andra män runt honom hör.
+Själv har jag tråcklat mig fram genom spärrar och räddningspersonal, jag har ingen officiell journalistbricka påjackan vilket underlättar, obemärkt har jag trängt mycket nära borrhålet. Jag ser när en av männen försiktigt börjar hala upp linan ur hålet, iänden av den sitter en lapp. Mannen lossar lappen och läser vad som står på den, inte såhögt, bara så att andra män runt honom hör.
 :::
 
 ::: indent
@@ -764,7 +768,7 @@ Och jag.
 :::
 
 ::: indent
-” Både Kjelle och Sören är schyssta. Skicka ner lite käk. ”
+”Både Kjelle och Sören är schyssta. Skicka ner lite käk.”
 :::
 
 ::: indent
@@ -772,7 +776,7 @@ Jag memorerar vad han har läst upp, forcerar mig tillbaka genom räddningsperso
 :::
 
 ::: indent
-Nästa snabbupplaga av Stockholmstidningen toppar med ” lappen ” och vad som stod på den. Ett exakt citat.
+Nästa snabbupplaga av Stockholmstidningen toppar med ”lappen”och vad som stod på den. Ett exakt citat.
 :::
 
 ::: indent
@@ -795,25 +799,27 @@ Mitt.
 Överkänsligt? Kanske, men det tog lång tid innan jag kommer över  det. Känslan av orättvisa. Som när lärarinnan med dom gula fingrarna hutadeåt sadisterna och sen gav mig en rungandeörfil.
 :::
 
-Minne från Dramatiker för bundet: Inom ramen för ett nordiskt samarbete besöker förbundet under någraår Island, Färöarna och Grönland. Avsikten är att stötta lokala manus författare och dom småförbund som finns. Det är givande utbyten, varje resa lär mig mycket om dom enorma kulturella och ekonomiska svårigheter våra systerländer lever och arbetar under.Ändåskrivs det pjäser och filmer och böcker och musik. Hela tiden. Vikten av att gestalta den egna identiteten är påtaglig, stoltheten över de uråldriga arven är märkbar.
+Minne från Dramatiker för bundet: Inom ramen för ett nordiskt samarbete besöker förbundet under någraår Island, Färöarna och Grönland. Avsikten är att stötta lokala manus författare och dom småförbund som finns. Det är givande utbyten, varje resa lär mig mycket om dom enorma kulturella och ekonomiska svårigheter våra systerländer lever och arbetar under. Ändåskrivs det pjäser och filmer och böcker och musik. Hela tiden. Vikten av att gestalta den egna identiteten är påtaglig, stoltheten över de uråldriga arven är märkbar.
 ::: indent
-Minne från Nuuk på Grönland: Vi besöker en lokal teater för ening i utkanten av staden.Överallt ligger låga bostadshus i mörkt trä, utanför varje hus rör sig hundar, bundna, ibland bara ett par stycken, ibland tio-tolv. Hundarna skäller hela tiden, aggressivt, dom grova skallen ekar över den platta nejden. I dagsljus är det hanterbart, när det blir natt och kolsvart och vi kryssar mellan husen blir effekten obehaglig. Tanken att några löplinor går av och släpper lös en flock i mörkret bör man inte tänka.
+Minne från Nuuk på Grönland: Vi besöker en lokal teater för ening i utkanten av staden. Överallt ligger låga bostadshus i mörkt trä, utanför varje hus rör sig hundar, bundna, ibland bara ett par stycken, ibland tio-tolv. Hundarna skäller hela tiden, aggressivt, dom grova skallen ekar över den platta nejden. I dagsljus är det hanterbart, när det blir natt och kolsvart och vi kryssar mellan husen blir effekten obehaglig. Tanken att några löplinor går av och släpper lös en flock i mörkret bör man inte tänka.
 :::
 
 ::: indent
-Minne från Torshamn på Färöarna: Vi åker båt i Atlanten, längs höga, vita klippor, på alla utsprång sitter hundratals vackra lunnefåglar och betraktar oss. Det är en mäktig naturupplevelse. Guiden pratar varmt om fåglarna och förklarar att arten är betecknad som ” sårbar ”. Ett par timmar senare får jag in en meny på en lokal restaurang. Högst upp står ” Rostad Lunnefågel ”. Jag hoppar över den. Lite längre ner står ” Skjerpkot ”. Jag är alltid nyfiken pålokala maträtter och beställer. Det visar sig vara ruttet lamm. Fermenterat, med ett finare ord. Jagäter mitt ruttna kött och ber inte om påfyllning.
+Minne från Torshamn på Färöarna: Vi åker båt i Atlanten, längs höga, vita klippor, på alla utsprång sitter hundratals vackra lunnefåglar och betraktar oss. Det är en mäktig naturupplevelse. Guiden pratar varmt om fåglarna och förklarar att arten är betecknad som”sårbar”. Ett par timmar senare får jag in en meny på en lokal restaurang. Högst upp står ”Rostad Lunnefågel”. Jag hoppar över den. Lite längre ner står ”Skjerpkot”. Jag är alltid nyfiken pålokala maträtter och beställer. Det visar sig vara ruttet lamm. Fermenterat, med ett finare ord. Jagäter mitt ruttna kött och ber inte om påfyllning.
 :::
 
 ::: indent
 Ändå älskar jag surströmming.
 :::
 
-Göteborgs Filmfestival hör av sig igen. Gunnar Bergdahl. Deras serie ” *90 minuter 90-tal* ” närmar sig sitt slut. Bergdahl undrar om jag vill göraårets kortfilm.
+Göteborgs Filmfestival hör av sig igen. Gunnar Bergdahl. Deras serie ”*90 minuter 90-tal*”närmar sig sitt slut. Bergdahl undrar om jag vill göraårets kortfilm.
 ::: indent
 – Kan man vara med tvågånger? undrar jag.
 :::
 
- – Förra gång en skrev du manus, nu tänkte vi att du skulle regissera också.
+::: indent
+– Förra gång en skrev du manus, nu tänkte vi att du skulle regissera också.
+:::
 ::: indent
 Märkligt nog befinner jag mig påsvampsafariäven när detta samtal utspelas, på ett högt berg med en uppsjöav mosskantareller i varenda skreva. Lysande gulorangea, fasta. Det är uppenbarligen nåt med svamp och Bergdahl.
 :::
@@ -825,7 +831,7 @@ Jag tackar ja. Han redogör för budgeten. Jag föreslår att Cilla ska producer
 :::
 
 ::: indent
-Problem blir det när jag tar itu med uppgiften konkret. En kortfilm? Tio minuter, som helst ska spegla det sluttande 90-talet? Jag har sett Roy Anderssons magnifika insats i början av serien, en poetisk gasning av all mänsklighet. Denär enormt drabbande. Vad ska jag tillägga?
+Problem blir det när jag tar itu med uppgiften konkret. En kortfilm? Tio minuter, som helst ska spegla det sluttande 90-talet? Jag har sett Roy Anderssons magnifika insats i början av serien, en poetisk gasning av all mänsklighet. Denär enormt drabbande. Vad ska jag till ägga?
 :::
 
 ::: indent
@@ -837,7 +843,7 @@ Tablåer! tänker jag. Utskurna snitt, som Carsten och jag alltid har arbetat. P
 :::
 
 ::: indent
-Det första jag bestämmer mig för är titeln: ” *Fatimas tredje hemlighet* ”.
+Det första jag bestämmer mig för är titeln:”*Fatimas tredje hemlighet*”.
 :::
 
 ::: indent
@@ -874,7 +880,7 @@ På grund av vår begränsade budget erbjuder vi en konsumdeal igen: alla får l
 Min kompisÅke Sundqvist skriver musiken. Tvånära vänner, Cian Bornebusch och Peter Alvérus, gör scenografi, bygger miljöer och trollar med knäna. Jag ber också den eminente Esa Vuorinen att fota filmen (han som skötte jobbet på Dödlig Drift).
 :::
 
-Tankar:Än en gång dyker Ottos, faderns, sång ” *Här är gudagott att vara* ” upp, nu gestaltad av en naken och blind Halvar Björk strosande genom förmultnade löv. Carsten döda träd med hängande svarta frukter ingår i en annan tablå. Scenen när Persbrandt pressar in bomull i munnen på en hjälplösåldring har jag drömt några gånger, eller kanske sett i förbifarten en flyktnatt.
+Tankar:Än en gång dyker Ottos, faderns, sång ”*Här är gudagott att vara*”upp, nu gestaltad av en naken och blind Halvar Björk strosande genom förmultnade löv. Carsten döda träd med hängande svarta frukter ingår i en annan tablå. Scenen när Persbrandt pressar in bomull i munnen på en hjälplösåldring har jag drömt några gånger, eller kanske sett i förbifarten en flyktnatt.
 ::: indent
 Hela tidenåterbruk ur det förflutna, pusselbitar i nya tavlor.
 :::
@@ -897,7 +903,7 @@ Jag sätter alltid på samma nummer, 26, plus fyrkanten runt siffran. Under en f
 :::
 
 ::: indent
-Roligaste vinsten är på en Féte local i Provence, en kringresande marknad med bland annat en roulette. Min fyrkant går in.Övermodigt (eller alkohol påverkat) låter jag hela vinsten ståkvar. Kulan landar på26 igen (!), jag spränger banken och blir mycket generös ett tag.
+Roligaste vinsten är på en Féte local i Provence, en kringresande marknad med bland annat en roulette. Min fyrkant går in. Övermodigt (eller alkohol påverkat) låter jag hela vinsten ståkvar. Kulan landar på 26 igen (!), jag spränger banken och blir mycket generös ett tag.
 :::
 
 ::: indent
@@ -910,11 +916,11 @@ Extremt svårt.
 
 Underbar händelse det häråret: Min första sondotter föds. Ella, syster till Ludvig. Nuärätteläggens skara utökad till sex. Många personnummer blir det ☺
 ::: indent
-Mindre underbar händelse: Producenten Lars Jönsson vill träffa Cilla och mig. Han driver ” *Memfis Film & Television* ” och har framgångsrikt lanserat Lukas Modyssons fina film ” *Fucking Åmål* ”, med benägen hjälp av den danske producenten och svinodlaren Peter Aalbeack Jensen (Jensen har en grisodling i Danmark och är ofta naken när han har filmmöten på sitt rum, förmodligen för att chockera, eller stoltsera med ett påfallande ointressant underhäng, han är också Lars ” von ” Triers producent och hamnar senare i skottgluggen för den danska metoo-rörelsen).
+Mindre underbar händelse: Producenten Lars Jönsson vill träffa Cilla och mig. Han driver”*Memfis Film & Television*”och har framgångsrikt lanserat Lukas Modyssons fina film”*Fucking Åmål*”, med benägen hjälp av den danske producenten och svinodlaren Peter Aalbeack Jensen (Jensen har en grisodling i Danmark och är ofta naken när han har filmmöten på sitt rum, förmodligen för att chockera, eller stoltsera med ett påfallande ointressant underhäng, han är också Lars ”von”Triers producent och hamnar senare i skottgluggen för den danska metoo-rörelsen).
 :::
 
 ::: indent
-Men detta behäftar inte Lars Jönsson. Han är en klok och listig producent som vill att vi ska skriva ett manus om Målle Lindberg. En mytomspunnen väckelsepredikant på60-talet, inte helt olik JimmieÅkesson. Lindberg blir senare en av ledarna i Maranatarörelsen.
+Men detta behäftar inte Lars Jönsson. Han är en klok och listig producent som vill att vi ska skriva ett manus om Målle Lindberg. En mytomspunnen väckelsepredikant på 60-talet, inte helt olik JimmieÅkesson. Lindberg blir senare en av ledarna i Maranatarörelsen.
 :::
 
 ::: indent
@@ -922,7 +928,7 @@ Inte ointressant, tycker vi.
 :::
 
 ::: indent
-Parentes: Jönsson har någraår tidigare kontaktat mig om ett filmprojekt som involverar Kay Pollak, en ” körfilm ”. Pollak har räknat ut att det finns 700.000 köranslutna i Sverige, med partners blir det 1,4 miljoner. Det finns dessutom 200.000 registrerade i folkmusikdanslag i landet. Han har redan räknat hem filmen. Jönsson vill att jag ska medverka i manusarbetet. Jag tackar nej. Idag är jag tacksam för det. Filmen görs 2004 och får namnet ” *Så som i himmelen* ”. Efter inspelningen får halva filmteamet gåi terapi som ett resultat av Pollaks gravt nedbrytande sätt att leda arbetet. Lustigt nog försörjer sig samme man idag som kringresande ” inspiratör ” för oanande människor.
+Parentes: Jönsson har någraår tidigare kontaktat mig om ett filmprojekt som involverar Kay Pollak, en”körfilm”. Pollak har räknat ut att det finns 700.000 köranslutna i Sverige, med partners blir det 1,4 miljoner. Det finns dessutom 200.000 registrerade i folkmusikdanslag i landet. Han har redan räknat hem filmen. Jönsson vill att jag ska medverka i manusarbetet. Jag tackar nej. Idag är jag tacksam för det. Filmen görs 2004 och får namnet ”*Så som i himmelen*”. Efter inspelningen får halva filmteamet gåi terapi som ett resultat av Pollaks gravt nedbrytande sätt att leda arbetet. Lustigt nog försörjer sig samme man idag som kringresande ”inspiratör”för oanande människor.
 :::
 
 ::: indent
@@ -930,7 +936,7 @@ Nåväl.
 :::
 
 ::: indent
-Vi börjar läsa in oss på Målle Lindberg. Jag har personliga minnen av honom, från hans omskrivna turnéer på60-talet. Ju mer vi tränger in i hansöde desto mer fascinerade blir vi. Han var en mycket särpräglad människa.
+Vi börjar läsa in oss på Målle Lindberg. Jag har personliga minnen av honom, från hans omskrivna turnéer på 60-talet. Ju mer vi tränger in i hansöde desto mer fascinerade blir vi. Han var en mycket särpräglad människa.
 :::
 
 ::: indent
@@ -944,7 +950,7 @@ Men vad?
 
 <!-- PAGE 237 START -->
 ::: indent
-Vi diskuterar, återvänder till skrivbordet och kommer tillbaka med en ny version. Reaktion blir likartad, det är fortfarande inte det manus Jönsson är ute efter. Han vill att vi skriver om igen. Det vill inte vi. Vi avbryter samarbetet med Jönsson, inte helt smärtfritt (viåterbetalar all ersättning vi fått till dags dato).
+Vi diskuterar, återvänder till skrivbordet och kommer tillbaka med en ny version. Reaktion blir likartad, det är fortfarande inte det manus Jönsson är ute efter. Han vill att vi skriver om igen. Det vill inte vi. Vi avbryter samarbetet med Jönsson, inte helt smärtfritt (vi återbetalar all ersättning vi fått till dags dato).
 :::
 
 ::: indent
@@ -953,7 +959,7 @@ Synd påberättelsen om Målle Lindberg (till några av sina väckelsemöten kom
 
 En parentes till: Gösta får en förfrågan om att göra en ny Papphammarserie det häråret. Jag vet att Gösta har bestämt sig för att aldrig mer utnyttja den karaktären (en gång hör försäkringsbolaget Skandia av sig, dom vill använda Papphammar i sin reklam och erbjuder ett fullständigt svindlande mångmiljonbelopp. Gösta svarar:
 ::: indent
-– Dubbla det såfår vi se.
+– Dubbla det så får vi se.
 :::
 
 ::: indent
@@ -976,7 +982,7 @@ SVT visar resultatet.
 Roligast under inspelningen: Papphammar sitter i köket och klipper till en sprattelfigur av sig själv.
 :::
 
-![215.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/215.png)
+![Sprattelhammar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/215.png)
 
 Så:Återigen ett av dessa visuellaögonblick som bränner sig fast pånäthinnan och kommer att följa med ner innanför kistlocket, både på grund av sin omedelbara dramaturgi: ett flygplan som rammar rakt in i ett av de ikoniska tvillingtornen vid World Trade Center ... men också på grund av det ofattbara som händer strax efter: att i realtid följa hur ytterligare ett plan brakar in i tornet intill.
 ::: indent
@@ -984,7 +990,7 @@ Det stannar tiden.
 :::
 
 ::: indent
-Det får en att titta påväxterna i fönstret, katten borta vid brasan, den vackra mattan på golvet och tillbaka på tv-n: Under några sekunder, kanske minuter, tvingas jag försöka förståvad det är jag ser. Att det jag ser sker i så kallad ” realtid ”.
+Det får en att titta påväxterna i fönstret, katten borta vid brasan, den vackra mattan på golvet och tillbaka på tv-n: Under några sekunder, kanske minuter, tvingas jag försöka förståvad det är jag ser. Att det jag ser sker i så kallad”realtid”.
 :::
 
 ::: indent
@@ -1029,12 +1035,12 @@ Det finns en del alternativ.
 <!-- PAGE 237 END -->
 
 <!-- PAGE 238 START -->
-Såstartar det skoningslösa kriget mot ” terrorister ”. Bush II krig. Jag har inga problem att förståden emotionella utgångspunkten (jag hörde inspelningarna när kropparna som hoppade från tornen landade påmetalltaken ovanför brandmännen, dunk, dunk, dunk), men jag anar att angreppet kommer att tas som intäkt för betydligt fler sakerän jakten på dom faktiska förövarna: deras ” tro ” kommer att legitimera förföljelser och över grepp och skapa en farligare värld.
+Såstartar det skoningslösa kriget mot ”terrorister”. Bush II krig. Jag har inga problem att förståden emotionella utgångspunkten (jag hörde inspelningarna när kropparna som hoppade från tornen landade påmetalltaken ovanför brandmännen, dunk, dunk, dunk), men jag anar att angreppet kommer att tas som intäkt för betydligt fler sakerän jakten på dom faktiska för övarna: deras ”tro”kommer att legitimera förföljelser och över grepp och skapa en farligare värld.
 ::: indent
 Även på vår kontinent.
 :::
 
-Skröna. Litter är fresk. En underbar torsdag. Det stora kalaset. Cilla och jag vill skriva en film som handlar om det burleska i det lilla, om kantmänniskor, om allt det som Steinbeck i sina upprymda stunder gav evigt liv - det allmängiltiga i vemodet, överlevandets grimas, skrattet. Vi börjar skriva en historia som får namnet ” *Georg von Ingenting* ”. Den utspelar sig en liten kustby och kretsar kringägaren till Kukbutiken, en mycket beläst och sofistikerad man med ett spretigt umgänge, själv specialiserad påavgjutningar av historiska mansorgan. Intresset startade redan i träslöjden.
+Skröna. Litter är fresk. En underbar torsdag. Det stora kalaset. Cilla och jag vill skriva en film som handlar om det burleska i det lilla, om kantmänniskor, om allt det som Steinbeck i sina upprymda stunder gav evigt liv - det allmängiltiga i vemodet, överlevandets grimas, skrattet. Vi börjar skriva en historia som får namnet”*Georg von Ingenting*”. Den utspelar sig en liten kustby och kretsar kringägaren till Kukbutiken, en mycket beläst och sofistikerad man med ett spretigt umgänge, själv specialiserad påavgjutningar av historiska mansorgan. Intresset startade redan i träslöjden.
 ::: indent
 – Vilken vacker skärbräda du har gjort, Georg!
 :::
@@ -1048,12 +1054,12 @@ Vi presenterar ett synops för SFI och får ekonomiskt stöd för att skriva ett
 :::
 
 ::: indent
-Historien inleds med en scen på en strand. En ung man har bestämt sig för att ta livet av sig. Han gräver ner sig i sanden tills bara huvudet dyker upp och inväntar tidvattnet som ska dränka honom. Tyvärr tar han fel påebb och flod. Vågorna når knappt fram till hakan på honom innan dom försvinner ut igen. Vi använder senare scenen i en annan variant i vår bok ” *Springfloden* ”, där en gravid kvinna grävs ner och faktiskt dränks av tidvattnet.
+Historien inleds med en scen på en strand. En ung man har bestämt sig för att ta livet av sig. Han gräver ner sig i sanden tills bara huvudet dyker upp och inväntar tidvattnet som ska dränka honom. Tyvärr tar han fel påebb och flod. Vågorna når knappt fram till hakan på honom innan dom försvinner ut igen. Vi använder senare scenen i en annan variant i vår bok ”*Springfloden*”, där en gravid kvinna grävs ner och faktiskt dränks av tidvattnet.
 :::
 
 Viåteranvänder också ett par andra karaktärer ur det här materialet, Ronny Redlös och Minken, som båda dyker upp i våra böcker.
 ::: indent
-” *Georg von Ingenting* ” lämnas in till SFI och vi får en intressant reaktion från en av filmkonsulenterna, författaren Niklas Rådström. Han skriver: ” *Är det tänkt som en ungdomsfilm?* ”
+”*Georg von Ingenting*”lämnas in till SFI och vi får en intressant reaktion från en av filmkonsulenterna, författaren Niklas Rådström. Han skriver:”*Är det tänkt som en ungdomsfilm?*”
 :::
 
 ::: indent
@@ -1065,7 +1071,7 @@ For the record: Jag har den största respekt för Rådström som författare och
 :::
 
 ::: indent
-Manuset vandrar runt någraår i ” branschen ”, enligt känt mönster, för att till slut försvinna in i glömskans kulvert.
+Manuset vandrar runt någraår i ”branschen”, enligt känt mönster, för att till slut försvinna in i glömskans kulvert.
 :::
 
 ::: indent
@@ -1096,7 +1102,7 @@ Kan jag tänka mig?
 :::
 
 ::: indent
-En av orsakerna till att jag tackat nej var arbetsbelastningen. Att skrivaåtta filmer med originalhistorier om 90 minuter i en relativt hård produktionstakt gick bra en gång, när utmaningen var en drivkraft. Att göra det en gång till är nåt helt annat. Framför allt det faktum att alla filmer ska bygga på nya kriminalhistorier.Åtta nya. Sexton totalt. Jag tänker klart och pratar med Cilla. Kan vi skriva dom tillsammans? För att fördela arbetsbördan? Och för att det kanske kan vara kul att jobba ihop påallvar? Cilla har redan varit involverad i ett par historier i första serien, med idéer och synpunkter, varför inte ta steget fullt ut?
+En av orsakerna till att jag tackat nej var arbetsbelastningen. Att skrivaåtta filmer med originalhistorier om 90 minuter i en relativt hård produktionstakt gick bra en gång, när utmaningen var en drivkraft. Att göra det en gång till är nåt helt annat. Framför allt det faktum att alla filmer ska bygga på nya kriminalhistorier. Åtta nya. Sexton totalt. Jag tänker klart och pratar med Cilla. Kan vi skriva dom tillsammans? För att fördela arbetsbördan? Och för att det kanske kan vara kul att jobba ihop på allvar? Cilla har redan varit involverad i ett par historier i första serien, med idéer och synpunkter, varför inte ta steget fullt ut?
 :::
 
 ::: indent
@@ -1107,11 +1113,11 @@ En av orsakerna till att jag tackat nej var arbetsbelastningen. Att skrivaåtta 
 Dessutom kan vi ta ohemult bra betalt med tanke på vår sits.
 :::
 
-Cillas bakgrund, kort: Hon har börjat som scripta på SVT 1986, fortsatt som manusredaktör, samarbetat med mig i sista Lorryomgången, börjat skriva egna avsnitt till Rederiet och såsmåningom blivit efterbearbetningsproducent påtunga Dramaserier. Hon säger upp sig på SVT 1996.
+Cillas bakgrund, kort: Hon har börjat som scripta på SVT 1986, fortsatt som manusredaktör, samarbetat med mig i sista Lorryomgången, börjat skriva egna avsnitt till Rederiet och så småningom blivit efterbearbetningsproducent påtunga Dramaserier. Hon säger upp sig på SVT 1996.
 
 Vi lägger fram förslaget för Lars Blomgren, han tycker att det är en lysande lösning.
 ::: indent
-Och såblir detåtta nya Beckfilmer. Skrivna av Cilla och mig tillsammans. Dom definitivt sista.
+Och så blir det åtta nya Beckfilmer. Skrivna av Cilla och mig tillsammans. Dom definitivt sista.
 :::
 
 ::: indent
@@ -1120,32 +1126,32 @@ Tror vi.
 
 For the record: Cilla och jag bestämmer oss för att undvika vissaämnen som underlag för en historia. Vi är väl medvetna om den påverkan tv-mediet kan ha påmänniskor i fel lägen (kanske inte fullt ut evidensbaserat, men tillräckligt för att vi ska ta hänsyn till det). Ett av domämnen som går bort är skolskjutningar. Det har förekommit ett antal i USA och på andra ställen, senast i Finland, och vi utgår ifrån att det kommer att händaäven här. Vi vill inte riskera att trigga igång det (nåt som Malin Giolito inte väjer för i sin välskrivna och starka bok *”Störst av allt”*).
 ::: indent
-Med detta sagt har du som manus författareändåingen makt över hur din fiktion landar. Eller hur du omedvetet kan föregåverkligheten, som i vår Beckfilm *”Hämndens pris”**.* Den handlar om tre rånare som iskallt mördar tvåpoliser på en avlägsen skogsväg. När manuset precis är färdigt sker morden i Malexander. Fruktansvärda polismord, som i sin brutala dramaturgi påminner om den berättelse vi har skrivit långt innan. En diskussion uppstår. Risken att vår film kommer att anklagas för att cyniskt profitera på en verklig tragedi är stor, eftersom den kommer att visas långt efter Malexandermorden. Vi bestämmer oss för att göra en del korrigeringar i manuset för att undvika fel sorts paralleller.
+Med detta sagt har du som manus författareändå ingen makt över hur din fiktion landar. Eller hur du omedvetet kan föregåverkligheten, som i vår Beckfilm *”Hämndens pris”**.* Den handlar om tre rånare som iskallt mördar tvåpoliser på en avlägsen skogsväg. När manuset precis är färdigt sker morden i Malexander. Fruktansvärda polismord, som i sin brutala dramaturgi påminner om den berättelse vi har skrivit långt innan. En diskussion uppstår. Risken att vår film kommer att anklagas för att cyniskt profitera på en verklig tragedi är stor, eftersom den kommer att visas långt efter Malexandermorden. Vi bestämmer oss för att göra en del korrigeringar i manuset för att undvika fel sorts paralleller.
 :::
 
 ::: indent
 Vi har skrivit flera andra krimihistorier där verkligheten efteråt har hunnit ikapp fiktionen, men det ligger i längdriktningen - som författare fungerar du delvis som katalysator för fenomen som är pågång i samhället, din lyhördhet och fantasi kan föreställa sig det som komma skall.
 :::
 
-Sauk och jag kan inte riktigt släppa alla hans ” gestalter ” genomåren. Han har kontakter på Universal Pictures Nordic. Han föreslår att vi ska spela in en film direkt för videomarknaden. Med Sauk i huvudrollen och ett antal kompisar i olika andra roller. UPN tänder påidén och vi sätter igång. Filmen produceras av Deadline, mitt och Cillas bolag, och produceras av Cilla.
+Sauk och jag kan inte riktigt släppa alla hans ”gestalter”genomåren. Han har kontakter på Universal Pictures Nordic. Han föreslår att vi ska spela in en film direkt för videomarknaden. Med Sauk i huvudrollen och ett antal kompisar i olika andra roller. UPN tänder påidén och vi sätter igång. Filmen produceras av Deadline, mitt och Cillas bolag, och produceras av Cilla.
 
 Vårt hem förvandlades till produktionskontor igen.
 <!-- PAGE 239 END -->
 
 <!-- PAGE 240 START -->
 ::: indent
-Sauk har skapat en karaktär som vi döper till ” *Gunnar Govin* ”. En mycket beskedlig och förundrad människa med stor nyfikenhet påtillvaron. Vi ger filmen en undertitel: ” *En man - ett liv - en resa.* ” Till vår hjälp tar vi Marika Lagercrantz, Kjelle Bergqvist, Mikael Persbrandt och Andrea Edwards.
+Sauk har skapat en karaktär som vi döper till”*Gunnar Govin*”. En mycket beskedlig och förundrad människa med stor nyfikenhet påtillvaron. Vi ger filmen en undertitel: ”*En man - ett liv - en resa.*”Till vår hjälp tar vi Marika Lagercrantz, Kjelle Bergqvist, Mikael Persbrandt och Andrea Edwards.
 :::
 
-![517.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/517.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/517.jpg)
 
-Ett av inslagen i videon är en kommentar till ” den tunga förorts-rapen ”:
+Ett av inslagen i videon är en kommentar till”den tunga förorts-rapen”:
 
 Det blir en bisarr och bitvis hysteriskt rolig video (bitvis inte såhysteriskt rolig). Den lanseras påvideomarknaden och blir väl ingen kioskvältare.
 
-Strax efter att vi har gjort Govinfilmen vill Gösta ha hjälp med bearbetning av en engelsk komediserie. Den handlar om grumpy old people och han tänker sig att den ska heta ” *En fot i graven* ”. Jag är inte såupphetsad över den engelska förlagan, brittisk humor när den är somäldst, men jag fattar vad Gösta skulle kunna göra av den med sin förmåga. Vi skriver manuset tillsammans, men det blir aldrig nån inspelning, oklart varför (för mig, jag är inte riktigt inne i projektet).
+Strax efter att vi har gjort Govinfilmen vill Gösta ha hjälp med bearbetning av en engelsk komediserie. Den handlar om grumpy old people och han tänker sig att den ska heta ”*En fot i graven*”. Jag är inte såupphetsad över den engelska förlagan, brittisk humor när den är som äldst, men jag fattar vad Gösta skulle kunna göra av den med sin förmåga. Vi skriver manuset tillsammans, men det blir aldrig nån inspelning, oklart varför (för mig, jag är inte riktigt inne i projektet).
 ::: indent
-Istället skriver jag en text till julnumret av tidningen ” *Situation Stockholm* ” - en publikation som säljs av hemlösa. Jag har stöttat den genomåren och den har en central funktion i vår första deckare ” *Springfloden* ”. Jag kallar texten ” *Allt det andra* ”:
+Istället skriver jag en text till julnumret av tidningen ”*Situation Stockholm*”- en publikation som säljs av hemlösa. Jag har stöttat den genomåren och den har en central funktion i vår första deckare”*Springfloden*”. Jag kallar texten ”*Allt det andra*”:
 :::
 
 **”Han tyckte om julen. Inte för tidigt, men när det var dags. Han tyckte om att få presenter. Han tyckte om att köpa presenter. Han tyckte om att packa säcken och att packa upp den, en present i taget. Han tyckte om julen och han visste om allt det andra. **
@@ -1158,7 +1164,7 @@ Istället skriver jag en text till julnumret av tidningen ” *Situation Stockho
 <!-- PAGE 240 END -->
 
 <!-- PAGE 241 START -->
-**Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev dåsig ro. Han tyckte om när det var över. **
+**Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev då sig ro. Han tyckte om när det var över. **
 
 **     Då brukade han lämna huset, i ottan, när alla andra sov, och gå den långa vägen ner till sjön. Där tog han sig ut till den bortre udden, dit ingen brukade gå****. Där ställde han sig vid uddens kant, i gryningens starka motljus och började skrika. Han skrek hårt och länge, ofta tills det värkte i bröstet, och så gick han hem. **
 
@@ -1184,7 +1190,7 @@ Istället skriver jag en text till julnumret av tidningen ” *Situation Stockho
 
 **     Och fortsatte, hand i hand med flickan, ut i allt det andra.”**
 
-Det häråret, 2002, blir det några tunga nerslag påtangentbordet. En kriminalserie som heter ” *Graven* ”, en tv-serie på en Mankellbok som heter ” *Danslärarens återkomst* ” och ett genuint hjärteprojekt igen: historien om greve Axel von Fersen.
+Det häråret, 2002, blir det några tunga nerslag påtangentbordet. En kriminalserie som heter ”*Graven*”, en tv-serie på en Mankellbok som heter ”*Danslärarens återkomst*” och ett genuint hjärteprojekt igen: historien om greve Axel von Fersen.
 ::: indent
 Och en kort promenad påkinesiska muren.
 :::
@@ -1239,7 +1245,7 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno KÖijer i Lita
 
 **Roffe.”**
 
-Kulturmingel på hög nivå: Föreningen KLYS (Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd) får en inbjudan till Kina för att ” främja kulturutbytet ”. Vi är en relativt stor delegation somåker, bland annat författaren Peter Curman, jag själv och Cilla. På plats tillsluter en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
+Kulturmingel på hög nivå: Föreningen KLYS (Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd) får en inbjudan till Kina för att ”främja kulturutbytet”. Vi är en relativt stor delegation som åker, bland annat författaren Peter Curman, jag själv och Cilla. På plats till sluter en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
 ::: indent
 När vi besöker svenska ambassaden i Peking första kvällen frågar ambassadören vilka gåvor vi har med oss.
 :::
@@ -1253,7 +1259,7 @@ Vi förväntas ha med oss utbytesgåvor, det är protokoll A i umgänget med kin
 :::
 
 ::: indent
-På den första officiella middagen med våra kinesiska värdar över lämnar Curman böckerna, vackert inslagna, och håller ett lysande tal om Lindgrens storhet. Han påpekar också att det rör sig om en mycket speciell gåva, nämligen ” originalböcker påoriginalspråket ”.
+På den första officiella middagen med våra kinesiska värdar över lämnar Curman böckerna, vackert inslagna, och håller ett lysande tal om Lindgrens storhet. Han påpekar också att det rör sig om en mycket speciell gåva, nämligen ”originalböcker påoriginalspråket”.
 :::
 
 ::: indent
@@ -1261,7 +1267,7 @@ På ett sällsynt begåvat sätt lyckas han vända vår fadäs till nåt helt an
 :::
 
 ::: indent
-Minne från samma middag 1: Dom högsta hönsen i den kinesiska delegationen sitter med sina mobiltelefoner påbordet, så fort det ringer reser dom sig och börjar prata, högt, länge, mitt under talen från dom olika delegationerna.
+Minne från samma middag 1: Dom högsta hönsen i den kinesiska delegationen sitter med sina mobiltelefoner på bordet, så fort det ringer reser dom sig och börjar prata, högt, länge, mitt under talen från dom olika delegationerna.
 :::
 
 ::: indent
@@ -1269,7 +1275,7 @@ Som om dom vill imponera med sina mobilinnehav.
 :::
 
 ::: indent
-Minne 2: Den polske och mycket trevlige före detta kulturministern ställer sig upp och sjunger en vacker sång från hemlandet. Jag känner att vi måste svara upp. När jag har klingat i glaset börjar jag sjunga ” Helan går ”. Dom svenska delegaterna faller tveksamt in i sången.
+Minne 2: Den polske och mycket trevlige före detta kulturministern ställer sig upp och sjunger en vacker sång från hemlandet. Jag känner att vi måste svara upp. När jag har klingat i glaset börjar jag sjunga ”Helan går”. Dom svenska delegaterna faller tveksamt in i sången.
 :::
 
 ::: indent
@@ -1284,7 +1290,7 @@ Men vi går påmuren och ser den mäktiga terrakottaarmén i Xi ´ an.
 Tack, Astrid.
 :::
 
-Cilla och jag tillfrågas av SVT om vi vill skriva manus till en tv-serie baserad på en bok av Henning Mankell. Den heter ” *Danslärarens Återkomst* ” och är en thriller. Jag har aldrig läst nåt av Mankell, slarvigt kanske, men vi läser boken. Denär välskriven och ordrik och har en bra intrig. Det känns att Mankell har ett personligt engagemang.
+Cilla och jag tillfrågas av SVT om vi vill skriva manus till en tv-serie baserad på en bok av Henning Mankell. Den heter ”*Danslärarens Återkomst*”och är en thriller. Jag har aldrig läst nåt av Mankell, slarvigt kanske, men vi läser boken. Denär välskriven och ordrik och har en bra intrig. Det känns att Mankell har ett personligt engagemang.
 ::: indent
 Som vanligt när du bryter ner en bok uppenbarar sig ett antal håligheter som du som manus författare måste skyffla igen, men det löser sig. Serien spelas in, regisseras av Stephan Apelgren med Jonas Karlsson i huvudrollen.
 :::
@@ -1299,24 +1305,24 @@ Jag ser den inte.
 Inte av nonchalans, jag ser ytterst sällan egna produktioner, förmodligen avångest (jag går ocksåytterst sällan påegna premiärer, det är förknippat med för mycket alkohol för att balansera socialiseringen).
 :::
 
-![260.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/260.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/260.jpg)
 
-Nästa projekt är ett undantag: tv-serien ” *Graven* ”. Undantag i den bemärkelsen att jag och Cilla faktiskt sätter oss framför tv-n när vi har fått cd-skivorna från serien och börjar titta. Påförsta avsnittet. På andra och på tredje. Och blir helt indragna. Och lyckliga. Det är såfågånger i en manus författares liv som du får uppleva att det du har skrivit faktiskt har landat rätt, träffat exakt ton och har blivit det du villeåt.
+Nästa projekt är ett undantag: tv-serien”*Graven*”. Undantag i den bemärkelsen att jag och Cilla faktiskt sätter oss framför tv-n när vi har fått cd-skivorna från serien och börjar titta. Påförsta avsnittet. På andra och på tredje. Och blir helt indragna. Och lyckliga. Det är såfågånger i en manus författares liv som du får uppleva att det du har skrivit faktiskt har landat rätt, träffat exakt ton och har blivit det du villeåt.
 ::: indent
 Till och med förhöjt.
 :::
 
 ::: indent
-Vilket är en eloge till regissören Mikael Marcimain. Han har litat totalt påmanuset och vågat vila, i dialogen, i situationerna, vågat berätta i ett ” långsamt ” och suggestivt tempo.
+Vilket är en eloge till regissören Mikael Marcimain. Han har litat totalt påmanuset och vågat vila, i dialogen, i situationerna, vågat berätta i ett ”långsamt”och suggestivt tempo.
 :::
 
 ::: indent
 Det är inte såvanligt.
 :::
 
-![241.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/241.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/241.png)
 
-Bakgrund: Cilla och jag har hamnat i ett ekonomiskt vakuum - författartraumat. Samtidigt känner vi att vi vill skriva nåt helt eget, efter en del tröskande med Beck och annat, och skriver ihop ett synopsis på en kriminalhistoria som vi kallar   ” *Graven * ”. Vi lämnar den till Filmlance. Dom är inte intresserade. ” Vi är trötta på att göra deckare. ” I samma veva ringer Daniel Alfredsson, nybliven chef på SVT Drama, och säger att han ute efter svenska originalhistorier och undrar om vi är intresserade av att skriva.
+Bakgrund: Cilla och jag har hamnat i ett ekonomiskt vakuum - författartraumat. Samtidigt känner vi att vi vill skriva nåt helt eget, efter en del tröskande med Beck och annat, och skriver ihop ett synopsis på en kriminalhistoria som vi kallar ”*Graven *”. Vi lämnar den till Filmlance. Dom är inte intresserade. ”Vi är trötta på att göra deckare.”I samma veva ringer Daniel Alfredsson, nybliven chef på SVT Drama, och säger att han ute efter svenska originalhistorier och undrar om vi är intresserade av att skriva.
 ::: indent
 – Vi har redan skrivit en historia, jag kan skicka den, säger jag.
 :::
@@ -1326,15 +1332,15 @@ Alfredsson läser, bestämmer sig och projektet rullar igång. Valet av Marcimai
 :::
 
 ::: indent
-Vilket han uppenbarlig gör (Marcimain ska senare göra tv-serier som ” *Lasermannen* ” och ” *Upp till kamp* ”).
+Vilket han uppenbarlig gör (Marcimain ska senare göra tv-serier som”*Lasermannen*”och”*Upp till kamp*”).
 :::
 
 ::: indent
-Innan vi börjar skriva ” *Graven* ” bestämmer vi oss för att frångåvissa traditionella kriminslag. Vi vill inte ha en grupp poliser på en polisstation som får ett mord att lösa. Vi tänker ” *Sju Samurajer* ” eller ” *Sju vågade livet* ” - en person som får ett uppdrag och fria händer att kontakta dom personer han behöver för att fullfölja uppdraget. I det här fallet är personen en kontroversiell kriminalutredare med ett spänt förhållande till polisledningen och delägare ti ll ett halvrisigt fartyg, förankrat på Söder Mälarstrand. Mannen spelas av Kjelle Bergqvist, fartyget blir den fysiska mötesplatsen för hans grupp.
+Innan vi börjar skriva ”*Graven*”bestämmer vi oss för att frångåvissa traditionella kriminslag. Vi vill inte ha en grupp poliser på en polisstation som får ett mord att lösa. Vi tänker”*Sju Samurajer*”eller”*Sju vågade livet*” - en person som får ett uppdrag och fria händer att kontakta dom personer han behöver för att fullfölja uppdraget. I det här fallet är personen en kontroversiell kriminalutredare med ett spänt förhållande till polisledningen och delägare ti ll ett halvrisigt fartyg, förankrat på Söder Mälarstrand. Mannen spelas av Kjelle Bergqvist, fartyget blir den fysiska mötesplatsen för hans grupp.
 :::
 
 ::: indent
-Marcimain bestämmer sig för att alla scener påoch i fartyget (och det är många) ska spelas in på plats, i ett riktigt fartyg (M/S Lagaren), detta för att fåfram den täta, nästan klaustrofobiska stämningen.
+Marcimain bestämmer sig för att alla scener på och i fartyget (och det är många) ska spelas in på plats, i ett riktigt fartyg (M/S Lagaren), detta för att fåfram den täta, nästan klaustrofobiska stämningen.
 :::
 
 ::: indent
@@ -1350,7 +1356,7 @@ Under skrivandets gång löser vi gåtan, bit för bit.
 :::
 
 ::: indent
-” *Graven* ” får ett över svallande mottagande, inte minst i recensentvärlden (den som ofta fnyståt Beck-serien).
+”*Graven*”får ett över svallande mottagande, inte minst i recensentvärlden (den som ofta fnyståt Beck-serien).
 :::
 
 ::: indent
@@ -1358,14 +1364,14 @@ Gungor och karuseller.
 :::
 
 ::: indent
-Av SVT tilldelas vi ett hederspris för manuset, det så kallade ” Ikarospriset ”.
+Av SVT tilldelas vi ett hederspris för manuset, det så kallade”Ikarospriset”.
 :::
 <!-- PAGE 243 END -->
 
 <!-- PAGE 244 START -->
 Minne från manusarbetet 1: Vi har genomgång på SVT av dom tvåförsta manusen. Som vanligt har kanalen en manusredaktör inkopplad. Anders Weidemann, en man med prudentliga glasögon och högt hårfäste. Han tycker att manusen är för sega.
 ::: indent
-– Ta död på en av huvudkaraktärerna i andra avsnittet sådet händer nåt!
+– Ta död på en av huvudkaraktärerna i andra avsnittet så det händer nåt!
 :::
 
 ::: indent
@@ -1373,7 +1379,7 @@ Vi avstår från förslaget.
 :::
 
 ::: indent
-Weidemann ersätts av en ny manusredaktör. Camilla Ahlgren. Cilla och hon känner varandra sen tidigare, båda arbetade med ” *Rederiet* ” en period (Camilla slutade på SVT för att bli vår redaktör på Beckserien). Hon är skicklig och noggrann, lyhörd och innovativ, vi  kompletterar varandra utmärkt.Över tid kommer vi att samarbeta i flera andra tv-produktioner förutom ” *Graven* ” och ” *Morden* ”: till exempel ” *Arne Dahl* ” och ” *Springfloden* ”. Camilla utvecklas också till en väldigt begåvad manus författare, med bland annat ” *Bron* ” och ” *Störst av allt* ” i sitt cv.
+Weidemann ersätts av en ny manusredaktör. Camilla Ahlgren. Cilla och hon känner varandra sen tidigare, båda arbetade med ”*Rederiet*”en period (Camilla slutade på SVT för att bli vår redaktör på Beckserien). Hon är skicklig och noggrann, lyhörd och innovativ, vi  kompletterar varandra utmärkt. Över tid kommer vi att samarbeta i flera andra tv-produktioner förutom”*Graven*”och”*Morden*”: till exempel ”*Arne Dahl*”och”*Springfloden*”. Camilla utvecklas också till en väldigt begåvad manus författare, med bland annat ”*Bron*”och”*Störst av allt*”i sitt cv.
 :::
 
 ::: indent
@@ -1385,7 +1391,7 @@ Dessutom efterträder hon mig som ordförande i Dramatiker för bundet.
 :::
 
 ::: indent
-Minne från manusarbetet 2: I en scen låter vi skådespelaren Göran Ragnestams karaktär i förbifarten berätta för en ung man om sin egen ungdomsperiod, hur han rökte påoch lyssnade på The Fugs och somnade med en pingsiboll som huvudkudde (en remeniscens från Skånska Lasse). Marcimain läser scenen, vet inte vilka The Fugsär, ser omedelbart till att deras musik plockas fram såatt han kan lyssna på dom.
+Minne från manusarbetet 2: I en scen låter vi skådespelaren Göran Ragnestams karaktär i förbifarten berätta för en ung man om sin egen ungdomsperiod, hur han rökte på och lyssnade på The Fugs och somnade med en pingsiboll som huvudkudde (en remeniscens från Skånska Lasse). Marcimain läser scenen, vet inte vilka The Fugsär, ser omedelbart till att deras musik plockas fram så att han kan lyssna på dom.
 :::
 
 ::: indent
@@ -1423,7 +1429,7 @@ Det är en glädje att skriva. Båda Cilla och jag uppslukas av historien och al
 :::
 
 ::: indent
-Bergendahl läser parallellt med vårt skrivande, är djupt engagerad och arbetar på en finansiering. En inte helt lätt uppgift, med tanke på att Fersen rörde sig över stora delar av Europa ochäven deltog i det amerikanska inbördeskriget.
+Bergendahl läser parallellt med vårt skrivande, är djupt engagerad och arbetar på en finansiering. En inte helt lätt uppgift, med tanke på att Fersen rörde sig över stora delar av Europa och även deltog i det amerikanska inbördeskriget.
 :::
 
 ::: indent
@@ -1445,11 +1451,11 @@ Men det blir det inte, av tvåskäl:
 :::
 
 ::: indent
-Dels får en amerikansk film premi är i den här vevan, ” *Marie Antoinette* ”, regisserad av Sofia Coppola. En film som vad gäller tidsperiod och delar av innehållet tangerar Fersens historia.
+Dels får en amerikansk film premi är i den här vevan,”*Marie Antoinette*”, regisserad av Sofia Coppola. En film som vad gäller tidsperiod och delar av innehållet tangerar Fersens historia.
 :::
 
 ::: indent
-Dels vill SF göra film på Guillous Arn-böcker. Ocksådet ett jätteprojekt.
+Dels vill SF göra film på Guillous Arn-böcker. Också det ett jätteprojekt.
 :::
 
 ::: indent
@@ -1464,20 +1470,20 @@ Och där ligger han och surar för att ingen vill visualisera hans exceptionella
 Jag förstår honom.
 :::
 
-Mankell dyker upp igen: Cilla och jag blir tillfrågade om vi vill skriva ett avsnitt till en ny tv-serie om polisen Kurt Wallander. Mankell ska skriva ett ” utkast ” till varje avsnitt som olika författare får arbeta vidare med. Vi tackar ja (i backspegeln vet jag inte varför vi gör det, pengar? Kanske ... eller för att jag har en varm och bra relation till en av producenterna, Lars Björkman?). Vi skriver ett avsnitt som handlar om människohandel, om en container som hittas, öppnas och är fylld med döda flyktingar. Vi döper avsnittet till ” *Containern* ” (senareändras det till ” *Täckmanteln* ”).
+Mankell dyker upp igen: Cilla och jag blir tillfrågade om vi vill skriva ett avsnitt till en ny tv-serie om polisen Kurt Wallander. Mankell ska skriva ett ”utkast”till varje avsnitt som olika författare får arbeta vidare med. Vi tackar ja (i backspegeln vet jag inte varför vi gör det, pengar? Kanske ... eller för att jag har en varm och bra relation till en av producenterna, Lars Björkman?). Vi skriver ett avsnitt som handlar om människohandel, om en container som hittas, öppnas och är fylld med döda flyktingar. Vi döper avsnittet till”*Containern*”(senareändras det till”*Täckmanteln*”).
 ::: indent
-Inte så mycket av Mankells ” utkast ” finns kvar i berättelsen.
+Inte så mycket av Mankells ”utkast”finns kvar i berättelsen.
 :::
 
-![262.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/262.jpeg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/262.jpeg)
 
-Ett tag innan har jag fått ett akutsamtal. Det ska göras en långfilm på Mankells bok ” *Innan Frosten* ”, man har problem med manuset, med dialogen, och vill att jagåker ner till Ystad för att skriva om den. Ett blixtuppdrag. Det gillar jag. Instängd i ett hotellrum ett par dygn, massera en dialog, ta bra betalt, åka hem ochäta gott.
+Ett tag innan har jag fått ett akutsamtal. Det ska göras en långfilm på Mankells bok”*Innan Frosten*”, man har problem med manuset, med dialogen, och vill att jag åker ner till Ystad för att skriva om den. Ett blixtuppdrag. Det gillar jag. Instängd i ett hotellrum ett par dygn, massera en dialog, ta bra betalt, åka hem och äta gott.
 ::: indent
-Det Ingmar Bergman, med viss spydighet, kallade ” manustvättning ”.
+Det Ingmar Bergman, med viss spydighet, kallade ”manustvättning”.
 :::
 
 ::: indent
-Nota bene: Jagälskar verkligen att skriva dialog. Att landa repliker såtätt påkaraktärerna att dom verkar spontana. Svårt, men alltid lockande.
+Nota bene: Jagälskar verkligen att skriva dialog. Att landa repliker så tätt påkaraktärerna att dom verkar spontana. Svårt, men alltid lockande.
 :::
 
 ::: indent
@@ -1533,7 +1539,7 @@ Det börjar med att fiskarna nere i hamnen reagerar, vattennivån är märkligt 
 :::
 
 ::: indent
-En jordbävningar harägt rum i Indiska Oceanen, väster omön Sumatra i Indonesien, den mäter 9,3 på Richterskalan.Än har den inte nått den afrikanskaöstkusten, när den gör det omkommer hundratals människor. Närmare epicentrum dör drygt en kvarts miljard.
+En jordbävningar harägt rum i Indiska Oceanen, väster omön Sumatra i Indonesien, den mäter 9,3 på Richterskalan. Än har den inte nått den afrikanskaöstkusten, när den gör det omkommer hundratals människor. Närmare epicentrum dör drygt en kvarts miljard.
 :::
 
 ::: indent
@@ -1545,7 +1551,7 @@ Detta vet vi inte heller just nu.
 :::
 
 ::: indent
-Just nu försöker vi hantera konflikten i att ha det såbra som man kanönska sig, samtidigt som en tragedi sveper fram på andra sidan oceanen.
+Just nu försöker vi hantera konflikten i att ha det så bra som man kanönska sig, samtidigt som en tragedi sveper fram på andra sidan oceanen.
 :::
 
 ::: indent
@@ -1580,7 +1586,7 @@ Så småningom, hemkomna, hinner vi ikapp och tar del av allt det alla andra tar
 <!-- PAGE 246 END -->
 
 <!-- PAGE 247 START -->
-Fotnot: En nära vän till Kjelle Bergqvist förlorar tvåtonårsbarn i tsunamin. Sussie. För att hantera sorgen, och minnet, startar hon såsmåningom ett barnhem och en skola på Pukhet för thailändska barn som har blivit föräldralösa i katastrofen. Kjelle stöttar hemmet ekonomiskt (så även vi). Idag är verksamheten väletablerad, heter ” Happy Child Foundation ” och slussar löpande ut unga thailändska barn i vuxenlivet.
+Fotnot: En nära vän till Kjelle Bergqvist förlorar tvåtonårsbarn i tsunamin. Sussie. För att hantera sorgen, och minnet, startar hon så småningom ett barnhem och en skola på Pukhet för thailändska barn som har blivit föräldralösa i katastrofen. Kjelle stöttar hemmet ekonomiskt (så även vi). Idag är verksamheten väletablerad, heter ”Happy Child Foundation” och slussar löpande ut unga thailändska barn i vuxenlivet.
 
 Mörk tid börjar det häråret. JimmieÅkesson blir partiledare för Sverigedemokraterna. En händelse som är tämligen perifer, politiskt sett, men som ska orsaka konvulsioner i det svenska samhälletåren framöver. Mycket tack vareÅkessons egen persona. Själv har jag ingen direkt koll på honom vid den här tidpunkten. Skåning, med täta tänder och försumbart skägg.
 ::: indent
@@ -1602,7 +1608,7 @@ Hans sjukdom gör att han inte kommer till Nobelfesten.
 :::
 
 ::: indent
-Jag är bjuden i egenskap av ordförande i Dramatiker för bundet och Cilla är ” ledsagerska ”, som det heter påakademispråk.
+Jag är bjuden i egenskap av ordförande i Dramatiker för bundet och Cilla är ”ledsagerska”, som det heter påakademispråk.
 :::
 
 ::: indent
@@ -1610,7 +1616,7 @@ För första (och förmodligen sista) gången i mitt liv bär jag frack (hyrd p�
 :::
 
 ::: indent
-Ska det vara såska det.
+Ska det vara så ska det.
 :::
 
 ::: indent
@@ -1627,11 +1633,11 @@ Been there, done that, är väl kontentan.
 
 Det häråret gör jag också ett besök i Kapstaden.
 
-![263.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/263.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/263.jpg)
 
-Mitt manus ” *Kocken* ” från 1979äräntligen under inspelning. Till slut har Arehn fått ihop en finansiering och en bra huvudrollsinnehavare: Kjelle Bergqvist (som har hoppat av rollen som Wallander i en kommande tv-serie för att fågöra Kocken).
+Mitt manus ”*Kocken*”från 1979 äräntligen under inspelning. Till slut har Arehn fått ihop en finansiering och en bra huvudrollsinnehavare: Kjelle Bergqvist (som har hoppat av rollen som Wallander i en kommande tv-serie för att fågöra Kocken).
 
-I Kapstaden ska en del centrala scener tas. Jag är där som ” inbjuden turist ” (möjligen diskuteras manuset några kvällar mellan Mats Arehn och mig och Kjelle).
+I Kapstaden ska en del centrala scener tas. Jag är där som”inbjuden turist”(möjligen diskuteras manuset några kvällar mellan Mats Arehn och mig och Kjelle).
 <!-- PAGE 247 END -->
 
 <!-- PAGE 248 START -->
@@ -1640,7 +1646,7 @@ Plågsamt minne från Kapstaden: Vi besöker en av dom stora kåkstäder som lig
 :::
 
 ::: indent
-Vi får ocksåkomma in i ett av ” hemmen ”, plåtskjulen, ser dom utmärglade barnen vid väggarna och påminns brutalt om ganska många saker (jag bjöds in i en massajhydda en gång, samma trångboddhet, samma hål i taket, med djur granne med bäddarna, men det var inte alls samma känsla av hopplös misär). Vi köper ett antal lokaltillverkade tyger för att stödja det vi kan och åker tillbaka till det luftkonditionerade hotellet.
+Vi får ocksåkomma in i ett av”hemmen”, plåtskjulen, ser dom utmärglade barnen vid väggarna och påminns brutalt om ganska många saker (jag bjöds in i en massajhydda en gång, samma trångboddhet, samma hål i taket, med djur granne med bäddarna, men det var inte alls samma känsla av hopplös misär). Vi köper ett antal lokaltillverkade tyger för att stödja det vi kan och åker tillbaka till det luftkonditionerade hotellet.
 :::
 
 ::: indent
@@ -1655,7 +1661,7 @@ Det känns så där.
 Dagen efter känns det lite bättre när vi får en eloge av den färgade guiden efter besöket på Robben Island.
 :::
 
-Fotnot 1: *”Kocken”*öppnar sedermera filmfestivalen i Göteborg och utses några månader senare till Bästa Film på Hollywood Film Festival, i sällskap med pristagare som Diane Keaton, Susan Sarandon och Charlize Theron. Priset är en ingraverad glasskulptur. Ingen från produktionen är på plats för att ta emot, vilket får till följd att glaspjäsen helt enkelt ” försvinner ” (trots att författaren Reidar Jönsson försöker spåra den så gott han kan).
+Fotnot 1: *”Kocken”*öppnar sedermera filmfestivalen i Göteborg och utses några månader senare till Bästa Film på Hollywood Film Festival, i sällskap med pristagare som Diane Keaton, Susan Sarandon och Charlize Theron. Priset är en ingraverad glasskulptur. Ingen från produktionen är på plats för att ta emot, vilket får till följd att glaspjäsen helt enkelt ”försvinner”(trots att författaren Reidar Jönsson försöker spåra den så gott han kan).
 ::: indent
 Fotnot 2: Bondproducenten Barbara Broccoli sitter i juryn, vilket föranleder en journalist att fråga Kjelle om han tror att rollen som James Bond kan vara pågång?
 :::
@@ -1675,18 +1681,17 @@ Mycket fruktbart, tack Ann-Marie.
 
 Påarbetsfronten: Cilla och jag skriver tvånya Beckfilmer, 23 och 24.
 ::: indent
-Vi skriver också en fristående fortsättning på vår kriminalserie ” *Graven* ”, den här gången heter den ” *Morden* ”. Korta effektiva namn. Det gillar jag (vår bästa deckartitelär, än så länge, ” *Kallbrand* ”). Den nya serien är inte riktigt i nivåmed sin föregångare, enligt mig. Inte samma förhöjda berättande, inte samma dramatiska intensitet i gestaltningen. Inte Marcimain vid pulpeten.
+Vi skriver också en fristående fortsättning på vår kriminalserie”*Graven*”, den här gången heter den ”*Morden*”. Korta effektiva namn. Det gillar jag (vår bästa deckartitelär, än så länge, ”*Kallbrand*”). Den nya serien är inte riktigt i nivåmed sin föregångare, enligt mig. Inte samma förhöjda berättande, inte samma dramatiska intensitet i gestaltningen. Inte Marcimain vid pulpeten.
 :::
 
 ::: indent
 Men den fungerar.
 :::
 
-![264.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/264.jpg)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/264.jpg)
 
 Jag blir ocksåombedd att skriva en text till Ingvar Hirdwall, han ska uppträda som Grannen på Guldbaggegalan. Jag är inte såförtjust i det, att exploatera en karaktär utanför det sammanhang den ingår i, det funkar sällan.
 ::: indent
 Men jag gör det, av respekt för Hirdwall (en, om jag inte har nämnt det tidigare, genuint grundad skådespelare, med en otrolig känsla för tajming och utan för skap).
 :::
 <!-- PAGE 248 END -->
-

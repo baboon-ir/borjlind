@@ -1,0 +1,2 @@
+[    3745ms] [LOG] [11ty][08:05:00.191 UTC] Connected @ http://localhost:8181/.11ty/reload-client.js:20
+[    4320ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube-nocookie.com/s/player/f85ea353/player_embed_es6.vflset/sv_SE/base.js:4997
