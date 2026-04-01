@@ -1381,6 +1381,7 @@ a.rb-skip-btn:hover {
 .rb-bio-reader-wrap {
   width: 100%;
   overflow-x: clip;
+  padding-bottom: calc(52px + env(safe-area-inset-bottom));
 }
 
 .rb-bio-container {
@@ -1498,14 +1499,14 @@ a.rb-skip-btn:hover {
 
 /* Images should never exceed 50% of the reader height */
 .rb-segment .rb-page-prose img {
-  max-height: 50dvh;
+  max-height: 50svh;
   width: auto;
   object-fit: contain;
 }
 
 /* Media pages: centered in scroll flow */
 .rb-page-prose--media {
-  min-height: 60dvh;
+  min-height: 60svh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1538,10 +1539,11 @@ a.rb-skip-btn:hover {
 }
 
 .rb-reader-bar {
-  position: sticky;
+  position: fixed;
   bottom: 0;
+  left: 0;
+  right: 0;
   z-index: 40;
-  width: 100%;
   min-height: 52px;
   padding: 0.7rem 1rem calc(0.7rem + env(safe-area-inset-bottom));
   background-color: color-mix(in srgb, var(--rb-surface) 88%, transparent);
@@ -1705,7 +1707,7 @@ a.rb-skip-btn:hover {
 
 .rb-bio-page--media img,
 .rb-bio-page--media .rb-yt-embed {
-  max-height: 80dvh;
+  max-height: 80svh;
   width: auto;
   max-width: 100%;
 }
@@ -1748,9 +1750,10 @@ a.rb-skip-btn:hover {
 
 .rb-section-reader-wrap {
   width: 100%;
-  min-height: 100dvh;
+  min-height: 100svh;
   display: flex;
   flex-direction: column;
+  padding-bottom: calc(52px + env(safe-area-inset-bottom));
   background-color: var(--rb-bg);
   padding-bottom: calc(4rem + env(safe-area-inset-bottom));
 }
