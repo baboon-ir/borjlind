@@ -27,6 +27,9 @@ Själv tröstar jag mig med Cilla och utsökta ostron i den lilla hamnhålan, la
 Reflektion: Det är en aning beklämmande att konstatera hur mycket tid av mitt liv jag har lagt ner påidéer, projekt, synopsis, manus med mera ... som aldrig har blivit av. Flammat upp i skrivögonblicket och falnat ner i frustration (sen många år går jag bara in i projekt som jag vet kommer att realiseras, eller där sannolikheten gör mödan värd).
 :::
 
+::: part
+:::
+
 Bob Dylan? Käpphästen?
 ::: indent
 Filmgurun Nils-Petter Sundgren kontaktar mig och frågar om jag vill göra en introduktion till Bob Dylan`s film ” *Renaldo & Clara* ” som ska visas på tv. Jag ska själv framföra den innan filmen.

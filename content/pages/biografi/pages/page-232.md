@@ -53,6 +53,9 @@ Tack och lov spolas det av väldigt snabbt.
 Som smuts.
 :::
 
+::: part
+:::
+
 Det har startats en ny tidning det häråret, den heter ” *98-Stockholm* ”. Jag blir ombedd om en text. Varför inte? Jag är brödskrivare och driver ett gammalt kärntema vidare, från Keve Hjelms ” *Betraktelse* ”:
 
 **”Det finns egentligen bara en giltig strävan idag, oavsett vem du är, vad du heter eller vad du gör: att återupprätta den mänskliga värdigheten. Den värdighet som oavbrutet besudlas. Förnedras. Vart vi oss i världen vänder. Den värdighet som stympas och kränks. Överallt. Dygnet runt. Vi vet alla hur. Var. Och på vilket sätt. Det finns ingen skuld vi inte alla är en del av, ingen oskuld vi kan kalla vår. Den tiden är förbi. Vi vet exakt vad som pågår och varför. Vi vet att vi obönhörligt förvandlas till det vi en gång fruktade. Det vi såg på med avsmak. Den avbild av människan som var människans varg. Vi är den vargen nu. Oavsett vem vi är, vad vi heter eller vad vi gör. Vi deltar i blindo. Vi accepterar. Vi reduceras tills vi tystnar. Mot detta finns bara ett vapen i framtiden. En enda genuin rörelse: den maximalt frigjorda skaparkraften. En kraft som ligger så långt utanför all social kontroll att den blir revolutionär enbart genom sin existens. En kraft som förmår att uttala den brutala sanningen genom ett obarmhärtigt språk och därmed möjliggöra vår enda giltiga strävan: att återupprätta den mänskliga värdigheten.” **

@@ -36,11 +36,14 @@ Senär det vitt och blankt.
 Och tyst.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/283.png)
+![Mitt i meningslösheten passerar ett spjut av tid.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/283.png)
 
 Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lundqvist. Såhär kul har hans alter ego Klas Katt det:
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/251.png)
+
+::: part
+:::
 
 Jag släpper mitt romanprojekt och träder ut i världen igen.
 ::: indent
@@ -109,6 +112,9 @@ Filmen beskrivs så här:
 :::
 
 **”Dödspolare är på flera plan ett experiment. Den produceras för en extremt låg budget, ca 1/3 av en normal långfilm. Den arbetar med ett miniteam, 25 dagars inspelning, få skådespelare och koncentrerade miljöer. I dagens filmklimat, med konstnärlig stagnation, ekonomisk kris och allmän produktionsångest är Dödspolare ett försök att visa på nya vägar.”**
+
+::: part
+:::
 
 Själv viker jag över till lättare brödmark igen och skriver ett entimmes underhållningsprogram till sångerskan Anna-Lotta Larsson (hon visar sig vara en fulländad komedienne). Det sänds i SVT och blir kanalens Montreauxbidrag. Själv får jag en nära och varm kontakt med Anna-Lotta -över tid kommer jag att skriva många sångtexter till henne (hon är fenomenal på att kula, en uråldrig vildsint lockropsteknik som kan fåupp vem som helst ur rullstolen).
 
@@ -190,7 +196,12 @@ Jag skrivs ut en dag senare, mannen i sängen mittemot har körts iväg på natt
 
 Parentes: Jag har aldrig haft problem med att söka läkarhjälp eller befinna mig på sjukhus. Miljön gör mig inte obekväm eller deprimerad (möjligen med undantag för Radiumhemmet). Är jag på sjukhus är det för att jag behöver hjälp och kan få det. Nästan utan undantag har jag bemötts korrekt och inkännande. Jag har den största respekt för svensk sjukvård (den har inte minskat under coronakrisen).
 
+::: part
+:::
+
 Ryggen rätar på sig, smärtorna försvinner och Mikael Wiehe ringer. Stora delar av den svenska musikeliten ska göra en stödgala för Sydafrika. För ANC (African National Congress) - mot apartheid. Tvåkonserter i Scandinavium i Göteborg. Han frågar om jag vill medverka och framföra min dikt”*Nyttiga Idioter*”. Det vill jag och gör jag:
+
+[yt-video][https://www.youtube.com/watch?v=OsoPVJZD3V0]
 
 Såhär beskriver artisterna bakgrunden till konserterna:
 
@@ -220,6 +231,9 @@ Och river upp såren från Sveavägen igen.
 Mollstämda pukor.
 :::
 
+::: part
+:::
+
 Gösta har länge gått och ruvat på en långfilm. Påatt ta steget ut och regissera en egen film. Hans pappa Hasse Ekman harägnat hela livetåt det, framgångsrikt, hans bror Mikael likaså. Gösta är sugen på att försöka. ”*Jag vill ha det gjort*.”Han har fyllt ett antal anteckningsböcker (dock inte bruna) med idéer och tankar. Nu känner han att det är dags. Vi börjar prata. Påtelefon, först, Gösta bor kvar på Mallorca. Det slutar med en resa ner för min del.
 ::: indent
 Inte helt ovilligt.
@@ -246,6 +260,8 @@ Nick gör som han blir tillsagd och en stund senare ligger det en vit, blöt mum
 :::
 
 Åter till Mallorca: Skådespelerskan Lena Nyman gör ett kort besök hos oss i Fornalutx, det är tänkt att hon ska spela en av rollerna i filmen. Hon är cool och inte såintresserad av sol. Jag tycker mycket om henne, vi har delvis samma dialektiska ursprung, trakterna runt Björns Trädgård på Söder. Vår kontakt är enkel och rak och när jag sexår senare ber henne ingåi redaktionen för ett avantgardistiskt tv-program,”*Sista Skriket*”, ställer hon upp direkt. Såhär gestaltar hon en text jag skriver till henne:
+
+[yt-video][https://www.youtube.com/watch?v=1HbH_hpwGi4]
 <!-- PAGE 170 END -->
 
 <!-- PAGE 171 START -->
@@ -368,6 +384,9 @@ För att skaka av mig romanmonstret skriver jag fyra sångtexter till Anna-Lotta
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/513.png)
 
+::: part
+:::
+
 Off the record: Jag får en förfrågan från Limabrall, ett produktionsbolag som drivs av Lill Lindfors, Magnus Härenstam, Brasse Brännström och teaterproducenten Aller Johansson. Lars Amble ska sätta upp en musikal påteater Maxim i Stockholm. Han har föreslagit att jag ska skriva den.
 ::: indent
 Musikal?
@@ -390,7 +409,10 @@ Och så blir det.
 :::
 
 ::: indent
-I samarbete med Tove skriver jag musikalen ”*Skål*”. Sketcher och sånger. Den har premi är på Maxim och går för fulla salonger hela hösten. Författare till föreställningen är ”*Lars Amble*, *Magnus Härenstam & Brasse Brännström*”. De båda senare är mycket obekväma med den lösningen, men accepterar.
+I samarbete med Tove skriver jag musikalen “*Skål*”. Sketcher och sånger. Den har premi är på Maxim och går för fulla salonger hela hösten. Författare till föreställningen är “*Lars Amble*, *Magnus Härenstam & Brasse Brännström*”. De båda senare är mycket obekväma med den lösningen, men accepterar.
+:::
+
+::: part
 :::
 <!-- PAGE 173 END -->
 
@@ -410,6 +432,9 @@ Fortfarande är figurernaälskade.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/255.png)
+
+::: part
+:::
 
 Vid det här stadiet i en kriminalroman, efter drygt tvåtredjedelar av boken, brukar man lägga in ett mord för att trissa upp framåtrörelsen. Det här mordet sker på öppen gata:
 
@@ -471,6 +496,9 @@ Jag vet inte.
 
 Minne från mordet på Palme: Jag står uppe på Fåfängan på Söder och tittar bort mot Kungsholmen. Det är lördagen den 15 mars. Palmes vita kista är på väg från Stadshuset till Adolf Fredriks kyrka. Katafalkvagnen dras av sex svartklädda män. Hela city har tystnat, dovaödesmättade trummor mullrar utöver vattnet, all trafik står stilla. Det är mäktigt och sorgligt.
 
+::: part
+:::
+
 *Back to Baronessan Borelli*: Vid det här laget har min privata Titanic svällt ut till många hundra sidor text. Jag inser att jag måste välja: antingen acceptera ett haveri eller”knyta ihop säcken” och fåett avslut. Jag har ingen som helst distans till materialet, kan inte zooma ut och se vad det egentligen är för verbal kvicksand jag har drunknat i.
 ::: indent
 Jag bestämmer mig för att lämna manuset till fyra personer som jag har tillräckligt privat förtroende för: Carsten, Sten Ljunggren, Bruno K och Gösta. Alla får en påfrestande fet pärm att läsa. Till min relativa förvåning tar sig allihop igenom materialet (påstår dom). Sten och Bruno träffar jag för att höra derasåsikter. Carsten formulerar sig i ett långt brev, han skriver bland annat:
@@ -505,7 +533,10 @@ Senare ska jag söka upp den där puckeln, med pannlampa mitt i natten, hitta de
 Varför?
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/177.png)
+![Gåtans tjusning ligger inte i svaret.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/177.png)
+
+::: part
+:::
 
 Den här sommaren läser jag ”*Tåbb med manifestet*”för första gången, Lars Ahlins omskrivna debutbok från 1943. Det mest anmärkningsvärda med boken, förutom det inkännande porträttet av en ung mans våndor med sin politiska tro och Ahlins språkbehandling, är dess spridning. Enligt uppgift köptes och lästes den avöver 100.000 personer, företrädesvis arbetare och mindre bemedlade människor. Det är inte många böcker som når den upplagan, speciellt inte med ett ganska krävande innehåll.
 ::: indent
@@ -524,6 +555,9 @@ Långt därifrån.
 Jag tar mig fram på andra stigar.
 :::
 
+::: part
+:::
+
 Såtilldelas jag Årets Klappa av Föreningen Sveriges Spelfilmsregissörer, för att ”*i ett decennium skickligt och hängivet ha arbetat med filmens grundförutsättning, manuskriptet*”. Ett decennium är att ta i, jag skrev mitt första filmmanus 1980. Det här sker 1986.
 ::: indent
 Men lite uppskattning är alltid välkommet.
@@ -533,13 +567,16 @@ Men lite uppskattning är alltid välkommet.
 
 Samtidigt har Carsten en utställning på Boibrino Gallery i Stockholm. En av målningarna heter ”*Gobelängjungfrun*”(enligt Carsten ett transformerat minne av tapisserisviten”*Damen med enhörningen*”i medeltidsmuseet i Cluny):
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/202.png)
+![Gobelängjungfrun.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/202.png)
 <!-- PAGE 176 END -->
 
 <!-- PAGE 177 START -->
 Själv föredrar jag pendangen till den målningen:
 
 ![Vampyrjungfrun.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/203.png)
+
+::: part
+:::
 
 Livet och skrivandet går vidare.
 ::: indent
@@ -567,9 +604,12 @@ Mycket jobb down the drain.
 
 Istället skriver jag manus till ett poesi- och musikprogram för SR i samarbete med Stefan Nilsson. Det heter ”*Drömmar i sommarnatten*”. Långt från träsket runt Norrmalmstorg.
 
+::: part
+:::
+
 Roligt händer nästaår: Minäldste son Joakim har en av huvudrollerna i en tv-serie som heter ”*Xerxes*”. Peter Schildt regisserar. Jag är imponerad av Jockes prestation, han har en naturlig trovärdighet som inte är såvanlig (även om det är extremt svårt att se en sånärstånde människa gestalta en annan människa, svårt att filtrera bort Joakim).
 
-![Mitt i meningslösheten passerar ett spjut av tid.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/247.png)
+![Ynglingen längst till höger.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/247.png)
 <!-- PAGE 177 END -->
 
 <!-- PAGE 178 START -->

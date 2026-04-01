@@ -29,6 +29,9 @@ yearGroup: "2018–2024"
 
 ![306.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/306.png)
 
+::: part
+:::
+
 Och när sömnen väl omsluter mig får jag en egendomlig dröm. Jag balanserar i en hängränna påfemte våningen på Palmgrenska samskolan i Stockholm, min realskola, nedanför ligger den stenbelagda skolgården, jag tar ett par steg och tappar fästet, i fallet mot gården fattar jag att jag kommer att dö, allt blir en mörk tunnel, längst bort ser jag ljus, jag springer mot ljuset och kommer ut i kanten av enäng, en damcykel står lutad mot en gammal ek, jag sätter mig påcykeln och trampar bort ... sen vaknar jag.
 ::: indent
 En damcykel?
@@ -36,6 +39,9 @@ En damcykel?
 
 ::: indent
 Var det Sveas?
+:::
+
+::: part
 :::
 
 Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samlingsvolym *”Den skrattretande teatern”*.Ämnet ligger mig inte såspeciellt varmt om hjärtat längre, men Gösta är en av initiativtagarna såjag ställer upp. Möjligen finns det elever påskolan som är nyfikna. Jag kallar texten *”Om satir”*, helt enkelt, ochåteranvänder en del tidigare slutsatser:

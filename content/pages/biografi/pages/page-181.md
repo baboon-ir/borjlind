@@ -81,4 +81,6 @@ Producenten heter Tommy Bennwik, Sundvall regisserar, sex skådespelare medverka
 
 Carsten och jag kommer snabbt fram till en layout för reklamfilmerna. Inslagen ska påannonseras som ” *Kanal C* ” med Carstens stiliseradeöga som logotype.
 
+[yt-video][https://www.youtube.com/watch?v=WWkM1T_eksQ]
+
 Varje block ska vara 3 minuter och dyka upp tvågånger i varje program (sammanlagt gör vi 28 reklamfilmer).

@@ -330,45 +330,40 @@ Ginsberg och Waldman undervisar fortfarande där idag. Det är en av anledningar
 Kort om Allen Ginsberg: 1956 gavs hans långa diktepos ”Howl”ut på City Light Books i San Francisco av Ferlinghetti. Ginsbergåtalades för sedlighetsbrott på grund av dikten. Domaren konstaterande i rättegången:”Dikten har ett försonande socialt värde, den är därför icke straffbar.”Dikten blev snabbt beatgenerationens mest ikoniska text och gav Ginsberg en ledande ställning i rörelsen. Han blev ocksåunder många år Dylans personlige vän och mentor.”Howl”inleds så här:
 
 **I saw the best minds of my generation**
-
-**     destroyd by madness, starving**
-
-**     hysterical naked,**
+::: indent
+**destroyd by madness, starving
+hysterical naked,**
+:::
 
 **dragging themselves through the negro**
-
-**     streets at dawn looking for an angry**
-
-**     fix,**
+::: indent
+**streets at dawn looking for an angry
+fix,**
+:::
 
 **angelheaded hipsters burning for the**
-
-**     ancient heavenly connection to the**
-<!-- PAGE 114 END -->
-
-<!-- PAGE 115 START -->
-**     starry dynamo in the machinery of**
-
-**     night,**
+::: indent
+**ancient heavenly connection to the
+starry dynamo in the machinery of
+night,**
+:::
 
 **who poverty and tatters and hollow-eyed**
+::: indent
+**and high sat up smoking in the
+supernatural darkness of cold-water
+flats floating across the tops of cities
+contemplating jazz**
+:::
 
-**     and high sat up smoking in the**
-
-**     supernatural darkness of cold-water**
-
-**     flats floating across the tops of cities**
-
-**     contemplating jazz**
-
-***…***
+**…**
+<!-- PAGE 114 END -->
+<!-- PAGE 115 START -->
 
 Det är inte svårt att se var den tidige Dylans metaforiska influenser emanerar ifrån.
 
 Vi är på väg in i Boulder längs Highway 36. Påbilradion hör vi att Daniel Ellsberg och Allen Ginsberg just har arresterats vid en demonstration utanför Denvers kärnkraftspark.
-::: indent
 Fotnot: Ellsberg är mannen som läckte dom så kallade”Pentagon Papers”, hemliga dokument om Vietnamkriget, som på ett avgörande sätt bidrog till att fåslut påkriget.
-:::
 
 ::: indent
 Bruno blir lite störd av nyheten i radion. Ginsberg var vår länk i Boulder. Nuär han arresterad.
@@ -681,9 +676,11 @@ Månen är framme igen.
 :::
 
 *Här följer en lång redogörelse för Brunos och mitt umgänge med Allen Ginsberg och hans vänner i Boulder. Den är förmodligen i första hand intressant för poesinördar och övervintrare från 60-talets vänsterrörelse. Övriga kan med fördel hoppa fram i tiden.*
-<!-- PAGE 118 END -->
 
+<a href="#efter-boulder" class="rb-skip-btn">HOPPA FRAM I TIDEN</a>
+<!-- PAGE 118 END -->
 <!-- PAGE 119 START -->
+
 Privat fest i en stor villa. Massor av folk. Hög musik. Bar i köket. Bruno och jag går tvärs igenom festen, ut på verandan. Det blir vår bas.
 ::: indent
 Orlovsky och Ginsberg kommer. Folk flockas runt dom i dansrummet, som runt sockervadd. Ginsberg får syn på oss. Kommer ut på verandan med ett glas vin i handen. Han ser mycket vänlig ut. Vi vill diskutera kvällens reading med honom och går rakt på sak:
@@ -858,10 +855,8 @@ Vid det här laget är det trångt på verandan, många som häller ut sinaöron
 :::
 
 ::: indent
-En kille försöker ta sig in i samtalet: ”You know, the media is the message!”Ginsberg sägeråt honom att gåut i köket. Bruno hamnar med en kvinnlig poet och börjar pratar om sina dikter. En kvinna från det italienska filmteamet säger:”I Italien skriver poeterna om döden, i USAär poesin död. Därför går det inte att jämföra.”Jag
+En kille försöker ta sig in i samtalet: “You know, the media is the message!”Ginsberg sägeråt honom att gåut i köket. Bruno hamnar med en kvinnlig poet och börjar pratar om sina dikter. En kvinna från det italienska filmteamet säger:”I Italien skriver poeterna om döden, i USAär poesin död. Därför går det inte att jämföra.”Jag känner att samtalet håller på att spåra ur.
 :::
-
-känner att samtalet håller på att spåra ur.
 ::: indent
 – Kan vi inte prata om vad du använder språket till istället, säger jag.
 :::
@@ -1860,8 +1855,13 @@ Tara tycker inte om ursäkter, hon ska göra upp med några”loose ends”och s
 :::
 
 ::: indent
-Hennes sista dikt i boken heter ”Confusion”.
+Hennes sista dikt i boken heter “Confusion”.
 :::
+
+::: part
+:::
+
+<span id="efter-boulder"></span>
 
 Dags att dra från Boulder.
 <!-- PAGE 119 END -->

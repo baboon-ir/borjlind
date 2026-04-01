@@ -3,6 +3,9 @@
 <!-- PAGE 211 START -->
 Suzanne Reuter får också en bagge för bästa kvinnliga skådespelare. Det är hon väl värd.
 
+::: part
+:::
+
 Påsensommaren det häråret tilldelas jag Rydöpriset: ”*För den fria tanken - till Olof Palmes minne*”. Tidigare pristagare är Jan Myrdal, Ivar-Lo och Maria-Pia Boethius. Priset delas ut av den tidigare kulturministern Bengt Göransson och motiveringen är en orgie i självslick:
 
 **”Rolf Börjlind tilldelas Rydöpriset för sin manusproduktion till film, radio och tv. I underhållningsprogram som Kabaret Öppen Kanal, Lorry, Jönssonligan och Sista Skriket har Börjlind med sina texter på ett enastående sätt gisslat makthavare, fördomar och företeelser i vårt samhälle.**
@@ -39,7 +42,10 @@ Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framf�
 <!-- PAGE 211 END -->
 
 <!-- PAGE 212 START -->
-**Verkligheten hårdnade. Människor betraktades inte länge som människor, eller ens som individer, människor reducerades till en konjunkturanpassad tillverkningsresurs. Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år. **
+::: accordion
+**Verkligheten hårdnade. Människor betraktades inte länge som människor, eller ens som individer, människor reducerades till en konjunkturanpassad tillverkningsresurs.**
+
+**Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år. **
 
 **     Själva satt vi i en rävsax.**
 
@@ -62,6 +68,7 @@ Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framf�
 **    Varför fogade vi oss och lät oss förstummas? Varför höjde vi inte vår röst? Varför lät vi vår värdighet besudlas, rakt framför ögonen på oss ... varför lät vi oss förvandlas till en motståndslös kameleontmänniska? Hade vi inget civilkurage längre? Vågade vi inte ställa oss utanför? Hade vår ryggrad förtvinat? Vad hände med oss?**
 
 **     Varför försvann vi?”**
+:::
 
 Texten trycks i Expressen en vecka efter prisutdelningen.
 ::: indent
@@ -79,6 +86,9 @@ Klargörande 4: Jag har aldrig deltagit i ”det offentliga samtalet”. Jag har
 
 ::: indent
 Resten har jag kanaliserat i min konstnärliga verksamhet.
+:::
+
+::: part
 :::
 
 Mina föräldrar dör på 90-talet, med någraårs mellanrum. Svea i cancer, Otto av utslitet hjärta. Arvet består huvudsakligen av en del vackra möbler och föremål, tillverkade av intarsiaspecialisten och rumlaren Nils, farfar. Det pekuniära utfallet är magert, men vi behöver inte göda kistkrämarna i onödan. Båda föräldrarna är noga med att deras kremerade kroppar ska strös för vinden. Inga privata minnesplatser. Inget konkret som ska minna om deras liv. En sekul är attityd som jag kan sympatisera med.
@@ -175,6 +185,9 @@ Jagåterkommer till det när jag är framme vid 2020.
 :::
 
 På tal om söner och fäder.
+
+::: part
+:::
 <!-- PAGE 213 END -->
 
 <!-- PAGE 214 START -->
@@ -214,6 +227,9 @@ Förövrigt är det en pladderpjäs där jag excellerar i nonsensdialog med unde
 
 ::: indent
 Ungefär.
+:::
+
+::: part
 :::
 
 Det är en sen eftermiddag och jag är på väg över Mosebacke Torg. Träden är avlövade, Södra Teatern är stängd, ute påterassen skymtar vattnet i fjärran. En gång stod en arg ung man därute och betraktade stadens inlopp, min studentuppsats i svenska handlade om honom. Arvid Falk. Nuär det tomt därute. Själv är jag på väg till en lägenhet intill teatern.
@@ -273,6 +289,9 @@ Eventuellt är det orsaken till att paret Olsson aldrig får igång projektet, t
 Men bilderna av det skändade vattenfallet glömmer jag aldrig.
 :::
 
+::: part
+:::
+
 Ett nyttälskat barn kommer till världen: Cillas och min dotter Molly. Hon föds mitt under brinnande fotbolls-VM i USA. Jag sitter i ett tomt rum på Södersjukhuset med en liten vägg-tv och följer delar av den svenska bronsbragden. Utan att kunna explodera. Ljummet vatten, kexchoklad från en automat och ett stråk av desinficeringsmedel genom luften.
 ::: indent
 Hårt.
@@ -329,7 +348,7 @@ Lindblom och jag har samarbetat tidigare, i Kråka-projektet, och fått bra kont
 Eftersom jag och Cilla just befinner oss djupt inne i en mörk skog påjakt efter svamp, ett av våra tunga intressen, såber jag att fååterkomma. Så fort jag stöter på en liten porcini, en späd stensopp med utsökt smak, vet jag vad jag ska svara.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
+![Lindblom & Börjlind](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
 
 Lindblom och jag träffas. Hon vill göra en enkel och rak film, med en enda person i centrum. Keve Hjelm. Hon vill att filmen ska handla om vad vi gör med vår jord (detta är alltså 1992). I princip handlar det om en monolog, gestaltad av en ensam man i ett litet torp som försöker leva nära jorden, nära ljuset, tätt intill den rytm som ingen längre minns, som försöker hålla sig fast i en värld som försvinner.
 ::: indent
@@ -402,6 +421,11 @@ Vi möts på en liten järnvägsperrong, han har en finsk träningsoverall på s
 ::: indent
 Ur filmen: Det finns en scen när Hjelm häller upp en sup i ett gnistrande snapsglas, för det till munnen och sveper supen, andas ut och tittar på sin katt med sorgsnaögon. Han gör det lysande, han är helt och fullt iögonblicket, ingenting finns i omvärlden. Jag förstår hans beundrare.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=nCgClwmrHYk]
+
+::: part
+:::
 <!-- PAGE 217 END -->
 
 <!-- PAGE 218 START -->
@@ -425,6 +449,9 @@ Anekdot om Gösta denäldre (från hästens mun): Ekman ansåg att han borde ha 
 
 ::: indent
 Sen gick han in på scenen.
+:::
+
+::: part
 :::
 
 Vid den här tidpunkten blir jag ocksåtillfrågad av ett resemagasin i Malmöom jag kan bidra med en text till ett kommande helgnummer.
@@ -462,7 +489,10 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 <!-- PAGE 218 END -->
 
 <!-- PAGE 219 START -->
-**Den eftermiddagen gjorde sig byns samtliga kvinnor ärende till brunnshuset, samtliga utom en. Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
+::: accordion
+**Den eftermiddagen gjorde sig byns samtliga kvinnor ärende till brunnshuset, samtliga utom en.**
+
+**Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
 
 **     - Sa han bara ”katter”****?**
 
@@ -583,6 +613,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 **     Att Vattenkvinnan hade försvunnit med den bruna skuggan tog alla för givet, även om det bar emot, vilket gjorde att ingen i byn på ett bra tag märkte den egendomliga bismak vattnet hade börjat få****. Då hade Kvinnan utan sorg redan flyttat till en bensinmack i Turkey Flat, halvvägs mellan Tombstone och Dallas, där hon ett halvår senare tog sig namnet Magdalena.**
 
 **     Föga anade hon vem som skulle dyka upp.**
+:::
 
 Jag skickar texten. Mannen från resemagasinet hör av sig, han gillar historien, men är tveksam till slutet.
 ::: indent

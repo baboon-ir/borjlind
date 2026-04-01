@@ -60,6 +60,9 @@ Minne från Torshamn på Färöarna: Vi åker båt i Atlanten, längs höga, vit
 Ändå älskar jag surströmming.
 :::
 
+::: part
+:::
+
 Göteborgs Filmfestival hör av sig igen. Gunnar Bergdahl. Deras serie ” *90 minuter 90-tal* ” närmar sig sitt slut. Bergdahl undrar om jag vill göraårets kortfilm.
 ::: indent
 – Kan man vara med tvågånger? undrar jag.

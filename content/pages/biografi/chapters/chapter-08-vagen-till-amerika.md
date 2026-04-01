@@ -28,6 +28,8 @@ Ett annat rum kommer man upp till via en trästege. Rummets väggar är helt ink
 Mannen har läderboots på sig.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=QejIGYWjvMw]
+
 I en av de stora hallarna bygger jag en tv-vägg. 30 apparater ställda på varann, alla med sönderslagna skärmar utom två. I den ena uppträder en Fågelskrämma, gestaltad av skådespelaren Sten Ljunggren. Han framför min dikt ”*Sverige är inte Sverige.*”
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/130.png)
@@ -57,31 +59,25 @@ Väggen mittemot pryds av en gravt missbildad familj, dominerad av en skiapod.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/115.png)
 
-Mitt i rummet har jag placerat en träpiedestal med en glaskub på. Innanför glaskuben ligger en äkta hjärna (dock inte av mänskligt ursprung, det är en kalvhjärna). Under utställningens gång bildas vita likmaskar i hjärnan.
+![Frågor på det?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/116.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/116.png)
+Mitt i rummet har jag placerat en träpiedestal med en glaskub på. Innanför glaskuben ligger en äkta hjärna (dock inte av mänskligt ursprung, det är en kalvhjärna). Under utställningens gång bildas vita likmaskar i hjärnan.
 
 Tillsammans med frilansfilmaren Bertil Larsson gör jag en 13 minuter lång film om utställningen, med musik av Stefan Nilsson. Den visas senare i museets biograf och påkonstfestivaler runt om i Europa. Härär en nedkortad version:
 
+[yt-video][https://www.youtube.com/watch?v=aSxFIQ3gYFo]
+
 I utställningsprogrammet ingår en filmserie i museets biosalong. Jag visar bland annat följande filmer:
 
-**Dr Caligulas kabinett-  av Robert Wiene.**
-
-**Chelsea Girls - av Andy Warhol.**
-
-**Lot in Sodom - av Dr John Sibley Watson.**
-
-**Freaks - av Tod Browning.**
-
-**Nosferatu, vampyren - av FW Murnau.**
-
-**Golem - av Paul Wegener.**
-
-**Corner in wheat - av DW Griffith.**
-
-**Regen - av Joris Ives.**
-
-**Den analusiska hunden - av Bunuel/Dali.**
+Dr Caligulas kabinett - av Robert Wiene.
+Chelsea Girls - av Andy Warhol.
+Lot in Sodom - av Dr John Sibley Watson.
+Freaks - av Tod Browning.
+Nosferatu, vampyren - av FW Murnau.
+Golem - av Paul Wegener.
+Corner in wheat - av DW Griffith.
+Regen - av Joris Ives.
+Den analusiska hunden - av Bunuel/Dali.
 
 I biosalongen framför jag solo för eställningen ”*TAKE OFF - att publicera hjärnklostret*”.  Där har vi också en föreställning som heter ”*VESUVIO LEVER - SAMHÄLLET DÖR*”, med mig själv, Per-Eric Söder, Bruno KÖijer och Leif Elggren.
 
@@ -95,9 +91,16 @@ Och såh är skriver DN:s konstrecensent Leif Nylén om utställningen (och utst
 
 **     Utställningen finns på Skeppsholmen, i ett annex till Moderna Museet. I dess mörklagda inre har Rolf Börjlind byggt upp”fem psykiska och fysiska miljöer”****, deras teatrala chockverkan och erotiskt-sadistiska metaforer har mer gemensamt med historiska surrealistutställningar än med 70-talets utstuderat torftiga ”enviroments”****.**
 
-**Hans bok med samma namn har undertiteln ”romanen som process”****, fast det snarare rör sig om en enda lång dikt, hallucinatorisk, bländande och bitter. Boken har ett motto från Artaud och en inledning av Bruno K Öijer - dess föregångare finns bland diktare som Rimbaud och Tzara, dess samtida allierade i den anarkistiska ”nysurrealism”som representeras av grupperingar som Vesuvio och Vargen.    **
+::: accordion
+Hans bok med samma namn har undertiteln “romanen som process”, fast det snarare rör sig om en enda lång dikt, hallucinatorisk, bländande och bitter.
 
-**     Men”Persona Non Grata” är ändå snarare produkten av ett temperament och en livshållning än av en litterär tradition. Textens paradoxala bildflöde förlorar aldrig i ett slags grundläggande trovärdighet, en självständig auktoritet. Den surrealistiska metoden utnyttjas för att frigöra erfarenheter, fantasin söker otåligt efter fågelvägen mellan tillvarons poler, den metaforiska uppfinningsrikedomen utgår hela tiden från ett material av konkreta iakttagelser, sinnliga, psykologiska, sociala. I Rolf Börjlinds fall blir surrealismen knappast en fråga om tom och trasgrann retorik. På sin egen mark och på sina egna villkor är Börjlind i det närmaste oslagbar. Med språket som svetslåga skär han upp det vardagliga förtryckets och den invanda förnedringens pansarhud - för att mobilisera en rasande här av förnekad extas, förvanskad sinnlighet, exploaterade mänskliga resurser. Hans anarkism är lika mycket en moralisk som en estetisk angelägenhet. Och han talar både i egen sak och för alla plundrade och överkörda, med en vrede som pendlar mellan privata uppgörelser och visionär apokalyps.”**
+Boken har ett motto från Artaud och en inledning av Bruno K Öijer - dess föregångare finns bland diktare som Rimbaud och Tzara, dess samtida allierade i den anarkistiska “nysurrealism”som representeras av grupperingar som Vesuvio och Vargen.
+
+Men “Persona Non Grata” är ändå snarare produkten av ett temperament och en livshållning än av en litterär tradition. Textens paradoxala bildflöde förlorar aldrig i ett slags grundläggande trovärdighet, en självständig auktoritet. Den surrealistiska metoden utnyttjas för att frigöra erfarenheter, fantasin söker otåligt efter fågelvägen mellan tillvarons poler, den metaforiska uppfinningsrikedomen utgår hela tiden från ett material av konkreta iakttagelser, sinnliga, psykologiska, sociala. I Rolf Börjlinds fall blir surrealismen knappast en fråga om tom och trasgrann retorik. På sin egen mark och på sina egna villkor är Börjlind i det närmaste oslagbar. Med språket som svetslåga skär han upp det vardagliga förtryckets och den invanda förnedringens pansarhud - för att mobilisera en rasande här av förnekad extas, förvanskad sinnlighet, exploaterade mänskliga resurser. Hans anarkism är lika mycket en moralisk som en estetisk angelägenhet. Och han talar både i egen sak och för alla plundrade och överkörda, med en vrede som pendlar mellan privata uppgörelser och visionär apokalyps.
+:::
+
+::: part
+:::
 
 Facit:”*Persona Non Grata*”blir mitt konstnärliga credo. Testamentet över det som började med en hängd konstnär på en dansk strand och jagade mig hudlös genom dadaismens och anarkismens gränder in i nutidens makabraångest.
 ::: indent
@@ -114,6 +117,9 @@ Jag är trött.
 
 ::: indent
 Min familj tar stryk.
+:::
+
+::: part
 :::
 
 Pausen blir tyvärr inte sålång. Jag bjuds pålunch av journalisten Staffan Heimersson, på Kulturhuset. Han är redaktör på Aftonbladets relativt nya kulturbilaga Magasinet och vill att jag och Carsten ska göra elva satiriska helsidor för tidningen.
@@ -149,9 +155,9 @@ Men elva helsidor hinner bara bliåtta, sen bryts vårt kontrakt. Orsaken är en
 Innan dess publiceras ett antal andra fejkade intervjuer.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/118.png)
+![Björn Borg.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/118.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/119.png)
+![Pehr Gyllenhammar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/119.png)
 
 Rolig info: PåVolvos bilfabrik i Göteborg klistras intervjun med Gyllenhammar upp på ett antal pelare i maskinhallen. Av arbetarna.
 
@@ -168,7 +174,7 @@ Fotnot: På tal om självutlämnande böcker skulle jag rekommendera ”*La Casi
 
 Såtrycks den beryktade intervjun med statsminister Thorbjörn Fälldin.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/122.png)
+![Thorbjörn Fälldin.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/122.png)
 <!-- PAGE 74 END -->
 
 <!-- PAGE 75 START -->
@@ -190,78 +196,68 @@ Såtrycks den beryktade intervjun med statsminister Thorbjörn Fälldin.
 <!-- PAGE 75 END -->
 
 <!-- PAGE 76 START -->
-**Vi slår oss ner på ett par fernissade stubbar, gåvor från partiet. Thorbjörns medvetande återvänder långsamt, han nickar mot mig och jag formulerar försiktigt en fråga: Thorbjörn, hur blev det så här?**
-::: indent
+::: accordion
+Vi slår oss ner på ett par fernissade stubbar, gåvor från partiet. Thorbjörns medvetande återvänder långsamt, han nickar mot mig och jag formulerar försiktigt en fråga:
+
+Thorbjörn, hur blev det så här?
+
 – Jonnergård!
-:::
 
-**     Svaret kommer oväntat rappt. Blicken gnistrar till av liv. Nästan omärkligt stramas läpparna åt. **
+Svaret kommer oväntat rappt. Blicken gnistrar till av liv. Nästan omärkligt stramas läpparna åt.
 
-::: indent
 – Jonnergård! Han med den lustiga rösten. Centerns Truman Capote, du vet. Det är Jonnergård och Arbmans som ligger bakom det här. Strategerna!
-:::
 
-**     Arbmans? Reklambyrån?**
+Arbmans? Reklambyrån?
 
-::: indent
 – Visst. Suveräna påmarknads för ing. Politik eller pilsner. Krabba eller cancer. Spelar ingen roll. Arbman och Jonnergård!
-:::
 
- **Men hur gick det till? (Thorbjörn börjar få lite färg på ögonpåsarna. Han famlar efter pipan och får ett rappt slag över handen av läkaren. En av sköterskorna halar fram ett paket cigaretter.”Ett led i kampen för att bryta ner skenrollen”säger läkaren)**
-::: indent
+Men hur gick det till? (Thorbjörn börjar få lite färg på ögonpåsarna. Han famlar efter pipan och får ett rappt slag över handen av läkaren. En av sköterskorna halar fram ett paket cigaretter. “Ett led i kampen för att bryta ner skenrollen” säger läkaren)
+
 – Hur det gick till? Jo, vi samlades för ett parår sen, inre cirkeln - Jonnergård, Åsling, jag och ett par till. Tillsammans med Leon Nordin och några brainstormare från Arbmans ... och tänkte till.
-:::
 
- **Vad gällde det?**
-::: indent
+Vad gällde det?
+
 – Att störta 44 års socialdemokratiskt vanstyre! Det var målsättningen. Och vi hade en given huvudmoståndare: Olof Palme! Huggormen från Hässelby! Knäcks Palme såsjunker sossarna. Det visste vi.
-:::
 
-**     Men hur?**
+Men hur?
 
-::: indent
 – Vi la upp en strategi! Vi kunde ju inte ta Palme på Palmes villkor. Alltsåfick vi gåandra vägen. Möta Palme med Palmes raka motsats!
-:::
 
-**     Och vad var det?**
-::: indent
+Och vad var det?
+
 – Det var jag! Eller det jag skulle bli efter Arbmans marknads för ing och Jonnergårds ... hjärntvättning. Jag skulle lanseras som Palmes raka motpol. Marknadsföras med en unik image för svensk politik! Internt arbetade vi utifrån 2 slogans: dum-men-ärlig och trög-men-hederlig. Det var den bilden vi skulle skapa hos svenska folket!
-:::
 
- **Nu har Thorbjörn fått upp ångan. Han sparkar upp dörren med ett tjut och börjar rulla som besatt, fram och tillbaka i korridoren. Orden sprutar ur munnen, händerna smattrar mot låren, han kedjeröker och skrattar hysteriskt. Jag är förstummad.**
+Nu har Thorbjörn fått upp ångan. Han sparkar upp dörren med ett tjut och börjar rulla som besatt, fram och tillbaka i korridoren. Orden sprutar ur munnen, händerna smattrar mot låren, han kedjeröker och skrattar hysteriskt. Jag är förstummad.
 
-**     Vem är denne man? Är personlighetsklyvningar av den här graden verkligen möjliga?”Betänk att hans släkt härstammar från 100-talet”viskar läkaren,”och att samtliga i släkten gift sig och levt inom 2 mils radie i Ramvik - inavel och degenerering ger mycket märkliga utslag på en människas psyke.”Jag bromsar Thorbjörn rakt framför mig och frågar: Kampanjen lyckades?**
+Vem är denne man? Är personlighetsklyvningar av den här graden verkligen möjliga? “Betänk att hans släkt härstammar från 100-talet” viskar läkaren, “och att samtliga i släkten gift sig och levt inom 2 mils radie i Ramvik - inavel och degenerering ger mycket märkliga utslag på en människas psyke.” Jag bromsar Thorbjörn rakt framför mig och frågar: Kampanjen lyckades?
 
-::: indent
-– Över förväntan! Men det satt långt inne. Det var svårt att spela Palmes motsats. Det gällde att neutralisera hans djävulska debatteknik. Att fåfram ett språk som stoppade upp hans maniska flöde, som drog ner tempot hela tiden, som trevade sig fram. Jag fick lära mig att prata långsamt, omständligt, med knappt ordförråd. Prata enkelt men hederligt, till synes rakt på sak. Såungef är var det tänkt. Och sågällde att hitta en valfråga där vi verkligen kunde spela på dom sliskigaste strängarna. En fråga som skar rakt igenom befolkningen: Kärnkraften! Arbman såg till att folk omedelbart började koppla kärnkraft till Hiroshima, till brinnande barn och städer i ruin. Fint som fan för oss. Perfekt! Och sågick jag ut med mina stora uppsvällda nävar, knöt dom långsamt så att dom skitiga naglarna trängde ut genom tv-rutorna, hov upp min välrepeterat grötiga röst och sa: “ Nej! Över min döda kropp! Inte ett kärnkraftverk till kommer att laddas! “ Sågick det som det gick. Som smort! Jag kommer fortfarande ihåg hur vi garvade den där natten när Jonnergård av en slump hade kommit på uttrycket “ jag nådde inteända fram “ ... va! Som om armarna var för korta!
-:::
+– Över förväntan! Men det satt långt inne. Det var svårt att spela Palmes motsats. Det gällde att neutralisera hans djävulska debatteknik. Att fåfram ett språk som stoppade upp hans maniska flöde, som drog ner tempot hela tiden, som trevade sig fram. Jag fick lära mig att prata långsamt, omständligt, med knappt ordförråd. Prata enkelt men hederligt, till synes rakt på sak. Såungefär var det tänkt. Och sågällde att hitta en valfråga där vi verkligen kunde spela på dom sliskigaste strängarna. En fråga som skar rakt igenom befolkningen: Kärnkraften! Arbman såg till att folk omedelbart började koppla kärnkraft till Hiroshima, till brinnande barn och städer i ruin. Fint som fan för oss. Perfekt! Och sågick jag ut med mina stora uppsvällda nävar, knöt dom långsamt så att dom skitiga naglarna trängde ut genom tv-rutorna, hov upp min välrepeterat grötiga röst och sa: “Nej! Över min döda kropp! Inte ett kärnkraftverk till kommer att laddas!” Sågick det som det gick. Som smort! Jag kommer fortfarande ihåg hur vi garvade den där natten när Jonnergård av en slump hade kommit på uttrycket “jag nådde inteända fram” ... va! Som om armarna var för korta!
 
- **Men var det en svår omställning för dig personligen? (Thorbjörn studsar upp ur rullstolen, grabbar tag i en silverkrycka och börjar fäktas med läkaren.”Han är som ett gammalt ringvrak”säger en av sköterskorna.”Nerslagningarna kommer tätare och tätare, förnuftet blir dimmigare och dimmigare, men han måste in i ringen igen. Publiken kräver det. Vi får svårare och svårare härute att få tillbaka honom i offentligt skick. Hans sammanbrott kommer slag i slag.”****)**
-::: indent
-– Det var en oerhört svår omställning. Skaffa valkar, röka pipa, köra traktor, gräva i jorden, gåmed rutig skjorta, tala klumpigt, tänka trögt etc ... det var ett litet helvete. Men jag kämpade och jag lyckades! Jag blev den perfekte bondepolitikern som alla trodde på. Stackarna. Ibland får jag faktiskt dåligt samvete när jag tänker påhur det gick till. Alla fraser som Arbmans/Jonnergård satt och kläckte i fyllan och villan  ... du minns dom va? ... ”dagtinga med mitt samvete”...”min gamla mamma har sagt mig”...”här måste jag säga nej”... och gud vet allt dom hittade på. Men smart var det och hem gick det! Vi sålde in Fälldin till svenskarna så det small om det! Dom köpte både mig och centern och tio kärnkraftverk! Tala om grisen i säcken, ja jösses jävlar ...
-:::
+Men var det en svår omställning för dig personligen? (Thorbjörn studsar upp ur rullstolen, grabbar tag i en silverkrycka och börjar fäktas med läkaren. “Han är som ett gammalt ringvrak” säger en av sköterskorna. “Nerslagningarna kommer tätare och tätare, förnuftet blir dimmigare och dimmigare, men han måste in i ringen igen. Publiken kräver det. Vi får svårare och svårare härute att få tillbaka honom i offentligt skick. Hans sammanbrott kommer slag i slag.”)
 
-**     Men hur kom du att hamna här? (Thorbjörn har rullat in bland madrasserna igen. Han har sjunkit ihop. Orden kommer långsammare. Han verkar punkterad.)**
-::: indent
-– Identitetskris. Jag tvingades leva mig i  i Fälldinrollen oerhört hårt under valkampanjen. Jag började tänka som Jonnergård hade planerat. Jag började föra mig och tala som Arbmans hade kalkylerat. Även privat. Jag blev osäker. Jag började fåsvårt att skilja påstatsministern och skojaren. Jag tog till flaskan. Började se syner på nätterna, där jag drog runt ensam i det ödsliga riksdagshuset, gick in i den mörka plenisalen och vrålade: VEMÄR JAG? VEMÄR JAG? Jag bröt samman, försvann, togs in här.
-:::
+– Det var en oerhört svår omställning. Skaffa valkar, röka pipa, köra traktor, gräva i jorden, gåmed rutig skjorta, tala klumpigt, tänka trögt etc ... det var ett litet helvete. Men jag kämpade och jag lyckades! Jag blev den perfekte bondepolitikern som alla trodde på. Stackarna. Ibland får jag faktiskt dåligt samvete när jag tänker påhur det gick till. Alla fraser som Arbmans/Jonnergård satt och kläckte i fyllan och villan ... du minns dom va? ... “dagtinga med mitt samvete” ... “min gamla mamma har sagt mig” ... “här måste jag säga nej” ... och gud vet allt dom hittade på. Men smart var det och hem gick det! Vi sålde in Fälldin till svenskarna så det small om det! Dom köpte både mig och centern och tio kärnkraftverk! Tala om grisen i säcken, ja jösses jävlar ...
 
- **Men hur klarade partiet det? (Nu får Thorbjörn allt svårare att fästa blicken, hans röst kommer långt bortifrån.)**
+Men hur kom du att hamna här? (Thorbjörn har rullat in bland madrasserna igen. Han har sjunkit ihop. Orden kommer långsammare. Han verkar punkterad.)
 
-::: indent
+– Identitetskris. Jag tvingades leva mig i i Fälldinrollen oerhört hårt under valkampanjen. Jag började tänka som Jonnergård hade planerat. Jag började föra mig och tala som Arbmans hade kalkylerat. Även privat. Jag blev osäker. Jag började fåsvårt att skilja påstatsministern och skojaren. Jag tog till flaskan. Började se syner på nätterna, där jag drog runt ensam i det ödsliga riksdagshuset, gick in i den mörka plenisalen och vrålade: VEMÄR JAG? VEMÄR JAG? Jag bröt samman, försvann, togs in här.
+
+Men hur klarade partiet det? (Nu får Thorbjörn allt svårare att fästa blicken, hans röst kommer långt bortifrån.)
+
 – Jonnergård, räven med slipstenen. På ett tidigt stadium trimmade han in unge Olof Johansson. Ett praktexemplar, bra typ i tv, välgallrad, snygg, len i käften ... inte mycket som behövdeändras på honom ... påmed nappajackan och ner med polisongerna ... smart policy, men hårt tryck på Olof, naturligtvis.
-:::
 
-**     Hur klarar han det? Han har ju pressats rätt hårt sista tiden? (Thorbjörn fnissar lite, bläddrar förstrött i en tummad Bibel, pekar med tårna mot väggen).**
-::: indent
+Hur klarar han det? Han har ju pressats rätt hårt sista tiden? (Thorbjörn fnissar lite, bläddrar förstrött i en tummad Bibel, pekar med tårna mot väggen).
+
 – Fråga honom. Han sitter i grannrummet ...
+
+Thorbjörns tillstånd övergår alltmer i förvirring. Han börjar räkna på fingrarna ... ole, dole, doff, ringhals, forsmark, barsebäck ... ögonen börjar skela igen. Hans tal blir osammanhängande, grötigt. Gesterna blir okontrollerade. Nerbrytningen går in på ett nytt varv. Läkaren laddar en kraftig spruta, sköterskorna kränger på tvångströjan.
+
+Thorbjörn har slutat tala, munnen rör sig lite apatiskt, han läggs försiktigt på rygg, armarna knyts ihop av en vemodig syster. “Han är ju trots allt vår statsminister” säger hon och lägger en sval rem på Thorbjörns panna. Jag backar ut ur rummet. Jag är tagen. Skakad. Hur stora personliga offer kan man begära av en enskild människa? Vad är framgångens pris? Hur grym är den politiska verkligheten bakom kulisserna? Vem tar ansvar för denna människospillra? Vem blir nästa offer?
+
+Frågor som studsar i mitt huvud när jag sakta kör bort från det stora grå döda huset. Jag lämnar Marielund, men länge efteråt dyker privatklinikens ödesmätade devis upp i mina tankar: “Hit, men inte längre!”
 :::
 
- **Thorbjörns tillstånd övergår alltmer i förvirring. Han börjar räkna på fingrarna ... ole, dole, doff, ringhals, forsmark, barsebäck ... ögonen börjar skela igen. Hans tal blir osammanhängande, grötigt. Gesterna blir okontrollerade. Nerbrytningen går in på ett nytt varv. Läkaren laddar en kraftig spruta, sköterskorna kränger på tvångströjan.**
-
-**    Thorbjörn har slutat tala, munnen rör sig lite apatiskt, han läggs försiktigt på rygg, armarna knyts ihop av en vemodig syster. ”Han är ju trots allt vår statsminister”säger hon och lägger en sval rem på Thorbjörns panna. Jag backar ut ur rummet. Jag är tagen. Skakad. Hur stora personliga offer kan man begära av en enskild människa? Vad är framgångens pris? Hur grym är den politiska verkligheten bakom kulisserna? Vem tar ansvar för denna människospillra? Vem blir nästa offer?**
-
-**     Frågor som studsar i mitt huvud när jag sakta kör bort från det stora grå döda huset. Jag lämnar Marielund, men länge efteråt dyker privatklinikens ödesmätade devis upp i mina tankar:”Hit, men inte längre!”**
+::: part
+:::
 
 Såser alltsåden fejkade intervjun ut. En intervju som Fälldin hävdar att ett flertal personer i hans närhet inte har uppfattat som påhittad. Alltsåautentisk? Vem umgås Fälldin med? Själv kommenterar han satiren så här:
 ::: indent
@@ -301,7 +297,10 @@ Den inleds så här:
 
  **Hasse verkar i fin form. Ögonfransarna smattrar. Plasttulipanen i håret gnistrar vit och sensuell - en gåva av Sten Andersson. Hasse har nyss firat 50-****årsdag. På Grand Hotel, spegelsalen. 200 personer! Med mörka paletåer, pälsar, limousiner och lackskor. Sjötungsfilémed chablissås, anka med persikor, portvin. Lasse Lönndahl och Charlie Norman. En lysande uppvaktning av en av arbetarrörelsens största personligheter. En centralgestalt inom LO. Ett unikt och storslaget arrangemang, frivilligt påkostat av det rika generösa Transportarbetarförbundet. Men också en tillställning som mött hård kritik, just för dess extravagans: Dolores, vad svarar du på det?**
 ::: indent
-– Bullshit! Rakt på sak! Det är helt naturligt att ett förbund som Transport hyllar sin ledare på hans 50-årsdag. Det är en gammal tradition som jag har väckt upp och som jag har beslutat fortsätta med. Nästaår till exempel, dåfyller jag 51 och förbundet har bokat in Riddarsalen för en liten privat fest igen - 800 gäster, ombud, vänner, motståndsmän och Gunnar Sträng! ”
+– Bullshit! Rakt på sak! Det är helt naturligt att ett förbund som Transport hyllar sin ledare på hans 50-årsdag. Det är en gammal tradition som jag har väckt upp och som jag har beslutat fortsätta med. Nästaår till exempel, dåfyller jag 51 och förbundet har bokat in Riddarsalen för en liten privat fest igen - 800 gäster, ombud, vänner, motståndsmän och Gunnar Sträng! “
+:::
+
+::: part
 :::
 
 Intervjun hinner tryckas innan Aftonbladets ledning får frossa. Hela upplagan makuleras till en kostnad av 650.000 kronor, tv visar grävskopor som dumpar tidningarna på en soptipp (intervjun publiceras senare i tidningen Arbetaren och den danska tidskriften Corsaren).
@@ -375,7 +374,7 @@ Brevet innehåller en studie i svart:
 <!-- PAGE 78 END -->
 
 <!-- PAGE 79 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/165.png)
+![Obs: Ej självporträtt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/165.png)
 
 Inget av detta bekommer mig.
 ::: indent
@@ -413,11 +412,11 @@ Egen reflektion över mina satirers brutala effekt: Jag använder namns nämnand
 Eller som redan Seneca d.y. visste:
 :::
 
-**Mänskligheten kan delas in i två grupper:**
-
-**En som går före och uträttar något **
-
-**och en som går efter och klagar på att det inte uträttas på ett annat sätt.**
+::: quote
+Mänskligheten kan delas in i två grupper:
+En som går före och uträttar något
+och en som går efter och klagar på att det inte uträttas på ett annat sätt.
+:::
 <!-- PAGE 79 END -->
 
 <!-- PAGE 80 START -->
@@ -442,6 +441,9 @@ Det är orsaken till att jag aldrig ställer upp i det otal ”tävlingar i bäs
 Satir är ingen tävling. Det är ett legalt vapen.
 :::
 
+::: part
+:::
+
 Radioprogrammet Obs Kulturkvarten har startar en programserie som heter *”Tystnad i Sverige”*. Politikern Per Ahlmark och chefredaktören Gunnar Fredriksson har svarat för det tvåförsta inslagen. Nu blir jag ombedd att göra en personlig kommentar till ”satiraffären” som ett tredje inslag.
 ::: indent
 Varför inte?
@@ -451,33 +453,43 @@ Varför inte?
 Jag väljer att utforma det som ett privat statement och framför det själv i P1, stillsamt ackompanjerad av Stefan Nilsson. Jag framför det påskånska, en dialekt jag behärskar fullt ut. Här ett litet röstprov påinledningen:
 :::
 
+[yt-video][https://www.youtube.com/watch?v=X6G6xRjeB04]
+
 **Sågspånen har sakta lagt sig till ro i nationens urblåsta kranium. Fradgan har torkat i dom insiktslösas mungipor. Enfaldens lansiärer har stupat vid väderkvarnen. Den goda smakens senila fågelskrämmor har vädrat sina skröpliga fördomar. **
 <!-- PAGE 80 END -->
 
 <!-- PAGE 81 START -->
-**Dubbelmoralisternas piruetter har förlamats och svartsjukans giktbrutna kackerlackor har krälat in i sina förgrämda armhålor. Korthuset har störtat samman, stommen har rämnat, taket har rasat ner. Fantasin som makt och orden som vapen har lekfullt lätt bevisat sin brutala styrka. Marionetterna har dinglat i klarspråkets galge och kommit undan med blotta lögnen. Taskspeleriet blir aldrig vad det var. Fickrunkarna har följsamt sköljt ur den senlutheranska kulturpottan och bonat porslinskalvarna igen.**
+::: accordion
+Dubbelmoralisternas piruetter har förlamats och svartsjukans giktbrutna kackerlackor har krälat in i sina förgrämda armhålor. Korthuset har störtat samman, stommen har rämnat, taket har rasat ner. Fantasin som makt och orden som vapen har lekfullt lätt bevisat sin brutala styrka. Marionetterna har dinglat i klarspråkets galge och kommit undan med blotta lögnen. Taskspeleriet blir aldrig vad det var. Fickrunkorna har följsamt sköljt ur den senlutheranska kulturpottan och bonat porslinskalvarna igen.
 
-**     Så har tiden till slut dragit en barmhärtig presenning över ett likgiltigt elände. Sverige har fått sin satiriska milstolpe. Nya generationer har fått sitt stilistiska riktmärke och utlandet har fått sig ett gott skratt.**
+Så har tiden till slut dragit en barmhärtig presenning över ett likgiltigt elände. Sverige har fött sin satiriska milstolpe. Nya generationer har fött sitt stilistiska riktmärke och utlandet har fött sig ett gott skratt.
 
-**     Det finns ingenting att kommentera. Det finns ingenting att sammanfatta. Det finns ingenting att analysera ... utom massgravarnas plågsamma poesi.**
+Det finns ingenting att kommentera. Det finns ingenting att sammanfatta. Det finns ingenting att analysera ... utom massgravarnas plågsamma poesi.
 
-**     Tillvaron handlar inte om falska pjäser i ett falskt spel. Min uppgift som kulturarbetare i Sverige handlar inte om vedertagna spelregler i en vedervärdig korruption. **
+Tillvaron handlar inte om falska pjäser i ett falskt spel. Min uppgift som kulturarbetare i Sverige handlar inte om vedertagna spelregler i en vedervärdig korruption.
 
-**     Det finns inga spelregler.**
+Det finns inga spelregler.
 
-**     Tillvaron handlar om att aldrig, ens för ett förvirrat ögonblick, tvivla på instinktens besinningslösa rättvisa. Allting kan, och ska, relateras till ett par enkla ord om förtvivlan, ömhet och förtroende. Om att aldrig torska på vanmakten. På trygghetens förlamande hammock. Att alltid förbruka det förvärvade. Att alltid omsätta det erövrade. Att alltid passera det uppnådda. Att konsekvent och obarmhärtigt förbränna ursinnet. Att ständigt kastrera auktoriteterna, slå glasskärvor i demagogernas struphuvuden och spräcka deras förljugna gomsegel.**
+Tillvaron handlar om att aldrig, ens för ett förvirrat ögonblick, tvivla på instinktens besinningslösa rättvisa. Allting kan, och ska, relateras till ett par enkla ord om förtvivlan, ömhet och förtroende. Om att aldrig torska på vanmakten. På trygghetens förlamande hammock. Att alltid förbruka det förvärvade. Att alltid omsätta det erövrade. Att alltid passera det uppnådda. Att konsekvent och obarmhärtigt förbränna ursinnet. Att ständigt kastrera auktoriteterna, slå glasskärvor i demagogernas struphuvuden och spräcka deras förljugna gomsegel.
 
-**     Idag sitter kulturpotentaterna i Paris med gatstenar från -68 som askkoppar på sina mahognybord och i dom svenska rönnbärsbuskarna viskar man vilset om hur man ska hantera sin besvikelse - istället för att omsätta sin befrielse. **
+Idag sitter kulturpotentaterna i Paris med gatstenar från -68 som askkoppar på sina mahognybord och i dom svenska rönnbärsbuskarna viskar man vilset om hur man ska hantera sin besvikelse - istället för att omsätta sin befrielse.
 
-**     Det handlar om att piska sönder materialismens hänsynslösa kirurger. Att förvandla industrialismens nederlag till mänsklig värdighet. Till okränkbar funktionell frihet. Det handlar om att återupprätta respekten för den enda utmätta tid som står varje enskilt liv till buds. **
+Det handlar om att piska sönder materialismens hänsynslösa kirurger. Att förvandla industrialismens nederlag till mänsklig värdighet. Till okränkbar funktionell frihet. Det handlar om att återupprätta respekten för den enda utmätta tid som står varje enskilt liv till buds.
 
-**     Att återupprätta respekten för livet.**
+Att återupprätta respekten för livet.
 
-**     Det finns inget nytt i detta. Det finns bara en omstörtande formförändring av elementära insikter. En kreativ kalkering av dom existentiella villkoren - lika genuina som brinnande vatten och våt eld.”**
+Det finns inget nytt i detta. Det finns bara en omstörtande formförändring av elementära insikter. En kreativ kalkering av dom existentiella villkoren - lika genuina som brinnande vatten och våt eld.
+:::
+
+::: part
+:::
 
 Så sätter jag punkt för eländet.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/166.png)
+
+::: part
+:::
 
 1978 inleds brutalt. Den kidnappade italienska politikern Aldo Moro mördas av Röda Brigaderna, en italiensk motsvarighet till RAF (Rote Arme Fraktion) i Tyskland - statsterrorister som hoppas att via våld utlösa över våld som i förlängningen ska demaskera polisstaten.
 ::: indent
@@ -503,9 +515,9 @@ En annan resa går till New York. Jag träffar svarta män med långa svajande n
 <!-- PAGE 81 END -->
 
 <!-- PAGE 82 START -->
-Men året börjar med den ärevördiga teatern Dramatens första satiriska kabaré - ”*ÖPPEN LOKAL - KLACKARNA I TAKET!*”. Jag, Lars-Ragnar Forssberg, Jan Guillou och trubaduren Finn Zetterholm är huvud författare. Gästförfattare är bland annat PC Jersild, Lars Molin, Lars Ardelius och Margareta Garpe. I ensemblen ingår Kjell Bergqvist, Tommy Körberg, Lars Amble och Liz Nilheim. Sören Brunes står för en fantastisk scenografi!
+Men året börjar med den ärevördiga teatern Dramatens första satiriska kabaré - “*ÖPPEN LOKAL - KLACKARNA I TAKET!*”. Jag, Lars-Ragnar Forssberg, Jan Guillou och trubaduren Finn Zetterholm är huvud författare. Gästförfattare är bland annat PC Jersild, Lars Molin, Lars Ardelius och Margareta Garpe. I ensemblen ingår Kjell Bergqvist, Tommy Körberg, Lars Amble och Liz Nilheim. Sören Brunes står för en fantastisk scenografi!
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/316.png)
+![Observera min tröja, treinta y ocho, min ärevördiga Pamplonaklassiker. Still going efter 15 år.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/316.png)
 
 Till radioprogrammet KabaréÖppen Kanal bildade Mikael Wiehe sin Kabaréorkester. Musikerna var bosatta i Malmö. Nu behöver vi en fast stockholmsbaserad orkester. Jag har lyssnat påjazzfusionsgruppen Kornet, unga musiker från Norrland, och känt att det skulle kunna vara ett spännande inslag i ett satirsammanhang. Jag ringer deras trummis Åke Sundqvist och frågar om dom skulle vara intresserade av att vara husband på en kabarépå Dramaten under våren.
 ::: indent
@@ -522,21 +534,31 @@ I Dramatens programblad för årets föreställningar skriver Lars-Ragnar och ja
 
 Kabarén går mycket bra, beläggningen är över 90%.
 
+::: part
+:::
+
 Strax efter kabarén ber Expressen mig att recensera en fotoutställning av stillbildsfotografen Hans Gedda - porträtt av makthavare, politiker, biskopar. Gedda har stort renommé. Utställningen tar plats i ett antal mondäna källarvalv i Gamla Stan. Min text får rubriken”*Sataniskt - om rasen kändisar*” och inleds så här:
 
 **”I den första halvtrappan ner hänger en silverskimrande helbild av Alice Timander, premiärneurotikernas galjonskropp - jag småskrattar, porträttet avslöjar hur lätt kändisjournalistik övergår i lyteskomik, förmodligen helt omedvetet.”**
 <!-- PAGE 82 END -->
 
 <!-- PAGE 83 START -->
-**Gedda är, bitvis, en satanisk fotograf, en målmedveten satiriker - för naturligtvis är det inte en slump vilka porträtt han visar oss. Gedda har massor av kopior att välja mellan. Av varje objekt. Hans val speglar hans intentioner. Att förstora upp Olof Palme till en spänd, åldrad, fullständigt avkönad, värmelös och kamerarädd människa, när han samtidigt har kopior som visar en betydligt gladare, mer avspänd, säkrare Palme - det har givetvis sina övervägda motiv. Som inte enbart är fototekniska.**
+::: accordion
+Gedda är, bitvis, en satanisk fotograf, en målmedveten satiriker - för naturligtvis är det inte en slump vilka porträtt han visar oss.
 
-**     Eller porträttet av biskop Ingmar Ström, som tar struptag på sig själv och ser ut som om han sålt kräklan och tappat kollekten (eller är det bara prästkragen han vill dölja med handen - ****är det bilden av en opportunist Gedda vill visa?). **
+Gedda har massor av kopior att välja mellan. Av varje objekt. Hans val speglar hans intentioner. Att förstora upp Olof Palme till en spänd, åldrad, fullständigt avkönad, värmelös och kamerarädd människa, när han samtidigt har kopior som visar en betydligt gladare, mer avspänd, säkrare Palme - det har givetvis sina övervägda motiv. Som inte enbart är fototekniska.
 
-**     Den sista replik jag har i öronen när jag lämnar utställningen är Hans Geddas, han ler mot mig, lutar sig fram och viskar: **
+Eller porträttet av biskop Ingmar Ström, som tar struptag på sig själv och ser ut som om han sålt kräklan och tappat kollekten (eller är det bara prästkragen han vill dölja med handen - är det bilden av en opportunist Gedda vill visa?).
 
-**     - Jag är jävligt förvånad att inte fler av dem jag porträtterat har reagerat och blivit ursinniga. **
+Den sista replik jag har i öronen när jag lämnar utställningen är Hans Geddas, han ler mot mig, lutar sig fram och viskar:
 
-**     Det är inte jag. Den repressiva toleransen är en djupt förädlad del av maktstrukturen i det här landet.”**
+- Jag är jävligt förvånad att inte fler av dem jag porträtterat har reagerat och blivit ursinniga.
+
+Det är inte jag. Den repressiva toleransen är en djupt förädlad del av maktstrukturen i det här landet.
+:::
+
+::: part
+:::
 
 Tommy Körberg och jag har fått bra kontakt efter kabarén på Dramaten. Vi åker med våra familjer till Irland för lite semester. Tommy har tidigare under året turnerat med en uppsättning irländska sånger i Sverige och är väl bekant med den digra visskatten.
 ::: indent
@@ -563,6 +585,9 @@ Vi bor i en liten by som heter Lahinch. En dag får vi för oss att skriva en li
 :::
 
 Svindlande poesi.
+
+::: part
+:::
 
 Nu till en mycket lång resa.
 ::: indent

@@ -29,6 +29,9 @@ Anekdot om Gösta denäldre (från hästens mun): Ekman ansåg att han borde ha 
 Sen gick han in på scenen.
 :::
 
+::: part
+:::
+
 Vid den här tidpunkten blir jag ocksåtillfrågad av ett resemagasin i Malmöom jag kan bidra med en text till ett kommande helgnummer.
 ::: indent
 – Tyvärr, jag har inte tid just nu.

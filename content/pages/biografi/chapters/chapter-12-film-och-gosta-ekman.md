@@ -267,138 +267,142 @@ Såhär ser ett par dygn ut ur ett dagboksperspektiv:
 
 *Vaknar ensam på loftet. Bruno och Marianne har dragit. Klockan är vid lunch. Jag trycker i mig ett par ägg och en ostmacka, går ner på stan.*
 
-*     Går genom hela Soho, som häcklöpning, överallt på trottoarerna ligger trasiga män, supna in i medvetslöshet; gamla, krumma kvinnor gräver i papperskorgar. *
+*Går genom hela Soho, som häcklöpning, överallt på trottoarerna ligger trasiga män, supna in i medvetslöshet; gamla, krumma kvinnor gräver i papperskorgar.*
 
-*     Hettan är plågsam.*
+*Hettan är plågsam.*
 <!-- PAGE 124 END -->
 
 <!-- PAGE 125 START -->
-* En hemlös står och vajar en bit bort, vacklar till, jag vänder mig åt andra hållet. Jag har alltid haft svårt att iaktta vuxna män som långsamt faller med huvudet före i trottoarcement.*
+*En hemlös står och vajar en bit bort, vacklar till, jag vänder mig åt andra hållet. Jag har alltid haft svårt att iaktta vuxna män som långsamt faller med huvudet före i trottoarcement.*
 
-*     Kommer in på Lower Bowery. Ett par meter framför mig stirrar en man upp, hans söndervärkta kropp ligger nere i rännstenssörjan, hans ögon berättar en helt annan världshistoria än den jag smällde i mig i gymnasiet på Lidingö**, hans ögon berättar om en helt annan smärta än den jag grät sönder vid sandlådan i aprilnatten, hans ögon berättar om en helt annan leda än den vi pudrade upp våra karriärkavajer med innan vi skulle suga av samhället.*
+::: accordion
+*Kommer in på Lower Bowery. Ett par meter framför mig stirrar en man upp, hans söndervärkta kropp ligger nere i rännstenssörjan, hans ögon berättar en helt annan världshistoria än den jag smällde i mig i gymnasiet på Lidingö, hans ögon berättar om en helt annan smärta än den jag grät sönder vid sandlådan i aprilnatten, hans ögon berättar om en helt annan leda än den vi pudrade upp våra karriärkavajer med innan vi skulle suga av samhället.*
 
-*     Går in i punkaffären Reverage. Tiltade snubbar i sofforna, förskärare genom dockhuvuden, allt är redan genomkommersialiserat. *
+*Går in i punkaffären Reverage. Tiltade snubbar i sofforna, förskärare genom dockhuvuden, allt är redan genomkommersialiserat.*
 
- *Tar tunnelbanan. 50 cent. Tåget är fullständigt täckt av graffitti. Folk sitter utefter väggarna med blickarna ner i golvet. Åker mot 8:e, huvudpostkontoret, Poste Restante. Svalt och skitigt i vagnarna. En man som blöder ur munnen, en kvinna med tvåfärgat hår, en dvärg som läser New York Times. Alla sitter tysta. Ett utmärkt ställe att skriva på**, omgiven av tuggummifläckar. *
+*Tar tunnelbanan. 50 cent. Tåget är fullständigt täckt av graffitti. Folk sitter utefter väggarna med blickarna ner i golvet. Åker mot 8:e, huvudpostkontoret, Poste Restante. Svalt och skitigt i vagnarna. En man som blöder ur munnen, en kvinna med tvåfärgat hår, en dvärg som läser New York Times. Alla sitter tysta. Ett utmärkt ställe att skriva på, omgiven av tuggummifläckar.*
 
-*     Köper ett kilo räkor på 9:e Ave. Fishmarket. Köper ett par flaskor tunn Chablis. Köper en pizzaslice. 50 cent. Och vilken pizza! Hård, tunn botten, starkt kryddad, bästa nånsin. *
+*Köper ett kilo räkor på 9:e Ave. Fishmarket. Köper ett par flaskor tunn Chablis. Köper en pizzaslice. 50 cent. Och vilken pizza! Hård, tunn botten, starkt kryddad, bästa nånsin.*
 
-*     Passerar The Pleasure Chest, en läderaffär med en silverkvinna i fönstret och kläder av stål och skinn, korta byxor med penisatrappar i gummi. *
+*Passerar The Pleasure Chest, en läderaffär med en silverkvinna i fönstret och kläder av stål och skinn, korta byxor med penisatrappar i gummi.*
 
-*    Mycket ska samsas i munnen.*
+*Mycket ska samsas i munnen.*
 
-*    Möter en man utan händer på Canal Street, två stumpar som svänger runt höfterna, han kommer just ut från den populäraste lumpaffären i distriktet, ett tillhåll för välbärgade drop-ins. I skyltfönstret står inplastade jordnötter avsedda som pennställ. *
+*Möter en man utan händer på Canal Street, två stumpar som svänger runt höfterna, han kommer just ut från den populäraste lumpaffären i distriktet, ett tillhåll för välbärgade drop-ins. I skyltfönstret står inplastade jordnötter avsedda som pennställ.*
 
-*     Kommer hem till loftet. Dukar upp räkor, öppnar vinet. Bruno ringer collect call till Zekeli i Sverige. Växeln får tag i Zekeli och frågar om han accepterar kostnaden för ett collect call från Bruno K Öijer i New York. Zekeli svarar ”Nej”och lägger på luren.*
+*Kommer hem till loftet. Dukar upp räkor, öppnar vinet. Bruno ringer collect call till Zekeli i Sverige. Växeln får tag i Zekeli och frågar om han accepterar kostnaden för ett collect call från Bruno K Öijer i New York. Zekeli svarar “Nej”och lägger på luren.*
 
-*     Bruno funderar på att röka en svart gardin. *
+*Bruno funderar på att röka en svart gardin.*
 
-*     Jag öppnar en burk med inlagd vitlök och tittar på en röd dödsmask på väggen intill ett porträtt av Che Guevara. *
+*Jag öppnar en burk med inlagd vitlök och tittar på en röd dödsmask på väggen intill ett porträtt av Che Guevara.*
 
-*Bruno har stuckit till Nurican Poetry Café**, tillhåll för den puertoricanska poesin. Jag håller mig kvar på loftet, tittar på tv. Den gamla kinesiska kvinnan i lägenheten intill plockar ner sina ikoner från sängväggen och ringer brandkåren. Mannen som skulle hjälpa till tar fram en blank förskärare och hugger sönder melonen i två delar, utan ett ord. *
+*Bruno har stuckit till Nurican Poetry Café, tillhåll för den puertoricanska poesin. Jag håller mig kvar på loftet, tittar på tv. Den gamla kinesiska kvinnan i lägenheten intill plockar ner sina ikoner från sängväggen och ringer brandkåren. Mannen som skulle hjälpa till tar fram en blank förskärare och hugger sönder melonen i två delar, utan ett ord.*
 
-*     Jag fortsätter att titta på tv.*
+*Jag fortsätter att titta på tv.*
 
-*     - I´m a very busy man.*
+*– I´m a very busy man.*
 
-*     - Yes, I can see that. You need a long vacation. See what I can do for you.*
+*– Yes, I can see that. You need a long vacation. See what I can do for you.*
 
-*    Jag lämnar loftet.     *
+*Jag lämnar loftet.*
 
-*    Tar mig till klubben CBGB, kommer in utan problem. Tequlia Sunrise i ölsejdlar. Bartendern:”Har du tur dyker kung Jagger upp ikväll.”Avlång lokal, utbränd, skabbig, vackra färgrika neonskyltar över baren, dånande flipperspel längs väggarna och hög, kanonhård punkmusik som tränger ut öronmembranen, trägolv, fimpar och flisor av krossade ölflaskor. Dead Boys spelar, Slander Band spelar, Ramones spelar, detta är den mondäna skabbighetens inkarnation, detta är Patti Smiths sandiga tempel: CBGB på Lower Bowery, den nya innegatan. *
+*Tar mig till klubben CBGB, kommer in utan problem. Tequlia Sunrise i ölsejdlar. Bartendern:”Har du tur dyker kung Jagger upp ikväll.”Avlång lokal, utbränd, skabbig, vackra färgrika neonskyltar över baren, dånande flipperspel längs väggarna och hög, kanonhård punkmusik som tränger ut öronmembranen, trägolv, fimpar och flisor av krossade ölflaskor. Dead Boys spelar, Slander Band spelar, Ramones spelar, detta är den mondäna skabbighetens inkarnation, detta är Patti Smiths sandiga tempel: CBGB på Lower Bowery, den nya innegatan.*
 
-*     Jag går därifrån.*
+*Jag går därifrån.*
 
-*     Hamnar på ett svenskparty med folk från reklamvärlden, denna kommersiella svinstia som jag lämnade för ett antal år sen. Märker direkt: det är samma gamla förljugna flykter. Alla dessa smarteggs, dessa blåtonade slipsar, alla som lever med en kaotisk trippelnoja och tjackar ner sig på Gotland och Österlen för att fly från sig själva. *
+*Hamnar på ett svenskparty med folk från reklamvärlden, denna kommersiella svinstia som jag lämnade för ett antal år sen. Märker direkt: det är samma gamla förljugna flykter. Alla dessa smarteggs, dessa blåtonade slipsar, alla som lever med en kaotisk trippelnoja och tjackar ner sig på Gotland och Österlen för att fly från sig själva.*
 
-*     Deras attityd 1: Jag älskar reklamköret, jag vet vad jag gör, jag har inga skrupler, jag är iskall, detta är stålar, har du samvete kan du jobba med Frälsningsarmén eller scouterna.*
+*Deras attityd 1: Jag älskar reklamköret, jag vet vad jag gör, jag har inga skrupler, jag är iskall, detta är stålar, har du samvete kan du jobba med Frälsningsarmén eller scouterna.*
 
-*     Deras attityd 2: Jag ska bara sno ihop tillräckligt med stålar och sen dra järnet ut på landet och lära mig vad livet är. Kanske skriva en bok.*
+*Deras attityd 2: Jag ska bara sno ihop tillräckligt med stålar och sen dra järnet ut på landet och lära mig vad livet är. Kanske skriva en bok.*
 
-*     Heap of garbage.*
+*Heap of garbage.*
 
-*     Jag kan se dom här killarna med sina spräckta hornhinnor när dom står framför badrumsspegeln på nätterna och försöker lirka ut dom blödande kontaktlinserna med rännskiten som ett apachespår från Lencogrammofonens döda Keith Jarret-kitsch, se dom i badkaret en sekund innan silverfiskarna kanar in i analgångarna och kravlar sig upp i deras blixtrande mardrömmar. *
+*Jag kan se dom här killarna med sina spräckta hornhinnor när dom står framför badrumsspegeln på nätterna och försöker lirka ut dom blödande kontaktlinserna med rännskiten som ett apachespår från Lencogrammofonens döda Keith Jarret-kitsch, se dom i badkaret en sekund innan silverfiskarna kanar in i analgångarna och kravlar sig upp i deras blixtrande mardrömmar.*
 
-*     Lämnar partyt rätt snabbt.*
+*Lämnar partyt rätt snabbt.*
 
-*     Går genom Central Park, tar mig ner till Village, in på baren Back Fence, på scenen spelar”Cecilia”- långt krulligt rött hår, ett blixtrande leende, stora vackra näsvingar, rytmiska fingrar som smeker över gitarrhalsen, en mogen, hes röst som spottar ut:”Once in i parkinglot.”*
+*Går genom Central Park, tar mig ner till Village, in på baren Back Fence, på scenen spelar”Cecilia”- långt krulligt rött hår, ett blixtrande leende, stora vackra näsvingar, rytmiska fingrar som smeker över gitarrhalsen, en mogen, hes röst som spottar ut:”Once in i parkinglot.”*
 
-*     Jag sätter mig i baren, tar in en öl och tittar på bartendern. *
+*Jag sätter mig i baren, tar in en öl och tittar på bartendern.*
 
-*     - Det kommer att ringa en kille hit om en halvtimme, säger jag, han vill ha tag i  mig. *
+*– Det kommer att ringa en kille hit om en halvtimme, säger jag, han vill ha tag i  mig.*
 
-*     - Vet han numret?*
+*– Vet han numret?*
 
-*     - Hurså**?*
+*– Hurså?*
 
-*     - Vi har hemligt nummer.*
+*– Vi har hemligt nummer.*
 
-*     - Då får jag sitta här ganska länge.*
+*– Då får jag sitta här ganska länge.*
 
-*     - Ja. *
+*– Ja.*
 
 *Vi sitter på Oscars, 3 ave West Side. Beställer Blue Fish, vitt vin, 3.90. Bruno tittar ut genom fönstret, försjunken.*
 
-*     - Vad tänker du på**?*
+*– Vad tänker du på?*
 
-*     - Alla dessa människor man dödar, säger han. Man ses för första gången på kvällen, vid frukostbordet skiljs man och vet att båda kommer att dö utan att ses igen. Det kunde lika gärna vara ett skelett man tog farväl av.*
+*– Alla dessa människor man dödar, säger han. Man ses för första gången på kvällen, vid frukostbordet skiljs man och vet att båda kommer att dö utan att ses igen. Det kunde lika gärna vara ett skelett man tog farväl av.*
 
-*     Ett bord bakom oss sitter en uppklädd, parant kvinna i övre medelåldern med en kostymklädd man utan hår. Plötsligt vänder sig kvinnan mot oss:”Har ni nån marijuana?! Eller måste jag flytta över till ert bord?”Hennes man vänder sig bort. En servitris kommer fram, ursäktar att maten dröjer, kockarna har råkat i slagsmål. Hon är förkrossad. *
+*Ett bord bakom oss sitter en uppklädd, parant kvinna i övre medelåldern med en kostymklädd man utan hår. Plötsligt vänder sig kvinnan mot oss:”Har ni nån marijuana?! Eller måste jag flytta över till ert bord?”Hennes man vänder sig bort. En servitris kommer fram, ursäktar att maten dröjer, kockarna har råkat i slagsmål. Hon är förkrossad.*
 
-*     Jag skriver (med blyerts) på baksidan av servetten:”Natten kommer alltid att besegra oss och vi kommer att duka under som skrattande barn utan tänder.”*
+*Jag skriver (med blyerts) på baksidan av servetten:”Natten kommer alltid att besegra oss och vi kommer att duka under som skrattande barn utan tänder.”*
 
-*     Vi lämnar Oscars, tar en taxi till Village (vi ska till Kettle of Fish), passerar Madison Square Garden, fyra snutar störtar ur en buss med dragna revolvrar, skottlossning, vi hukar i taxin. Ett par minuter senare passerar vi en filminspelning. *
+*Vi lämnar Oscars, tar en taxi till Village (vi ska till Kettle of Fish), passerar Madison Square Garden, fyra snutar störtar ur en buss med dragna revolvrar, skottlossning, vi hukar i taxin. Ett par minuter senare passerar vi en filminspelning.*
 
-*     Tror jag. *
+*Tror jag.*
 
-*     Starka strålkastare utanför en kyrktrappa, folk som rör sig i vita rockar, en kropp som ligger i trappan.*
+*Starka strålkastare utanför en kyrktrappa, folk som rör sig i vita rockar, en kropp som ligger i trappan.*
 
-*     Det är en brottsplatsundersökning.  *
+*Det är en brottsplatsundersökning.*
 
-*     Vi hamnar på en fest med okända. Vet inte hur vi hamnat här, i en trång lägenhet i Village med människor som ser ut som skrämda kusiner från Millwaukee. Några verkar sniffa lustgas, andra rör sig som om dom dansade. Bruno pratar med en flicka som påstår att hon saknar ursprung och bjuder honom på lunch nästa dag.*
+*Vi hamnar på en fest med okända. Vet inte hur vi hamnat här, i en trång lägenhet i Village med människor som ser ut som skrämda kusiner från Millwaukee. Några verkar sniffa lustgas, andra rör sig som om dom dansade. Bruno pratar med en flicka som påstår att hon saknar ursprung och bjuder honom på lunch nästa dag.*
 
-*     - För två dar sen beslöt jag att inte ligga med fler utländska killar den här månaden.*
+*– För två dar sen beslöt jag att inte ligga med fler utländska killar den här månaden.*
 
-*     Plötsligt släcks ljuset, en stor duk hänger ner framför ett fönster, en svartvit film rullar igång. Naturligtvis är det”Den Andalusiska hunden”**. Här, i ett rum fullt med tiltade illrar, mitt i New York: Flyglar med döda hästkroppar, präster som släpas över gatan som hundar, ögon som snittas upp av rakblad, händer som smeker styva bröst och fylls med myror.*
+*Plötsligt släcks ljuset, en stor duk hänger ner framför ett fönster, en svartvit film rullar igång. Naturligtvis är det”Den Andalusiska hunden”. Här, i ett rum fullt med tiltade illrar, mitt i New York: Flyglar med döda hästkroppar, präster som släpas över gatan som hundar, ögon som snittas upp av rakblad, händer som smeker styva bröst och fylls med myror.*
 
-*     Det är fantastiskt, och sjukt. *
+*Det är fantastiskt, och sjukt.*
 
-*     Vi tittar klart och lämnar lägenheten.*
+*Vi tittar klart och lämnar lägenheten.*
 
-*Sitter vid en elektrisk skrivmaskin på det svala loftet med en flaska tequila och en påse green colombia intill. Underbar känsla, tangenterna som flyfotade balettdansöser under fingertopparna. Otis Redding dånar ut från grönsaksståndet mittemot, luften står tjock som ofiskade räkstim, tvättstrecken på bakgården vajar vita i den åtstramade solen, brandstegarnas grafiska koreografi skapar hela tiden rörelse i rummet. *
+*Sitter vid en elektrisk skrivmaskin på det svala loftet med en flaska tequila och en påse green colombia intill. Underbar känsla, tangenterna som flyfotade balettdansöser under fingertopparna. Otis Redding dånar ut från grönsaksståndet mittemot, luften står tjock som ofiskade räkstim, tvättstrecken på bakgården vajar vita i den åtstramade solen, brandstegarnas grafiska koreografi skapar hela tiden rörelse i rummet.*
 
-*     Det är vackert och jag vet inte vad jag letar efter.*
+*Det är vackert och jag vet inte vad jag letar efter.*
 
-*     Ett par timmar senare kommer Bruno och Marianne. Vi åker över till Schejas penthouse vid Central Park, 14 våningar upp, sitter på  takterrassen i den sjunkande solen och läppjar öl, en kines letar efter ett par grå siameskattungar i bakgrunden, loj, skön stämning, en vacker svart flygel står en bit bort.*
+*Ett par timmar senare kommer Bruno och Marianne. Vi åker över till Schejas penthouse vid Central Park, 14 våningar upp, sitter på  takterrassen i den sjunkande solen och läppjar öl, en kines letar efter ett par grå siameskattungar i bakgrunden, loj, skön stämning, en vacker svart flygel står en bit bort.*
 
-*     Inget att oroa sig för. *
+*Inget att oroa sig för.*
 
-*     Vi går ner i parken, bort till sjön mitt i, sätter oss vid strandkanten, tittar på alla enorma skyskrapor som ramar in den gröna lungan, hör lite skrik i bakgrunden, lite bongotrummor och timmarna sjunker undan, det mörknar snabbt. Vi reser oss och går in på småstigarna, snåren tätnar, passerar en underlig stentunnel, plötsligt känner vi oss lite off, ser ansikten inne i grenverken, ögon som följer oss, en svart man passerar oss, vänder och följer efter med långsamma steg, vi försöker hitta tillbaka till sjön, ut ur den mörka grönskan, går snabbt över en liten träbro, på andra sidan står en man med en avbruten trädgren i handen, en halvnaken kvinna dansar utan musik, vi kommer ut på en stor öppen fyrkant, ett antal svarta män spelar tärning vid en staty, nån ropar åt oss, vill att vi ska komma närmare, vi väjer undan, bongotrummorna ökar i volym, en man blåser i en visselpipa, han har hela magen behängd med silverknivar, ett antal hundar brottas i en glänta, biter och skäller, vi passerar en bänk där två japanska kvinnor håller om varandra, kommer fram till sjön igen, lånar en båt och ror ut i mörkret, andas ut, under en parklykta ser vi en kvinna med stort krulligt hår som sitter i en liten kärra, den dras av tre gråtande barn, vi ligger stilla mitt ute i vattnet, märker att parken töms på folk, vi avvaktar, ror tyst in till andra kanten av sjön, lämnar båten och hastar genom mörkret ut ur parken, kommer upp vid Dakota Building, John Lennons hus, och går ner i varv. *
+*Vi går ner i parken, bort till sjön mitt i, sätter oss vid strandkanten, tittar på alla enorma skyskrapor som ramar in den gröna lungan, hör lite skrik i bakgrunden, lite bongotrummor och timmarna sjunker undan, det mörknar snabbt. Vi reser oss och går in på småstigarna, snåren tätnar, passerar en underlig stentunnel, plötsligt känner vi oss lite off, ser ansikten inne i grenverken, ögon som följer oss, en svart man passerar oss, vänder och följer efter med långsamma steg, vi försöker hitta tillbaka till sjön, ut ur den mörka grönskan, går snabbt över en liten träbro, på andra sidan står en man med en avbruten trädgren i handen, en halvnaken kvinna dansar utan musik, vi kommer ut på en stor öppen fyrkant, ett antal svarta män spelar tärning vid en staty, nån ropar åt oss, vill att vi ska komma närmare, vi väjer undan, bongotrummorna ökar i volym, en man blåser i en visselpipa, han har hela magen behängd med silverknivar, ett antal hundar brottas i en glänta, biter och skäller, vi passerar en bänk där två japanska kvinnor håller om varandra, kommer fram till sjön igen, lånar en båt och ror ut i mörkret, andas ut, under en parklykta ser vi en kvinna med stort krulligt hår som sitter i en liten kärra, den dras av tre gråtande barn, vi ligger stilla mitt ute i vattnet, märker att parken töms på folk, vi avvaktar, ror tyst in till andra kanten av sjön, lämnar båten och hastar genom mörkret ut ur parken, kommer upp vid Dakota Building, John Lennons hus, och går ner i varv.*
 
-*     Uppe på Schejas terrass är det fortfarande lugnt och avspänt. Vi sätter oss med ett glas vitt i handen. Kinesen letar fortfarande febrilt efter kattungarna. Bruno tröttnar på honom:*
+*Uppe på Schejas terrass är det fortfarande lugnt och avspänt. Vi sätter oss med ett glas vitt i handen. Kinesen letar fortfarande febrilt efter kattungarna. Bruno tröttnar på honom:*
 
-*     - Vi åt dom till middag. *
+*– Vi åt dom till middag.*
 
-*     Kinesen, en rätt framgångsrik arkitekt, ger ifrån sig ett vrål som hörs ända in i Lennons sovrum. Marianne får lugna honom: ”Bruno skojade.”*
+*Kinesen, en rätt framgångsrik arkitekt, ger ifrån sig ett vrål som hörs ända in i Lennons sovrum. Marianne får lugna honom: “Bruno skojade.”*
 
-* **Vi går fram till takkanten och tittar ut: det är en mäktig syn. Nedanför ligger det mörka Central Park, mitt i parken glittrar sjön av Empire States färgade spotbelysning, över västra Manhattan hänger en pulserande blodröd måne, alla skyskraporna gnistrar av lampor och sprakande neon, det ser ut som om ett gigantiskt rymdskepp har landat runt den svarta parken och plötsligt hörs en vrålande röst ur mörkret därnere: ”DROP THAT GUN!”*
+*Vi går fram till takkanten och tittar ut: det är en mäktig syn. Nedanför ligger det mörka Central Park, mitt i parken glittrar sjön av Empire States färgade spotbelysning, över västra Manhattan hänger en pulserande blodröd måne, alla skyskraporna gnistrar av lampor och sprakande neon, det ser ut som om ett gigantiskt rymdskepp har landat runt den svarta parken och plötsligt hörs en vrålande röst ur mörkret därnere: “DROP THAT GUN!”*
 
-*     Vi lämnar våningen. Hissen saknar tak, vi kan följa vår egen hädanfärd, 14 våningar ner. Tar en taxi till Village, några drinkar på Kettle of Fish, kollar upp det legendariska stället Other End, rätt trist, bestämmer oss för att skita i taxi och gå hem, börjar en lång, underlig vandring genom Manhattan, bilar saktar in vid vår sida och kör iväg igen, stora råttor sitter på huk vid avfallstunnor och gnager på ett eller annat, trötta fnask vinkar med ännu tröttare händer, ett par biffiga poliser skjuter en ficklampa rakt i ansiktet på oss, säger inte ett ord, vinkar iväg oss igen, vi slinker in på en bar, tankar och går vidare.*
+*Vi lämnar våningen. Hissen saknar tak, vi kan följa vår egen hädanfärd, 14 våningar ner. Tar en taxi till Village, några drinkar på Kettle of Fish, kollar upp det legendariska stället Other End, rätt trist, bestämmer oss för att skita i taxi och gå hem, börjar en lång, underlig vandring genom Manhattan, bilar saktar in vid vår sida och kör iväg igen, stora råttor sitter på huk vid avfallstunnor och gnager på ett eller annat, trötta fnask vinkar med ännu tröttare händer, ett par biffiga poliser skjuter en ficklampa rakt i ansiktet på oss, säger inte ett ord, vinkar iväg oss igen, vi slinker in på en bar, tankar och går vidare.*
 
-*     Vart vet vi inte riktigt.*
+*Vart vet vi inte riktigt.*
 
-*     Vi har inte stenkoll.  *
+*Vi har inte stenkoll.*
 
-*     Så småningom irrar vi oss in på en mörk bar ute i Docklands. Det är långt in på småtimmarna. När ögonen har vant sig ser vi att baren är packad med klonade Tom of Finland-bögar. Läder, kedjor, muskler. Vi ser ut som vindpinade fågelskrämmor. Alla är mycket vänliga. Vi stannar en stund, dricker nåt gott, drar ut i tegelmörkret igen. Vilsna, som nerlagda smalspår, står i timmar på ödsliga refuger och försöker hålla balansen i huvudet.*
+*Så småningom irrar vi oss in på en mörk bar ute i Docklands. Det är långt in på småtimmarna. När ögonen har vant sig ser vi att baren är packad med klonade Tom of Finland-bögar. Läder, kedjor, muskler. Vi ser ut som vindpinade fågelskrämmor. Alla är mycket vänliga. Vi stannar en stund, dricker nåt gott, drar ut i tegelmörkret igen. Vilsna, som nerlagda smalspår, står i timmar på ödsliga refuger och försöker hålla balansen i huvudet.*
 
-*     - Hur mår du, säger Bruno.  *
+*– Hur mår du, säger Bruno.*
 
-*    - Jag längtar hem.*
+*– Jag längtar hem.*
 
-Så:
+
+:::
+
 <!-- PAGE 125 END -->
 
 <!-- PAGE 126 START -->
+Så:
 ::: indent
 Summan av kardemumman (ett uttryck som språkforskare fortfarande inte kan härleda): Vår roadtrip är slut. En natt i Chinatown tar vi  farväl av varandra, Bruno stannar, jag åker hem (och anar inte att vi kommer att mötas på en scen i en kyrka i Lower Bowery igen, ganska snart).
 :::
@@ -416,6 +420,9 @@ Sista dagboksanteckningen:
 :::
 
 *Därute bidar okläckta måsbarn i stormen, skyskraporna håller i sina tegelstenar med livrädda händer. Allt detta kommer att pulvriseras till en stensaga, förr eller senare.*
+
+::: part
+:::
 
 Efterdyningarna av USA-resan lägger sig. Bruno har stannat i New York, jag har landat hos familjen.
 ::: indent
@@ -454,9 +461,8 @@ Serien spelas in på plats under tre veckor. Medverkar gör bl.a gatuteatergrupp
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/131.png)
 
 Minne från inspelningen 1: Vi ska besöka en klinik där man behandlar drogberoende. Kliniken ligger på en mörk bakgata i Bronx. Viöppnar dörren och kommer in ett svagt upplyst rum, det luktar instängt. Närögonen har vant sig ser vi ett antal storvuxna män sittande pålåga bänkar runt väggarna med nakna över kroppar. Alla är svarta. Alla har höga, svajande nålar i svålen. Rakt upp ur huvudet. Det är fullkomligt tyst. Det är en mycket bisarr scen. Det tar en stund innan vi får klart för oss att drogbehandlingen innefattar akupunktur.
-::: indent
+
 Minne från inspelningen 2: Jag provar kokain för första gången (djävulstrippen i San Francisco handlade om helt andra substanser). En vänlig musiker instruerar mig vid ett glasbord i en lägenhet fylld med människor, svenskar och amerikaner. Hög musik, skratt och dans. Jag drar en vit lina, sjunker tillbaka i en mjuk soffa och inväntar effekten. Den kommer inte. Jag börjar prata med en kvinnlig ljudtekniker.
-:::
 <!-- PAGE 126 END -->
 
 <!-- PAGE 127 START -->
@@ -472,11 +478,18 @@ Den som väcker mig har en djurmask över ansiktet och säger att tiden är ute.
 
 **”Det är en märklig stad, Stockholm. Nyss landad från New York, med en vulkans förödande energi i ryggmärgen, försöker jag se Stockholm. Försöker jag begripa vad som pågår. Och varför det pågår. Vad som är i den här staden. Vad som är den här staden.**
 
-**Att se stockholmarna i ögonen är alltid en social och emotionell gastkramning. Varje enskilt ansikte bär en kollektiv börda. Och det är inte en börda som bärs med stolthet. Den bärs med förkrossande uppgivenhet. Det är en börda som bärs av unga, av produktiva, av överskottet. Jag har sett den kollektiva plågan, vanmakten, i alltför många år nu. Den handlar inte om temporära konjunkturanpassade arbetslösheter. Den handlar inte om höjd eller sänkt marginalskatt. Inte om det eller det örespåslaget. Den handlar om en djupare, mänsklig förnedring. Om en varaktig ovärdighet, satt i system. Den handlar om den oartikulerade ångesten. Den som omärkligt slår rot när man upplever att man inte längre har någonting att förvalta. Någonstans att vara djupt delaktig. Inte har någonting man kan överlämna. Eller efterlämna. Den ångest som fräter sig ner i barken när man upplever att något ursprungligt och avgörande långsamt tas ifrån en ... när man upplever att själva livsvärdet succesivt urholkas och utplånas, till förmån för en svårtolkad produktionssolidaritet.”**
+::: accordion
+**Att se stockholmarna i ögonen är alltid en social och emotionell gastkramning. Varje enskilt ansikte bär en kollektiv börda.**
+
+**Och det är inte en börda som bärs med stolthet. Den bärs med förkrossande uppgivenhet. Det är en börda som bärs av unga, av produktiva, av överskottet. Jag har sett den kollektiva plågan, vanmakten, i alltför många år nu. Den handlar inte om temporära konjunkturanpassade arbetslösheter. Den handlar inte om höjd eller sänkt marginalskatt. Inte om det eller det örespåslaget. Den handlar om en djupare, mänsklig förnedring. Om en varaktig ovärdighet, satt i system. Den handlar om den oartikulerade ångesten. Den som omärkligt slår rot när man upplever att man inte längre har någonting att förvalta. Någonstans att vara djupt delaktig. Inte har någonting man kan överlämna. Eller efterlämna. Den ångest som fräter sig ner i barken när man upplever att något ursprungligt och avgörande långsamt tas ifrån en ... när man upplever att själva livsvärdet succesivt urholkas och utplånas, till förmån för en svårtolkad produktionssolidaritet.”**
+:::
 
 Konstnären Peter Tillberg har gjort en lysande målning som illustrerar var roten till det onda börjar:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/296.png)
+![Är du lönsam, lille vän?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/296.png)
+
+::: part
+:::
 
 1979 får jag min andra son. Nick, bror till Sari. Ett hjälplöst knyte med vackraögon och händer som kniper om mitt pekfinger.
 ::: indent
@@ -551,7 +564,12 @@ En dag går jag upp till henne och ringer på. Hon släpper in mig utan ett ord,
 :::
 
 ::: indent
-Jag använder henne senare i en Beckfilm, ”*Pensionat Pärlan*”, där Beck och Persbrandt gör ett besök i ”hennes”lägenhet.
+Jag använder henne senare i en Beckfilm, “*Pensionat Pärlan*”, där Beck och Persbrandt gör ett besök i “hennes”lägenhet.
+:::
+
+[yt-video][https://www.youtube.com/watch?v=1gLLjrjgWLc]
+
+::: part
 :::
 
 I mars det häråret gör Carsten och jag tre multimedia för eställningar på Moderna Museet under namnet”*Panik*”.
@@ -574,6 +592,9 @@ Kort mellanspel: Jag får ett långt brev Expressens kulturchef Arne Ruth. Han b
 Den publiceras aldrig.
 :::
 
+::: part
+:::
+
 Starkt biominne den här perioden: Jag bjuds in till en specialvisning i en liten biosalong på Kungsgatan. Vi ska se Stefan Jarls ”*Ett anständigt liv*”.
 ::: indent
 När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda utän när jag klev in. Filmen har skakat om mig. Den har, som Ingmar Bergman senare ska sakna i en av mina egna filmer, nåttända in till smärtpunkten. Jag är våldsamt berörd. Det är en av dom filmer jag alltid nämner när jag tvingas namnge filmer som har påverkat mig.
@@ -583,9 +604,15 @@ När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda utä
 En annan är ” *Krigarens själ”*. Denär regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är tämligen banal, men styrkan som den gestaltas på, råheten, har fäst hos mig (den ligger väldigt långt från min förstaälsklingsfilm, ”*Jules och Jim*”, ett ömsint triangeldrama mellan franska slackers med Jeanne Moreau som kvinnan i mitten ... förmodligen var jag själv lite förälskad i henne, 1962).
 :::
 
+::: part
+:::
+
 Det häråret, påsenhösten, skriver jag ocksåmitt första filmmanus: ”*Kocken*”. Det spelas in 26 (!)år senare, med Kjelle Bergqvist i huvudrollen - *slow train coming*.
 ::: indent
 Men innan dess är jag medförfattare till en kabarépå restaurang Zum Alten Brunnen, skriver en egen kabarétill Norrbottensteatern, ”*Sockerkorven*”och gör en dokumentärfilm i New York för SVT med den bestickande titeln”*Voeyeur - Våldtäkt på verkligheten*”- en djupdykning i olika urbana avarter.
+:::
+
+::: part
 :::
 
 Succén med vår kabarépå Dramaten har gett flera inblandade mersmak. Mig måttligt, men det är grupptryck från begåvade människor. Vi beslutar att sätta upp en krogkabaréoch väljer restaurang Zum Alten Brunnen i Vasastan. Vi döper kabarén till”*Bortkastat & Uppkastat - En containerkabaré*.”Ensemblen består av Lars Amble, Tommy Körberg och Liz Nilheim. Musiken står Carl-Axel Dominique och Stefan Nilsson för.
@@ -655,6 +682,9 @@ Dåett uppenbart satiriskt tal, i dagens Sverige finns det ett antal människor 
 Det är där vi har hamnat.
 :::
 
+::: part
+:::
+
 Jag sticker emellan med åtta kärleksdikter till tidskriften Hjärnstorm. Bland annat den här:
 ::: poem
 **nej**
@@ -684,13 +714,19 @@ Mystisk metafor.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/295.jpeg)
 
+::: part
+:::
+
 Så är det dags för min första produktion på Norrbottensteatern i Luleå(det ska bli en till, tvåår senare, av betydligt tyngre kaliber). Den här gången är det en helaftonskabaré. Initiativet till föreställningen kommer från Sten Ljunggren, som ska regissera den. Vi döper den till ”*Sockerkorven*”. Titeln förklaras i en sketch i kabarén (en kemisk reaktion framkallar en växande brun korv). På scenen finns Sara Arnia, Eva Munther, Gustav Levin och Carl Magnus Dellow.
 ::: indent
 DN:s kritiker Bengt Jahnson (han som fick en propp av Ingmar Bergman), är både nykter och vaken under hela föreställningen och anser att ”*texterna blandar fränhet med solidaritet, joddlande fjällturister med desillusionism, uppsluppna köttslamsor med ärlig vrede...med”Sockerkorven” har man skapat ett alldeles nytt begrepp inom revyvärlden som tillåter sig full frihet inom groteskeriets skinn.”*
 :::
 
 ::: indent
-”Uppsluppna köttslamsor”är tänkvärt.
+“Uppsluppna köttslamsor”är tänkvärt.
+:::
+
+::: part
 :::
 
 Hemkommen från Luleåskriver jag sex satiriska personporträtt till tidningen Arbetaren. Dom kallas för *”Skarpa Skott”* - en utomordentligt fånig rubricering.
@@ -698,23 +734,41 @@ Hemkommen från Luleåskriver jag sex satiriska personporträtt till tidningen A
 Ett litet avsnitt ur intervjun med folkpartisten och det politiska underbarnet Carl Tham:
 :::
 
-**”Carl Tham är en liten man i ett stort kök. Han är klädd i en enkel bastkjol och kockmössa av halm. I högra handen håller han en stekspade av guld.**
+“Carl Tham är en liten man i ett stort kök. Han är klädd i en enkel bastkjol och kockmössa av halm. I högra handen håller han en stekspade av guld.
+::: indent
+– Tingstenpriset 75, väser han och kör ner spaden i stekpannan.
+:::
 
-**     - Tingstenpriset 75, väser han och kör ner spaden i stekpannan. **
+::: indent
+En fettklick fräser till.
+:::
 
-**     En fettklick fräser till.**
+::: indent
+– Vet du vad det där är? frågar han.
+:::
 
-**     - Vet du vad det där är? frågar han.**
+::: indent
+– Margarin, säger jag.
+:::
 
-**     - Margarin, säger jag.**
+::: indent
+– Folkpartiet, svarar han, med ett hest profetiskt vemod.
+:::
 
-**     - Folkpartiet, svarar han, med ett hest profetiskt vemod. **
+::: indent
+Rösten har en kuslig klang av bitter insikt. Armen darrar när spaden jagar den bortsmältande fettklicken. Så stramar han upp sig. Knäpper bort en droppe från näsbenet. Kastar in en handfull isbitar i munnen och är åter den kylige, glasklare analytikern. Jag frågar: “1974 krävde du fler kärnkraftskritiker i utredningsarbetet om kärnkraften. Idag är du kärnkraftsförespråkare. Hur förklarar du den omsvängningen?”
+:::
 
-**     Rösten har en kuslig klang av bitter insikt. Armen darrar när spaden jagar den bortsmältande fettklicken. Så stramar han upp sig. Knäpper bort en droppe från näsbenet. Kastar in en handfull isbitar i munnen och är åter den kylige, glasklare analytikern. Jag frågar: ”1974 krävde du fler kärnkraftskritiker i utredningsarbetet om kärnkraften. Idag är du kärnkraftsförespråkare. Hur förklarar du den omsvängningen?”**
+::: indent
+– Enkelt. Den förklaras med liberalismens inbyggda rotationsmönster. Hela folkpartiet är ju egentligen en enda gigantisk alternativ energikälla, om jag får uttrycka mig lite symboliskt. Folkpartiet har alltid använt vinden som politisk drivkraft. Genom ledarskiktets suveräna förmåga att ständigt befinna sig i rotation, att utnyttja vindens alla skiftande riktningar, överför vi outtömlig energi till basplanet. Där gräsrötterna behöver all kraft dom kan få för att hänga med i svängarna. Detta bildlikt talat. Jag kan ta ett pikant exempel om du vill. När vårt riksorgan Expressen fick ny chefredaktör, Bo Strömstedt, slog han helt följdriktigt fast i sin debutledare att”Blåsväder är vad Expressen vill ha!”. För att på så sätt kunna fungera som partiets förlängda vindflöjel och dra sitt massmediastrå till folkpartiets energistack.
+:::
 
-**     - Enkelt. Den förklaras med liberalismens inbyggda rotationsmönster. Hela folkpartiet är ju egentligen en enda gigantisk alternativ energikälla, om jag får uttrycka mig lite symboliskt. Folkpartiet har alltid använt vinden som politisk drivkraft. Genom ledarskiktets suveräna förmåga att ständigt befinna sig i rotation, att utnyttja vindens alla skiftande riktningar, överför vi outtömlig energi till basplanet. Där gräsrötterna behöver all kraft dom kan få för att hänga med i svängarna. Detta bildlikt talat. Jag kan ta ett pikant exempel om du vill. När vårt riksorgan Expressen fick ny chefredaktör, Bo Strömstedt, slog han helt följdriktigt fast i sin debutledare att”Blåsväder är vad Expressen vill ha!”****. För att på så sätt kunna fungera som partiets förlängda vindflöjel och dra sitt massmediastrå till folkpartiets energistack.**
+::: indent
+Tham ler förnöjt och smeker sin uppstoppade kameleont. Hans bländande intellekt och briljanta klarsyn har än en gång firat retoriska triumfer.”
+:::
 
-**     Tham ler förnöjt och smeker sin uppstoppade kameleont. Hans bländande intellekt och briljanta klarsyn har än en gång firat retoriska triumfer.”**
+::: part
+:::
 <!-- PAGE 131 END -->
 
 <!-- PAGE 132 START -->
@@ -766,11 +820,14 @@ Arbetet sker tillsammans med Lars Ragnar Forssberg och Stefan Nilsson. Vi bryter
 
 Och tvåskisser till huvudrollen:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/145.png)
+![Kråka.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/145.png)
 <!-- PAGE 132 END -->
 
 <!-- PAGE 133 START -->
 Men som så många gånger förr: Projektet strandar på vägen, Lindblom är sorgsen, teateroperan genomförs aldrig (jag tror fortfarande att det kan bli en fantastisk scen för eställning).
+
+::: part
+:::
 
 Det andra projektet som styr bort från satirträsket är”*Voeyeur*” (ett extremt svårstavat ord). En dokumentärfilm för SVT som jag, Lars-Ragnar Forssberg och frilansfilmaren Bertil Larsson ska göra på plats i New York.
 ::: indent
@@ -810,6 +867,8 @@ Det blir en ganska vidrig natt.
 :::
 
 Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i *”Tillfälligt avbrott”*. Denär klart påverkad av det vi upplevde med *”Action Movie News”*:
+
+[yt-video][https://www.youtube.com/watch?v=LG5jYI7piBc&t=1s]
 
 Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut småaskar vid golvlisterna med texten ”*Cockroach Motel*”.  Giftiga dödsfällor för kackerlackor. När jag vaknar är lägenheten tom. Min vana trogen kollar jag hennes bokhylla. Jag drar ut en tjock bok (jag tror det är ”*Brott och Straff*”) och fäller upp den. Inuti boken är alla sidorna utskurna i form av en liten pistol. Placerad där, med pärmarna igenslagna: det perfekta smuggelobjektet. Romanen som vapen, på riktigt.
 ::: indent
@@ -985,6 +1044,9 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **det är dom inslagna som ska ut.**
 :::
 
+::: part
+:::
+
 Året rundas av med mitt första långfilmsmanus. Det heter ”*Kocken*”och är baserat på en självupplevd historia av regissören Mats Arehn. Filmen kommer, som jag tidigare nämnt, att spelas in och visas först 2005  med Kjelle Bergqvist i huvudrollen.
 ::: indent
 Det hela börjar med att Arehn ringer och frågar om jag är intresserad av att skriva för film. Ett långfilmsmanus. Frågan kommer out of the blue och jag säger som det är.
@@ -1088,6 +1150,9 @@ Ett beslut som jag har den största respekt för (jag reagerade likartat när Ap
 ::: indent
 Men om inte om fanns.
 :::
+
+::: part
+:::
 <!-- PAGE 136 END -->
 
 <!-- PAGE 137 START -->
@@ -1109,6 +1174,9 @@ Roliga projekt, roliga människor, mjuka gryningar.
 Jag försöker skrapa bort mörkret ur hjärnan.
 :::
 
+::: part
+:::
+
 Skrapandet börjar inte så bra. Sammaår som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett parår sen). Förövaren är inte värd många ord. Lennons död fogas in i ledet av för tidigt försvunna begåvningar, människor som har vidgat andra människor genom sina verk.
 ::: indent
 Jag sörjer och spelar hans skivor.
@@ -1116,6 +1184,9 @@ Jag sörjer och spelar hans skivor.
 
 ::: indent
 Om någraår ska en annan begåvad man mördas på öppen gata.
+:::
+
+::: part
 :::
 
 Carsten börjar det häråret, 1980, med att ge ut en konstbok, ”*LUPUS ULTRA*”.
@@ -1134,9 +1205,7 @@ Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci
 <!-- PAGE 137 END -->
 
 <!-- PAGE 138 START -->
----
-
-::: poem
+::: quote
 **Se: hur många människor skulle**
 **Inte kunna definieras genom dessa enda funktioner:**
 **Vara ett rör för utfodring,**
@@ -1151,17 +1220,23 @@ Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci
 
 ![I begynnelsen skalade Gud en banan.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/82.png)
 
+::: part
+:::
+
 Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett myller av symboler, bygger upp ett eget språk, en visuell rebus, med hjälp avåterkommande markörer. Varghatten, Nefertite, en Assanyckel, den svarta glödlampan, ögat, siffrorna 333, en kvinna i högklackade skor, en livmoder osv ... jag kan tolka en del av symbolerna, andra inte, men jag vet att varenda detalj i hans målningar ingår i en större berättelse. Om honom själv, om oss, om den tillvaro vi lever i. Den amerikanske filosofen och sociologen Lewis Mumford har skrivit några tänkvärda rader om symbolernas betydelse i sin bok ”*Människans villkor*”:
 
-**”Förmågan att skapa och reagera för symboler innebär en väsentlig skillnad mellan människans värld och djurens. Utan symboler skulle människans liv vara ett liv av omedelbara begär, omedelbara sensationer: hon skulle vara bunden till ett förflutet som var kortare än hennes egen livstid, utlämnad åt en framtid som hon varken kunde förutse eller bereda sig på****. I en sådan värld skulle det som var utom hörhåll aldrig kunna nås, och bortom synhåll skulle betyda borta ur sinnet. Med hjälp av symbolerna bygger människan en sammanhängande värld av iakttagna fakta och glimtar av individuell erfarenhet.**
+**”Förmågan att skapa och reagera för symboler innebär en väsentlig skillnad mellan människans värld och djurens. Utan symboler skulle människans liv vara ett liv av omedelbara begär, omedelbara sensationer: hon skulle vara bunden till ett förflutet som var kortare än hennes egen livstid, utlämnad åt en framtid som hon varken kunde förutse eller bereda sig på. I en sådan värld skulle det som var utom hörhåll aldrig kunna nås, och bortom synhåll skulle betyda borta ur sinnet. Med hjälp av symbolerna bygger människan en sammanhängande värld av iakttagna fakta och glimtar av individuell erfarenhet.**
 
 **    Oförmågan att förstå symbolikens roll i människolivet har vållat ett svårt missförstånd ifråga om människans natur. Eftersom symbolerna är subjektiva till sin uppkomst och inte existerar i naturen utanför människan, tror många att de är overkliga och skadliga eller att en sundare existens skulle vara möjlig om man tog bort alla symboler utom de som kan reduceras till kvantiteter eller till uppenbar verksamhet. De som förfäktar denna åskådning saknar förståelse för människans verkliga väsen och anlag.”**
 
+::: part
+:::
+
 Carstens visuella uppfinningsrikedom smittar ocksåav sig på hans generationskamrater:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1000.png)
+![Frimärken. Carsten Regild. 1975.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1000.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1001.png)
+![Frimärken. Jan Håfström. 2011.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1001.png)
 
 Jag har precis kommit ut ur duschen på Skarpö, otorkad, när Tove sträcker över telefonen.
 ::: indent

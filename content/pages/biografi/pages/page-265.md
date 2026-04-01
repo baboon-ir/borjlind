@@ -12,6 +12,9 @@ På tal om Kjelle: förutom att han är den han är och det är han, alltid, så
 Dessutom är han barnsligt förtjust i varm korv.
 :::
 
+::: part
+:::
+
 Sidoprojekt, för att krydda tillvaron lite: Vi kontaktas av förläggaren John-Henri Holmberg. Han ska sammanställa en antologi med nyskrivna deckarnoveller för den amerikanska marknaden och vill att vi medverkar. Vi har aldrig skrivit i novellform tidigare, men tackar ja (ny mark igen). Resultatet blir novellen ” *Sitt hår tyckte han om* ”. Den handlar om en man som lider av en dissociativ identitetsstörning ochägnar nätternaåt obehagliga mord.
 ::: indent
 Den inleds så här:
@@ -26,6 +29,9 @@ Den inleds så här:
 **     Det, och stegandet.”**
 
 Novellen publiceras senareäven i den svenska antologin ” *Svart Lucia* ” och ges ocksåut i bokform av Bokfabriken i Malmö.
+
+::: part
+:::
 
 ” *The Night of ... * ”
 ::: indent
@@ -46,6 +52,9 @@ Annan tv-serie som alltid rinner upp: ” *Den sjungande detektiven* ”. En mus
 
 ::: indent
 En märklig och suggestiv tv-serie.
+:::
+
+::: part
 :::
 
 Det häråret inträffar det ingen trodde var möjligt - en sexistisk, inkompetent över sittare med grava narcissistiska drag blir president i USA.

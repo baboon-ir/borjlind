@@ -68,3 +68,7 @@ Vi möts på en liten järnvägsperrong, han har en finsk träningsoverall på s
 Ur filmen: Det finns en scen när Hjelm häller upp en sup i ett gnistrande snapsglas, för det till munnen och sveper supen, andas ut och tittar på sin katt med sorgsnaögon. Han gör det lysande, han är helt och fullt iögonblicket, ingenting finns i omvärlden. Jag förstår hans beundrare.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=nCgClwmrHYk]
+
+::: part
+:::

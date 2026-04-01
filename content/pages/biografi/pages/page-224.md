@@ -19,6 +19,9 @@ yearGroup: "2013–2017"
 
 Musiken jag har valt till texten är Mari Boines ” *Örnebror* ”.
 
+::: part
+:::
+
 Såringer Gösta. Ett danskt filmbolag som heter Victoria Film vill göra nya Beck-filmer som bygger på dom gamla karaktärerna, men med nya historier. Dom har köpt rättigheterna till karaktärerna av Maj Sjöwall. Gösta undrar om jag är intresserad av att vara med och skriva manus. Projektet har redan pågått en tid, visar det sig, andra manus författare har varit inkopplade. Det har inte funkat såbra. Gösta berättar att det rör sig omåtta filmer om 90 minuter vardera, sex av dom för tv, tvåav dom för både bio och tv.
 ::: indent
 Jag vill fundera.

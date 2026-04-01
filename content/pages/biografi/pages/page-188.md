@@ -21,6 +21,9 @@ yearGroup: "1999–2006"
 
 **     Och så länge den chansen finns, sitter jag där ensam i mörkret och torteras.”**
 
+::: part
+:::
+
 Carsten lever fortfarande.
 ::: indent
 Inre tumult. Jag vet att jag förtränger.
@@ -40,6 +43,9 @@ Döden är svår att sublimera.
 
 ::: indent
 Det enda som hjälper är arbete.
+:::
+
+::: part
 :::
 
 Tvåspännande kvinnor, en bra idéoch inrökta kaféer.

@@ -12,6 +12,9 @@ Bestående effekt av femtioårsfyllandet: Min riktiga födelsedag infaller på e
 Trevligt så länge det varade.
 :::
 
+::: part
+:::
+
 1990 utkom en bok som jag läser först nu. Den heter ” *Catrine och rättvisan* ” och är skriven av journalisten och terapeuten Hanna Olsson. Huvudperson är den mördade och styckade Catrine da Costa, en 27-årig prostituerad med Stockholms innerstad som arbetsplats. Hennes kroppsdelar hittas 1984 på några olika platser i Stockholm (dock aldrig huvudet). Jakten på hennes mördare mynnar ut i dom så kallade styckmordsrättegångarna. En allmänläkare och en obducentåtalas för mordet men frias. Olssons bok är en ursinnig partsinlaga som försöker avtäcka en omfattande rättsröta i handläggandet av mordet.Även Jan Guillou och GW Persson anser att handläggningen är en rättsskandal, men av diametralt motsatt anledning.
 ::: indent
 Jag, Sauk och regissören Mikael Håfström vill använda boken som underlag för en tv-serie om rättsfallet. För SVT Drama. Vi bjuds hem till Olsson för att presentera våra idéer.
@@ -66,3 +69,5 @@ Minne från arbetet:åklagaren Anders Helins ” bevingade ” omdöme om ett pa
 Jag delar i viss mån Hanna Olssons upprördhet.
 :::
 
+::: part
+:::

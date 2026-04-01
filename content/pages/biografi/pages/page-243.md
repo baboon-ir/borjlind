@@ -13,6 +13,9 @@ Inte av nonchalans, jag ser ytterst sällan egna produktioner, förmodligen avå
 
 ![260.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/260.jpg)
 
+::: part
+:::
+
 Nästa projekt är ett undantag: tv-serien ” *Graven* ”. Undantag i den bemärkelsen att jag och Cilla faktiskt sätter oss framför tv-n när vi har fått cd-skivorna från serien och börjar titta. Påförsta avsnittet. På andra och på tredje. Och blir helt indragna. Och lyckliga. Det är såfågånger i en manus författares liv som du får uppleva att det du har skrivit faktiskt har landat rätt, träffat exakt ton och har blivit det du villeåt.
 ::: indent
 Till och med förhöjt.

@@ -14,6 +14,9 @@ Relationsdramer är vi bra på.
 
 Ord om Mikael Ekman, en nära vän: Lillebror till Gösta, en av den kvartett ”champinjoner”som utgör Hasse Ekmans barn med Agneta Wrangel. För mig är Mikael en flyhänt och idérik filmskapare, rolig att umgås med, inte mycket sitter fast, fåkan droppa en dräpande replik som han. Vänfast, med varmaögon, hans fru Elisabeth är underbar (det var hon som målade”sjukaögon”på mig till Persona Non Grata-boken).
 
+::: part
+:::
+
 Det är riksdagsval i antågande och SVT:s”*Aktuellt*”ber mig och Sauk att göra 5 satiriska inslag i samband med det. Vi kallar dom för”*Tillfälligt Valbrott*”. Såhär gestaltar Sauk en Politiker:
 
 **”Hej! Jag är politiker! Rösta på mig! Varför? Ja, jag anser att skattetrycket bör inflationsskyddas för att vårdnadsglidningen ska ligga i linje med vår neutralitet: en offensiv allemansrätt ger våra mest utsatta grupper en tryggare Öresundsbro ** ***utan***** att handikapphyran sänks! **
@@ -25,6 +28,9 @@ Det är riksdagsval i antågande och SVT:s”*Aktuellt*”ber mig och Sauk att g
 **    Och till sist en hjärtefråga: sänkt moms på aborter! Vilket stärker freden och ger full återbäring på pensionärer, barn, grodmän och småföretagare.**
 
 **     För övrigt anser jag att vi bör bygga en bro till Baltikum och släppa reklamen fri på Göta Kanal. En röst på mig är en röst på dig!”**
+
+::: part
+:::
 <!-- PAGE 194 END -->
 
 <!-- PAGE 195 START -->
@@ -40,6 +46,9 @@ Carstenär, om jag får uttrycka det så, heroisk. Bara minuter innan förestäl
 Men han kommer in, med käpp, sätter sig, bär en brun skräddarsydd kostym med en elegant sidenscarfs runt halsen (som sagt, han köpte aldrig nåt på Carnaby Street). Vi genomför det som måste genomföras, med olika grad av smärta.
 ::: indent
 Reflektion: Att uppträda för en människa som man vet ska lämna en, som sitter framför en med en vit käpp och inte ska finnas där om ett kort tag, det är en märklig upplevelse. En sorgsen utskurenhet. Ett farväl av godo.
+:::
+
+::: part
 :::
 
 Producenten Bosse Jonsson och jag har samarbetat till och från under drygt tioår och har stor respekt för varandras kompetens. Han är en varm, generös och intelligent person, med ett kalkylerande drag som ibland gör mig osäker. På ett lunchmöte sträcker han över en bok som han vill filma. En verklig ”darling”för honom. Boken heter”*Ingen tobak, inget halleluja!*”och är skriven av Eric Lundqvist. Det är en mycket rolig bok om en svensk mission är som försöker omvända en”primitiv”stam på Nya Guinea. Ett av hans tricks är att muta dom infödda med tobak för att fådom till kyrkan.
@@ -199,6 +208,9 @@ Jag blir ombedd att fortsätta utveckla tv-serien, med utgångspunkt från min a
 1998 gör Lars Molin en egen tv-serie om Kreuger med Johan Rabaeus i huvudrollen.
 :::
 
+::: part
+:::
+
 Sårämnar Sovjetunionen, äntligen. Storstaten spräcks upp i ett antal mindre länder, mycket som en följd av Michail Gorbatjovs olika reformer, det som kallas ”glasnost”. Omvärldens förhoppning är ett öppnare ryskt samhälle, en avspänning politiskt och en större frihet för befolkningen.
 ::: indent
 Riktigt så blir det inte, sett över tid.
@@ -206,6 +218,9 @@ Riktigt så blir det inte, sett över tid.
 
 ::: indent
 Corny detalj i mina anteckningar: Det häråret skickas världens första sms. En tämligen värdelös notering.
+:::
+
+::: part
 :::
 
 Dags för mitt yngstaättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”*Min store tjocke far*” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningenäger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig) .
@@ -239,6 +254,11 @@ Mitt råd: Satsa inte på”auteurer”innan dom kan hantverket (Bergman gjorde 
 Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här landet. Den avgjort mest originelle är skribenten Lena Anderssons favoritobjekt Roy”Hugo”Ander sson. Hans kortfilm”*Härlig är jorden*”som öppnar stafettserien”*90 minuter 90-tal*”är magnifik, hans säregna filmspråk är unikt i världen.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=yJXN5VPkyH8]
+
+::: part
+:::
+
 ![C.O. REX](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/139.png)
 
 ::: poem
@@ -268,6 +288,8 @@ Carsten ligger på Radiumhemmet, ändstationen, klockan tickar ner. Han är oän
 Den märkligaste skissen är den här, ett betongfundament med ett kritvitt träd i, pågrenarna hänger svarta glödlampor som frukter (jag använder senare idén i min kortfilm ”*Fatimas tredje hemlighet*”):
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/233.png)
+
+[yt-video][https://www.youtube.com/watch?v=i_QMuDi4HJc]
 
 Vi pratar om skisserna, om detaljer till utställningen, ytor, väggar, material, rum ... vi pratar aldrig om att han ska dö, inte med ett ord, bara om vårt nästa projekt. Vi sitter i en utskuren overklighet, han i sängen, jag intill och båda vet.
 ::: indent
@@ -309,7 +331,7 @@ Jag skriver senare en dikt om upplevelsen:
 
 Den sista teckning Carsten gör är den här:
 
-![There must be some way out of here\nsaid the Joker to the Thief.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/227.png)
+![There must be some way out of here said the Joker to the Thief.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/227.png)
 
 En månad senare är han död, den tredje mars 1992.
 
@@ -317,7 +339,7 @@ En månad senare är han död, den tredje mars 1992.
 
 Rekyl: I flera år och många gånger efter hans död är jag på väg till telefonen för att ringa honom och fråga nåt när jag kommer på: Men han finns ju inte längre? Han är ju död? Vem ska jag då fråga?
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/195.png)
+![Självporträtt 2.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/195.png)
 
 Begravningen äger rum i Skeppsholmskyrkan och förrättas av biskop Caroline Krook. Hon har ett möte med mig och Carstens änka Amis för att ”informera sig”om den avlidne. Amis påpekar att Carsten inte var religiös och inte trodde på Gud. Biskopen noterar det med viss syrlighet.
 ::: indent
@@ -339,6 +361,8 @@ Väl i kyrkan träder hon in i den roll hon är betald för. Hon pratar vackert 
 :::
 
 Mitt eget förhållande till religion? Till”Gud”? Lyssna på en sällsynt upplyftande blasfemiker, Stephen Fry, och lyssna noga:
+
+[yt-video][https://www.youtube.com/watch?v=-suvkwNYSQo]
 
 Bättre kan det knappast formuleras.
 ::: indent
@@ -474,6 +498,9 @@ Fotnot om Amis, Carstens änka: En vacker och remarkabel kvinna, gift med Carste
 Kärlek.
 :::
 
+::: part
+:::
+
 För att försöka skölja ur den mesta akuta saknaden efter Carsten skriver jag i raskt takt ett antal sångtexter. Tre till Anna-Lotta Larsson skiva ”*5*”, tre till Mats Ronanders skiva ”*Himlen gråter för Elmore James*”och en till Janne Schaffers”*Överblick*”. Den sjungs in av Anna Nederdal och heter ”*Ingen minns*”.
 
 ::: poem
@@ -521,6 +548,9 @@ Det blir en egendomlig liten serie.
 
 ::: indent
 Stefan och jag går ocksåvidare från”*Tillfällgt Avbrot* t”och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han  bemöter det mesta i tillvaron med sitt specialuttryckt”*Aaahhh ... jag är skeptisk!*”Även det ett uttryck som fäster långt utanför tv-rutan.
+:::
+
+::: part
 :::
 
 Tidigare på året har jag och Stefan skrivit en helaftonspjäs till Scen Offside, en nystartad teater i kvarteren bakom LO-borgen. Pjäsen heter ”*Smutsiga Ögon*”,  en enmans för eställning.
@@ -571,7 +601,12 @@ Orsak 3 är flugfisket: För den som aldrig har flugfiskat är det svårt att f�
 Det är magiskt.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=lNLWyhbUI5Q]
+
 Till flugfisket och Miekakåtervänder jag så ofta jag kan. Det, och svampplockning, är lungorna i mitt liv (nuförtiden).
+
+::: part
+:::
 
 Roligt fiskeminne av ett helt annat slag: Jag, min son Nick och hans kusin Gabriel är på Azorerna. Gabriel är en otvungen person, talar flytande spanska och lär snabbt känna en restaurangägare nere i hamnen i Ponta Delgada. En man som har basat över restaurangkedjor lite runt om i världen. En kväll berättar vi för honom att vi ska ut på lite havsfiske nästa dag.
 ::: indent
@@ -585,6 +620,8 @@ Nästa morgonåker vi ut i en hyrd båt, *”Rabao”*, med tre mans besättning
 ::: indent
 Det är ingen sinekur.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=R4sO5UxZ73o]
 <!-- PAGE 205 END -->
 
 <!-- PAGE 206 START -->
@@ -628,6 +665,9 @@ Samtidigt sätter mannen full fart in mot hamnen i La Maddalena. Jag sitter stil
 
 ::: indent
 Starkt och solkigt.
+:::
+
+::: part
 :::
 
 På tal om resor: Tidskriften ”*Resguide*”hör av sig igen och vill ha en text. Jag skriver en som får rubriken”*I den stora vidriga världen*”. I den berättar jag om språk för bistringar och beskriver en privat upplevelse frånön Symi i Grekland:
@@ -679,6 +719,9 @@ Jag träffar Slas ett par gånger ihop med Gösta, men får aldrig tillfälle at
 Elleråtminstone förlängde det.
 :::
 
+::: part
+:::
+
 Det häråret får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill att ha med mig, för första gången. Det får dom. Såhär lyder texten om mig i boken:
 
 **”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift. **
@@ -693,20 +736,27 @@ Det häråret får jag ett brev från redaktionen för Bra Böckers stora förfa
 
 **     Det är alltså med stor tveksamhet, för att inte säga olust, denna text ändå kommit på pränt. Av en enda orsak: det vore ännu värre om den inte gjorde det. Vetskapen om Börjlinds infama knep att hänsynslöst utnyttja sitt utanförskap skulle ofelbart ha lett till en besinningslös smädeskampanj mot såväl bokförlaget Bra Böcker, dess utomordentligt kompetenta redaktörer (låt mig här bara nämna Bo Heurling), Sveriges Författarförbund och i slutändan såväl Nobelpriskommittén som Antonia A:son Johnson. Denna text bör därför läsas genom strikt profylaktiska linser. Vilket inte hindrar att innehållet i sig kan ha en sanitär effekt på de läsare som till äventyrs inte har genomskådat den bubbla av förment extas som alltid genomsyrat Börjlinds maniska försök till självförverkligande. **
 
-** Låt mig från början slå fast: mannen är en epigon. En pimpinett autodidakt som ogenerat iklätt sig subversivt allmängods från ledans estrader. Hans skamlösa sätt att upphöja poetiskt bråte till glödande lust är i de flesta fall utomordentligt pinsamt (när inte löjet ligger närmare till hands). Att följa hans irrsprång genom tidens tromb är extremt tröttande, eftersom Börjlind aldrig besvärat sig med någon som helst form av kontinuitet eller intellektuell förankring i den idéhistoria som ändå utgör sältan i all sant skapande. Rastlöst och utan känsla för valör eller genklang, sprider han sina undermåliga slagord över landet som en biologisk dynggrep. Att han trots allt är i befintligt skick till dags dato, och dessutom oförtrutet vältrar sin mediokra ideologi över dagens ungdom, är inte bara genant. Det är oroande. Börjlind har nämligen en kuslig förmåga att ge det mest banala uttryck en verbal stringens som för mer påvra intellekt kan skapa en känsla av äkthet. Jag tänker då på typiskt Börjlindska idiosynkrasier som ”God smak mjölkar ur testiklarna”och likartade floskler. Hur denna hämningslösa urvattning av allt vad konst är ska hejdas, är kanske mer en politisk (för att inte säga kriminalteknisk) fråga. Själv nöjer jag mig med att konstatera att det varken förr, och förhoppningsvis aldrig senare, har funnits en motsvarighet till detta herostratiskt ryktbara”författarskap”****. Ju förr det får falla i den glömska det tillhör, desto snabbare kan jag, bokförlaget Bra Böcker, Nobelpriskommittén och Antonia A:son Johnson ägna oss åt den litterära parnass som trots allt utgör kärnan i vår (och märk väl, även invandrarnas) kultur!”**
+::: accordion
+**Låt mig från början slå fast: mannen är en epigon. En pimpinett autodidakt som ogenerat iklätt sig subversivt allmängods från ledans estrader.**
+
+**Hans skamlösa sätt att upphöja poetiskt bråte till glödande lust är i de flesta fall utomordentligt pinsamt (när inte löjet ligger närmare till hands). Att följa hans irrsprång genom tidens tromb är extremt tröttande, eftersom Börjlind aldrig besvärat sig med någon som helst form av kontinuitet eller intellektuell förankring i den idéhistoria som ändå utgör sältan i all sant skapande. Rastlöst och utan känsla för valör eller genklang, sprider han sina undermåliga slagord över landet som en biologisk dynggrep. Att han trots allt är i befintligt skick till dags dato, och dessutom oförtrutet vältrar sin mediokra ideologi över dagens ungdom, är inte bara genant. Det är oroande. Börjlind har nämligen en kuslig förmåga att ge det mest banala uttryck en verbal stringens som för mer påvra intellekt kan skapa en känsla av äkthet. Jag tänker då på typiskt Börjlindska idiosynkrasier som ”God smak mjölkar ur testiklarna”och likartade floskler. Hur denna hämningslösa urvattning av allt vad konst är ska hejdas, är kanske mer en politisk (för att inte säga kriminalteknisk) fråga. Själv nöjer jag mig med att konstatera att det varken förr, och förhoppningsvis aldrig senare, har funnits en motsvarighet till detta herostratiskt ryktbara”författarskap”****. Ju förr det får falla i den glömska det tillhör, desto snabbare kan jag, bokförlaget Bra Böcker, Nobelpriskommittén och Antonia A:son Johnson ägna oss åt den litterära parnass som trots allt utgör kärnan i vår (och märk väl, även invandrarnas) kultur!”**
+:::
 
 Jag kan intyga allt som sägs i texten är sant, eftersom jag har skrivit den själv. Utanändringar från redaktionen för Bra Böcker (eller Antonia A:son Johnson).
 
+::: part
+:::
+
 Jag fyller 50. Det är som att fylla 49 fast ett år senare och lite mer fest och något fler gåvor. Av några vänner får jag en märklig skulptur i present, gjord av den skicklige konstnären Karl-Olov Björk.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/238.jpg)
+![Döden i lusthuset.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/238.jpg)
 
 Nederdelen av ett kranium inneslutet i ett öppet trävisir. Påefterfesten i vår lägenhet orsakar skulpturen våldsamma diskussioner. Det handlar om skändandet av döda. En av gästerna vill kasta ut föremålet genom fönstret. Jag förstår inte riktigt upprördheten.
 ::: indent
 Många år senare besöker jag och tvåav mina barn, Joakim och Sari, den märkliga skelettkyrkan i Kutna Hora utanför Prag. Ossariet nere i källaren är konstfullt utsmyckat med ben från cirka 40.000 människor, bland annat hänger en stor sexarmad ljuskrona i taket, helt gjord av skelettdelar och kranium.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/292.png)
+![Dödskapellet i Kutna Hora.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/292.png)
 
 Vid en jämförelse framstår Björks skulptur som tämligen oförarglig.
 <!-- PAGE 208 END -->
@@ -715,6 +765,9 @@ Vid en jämförelse framstår Björks skulptur som tämligen oförarglig.
 Bestående effekt av femtioårsfyllandet: Min riktiga födelsedag infaller på en torsdag och firas enbart med en lättare mottagning på dagen. På kvällen intar några av mina vännerärtsoppa och punsch pålokal och bestämmer sig för att skapa en tradition. Tillsammans med Cilla och mig bildasÄrtklubben, åtta personer som under tioårs tid träffas en gång i månaden och äter soppa (över tid tillkommer en del barn ocks å).
 ::: indent
 Trevligt så länge det varade.
+:::
+
+::: part
 :::
 
 1990 utkom en bok som jag läser först nu. Den heter ”*Catrine och rättvisan*”och är skriven av journalisten och terapeuten Hanna Olsson. Huvudperson är den mördade och styckade Catrine da Costa, en 27-årig prostituerad med Stockholms innerstad som arbetsplats. Hennes kroppsdelar hittas 1984 på några olika platser i Stockholm (dock aldrig huvudet). Jakten på hennes mördare mynnar ut i dom så kallade styckmordsrättegångarna. En allmänläkare och en obducentåtalas för mordet men frias. Olssons bok är en ursinnig partsinlaga som försöker avtäcka en omfattande rättsröta i handläggandet av mordet. Även Jan Guillou och GW Persson anser att handläggningen är en rättsskandal, men av diametralt motsatt anledning.
@@ -770,6 +823,9 @@ Minne från arbetet:åklagaren Anders Helins ”bevingade”omdöme om ett par a
 ::: indent
 Jag delar i viss mån Hanna Olssons upprördhet.
 :::
+
+::: part
+:::
 <!-- PAGE 209 END -->
 
 <!-- PAGE 210 START -->
@@ -790,6 +846,9 @@ På tal om det har jag alltid varit förtjust i författaren Ernst J ü ngers la
 Formuleringskonst.
 :::
 
+::: part
+:::
+
 En långfilm med Lorrygänget?
 ::: indent
 Varför inte?
@@ -803,7 +862,7 @@ Fotnot: Vid den här tidpunkten är filmbranschen full av skrupelfria månglare 
 
 Eller som jag själv skriver om en producent på den här tiden: *”Han haren eminent förmåga att driva en drillborr genom kraniet på ungabegåvningar och dränera deras talang med ett sugrör av sedlar.”*
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/226.png)
+![Målning av Ove Enervald.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/226.png)
 
 Men alltsåinte Abrahamsen.
 ::: indent

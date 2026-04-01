@@ -36,6 +36,9 @@ Minne från manusarbetet 2: I en scen låter vi skådespelaren Göran Ragnestams
 Det visar en del av hans oerhörda noggrannhet och nyfikenhet.
 :::
 
+::: part
+:::
+
 Här borde jag spärra med en dikt igen, eller lufta det konstanta producerandet med en flisa omvärld. Men omvärlden väller in lite senare, just nu rullar tillvaron på.
 ::: indent
 Jag skulle kunna skriva om nätet, om sociala medier, om den gurglande kvicksand av ondska som börjar anas. Om hur allting är på väg att förändras på ett sätt som vi knappast anar, just nu, just här. Hur tecknen påstupiditet börjar nagga anständigheten i kanten, hur ord börjar byta innebörd, hur mörkermän börjar solka ner dialogerna och smyga in som drypande skuggor i det offentliga rummet.
@@ -43,6 +46,9 @@ Jag skulle kunna skriva om nätet, om sociala medier, om den gurglande kvicksand
 
 ::: indent
 Allt finns här att tolka, redan nu, men jag lagrar det till värre tider.
+:::
+
+::: part
 :::
 
 Cilla och jag blir sugna på att skriva nåt vi aldrig har skrivit: Epok. Historia. 1700-tal. Valet faller på Axel von Fersen, greven och lebemannen. Hans liv innehåller allt. Politik, kärlek, krig, resor och ond bråd död (han stampas ihjäl av en mobb på Slottsbacken 1810 inför tigande soldater).

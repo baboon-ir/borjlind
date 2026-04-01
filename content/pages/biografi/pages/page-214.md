@@ -45,6 +45,9 @@ Förövrigt är det en pladderpjäs där jag excellerar i nonsensdialog med unde
 Ungefär.
 :::
 
+::: part
+:::
+
 Det är en sen eftermiddag och jag är på väg över Mosebacke Torg. Träden är avlövade, Södra Teatern är stängd, ute påterassen skymtar vattnet i fjärran. En gång stod en arg ung man därute och betraktade stadens inlopp, min studentuppsats i svenska handlade om honom. Arvid Falk. Nuär det tomt därute. Själv är jag på väg till en lägenhet intill teatern.
 
 Bakgrund: 1971 utförs en av Sveriges mest spektakulära kassaskåpskupper. Denäger rum vid Vattenfalls kraftverksbygge i Vietas, en vattenrallarby vid Luleälven. Det är en omvänd rififikupp - rånarnaålar sig in under en barack mitt i natten, sågar upp ett golv och svetsar upp kassaskåpets botten. Bytet blir 541.000 kronor (drygt tre miljoner i dagens penningvärde). Vid den här tidpunkten är det Sveriges största kontantrån genom tiderna och förblir olöst tills det preskriberas (kriminologen Jenny Rogneby gör 2020 en true crime-pod om rånet).

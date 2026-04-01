@@ -19,9 +19,17 @@ yearGroup: "2018–2024"
 
 Skriva pånäsor är inte helt oangenämt.
 
+::: part
+:::
+
 ![5225.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5225.jpg)
 
 Det häråret dör Lena Nyman, i februari, efter en längre tids sjukdom. Vi har inte haft nån närmare kontakt sen hennes medverkan i ” Sista Skriket ”, men hennes bortgång skapar en bro till det förflutna. Till dygnen när vi satt på Mallorca och drack vin och pratade om ” Morrhår &Ärtor ”. Hennes särpräglade gestaltnings för måga i alla olika roller i ” Sista Skriket ” sitter kvar. Hennes djupa inlevelse i den text jag skrev till henne, talet till en dotter som hon aldrig fick. Här framför hon den till en samuraj-akt av Stefan Sauk:
+
+[yt-video][https://www.youtube.com/watch?v=-KssaTbDaK8]
+
+::: part
+:::
 
 Såfyller jag 70år och gör en resa igen (att resa är en respons på min isbjörnsläggning, jag måste ut ibland). Den här gången går resan till byn Bassano del Grappa, nedanför berget Monte Grappa. Jagåker dit med Cilla och våra nära vännerÅsa och Timo (jag har fått resan av dom i 70-årspresent). När jag går in i en liten bokhandel leder det ena till det andra: det ena till att jag får veta att det finns andra författare som har bott i den här lilla hålan, författare med internationella vingar. Scott Fitzgerald. Dos Passos. Hemingway, som skrev delar av ” *Farväl till vapnen* ” här. Jag har ingen aning om det. Förmodligen var det grappan som drog dom hit. Eller stadens marterade förflutna.
 ::: indent
@@ -78,6 +86,9 @@ Så vi dricker byns goda drycker och låter det förflutna sjunka ner i det ment
 
 ::: indent
 – Det som händer hela tiden, människor dödar varann.
+:::
+
+::: part
 :::
 
 ” Jag är färdig med manusskrivande ”.

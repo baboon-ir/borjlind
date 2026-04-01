@@ -18,10 +18,18 @@ Av olika skäl blir det ingen ” *Springfloden 3* ”.
 Än så länge.
 :::
 
+::: part
+:::
+
 Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. Påbetongpuckeln nedanför Bellmansgatan har någon sprejat: ” *Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.* ”. Det är 39år sen jag skrev det i ” *Persona Non Grata* ”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
 ::: indent
 Nån ordning får det vara.
 :::
+
+::: part
+:::
+
+[yt-video][https://www.youtube.com/watch?v=TJ6Mzvh3XCc]
 
 Såblir det ett nyttår, 2017, och ett nytt dödsfall, av den sort som känns för tidigt och för fel och för jävligt. Gösta Ekman dör, i april, efter en tids sjukdom. Hanåterhämtar sig aldrig helt från den cancer som sänkte honom någraår tidigare. Hans fru Marie-Louise Ekman har skrivit en säregen och gripande rapportbok från den perioden, ” *Få se om hundarna är snälla ikväll *... ”. Jag orkar bara läsa en tredjedel av boken, den kommer för nära.
 ::: indent

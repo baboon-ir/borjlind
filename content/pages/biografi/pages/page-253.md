@@ -7,6 +7,7 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2018–2024"
 ---
+::: accordion
 **Så glider månen undan och en av springorna i taket drar ett långsamt ärr snett över bröstet på den mycket gamla människans kropp; ett av många tusen andra ärr. Svärd och skärvor, hennes kropp har styckats upp och sytts ihop igen, hål av tysta kulor, hennes kropp är täckt av svarta små förhårdnader. Hennes hud, hon har trampats av så många hästar, hennes hud har smekts och stenats. Hon är en mycket gammal människa, galningar har ätit hennes hjärna, väringar har vaktat hennes blygd. Ingenstans har hon fått vila, det syns på hennes hår, det har för länge sedan vuxit fast i tiden. **
 
 **     Hon har ett mycket vackert ansikte.**
@@ -88,6 +89,7 @@ yearGroup: "2018–2024"
 **     - Ja, viskar mannen ... men vad väntar dom på****?**
 
 **     Ankomsten.”**
+:::
 
 Skulle jag skicka texten till ett resemagasin skulle dom förmodligen anse att *”slutet känns så**, jag vet inte, öppet, man blir lite hängande i luften”**.*
 ::: indent
@@ -101,6 +103,9 @@ Istället återanvänder jag skarabén i vår deckare *”Kallbrand”*:
 **”Veronica satt i soffan och iakttog en mycket stor mörk skalbagge som kröp fram över trägolvet, en skarabé****. Hon visste vad den förebådade. I vissa religioner var den en symbol för liv och återfödelse, själens odödlighet, i andra kallades den för dödsuret. För henne var idén om själens odödlighet ett motbjudande självbedrägeri, hon föredrog att tolka skalbaggens knäppande som ett tickande mot döden. Allt är utmätt, tänkte hon och tittade på sitt ginglas.**
 
 **     Det var tomt.”**
+
+::: part
+:::
 
 Så återskapas det förflutna igen.
 ::: indent

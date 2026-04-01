@@ -27,9 +27,12 @@ Jag blir nyfiken, läser boken och skriver ett manus på 3 x 50 minuter (mitt f�
 
 ![Snillen spekulerar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/172.png)
 
-Serien regisseras av Mats Arehn (som jag kommer att samarbeta med många gånger framöver) och sänds i SVT. Det är min första tv-serie, mitt andra manus efter ”*Kocken*”. Fortfarande är det enbart lustfyllt att skriva i den här formen (det ska i viss mån komma att ändras en bit in på 2000-talet).
+Serien regisseras av Mats Arehn (som jag kommer att samarbeta med många gånger framöver) och sänds i SVT. Det är min första tv-serie, mitt andra manus efter “*Kocken*”. Fortfarande är det enbart lustfyllt att skriva i den här formen (det ska i viss mån komma att ändras en bit in på 2000-talet).
 
-Jag har inrett ett separat hus på vår skärgårdstomt till ”skrivarstuga”.
+::: part
+:::
+
+Jag har inrett ett separat hus på vår skärgårdstomt till “skrivarstuga”.
 ::: indent
 En lyx.
 :::
@@ -62,21 +65,14 @@ På tal om titlar: Jag har alltid varit intresserad av boktitlar. En av dom bäs
 <!-- PAGE 139 END -->
 
 <!-- PAGE 140 START -->
-Tristan Tzara: ”***Vithåriga revolvrar.***”
-
-Stig Claesson: ”***Henrietta ska du också glömma.***”
-
-Bruno KÖijer: ”***Underjordens leende.***”
-
-Mickey Spillane: ”***Natt utan nåd.***”
-
-Lars Ahlin: *”* ***De sotarna! De sotarna!*** *”*
-
-Vladimir Majakovskij: ”***Ett moln i byxor.***”
-
-John Kennedy Tool: ”***Dumskallarnas sammansvärjning.***”
-
-Robert Musil: ”***Mannen utan egenskaper***.”
+Tristan Tzara: “***Vithåriga revolvrar.***”
+Stig Claesson: “***Henrietta ska du också glömma.***”
+Bruno KÖijer: “***Underjordens leende.***”
+Mickey Spillane: “***Natt utan nåd.***”
+Lars Ahlin: *”***De sotarna! De sotarna!***”*
+Vladimir Majakovskij: “***Ett moln i byxor.***”
+John Kennedy Tool: “***Dumskallarnas sammansvärjning.***”
+Robert Musil: “***Mannen utan egenskaper***.”
 
 Egen titel jag gillar: Min och Cilla Börjlinds första deckare ”***Varför saknade ingen Adelita Rivera?***”(senare omdöpt till”*Springfloden*”). Jag är också för tjust i titeln på ett av våra första boksynops: ”***Det förtvivlade mordet på Angel Björk.***”
 
@@ -84,45 +80,48 @@ Den historien börjar så här:
 
 *”Dom stod längst bort vid bardisken, lite för sig själva, mannen skymde kvinnan en aning, hon var 21 år och hette Angel Björk och hade drygt tio minuter kvar att leva. Hon hade ett glas kolsyrat vatten framför sig. Mannen intill henne var Micke Kärrtorp, han drack en öl. En grupp äldre människor diskuterade motorsport vid andra änden av disken, borden omkring var glest besatta, det var en halvdålig kväll på en halvdålig bar på norra delen av Hantverkargatan.*
 
-*     - Min pappa dog två gånger, sa Angel och rörde ett finger i vattenglaset. Första gången var en eldsvåda, hela huset brann ner, det var innan jag var född, sen dog han av en hjärtattack när jag var fjorton. Fast första gången var ett försäkringsbedrägeri, han gömde sig utomlands och mamma fick ut en massa pengar, men sen åkte han fast och satt i fängelse, det var då mamma förstorade brösten. Hon har också dött nu, lever dina föräldrar?*
+*– Min pappa dog två gånger, sa Angel och rörde ett finger i vattenglaset. Första gången var en eldsvåda, hela huset brann ner, det var innan jag var född, sen dog han av en hjärtattack när jag var fjorton. Fast första gången var ett försäkringsbedrägeri, han gömde sig utomlands och mamma fick ut en massa pengar, men sen åkte han fast och satt i fängelse, det var då mamma förstorade brösten. Hon har också dött nu, lever dina föräldrar?*
 
-*     - Ja.*
+*– Ja.*
 
-*     - **Är dom jättegamla?*
+*– Är dom jättegamla?*
 
-*     - Dom är 78.*
+*– Dom är 78.*
 
-*     - När jag blir 78 har jag dött för längesen, ingen i min släkt blir gammal.*
+*– När jag blir 78 har jag dött för längesen, ingen i min släkt blir gammal.*
 
-*     - Varför det?*
+*– Varför det?*
 
-*     - Vet inte, min mormor hade en syster som blev 60 nåt, 62 tror jag, det är det äldsta jag vet, fast sen börjar vi om.*
+*– Vet inte, min mormor hade en syster som blev 60 nåt, 62 tror jag, det är det äldsta jag vet, fast sen börjar vi om.*
 
-*     - Vadå börjar om?*
+*– Vadå börjar om?*
 
-*     - Som andra. Man kan ju inte bara leva och sen dö och sen är det ingenting? Eller hur? Så vi börjar om, ju snabbare vi dör desto fortare börjar vi om, hur gammal är du?*
+*– Som andra. Man kan ju inte bara leva och sen dö och sen är det ingenting? Eller hur? Så vi börjar om, ju snabbare vi dör desto fortare börjar vi om, hur gammal är du?*
 
-*     - 24, sa Micke.*
+*– 24, sa Micke.*
 
-*     - Då började du om för 24 år sen, innan dess kanske du var 78, eller nåt. Hajar du? Det är som indianerna, som dom tror, att det bara går runt, som solen, nu är jag kissnödig. Vet du var toaletten är?*
+*– Då började du om för 24 år sen, innan dess kanske du var 78, eller nåt. Hajar du? Det är som indianerna, som dom tror, att det bara går runt, som solen, nu är jag kissnödig. Vet du var toaletten är?*
 
-*     - Där ... pekade Micke. Till höger in.*
+*– Där ... pekade Micke. Till höger in.*
 
-*     - Tack. Vakta glaset.*
+*– Tack. Vakta glaset.*
 
-*     Vakta glaset, tänkte Micke, det är ju bara vatten? Han iakttog Angel i spegeln bakom disken, hur hon gick mot toaletten, hur några vid borden vände sig om och betraktade henne, hon hade en välplanerad kropp, enkla kläder, höga klackar och lite för mycket smink och så försvann hon ur sikte. Micke vred blicken mot sitt eget ansikte, han var skägglös. Ett tag hade han haft nån form av tunn skepparkrans, sen blev det en mustasch, nu var han slätrakad och hade lätt koppärrig hy. Han var inte speciellt förtjust i sitt utseende och såg ner på ölen framför sig.*
+*Vakta glaset, tänkte Micke, det är ju bara vatten? Han iakttog Angel i spegeln bakom disken, hur hon gick mot toaletten, hur några vid borden vände sig om och betraktade henne, hon hade en välplanerad kropp, enkla kläder, höga klackar och lite för mycket smink och så försvann hon ur sikte. Micke vred blicken mot sitt eget ansikte, han var skägglös. Ett tag hade han haft nån form av tunn skepparkrans, sen blev det en mustasch, nu var han slätrakad och hade lätt koppärrig hy. Han var inte speciellt förtjust i sitt utseende och såg ner på ölen framför sig.*
 
-*     Hur skulle han lägga upp det?*
+*Hur skulle han lägga upp det?*
 <!-- PAGE 140 END -->
 
 <!-- PAGE 141 START -->
-*     Han visste inte riktigt, allt hade gått väldigt snabbt, och oplanerat, och så drack hon vatten? Micke tittade på sina händer, fingrarna, naglarna var ganska avbitna, en av dom var blå**, han hade klämt den när han bröt sig in i Pressbyrån på Thorildsplan, den skulle säkert ramla av.*
+*Han visste inte riktigt, allt hade gått väldigt snabbt, och oplanerat, och så drack hon vatten? Micke tittade på sina händer, fingrarna, naglarna var ganska avbitna, en av dom var blå, han hade klämt den när han bröt sig in i Pressbyrån på Thorildsplan, den skulle säkert ramla av.*
 
-*     Undrar hur gammal hon är, tänkte han?*
+*Undrar hur gammal hon är, tänkte han?*
 
-*     Då kom skriket.*
+*Då kom skriket.*
 
 Det är, visar det sig, en mycket sorglig historia.
+
+::: part
+:::
 
 Carsten och jag bjuds in av Svenska Filminstitutet att medverka i deras kortfilmsserie ”*S80*”(varför vet jag inte riktigt). Vi ska producera en film som handlar om”läget i Sverige”, alltsåett samtidsdokument.
 ::: indent
@@ -149,8 +148,10 @@ För att?
 :::
 
 ::: indent
-Den ”*fyller förväntningarna med fisk*”?
+Den “*fyller förväntningarna med fisk*”?
 :::
+
+[yt-video][https://www.youtube.com/watch?v=yCVdeOVkl78]
 
 Andra uppskattar låten desto mer. Skivbolaget Metronome kontaktar oss och vill ge ut låten som en maxisingel.
 ::: indent
@@ -172,7 +173,12 @@ Föga anade vi att skivan 38 år senare skulle beskrivas såh är av musikrecens
 <!-- PAGE 142 START -->
 Som vanligt: Du är inte medveten om, eller ens intresserad av, det perspektivet när du skapar. Nuet är allt.
 ::: indent
-Låten skaåterbrukas tioår senare, 1990, då en försvarlig del av den svenska musikeliten framför den i tv-programmet ”*Sista Skriket*”(jag kommer dit).
+Låten skaåterbrukas tioår senare, 1990, då en försvarlig del av den svenska musikeliten framför den i tv-programmet “*Sista Skriket*”(jag kommer dit).
+:::
+
+[yt-video][https://www.youtube.com/watch?v=yduvxW6pa8U]
+
+::: part
 :::
 
 Vid den här tiden läser jag fortfarande väldigt mycket böcker (Tove läserännu mer). Jag har fortfarande en hunger efter andras berättelser, andras sätt att formulera sig, andras språk och ordval, andras tankar som jag inte har tänkt själv.
@@ -204,6 +210,9 @@ Det mentala tempot dikterar läsandet.
 Tyvärr ett beteende som eskalerar över åren (idag näst intill beundrar jag människor som kan fösa undan tiden och skapa en glipa för läsande, jag kan det inte ... musik däremot, när som helst).
 :::
 
+::: part
+:::
+
 I mars bjuds jag in till New York för att uppträda i St Marks Church Poetry Project tillsammans med Bruno K och Stefan Nilsson, men innan dess skriver jag en lång text till tidskriften Janus - en ambitiös utgåva som leds av poeten Eric Fylkeson. En mycket besynnerlig text som jag (såh är i eftertankens blanka blekhet)är mycket förbrylladöver. Den heter ”*Trumma malen ur sjön*”:
 
 **”Gråt inte, Eric, nu när vi äntligen har lärt glömma varann, njut istället: ett gott förlöjligande stärker självförtroendet och en rejäl driftkucku kan inte skattas i pengar. Framsteg från arvsynden vars sexuella kärlek medger: bredare myt! samverkande impulser! döm om min förvåning!**
@@ -212,29 +221,36 @@ I mars bjuds jag in till New York för att uppträda i St Marks Church Poetry Pr
 <!-- PAGE 142 END -->
 
 <!-- PAGE 143 START -->
-**Funktion innebär att varje handling har ett djupare jämviktsläge som leder till döden, dess stabilitet och psykiska nödtorft - det faktum att disharmoni förorsakar en lugn inre konstitution befriar effektivt full funktionsduglighet: vi vill video, sa han och somnade i fallskärmen.**
+::: accordion
+Funktion innebär att varje handling har ett djupare jämviktsläge som leder till döden, dess stabilitet och psykiska nödtorft - det faktum att disharmoni förorsakar en lugn inre konstitution befriar effektivt full funktionsduglighet:
 
-**     Gråt inte, Eric, utan begär: fullständigare befrielse till dess herraväldet lättar trälarbetets bördor och öppnar skönhetens befriande aktivitet.**
+vi vill video, sa han och somnade i fallskärmen.
 
-**     ”Alltså****, jag ska säga er att jag känner killar som skulle få er att hoppa ut genom fönstret, alltså” - sa poeten och satte tillbaka nappen. Konsten att kunna driva med småhandlarna är en förutsättning för cyklopernas kollaps: fradgan hos en förfördelad är som champagne en bröllopsmorgon.**
+Gråt inte, Eric, utan begär: fullständigare befrielse till dess herraväldet lättar trälarbetets bördor och öppnar skönhetens befriande aktivitet.
 
-**    Fåfänglighet, påbyggda kärleksrop - stenbrott mellan könen, ett element av tvång inneslutet i övergången mellan primitiva och anpassade fragment - uppfinningen av symbolik är ett gemensamt rum evigt utom hörhåll, borta ur sinnet. Sexuellt mättad hånfullhet betvingar strukturella skenhandlingar och betingar kulturella omvandlingar. Alla frestelser är förnekelser av den döda materien och omväxlingen är dess attribut: alla arvingar, alla vargungar eller varje gynnad grupp eller klass (som det fria lystna djuret med en osläcklig bunden energi) förlänger brunsttiden inom ramen för sitt kulturella arv.**
+“Alltså, jag ska säga er att jag känner killar som skulle få er att hoppa ut genom fönstret, alltså” - sa poeten och satte tillbaka nappen. Konsten att kunna driva med småhandlarna är en förutsättning för cyklopernas kollaps: fradgan hos en förfördelad är som champagne en bröllopsmorgon.
 
-**     Vad vi behöver i det här landet förutom medfött mod: rena rama personangrepp. Tungan har svällt i käften på dom poetiska rövslickarna och pederasterna på parnassen förmår på sin höjd fjärta: Eric, kom ihåg att om inte upphovsmannen håller så håller inte hans grejer, det har dom aldrig gjort - en pederast med ett sprakande bildspråk är och förblir förbehållen pederastälskare.**
+Fåfänglighet, påbyggda kärleksrop - stenbrott mellan könen, ett element av tvång inneslutet i övergången mellan primitiva och anpassade fragment - uppfinningen av symbolik är ett gemensamt rum evigt utom hörhåll, borta ur sinnet. Sexuellt mättad hånfullhet betvingar strukturella skenhandlingar och betingar kulturella omvandlingar. Alla frestelser är förnekelser av den döda materien och omväxlingen är dess attribut: alla arvingar, alla vargungar eller varje gynnad grupp eller klass (som det fria lystna djuret med en osläcklig bunden energi) förlänger brunsttiden inom ramen för sitt kulturella arv.
 
-**     Vi vet, du och jag Eric, att det är personerna som är viktiga - 1968 slog jag fast: jag ställer inte problem under debatt, jag ställer mig själv. Att försöka ligga så nära min egen verklighet som möjligt i det jag gör, så att språket bara blir en kommunikativ förlängning av mig själv.**
+Vad vi behöver i det här landet förutom medfött mod: rena rama personangrepp. Tungan har svällt i käften på dom poetiska rövslickarna och pederasterna på parnassen förmår på sin höjd fjärta: Eric, kom ihåg att om inte upphovsmannen håller så håller inte hans grejer, det har dom aldrig gjort - en pederast med ett sprakande bildspråk är och förblir förbehållen pederastälskare.
 
-**    Ömhet är människans möjlighet genom utopier, strävanden och slutgiltiga konstverk. Oförmågan existerar i alla sundare existenser vilka reduceras till kvantiteter inför själens mångfaldiga rörlighet - tiny tim är ett bergsäkert bevis på det uppenbaras gudomlighet och det gudomligas banalitet.**
+Vi vet, du och jag Eric, att det är personerna som är viktiga - 1968 slog jag fast: jag ställer inte problem under debatt, jag ställer mig själv. Att försöka ligga så nära min egen verklighet som möjligt i det jag gör, så att språket bara blir en kommunikativ förlängning av mig själv.
 
-**     Den enskilda människan är alltid centrum i sin egen tillvaro. Det är hennes enda möjlighet att värdera sin omgivning. Tillvaron är ett komplex av individuella centrum. Först när människan accepterar sig själv som centrum kan hon helt och fullt bli en fruktbar detalj i en kollektiv helhet. Varje gerillarörelse är uppbyggd av enskilda centrum med egen initiativförmåga, samlade i en mosaiklik gemenskap. Samhällsvarelser skiljer sig från de flesta andra organismer genom sammansattheten hos sina behov: personligheten fullbordas alltid i begynnelsen och resten är av automatisk natur.**
+Ömhet är människans möjlighet genom utopier, strävanden och slutgiltiga konstverk. Oförmågan existerar i alla sundare existenser vilka reduceras till kvantiteter inför själens mångfaldiga rörlighet - tiny tim är ett bergsäkert bevis på det uppenbaras gudomlighet och det gudomligas banalitet.
 
-**     Det handlar om mod och feghet, Eric. Att ställa ut sig själv i ljuset. Det tar tid, det tar nederlag och det tar monumental människokärlek att gå på händerna utan handskar. För att kunna uppnå himlakropparna i ett ögonblick av skenbar triumf ser sig människan tvungen att vägra yttervärldens hysteri - människan uttrycker rättfärdighet och sporrar visionerna genom jagets mest exalterade drömmar, vrålande in i sitt animala öde: broderskapet fjättrar vid vinst eller förlust.**
+Den enskilda människan är alltid centrum i sin egen tillvaro. Det är hennes enda möjlighet att värdera sin omgivning. Tillvaron är ett komplex av individuella centrum. Först när människan accepterar sig själv som centrum kan hon helt och fullt bli en fruktbar detalj i en kollektiv helhet. Varje gerillarörelse är uppbyggd av enskilda centrum med egen initiativförmåga, samlade i en mosaiklik gemenskap. Samhällsvarelser skiljer sig från de flesta andra organismer genom sammansattheten hos sina behov: personligheten fullbordas alltid i begynnelsen och resten är av automatisk natur.
 
-**     Eric, kliv ut på scenen, elektrifiera stringensen och slit huden av strandraggarna.**
+Det handlar om mod och feghet, Eric. Att ställa ut sig själv i ljuset. Det tar tid, det tar nederlag och det tar monumental människokärlek att gå på händerna utan handskar. För att kunna uppnå himlakropparna i ett ögonblick av skenbar triumf ser sig människan tvungen att vägra yttervärldens hysteri - människan uttrycker rättfärdighet och sporrar visionerna genom jagets mest exalterade drömmar, vrålande in i sitt animala öde: broderskapet fjättrar vid vinst eller förlust.
 
-**     Gråt inte, Eric, utan fråga dig dagligen: Är det biljetter till fotbollsmatcher? Bilar? Hattar? Hus och Ull? Hur skapades dessa villkor? Hur inträffade detta? Vem kan man vända sig till? Varför är rosor så viktiga? Hur kan man veta det? Varför finns det så mycket? Sambandet mellan den politiska och litterära situationen uppfattar jag så här? I romanens form vill jag framföra en socialistisk grundsyn? För egen del ser jag det som en uppgift? Någon fattigmanskultur existerar inte i det här hårt kommersialiserade landet? Med stor sorg i hjärtat har jag under de senaste tvååren gjort den grymma erfarenheten att förfäktandet numer enbart handlar om billiga floskler? Är våldtäkt en viktig uppgift genom sitt visionära barbari? Skildrar Mao sanningen om den namnlösa kinesens situation? Skriver Norman Mailer? Ligger tyngdpunkten under bältet? Finns det gott om?”**
+Eric, kliv ut på scenen, elektrifiera stringensen och slit huden av strandraggarna.
+
+Gråt inte, Eric, utan fråga dig dagligen: Är det biljetter till fotbollsmatcher? Bilar? Hattar? Hus och Ull? Hur skapades dessa villkor? Hur inträffade detta? Vem kan man vända sig till? Varför är rosor så viktiga? Hur kan man veta det? Varför finns det så mycket? Sambandet mellan den politiska och litterära situationen uppfattar jag så här? I romanens form vill jag framföra en socialistisk grundsyn? För egen del ser jag det som en uppgift? Någon fattigmanskultur existerar inte i det här hårt kommersialiserade landet? Med stor sorg i hjärtat har jag under de senaste tvååren gjort den grymma erfarenheten att förfäktandet numer enbart handlar om billiga floskler? Är våldtäkt en viktig uppgift genom sitt visionära barbari? Skildrar Mao sanningen om den namnlösa kinesens situation? Skriver Norman Mailer? Ligger tyngdpunkten under bältet? Finns det gott om?
+:::
 
 Reflektion: Har jag verkligen skrivit den här texten?
+
+::: part
+:::
 
 St Marks Church Poetry Project startar 1966 i Bowery på Manhattan - en scen för ny och experimentell poesi, med workshops, readings och ett regelbundet nyhetsbrev. Projektet drivs enbart av poeter. Över tid har författare som Allen Ginsberg, Frank O ´ Hara, W. H. Auden och Anne Waldman framträtt i kyrkan.
 ::: indent
@@ -248,12 +264,18 @@ Kvällen är vikt enkom för oss.
 
 <!-- PAGE 144 START -->
 ::: indent
-Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jagälskarögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett brak som får rosettfönstren att skallra. Jag tittar på Stefan. Han ler. Jag går fram mot scenkanten, bugar och börjar framföra min dikt ”*Vem kan tatuera ett telefonnummer över min skräck?*”
+Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jagälskarögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett brak som får rosettfönstren att skallra. Jag tittar på Stefan. Han ler. Jag går fram mot scenkanten, bugar och börjar framföra min dikt “*Vem kan tatuera ett telefonnummer över min skräck?*”
 :::
+
+[yt-video][https://www.youtube.com/watch?v=f6-X_PTxQW0]
 
 Sågör Stefan ett hommage till Chopin:
 
+[yt-video][https://www.youtube.com/watch?v=zik2fXpWm6M]
+
 Sen tar Bruno vid:
+
+[yt-video][https://www.youtube.com/watch?v=dhYZOjG3W6Q]
 
 Det blir en magisk natt, utskurna svenskar i hjärtat av Bowery. Poesi, kroppar och röster, ord, orgel, andäktig tystnad, smådarrande fåglar uppkrupna påförstenade kristusgestalter, svag ringlande rökelse genom luften.
 ::: indent
@@ -261,6 +283,9 @@ Poeten och aktivisten Bob Holman beskriver framträdandet såh är i projektets 
 :::
 
 **”On Monday, March 10, the St. Marks Poetry Project was invaded by three Swedes who gave a poetry performance that invigorated and enriched not only the audience but the art of poetry event as well. Rolf Borjlind´s epic poem pushed the limits of poetry to the depths of the oceans. Bruno Oijer´s poems bit into the apple of New York´s eye to the painful core. Stefan Nilsson´s keyboards held the world together atom by atom, note by note. For almost three hours the audience barely moved, but were all moved by the performance - transported to a place no postcard can depict. Wish you were there.”**
+
+::: part
+:::
 
 Hemma igen.
 ::: indent
@@ -371,6 +396,9 @@ Kanske inte en tillgång i regisammanhang, tänker jag. Men kanske gångbart i a
 
 ::: indent
 Släktmiddagar t.ex?
+:::
+
+::: part
 :::
 <!-- PAGE 145 END -->
 
@@ -589,9 +617,15 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Om kroppen som torkade.**
 :::
 
+::: part
+:::
+
 Tidskriftens huvudtema det här numret är André Breton, den gamle surrealisten.
 ::: indent
 Allt hänger ihop.
+:::
+
+::: part
 :::
 
 Jag har vandrat runt ett tag nu i andra utmarker, mer befrämjande för det som har legat i träda. När jag får ett erbjudande från Sveriges Radio om att skriva ett entimmes satirprogram helt utan skygglappar blir det attraktivt igen (jag vet, syndaren lockas till synden, det är där det kittlar).
@@ -623,9 +657,12 @@ Etiska skäl har fått ge vika för ”kravet pågod underhållning”, det tarv
 Patetiskt.
 :::
 
-Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sveriges Radio. Vi döper det till ”*Caligula says it´s ok*”. Manuset består av en dialog mellan tvåpersoner och framförs av Claire Wikholm och Sten Ljunggren. Dialogen är uppbyggd av fritt urklippta meningar och ord ur alla Vargtidningarna (enligt dada-modell). Hela fram för andet ackompanjeras av elektronmusikern Sten Hanssons ljudslingor.
+Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sveriges Radio. Vi döper det till “*Caligula says it´s ok*”. Manuset består av en dialog mellan tvåpersoner och framförs av Claire Wikholm och Sten Ljunggren. Dialogen är uppbyggd av fritt urklippta meningar och ord ur alla Vargtidningarna (enligt dada-modell). Hela fram för andet ackompanjeras av elektronmusikern Sten Hanssons ljudslingor.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/171.png)
+![Caligula says it´s ok.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/171.png)
+
+::: part
+:::
 
 Det häråret, 1981, utkommer en bok som heter ”*Prostitution i Sverige*”. Denär resultatet av en utredning som staten tillsatte 1977. Sakkunnig i utredningen är Sven-Axel Månsson. En av deltagarna är kriminologen Leif GW Persson.
 ::: indent
@@ -745,9 +782,9 @@ Jag har tryckt ner två stycken i min resväska. En tulltjänsteman upptäcker d
 Men det var värt försöket.
 :::
 
-Tillbaka i Sverige börjar jag påpjäsen. För att bottna ordentligt i det jag vill beskriva läser jag också GW Perssons böcker”*Horor, hallickar och torskar*”och”*Profitörerna*”, Sven-Axel Månssons långa skrift ”*Könshandelns främjare och profitörer*”samt konstnären Stig Danielsons magiska konstbok”*Ömhetens kaniner*”- teckningar och texter av och om dom prostituerade han umgåtts med under flera år.
+Tillbaka i Sverige börjar jag påpjäsen. För att bottna ordentligt i det jag vill beskriva läser jag också GW Perssons böcker”*Horor, hallickar och torskar*”och”*Profitörerna*”, Sven-Axel Månssons långa skrift “*Könshandelns främjare och profitörer*”samt konstnären Stig Danielsons magiska konstbok”*Ömhetens kaniner*”- teckningar och texter av och om dom prostituerade han umgåtts med under flera år.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/192.png)
+![Ömhetens kaniner (beskuren).](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/192.png)
 
 Jag kokar ner allt material till ett drygt två timmar långt manus, diskuterar med Sten, skriver om, vässar texten. Sten sätter upp pjäsen i Luleå. På scen agerar Sara Arnia, Eva Munter, Gustav Levin och Carl Magnus Dellow.
 ::: indent
@@ -828,7 +865,10 @@ Papphammarsketcherna klipps senare ihop till en långfilm och visas på biograf.
 
 I backspegeln: Papphammar var i vissa avseenden Göstas alter ego. Mannen som gör vad som faller honom in (i en linje från Kolingen, Rit-Ola, Storm P och framför allt Buster Keaton). Dessutom var karaktären hans egen, Hasse & Tage var inte inblandade. Under många år kreerade Gösta gestalter under deras paraply. Papphammar bröt ut honom ur den hegemonin.
 
- ”*Morrhår & Ärtor*”fullföljde utbrytningen.
+ “*Morrhår & Ärtor*”fullföljde utbrytningen.
+
+::: part
+:::
 
 Under arbetet med Papphammar har Carsten haft en separatutställning i Västtyskland med namnet”*Kunst Is Wertvoller Als Wurst*”. Det borde ha varit ”*Als Bratwurst*”. Strax efter har han sin tredje separatutställning på Moderna Museet. Den heter ”*Vargens Öga*”.
 
@@ -866,18 +906,28 @@ I all förtrolighet.
 Medverkande är Carsten, jag själv, Stefan Nilsson och Malla. I föreställningen framför vi en poetisk ritual som inleds med:
 :::
 
-::: poem
-**KLOCKAN KLÄMTAR FÖR DIG**
-**(och på golvet dansar ett slaktdjur)**
+::: center
+### KLOCKAN KLÄMTAR FÖR DIG
+*(och på golvet dansar ett slaktdjur)*
 :::
 
 **”Vi söker ett namn på världen. Vi som föddes åtta trappor ner, där Gud aldrig han tända. Vi som lever på fallna änglar och våt poesi. På neonskratt och mjuk befruktning. Åtta trappor ner, där natten är en oskriven dikt av Artaud. Där dyrbart glasflis fraktas under huden. **
 
-**Där vi håller ett leende i handen och en varm fågelunge i munnen. Vi lever i ett land av längtan. Vi är rotlösa reflexer av ett samhälle som hatar sitt eget öga. Ett samhälle som förnekar sina visioner och fruktar det bedragna ansiktet. Ett samhälle som förnedrar sin själ och spottar på sitt samvete. Vi lever i ett reservat för slaktdjur. Den dunkande jordskorpan håller oss medvetna. Vi lyssnar uppgivet på dom urskrapade magmunnarnas sjungande testamente. Hur långt kan det gå****? Hur mycket tål vi? Hur mycket orkar våra plågade drömmar? Och vad händer när hjärnan lossnar ur fästet och faller som en glödande granat mot hjärtat? Vad händer när vi står där med aska och trasiga tegelstenar i händerna och måste bygga världens högsta skrik? Vad händer med ett samhälle där människovärdet hängs på slaktkrok och släpas genom elektriskt vatten?”**
+::: accordion
+**Där vi håller ett leende i handen och en varm fågelunge i munnen. Vi lever i ett land av längtan. Vi är rotlösa reflexer av ett samhälle som hatar sitt eget öga.**
+
+**Ett samhälle som förnekar sina visioner och fruktar det bedragna ansiktet. Ett samhälle som förnedrar sin själ och spottar på sitt samvete. Vi lever i ett reservat för slaktdjur. Den dunkande jordskorpan håller oss medvetna. Vi lyssnar uppgivet på dom urskrapade magmunnarnas sjungande testamente. Hur långt kan det gå****? Hur mycket tål vi? Hur mycket orkar våra plågade drömmar? Och vad händer när hjärnan lossnar ur fästet och faller som en glödande granat mot hjärtat? Vad händer när vi står där med aska och trasiga tegelstenar i händerna och måste bygga världens högsta skrik? Vad händer med ett samhälle där människovärdet hängs på slaktkrok och släpas genom elektriskt vatten?”**
+:::
+
+::: part
+:::
 
 Fotnot: Det finns varelser på andra sidan jorden som ocksågillar Gateway:
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/239.jpeg)
+
+::: part
+:::
 
 Under den här perioden skriver jag ocksåtre filmtreatment påuppdrag av olika producenter. Det första baseras på”*Lustans professor*”av Philip Roth. Rätt snabbt slås jag av hur gubbsjuk berättelsenär. Eller hur sunkig blicken påkvinnorär. Samma sak när jag skriver nästa, baserat på”*Skratt i mörkret*”av Nabokov. Jag ifrågasätter inte dom”litterära”kvaliteterna, men när man bryter ner en bok i treatmentform är det mycket som avslöjas. Av både dramaturgiska håligheter och en del lätt misogyna drag (som när jag försökte läsa Houellebecqs senaste roman”*Serotonin*”, en extremt gubbsjuk berättelse formulerad i ett ospänstigt språk).
 ::: indent
@@ -885,6 +935,11 @@ Inget av dessa tvåtreatment vidareutvecklas till manus, eventuellt beroende på
 :::
 
 ::: indent
-Det tredje boken är betydligt friskare och roligare: ”*En småländsk tragedi*” av snillet Frithiof Nilsson Piraten. Den hade jag gärna sett som film. Men det kommer inte heller till skott -över tid kommer jag att skriva ganska många treatment och synopsis som aldrig realiseras, delvis på grund av varierande kvalitépå mitt eget arbete, delvis för att filmbranschen är en gyttjepöl på många sätt, lite som Robert Rauschenbergs Mud Mouse:
+Det tredje boken är betydligt friskare och roligare: “*En småländsk tragedi*” av snillet Frithiof Nilsson Piraten. Den hade jag gärna sett som film. Men det kommer inte heller till skott -över tid kommer jag att skriva ganska många treatment och synopsis som aldrig realiseras, delvis på grund av varierande kvalitépå mitt eget arbete, delvis för att filmbranschen är en gyttjepöl på många sätt, lite som Robert Rauschenbergs Mud Mouse:
+:::
+
+[yt-video][https://www.youtube.com/watch?v=YrJanM2GGh4]
+
+::: part
 :::
 <!-- PAGE 153 END -->

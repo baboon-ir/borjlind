@@ -11,6 +11,9 @@ Själv föredrar jag pendangen till den målningen:
 
 ![203.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/203.png)
 
+::: part
+:::
+
 Livet och skrivandet går vidare.
 ::: indent
 Jag kontaktas av tvågrävande journalister som jag har stor respekt för, Tomas Dillén och Björn Anderberg. SVT har beställt en tv-serie i tre delar som ska handla om ekonomisk brottslighet, närmare bestämt den som kan ringas in i ” *Den gyllene triangeln* ”. Det handlar inte opium i dom thailändska bergen, utan om grov kriminalitet baserad runt Norrmalmstorg i Stockholm. Tomas vill ha hjälp att skriva manuset. Jag tänder påidén och läser in mig på ett digert material. Manuset blir klart ett par månader senare och presenteras för SVT. Såhär lyder introduktionen:
@@ -37,6 +40,9 @@ Mycket jobb down the drain.
 
 Istället skriver jag manus till ett poesi- och musikprogram för SR i samarbete med Stefan Nilsson. Det heter ” *Drömmar i sommarnatten* ”. Långt från träsket runt Norrmalmstorg.
 
+::: part
+:::
+
 Roligt händer nästaår: Minäldste son Joakim har en av huvudrollerna i en tv-serie som heter ” *Xerxes* ”. Peter Schildt regisserar. Jag är imponerad av Jockes prestation, han har en naturlig trovärdighet som inte är såvanlig (även om det är extremt svårt att se en sånärstånde människa gestalta en annan människa, svårt att filtrera bort Joakim).
 
-![247.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/247.png)
+![Ynglingen längst till höger.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/247.png)

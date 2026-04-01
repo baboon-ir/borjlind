@@ -16,6 +16,9 @@ Det blir en egendomlig liten serie.
 Stefan och jag går ocksåvidare från ” *Tillfällgt Avbrot* t ” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han  bemöter det mesta i tillvaron med sitt specialuttryckt ” *Aaahhh ... jag är skeptisk!* ”Även det ett uttryck som fäster långt utanför tv-rutan.
 :::
 
+::: part
+:::
+
 Tidigare på året har jag och Stefan skrivit en helaftonspjäs till Scen Offside, en nystartad teater i kvarteren bakom LO-borgen. Pjäsen heter ” *Smutsiga Ögon* ”,  en enmans för eställning.
 
 ![291.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/291.jpeg)

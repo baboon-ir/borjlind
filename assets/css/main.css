@@ -505,10 +505,10 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
     padding-inline: var(--rb-inline-inset-mobile);
   }
 
-  /* Indent: keep indent + text inset */
+  /* Indent: first-line indent + text inset */
   .rb-bio-page .rb-prose .rb-indent {
-    padding-inline-start: calc(2em + var(--rb-inline-inset-mobile));
-    padding-inline-end: var(--rb-inline-inset-mobile);
+    text-indent: 2em;
+    padding-inline: var(--rb-inline-inset-mobile);
   }
 
   /* Figures & images: contained */
@@ -840,6 +840,34 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   border-color: var(--color-light);
 }
 
+/* Skip-ahead button — matches accordion summary btn */
+a.rb-skip-btn,
+a.rb-skip-btn:visited,
+a.rb-skip-btn:active {
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.6rem 0;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+  background: transparent;
+  border-top: 0.5px solid var(--rb-border);
+  border-bottom: 0.5px solid var(--rb-border);
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+a.rb-skip-btn:hover {
+  color: var(--color-light);
+  border-color: var(--color-light);
+  text-decoration: none;
+}
+
 .rb-accordion-content {
   color: var(--color-light);
   font-size: 1.0625rem;
@@ -897,13 +925,14 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   margin: 112px 0;
 }
 
-.rb-part { margin-top: 12rem; margin-bottom: 6rem; }
+.rb-part { margin-top: 68px; margin-bottom: 68px; }
 
 /* ============================================================
    Section 13 — Markdown containers
    ============================================================ */
 
-.rb-center { text-align: center; margin-top: 1.5rem; margin-bottom: 1.5rem; }
+.rb-center { text-align: center; margin-top: 4rem; margin-bottom: 1.5rem; }
+.rb-center h3 { margin-bottom: 0.25rem; }
 
 .rb-fullpage {
   min-height: 75vh;
@@ -914,7 +943,28 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   text-align: center;
 }
 
-.rb-indent { margin-top: 1rem; margin-bottom: 1rem; padding-left: 2em; }
+.rb-indent { margin-top: 1rem; margin-bottom: 1rem; text-indent: 2em; }
+
+/* Footnote container */
+.rb-footnote {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  padding-top: 0.75rem;
+}
+
+.rb-footnote::before {
+  content: '';
+  display: block;
+  width: 50%;
+  border-top: 0.5px solid var(--rb-border);
+  margin-bottom: 0.75rem;
+}
+
+.rb-footnote p {
+  font-size: 0.9rem;
+  color: var(--rb-text-muted);
+  margin: 0;
+}
 
 .rb-poem::before,
 .rb-poem::after {
@@ -937,7 +987,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 .rb-part {
   border: none;
   border-top: 0.5px solid var(--rb-border);
-  margin: 3rem 20%;
+  margin: 68px 20%;
 }
 
 .rb-video {
@@ -1329,12 +1379,13 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
 .rb-bio-reader-wrap {
   width: 100%;
-  padding-bottom: calc(4rem + env(safe-area-inset-bottom));
+  overflow-x: clip;
 }
 
 .rb-bio-container {
   max-width: 628px;
   margin: 0 auto;
+  padding-bottom: calc(4rem + env(safe-area-inset-bottom));
   position: relative;
   -webkit-user-select: text;
   user-select: text;
@@ -1409,7 +1460,6 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 }
 
 /* Keep image blocks and caption text on the same reader page/column */
-.rb-segment figure { margin-bottom: 1.25rem; }
 
 /* Keep poem blocks intact in normal flow */
 .rb-segment .rb-poem,

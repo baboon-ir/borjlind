@@ -43,6 +43,9 @@ Med detta sagt har du som manus författareändåingen makt över hur din fiktio
 Vi har skrivit flera andra krimihistorier där verkligheten efteråt har hunnit ikapp fiktionen, men det ligger i längdriktningen - som författare fungerar du delvis som katalysator för fenomen som är pågång i samhället, din lyhördhet och fantasi kan föreställa sig det som komma skall.
 :::
 
+::: part
+:::
+
 Sauk och jag kan inte riktigt släppa alla hans ” gestalter ” genomåren. Han har kontakter på Universal Pictures Nordic. Han föreslår att vi ska spela in en film direkt för videomarknaden. Med Sauk i huvudrollen och ett antal kompisar i olika andra roller. UPN tänder påidén och vi sätter igång. Filmen produceras av Deadline, mitt och Cillas bolag, och produceras av Cilla.
 
 Vårt hem förvandlades till produktionskontor igen.

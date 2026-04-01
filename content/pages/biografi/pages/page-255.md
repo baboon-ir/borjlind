@@ -45,5 +45,7 @@ Enligt mig: Den bästa av dom fem filmer vi skriver är ” *Europa Blues* ” o
 
 Reflektion: Strulet och svårigheterna med Dahl-projektet bidrar påtagligt till Cillas och mitt beslut att börja skriva egna böcker, vilket vi gör strax därefter.
 
-Några frågor, en vargtimme när sömnen tuggar pålakanet och liemannen går med sin harskramla genom natten:
+::: part
+:::
 
+Några frågor, en vargtimme när sömnen tuggar pålakanet och liemannen går med sin harskramla genom natten:

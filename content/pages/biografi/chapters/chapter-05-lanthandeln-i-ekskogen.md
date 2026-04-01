@@ -339,7 +339,10 @@ Efter en stund ombeds jag av en anställd påvaruhuset att följa med upp till d
 Jagåtervänder till mitt säljställe och bjuder ut min bok utan fortsatta störningar.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/55.jpg)
+![Ordet är ute.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/55.jpg)
+
+::: part
+:::
 
 En dag får jag en intressant bok av en väninna. Denär skriven av den amerikanske psykologen Arthur Janov och heter *”Primalskriket”**. * Huvudsakligen handlar den om förträngning, att orsaken till psykiska problem beror på saker man har förträngt i barndomen. Janov hävdar att hans primalterapi kan lösa problemen. Utan att uppleva mig som direkt psykiskt sjuk slukar jag ändå boken, med tanke på alla svackor jag har från barndomen.
 ::: indent
@@ -350,14 +353,22 @@ Det hjälper inte så mycket.
 En annan som slukas av Janovs teorier är John Lennon. Förmodligen är hans berömda och smärtsamma låt *”Mother”* en direkt effekt av terapin.
 :::
 
-Många år senare plockar jag upp Janovs primalskriksteorier i en scen i tv-serien* ”Graven”*:
+Många år senare plockar jag upp Janovs primalskriksteorier i en scen i tv-serien* “Graven”*:
 
-Det häråret startar också en tidskrift som heter ”*Folket i Bild/Kulturfront*”, med ett antal profilerade skribenter. Jan Guillou, Jan Myrdal, Peter Bratt med flera. Tidskriften får ett rejält scoo påret efter med det som kallas ”IB-affären”- man avslöjar att det socialdemokratiska partiet har en egen hemlig underrättelseorganisation som bland annatägnar sigåt att registrera vänstersympatisörer, främst”kommunister”. Avslöjandet renderar författarna Guillou och Bratt fängelsestraff.
+[yt-video][https://www.youtube.com/watch?v=allrD1_vbOs]
+
+::: part
+:::
+
+Det häråret startar också en tidskrift som heter “*Folket i Bild/Kulturfront*”, med ett antal profilerade skribenter. Jan Guillou, Jan Myrdal, Peter Bratt med flera. Tidskriften får ett rejält scoo påret efter med det som kallas “IB-affären”- man avslöjar att det socialdemokratiska partiet har en egen hemlig underrättelseorganisation som bland annatägnar sigåt att registrera vänstersympatisörer, främst”kommunister”. Avslöjandet renderar författarna Guillou och Bratt fängelsestraff.
 <!-- PAGE 46 END -->
 
 <!-- PAGE 47 START -->
 ::: indent
 Jag medverkar i tidningen 1988 med texten *”Skrattar bäst som skrattar sist.”*
+:::
+
+::: part
 :::
 
 Sen någraår ingår jag i en musikgrupp som heter ”*Sergeant Honolulu Double Fucking Five*”. Gruppen består av fem medlemmar och är en utlöpare från gymnasietiden på Lidingö. Själv spelar jag gitarr, skriver texter och sjunger. Gruppen framträder på olika pubar och musikscener i Stockholm under flera år. Främst påvispråmen Storken och Mosebacke Etablissemang. Vårt musikaliska utbud består till stor del av satiriska pastischer på olika musikgenrer. Bland annat gör vi en version av den populära hawaianska slangdängan ”*Puti Puti*”. En av våra sånger, ”*Små blå duvor*” tävlar på Svensktoppen.
@@ -372,6 +383,9 @@ Skivproducenten Gert Palmqvist spelar in en lp med oss på Metronome.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/58B.png)
 
+::: part
+:::
+
 Det häråret hittar Carsten en annons från Försvarsmakten som kommer att fåföljdverkningar för både honom och mig. Främst för honom.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/59.png)
@@ -381,11 +395,11 @@ Det är en annons som förklarar hur man ska agera i händelse av ett atombombsa
 För att försäkra sig om bilden tar han patent på den.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/153.png)
+![Lupus Ultra](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/153.png)
 
 Redan sammaår dyker hattmannen upp i en stor målning av Carsten.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/60.png)
+![Vargmålningen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/60.png)
 
 Carsten hittar också en artikel om en märklig händelse:
 
@@ -393,11 +407,14 @@ Carsten hittar också en artikel om en märklig händelse:
 <!-- PAGE 47 END -->
 
 <!-- PAGE 48 START -->
-**”Vargpojken, som tros vara i 35-****årsåldern, avled igår efter 20 år på ett sjukhus i Lucnow i norra Indien. Lång tid hade han lidit av kroniska andningsbesvär och epilepsi. Mysteriet med Vargpojken började 1953 då en spårvägare fann en naken utmärglad pojke ihopkrupen bakom några väskor på en avlägsen station. Pojken omhändertogs på sjukhus där läkarna med stigande förtjusning observerade hans beteende. Han kunde inte gå upprätt, men sprang däremot mycket snabbt på alla fyra. Han åt endast frukt och rått kött och vägrade intaga kokt föda. Pojken kunde bara utstöta djurliknande läten och när han blev rädd eller arg morrade han och visade tänder som en varg. Under alla år på sjukhuset gjorde Vargpojken ytterst små framsteg. Han lärde sig sova i en sängbur och gick med på att bära vissa klädesplagg, men lärde sig aldrig att tala och förblev fasansfullt skygg. Den enda han någon gång log mot var den sköterska som behandlade honom. Under alla år har vetenskapsmän och politiker tvistat om den gåtfulle pojken. Var han verkligen en varg? Uppfostrad i djungeln? En del svarar otvunget ja på dessa frågor. Andra har spridit ut rykten om att vargpojken i själva verket skulle vara en imbecill 13-****åring som föräldrarna övergivit med flit för att staten skulle ta hand om honom. Vargpojken tog hemligheten med sig i döden.”**
+**”Vargpojken, som tros vara i 35-årsåldern, avled igår efter 20 år på ett sjukhus i Lucnow i norra Indien. Lång tid hade han lidit av kroniska andningsbesvär och epilepsi. Mysteriet med Vargpojken började 1953 då en spårvägare fann en naken utmärglad pojke ihopkrupen bakom några väskor på en avlägsen station. Pojken omhändertogs på sjukhus där läkarna med stigande förtjusning observerade hans beteende. Han kunde inte gå upprätt, men sprang däremot mycket snabbt på alla fyra. Han åt endast frukt och rått kött och vägrade intaga kokt föda. Pojken kunde bara utstöta djurliknande läten och när han blev rädd eller arg morrade han och visade tänder som en varg. Under alla år på sjukhuset gjorde Vargpojken ytterst små framsteg. Han lärde sig sova i en sängbur och gick med på att bära vissa klädesplagg, men lärde sig aldrig att tala och förblev fasansfullt skygg. Den enda han någon gång log mot var den sköterska som behandlade honom. Under alla år har vetenskapsmän och politiker tvistat om den gåtfulle pojken. Var han verkligen en varg? Uppfostrad i djungeln? En del svarar otvunget ja på dessa frågor. Andra har spridit ut rykten om att vargpojken i själva verket skulle vara en imbecill 13-åring som föräldrarna övergivit med flit för att staten skulle ta hand om honom. Vargpojken tog hemligheten med sig i döden.”**
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/61.png)
 
 Berättelsen om Vargpojken gör ett bestående intryck på Carsten.
+
+::: part
+:::
 
 ::: indent
 – Jag behöver 600 röda lösnäsor.
@@ -460,6 +477,9 @@ Från en av läktarna lyckas Carsten kasta ner 600 röda lösnäsor i plast öve
 
 Efter den fem minuter långa aktionen försvinner vi lika osynligt som vi dök upp. Plastgitarren skänker vi till den förvirrade mötesord för anden Sandro Key-Åberg.
 
+::: part
+:::
+
 Nu börjar ett relativt hektisktår. 1974. Jag ger ut min andra bok, Carsten och jag startar Kulturmagasinet Vargen, gör ett par konstmappar och ställer till med en skandalartad kulturaktion i New York.
 ::: indent
 Jag får ocksåmin första dotter: Sari, med Tove. Ett varmt och väldigt efterlängtat ljus i det ständigt pågående stångandet med omvärlden. Jag är fortfarande en flipperkula, men nioår mognareän förra faderskapet. Familjen vill ut från stan och vi bosätter oss i en gammal lanthandel i Ekskogen, längs Roslagsbanan.
@@ -492,6 +512,9 @@ Minne från Ekskogen 2: Vårt sovrum ligger på övervåningen, vägg i vägg me
 ::: indent
 Möjligen som en påminnelse om vårt tjuvfiske.
 :::
+
+::: part
+:::
 <!-- PAGE 49 END -->
 
 <!-- PAGE 50 START -->
@@ -500,7 +523,10 @@ Min andra bok heter ”*Dvärgarnas Vendetta*”. En diktsamling. Bokens skrivs 
 Men Carsten gör ett vackert dadaistiskt omslag.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/67.png)
+![Hopp är dom maktlösas heroin.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/67.png)
+
+::: part
+:::
 
 Carsten och jag bjuds in till fest på Moderna Museet. En tillställning med internationella förtecken. En bit in i drickandet stöter vi ihop med den amerikanske dokumentärfilmaren och Vietnamaktivisten Emilie  d`Antonio. Han är världsberömd för den klassiska dokumentärslakten av Richard Nixon: ”*Milhouse - a white comedy*”.
 
@@ -555,7 +581,7 @@ I gryningen påföljande dag smyger hans hustru upp till konsulatets port och h�
 Hon delar uppenbarligen inte sin mans vurm för monarkin.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/74.png)
+![Stora idioter graveras på små frimärken.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/74.png)
 
 Viåtervänder hem och startar arbetet på Kulturmagasinet Vargen, tillsammans med Carstens fru Amis.
 
@@ -563,7 +589,9 @@ Viåtervänder hem och startar arbetet på Kulturmagasinet Vargen, tillsammans m
 
 Tanken är att komma ut med åtta nummer på tvåår. För att ge tidskriften en viss etablerad tyngd ber vi konstkritikern Olle Granath att ingåi redaktionen. Han tackar ja. För att ocksåge tidskriften en patafysisk anstrykning ber vi den finske konstnären JO Mallander att ingå. Även han tackar ja.
 
-Parentes: Mallander har ett parår innan gett ut en vinylsingel med en inspelning av den senaste omröstningen i det finska parlamentet, ”*Extended Play*”. En rösträknare läser upp alla röstlappar som avgetts. Påsamtliga står ”Kekkonen”. Efter ett tag börjar talmannen, förmodligen omedvetet, betona Kekkonen på alla upptänkliga sätt för att bryta monotonin, mot slutet av skivan nästan viskar han fram namnet med mycket hes röst.
+Parentes: Mallander har ett parår innan gett ut en vinylsingel med en inspelning av den senaste omröstningen i det finska parlamentet, “*Extended Play*”. En rösträknare läser upp alla röstlappar som avgetts. Påsamtliga står “Kekkonen”. Efter ett tag börjar talmannen, förmodligen omedvetet, betona Kekkonen på alla upptänkliga sätt för att bryta monotonin, mot slutet av skivan nästan viskar han fram namnet med mycket hes röst.
+
+[yt-video][https://www.youtube.com/watch?v=QcRQNA1GZrc&t=2s]
 
 Det är en rolig och politiskt lärorik inspelning.
 
@@ -594,7 +622,7 @@ Han kunde ha lagt till ett annat axplock: Marie-Louise Ekman, Bruno KÖijer, Öy
 
 Fotnot: Fjärtarnas Konung heter Joseph Pujol, lever mellan 1857 och 1945 och är berömd över hela Europa. Via sitt anus kan han släcka stearinljus på en halvmeters avstånd, imitera dragbasuner och fioler, fjärta enklare melodier och slunga ut vatten drygt fyra meter. Han är ett stort dragplåster på Världsutställningen i Paris.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/78.png)
+![Fjärtarnas Konung.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/78.png)
 
 Vargens redigeringsprincip bygger på en blandning av respekt för det enskilda bidraget och en strävan att skapa ett nytt uttryck. För oss är tidskriften ett sätt att via andra människors materialåstadkomma en förskjutning i det till synes sedda - genom att kombinera enkelt och svårt på ett för oss attraktivt och fruktbart sätt och därigenom låta vårt konstnärliga credo exponeras genom andra.
 ::: indent
@@ -603,11 +631,14 @@ Vargen är i grunden ett enda långt collage.
 
 ![Margareta Renberg.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/233A.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/234.png)
+![Hans Brul Nordenström.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/234.png)
 
 ![Lars Hillersberg.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/235.png)
 
 ![Stig Danielsson.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/236.png)
+
+::: part
+:::
 
 Tidskriften trycks på en stencilapparat i Carstens garage och häftas av oss personligen. Senare trycks några nummer på ett offset-tryckeri i grannskapet (det sista trycks på en stencilapparat i Moderna Museets Verkstad).
 ::: indent
@@ -630,13 +661,16 @@ Nummer 4 vidgar vyerna. Det är ett manifest i form av ett avrivbart kedjebrev, 
 <!-- PAGE 52 END -->
 
 <!-- PAGE 53 START -->
+::: accordion
+Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och
+
 **Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och förödmjukande underkastelse, vi ser den mentala klaustrofobin brinna i hennes vilda, blågula ögon, vi känner ensamhetens kalla vindar svepa över landet.   **
 
-**     Vi ser hur dessa biologiska tragedier stirrar in i sin mänskliga devalvering med ett uttryck av dövstum beundran - husse har slängt åt dom ett gott stycke kött i år och piskan har förvandlats till ett trollspö****. Vi kan se den statiska människan dompteras flockvis via förföriska folkrörelser och förment trygghet, om nätterna hör vi ekot av hennes självmord - mänsklig gemenskap är den död dröm.**
+**     Vi ser hur dessa biologiska tragedier stirrar in i sin mänskliga devalvering med ett uttryck av dövstum beundran - husse har slängt åt dom ett gott stycke kött i år och piskan har förvandlats till ett trollspö. Vi kan se den statiska människan dompteras flockvis via förföriska folkrörelser och förment trygghet, om nätterna hör vi ekot av hennes självmord - mänsklig gemenskap är den död dröm.**
 
 **     Den statiska människan är ett deprimerande exempel på världens vanvett. Ett hjälplöst offer för en grym och välplanerad prägling, framstansad vid försvarslös ålder och livslångt hämmande. En prägling som målmedvetet utrotar det livsviktiga självförtroendet via en ögda centraldikterade utbildningssystem - visionen om kunskap som en väg till mänsklig frigörelse och individuellt självförverkligande missbrukas intensivt. Respekten för den enskilda människans möjligheter och resurser spolieras av ekonomisk cynism och ideologisk korrumption.**
 
-**      Den undermedvetet förankrade förnimmelseförmåga, den genuina sensibilitet och ofläckade klarsyn som är barnets unika och oersättliga kapital, plundras blint. Självförverkligande ersätts med neurotisk konkurrenshysteri och förnedrande karriärideal. Det är strebrarnas och rövslickarnas gyllene tidevarv. Det är dom känsligas undergång för dom neutralas succé****.**
+**      Den undermedvetet förankrade förnimmelseförmåga, den genuina sensibilitet och ofläckade klarsyn som är barnets unika och oersättliga kapital, plundras blint. Självförverkligande ersätts med neurotisk konkurrenshysteri och förnedrande karriärideal. Det är strebrarnas och rövslickarnas gyllene tidevarv. Det är dom känsligas undergång för dom neutralas succé.**
 
 **     Det finns individer som har modet, kraften och oerhördheten att försöka bevara sig själva och sin respekt för livet; finns individer som försöker röra sig oprogrammerat, försöker sätta sig själva på spel till gagn för andra; det finns individer som tror på människan; individer som snabbt sätts i strypkoppel och isoleras genom raffinerade metoder: svinen behärskar avväpnandets instrument via repressiv snöpning och totalitärt våld - kulturhus och mentalsjukhus, i demokratier som diktaturer, är välkända historiska symboler för en välkalkylerad desarmering av potentiella revolutionärer. Mänskligheten betalar ett högt pris för sin mentala invalidisering och kreativa stagnation: förlusten av utvidgade, fruktbara människor ersätts av gravt **
 
@@ -644,7 +678,7 @@ Nummer 4 vidgar vyerna. Det är ett manifest i form av ett avrivbart kedjebrev, 
 
 **     Kära vänner världen över, i kampen mot ekonomisk destruktivitet och ideologisk utarmning finns bara ett effektivt vapen; i kampen mot mänskliga parodier, biologiskt serietillverkade, emotionellt handikappade och socialt transplanterade finns bara ett effektivt vapen: den hänsynslöst frigjorda skaparkraften med sin inneboende visionära dynamik och humanistiska energi - extatisk kärlek är trots allt bättre än ingen kärlek alls!**
 
-**     Den frigjorda skaparkraften måste infiltrera samhällsutvecklingen på grundforskningsnivå****. Måste kanalisera sin energi över hela basplanet. Måste tränga in i produktionen och förändra produkterna. Den frigjorda skaparkraften måste bearbeta slumpens livsviktiga möjligheter - slumpen är inte en slump utan följden av en målmedveten ologik!**
+**     Den frigjorda skaparkraften måste infiltrera samhällsutvecklingen på grundforskningsnivå. Måste kanalisera sin energi över hela basplanet. Måste tränga in i produktionen och förändra produkterna. Den frigjorda skaparkraften måste bearbeta slumpens livsviktiga möjligheter - slumpen är inte en slump utan följden av en målmedveten ologik!**
 
 **     Den frigjorda skaparkraften måste lära sig dom nya instrumenten för att spränga dom gamla målen. Måste göra tekniken visionär, inte visionen teknisk. Måste slita mikroskopen ur ögonen på forskarna och lägga beslag på alla anslag och all teori. Det gäller att göra språk av data, inte data av språk - framtiden tillhör dom som erövrar den!**
 
@@ -655,6 +689,10 @@ Nummer 4 vidgar vyerna. Det är ett manifest i form av ett avrivbart kedjebrev, 
 **     Kampen mot den inre och yttre kulturella katastrofen kräver intensiv global och utomparlamentarisk kommunikation. Det ekonomiska och ideologiska kommunikationsförtrycket upphävs när varje människa blir ett kedjebrev och natten korsas av telepatisk information. I kampen mot den kapitalstyrda pornografiska politiken (som lever på sitt egenvärde) och det parasiterande religiösa svineriet (som lever på sin masochistiska omänsklighet) måste varje människa ta avstånd från varje annan människa - den förljugna internationella solidariteten är död. Gud är ett spöke!**
 
 **     Kära vänner världen över, i kampen för den individuella revolutionens förverkligande leds gerillan av vargar: OCKUPERA HJÄRNAN!”**
+:::
+
+::: part
+:::
 
 Kedjebrevet distribueras via Moderna Museets adressregister till stora delar av världen. Gensvaret blir massivt och finns sammanställt och redovisat i Vargen nummer 6. Ett i ordets sanna bemärkelse internationellt nummer - samtliga bidrag trycks i original rakt av. Från fem kontinenter.
 ::: indent
@@ -662,7 +700,10 @@ Nummer 7 görs helt och hållet av Carsten och mig. Det är utformat som ett pro
 :::
 
 ::: indent
-Nummer 8 tillverkas av besökarna påutställning. I museets Verkstad finns en stencilapparat uppställd och tillgång till A4-papper och ritmaterial. Carsten och jag svarar för omslag, bindning och distribution. Alla besökarnas bidrag trycks obearbetat. Längreän så kan vi inte komma i publicistisk frihet. Vilket var Vargens avsikt (och det vi egentligen villeåstadkomma flera år innan med vårt gatuprojekt ”*Graffiti*”).
+Nummer 8 tillverkas av besökarna påutställning. I museets Verkstad finns en stencilapparat uppställd och tillgång till A4-papper och ritmaterial. Carsten och jag svarar för omslag, bindning och distribution. Alla besökarnas bidrag trycks obearbetat. Längreän så kan vi inte komma i publicistisk frihet. Vilket var Vargens avsikt (och det vi egentligen villeåstadkomma flera år innan med vårt gatuprojekt “*Graffiti*”).
+:::
+
+::: part
 :::
 
 Dom häråren, mitten på 70-talet, förebådar min egen entréi orkanensöga.
@@ -732,9 +773,12 @@ Det är lätt att lämna dom vind för våg.
 
 I backspegeln kanske det finns ett annat sätt att se på det, tvåhjälplösa föräldrar som ber sin son om hjälp ... det finns ett stråk av sorgsen kärlek i det.
 
-Landad i Sverige dyker jag in i den verklighet som är min. Jag sammanställer en omfångsrik antologi som heter ”*Nya TiderNya Änglar*”.
+::: part
+:::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/79.png)
+Landad i Sverige dyker jag in i den verklighet som är min. Jag sammanställer en omfångsrik antologi som heter “*Nya TiderNya Änglar*”.
+
+![Carstens svarta glödlampa.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/79.png)
 
 Den innehåller djupt personliga och mycket utlämnande intervjuer med fyra poeter: Eric Fylkeson, Bruno KÖijer, Per Lindgren och Margareta Renberg. Samt tvåmusiker: Mikael Wiehe och Bernt Staf.
 ::: indent

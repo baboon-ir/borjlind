@@ -20,6 +20,9 @@ Relationsdramer är vi bra på.
 
 Ord om Mikael Ekman, en nära vän: Lillebror till Gösta, en av den kvartett ” champinjoner ” som utgör Hasse Ekmans barn med Agneta Wrangel. För mig är Mikael en flyhänt och idérik filmskapare, rolig att umgås med, inte mycket sitter fast, fåkan droppa en dräpande replik som han. Vänfast, med varmaögon, hans fru Elisabeth är underbar (det var hon som målade ” sjukaögon ” på mig till Persona Non Grata-boken).
 
+::: part
+:::
+
 Det är riksdagsval i antågande och SVT:s ” *Aktuellt* ” ber mig och Sauk att göra 5 satiriska inslag i samband med det. Vi kallar dom för ” *Tillfälligt Valbrott* ”. Såhär gestaltar Sauk en Politiker:
 
 **”Hej! Jag är politiker! Rösta på mig! Varför? Ja, jag anser att skattetrycket bör inflationsskyddas för att vårdnadsglidningen ska ligga i linje med vår neutralitet: en offensiv allemansrätt ger våra mest utsatta grupper en tryggare Öresundsbro ** ***utan***** att handikapphyran sänks! **
@@ -32,3 +35,5 @@ Det är riksdagsval i antågande och SVT:s ” *Aktuellt* ” ber mig och Sauk a
 
 **     För övrigt anser jag att vi bör bygga en bro till Baltikum och släppa reklamen fri på Göta Kanal. En röst på mig är en röst på dig!”**
 
+::: part
+:::

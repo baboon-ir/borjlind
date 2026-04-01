@@ -7,7 +7,10 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2013–2017"
 ---
-**Mannen drack en klunk ur sitt glas. Det var inte första klunken, det såg Magdalena, både på flaskan och mannens ögon. Hans blick var insjunken. Men eftersom han var den ende gästen i baren just nu hängde hon sig kvar vid bordet, tillräckligt länge för att mannen skulle göra en gest mot stolen mittemot. Hon satte sig och rättade till sina lockar med en snabb gest. Mannen noterade det.**
+::: accordion
+**Mannen drack en klunk ur sitt glas. Det var inte första klunken, det såg Magdalena, både på flaskan och mannens ögon. Hans blick var insjunken.**
+
+**Men eftersom han var den ende gästen i baren just nu hängde hon sig kvar vid bordet, tillräckligt länge för att mannen skulle göra en gest mot stolen mittemot. Hon satte sig och rättade till sina lockar med en snabb gest. Mannen noterade det.**
 
 **     - Du är inte från trakten? sa hon.**
 
@@ -124,6 +127,7 @@ yearGroup: "2013–2017"
 **     Det kan han gott ha, tänkte Magdalena, när hon såg mannens förbryllade min.**
 
 **     - Vill du ha skjuts nånstans? sa hon.**
+:::
 
 Nu blir det inte så mycket ” hängande i luften ” tycker jag. Inte mannen från resemagasinet heller.
 ::: indent
@@ -131,6 +135,9 @@ Båda är nöjda.
 :::
 
  For the record: En av kvinnorna i berättelsen, Enögda Bierté, blir delvis förebilden till karaktären Enögda Vera i vår första deckare *”Springfloden”* - kvinnor som ser mycket bra, speciellt i mörker, och kan paralysera en jaktfalk i flykten med sin blick.
+
+::: part
+:::
 
 – Jag ska komponera en opera, har du lust att skriva librettot?
 ::: indent

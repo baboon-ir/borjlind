@@ -7,7 +7,10 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2007–2012"
 ---
-**Den eftermiddagen gjorde sig byns samtliga kvinnor ärende till brunnshuset, samtliga utom en. Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
+::: accordion
+**Den eftermiddagen gjorde sig byns samtliga kvinnor ärende till brunnshuset, samtliga utom en.**
+
+**Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
 
 **     - Sa han bara ”katter”****?**
 
@@ -128,6 +131,7 @@ yearGroup: "2007–2012"
 **     Att Vattenkvinnan hade försvunnit med den bruna skuggan tog alla för givet, även om det bar emot, vilket gjorde att ingen i byn på ett bra tag märkte den egendomliga bismak vattnet hade börjat få****. Då hade Kvinnan utan sorg redan flyttat till en bensinmack i Turkey Flat, halvvägs mellan Tombstone och Dallas, där hon ett halvår senare tog sig namnet Magdalena.**
 
 **     Föga anade hon vem som skulle dyka upp.**
+:::
 
 Jag skickar texten. Mannen från resemagasinet hör av sig, han gillar historien, men är tveksam till slutet.
 ::: indent

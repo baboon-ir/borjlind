@@ -9,6 +9,9 @@ yearGroup: "2007–2012"
 ---
 Suzanne Reuter får också en bagge för bästa kvinnliga skådespelare. Det är hon väl värd.
 
+::: part
+:::
+
 Påsensommaren det häråret tilldelas jag Rydöpriset: ” *För den fria tanken - till Olof Palmes minne* ”. Tidigare pristagare är Jan Myrdal, Ivar-Lo och Maria-Pia Boethius. Priset delas ut av den tidigare kulturministern Bengt Göransson och motiveringen är en orgie i självslick:
 
 **”Rolf Börjlind tilldelas Rydöpriset för sin manusproduktion till film, radio och tv. I underhållningsprogram som Kabaret Öppen Kanal, Lorry, Jönssonligan och Sista Skriket har Börjlind med sina texter på ett enastående sätt gisslat makthavare, fördomar och företeelser i vårt samhälle.**

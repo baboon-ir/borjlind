@@ -17,6 +17,9 @@ Den rekommenderas starkt.
 
 När viändå är inne påbegravningar: Min aska kommer också att spridas på Kanholmsfjärden. Egentligen vill jag begravas på en uteservering, gärna på en bakgata med släpsol mellan fasaderna och en iskallöl påbordet, jag tror att min själ skulle uppskatta det. Men nu blir det Kanholmsfjärden, som jag har korsat ett otal gånger i turbulenta väderlag. Möjligen finns Ove kvar nere i djupet, möjligen kan det inspirera Magnell i hans himmel till en sång om Bröderna Aska.
 
+::: part
+:::
+
 Cilla och jag har underårens lopp kontaktats av diverse förlag som har föreslagit att vi ska skriva kriminalromaner. Vi har inte haft tid. Vi har dessutom trivts väldigt bra med att skriva film- och tv-manus. Nu har vi tröttnat på det (jag merän Cilla, för mig är manusskrivandet ett avslutat kapitel). Vi har ocksåkontaktats av olika agenturer i samma syfte. Nu tar vi själv kontakt med en av dom. Grand Agency. Den drivs av Lena Stjernström tillsammans med bland annat hennes man Peter. Cilla och Lena känner varandra sen gymnasietiden, sådet blir ett naturligt val för oss. Vi förklarar vad vi vill göra och Lena förklarar vad hon behöver för att kontakta olika förlag: ett längre synops som visar att vi kan skriva ” litterärt ” och inte enbart manus.
 ::: indent
 Att vi har ett eget språk.
@@ -50,4 +53,3 @@ Jag har dessutom fyllt 68, är ingen trädgårdsmänniska och måste kanalisera 
 ::: indent
 Det är ocksåextra roligt att göra det med Cilla. Vi kompletterar varann utmärkt. Hon är mycket omsorgsfull, allt hon skriver är solitt. Hon har en befriande humor och är bra pådialog. Dessutom är hon en perfekt första läsare, med konstruktiva kommentarer.
 :::
-

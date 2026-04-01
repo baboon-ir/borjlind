@@ -21,6 +21,9 @@ Men han kommer in, med käpp, sätter sig, bär en brun skräddarsydd kostym med
 Reflektion: Att uppträda för en människa som man vet ska lämna en, som sitter framför en med en vit käpp och inte ska finnas där om ett kort tag, det är en märklig upplevelse. En sorgsen utskurenhet. Ett farväl av godo.
 :::
 
+::: part
+:::
+
 Producenten Bosse Jonsson och jag har samarbetat till och från under drygt tioår och har stor respekt för varandras kompetens. Han är en varm, generös och intelligent person, med ett kalkylerande drag som ibland gör mig osäker. På ett lunchmöte sträcker han över en bok som han vill filma. En verklig ” darling ” för honom. Boken heter ” *Ingen tobak, inget halleluja!* ” och är skriven av Eric Lundqvist. Det är en mycket rolig bok om en svensk mission är som försöker omvända en ” primitiv ” stam på Nya Guinea. Ett av hans tricks är att muta dom infödda med tobak för att fådom till kyrkan.
 ::: indent
 Men det finns ocksåallvarliga stråk i romanen som starkt ifrågasätter västerlänningars försök att tvinga påurbefolkningar sin religion och sin kultur.

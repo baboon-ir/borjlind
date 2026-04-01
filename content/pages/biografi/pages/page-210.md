@@ -24,6 +24,9 @@ På tal om det har jag alltid varit förtjust i författaren Ernst J ü ngers la
 Formuleringskonst.
 :::
 
+::: part
+:::
+
 En långfilm med Lorrygänget?
 ::: indent
 Varför inte?
@@ -37,7 +40,7 @@ Fotnot: Vid den här tidpunkten är filmbranschen full av skrupelfria månglare 
 
 Eller som jag själv skriver om en producent på den här tiden: *”Han haren eminent förmåga att driva en drillborr genom kraniet på ungabegåvningar och dränera deras talang med ett sugrör av sedlar.”*
 
-![226.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/226.png)
+![Målning av Ove Enervald.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/226.png)
 
 Men alltsåinte Abrahamsen.
 ::: indent

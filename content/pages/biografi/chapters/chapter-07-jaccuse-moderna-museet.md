@@ -1,13 +1,16 @@
 # J'accuse! Moderna Museet
 
 <!-- PAGE 56 START -->
-Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck ”*Sjukdom är till salu*”. Under en balett för eställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
+Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck “*Sjukdom är till salu*”. Under en balett för eställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/83.png)
+![Formen är budskapet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/83.png)
 
 Ett intressant inslag i baletten är ett stort antal sköldpaddor som extremt långsamt rör sig över golvet med småtända lampor påsköldarna.
 ::: indent
 Jag har respekt för det.
+:::
+
+::: part
 :::
 
 Jag är nu 33 år gammal. Har tvåbarn och en tatuering. Bor fortfarande kvar iövervåningen pålanthandeln i Ekskogen. Med Tove och Sari. På den vita kakelugnen i vardagsrummet har jag målat en stor, svart femuddig stjärna. Dylan har just gett ut ”*Blood on the tracks*”, en sårig skilsmässoskiva. Den ekar i dom stora rummen och över röstar dom nattliga plåtskallren från bönesalen.
@@ -33,9 +36,13 @@ Minne från Ekskogen 3: I en del av lanthandels undervåning bor ett par med ett
 
 ”Jag var tretton när det hände, vi kom på besök till farmors gård i Uppland med mamma och pappa, dom drack sig fulla och började bråka och till slut gick farmor ut, hon orkade inte vara kvar, hon visste att nyckelknippan skulle komma fram igen, att dom skulle ta ut det på mig, hon orkade inte se det ... när knippan kom hann jag undan för att dom var såfulla och sprang ut för att hämta farmor. Jag hittade henne i ladan, hon hängde i ett rep från nån takbjälke, jag försökte hämta mamma och pappa men dom var aspackade så jag gick tillbaka och tog ner farmor själv och la henne påjordgolvet i ladan ... sen satt jag hos henne i flera timmar i mörkret och bara grina … jag älskade farmor.”
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/182.png)
+![Ångesten är ondskans moder och våldet är det vilsna barnets rop på hjälp.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/182.png)
 
-I vår första kriminalroman, ”*Springfloden*”, låter vi en av karaktärerna, Enögda Vera, berätta historien som sin egen.
+I vår första kriminalroman, “*Springfloden*”, låter vi en av karaktärerna, Enögda Vera, berätta historien som sin egen.
+
+::: part
+:::
+
 <!-- PAGE 56 END -->
 
 <!-- PAGE 57 START -->
@@ -59,7 +66,7 @@ Den fjärde delen är en realistiskt uppbyggd”tunnelbanestation”med perronge
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/86.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/87.png)
+![Tag plats, dörrarna stängs.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/87.png)
 
 Påstationens”affischplatser” hänger tio bilder som Carsten och jag har skapat, i formatet 5 x 2,5 meter. Tanken är att visa hur t-banans informationsutbud skulle kunna utformas om andraän rent kommersiella intressen producerade informationen (Carsten har redan prövat det i sitt projekt *”Instant Art”*). Affischerna görs direkt på plats på museet inom loppet av 14 dagar. Den flyktiga, skissartade karaktären speglar informationens omsättningshastighet i en tänkt ”t-banetidning”.
 
@@ -123,7 +130,12 @@ I den första kabarén uppträder bland annat jag själv, Carsten, pianisten Ste
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/95.png)
 
-Jag gör entréi rullstol. Texten jag framför heter ”*Vem kan tatuera ett telefonnummer över min skräck?*”. Delar av föreställningen filmas av Johan Donner och sänds i SVT med titeln ”*Att leva är att dö en smula*”.
+Jag gör entréi rullstol. Texten jag framför heter “*Vem kan tatuera ett telefonnummer över min skräck?*”. Delar av föreställningen filmas av Johan Donner och sänds i SVT med titeln “*Att leva är att dö en smula*”.
+
+[yt-video][https://www.youtube.com/watch?v=uDlNOtuvBcw]
+
+::: part
+:::
 
 När vår utställningen är slut producerar Moderna Museet en konstportfölj.
 <!-- PAGE 58 END -->
@@ -141,18 +153,26 @@ Ulf Linde skriver ett engagerat förord till portföljen.
 
 Som sagt, mycket är vunnet när fusket blir skrattretande. Som ett eko genom konsthistorien.
 
+::: part
+:::
+
 Senare sammaår har Carsten och jag vår första utställning på Galleri S:t Petri i Lund. Galleriägaren och fransmannen Jean Sellem beskriver galleriet som ”*Archive of experimental and marginal art - ett rum för internationellt idébaserad konst*”. Vi ger följande instruktioner till Sellem:
 
 **”Måla upp bifogade kondoleanskort ”** ***Sjukdom är till salu*** **” i formatet 3 x 2 meter på den vänstra väggen. Fyll bifogade svarta plastsäckar (mer eller mindre) med valfritt innehåll. Placera ut efter gottfinnande (se skiss).”**
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/243.png)
 
-Fotnot: Förlaget Bakhåll ger 2014 ut en bok av Jean Sellem, ”*Sweden today*”. Den innehåller 1000 helsvarta sidor och uppges vara resultatet av Sellems forskning kring det kulturella läget i nationen.
+Fotnot: Förlaget Bakhåll ger 2014 ut en bok av Jean Sellem, “*Sweden today*”. Den innehåller 1000 helsvarta sidor och uppges vara resultatet av Sellems forskning kring det kulturella läget i nationen.
 ::: indent
 Respekt.
 :::
 
-Strax efter vår utställning hos Sellem ger Carsten ut en samlings-lp på det nystartade skivbolaget ”*Gump*”. Den heter ”*Voice of the Wolf*”. Vibrationerna från Vargpojken i Indien vaggar in. Själv medverkar jag med låten ”*Nya Tider Nya Änglar*”-ödsligt piano och vissling.
+::: part
+:::
+
+Strax efter vår utställning hos Sellem ger Carsten ut en samlings-lp på det nystartade skivbolaget “*Gump*”. Den heter “*Voice of the Wolf*”. Vibrationerna från Vargpojken i Indien vaggar in. Själv medverkar jag med låten “*Nya Tider Nya Änglar*”-ödsligt piano och vissling.
+
+[yt-video][https://www.youtube.com/watch?v=AvRqsmh8Dl0]
 
 Det är en sällsamt brokig och märklig skiva, som blandar inslag från poetenÅke Hodell med originalmaterial av Pugh Rogefeldt och elektronmusikerna Sten Hansson och Bengt”Frippe”Nordström. Även 48 sekunder med den nerlagda gruppen Sergeant Honolulu finns med. Skivan etiketteras idag som:”Sällsynt”- B-sidan pålp-när en 24 minuter lång sampling av materialet på A-sidan, gjord av Hans Anton Knall.
 ::: indent
@@ -165,11 +185,15 @@ Parallellt med inspelningen skriver jag en text till stenciltidskriften Guru Pap
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/162.png)
 
-Det nummer jag medverkar iär utarbetat av poeterna Per-Erik Söder och Bruno KÖijer och inleds med: ”*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
+Det nummer jag medverkar iär utarbetat av poeterna Per-Erik Söder och Bruno KÖijer och inleds med: “*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
 
-**”Dessa människor som tvingar mig att resignera. Dessa hyndor och kackerlackor som tvingar mig att ligga sömnlös och kallsvettig på en bågnande sarkofag av sorg. Dessa morbida monster som knallar gator upp och gator ner med djupfrysta ögon och brallorna fulla av förluster. Dessa hallucinationer som dom kallar vardag. **
+“Dessa människor som tvingar mig att resignera. Dessa hyndor och kackerlackor som tvingar mig att ligga sömnlös och kallsvettig på en bågnande sarkofag av sorg. Dessa morbida monster som knallar gator upp och gator ner med djupfrysta ögon och brallorna fulla av förluster. Dessa hallucinationer som dom kallar vardag.
 
-**Detta kalejdoskop som dom kallar samhälle. Detta land, befolkat av melerade nickedockor med nageltrång ända upp i hjärnan och platt som en blankett. Denna förstörda, rämnade, intill svek fega nation som har gjort neutraliteten till ett honnörsord - detta urvattnade dödsbegrepp som inte säger nånting om nånting, men är jävligt lönsamt i krigstid. Nåt neutralare än en svensk finns inte - följaktligen heller inte nåt tråkigare, fisljummare, mer undanglidande, tafattare och mer intetsägande. Svensken är en förtorkad brödkant. Svensken är det som blir kvar på tallriken när allt det goda är uppätet. Ligger där som en meningslös rest och slängs till svinen ... och jag är svensk, svensk, svensk ... ”**
+::: accordion
+**Detta kalejdoskop som dom kallar samhälle. Detta land, befolkat av melerade nickedockor med nageltrång ända upp i hjärnan och platt som en blankett.**
+
+Denna förstörda, rämnade, intill svek fega nation som har gjort neutraliteten till ett honnörsord - detta urvattnade dödsbegrepp som inte säger nånting om nånting, men är jävligt lönsamt i krigstid. Nåt neutralare än en svensk finns inte - följaktligen heller inte nåt tråkigare, fisljummare, mer undanglidande, tafattare och mer intetsägande. Svensken är en förtorkad brödkant. Svensken är det som blir kvar på tallriken när allt det goda är uppätet. Ligger där som en meningslös rest och slängs till svinen ... och jag är svensk, svensk, svensk ... “
+:::
 
 Texten förebådar andra texter av mig, om Sverige, om min inställning, lika bottenlöst mollstämda och förtvivlade. Den lekfulla dadaistiska attityden har hårdnat, glesnat bort. Jag vet inte varför. Var kommer det näst intill besinningslösa föraktet ifrån?
 ::: indent
@@ -180,12 +204,19 @@ Knappast från barndomensörfilar.
 Men föraktet eskalerar och kommer att kulminera i en gigantisk manifestation i Moderna Museets torpedverkstad, där jag tömmer ut allt hat jag har. Mitt privata Guernica (utan andra jämförelser).
 :::
 
+::: part
+:::
+
 1975 övergår i 1976 som om ingenting har hänt. Men det kommer att hända. Vi kommer att få en ny statsminister, vår första borgliga sen 1936. Thorbjörn Fälldin. Agraren. 40 år av socialdemokratisk hegemoni bryts.
 ::: indent
 Det är ingenting som berör mig. Just då. Den politiska scenen är fortfarande en del av det jag föraktar. Demokrati? Absolut. Men jag har aldrig röstat på nåt parti, helt enkelt för att inget parti skulle rösta på mig. Jag är utanför det spelet (som Myrdal skrev). Den svarta stjärnan. Den romantiska vurmen för det utopiska, flörten med anarkismen. Jag behåller gärna den känslan ett tag till.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/169.png)
+![För att få efterföljare måste du springa snabbare än dom andra.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/169.png)
+
+::: part
+:::
+
 <!-- PAGE 60 END -->
 
 <!-- PAGE 61 START -->
@@ -202,7 +233,10 @@ Jag borde ocksåha lärt mig lite mer om att leva familjeliv. Mitt vulkaniska be
 Men jag får den, av Tove.
 :::
 
-![Den andra familjen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/101.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/101.png)
+
+::: part
+:::
 
 Året börjar med att Carsten och jag bjuds in av musikern Sten Hansson att medverka pådenårliga elektronmusikfestivalen på Fylkingen i Stockholm. Fylkingen håller till i en lokal på Östgötagatan (på min tid runt Björnsan en matinébiograf där jag sågåtskilliga underbara så kallade B-filmer).
 ::: indent
@@ -217,6 +251,9 @@ Själv har jag spelat in den nazistiska slagdängan ”*Die Faane Hoch*”och di
 En del reser sig och går ut.
 :::
 
+::: part
+:::
+
 Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galleri Sellem. Vi kallar den”*Räkna de lyckliga stunderna blott*”. Vi köper bland annat en grårullgardin och kopierar några svartvita objekt på den.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/142.png)
@@ -224,6 +261,9 @@ Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galler
 2019 läggs gardinen ut på Bukowskis onlineauktion - trots ett mycket facilt pris förblir den osåld.
 ::: indent
 Förbluffande.
+:::
+
+::: part
 :::
 
 Bigorneuer.
@@ -254,9 +294,15 @@ Allt detta tycker jag fortfarande.
 Men arkivet blir aldrig av.
 :::
 
+::: part
+:::
+
 Parallellt med mitt dokumentärfilmande i Venedig gör Carsten sin första videoshow på Moderna Museet. Den heter ”*Sista Skriket*”(en titel som skaåterkomma på många företeelser framöver) och äger rum i Bion. Carsten har byggt en trälabyrint i form av en stiliserad hjärna. I den bisarra labyrinten springer tvåvita möss runt. Deras irrande projiceras påsalongens stora duk. Showen pågår i 8 timmar.
 
-![THE WOLF ENTERS THE BRAIN BIZARRE](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/143.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/143.png)
+
+::: part
+:::
 
 Och i omvärlden?
 ::: indent
@@ -294,6 +340,9 @@ Vill jag så kan jag skylla på mina gener, dom från mödernet. Sveaälskar att
 Parentes: Jag har ett mycket vårdslöst förhållande till pengar. Jag använder dom när jag får dom. När jag inte har dom skaffar jag nya. Pekuni är fram för hållning ingår inte i min vokabulär.
 ::: indent
 Ansvarslöst, men fläckvis rätt kul.
+:::
+
+::: part
 :::
 
 Det häråret startar ett samhällskritiskt underhållningsprogram i Sveriges Radio som heter KabaréÖppen Kanal. Det går påfredagar och är en avslutning pådenövriga veckansÖppen Kanal-program. Jag kontaktas av en av redaktörerna påkanalen, Lisa Söderberg, som ber mig skriva några sketcher till programmet. I satirisk form. En genre jag inte harägnat mig åt tidigare.
@@ -337,7 +386,10 @@ Effekt 2: Mitt satirskrivande flödar igång och kulminerar i ett åtal av stats
 Effekt 3: Jag inleder ett intimt samarbete med Gösta Ekman som ska pågåi över ett decennium.
 :::
 
-![Who am I?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/102.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/102.png)
+
+::: part
+:::
 
 Året avslutas med ytterligare en utställning på Galleri Sellem i Lund. Carsten och jag döper den till ”*HARD RAIN - en mefitisk dokumentation av smädandets liturgi*”.
 ::: indent
@@ -350,6 +402,9 @@ Eller en charlatan som försöker vara intellektuell.
 
 ::: indent
 Som så många andra.
+:::
+
+::: part
 :::
 
 1977 inleds med att riksdagen röstar ner ett förslag från VPK att omvandla Sverige till republik. Nice try. Och avslutas med att Ebba Grön bildas. Äntligen.
@@ -486,12 +541,16 @@ Kanske skulle Björcks egna ord till Carl Lidbom i konstitutionsutskottet klinga
 ::: indent
 –  Vet hut!
 :::
+
+::: part
+:::
+
 <!-- PAGE 66 END -->
 
 <!-- PAGE 67 START -->
-Satiren har rullat igång. Min talang när det gäller förlöjligandetsädla konst (en gåva från dadaisterna) sprider sig. Jag kontaktas av SVT för att tillsammans med reportern och författaren Lars-Ragnar Forssberg skriva texter till fem satirprogram som ska heta ”*Kabaré Öppen Final*”(inte speciellt originellt, menänd å). Vi får göra tre av programmen innan vårt kontrakt bryts. Anledningen kan vara flera. Kanske för att vi visar den nyfödda prinsessan Victorias dop upp och ner? Kanske för att vi visar brösten som ammar den nyfödda? Kanske för att vi tittar in i framtiden och låter Sten Ljunggren uppträda som drottning Victoria, lyckligt gift med en shejk sen hon nobbat en svart man som Palme utsett som gemål? Eller för att jag själv uppträder som tv-presentatör med tvåblågula flaggor utstickande uröronen?
+Satiren har rullat igång. Min talang när det gäller förlöjligandetsädla konst (en gåva från dadaisterna) sprider sig. Jag kontaktas av SVT för att tillsammans med reportern och författaren Lars-Ragnar Forssberg skriva texter till fem satirprogram som ska heta “*Kabaré Öppen Final*”(inte speciellt originellt, menänd å). Vi får göra tre av programmen innan vårt kontrakt bryts. Anledningen kan vara flera. Kanske för att vi visar den nyfödda prinsessan Victorias dop upp och ner? Kanske för att vi visar brösten som ammar den nyfödda? Kanske för att vi tittar in i framtiden och låter Sten Ljunggren uppträda som drottning Victoria, lyckligt gift med en shejk sen hon nobbat en svart man som Palme utsett som gemål? Eller för att jag själv uppträder som tv-presentatör med tvåblågula flaggor utstickande uröronen?
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/167.png)
+![Och nu över till vädret.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/167.png)
 
 Eller för att vi presenterar en kunglig oäkting som kräver att bli regent före Victoria, Knut Bengtsson från Tranås,”*Kung Knut*”kallad.
 
@@ -502,9 +561,7 @@ Jag vet inte.
 Hur som helst blir folk obegripligt upprörda. Producenten för programmet får ett hakkors sprayat på sin villafasad, en producent får ett kuvert med avföring i sin brevlåda, själv skaffar jag hemligt telefonnummer efter ett antal anonyma hot.
 :::
 
-::: indent
 Fotnot: Detta är decennier innan nättrollen har kravlat fram ur sina hålor, träskmänniskorna har långa anor.
-:::
 
 ::: indent
 Samma sak händer med nästa tv-engagemang, ett program som heter”*Kvällsöppet*”. Där stoppas vi efter tvåprogram på grund av ”*alltför stötande inslag*”.
@@ -514,9 +571,9 @@ Samma sak händer med nästa tv-engagemang, ett program som heter”*Kvällsöpp
 Uppenbarligen är det lätt att stöta sig med det svenska folket, eller delar av det. Vilket ska visa sig med brutal tydlighet lite senare det häråret.
 :::
 
-Men innan dess skriver jag min tredje bok, en experimentell bildtextroman med titeln *”Persona Non Grata”*.  Undertiteln är ”*Romanen som process*”.
+Men innan dess skriver jag min tredje bok, en experimentell bildtextroman med titeln *”Persona Non Grata”*.  Undertiteln är “*Romanen som process*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/103.png)
+![varför skulle jag förneka det vackra inom mig bara för att det är bestialiskt](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/103.png)
 
 Boken är i lp-format (efter modell från vår Londonbok). Påsista insidan ligger en vinylskiva. Påskivan läser jag en egen text som spelas in i elektronmusikstudion Fylkingen och ackompanjeras av musikern Sten Hansson: ”*Dina fotspår utplånas framför dig*.”
 
@@ -560,11 +617,14 @@ En avsikts för klaring:
 **även för Er**
 :::
 
+::: part
+:::
+
 Boken är en enda lång, manisk uttömning, en febrig semantisk syndaflod. Uttryck staplade på varann, avbrutna, korsfästa, verbala snitt ur hjärnbarken. Förmodligen en korrekt version av mitt tillstånd vid den här tidpunkten. Jag vet inte vad jag har skrivit, det har forsat ur mig under en räcka sömnlösa dygn i vindsvåningen på Skeppargatan. KlasÖstergren, den tidigare nabon, beskriver förmodligen flödet hyfsat korrekt i sin recension i DN:
 
 **”Texten är som om författaren matat en atombomb med essensen från modernistiska hjärnor och låtit den krevera i en självskrivande dator - associationerna tar aldrig slut, reaktionerna löper fram över sidorna i ett språk som förintar, utplånar sig själv. Läsaren är helt utlämnad. På en enda sida hinner Börjlind riva ner alla begrepp och normer som man överhuvudtaget orkat bygga upp: ”Jag orkar inte hålla fast allt det jag benämner.” Som blåste man ut väggarna i ett hus: där står en och duschar, en annan sitter på dass,  en tredje ligger på sängen och masturberar och en liten flicka gråter ner i läxboken. Konfrontationen blir total. I boken finns också en vacker bild på Friedrich Nietzsches dödsmask. **
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/132.png)
+![Sjukdom är till salu.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/132.png)
 
 **Nietzsche gick loss på Västerlandets hela system av moral och försökte riva ner det så gott han kunde med sin filosofiska slägga och lyckades väl ganska bra med det. Börjlind i sin tur går omkring i dom rykande ruinerna efter tysken, på gott och ont. Han hittar bland spillrorna ett trasigt och misshandlat begrepp här och ett där och han plockar upp dom för en granskning. Sen samlar han ihop bråten i en hög, häller bensin på hela rasket och tänder på****. Hela hans textmassa är ett referat från anarkisternas krigsdans runt detta moraliska bål.”**
 
@@ -598,15 +658,21 @@ På andra ställen i boken är språket sorgset och sökande:
 **lyssnat och avvägt och antecknat.**
 :::
 
+::: part
+:::
+
 Droppvis kommer gåtfulla syner:
 
 **”****... ur sitt glittrande strupformade svarta hål väver spindeln sina grymma logaritmer, tråd för tråd till ett åderverk av bestialiska uppdrag ... med en obekymrad sekund kvar av ett fritt liv svävar insekten in i slakthuset ... sakta gungar spindeln fram mot den feta uppsvällda nattfjärilen, trådarna vaggar rytmiskt i takt med vingarnas sjungande dödsångest, målmedvetet griper det krälande djuret sitt pulserande offer och punkterar buken med sina välslipade knivar, ljudlöst äter sig den ludna hungern in i kroppen ... några få färglösa droppar slår i golvet som helgmålsringningar ...”**
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/104.png)
+![I varje regnbåge pekar jag ut svart.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/104.png)
 
-Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken som en enda lång herointripp:”*Det mest uppenbara beviset är Börjlinds egna ögon! Sjuka ögon!*”Sanningen är att en begåvad tv-maskör, Elisabeth Ekman, har målat”ögon ”på mina slutnaögonlock. Vi ser det vi vill se och blundar oss in i glömskan.
+Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken som en enda lång herointripp:”*Det mest uppenbara beviset är Börjlinds egna ögon! Sjuka ögon!*”Sanningen är att en begåvad tv-maskör, Elisabeth Ekman, har målat”ögon “på mina slutnaögonlock. Vi ser det vi vill se och blundar oss in i glömskan.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/156.png)
+![det är inte dom utslagna som ska in i samhället det är dom inslagna som ska ut](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/156.png)
+
+::: part
+:::
 
 ::: indent
 – Du är sågränslös hela tiden.

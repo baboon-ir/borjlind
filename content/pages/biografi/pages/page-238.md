@@ -12,6 +12,9 @@ Såstartar det skoningslösa kriget mot ” terrorister ”. Bush II krig. Jag h
 Även på vår kontinent.
 :::
 
+::: part
+:::
+
 Skröna. Litter är fresk. En underbar torsdag. Det stora kalaset. Cilla och jag vill skriva en film som handlar om det burleska i det lilla, om kantmänniskor, om allt det som Steinbeck i sina upprymda stunder gav evigt liv - det allmängiltiga i vemodet, överlevandets grimas, skrattet. Vi börjar skriva en historia som får namnet ” *Georg von Ingenting* ”. Den utspelar sig en liten kustby och kretsar kringägaren till Kukbutiken, en mycket beläst och sofistikerad man med ett spretigt umgänge, själv specialiserad påavgjutningar av historiska mansorgan. Intresset startade redan i träslöjden.
 ::: indent
 – Vilken vacker skärbräda du har gjort, Georg!
@@ -28,6 +31,8 @@ Vi presenterar ett synops för SFI och får ekonomiskt stöd för att skriva ett
 ::: indent
 Historien inleds med en scen på en strand. En ung man har bestämt sig för att ta livet av sig. Han gräver ner sig i sanden tills bara huvudet dyker upp och inväntar tidvattnet som ska dränka honom. Tyvärr tar han fel påebb och flod. Vågorna når knappt fram till hakan på honom innan dom försvinner ut igen. Vi använder senare scenen i en annan variant i vår bok ” *Springfloden* ”, där en gravid kvinna grävs ner och faktiskt dränks av tidvattnet.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=FuJOE0tuKg0]
 
 Viåteranvänder också ett par andra karaktärer ur det här materialet, Ronny Redlös och Minken, som båda dyker upp i våra böcker.
 ::: indent
@@ -52,6 +57,9 @@ Och därinne ligger *”Georg von Ingenting”* och ruvar.
 
 ::: indent
 Kanske lockar vi ut honom igen och skriver om manuset till en roman, i sinom.
+:::
+
+::: part
 :::
 
 Efter att ha skrivit dom förstaåtta filmerna om Martin Beck är jag klar med den världen. Det är inte produktionsbolaget Filmlance, finansiärerna och fram för allt inte publiken. Filmerna har blivit en formidabel tittarsuccéoch alla vill ha mer.

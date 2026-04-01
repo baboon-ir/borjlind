@@ -21,6 +21,9 @@ Jag vet inte om publiken blir så mycket klokare.
 
 Och mitt i allt detta kommer mitt femte barnbarn. Det är yngste sonen Nick och hans sambo Josefin som får en son. Leon (en sötkaramell). Blir man farfar igen. Underbart! ... (tyvärr slår den kommande pandemin sönder en tätare kontakt med Leon förstaåret, men den får tas ikapp i sinom).
 
+::: part
+:::
+
 Cillas och min dotter Molly bor i Köpenhamn och är 24år. Hon har avslutat filmskolan i Stockholm och arbetar på en servering. Jag vet att hon skriver bra, jag har läst mycket av henne genomåren. Nu föreslår jag att vi ska skriva en bok ihop. En ljudbok, direkt för den marknaden. Det är nytt för mig och definitivt för henne. Vi kontaktar ljudboks för laget Storytel som blir intresserade. Samtidigt får mitt eget förlag Norstedts höra talas om våra planer och föreslår att vi ska ge ut boken på deras ljudboks för lag istället, Tiden. Min agent tycker att vi ska välja det senare, vilket vi gör. Under ett drygt halvår skriver vi boken, som får namnet ” *Mörkret oss emellan* ”, en psykologisk thriller som utspelar sig i ett hus i Stockholms skärgård. Denär uppdelad iåtta avsnitt och läses in av Nina Zanjani.
 
 ![700.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/700.png)
@@ -58,3 +61,5 @@ Igen.
 Parentes: En av mina favoritböcker på60-talet, Hemingways klassiker ” *Och solen har sin gång* ”är berättad i jag-form, såjag kunde ha lärt mig det tidigare.
 :::
 
+::: part
+:::

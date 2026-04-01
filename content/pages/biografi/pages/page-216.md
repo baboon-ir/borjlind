@@ -44,7 +44,7 @@ Lindblom och jag har samarbetat tidigare, i Kråka-projektet, och fått bra kont
 Eftersom jag och Cilla just befinner oss djupt inne i en mörk skog påjakt efter svamp, ett av våra tunga intressen, såber jag att fååterkomma. Så fort jag stöter på en liten porcini, en späd stensopp med utsökt smak, vet jag vad jag ska svara.
 :::
 
-![212.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
+![Lindblom & Börjlind](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
 
 Lindblom och jag träffas. Hon vill göra en enkel och rak film, med en enda person i centrum. Keve Hjelm. Hon vill att filmen ska handla om vad vi gör med vår jord (detta är alltså1992). I princip handlar det om en monolog, gestaltad av en ensam man i ett litet torp som försöker leva nära jorden, nära ljuset, tätt intill den rytm som ingen längre minns, som försöker hålla sig fast i en värld som försvinner.
 ::: indent
@@ -54,4 +54,3 @@ Jag skriver den.
 ::: indent
 Filmen heter ” *Betraktelse* ” och Hjelms monolog blir som följer:
 :::
-

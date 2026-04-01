@@ -12,6 +12,8 @@ Stefan och jag börjar arbeta. Han får en massa textbitar av mig och börjar re
 Vi känner ocksånästan direkt att det är här vi ska göra inspelningarna. I det här utomordentligt charmlösa och oscenograferade hålrummet, med enbart en fast kamera. Ingen fotograf, Stefan får själv dirigera sitt agerande framför objektivet. Effekten blir påträngande och originell. Vi föreslår att inslagen ska starta med en grynig ruta som aviserar ett ” *Tillfälligt Avbrott* ”. Sundvall tycker det är en bra idé.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=iwRXs_O5vt0]
+
 Karaktären ” Rune ” och hans uttryck ” *de e mycke nu* ” får en märklig genomslagskraft. Plötsligt dyker det upp i alla möjliga sammahang, såväl i folkmun som i riksdagsdebatter. Fyra enkla ord som uppenbarligen fångar upp en utbredd känsla i tiden (genomslaget påminner om ett annat av mina uttryck lite senare, också med fyra ord: ” *Skaru ha en stänkare*? ”).
 
 Om Stefan: Många skådespelare ska vända och vrida på en text, fundera, förankra, känna in - Stefan går rakt på. Utan betänkligheter. Han levererar det jag skriver utan omsvep. Ofta med egna utvikningar som är analoga med texten och karaktären.

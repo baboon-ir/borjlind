@@ -37,6 +37,9 @@ Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att
 Ett tips: färsk, rundröktål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
 :::
 
+::: part
+:::
+
 Carsten och jag försöker utveckla begreppet multimedia,  dvs en form där olika konstarter möts inom en given avantgardistisk ram. Vårt nästa projekt är en föreställning på Folkoperan där vi tar det ett steg till. Den heter ” *It´s my party and I cry if I want to* ” - ursprungligen titeln på en låt av artisten Lesley Gore.
 ::: indent
 Musik, poesi, film, drama, gestaltning.

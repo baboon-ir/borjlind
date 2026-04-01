@@ -62,7 +62,10 @@ Men skrämmande är det, i all sin blinda och förödande framfart.
 **ny tid nalkas**
 :::
 
-![305.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
+![Åke Hodell: Norra begravningsplatsen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
+
+::: part
+:::
 
 Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Ståinte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
 ::: indent
@@ -74,4 +77,3 @@ Dröm gärna, men se er för när ni går över gatan.
 :::
 
 ![602.JPEG](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/602.JPEG)
-

@@ -9,6 +9,8 @@ yearGroup: "1999–2006"
 ---
 Hela tv-serien avslutas med ett specialprogram där Bruno KÖijer framför sin långa dikt ” *Skisser till ett av dödens tal* ” till ackompanjemang av Jan Tolf och några musiker.
 
+[yt-video][https://www.youtube.com/watch?v=YtzHMP2o1nw]
+
 Skivbolaget Sonet ger senare ut en samlings-cd med musikmaterial ur tv-serien.
 
 ![310.jpg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/310.jpg)

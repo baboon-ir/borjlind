@@ -15,6 +15,9 @@ Vi diskuterar, återvänder till skrivbordet och kommer tillbaka med en ny versi
 Synd påberättelsen om Målle Lindberg (till några av sina väckelsemöten kom han nerdalande i fallskärm, bara det).
 :::
 
+::: part
+:::
+
 En parentes till: Gösta får en förfrågan om att göra en ny Papphammarserie det häråret. Jag vet att Gösta har bestämt sig för att aldrig mer utnyttja den karaktären (en gång hör försäkringsbolaget Skandia av sig, dom vill använda Papphammar i sin reklam och erbjuder ett fullständigt svindlande mångmiljonbelopp. Gösta svarar:
 ::: indent
 – Dubbla det såfår vi se.
@@ -40,9 +43,13 @@ SVT visar resultatet.
 Roligast under inspelningen: Papphammar sitter i köket och klipper till en sprattelfigur av sig själv.
 :::
 
-![215.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/215.png)
+![Sprattelhammar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/215.png)
 
-Så:Återigen ett av dessa visuellaögonblick som bränner sig fast pånäthinnan och kommer att följa med ner innanför kistlocket, både på grund av sin omedelbara dramaturgi: ett flygplan som rammar rakt in i ett av de ikoniska tvillingtornen vid World Trade Center ... men också på grund av det ofattbara som händer strax efter: att i realtid följa hur ytterligare ett plan brakar in i tornet intill.
+::: part
+:::
+
+Så:
+Återigen ett av dessa visuellaögonblick som bränner sig fast pånäthinnan och kommer att följa med ner innanför kistlocket, både på grund av sin omedelbara dramaturgi: ett flygplan som rammar rakt in i ett av de ikoniska tvillingtornen vid World Trade Center ... men också på grund av det ofattbara som händer strax efter: att i realtid följa hur ytterligare ett plan brakar in i tornet intill.
 ::: indent
 Det stannar tiden.
 :::

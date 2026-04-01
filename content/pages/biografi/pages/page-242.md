@@ -7,6 +7,7 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2013–2017"
 ---
+::: accordion
 **Till vilket pris vet jag inte riktigt, förmodligen är priset en del av befrielsen: ditt språk vittnar om en del underbara nederlag.**
 
 **     Du har alltid haft en enorm tro på ditt språk, eller den revansch som språket har möjliggjort: i dikten har du ord för ord bevingat hämnden och ditt ansikte har avspeglat sig i varenda rad. Du har aldrig dolt dig bakom texten, som merparten av den övriga parnassen, du har oavbrutet gjort dig synlig - dvs tillgänglig, och i begreppets djupare mening användbar.**
@@ -30,6 +31,10 @@ yearGroup: "2013–2017"
 **     Ditt språk har förändrats, givetvis, genom årens lopp, stråk av sorgsen innerlighet har svept in över obönhörliga slutsatser ... som om du närmade dig det allra djupaste såret med allt mjukare nål ... och en tråd spunnen av mognad. Jag hoppas du lyckas sy ihop såret. Du är en väldigt ljus människa, Bruno, för mig, och tydlig, en människa som läcker ur ett mycket vackert hål.**
 
 **Roffe.”**
+:::
+
+::: part
+:::
 
 Kulturmingel på hög nivå: Föreningen KLYS (Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd) får en inbjudan till Kina för att ” främja kulturutbytet ”. Vi är en relativt stor delegation somåker, bland annat författaren Peter Curman, jag själv och Cilla. På plats tillsluter en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
 ::: indent
@@ -74,6 +79,9 @@ Men vi går påmuren och ser den mäktiga terrakottaarmén i Xi ´ an.
 
 ::: indent
 Tack, Astrid.
+:::
+
+::: part
 :::
 
 Cilla och jag tillfrågas av SVT om vi vill skriva manus till en tv-serie baserad på en bok av Henning Mankell. Den heter ” *Danslärarens Återkomst* ” och är en thriller. Jag har aldrig läst nåt av Mankell, slarvigt kanske, men vi läser boken. Denär välskriven och ordrik och har en bra intrig. Det känns att Mankell har ett personligt engagemang.

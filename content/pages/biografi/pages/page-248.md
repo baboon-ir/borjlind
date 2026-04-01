@@ -36,6 +36,9 @@ Fotnot 2: Bondproducenten Barbara Broccoli sitter i juryn, vilket föranleder en
 Kjelle undviker att svara på det.
 :::
 
+::: part
+:::
+
 Privat: Jag går i kognitiv samtalsterapi ett antalår, många år, huvudsakligen för att försöka få en bättre relation till Sari och Nick (som har sargats av min skilsmässa från Tove) - genom att försöka förståmig själv och hur jag tänker, agerar och uttrycker mig. Samtalen gör mig plågsamt medveten om skillnaden påvad du själv tror att du utrycker och vad du egentligen signalerar. Avståndet mellan ego och empati. En kurs i tillkortakommande.
 ::: indent
 Jag förstår också att allt rör sig framåt.
@@ -43,6 +46,9 @@ Jag förstår också att allt rör sig framåt.
 
 ::: indent
 Mycket fruktbart, tack Ann-Marie.
+:::
+
+::: part
 :::
 
 Påarbetsfronten: Cilla och jag skriver tvånya Beckfilmer, 23 och 24.
@@ -59,4 +65,7 @@ Men den fungerar.
 Jag blir ocksåombedd att skriva en text till Ingvar Hirdwall, han ska uppträda som Grannen på Guldbaggegalan. Jag är inte såförtjust i det, att exploatera en karaktär utanför det sammanhang den ingår i, det funkar sällan.
 ::: indent
 Men jag gör det, av respekt för Hirdwall (en, om jag inte har nämnt det tidigare, genuint grundad skådespelare, med en otrolig känsla för tajming och utan för skap).
+:::
+
+::: part
 :::

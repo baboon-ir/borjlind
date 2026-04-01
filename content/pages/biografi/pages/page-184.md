@@ -7,21 +7,16 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1999–2006"
 ---
-***Ser du! Sa barnet och pekade***
+**Ser du! Sa barnet och pekade
+Och jag svarade: Ja, jag ser...
+Jag såg honom rida på floden
+Sen såg jag honom aldrig mer...**
 
-***Och jag svarade: Ja, jag ser...***
+**Nu rider han på floden
+Nu rider han på floden**
 
-***Jag såg honom rida på floden***
-
-***Sen såg jag honom aldrig mer...***
-
-***Nu rider han på floden***
-
-***Nu rider han på floden***
-
-***Jag såg honom rida på floden***
-
-***Sen såg jag honom aldrig mer...***
+**Jag såg honom rida på floden
+Sen såg jag honom aldrig mer...**
 
 Detta är just innan Dråpslaget.
 ::: indent
@@ -60,11 +55,14 @@ Happy Cousins då?
 Stoppa sorgen i en gammal säck och skratta och var glad?
 :::
 
-![300.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/300.png)
+![Skratta åt vadå?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/300.png)
 
 Såhär i efterhand förstår jag hur insikten om att Carsten var på väg att döpåverkade mig, påflera plan, sköt ut mig i en vilsenhet som jag inte var beredd på. Grundvalarna gungade.
 ::: indent
 Det skulle fåkomplicerade effekter.
+:::
+
+::: part
 :::
 
 Lorry nomineras till Guldrosen, Europas finaste tv-pris. Det ska delas ut i Montreaux och delar av Lorrygängetåker dit. Inklusive jag själv. Vi vinner inte, allaåker hem utom jag som fortsätter till Venedig. Ensam. Senast jag var där gjorde jag en dokumentärfilm för Moderna Museet, nu har jag ingen annan avsikt med besöketän att fly. Jag är djupt förvirrad och har mist fotfästet. Orsaken är min nyblivna förälskelse i Cilla Gemvall.

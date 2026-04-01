@@ -38,9 +38,12 @@ Metoo-reflektion i efterdyningarna: Hundratusentals kvinnor över hela världen 
 
 (Fotnot: Idag har hon kommit ut som ” klimat för nekare ”,  en flock för sig.)
 
+::: part
+:::
+
 Såhar vi riksdagsval i vårt land, en nationell begivenhet, inte minst i massmedia. Utfallet blir skrämmande. Sverigedemokraterna blir tredje största parti i Sverige. Det osannolika har passerat det sannolika och blivit ett faktum. Brunskjortorna har färgats blåoch rasismen harändrat förtecken. Nu kallas den ” migrationsproblematik ” och dominerar debatten.
 
-![252.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
+![Skånska Lasses kommentar om rasism.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
 
 Skrämmande.
 

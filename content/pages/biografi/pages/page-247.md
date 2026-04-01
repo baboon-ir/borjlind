@@ -9,6 +9,9 @@ yearGroup: "2013–2017"
 ---
 Fotnot: En nära vän till Kjelle Bergqvist förlorar tvåtonårsbarn i tsunamin. Sussie. För att hantera sorgen, och minnet, startar hon såsmåningom ett barnhem och en skola på Pukhet för thailändska barn som har blivit föräldralösa i katastrofen. Kjelle stöttar hemmet ekonomiskt (så även vi). Idag är verksamheten väletablerad, heter ” Happy Child Foundation ” och slussar löpande ut unga thailändska barn i vuxenlivet.
 
+::: part
+:::
+
 Mörk tid börjar det häråret. JimmieÅkesson blir partiledare för Sverigedemokraterna. En händelse som är tämligen perifer, politiskt sett, men som ska orsaka konvulsioner i det svenska samhälletåren framöver. Mycket tack vareÅkessons egen persona. Själv har jag ingen direkt koll på honom vid den här tidpunkten. Skåning, med täta tänder och försumbart skägg.
 ::: indent
 Och ett förflutet som borde ha höjt garden en aning.
@@ -17,6 +20,9 @@ Och ett förflutet som borde ha höjt garden en aning.
 Men det finnsäven ljus i mörkret! Lille Ivan föds, Saris och Alexanders andra barn och mitt fjärde barnbarn (han kommer att bli en fiskeentusiast som nästan slår mig själv). Nuärätteläggen uppe iåtta.
 ::: indent
 Och det ska komma ett till.
+:::
+
+::: part
 :::
 
 Årets Nobelpris i litteratur tilldelas den engelske dramatikern Harold Pinter. Ytterst välförtjänt. Förutom en magnifik katalog med pjäser och filmmanus har han en utpräglat skarp och skoningslös inställning till kapitalismen och USA. Jag rekommenderar alla att lyssna på Pinters nobeltal på Youtube, det heter *”Konst, sanning och politik”*. Ett gripande dokument om skapandets villkor och en obarmhärtig vidräkning med USA. Pinter är svårt sjuk när han spelar in talet, i princip döende, och har ingen anledning att väja för sanningen.
@@ -50,6 +56,9 @@ Utsökta rätter med väldigt långa mellanrum, mer eller mindre intressanta sam
 
 ::: indent
 Been there, done that, är väl kontentan.
+:::
+
+::: part
 :::
 
 Det häråret gör jag också ett besök i Kapstaden.

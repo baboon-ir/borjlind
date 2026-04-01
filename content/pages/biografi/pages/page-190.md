@@ -23,6 +23,8 @@ Alla medverkande har dessutom accepterat en konsumdeal, alla får samma ersättn
 Såhär kunde en bit ur programmet se ut, med Stefan Sauk, Lena Nyman, Ola Magnell, Mats Ronander m.fl:
 :::
 
+[yt-video][https://www.youtube.com/watch?v=WNgdnIRoc_g]
+
 Det kommer fler inslag.
 
 Minne från Lilla Beirut: Inspelningsteamet utgörs av gamla tunga rävar på SVT, män som är vana vid helt andra förutsättningar. Ljus studio, flinka assistenter, stenhårt inspelningsschema. Här ska dom arbeta i ett mörkt kaos, mer eller mindre påuppstuds. Efter första inspelningsdagen ringer en av kameraveteranerna till dramachefen Lars Säfström och säger:
@@ -54,8 +56,16 @@ Hela serien byggs upp efter samma grundprinciper som Kulturmagasinet Vargen, fas
 Och här ett annat avsnitt, med kompositören Sten Hansson, konstintendenten Ulf Linde och dansbandspastishen ”ÅKE STEFANZ ” med Ola Magnell. I slutet framför jag själv en text till svidande såg. Den handlar om Carsten och mig. Om vår resa. Jag försöker trycka tillbaka alla känslor. Happy Cousins lider mot sitt slut:
 :::
 
+[yt-video][https://www.youtube.com/watch?v=VrWfKg4rzm8]
+
 Och här en bit till, mest för musikens skull:
+
+[yt-video][https://www.youtube.com/watch?v=HPmuuh09BVw]
 
 Och såh är såg det ut när Mari Boines samiska sång gled över i poeten Margareta Renbergs poesi och rundades av med Jojje Wadenius tunga rockgitarr:
 
+[yt-video][https://www.youtube.com/watch?v=KvmLWPZjgvg]
+
 Och här ett mer stillsamt inslag. Carsten spelar omnichord, han är märkt av cancer och har tvåår kvar att leva:
+
+[yt-video][https://www.youtube.com/watch?v=OSob8oLm0BM]

@@ -15,7 +15,12 @@ Sauk har skapat en karaktär som vi döper till ” *Gunnar Govin* ”. En mycke
 
 Ett av inslagen i videon är en kommentar till ” den tunga förorts-rapen ”:
 
+[yt-video][https://www.youtube.com/watch?v=EhO2WH_AaHU]
+
 Det blir en bisarr och bitvis hysteriskt rolig video (bitvis inte såhysteriskt rolig). Den lanseras påvideomarknaden och blir väl ingen kioskvältare.
+
+::: part
+:::
 
 Strax efter att vi har gjort Govinfilmen vill Gösta ha hjälp med bearbetning av en engelsk komediserie. Den handlar om grumpy old people och han tänker sig att den ska heta ” *En fot i graven* ”. Jag är inte såupphetsad över den engelska förlagan, brittisk humor när den är somäldst, men jag fattar vad Gösta skulle kunna göra av den med sin förmåga. Vi skriver manuset tillsammans, men det blir aldrig nån inspelning, oklart varför (för mig, jag är inte riktigt inne i projektet).
 ::: indent

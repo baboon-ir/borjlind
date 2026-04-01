@@ -7,7 +7,7 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2018–2024"
 ---
-![518.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
+![Stadiet innan vi börjar skriva.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
 
 Femte boken, ” *Kallbrand* ”, skrivs i efterdyningarna av terrordå det på Drottninggatan. Det är en bok som fokuserar påhur långt en pedofil är beredd att gåför att rädda sitt eget skinn. Väldigt långt, visar det sig.
 ::: indent

@@ -39,6 +39,9 @@ Och där ligger han och surar för att ingen vill visualisera hans exceptionella
 Jag förstår honom.
 :::
 
+::: part
+:::
+
 Mankell dyker upp igen: Cilla och jag blir tillfrågade om vi vill skriva ett avsnitt till en ny tv-serie om polisen Kurt Wallander. Mankell ska skriva ett ” utkast ” till varje avsnitt som olika författare får arbeta vidare med. Vi tackar ja (i backspegeln vet jag inte varför vi gör det, pengar? Kanske ... eller för att jag har en varm och bra relation till en av producenterna, Lars Björkman?). Vi skriver ett avsnitt som handlar om människohandel, om en container som hittas, öppnas och är fylld med döda flyktingar. Vi döper avsnittet till ” *Containern* ” (senareändras det till ” *Täckmanteln* ”).
 ::: indent
 Inte så mycket av Mankells ” utkast ” finns kvar i berättelsen.
@@ -57,6 +60,9 @@ Nota bene: Jagälskar verkligen att skriva dialog. Att landa repliker såtätt p
 
 ::: indent
 Resten av det häråret skriver Cilla och jag ytterligare fyra Beck-filmer.
+:::
+
+::: part
 :::
 
 Såkommer den andra katastrofen där Cilla och jag befinner oss utomlands.

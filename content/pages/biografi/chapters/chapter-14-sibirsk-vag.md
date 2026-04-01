@@ -31,12 +31,19 @@ Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att
 Ett tips: färsk, rundröktål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
 :::
 
+::: part
+:::
+
 Carsten och jag försöker utveckla begreppet multimedia,  dvs en form där olika konstarter möts inom en given avantgardistisk ram. Vårt nästa projekt är en föreställning på Folkoperan där vi tar det ett steg till. Den heter ”*It´s my party and I cry if I want to*”- ursprungligen titeln på en låt av artisten Lesley Gore.
 ::: indent
 Musik, poesi, film, drama, gestaltning.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/298.jpg)
+
+::: part
+:::
+
 <!-- PAGE 154 END -->
 
 <!-- PAGE 155 START -->
@@ -76,7 +83,10 @@ Föreställningenöppnar med en prolog av den heltatuerade kroppspoeten Lars Wel
 **DÅ MISSTÄNKER VI ATT ALLT ÄR SLUT**
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/193.png)
+::: part
+:::
+
+![Wellströms julpussel.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/193.png)
 
 Mer ur föreställningen: Stefan Nilsson framför ett eget stycke påpiano som heter”*Tribute to Ferlin*”. En bit in i musiken stiger spridda körröster upp ur salongen - Leif Strand Kammarkör sitter utplacerade i den stora publiken och fullföljer Stefans pianoverk.
 ::: indent
@@ -136,6 +146,10 @@ Själv framför jag dikten ”*rent & rått*”- mitt i en fras lämnar jag plö
 :::
 
 Föreställningen spelas in och sänds senare på SVT.
+
+::: part
+:::
+
 <!-- PAGE 156 END -->
 
 <!-- PAGE 157 START -->
@@ -172,7 +186,14 @@ Jag skriver en text till katalogen som handlar om Carstens och min privata resa 
 <!-- PAGE 157 END -->
 
 <!-- PAGE 158 START -->
-**Scenen var besynnerligt tom, lite benvit aska som virvlade förbi i strålkastarskenet, annars ingenting. Vi började bearbeta våra liv inför öppen ridå**** ... du målade en magisk bakgrund, jag byggde en trampolin av taggtråd. Och publiken? Ja ... den stackars publiken ... först blundade den, tills ögonen särades av en våt hand ... sen bad den om mer. Vi tvingades bevisa vår existens. Vem var du? Son av en kvinna ... frestad genom hinna efter hinna efter det färglösa ljuset. Och jag? ... med minnet av en överkörd undulat och ekot av ett kallt skratt ur pianot ... jag försökte bedra det bestialiska. Dina visioner glödde ihop till en stråle som sprängde solen ... natten splittrade mitt språk till en vintergata. Vi skapade en transparant balett, där det förbjudna var en kåt mördare på jakt efter en oskuld som gömde sig i ett tält av glas. Vi spikade upp en halshuggen vålnad på ett kors av elfenben och döpte den till ångest. Vi lät fantasin vidgas till en alabasterkupol, där vi släppte upp nyfödda duvor fyllda med löften om extas. Vi hade vittring på det gränslösa. Vi kände draget av smärtans vinge, vi smakade en droppe av det förtrollade vattnet ... och sen svalde vi det besinningslösa. Vi försökte hinna ikapp det försvunna. Vi var nära ... så nära det går som villebråd. Och vi lärde oss allt om villebrådets strategi ... vi ville behärska allt, innan vi till sist skulle kasta runt ansiktet och stånga oss in i spjutet. Lärde vi oss nåt? Inget märkvärdigt ... vi lärde oss att söka det förflutna i framtiden. Vi lärde oss att längta. Och så lärde vi oss allt om uppbrott ... att utlåna det förväntade. Vi drev oss genom klippor och pest, tills vi nådde kanten av dom dödas sjö****. Där vek du åt vänster, jag åt höger. Länge tappade vi varann ur sikte ... tills vi nådde runt sjön, slöt upp intill varann, på väg åt samma håll igen, åtskilda av den magiska bäcken, fylld av fridlysta milstolpar. Och vart var vi på väg? Till torget ... med en saga som ingen ska glömma, någonsin. En saga om två människor som åderlät en vildfasan och skänkte till dom försvarslösa. En saga om konsten som dödens bödel. En saga om konsten att orka älska, när ingenting att älska finns kvar. En saga om dom blindas överlägsna ögonmått ... en saga om oss ... och alla andra som vägrar.”**
+::: accordion
+Scenen var besynnerligt tom, lite benvit aska som virvlade förbi i strålkastarskenet, annars ingenting. Vi började bearbeta våra liv inför öppen ridå ... du målade en magisk bakgrund, jag byggde en trampolin av taggtråd. Och publiken? Ja ... den stackars publiken ... först blundade den, tills ögonen särades av en våt hand ... sen bad den om mer. Vi tvingades bevisa vår existens.
+
+Vem var du? Son av en kvinna ... frestad genom hinna efter hinna efter det färglösa ljuset. Och jag? ... med minnet av en överkörd undulat och ekot av ett kallt skratt ur pianot ... jag försökte bedra det bestialiska. Dina visioner glödde ihop till en stråle som sprängde solen ... natten splittrade mitt språk till en vintergata. Vi skapade en transparant balett, där det förbjudna var en kåt mördare på jakt efter en oskuld som gömde sig i ett tält av glas. Vi spikade upp en halshuggen vålnad på ett kors av elfenben och döpte den till ångest. Vi lät fantasin vidgas till en alabasterkupol, där vi släppte upp nyfödda duvor fyllda med löften om extas. Vi hade vittring på det gränslösa. Vi kände draget av smärtans vinge, vi smakade en droppe av det förtrollade vattnet ... och sen svalde vi det besinningslösa. Vi försökte hinna ikapp det försvunna. Vi var nära ... så nära det går som villebråd. Och vi lärde oss allt om villebrådets strategi ... vi ville behärska allt, innan vi till sist skulle kasta runt ansiktet och stånga oss in i spjutet. Lärde vi oss nåt? Inget märkvärdigt ... vi lärde oss att söka det förflutna i framtiden. Vi lärde oss att längta. Och så lärde vi oss allt om uppbrott ... att utlåna det förväntade. Vi drev oss genom klippor och pest, tills vi nådde kanten av dom dödas sjö. Där vek du åt vänster, jag åt höger. Länge tappade vi varann ur sikte ... tills vi nådde runt sjön, slöt upp intill varann, på väg åt samma håll igen, åtskilda av den magiska bäcken, fylld av fridlysta milstolpar. Och vart var vi på väg? Till torget ... med en saga som ingen ska glömma, någonsin. En saga om två människor som åderlät en vildfasan och skänkte till dom försvarslösa. En saga om konsten som dödens bödel. En saga om konsten att orka älska, när ingenting att älska finns kvar. En saga om dom blindas överlägsna ögonmått ... en saga om oss ... och alla andra som vägrar.
+:::
+
+::: part
+:::
 
 Samma månad ringer radioproducenten Kjell Dabrowski och frågar om jag vill göra ett sommarpratarprogram.
 ::: indent
@@ -203,7 +224,10 @@ Senare har jag hört att jag har placerats på en lista över sommarpratare som 
 Bit den hand.
 :::
 
-Det häråret skriver jag också ett filmmanus som heter ”*Kalabaliken i Bender*”.
+::: part
+:::
+
+Det häråret skriver jag också ett filmmanus som heter “*Kalabaliken i Bender*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/261.jpeg)
 <!-- PAGE 158 END -->
@@ -232,6 +256,9 @@ Men ”*Kalabaliken i Bender*”har ett dåligt, spretigt manus och är en dåli
 :::
 
 Minne av Kalabalikenproduktionen: Jag, Åberg och Bosse Jonsson tillbringar en helg på Grythyttans Värdshus för att diskutera manus. Första kvällen i restaurangen kommerägaren Carl-Jan Granqvist in och ställer sig påknävid vårt bord. I den positionen samtalar han en bra stund med Åberg och Jonsson. Jag sneglar då och dåner påmannen vid bordskanten och undrar om han faller påknäinför alla gäster? Det verkar väldigt obekvämt. Såbjuder han med oss ner i vinkällaren. Mörk, suggestiv, fylld med vad jag antar är rariteter. Jag råkar dra ut en väldigt dammig flaska ur ett träfack och ser iögonvrån Granqvist förskräckta reaktion. Förmodligen har det med dammet att göra, att jag avlägsnar en del damm från flaskkroppen, eller för att jag håller flaskan rakt upp och ner - mystiska saker i botten kan vandra uppåt. När Granqvist har hämtat sig börjar han berätta om”döda viner”, ett okänt begrepp för mig, viner som har ”gått över sin tid”och dött. Ändåfinns det folk som dricker det. Nekrofilpimplare. Jag använder mig senare av informationen i en scen i en Beckfilm,”*Den japanska Shungamålningen*”, där Jan Malmsjötalar varmt om ”döda viner”.
+
+::: part
+:::
 
 Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sammanhang framöver. Den heter ”*Nyttiga Idioter*” och utgår från ett uttryck av den tyske författaren Heinrich Böll:
 <!-- PAGE 159 END -->
@@ -330,6 +357,9 @@ Jan-Olof Strandberg framför dikten i SVT påföljandeår, själv läser jag den
 Facklor, gråt, mörker.
 :::
 
+::: part
+:::
+
 Om vi hade kunnat titta tillbaka på dom häråren när dom faktiskt pågick, liteåt det holistiska hållet, hade vi förmodligen reagerat mycket starkt - dom av oss som inte tror på den ”fria marknaden”. Som tror att det är en semantisk täckmantel för en cynisk form av plundring. Det är nämligen dom häråren som ”marknaden”släpps ut ur sina hålor och får fritt spelrum. När den kollektiva solidariteten börjar rämna och allt ska handla om jaget. Skit i andra och skjut dig själv. Om privatisering. När mer och mer av det gemensamma säljs ut och omtanke ersätts av profit, i den fria konkurrensens heliga slakthus (svallvågorna slår fortfarande in som en makaber tsunami i samhället).
 ::: indent
 Till detta återkommer jag.
@@ -378,6 +408,9 @@ Kanske är det som finnen sa som slickade på en uranstav:
 – Lite strålning ska en karl tåla.
 :::
 
+::: part
+:::
+
 SVT kontaktar mig och vill att jag skriver en text som ska framföras på årets Guldbaggegala. Återigen ett tillfälle att nålite längre ut. Jag skriver ett”kungörande” från Svenska Filminstitutet:
 
 **”Filminstitutet har just lyckats övertala ingen mindre än Ingmar Bergman att göra ytterligare en långfilm - en dramadokumentär om Nya Testamentet i modern tappning. **
@@ -389,6 +422,9 @@ SVT kontaktar mig och vill att jag skriver en text som ska framföras på årets
 **     E4 döps tillfälligt om till Via Dolorosa och Golgata placeras på Arlanda, där Barkaby flygflottilj har lovat att formera ett kors av Viggenplan på himlen under själva korsfästelsen. Jesus flankeras på korset av dom två rövarna Pehr Gyllenhammar och Anders Wall ... osv ...”**
 
 Texten stoppas av tv-ledningen, men trycks senare i tidningen Arbetaren.
+
+::: part
+:::
 
 Mot slutet av det häråret gör Sergeant Honolulu Double Fucking Five sitt sista framträdande, på Mosebacke Etablissemang. Fullsatt, stökigt och roligt - en musikalisk lustifikation går i graven.
 ::: indent
@@ -414,6 +450,9 @@ Han har också en trevlig fru som har sju småhundar.
 Fotnot: Det häråret, 1982, bildar jag ett bolag. Deadline HB. Det existerar fortfarande, nu som Deadline AB. Namnet förpliktigar.
 ::: indent
 (Tveksam information.)
+:::
+
+::: part
 :::
 
 Vissa dagar sitter jag stilla vid mitt spröjsade fönster och tittar ut påingenting, eller det som är ingenting när man inte har kontakt med omvärlden. Jag kunde ha sett gröna träd och ett staket och ett rullandeäpple på marken, men jag ser ingenting.
@@ -481,6 +520,9 @@ Ochär så än idag.
 
  Kanske, men bara kanske, skrev jag aldrig texten.
 
+::: part
+:::
+
 ::: indent
 – Vi vill ha en bild av Fälldin påomslaget, den med plåstret.
 :::
@@ -507,22 +549,31 @@ Till exempel chefredaktören Olof Lagercrantz brev till Staffan Heimersson på A
 **”Tillåt mig uttrycka min sympati och respekt. Jag kan inte erinra mig något ögonblick i de senaste fyrtio årens massmediahistoria så svart som det nuvarande. Inte en gång när Hitlers sol stod i zenit var den svenska pressen så lam och eländig som nu. En majoritet applåderar när landets statsminister vill ha domstolshjälp för att kväva ett fritt ord. Det självklara hade varit att begära hans avgång, ty den som inte känner de elementära spelreglerna i demokratin är inte värdig att bekläda en så hög post. Jag är glad att du agerat så kraftigt och klart.”**
 
 Ord och inga visor.
+
+::: part
+:::
+
 <!-- PAGE 162 END -->
 
 <!-- PAGE 163 START -->
-Såhar Carsten en ny utställning på Galleri Engström. Den heter ”*Nofretete*”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på 70-talet. Carsten trivs med honom.
+Såhar Carsten en ny utställning på Galleri Engström. Den heter “*Nofretete*”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på 70-talet. Carsten trivs med honom.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/197.png)
+![Vargens hjärta.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/197.png)
 
-Jag bidrar med en kort text till katalogen: ”*When future became history*”:
+Jag bidrar med en kort text till katalogen: “*When future became history*”:
 
 **”Han vet att Ni ser. Även den här gången. Han försöker fatta sig kort. Tiden är utmätt. Han ger Er några snabba stänk från den skönhet som är hans. Han vet vad Ni längtar efter, innerst inne. Han lever ensam, genomborrad av ett löfte, i skuggan av det ljus dom blinda kallar klarsyn. Han leker med Er, som alltid. I hans mörka hjärnskål vaggar minnet av en trasig tystnad.**
 
-**Han har testat några gränser i sitt liv. Han har känt sig för i utkanterna, anat var bumerangen vänder. Han har svalt tegelstenar för att måla ett enda ansikte. Han har gömt sig i stål för att binda elden. Nu har säden från Ert samhälle torkat på hans knäskålar och han har bestämt sig.**
+::: accordion
+**Han har testat några gränser i sitt liv. Han har känt sig för i utkanterna, anat var bumerangen vänder. Han har svalt tegelstenar för att måla ett enda ansikte.**
 
-**     Innanför hans skönhet finns ingenting. Ingenting Ni kan ta ifrån honom, ingenting Ni kan lägga till. Han doppade sina visioner i Er förgiftade mull, tills han lärde sig Allt om ett liv i lera. Han utmanade löftet på duell, stacks ner av frestelsen och fick en klinga hat genom magsäcken. Nu har han rest sig, full av kärlek.**
+Innanför hans skönhet finns ingenting. Ingenting Ni kan ta ifrån honom, ingenting Ni kan lägga till. Han doppade sina visioner i Er förgiftade mull, tills han lärde sig Allt om ett liv i lera. Han utmanade löftet på duell, stacks ner av frestelsen och fick en klinga hat genom magsäcken. Nu har han rest sig, full av kärlek.
 
-**     Nu kan Ni spetsa fåglar på taggtråd och mala tinningar till benmjöl och han ska småle. Han har vänt på visitkortet. Igen. Ingenting existerar mellan honom och hans avtryck. Inte ens damm eller darrande löv. Han har gett Er ett öga, det är allt. Nu kan Ni släppa honom ur sikte. Han bär stoftet av Er staty i en kula runt bålen. Ni bär ingenting.”**
+Nu kan Ni spetsa fåglar på taggtråd och mala tinningar till benmjöl och han ska småle. Han har vänt på visitkortet. Igen. Ingenting existerar mellan honom och hans avtryck. Inte ens damm eller darrande löv. Han har gett Er ett öga, det är allt. Nu kan Ni släppa honom ur sikte. Han bär stoftet av Er staty i en kula runt bålen. Ni bär ingenting.
+:::
+
+::: part
+:::
 
 Ett par nyhetsartiklar fångar min uppmärksamhet. Dom handlar om hur vackra kvinnor frånöstländer kontaktar svenska tjänstemän påmellannivåoch förleder dom att börjaägna sigåt industrispionage. Via erotiskt umgänge. Kontakterna tas på olika mässor runt om i Europa.
 ::: indent
@@ -544,6 +595,10 @@ Det är fortfarande oinspelat (och totalt inaktuellt).
 ::: indent
 Plums igen.
 :::
+
+::: part
+:::
+
 <!-- PAGE 163 END -->
 
 <!-- PAGE 164 START -->
@@ -578,10 +633,13 @@ Multimediagruppen Gateway skriver tillsammans ett treatment till en tv-film som 
 
 Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp påköksbordet till sin fru: ”*va rörigt det blev*”).
 ::: indent
-Vårt treatment är ingenting som fäster hos några tv-producenter (det dröjer till 1990 innan vi får genomföra idén i SVT, då i 8 halvtimmesprogram under namnet ”*Sista Skriket*”).
+Vårt treatment är ingenting som fäster hos några tv-producenter (det dröjer till 1990 innan vi får genomföra idén i SVT, då i 8 halvtimmesprogram under namnet “*Sista Skriket*”).
 :::
 
-Resten avåret skriver jag mängder av texter: dikter, jubileumskantater, program för slag, sketcher, artiklar, satirer, sångtexter (för kalenderbitaren finns allt ”extramaterial”redovisat under APPENDIX).
+::: part
+:::
+
+Resten avåret skriver jag mängder av texter: dikter, jubileumskantater, program för slag, sketcher, artiklar, satirer, sångtexter (för kalenderbitaren finns allt “extramaterial”redovisat under APPENDIX).
 <!-- PAGE 164 END -->
 
 <!-- PAGE 165 START -->
@@ -610,7 +668,10 @@ Har aldrig funnits där, inte i den bemärkelsen, de flesta genuina författare 
 Och begåvning.
 :::
 
-Det är sent om natten, mörker utanför, jag har Ulf Lundell i hörlurarna, ”*Kär och Galen*”. Jag har alltid musik påfull volym när jag skriver, ett lite speciellt sätt att fokusera (idag behöver jag total tystnad). Jag hugger tag i Lundells strofer, låter dom skölja in, befrukta, skjuta iväg mig åt mitt håll (jag respekterar Lundell väldigt mycket för hans förmåga att hålla fast vid sitt uppsåt, många tenderar att tappa det halvvägs in i camemberten). Just ikväll har jag fått tag i en bunt thaisticks, god flykt, det är första gången på mycket länge. Jag brottas med ”*Legenden om Baronessan Borelli*”. Jag har en enorm samling texter, korta stycken, granatsplitter ur hjärnan, nerslag i det förflutna, ansikten i vattenpölar, röster, tvång, jag vet inte hur jag ska fåihop det till en fungerande berättelse. En roman. Jag vill inte ha en början och ett slut och en hängmatta i mitten.
+::: part
+:::
+
+Det är sent om natten, mörker utanför, jag har Ulf Lundell i hörlurarna, “*Kär och Galen*”. Jag har alltid musik påfull volym när jag skriver, ett lite speciellt sätt att fokusera (idag behöver jag total tystnad). Jag hugger tag i Lundells strofer, låter dom skölja in, befrukta, skjuta iväg mig åt mitt håll (jag respekterar Lundell väldigt mycket för hans förmåga att hålla fast vid sitt uppsåt, många tenderar att tappa det halvvägs in i camemberten). Just ikväll har jag fått tag i en bunt thaisticks, god flykt, det är första gången på mycket länge. Jag brottas med ”*Legenden om Baronessan Borelli*”. Jag har en enorm samling texter, korta stycken, granatsplitter ur hjärnan, nerslag i det förflutna, ansikten i vattenpölar, röster, tvång, jag vet inte hur jag ska fåihop det till en fungerande berättelse. En roman. Jag vill inte ha en början och ett slut och en hängmatta i mitten.
 
 **”Jag är mycket trygg. Rummet ljusnar, barnet i bortre hörnet vaknar, vänder sig och somnar om. Tredje gången lyfter jag barnet, tar det försiktigt i famnen, stryker lite fukt från ögonlocken, trycker den lilla utslängda kroppen mot mina försvunna behov och börjar tala. Långsamt, enkelt, utan större innebörd ... om en död man hittar en tom sten och gömmer sitt skrik i stenen, om ett litet barn hittar stenen på en strand, lyfter den i handen, mycket varsamt, som ett fågelägg, och plötsligt slungar stenen över vattenytan, ljudlöst, för att inte skrämma vågorna, först då ska skriket tystna, först då ska en död man nå sitt barn, först då ska han förklara: ”När ingenting finns att berätta finns ingenting. Då har inte ens du och jag varann, då är till och med du och jag främlingar.” Jag slutar tala och tittar ner, barnet i min famn har somnat om, med ett okänt djur i munnen.”**
 

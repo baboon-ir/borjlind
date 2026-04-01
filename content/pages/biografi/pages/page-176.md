@@ -60,4 +60,4 @@ Men lite uppskattning är alltid välkommet.
 
 Samtidigt har Carsten en utställning på Boibrino Gallery i Stockholm. En av målningarna heter ” *Gobelängjungfrun* ” (enligt Carsten ett transformerat minne av tapisserisviten ” *Damen med enhörningen* ” i medeltidsmuseet i Cluny):
 
-![202.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/202.png)
+![Gobelängjungfrun.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/202.png)

@@ -7,7 +7,10 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2018–2024"
 ---
-![400.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
+![Mr Ray Balon Sinclair på Dagens Nyheter.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
+
+::: part
+:::
 
 Vid det här laget, den här tidpunkten, har jag tvådöttrar, tvåsöner och fyra barnbarn. Jag tänker: Dom kommer att läsa det här (kanske). Hur mycket kommer dom att begripa av det jag harägnat mitt livåt? Inte i bemärkelsen förstå, men det bakomliggande? Hur mycket är beroende av bakgrunden, sammanhanget, tidskänslan? Hur ser det ut idag? Hur långt är det intellektuella och emotionella avståndet till då?
 ::: indent
@@ -69,6 +72,9 @@ Jag kan ta det utanför den familjära kretsen. När blir det privata allmängil
 **Svårt att vänja sig av med sig själv.**
 :::
 
+::: part
+:::
+
 *”Svårt att vänja sig av med sig själv.”*
 ::: indent
 Intrikat insikt.
@@ -80,6 +86,9 @@ Men det som fäster mest hos mig: *”Det som är boskap i andra är boskap ocks
 
 ::: indent
 Mörkrets hjärna igen.
+:::
+
+::: part
 :::
 
 Arne Dahl.

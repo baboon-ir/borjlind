@@ -75,6 +75,8 @@ Producenten heter Tommy Bennwik, Sundvall regisserar, sex skådespelare medverka
 
 Carsten och jag kommer snabbt fram till en layout för reklamfilmerna. Inslagen ska påannonseras som ”*Kanal C*”med Carstens stiliseradeöga som logotype.
 
+[yt-video][https://www.youtube.com/watch?v=WWkM1T_eksQ]
+
 Varje block ska vara 3 minuter och dyka upp tvågånger i varje program (sammanlagt gör vi 28 reklamfilmer).
 <!-- PAGE 181 END -->
 
@@ -83,6 +85,8 @@ Stefan och jag börjar arbeta. Han får en massa textbitar av mig och börjar re
 ::: indent
 Vi känner ocksånästan direkt att det är här vi ska göra inspelningarna. I det här utomordentligt charmlösa och oscenograferade hålrummet, med enbart en fast kamera. Ingen fotograf, Stefan får själv dirigera sitt agerande framför objektivet. Effekten blir påträngande och originell. Vi föreslår att inslagen ska starta med en grynig ruta som aviserar ett”*Tillfälligt Avbrott*”. Sundvall tycker det är en bra idé.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=iwRXs_O5vt0]
 
 Karaktären ”Rune”och hans uttryck”*de e mycke nu*”får en märklig genomslagskraft. Plötsligt dyker det upp i alla möjliga sammahang, såväl i folkmun som i riksdagsdebatter. Fyra enkla ord som uppenbarligen fångar upp en utbredd känsla i tiden (genomslaget påminner om ett annat av mina uttryck lite senare, också med fyra ord:”*Skaru ha en stänkare*?”).
 
@@ -116,9 +120,12 @@ Dåfinns det annat du kan göra.
 <!-- PAGE 182 END -->
 
 <!-- PAGE 183 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/299.png)
+![Köp en öde ö.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/299.png)
 
 Lorrys framgångar beror på flera olika saker, enligt min uppfattning. Mixen mellan begåvade humorsketcher, relativt råreklamsatir och Stefans personliga gestaltningar visar sig fungera utomordentligt bra. Programmen faller olika smaker påläppen. Dessutom är samtliga skådespelare utomordentligt duktiga på att leverera, alla har den där speciella tajmingen som krävs för att humor ska fungera. De flesta är ocksårelativt okända för den stora publiken. En av dom, Peter Dalle, bidrar dessutom med ett antal suveränt drastiska texter, med en utsökt fingertoppskänsla för underskruv (han blir sedermera ocksåregissör för serien när Kjell Sundvall slutar).
+
+::: part
+:::
 
 Såhär långt, i slutet av 80-talet, är livet fortfarande hanterbart. Dom tioåren på ön har fjärmat mig en hel del från det som gröpte ur tillvaron och slet sönder mig. Jag har landat i ett annat jag. Föga anar jag vad som väntar runt hörnet (vi gör ju sällan det).
 
@@ -135,63 +142,42 @@ Jag skriver också 4 sångtexter till Anna-Lotta Larsson skiva *”Vädur”*.
 
 Den vackraste är en svensk version av Bette Midlers låt *”The Rose”**, * den mest poetiska är ”*Nu rider han på floden*”.
 
-***Jag stod på torget en helig dag***
+**Jag stod på torget en helig dag
+Och höll en man i min hand,
+Och kände hans läppar mot mina
+Och såg hur snabbt han försvann...
+Vart ska du? hade jag frågat
+Fast jag redan visste hans svar,
+Rida på floden, min älskling
+Det är det enda jag har kvar.**
 
-***Och höll en man i min hand,***
+**Nu rider han på floden
+Nu rider han på floden**
 
-***Och kände hans läppar mot mina***
+**Jag visste exakt vad han ville
+Och varför han gjorde det nu,
+Jag satt där i skuggan av trädet
+Tills klockan i tornet slog sju...
+Då kände jag barnet intill mig
+Och handen som barnet höll ut,
+Tillsammans gick vi till stranden
+Där spåren av hästen tog slut.**
 
-***Och såg hur snabbt han försvann...***
-
-***Vart ska du? hade jag frågat***
-
-***Fast jag redan visste hans svar,***
-
-***Rida på floden, min älskling***
-
-***Det är det enda jag har kvar.***
-
-***Nu rider han på floden***
-
-***Nu rider han på floden***
-
-***Jag visste exakt vad han ville***
-
-***Och varför han gjorde det nu,***
-
-***Jag satt där i skuggan av trädet***
-
-***Tills klockan i tornet slog sju...***
-
-***Då kände jag barnet intill mig***
-
-***Och handen som barnet höll ut,***
-
-***Tillsammans gick vi till stranden***
-
-***Där spåren av hästen tog slut.***
-
-***Nu rider han på floden***
-
-***Nu rider han på floden***
+**Nu rider han på floden
+Nu rider han på floden**
 <!-- PAGE 183 END -->
 
 <!-- PAGE 184 START -->
-***Ser du! Sa barnet och pekade***
+**Ser du! Sa barnet och pekade
+Och jag svarade: Ja, jag ser...
+Jag såg honom rida på floden
+Sen såg jag honom aldrig mer...**
 
-***Och jag svarade: Ja, jag ser...***
+**Nu rider han på floden
+Nu rider han på floden**
 
-***Jag såg honom rida på floden***
-
-***Sen såg jag honom aldrig mer...***
-
-***Nu rider han på floden***
-
-***Nu rider han på floden***
-
-***Jag såg honom rida på floden***
-
-***Sen såg jag honom aldrig mer...***
+**Jag såg honom rida på floden
+Sen såg jag honom aldrig mer...**
 
 Detta är just innan Dråpslaget.
 ::: indent
@@ -230,11 +216,14 @@ Happy Cousins då?
 Stoppa sorgen i en gammal säck och skratta och var glad?
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/300.png)
+![Skratta åt vadå?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/300.png)
 
 Såhär i efterhand förstår jag hur insikten om att Carsten var på väg att döpåverkade mig, på flera plan, sköt ut mig i en vilsenhet som jag inte var beredd på. Grundvalarna gungade.
 ::: indent
 Det skulle fåkomplicerade effekter.
+:::
+
+::: part
 :::
 
 Lorry nomineras till Guldrosen, Europas finaste tv-pris. Det ska delas ut i Montreaux och delar av Lorrygängetåker dit. Inklusive jag själv. Vi vinner inte, allaåker hem utom jag som fortsätter till Venedig. Ensam. Senast jag var där gjorde jag en dokumentärfilm för Moderna Museet, nu har jag ingen annan avsikt med besöketän att fly. Jag är djupt förvirrad och har mist fotfästet. Orsaken är min nyblivna förälskelse i Cilla Gemvall.
@@ -266,6 +255,9 @@ Ett regnigt och ödsligt Venedig. Jag går runt i gränderna som en våt vålnad
 
 Cilla och jag gifter oss någraår senare. Bröllopsresan går till Venedig. Den våta vålnaden är försvunnen och Cilla blir den tredje grundpelaren i mitt liv (till dags dato har vi varit tillsammans i 30 år och har en dotter, Molly, till henneåterkommer jag).
 
+::: part
+:::
+
 Småglädjekorn i tillvaron: Nelson Mandela släpps fri. Äntligen. ANC-s kamp har gått i mål och världen kommer att fålära sig ett nytt begrepp: försoning, istället för hämnd. Ett konkret exempel är Robben Island, fängelset där Mandela satt i allaår. Dom vita fångvaktarna anställs efter Mandelas makt över tagande för att sköta fängelsets löpande verksamhet som minnesplats.
 ::: indent
 Lite som Castro: när han tog över lät han bli att krossa alla byggnader och palats som ägts av förtryckarna, istället förvandlade han dom till bostäder för hemlösa.
@@ -273,6 +265,9 @@ Lite som Castro: när han tog över lät han bli att krossa alla byggnader och p
 
 ::: indent
 Intrikat.
+:::
+
+::: part
 :::
 
 Carsten kämpar med sin cancer. Han har en stor separatutställning på Kulturhuset i Stockholm. Han kallar den ”*Terra Incognito*”. Den består av 10 kvadratiska målningar i formatet 2 x 2 meter.
@@ -312,6 +307,9 @@ Jag skriver en text till katalogen som jag döper efter ett lysande uttryck av C
 **     - ****Älskar ni mig!**
 
 **     Som om världen var vacker, och var fanns ... medan natten obönhörligen faller.”**
+
+::: part
+:::
 
 I samband med utställningen arrangerar Gateway sina sista tre multimedia för eställningar (live, vi kommer att använda konceptet i en tv-serie senare det häråret). Det sker ocksåpå Kulturhuset. Vi döper arrangemanget till ”*Sista Skriket - en futuristisk happening i 5 paket*”. Medverkande är en blandning av poeter, konstnärer, musiker och skådespelare: Karl-Erik Welin, Stefan Sauk, Janne Schaffer, Sten Hansson, Ola Magnell, Curre Hillfon, Mats Ronander, Bruno KÖijer, Åke Sundqvist, Anna-Lotta Larsson m.fl.
 
@@ -413,6 +411,9 @@ Påuppdrag av Filmfestivalen i Göteborg skriver jag en text till tidningen ”D
 
 **     Och så länge den chansen finns, sitter jag där ensam i mörkret och torteras.”**
 
+::: part
+:::
+
 Carsten lever fortfarande.
 ::: indent
 Inre tumult. Jag vet att jag förtränger.
@@ -432,6 +433,9 @@ Döden är svår att sublimera.
 
 ::: indent
 Det enda som hjälper är arbete.
+:::
+
+::: part
 :::
 
 Tvåspännande kvinnor, en bra idéoch inrökta kaféer.
@@ -552,6 +556,8 @@ Alla medverkande har dessutom accepterat en konsumdeal, alla får samma ersättn
 Såhär kunde en bit ur programmet se ut, med Stefan Sauk, Lena Nyman, Ola Magnell, Mats Ronander m.fl:
 :::
 
+[yt-video][https://www.youtube.com/watch?v=WNgdnIRoc_g]
+
 Det kommer fler inslag.
 
 Minne från Lilla Beirut: Inspelningsteamet utgörs av gamla tunga rävar på SVT, män som är vana vid helt andra förutsättningar. Ljus studio, flinka assistenter, stenhårt inspelningsschema. Här ska dom arbeta i ett mörkt kaos, mer eller mindre påuppstuds. Efter första inspelningsdagen ringer en av kameraveteranerna till dramachefen Lars Säfström och säger:
@@ -583,15 +589,25 @@ Hela serien byggs upp efter samma grundprinciper som Kulturmagasinet Vargen, fas
 Och här ett annat avsnitt, med kompositören Sten Hansson, konstintendenten Ulf Linde och dansbandspastishen”ÅKE STEFANZ ”med Ola Magnell. I slutet framför jag själv en text till svidande såg. Den handlar om Carsten och mig. Om vår resa. Jag försöker trycka tillbaka alla känslor. Happy Cousins lider mot sitt slut:
 :::
 
+[yt-video][https://www.youtube.com/watch?v=VrWfKg4rzm8]
+
 Och här en bit till, mest för musikens skull:
+
+[yt-video][https://www.youtube.com/watch?v=HPmuuh09BVw]
 
 Och såh är såg det ut när Mari Boines samiska sång gled över i poeten Margareta Renbergs poesi och rundades av med Jojje Wadenius tunga rockgitarr:
 
+[yt-video][https://www.youtube.com/watch?v=KvmLWPZjgvg]
+
 Och här ett mer stillsamt inslag. Carsten spelar omnichord, han är märkt av cancer och har tvåår kvar att leva:
+
+[yt-video][https://www.youtube.com/watch?v=OSob8oLm0BM]
 <!-- PAGE 190 END -->
 
 <!-- PAGE 191 START -->
 Hela tv-serien avslutas med ett specialprogram där Bruno KÖijer framför sin långa dikt”*Skisser till ett av dödens tal*”till ackompanjemang av Jan Tolf och några musiker.
+
+[yt-video][https://www.youtube.com/watch?v=YtzHMP2o1nw]
 
 Skivbolaget Sonet ger senare ut en samlings-cd med musikmaterial ur tv-serien.
 
@@ -603,11 +619,18 @@ Såhär sammanfattar jag hela inspelningen i en text till cd-skivan:
 <!-- PAGE 191 END -->
 
 <!-- PAGE 192 START -->
-**Mr Rex har just klivit in och spanar långsamt ut över strålbelysta varelser och blödande objekt och hans blick stannar på Balooba Bar där Jesus ömsom blundar och ömsom blinkar för att dölja det gråtande barnet intill och Mr Rex slår sig ner vid den svarta katten på disken och hänger sin hatt på den vakande hökens huvud och vinkar till sig en dubbel Gammeldansk, det är dags ... scenen är rummet och rummet är kaos och ingenting bär sin betydelse och Ormkvinnan sväljer rakblad på rakblad för att utmana Damen som sväljer sig själv, och ingenting är förbjudet längre som aldrig var tillåtet förr ... och i hörnet vaggar Clownen förbi, han har trängt en fjäder genom örsnibben och häller svart sorg i sitt munspel och viskar: misslyckandet är vår enda belöning, och tonerna fångas in av ett snurrade framhjul och slungas ut över tvåhundra skära kaniner som vaggar över trappstegsformade golv, det är en natt för levande och för krig ... och Damen i baren tänder en cigarett på en cigarett och släpar ut sin röst i ljuset för att nagla fast vad ingen annan vågar: det är så här sanningen ser ut, när ingenting annat återstår ... över bardisken går en råtta på lina, halkar till och hamnar i Damens glas och den Blinde föser undan råttan och lägger upp sitt vackra teakfodral och lyfter fram sin sjungande såg och låter stråken besvärja dom försvunna tänderna, och han lyfter den olästa textens hjärta genom jord och asfalt ända upp till den gråtande änkan på bänken i parken som sörjer att sorgen dött ut ... och genom valvet drar en fuktig lukt av andra landskap, ett stråk av obeveklig närvaro, Mannen av Mörker håller en mikrofon i handen och språket strålar ett skelett mot fonden, han vet vad det handlar om: du kan inte läkas i en värld du inte krossat ... och den svarta flamingon vakar mot en enkel blå himmel hundra meter under den välbärgade hustrumisshandlare som korsar gatan arm i arm med sitt nya förälskade offer och genom himlen kliver Sångaren med händer utan oro, han ser den skygga kvinnan bakom cittran och hör klangen från en dov oboe och han vandrar långsamt in i klostret där dom blinda barnen bor ... och Pudelmannen dansar över schackrutornas obarmhärtiga mönster och hans rosa penis vajar längs hundskelettets skugga och Mannen med Stjärnan kliver in i en cirkel av uppriktighet för att överlämna vingarna från den förbrukade fågeln: det finns ingenting att förlora som inte redan är vunnet ... och i ståltrappan vaggar tre nakna skyltdockor med små svarta stjärnor på bröstvårtorna och Kvinnan i Siden lindar sitt lena hår runt en trumpet av guld och Mannen i Jackan lyfter sitt horn och genom munstycket blåser en ande av saknad och saknaden söker sig oblygt in i Kvinnans kåta röst och runt midnatt viner en rysning genom valvet och till och med djuren i trossbottnen tystnar ... och den flådda kalven vaggar från en krok i taket, genom röken glider en ljushårig kvinna med en gunghäst i handen, hon säljer en bild av det förbisedda, ingen ser henne gå eller andas, hon ler mot Rebellen utan Ålder och ser honom böja sin smärta mot flygeln och hör honom rulla sina svarta tärningar av elfenben: helle älskad av fåän hatad av ingen ... han har ingenting att bevara längre, utom kunskapen om det förrådda, och en jättelik svartmålad glödlampa sprutar sitt ljus genom utskurna stjärnhål och Queen of Aces tunga röst skär in sitt sköra budskap genom silverblå rök: ingenting är vackrare än det som nyss försvann ... och den Tatuerade Mannen står stilla mellan splittrade spegelväggar och ser skärvorna slunga sönderskurna ansikten mot barens blodröda neonskylt och ingen hör hans stympade viskning: hur länge kan man leta efter nåt som aldrig har försvunnit ... och hukad över den lilla förstärkaren sitter Skuggan av New York och dödar varje tvekan med sina brutala slingor längs the road of rock&roll och Svärdmannen sänker sin kropp framför ögat och stukar sin välkända baseballmössa och ur hans mun krälar en mask av mjukt förtroende: jag är normal, jag är fullständigt normal, och allting skälver av obehag ... och ur mörkret växer en tennisboll till en jordglob utan axel och Sameflickans kropp står stilla som om all natur satt fast i hennes kött och ur köttet föds en mörk och mäktig jojk som får liv och död att smälta samman till en punkt av innerlig tidlöshet ... och Slaktaren i baren har höjt sitt organiska instrument och hans mekaniska röst upprepar samma strof om och om igen tills Jesus slutar blunda: skärp dig för fan ... skärp dig för fan ... och Mannen i Blå Cheviot låter handen vandra över halsen på sin svidande älskarinna och hans fingrar vet exakt hur en pulsåder ska behandlas och Dr Rythm håller ut en hand av glädje för att blidka alla som svalt tristess och i gulbrunt dunkel står Den Nakna Kvinnan med en pensel mellan läpparna och lovar att hon aldrig ska bekänna, hur hårt dom än slår sönder det hon ändå aldrig trott på ****... och Mannen av Marmor låter händerna svänga i en svunnen epok medan tungan löper gatlopp mellan hänförelse och exakt förakt och Den Vackra Pojken jonglerar med bananer för att minnas det han mist och från väggen talar en stum indiangud om allt det som en gång var värt att förvalta ... och Mr Rex reser sig från Balooba Bar och vänder sitt vitkalkade ansikte mot bongotrummornas avgrund och hans obevekliga blick splittrar rösten: no problems, take i easy ... och rytmen dunstar i tystnades öken, zebrahuden glänser på väggen över soffan, fjäderkuken gungar stilla på bordet, ingen dansar längre i Lilla Beirut, visarna på den gigantiska klockan roterar sakta baklänges, tiden tillhör dom som föraktar den och över den guldkalkade väggen vakar Trubadurens brutala epitaf i rött spray: medan natten obönhörligen faller ... glider dörrarna sakta igen om det absolut sista skriket. **
+::: accordion
+**Mr Rex har just klivit in och spanar långsamt ut över strålbelysta varelser och blödande objekt och hans blick stannar på Balooba Bar där Jesus ömsom blundar och ömsom blinkar för att dölja det gråtande barnet intill**
+
+**och Mr Rex slår sig ner vid den svarta katten på disken och hänger sin hatt på den vakande hökens huvud och vinkar till sig en dubbel Gammeldansk, det är dags ... scenen är rummet och rummet är kaos och ingenting bär sin betydelse och Ormkvinnan sväljer rakblad på rakblad för att utmana Damen som sväljer sig själv, och ingenting är förbjudet längre som aldrig var tillåtet förr ... och i hörnet vaggar Clownen förbi, han har trängt en fjäder genom örsnibben och häller svart sorg i sitt munspel och viskar: misslyckandet är vår enda belöning, och tonerna fångas in av ett snurrade framhjul och slungas ut över tvåhundra skära kaniner som vaggar över trappstegsformade golv, det är en natt för levande och för krig ... och Damen i baren tänder en cigarett på en cigarett och släpar ut sin röst i ljuset för att nagla fast vad ingen annan vågar: det är så här sanningen ser ut, när ingenting annat återstår ... över bardisken går en råtta på lina, halkar till och hamnar i Damens glas och den Blinde föser undan råttan och lägger upp sitt vackra teakfodral och lyfter fram sin sjungande såg och låter stråken besvärja dom försvunna tänderna, och han lyfter den olästa textens hjärta genom jord och asfalt ända upp till den gråtande änkan på bänken i parken som sörjer att sorgen dött ut ... och genom valvet drar en fuktig lukt av andra landskap, ett stråk av obeveklig närvaro, Mannen av Mörker håller en mikrofon i handen och språket strålar ett skelett mot fonden, han vet vad det handlar om: du kan inte läkas i en värld du inte krossat ... och den svarta flamingon vakar mot en enkel blå himmel hundra meter under den välbärgade hustrumisshandlare som korsar gatan arm i arm med sitt nya förälskade offer och genom himlen kliver Sångaren med händer utan oro, han ser den skygga kvinnan bakom cittran och hör klangen från en dov oboe och han vandrar långsamt in i klostret där dom blinda barnen bor ... och Pudelmannen dansar över schackrutornas obarmhärtiga mönster och hans rosa penis vajar längs hundskelettets skugga och Mannen med Stjärnan kliver in i en cirkel av uppriktighet för att överlämna vingarna från den förbrukade fågeln: det finns ingenting att förlora som inte redan är vunnet ... och i ståltrappan vaggar tre nakna skyltdockor med små svarta stjärnor på bröstvårtorna och Kvinnan i Siden lindar sitt lena hår runt en trumpet av guld och Mannen i Jackan lyfter sitt horn och genom munstycket blåser en ande av saknad och saknaden söker sig oblygt in i Kvinnans kåta röst och runt midnatt viner en rysning genom valvet och till och med djuren i trossbottnen tystnar ... och den flådda kalven vaggar från en krok i taket, genom röken glider en ljushårig kvinna med en gunghäst i handen, hon säljer en bild av det förbisedda, ingen ser henne gå eller andas, hon ler mot Rebellen utan Ålder och ser honom böja sin smärta mot flygeln och hör honom rulla sina svarta tärningar av elfenben: helle älskad av fåän hatad av ingen ... han har ingenting att bevara längre, utom kunskapen om det förrådda, och en jättelik svartmålad glödlampa sprutar sitt ljus genom utskurna stjärnhål och Queen of Aces tunga röst skär in sitt sköra budskap genom silverblå rök: ingenting är vackrare än det som nyss försvann ... och den Tatuerade Mannen står stilla mellan splittrade spegelväggar och ser skärvorna slunga sönderskurna ansikten mot barens blodröda neonskylt och ingen hör hans stympade viskning: hur länge kan man leta efter nåt som aldrig har försvunnit ... och hukad över den lilla förstärkaren sitter Skuggan av New York och dödar varje tvekan med sina brutala slingor längs the road of rock&roll och Svärdmannen sänker sin kropp framför ögat och stukar sin välkända baseballmössa och ur hans mun krälar en mask av mjukt förtroende: jag är normal, jag är fullständigt normal, och allting skälver av obehag ... och ur mörkret växer en tennisboll till en jordglob utan axel och Sameflickans kropp står stilla som om all natur satt fast i hennes kött och ur köttet föds en mörk och mäktig jojk som får liv och död att smälta samman till en punkt av innerlig tidlöshet ... och Slaktaren i baren har höjt sitt organiska instrument och hans mekaniska röst upprepar samma strof om och om igen tills Jesus slutar blunda: skärp dig för fan ... skärp dig för fan ... och Mannen i Blå Cheviot låter handen vandra över halsen på sin svidande älskarinna och hans fingrar vet exakt hur en pulsåder ska behandlas och Dr Rythm håller ut en hand av glädje för att blidka alla som svalt tristess och i gulbrunt dunkel står Den Nakna Kvinnan med en pensel mellan läpparna och lovar att hon aldrig ska bekänna, hur hårt dom än slår sönder det hon ändå aldrig trott på ****... och Mannen av Marmor låter händerna svänga i en svunnen epok medan tungan löper gatlopp mellan hänförelse och exakt förakt och Den Vackra Pojken jonglerar med bananer för att minnas det han mist och från väggen talar en stum indiangud om allt det som en gång var värt att förvalta ... och Mr Rex reser sig från Balooba Bar och vänder sitt vitkalkade ansikte mot bongotrummornas avgrund och hans obevekliga blick splittrar rösten: no problems, take i easy ... och rytmen dunstar i tystnades öken, zebrahuden glänser på väggen över soffan, fjäderkuken gungar stilla på bordet, ingen dansar längre i Lilla Beirut, visarna på den gigantiska klockan roterar sakta baklänges, tiden tillhör dom som föraktar den och över den guldkalkade väggen vakar Trubadurens brutala epitaf i rött spray: medan natten obönhörligen faller ... glider dörrarna sakta igen om det absolut sista skriket.**
+:::
 
 Av någon anledning finns inte serien” *Sista Skriket”* bevarat i SVT:s arkiv.
 ::: indent
 Söker du på”Sista Skriket”i Öppet Arkiv får du upp en lätt tintad moralitet av Ingmar Bergman.
+:::
+
+::: part
 :::
 
 Såkrälar främlingsfientligheten in ytterligare en bit i vårt samhälle. Ny Demokrati bildas, av Ian Wachtmeister och Bert Karlsson - en degenererad greve och en vulg är pajas i ledningen för ett öppet rasistiskt parti. Det ger en föraning om den bruna gas som ska sippra in i ett rämnande samhällsbygge på 2000-talet. Ny Demokrati blir en testballong för Sverigedemokraterna.
@@ -617,6 +640,9 @@ En mer skrämmande utlöpare ur den rasistiska myllan är Lasermannen. John Auso
 
 ::: indent
 Rasismen är delvis sanktionerad.
+:::
+
+::: part
 :::
 
 Gösta ringer och har en idé. Han vill göra en tv-serie i tre delar om relationsproblem. Han har redan fått löfte från Dramachefen Ingrid Dahlberg om en första manusfinansiering till en serie om 3 x 60 minuter. Producenten Christer Abrahamsen och regissören Mats Arehn är vidtalade och intresserade av projektet.
@@ -656,6 +682,9 @@ Själv tröstar jag mig med Cilla och utsökta ostron i den lilla hamnhålan, la
 
 ::: indent
 Reflektion: Det är en aning beklämmande att konstatera hur mycket tid av mitt liv jag har lagt ner påidéer, projekt, synopsis, manus med mera ... som aldrig har blivit av. Flammat upp i skrivögonblicket och falnat ner i frustration (sen många år går jag bara in i projekt som jag vet kommer att realiseras, eller där sannolikheten gör mödan värd).
+:::
+
+::: part
 :::
 
 Bob Dylan? Käpphästen?

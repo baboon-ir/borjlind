@@ -11,6 +11,11 @@ yearGroup: "2007–2012"
 Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här landet. Den avgjort mest originelle är skribenten Lena Anderssons favoritobjekt Roy ” Hugo ” Ander sson. Hans kortfilm ” *Härlig är jorden* ” somöppnar stafettserien ” *90 minuter 90-tal* ”är magnifik, hans säregna filmspråk är unikt i världen.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=yJXN5VPkyH8]
+
+::: part
+:::
+
 ![139.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/139.png)
 
 ::: poem
@@ -41,6 +46,8 @@ Den märkligaste skissen är den här, ett betongfundament med ett kritvitt trä
 
 ![233.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/233.png)
 
+[yt-video][https://www.youtube.com/watch?v=i_QMuDi4HJc]
+
 Vi pratar om skisserna, om detaljer till utställningen, ytor, väggar, material, rum ... vi pratar aldrig om att han ska dö, inte med ett ord, bara om vårt nästa projekt. Vi sitter i en utskuren overklighet, han i sängen, jag intill och båda vet.
 ::: indent
 Happy Cousins går snart i graven.
@@ -49,4 +56,3 @@ Happy Cousins går snart i graven.
 ::: indent
 Jag skriver senare en dikt om upplevelsen:
 :::
-

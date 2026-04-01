@@ -33,6 +33,9 @@ Hur länge till får vi förmånen av att kunna tänka? Dvs finnas till, enligt 
 När ersätts vi?
 :::
 
+::: part
+:::
+
 Cilla och jag har till dags dato skrivit 24 Beckfilmer. Alla med originalhistorier. Vi är färdiga med Beck.
 ::: indent
 Det är, återigen, inte omvärlden.
@@ -62,6 +65,9 @@ Vi ställer upp och skriver *”I stormens öga”* och *”Levande begravd”*.
 Någraår senare kan vi konstatera att löftet om tvåavslutningsfilmer inte höll. Beckserien fortsätter att produceras, dock utan vår inblandning.
 :::
 
+::: part
+:::
+
 En udda payoff: Jag skriver en pjäs baserad på mitt långfilmsmanus ”*Dödspolare*”. Pjäsen sätts upp på Nya Teatern i Örebro.
 ::: indent
 Växelbruk.
@@ -77,6 +83,9 @@ I Danmark har man gjort nåt motsvarande. Vår Beckfilm *”Det tysta skriket”
 Berättelser, allt handlar om berättelser.
 :::
 
+::: part
+:::
+
 Min gamle kompis Ove Enervald ringer en sen kväll. Det är inget kul samtal. Skånska Lasse har hittats död, ensam i sin lägenhet på Söder. Levde ensam och dog ensam, omgiven av sina teckningar och lp-skivor. Det känns ödsligt och sorgligt.
 ::: indent
 Jag har inte haft kontakt med honom på flera år, livet har styrt mig åt andra håll. Tankarna virvlar tillbaka, nätterna vi satt på hans golv och lyssnade oss igenom alla kufiska plattor han hade kommit över. Hans kärnfulla humor, dom glittrandeögonen, det krulliga tunna håret, hans välvårdade naglar. En självklar kompis under många år, nu är han i jorden, granne med vem vet?
@@ -88,138 +97,96 @@ Men hans mjuka teckningar finns kvar.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/287.jpg)
 
+::: part
+:::
+
 Ett roligare samtal kommer strax efter. Tommy Körberg behöver en översättning på en sång som i original heter *”Caruso Farrapo”*.
 ::: indent
 Jag har vid det här laget producerat tämligen många låttexter till olika artister. Ibland har mina egna texter tonsatts, ibland har jag skrivit svenska tolkningar påutländska sånger. Med större eller mindre engagemang. När jag får höra den här sången blir jag inspirerad, huvudsakligen av melodin, och skriver en svensk version som får titeln: ”*Om du minns, Esmeralda*”.
 :::
 
-***Ingenting här har ändrats, Esmeralda***
+**Ingenting här har ändrats, Esmeralda
+Ingenting här har flyttats från sin plats
+Allt är som om dagen
+Allt är som om natten
+Om du minns
+Om du minns**
 
-***Ingenting här har flyttats från sin plats***
+**Ingen har rört din klänning, Esmeralda
+Ingen har rört lavendeln i din skål
+Allt det som var du
+Allt det som försvann
+Om du minns
+Om du minns**
 
-***Allt är som om dagen***
+**Ljuset i din sång
+Skuggan i din gråt**
 
-***Allt är som om natten***
+**Ingen har lekt med katten, Esmeralda
+Ingen har suttit i fönstret och sett ut
+Allt är som om dagen
+Allt är som om natten
+Om du minns
+Om du minns**
 
-***Om du minns***
-
-***Om du minns***
-
-***Ingen har rört din klänning, Esmeralda***
-
-***Ingen har rört lavendeln i din skål***
-
-***Allt det som var du***
-
-***Allt det som försvann***
-
-***Om du minns***
-
-***Om du minns***
-
-***Ljuset i din sång***
-
-***Skuggan i din gråt***
-
-***Ingen har lekt med katten, Esmeralda***
-
-***Ingen har suttit i fönstret och sett ut***
-
-***Allt är som om dagen***
-
-***Allt är som om natten***
-
-***Om du minns***
-
-***Om du minns***
-
-***Allting som du har älskat, Esmeralda***
-
-***Allting är här och väntar på din blick***
+**Allting som du har älskat, Esmeralda
+Allting är här och väntar på din blick**
 <!-- PAGE 250 END -->
 
 <!-- PAGE 251 START -->
-***Allt det som var du***
+**Allt det som var du
+Allt det som försvann
+Om du minns
+Om du minns**
 
-***Allt det som försvann***
+**Ljuset i din sång
+Skuggan i din gråt**
 
-***Om du minns***
+**Timmarna vandrar stilla, Esmeralda
+Tiden har svept en slöja runt vårt hus
+Allt är som om dagen
+Allt är som om natten
+Om du minns
+Om du minns**
 
-***Om du minns***
+**Solen värmer din gunga, Esmeralda
+Fåglarna föds bland löven i ditt träd
+Allt det som var du
+Allt det som försvann
+Om du minns
+Om du minns**
 
-***Ljuset i din sång***
+**Ljuset i din sång
+Skuggan i din gråt**
 
-***Skuggan i din gråt***
+**Sorgen har ingen plats här, Esmeralda
+Minnet av dig är en enkel kyss av ljus
+Allt är som om dagen
+Allt är som om natten
+Om du minns
+Om du minns**
 
-***Timmarna vandrar stilla, Esmeralda***
+**Vindarna saknar ditt hår, Esmeralda
+Väggarna saknar ekot av ditt skratt
+Allt det som var du
+Allt det som försvann
+Om du minns
+Om du minns**
 
-***Tiden har svept en slöja runt vårt hus***
+**Ljuset i din sång
+Skuggan i din gråt**
 
-***Allt är som om dagen***
-
-***Allt är som om natten***
-
-***Om du minns***
-
-***Om du minns***
-
-***Solen värmer din gunga, Esmeralda***
-
-***Fåglarna föds bland löven i ditt träd***
-
-***Allt det som var du***
-
-***Allt det som försvann***
-
-***Om du minns***
-
-***Om du minns***
-
-***Ljuset i din sång***
-
-***Skuggan i din gråt***
-
-***Sorgen har ingen plats här, Esmeralda***
-
-***Minnet av dig är en enkel kyss av ljus***
-
-***Allt är som om dagen***
-
-***Allt är som om natten***
-
-***Om du minns***
-
-***Om du minns***
-
-***Vindarna saknar ditt hår, Esmeralda***
-
-***Väggarna saknar ekot av ditt skratt***
-
-***Allt det som var du***
-
-***Allt det som försvann***
-
-***Om du minns***
-
-***Om du minns***
-
-***Ljuset i din sång***
-
-***Skuggan i din gråt***
-
-***Mannen som red förbi hä*** **r, Esmeralda**
-
-**Handen som förde bort dig ur vårt liv**
-
-**Allt är som om dagen**
-
-**Allt är som om natten**
-
-**Om du minns**
-
-**Om du minns**
+**Mannen som red förbi här, Esmeralda
+Handen som förde bort dig ur vårt liv
+Allt är som om dagen
+Allt är som om natten
+Om du minns
+Om du minns**
 
 Tommy gör en gripande tolkning påskivan **”** ***Sjung tills du stupar*** **”**.
+
+::: part
+:::
 <!-- PAGE 251 END -->
 
 <!-- PAGE 252 START -->
@@ -262,6 +229,9 @@ Negativ bieffekt: Framgent tvingas alla regissörer skriva påavtal som ger tv-b
 
 Fotnot:Även Vilgot Sjöman deltog iåtalet mot TV4, avseende hans film *”Alfred”**. * Tyvärr avled Sjöman innan HD:s utslag kom.
 
+::: part
+:::
+
 Det är sent på kvällen, Cilla har somnat, jag har just läst en kort skrift om den heliga skalbaggen, skarabén, det tickande dödsuret, och börjar skriva en text. Jag kallar den *”Natt i en målning av innerlighet”*:
 
 **”Det är natten till de dödas dag och tre människor befinner sig i ladan - en man av enkelt ursprung och hans unga kvinna, på knä intill en mycket gammal människa med en grön medaljong på bröstet. **
@@ -290,6 +260,7 @@ Det är sent på kvällen, Cilla har somnat, jag har just läst en kort skrift o
 <!-- PAGE 252 END -->
 
 <!-- PAGE 253 START -->
+::: accordion
 **Så glider månen undan och en av springorna i taket drar ett långsamt ärr snett över bröstet på den mycket gamla människans kropp; ett av många tusen andra ärr. Svärd och skärvor, hennes kropp har styckats upp och sytts ihop igen, hål av tysta kulor, hennes kropp är täckt av svarta små förhårdnader. Hennes hud, hon har trampats av så många hästar, hennes hud har smekts och stenats. Hon är en mycket gammal människa, galningar har ätit hennes hjärna, väringar har vaktat hennes blygd. Ingenstans har hon fått vila, det syns på hennes hår, det har för länge sedan vuxit fast i tiden. **
 
 **     Hon har ett mycket vackert ansikte.**
@@ -371,6 +342,7 @@ Det är sent på kvällen, Cilla har somnat, jag har just läst en kort skrift o
 **     - Ja, viskar mannen ... men vad väntar dom på****?**
 
 **     Ankomsten.”**
+:::
 
 Skulle jag skicka texten till ett resemagasin skulle dom förmodligen anse att *”slutet känns så**, jag vet inte, öppet, man blir lite hängande i luften”**.*
 ::: indent
@@ -384,6 +356,9 @@ Istället återanvänder jag skarabén i vår deckare *”Kallbrand”*:
 **”Veronica satt i soffan och iakttog en mycket stor mörk skalbagge som kröp fram över trägolvet, en skarabé****. Hon visste vad den förebådade. I vissa religioner var den en symbol för liv och återfödelse, själens odödlighet, i andra kallades den för dödsuret. För henne var idén om själens odödlighet ett motbjudande självbedrägeri, hon föredrog att tolka skalbaggens knäppande som ett tickande mot döden. Allt är utmätt, tänkte hon och tittade på sitt ginglas.**
 
 **     Det var tomt.”**
+
+::: part
+:::
 
 Så återskapas det förflutna igen.
 ::: indent
@@ -425,7 +400,10 @@ Utställningen har vernissage hösten 2009.
 <!-- PAGE 253 END -->
 
 <!-- PAGE 254 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
+![Mr Ray Balon Sinclair på Dagens Nyheter.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
+
+::: part
+:::
 
 Vid det här laget, den här tidpunkten, har jag tvådöttrar, tvåsöner och fyra barnbarn. Jag tänker: Dom kommer att läsa det här (kanske). Hur mycket kommer dom att begripa av det jag harägnat mitt livåt? Inte i bemärkelsen förstå, men det bakomliggande? Hur mycket är beroende av bakgrunden, sammanhanget, tidskänslan? Hur ser det ut idag? Hur långt är det intellektuella och emotionella avståndet till då?
 ::: indent
@@ -487,6 +465,9 @@ Jag kan ta det utanför den familjära kretsen. När blir det privata allmängil
 **Svårt att vänja sig av med sig själv.**
 :::
 
+::: part
+:::
+
 *”Svårt att vänja sig av med sig själv.”*
 ::: indent
 Intrikat insikt.
@@ -498,6 +479,9 @@ Men det som fäster mest hos mig: *”Det som är boskap i andra är boskap ocks
 
 ::: indent
 Mörkrets hjärna igen.
+:::
+
+::: part
 :::
 
 Arne Dahl.
@@ -542,6 +526,9 @@ Enligt mig: Den bästa av dom fem filmer vi skriver är ”*Europa Blues*”och 
 
 Reflektion: Strulet och svårigheterna med Dahl-projektet bidrar påtagligt till Cillas och mitt beslut att börja skriva egna böcker, vilket vi gör strax därefter.
 
+::: part
+:::
+
 Några frågor, en vargtimme när sömnen tuggar pålakanet och liemannen går med sin harskramla genom natten:
 <!-- PAGE 255 END -->
 
@@ -568,6 +555,9 @@ Några frågor, en vargtimme när sömnen tuggar pålakanet och liemannen går m
 
 ![Curre Hillfon.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/306.png)
 
+::: part
+:::
+
 Och när sömnen väl omsluter mig får jag en egendomlig dröm. Jag balanserar i en hängränna påfemte våningen på Palmgrenska samskolan i Stockholm, min realskola, nedanför ligger den stenbelagda skolgården, jag tar ett par steg och tappar fästet, i fallet mot gården fattar jag att jag kommer att dö, allt blir en mörk tunnel, längst bort ser jag ljus, jag springer mot ljuset och kommer ut i kanten av en äng, en damcykel står lutad mot en gammal ek, jag sätter mig påcykeln och trampar bort ... sen vaknar jag.
 ::: indent
 En damcykel?
@@ -577,12 +567,16 @@ En damcykel?
 Var det Sveas?
 :::
 
+::: part
+:::
+
 Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samlingsvolym *”Den skrattretande teatern”*. Ämnet ligger mig inte såspeciellt varmt om hjärtat längre, men Gösta är en av initiativtagarna så jag ställer upp. Möjligen finns det elever påskolan som är nyfikna. Jag kallar texten *”Om satir”*, helt enkelt, och återanvänder en del tidigare slutsatser:
 
 **”Sann satir har ett enda uppdrag: att genom groteskt förlöjligande demaskera och blottlägga ovärdiga makthavare och offentliga lögner - den har ett politiskt syfte.**
 <!-- PAGE 256 END -->
 
 <!-- PAGE 257 START -->
+::: accordion
 **Satir är inte en underhållningsform. Den som tar satiren i anspråk ska vara medveten om redskapets funktion - satiren är ett rått instrument, utan ironins eleganta undertext eller driftens lättköpta poänger. Swift snarare än Wilde. Den främsta funktionen är inte att roa, utan att beröra och uppröra: att åstadkomma en djupare reaktion. Använd på allvar, är satiren ett anarkistiskt redskap för samhällskritik. Ett vapen, inte en försörjning. Den använder sig av namns nämnande och faktiska företeelser. Av tydlighet - Strindbergs Svarta Fanor, men utan täcknamn.**
 
 **     Satir skrivs ur en privat upprördhet, en personlig reaktion på en offentlig svinaktighet - den blir ointressant när syftet primärt är kollektiv underhållning. Att skriva satir är ett uppdrag under ansvar - angreppet måste vara personligt förankrat och emotionellt försvarbart.**
@@ -596,6 +590,12 @@ Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samli
 **     Slutligen. Att skriva sann satir förutsätter följande insikt: det finns inga ”gränser”****. Gränser är normativa överenskommelser inom ramen för det rådande samhällsklimatet. All sann satir måste vara trogen sitt emotionella ursprung: upprördheten, och uttrycka den, oavsett normativa ”gränser” - den som går för långt banar väg för efterföljare att gå längre än förut.**
 
 **     God smak mjölkar ur testiklarna.”**
+:::
+
+::: part
+:::
+
+[yt-video][https://www.youtube.com/watch?v=nrtW_CplfeQ]
 
 101010 - ett brutalt enkelt datum. Det datum när Ove Enervald dör. Ytterligare en i raden av täta vänner från det förflutna som försvinner ur sammanhanget. Han har varit svårt sjuk en tid, vistats på ett hospis i närheten av vår bostad i Nacka, insett att det utmätta är utmätt. Vi besöker honom en solig eftermiddag. När vi ska gåtittar han på Cilla och säger:
 ::: indent
@@ -606,7 +606,10 @@ Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samli
 Dagen efter dör han.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/224.png)
+![Ångbåt. Oljemålning. OE.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/224.png)
+
+::: part
+:::
 
 Oves aska sprids på Kanholmsfjärden i Stockholms skärgård, i närheten av hans hem på Runmarö. Några dagar efter ceremonin påhavet samlas hans närmaste släkt och vänner i hans vardagsrum, inrymt iövervåningen på en gammal lada. Tvåav dom är hans son John och hans mamma Maja-Lena, vi har alltid kallat henne Masa. Hon har bett mig säga några ord om Ove.
 ::: indent
@@ -645,6 +648,9 @@ Den rekommenderas starkt.
 :::
 
 När vi ändå är inne påbegravningar: Min aska kommer också att spridas på Kanholmsfjärden. Egentligen vill jag begravas på en uteservering, gärna på en bakgata med släpsol mellan fasaderna och en iskallöl på bordet, jag tror att min själ skulle uppskatta det. Men nu blir det Kanholmsfjärden, som jag har korsat ett otal gånger i turbulenta väderlag. Möjligen finns Ove kvar nere i djupet, möjligen kan det inspirera Magnell i hans himmel till en sång om Bröderna Aska.
+
+::: part
+:::
 
 Cilla och jag har underårens lopp kontaktats av diverse förlag som har föreslagit att vi ska skriva kriminalromaner. Vi har inte haft tid. Vi har dessutom trivts väldigt bra med att skriva film- och tv-manus. Nu har vi tröttnat på det (jag merän Cilla, för mig är manusskrivandet ett avslutat kapitel). Vi har ocksåkontaktats av olika agenturer i samma syfte. Nu tar vi själv kontakt med en av dom. Grand Agency. Den drivs av Lena Stjernström tillsammans med bland annat hennes man Peter. Cilla och Lena känner varandra sen gymnasietiden, så det blir ett naturligt val för oss. Vi förklarar vad vi vill göra och Lena förklarar vad hon behöver för att kontakta olika förlag: ett längre synops som visar att vi kan skriva ”litterärt”och inte enbart manus.
 ::: indent
@@ -829,6 +835,9 @@ Dom följandeåren skriver vi ytterligare fem böcker.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/329.png)
 
+::: part
+:::
+
 Tematisk om våra böcker: Vi försöker hitta över gripandeämnen som berör oss just när vi ska börja skriva, en tändvätska. Första boken, ”*Springfloden*”,  handlade om Lundin Oils över grepp i Afrika, som jag nämnt.
 ::: indent
 Andra boken, ”*Den tredje rösten*”, handlar om ett nätfenomen som är ovanligtäckligt, nämligen det faktum att du kan sitta i Sverige, framför en datorskärm, och betrakta en våldtäkt på ett minderårigt barn i till exempel Asien, beställd av dig själv. I realtid.
@@ -856,7 +865,7 @@ Udda konstruktionsdetalj i ”*Sov du lilla videung*”: Vi låter boken inledas
 <!-- PAGE 261 END -->
 
 <!-- PAGE 262 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
+![Stadiet innan vi börjar skriva.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
 
 Femte boken, ”*Kallbrand*”, skrivs i efterdyningarna av terrordå det på Drottninggatan. Det är en bok som fokuserar påhur långt en pedofil är beredd att gåför att rädda sitt eget skinn. Väldigt långt, visar det sig.
 ::: indent
@@ -932,9 +941,17 @@ Att våra ställningstaganden i böckerna väcker läsarreaktioner är både beg
 
 Skriva pånäsor är inte helt oangenämt.
 
+::: part
+:::
+
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5225.jpg)
 
 Det häråret dör Lena Nyman, i februari, efter en längre tids sjukdom. Vi har inte haft nån närmare kontakt sen hennes medverkan i ”Sista Skriket”, men hennes bortgång skapar en bro till det förflutna. Till dygnen när vi satt på Mallorca och drack vin och pratade om ”Morrhår &Ärtor”. Hennes särpräglade gestaltnings för måga i alla olika roller i ”Sista Skriket”sitter kvar. Hennes djupa inlevelse i den text jag skrev till henne, talet till en dotter som hon aldrig fick. Här framför hon den till en samuraj-akt av Stefan Sauk:
+
+[yt-video][https://www.youtube.com/watch?v=-KssaTbDaK8]
+
+::: part
+:::
 
 Såfyller jag 70 år och gör en resa igen (att resa är en respons på min isbjörnsläggning, jag måste ut ibland). Den här gången går resan till byn Bassano del Grappa, nedanför berget Monte Grappa. Jagåker dit med Cilla och våra nära vännerÅsa och Timo (jag har fått resan av dom i 70-årspresent). När jag går in i en liten bokhandel leder det ena till det andra: det ena till att jag får veta att det finns andra författare som har bott i den här lilla hålan, författare med internationella vingar. Scott Fitzgerald. Dos Passos. Hemingway, som skrev delar av”*Farväl till vapnen*” här. Jag har ingen aning om det. Förmodligen var det grappan som drog dom hit. Eller stadens marterade förflutna.
 ::: indent
@@ -993,6 +1010,9 @@ Så vi dricker byns goda drycker och låter det förflutna sjunka ner i det ment
 – Det som händer hela tiden, människor dödar varann.
 :::
 
+::: part
+:::
+
 ”Jag är färdig med manusskrivande”.
 ::: indent
 En replik som jag upprepar ett antal gånger efter det att Cilla och jag är klara med Arne Dahl-serien och börjar skriva egna böcker. Och det är inte läppluft. Jag är genuint ointresserad av att skriva fler film- och tv-manus. Inte för skrivandet i sig, utan för allt strul i processen. Alla komplikationer, alla kapningar av min egen vision.
@@ -1027,6 +1047,8 @@ Så jag backar in i manusfållan igen och skriver manuset till ”*Springfloden*
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
 
 Parentes om Minken: Han är ursprungligen tänkt som en form av side-kick, ungef är som Grannen i Beck, en gestalt som kommer in från fel håll. Det fungerar bra i den första boken, i den andra drar vi ner på honom. Vi tycker inte han fyller den funktion vi har tänkt. Såkommer tv-serien”*Springfloden*”, där Minken gestaltas på ett fullständigt kongenialt sätt av skådespelaren Johan Widerberg. Och tränger ut ordentligt genom rutan.
+
+[yt-video][https://www.youtube.com/watch?v=PwnyYBBvCLU]
 
 Vi inser att vi måste vårda Minken lite mer och ökar hans utrymme i den tredje boken - en intressant växelverkan mellan bok och tv-serie.
 ::: indent
@@ -1088,6 +1110,9 @@ På tal om Kjelle: förutom att han är den han är och det är han, alltid, så
 Dessutom är han barnsligt förtjust i varm korv.
 :::
 
+::: part
+:::
+
 Sidoprojekt, för att krydda tillvaron lite: Vi kontaktas av förläggaren John-Henri Holmberg. Han ska sammanställa en antologi med nyskrivna deckarnoveller för den amerikanska marknaden och vill att vi medverkar. Vi har aldrig skrivit i novellform tidigare, men tackar ja (ny mark igen). Resultatet blir novellen”*Sitt hår tyckte han om*”. Den handlar om en man som lider av en dissociativ identitetsstörning och ägnar nätternaåt obehagliga mord.
 ::: indent
 Den inleds så här:
@@ -1102,6 +1127,9 @@ Den inleds så här:
 **     Det, och stegandet.”**
 
 Novellen publiceras senareäven i den svenska antologin ”*Svart Lucia*” och ges ocksåut i bokform av Bokfabriken i Malmö.
+
+::: part
+:::
 
 ”*The Night of ... *”
 ::: indent
@@ -1122,6 +1150,9 @@ Annan tv-serie som alltid rinner upp:”*Den sjungande detektiven*”. En musika
 
 ::: indent
 En märklig och suggestiv tv-serie.
+:::
+
+::: part
 :::
 
 Det häråret inträffar det ingen trodde var möjligt - en sexistisk, inkompetent över sittare med grava narcissistiska drag blir president i USA.
@@ -1186,7 +1217,10 @@ Men skrämmande är det, i all sin blinda och förödande framfart.
 **ny tid nalkas**
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
+![Åke Hodell: Norra begravningsplatsen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
+
+::: part
+:::
 
 Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Ståinte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
 ::: indent
@@ -1212,10 +1246,18 @@ Av olika skäl blir det ingen”*Springfloden 3*”.
 Än så länge.
 :::
 
+::: part
+:::
+
 Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. Påbetongpuckeln nedanför Bellmansgatan har någon sprejat: ”*Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.*”. Det är 39 år sen jag skrev det i ”*Persona Non Grata*”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
 ::: indent
 Nån ordning får det vara.
 :::
+
+::: part
+:::
+
+[yt-video][https://www.youtube.com/watch?v=TJ6Mzvh3XCc]
 
 Såblir det ett nyttår, 2017, och ett nytt dödsfall, av den sort som känns för tidigt och för fel och för jävligt. Gösta Ekman dör, i april, efter en tids sjukdom. Hanåterhämtar sig aldrig helt från den cancer som sänkte honom någraår tidigare. Hans fru Marie-Louise Ekman har skrivit en säregen och gripande rapportbok från den perioden, ”*Få se om hundarna är snälla ikväll *...”. Jag orkar bara läsa en tredjedel av boken, den kommer för nära.
 ::: indent
@@ -1261,6 +1303,9 @@ Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga,
 Mjukt ljus över  en vän.
 :::
 
+::: part
+:::
+
 En vecka efter Göstas död dundrar en lastbil ner längs Drottninggatan i Stockholm och dödar ett antal människor**. ** En lågpannad man från Uzbekistan anser att han agerar påuppdrag av terrororganorganisationens IS.
 ::: indent
 Vilket han inte alls gör.
@@ -1280,6 +1325,9 @@ Bra.
 
 ::: indent
 Det upprepas in extenso vid coronapandemin.
+:::
+
+::: part
 :::
 
 Metoo.
@@ -1317,9 +1365,12 @@ Metoo-reflektion i efterdyningarna: Hundratusentals kvinnor över hela världen 
 
 (Fotnot: Idag har hon kommit ut som ”klimat för nekare”,  en flock för sig.)
 
+::: part
+:::
+
 Såhar vi riksdagsval i vårt land, en nationell begivenhet, inte minst i massmedia. Utfallet blir skrämmande. Sverigedemokraterna blir tredje största parti i Sverige. Det osannolika har passerat det sannolika och blivit ett faktum. Brunskjortorna har färgats blåoch rasismen harändrat förtecken. Nu kallas den ”migrationsproblematik”och dominerar debatten.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
+![Skånska Lasses kommentar om rasism.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
 
 Skrämmande.
 
@@ -1358,6 +1409,9 @@ Modet att ur en personlig vrede gåut på torget och visa vem man är och vad ma
 Civilt motstånd, när det är som bäst.
 :::
 
+::: part
+:::
+
 Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. Påutställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331.jpeg)
@@ -1384,6 +1438,9 @@ Jag vet inte om publiken blir så mycket klokare.
 :::
 
 Och mitt i allt detta kommer mitt femte barnbarn. Det är yngste sonen Nick och hans sambo Josefin som får en son. Leon (en sötkaramell). Blir man farfar igen. Underbart! ... (tyvärr slår den kommande pandemin sönder en tätare kontakt med Leon förstaåret, men den får tas ikapp i sinom).
+
+::: part
+:::
 
 Cillas och min dotter Molly bor i Köpenhamn och är 24 år. Hon har avslutat filmskolan i Stockholm och arbetar på en servering. Jag vet att hon skriver bra, jag har läst mycket av henne genomåren. Nu föreslår jag att vi ska skriva en bok ihop. En ljudbok, direkt för den marknaden. Det är nytt för mig och definitivt för henne. Vi kontaktar ljudboks för laget Storytel som blir intresserade. Samtidigt får mitt eget förlag Norstedts höra talas om våra planer och föreslår att vi ska ge ut boken på deras ljudboks för lag istället, Tiden. Min agent tycker att vi ska välja det senare, vilket vi gör. Under ett drygt halvår skriver vi boken, som får namnet ”*Mörkret oss emellan*”, en psykologisk thriller som utspelar sig i ett hus i Stockholms skärgård. Denär uppdelad iåtta avsnitt och läses in av Nina Zanjani.
 
@@ -1421,6 +1478,9 @@ Igen.
 ::: indent
 Parentes: En av mina favoritböcker på 60-talet, Hemingways klassiker ”*Och solen har sin gång*”är berättad i jag-form, så jag kunde ha lärt mig det tidigare.
 :::
+
+::: part
+:::
 <!-- PAGE 271 END -->
 
 <!-- PAGE 272 START -->
@@ -1453,7 +1513,7 @@ Han är modig.
 Men utöver det? Vågar vi inte uppröra längre? På riktigt? Har den digitala undervegetationens dreglande sekatörer klippt ner oss till harmlösa underhållare? Till stumma trygghetsnarkomaner?
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
+![Vad är det för fel på lite lugn och ro?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
 
 Var finns vreden?
 ::: indent
@@ -1611,6 +1671,8 @@ Fotnot: Efter jag skrev den här lilla fabeln haräven Vindflöjeln krupit ner i
 ::: indent
 Beklämmande.
 :::
+
+::: part
 <!-- PAGE 273 END -->
 
 <!-- PAGE 274 START -->
@@ -1696,6 +1758,8 @@ Jag vet inte.
 Kanske skriver jag en roman om det, familjeuppgörelser ligger ju i tiden ... *”Koprofagens ystra dans”*.
 :::
 
+::: part
+
 Sitter i halvdunkel och funderar (utan munskydd): När blir det förflutna viktigareän framtiden? När börjar man titta bakåt istället för framåt? Närövergår ”*Dont look back*”till”*Look back in anger*”? Dylan till Osborne?
 ::: indent
 Förmodligen handlar det om den utmätta tiden: ju mindre man har att se fram emot, desto mer ser man bakåt.
@@ -1734,4 +1798,6 @@ Jag konstaterar att epitetet *”hänsynslös häcklare”* fortfarande hängde 
 *”Jag tillhörde aldrig nån ”vänster”** på sextio- och sjuttiotalet, utan försökte stå utanför allt det där. Men eftersom riktningen i det jag skrev hela tiden var nerifrån och upp så är det, om man ska tala i termer om perspektiv på en vänster-högerskala, klart att jag har solidariserat mig med och haft samma inställning som vänsterrörelsen i rätt många avseenden. Men jag har hela tiden värjt mig för det här flocktänkandet. Jag har en väldigt individualistisk inställning som knappast går att bygga ett samhälle på**, men som nånstans är rätt bra att ha som konstnär, betraktare eller beskrivare av nånting.”*
 
 Det gäller fortfarande.
+
+::: part
 <!-- PAGE 275 END -->

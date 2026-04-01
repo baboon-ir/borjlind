@@ -61,8 +61,9 @@ På grund av vår begränsade budget erbjuder vi en konsumdeal igen: alla får l
 Min kompisÅke Sundqvist skriver musiken. Tvånära vänner, Cian Bornebusch och Peter Alvérus, gör scenografi, bygger miljöer och trollar med knäna. Jag ber också den eminente Esa Vuorinen att fota filmen (han som skötte jobbet på Dödlig Drift).
 :::
 
+[yt-video][https://www.youtube.com/watch?v=fRBX30FreM4]
+
 Tankar:Än en gång dyker Ottos, faderns, sång ” *Här är gudagott att vara* ” upp, nu gestaltad av en naken och blind Halvar Björk strosande genom förmultnade löv. Carsten döda träd med hängande svarta frukter ingår i en annan tablå. Scenen när Persbrandt pressar in bomull i munnen på en hjälplösåldring har jag drömt några gånger, eller kanske sett i förbifarten en flyktnatt.
 ::: indent
 Hela tidenåterbruk ur det förflutna, pusselbitar i nya tavlor.
 :::
-

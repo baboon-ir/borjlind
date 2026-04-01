@@ -58,6 +58,9 @@ Eventuellt är det orsaken till att paret Olsson aldrig får igång projektet, t
 Men bilderna av det skändade vattenfallet glömmer jag aldrig.
 :::
 
+::: part
+:::
+
 Ett nyttälskat barn kommer till världen: Cillas och min dotter Molly. Hon föds mitt under brinnande fotbolls-VM i USA. Jag sitter i ett tomt rum på Södersjukhuset med en liten vägg-tv och följer delar av den svenska bronsbragden. Utan att kunna explodera. Ljummet vatten, kexchoklad från en automat och ett stråk av desinficeringsmedel genom luften.
 ::: indent
 Hårt.

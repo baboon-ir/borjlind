@@ -22,12 +22,18 @@ Cilla och jag lämnar innerstan, vi har ett litet barn och söker oss ut en bit 
 Förmodligen har han rätt.
 :::
 
+::: part
+:::
+
 Det är den 18 augusti 1995, på morgonen, när nyheten når mig. Kvällen innan har ett sällsynt vidrigt mordägt rum. Fyra nynazistiska ungdomar har sparkat ihjäl en 15-årig skolkamrat, John Hron. Mordet harägt rum vid en liten insjöoch i närvaro av en kamrat till Hron. Orsaken till mordet är att Hron vägrade säga att hanälskade nazister. Detaljerna om misshandeln är plågsamma att ta in, morgonljusetändrar färg, då det gräver sig in i magen.
 ::: indent
 Reflektion: Ungdomarna som sparkar ihjäl Hron är nynazister, dvs omhuldar samma ideologi som har legat till grund för Sverigedemokraternas ungdoms för bund när det startades av nazisten Robert Wennerstedt treår tidigare. När mordetäger rum har JimmieÅkesson varit aktiv medlem i förbundet i ettår.
 :::
 
-![307.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
+![Dödskalle. CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
+
+::: part
+:::
 
 Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes program i radioserien ” *Frispel* ”. Jag läser egna texter varvade med musik. En av dom är den här:
 

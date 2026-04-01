@@ -34,6 +34,9 @@ Och på tal om Féte local: varje kväll pågår en mycket speciell form av boul
 Extremt svårt.
 :::
 
+::: part
+:::
+
 Underbar händelse det häråret: Min första sondotter föds. Ella, syster till Ludvig. Nuärätteläggens skara utökad till sex. Många personnummer blir det ☺
 ::: indent
 Mindre underbar händelse: Producenten Lars Jönsson vill träffa Cilla och mig. Han driver ” *Memfis Film & Television* ” och har framgångsrikt lanserat Lukas Modyssons fina film ” *Fucking Åmål* ”, med benägen hjälp av den danske producenten och svinodlaren Peter Aalbeack Jensen (Jensen har en grisodling i Danmark och är ofta naken när han har filmmöten på sitt rum, förmodligen för att chockera, eller stoltsera med ett påfallande ointressant underhäng, han är också Lars ” von ” Triers producent och hamnar senare i skottgluggen för den danska metoo-rörelsen).

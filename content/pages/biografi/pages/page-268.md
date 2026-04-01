@@ -20,6 +20,9 @@ Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga,
 Mjukt ljus över  en vän.
 :::
 
+::: part
+:::
+
 En vecka efter Göstas död dundrar en lastbil ner längs Drottninggatan i Stockholm och dödar ett antal människor**. ** En lågpannad man från Uzbekistan anser att han agerar påuppdrag av terrororganorganisationens IS.
 ::: indent
 Vilket han inte alls gör.
@@ -39,6 +42,9 @@ Bra.
 
 ::: indent
 Det upprepas in extenso vid coronapandemin.
+:::
+
+::: part
 :::
 
 Metoo.

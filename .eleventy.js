@@ -280,7 +280,10 @@ function renderBio(text) {
       });
       renderedSections.push(`<div class="rb-prose">${md.render(after)}</div>`);
     }
-    return renderedSections.join("\n");
+    // Wrap paragraphs starting with "Fotnot" in a footnote container
+    let html = renderedSections.join("\n");
+    html = html.replace(/<p>\s*(Fotnot[\s\S]*?)<\/p>/g, '<div class="rb-footnote"><p>$1</p></div>');
+    return html;
   };
 
   const mainHtml = renderChunk(main);

@@ -7,7 +7,10 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2007–2012"
 ---
-**Verkligheten hårdnade. Människor betraktades inte länge som människor, eller ens som individer, människor reducerades till en konjunkturanpassad tillverkningsresurs. Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år. **
+::: accordion
+**Verkligheten hårdnade. Människor betraktades inte länge som människor, eller ens som individer, människor reducerades till en konjunkturanpassad tillverkningsresurs.**
+
+**Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år. **
 
 **     Själva satt vi i en rävsax.**
 
@@ -30,6 +33,7 @@ yearGroup: "2007–2012"
 **    Varför fogade vi oss och lät oss förstummas? Varför höjde vi inte vår röst? Varför lät vi vår värdighet besudlas, rakt framför ögonen på oss ... varför lät vi oss förvandlas till en motståndslös kameleontmänniska? Hade vi inget civilkurage längre? Vågade vi inte ställa oss utanför? Hade vår ryggrad förtvinat? Vad hände med oss?**
 
 **     Varför försvann vi?”**
+:::
 
 Texten trycks i Expressen en vecka efter prisutdelningen.
 ::: indent
@@ -47,6 +51,9 @@ Klargörande 4: Jag har aldrig deltagit i ” det offentliga samtalet ”. Jag h
 
 ::: indent
 Resten har jag kanaliserat i min konstnärliga verksamhet.
+:::
+
+::: part
 :::
 
 Mina föräldrar dör på90-talet, med någraårs mellanrum. Svea i cancer, Otto av utslitet hjärta. Arvet består huvudsakligen av en del vackra möbler och föremål, tillverkade av intarsiaspecialisten och rumlaren Nils, farfar. Det pekuniära utfallet är magert, men vi behöver inte göda kistkrämarna i onödan. Båda föräldrarna är noga med att deras kremerade kroppar ska strös för vinden. Inga privata minnesplatser. Inget konkret som ska minna om deras liv. En sekul är attityd som jag kan sympatisera med.

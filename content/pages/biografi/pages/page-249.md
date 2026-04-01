@@ -41,6 +41,9 @@ Hur länge till får vi förmånen av att kunna tänka? Dvs finnas till, enligt 
 När ersätts vi?
 :::
 
+::: part
+:::
+
 Cilla och jag har till dags dato skrivit 24 Beckfilmer. Alla med originalhistorier. Vi är färdiga med Beck.
 ::: indent
 Det är, återigen, inte omvärlden.
@@ -68,6 +71,9 @@ Vi ställer upp och skriver *”I stormens öga”* och *”Levande begravd”*.
 
 ::: indent
 Någraår senare kan vi konstatera att löftet om tvåavslutningsfilmer inte höll. Beckserien fortsätter att produceras, dock utan vår inblandning.
+:::
+
+::: part
 :::
 
 En udda payoff: Jag skriver en pjäs baserad på mitt långfilmsmanus ” *Dödspolare* ”. Pjäsen sätts upp på Nya Teatern iÖrebro.

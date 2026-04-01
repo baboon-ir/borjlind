@@ -17,9 +17,15 @@ yearGroup: "2013–2017"
 
 ![304.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/304.png)
 
+::: part
+:::
+
 På tal om döda: Allen Ginsberg avlider i april det häråret. I East Village, New York. Han är 70år och tämligen sliten. När jag läser om hans död tänker jag på våra dygn i Boulder, med Bruno, våra samtal och dispyter, hans varma mörkaögon, hans mjuka röst ... det känns som ett annatårhundrade.
 ::: indent
 Jag hoppas han dog lycklig.
+:::
+
+::: part
 :::
 
 Minns ni den satiriska tv-serien ” *Pannrum 2* ”?
@@ -32,6 +38,9 @@ Såhär beskriver filmprofessorn Leif Furhammar dom småstänkarna:
 :::
 
 **”Med risk att stöta mig med den mer väluppfostrade delen av läsekretsen skulle jag vilja hävda att några av tv-veckans fem mest spännande minuter är de som brukar komma efter ”Striptease” på onsdagskvällarna. ”Pannrum 2” kallas denna satirkortis av någon anledning. Det är där Stefan Sauk och Kjell Bergqvist sitter och viskar om ditt och datt i den svenska offentligheten. Det är utomordentligt provocerande, förfärligt elakt, kolossalt kvickt och dessutom helgalet på ett diskret sätt. Ta risken att titta. Det går fort över.”**
+
+::: part
+:::
 
 ![211.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/211.png)
 

@@ -36,7 +36,7 @@ yearGroup: "2007–2012"
 
 Den sista teckning Carsten gör är den här:
 
-![227.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/227.png)
+![There must be some way out of here said the Joker to the Thief.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/227.png)
 
 En månad senare är han död, den tredje mars 1992.
 
@@ -44,7 +44,7 @@ En månad senare är han död, den tredje mars 1992.
 
 Rekyl: I flera år och många gånger efter hans död är jag på väg till telefonen för att ringa honom och fråga nåt när jag kommer på: Men han finns ju inte längre? Han är ju död? Vem ska jag då fråga?
 
-![195.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/195.png)
+![Självporträtt 2.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/195.png)
 
 Begravningen äger rum i Skeppsholmskyrkan och förrättas av biskop Caroline Krook. Hon har ett möte med mig och Carstens änka Amis för att ” informera sig ” om den avlidne. Amis påpekar att Carsten inte var religiös och inte trodde på Gud. Biskopen noterar det med viss syrlighet.
 ::: indent
@@ -52,4 +52,3 @@ Väl i kyrkan träder hon in i den roll hon är betald för. Hon pratar vackert 
 :::
 
 Ändå är det plågsamt att lyssna till.
-

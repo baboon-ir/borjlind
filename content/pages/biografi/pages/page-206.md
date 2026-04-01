@@ -49,4 +49,7 @@ Samtidigt sätter mannen full fart in mot hamnen i La Maddalena. Jag sitter stil
 Starkt och solkigt.
 :::
 
+::: part
+:::
+
 På tal om resor: Tidskriften ” *Resguide* ” hör av sig igen och vill ha en text. Jag skriver en som får rubriken ” *I den stora vidriga världen* ”. I den berättar jag om språk för bistringar och beskriver en privat upplevelse frånön Symi i Grekland:

@@ -45,6 +45,9 @@ Dom följandeåren skriver vi ytterligare fem böcker.
 
 ![329.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/329.png)
 
+::: part
+:::
+
 Tematisk om våra böcker: Vi försöker hitta över gripandeämnen som berör oss just när vi ska börja skriva, en tändvätska. Första boken, ” *Springfloden* ”,  handlade om Lundin Oils över grepp i Afrika, som jag nämnt.
 ::: indent
 Andra boken, ” *Den tredje rösten* ”, handlar om ett nätfenomen som är ovanligtäckligt, nämligen det faktum att du kan sitta i Sverige, framför en datorskärm, och betrakta en våldtäkt på ett minderårigt barn i till exempel Asien, beställd av dig själv. I realtid.

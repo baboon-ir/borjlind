@@ -46,6 +46,9 @@ Negativ bieffekt: Framgent tvingas alla regissörer skriva påavtal som ger tv-b
 
 Fotnot:Även Vilgot Sjöman deltog iåtalet mot TV4, avseende hans film *”Alfred”**. * Tyvärr avled Sjöman innan HD:s utslag kom.
 
+::: part
+:::
+
 Det är sent på kvällen, Cilla har somnat, jag har just läst en kort skrift om den heliga skalbaggen, skarabén, det tickande dödsuret, och börjar skriva en text. Jag kallar den *”Natt i en målning av innerlighet”*:
 
 **”Det är natten till de dödas dag och tre människor befinner sig i ladan - en man av enkelt ursprung och hans unga kvinna, på knä intill en mycket gammal människa med en grön medaljong på bröstet. **

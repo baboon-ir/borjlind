@@ -52,6 +52,9 @@ Jag träffar Slas ett par gånger ihop med Gösta, men får aldrig tillfälle at
 Elleråtminstone förlängde det.
 :::
 
+::: part
+:::
+
 Det häråret får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill att ha med mig, för första gången. Det får dom. Såhär lyder texten om mig i boken:
 
 **”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift. **

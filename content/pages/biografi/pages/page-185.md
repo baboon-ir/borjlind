@@ -17,6 +17,9 @@ Ett regnigt ochödsligt Venedig. Jag går runt i gränderna som en våt vålnad 
 
 Cilla och jag gifter oss någraår senare. Bröllopsresan går till Venedig. Den våta vålnaden är försvunnen och Cilla blir den tredje grundpelaren i mitt liv (till dags dato har vi varit tillsammans i 30år och har en dotter, Molly, till henneåterkommer jag).
 
+::: part
+:::
+
 Småglädjekorn i tillvaron: Nelson Mandela släpps fri.Äntligen. ANC-s kamp har gått i mål och världen kommer att fålära sig ett nytt begrepp: försoning, istället för hämnd. Ett konkret exempel är Robben Island, fängelset där Mandela satt i allaår. Dom vita fångvaktarna anställs efter Mandelas makt över tagande för att sköta fängelsets löpande verksamhet som minnesplats.
 ::: indent
 Lite som Castro: när han tog över lät han bli att krossa alla byggnader och palats somägts av förtryckarna, istället förvandlade han dom till bostäder för hemlösa.
@@ -24,6 +27,9 @@ Lite som Castro: när han tog över lät han bli att krossa alla byggnader och p
 
 ::: indent
 Intrikat.
+:::
+
+::: part
 :::
 
 Carsten kämpar med sin cancer. Han har en stor separatutställning på Kulturhuset i Stockholm. Han kallar den ” *Terra Incognito* ”. Den består av 10 kvadratiska målningar i formatet 2 x 2 meter.

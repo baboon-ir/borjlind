@@ -45,6 +45,9 @@ Och tydligen ocksåenligt radioprofilen Kjell Alinge som skriver såh är om Bec
 
 **”Vi har alldeles för få bra svenska nutidsserier. Beck är kanske den enda som fått växa ut och skriva en sorts svensk dagbok mitt i polisjakten på buset. Den fria framställningen och respektlösheten i berättelserna gör att jag hoppas att de (Cilla & Rolf Börjlind) aldrig slutar. Beck är svensk samtidskommentar utan motstycke. Brottslighetens förändring är en god temptagning på läget i landet. Nu spränger serien hela tiden ramen och snubblar vigt mellan satir, thriller och fri Börjlindfabulering. Se nya Beck. Se nya Beck. Alltid.”**
 
+::: part
+:::
+
 1996är ett märkligt tomtår, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
 ::: indent
 Annars går början avåretåt till att avsluta första Beck-serien, efter det är det stiltje. Avståndet mellan den yttre världen och mitt skrivande har dragits ut under en längre tid, skrivandet har blivit ett skrivande per se, inte en direkt reaktion påomvärlden.

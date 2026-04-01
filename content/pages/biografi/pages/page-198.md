@@ -23,6 +23,9 @@ Jag blir ombedd att fortsätta utveckla tv-serien, med utgångspunkt från min a
 1998 gör Lars Molin en egen tv-serie om Kreuger med Johan Rabaeus i huvudrollen.
 :::
 
+::: part
+:::
+
 Sårämnar Sovjetunionen, äntligen. Storstaten spräcks upp i ett antal mindre länder, mycket som en följd av Michail Gorbatjovs olika reformer, det som kallas ” glasnost ”. Omvärldens förhoppning är ettöppnare ryskt samhälle, en avspänning politiskt och en större frihet för befolkningen.
 ::: indent
 Riktigt såblir det inte, sett över tid.
@@ -30,6 +33,9 @@ Riktigt såblir det inte, sett över tid.
 
 ::: indent
 Corny detalj i mina anteckningar: Det häråret skickas världens första sms. En tämligen värdelös notering.
+:::
+
+::: part
 :::
 
 Dags för mitt yngstaättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ” *Min store tjocke far* ” i regi av Kjell-Åke Andersson. Nick är 12år när inspelningenäger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig) .

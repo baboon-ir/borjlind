@@ -33,6 +33,9 @@ yearGroup: "1999–2006"
 
 **     Som om världen var vacker, och var fanns ... medan natten obönhörligen faller.”**
 
+::: part
+:::
+
 I samband med utställningen arrangerar Gateway sina sista tre multimedia för eställningar (live, vi kommer att använda konceptet i en tv-serie senare det häråret). Det sker ocksåpå Kulturhuset. Vi döper arrangemanget till ” *Sista Skriket - en futuristisk happening i 5 paket* ”. Medverkande är en blandning av poeter, konstnärer, musiker och skådespelare: Karl-Erik Welin, Stefan Sauk, Janne Schaffer, Sten Hansson, Ola Magnell, Curre Hillfon, Mats Ronander, Bruno KÖijer, Åke Sundqvist, Anna-Lotta Larsson m.fl.
 
 ![207.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/207.png)

@@ -35,9 +35,15 @@ Enkelt svar:
 
  Samma racket, samma språk.
 
+::: part
+:::
+
 Sorglig notering: den amerikanska sångerskan Eva Cassidy dör, bara 33år gammal. Hudcancer. Hennes sånger når inte fram till mig förrän en bra bit in på2000-talet. Hon går under radarn hela sin livstid och blir världskänd först flera år efter sin död. Cassidy har en enastående röst och en bländande musikalitet, hon kan plocka upp en irländsk gammal ballad eller en söndersjungen evergreen och ge sångerna helt nya dimensioner. Hennes död är verkligen en förlust för musikvärlden. Men hennes sånger lever pådiverse cd-skivor.
 ::: indent
 Njut!
+:::
+
+::: part
 :::
 
 Ulf Linde har slutat som konstintendent på Moderna Museet och tagit över Thielska Galleriet på Djurgården. Han arrangerar en minnesutställning med Carstens verk.

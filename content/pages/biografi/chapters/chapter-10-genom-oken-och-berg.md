@@ -608,37 +608,29 @@ Kan vi bocka av det.
 <!-- PAGE 105 START -->
 På väg tillbaka passerar vi Bird Cage Theatre. Påväggen sitter en gammal klassisk affisch som upplyser om att den berömda magdansösen Little Egypt ska uppträda här ikväll. Vi fortsätter till baren på Allen St, Crystal Palace, och blir kvar ganska länge.
 
+::: part
+:::
+
+::: poem
 **En Jack Daniel´s i Tombstone**
 
-**Nere i mexico**
+Nere i mexico
+               lyfte gamarna med det bästa från vägen
+härinne på Crystal Palace
+               rullar sval bomull över biljardbordet
+det är sant
+vi tänker aldrig arbeta
+vi använder våra händer till kärlek
+& ute på Allen Street
+               hörs klackarna så tydligt
+när vi springer i åskregnet
+bjudna till en kvinna
+               som skrev dom bästa sångerna 1890
+& tog sitt liv
+för någon annan än oss
 
-**               lyfte gamarna med det bästa från vägen**
-
-**härinne på Crystal Palace**
-
-**               rullar sval bomull över biljardbordet**
-
-**det är sant**
-
-**vi tänker aldrig arbeta**
-
-**vi använder våra händer till kärlek**
-
-**& ute på Allen Street**
-
-**               hörs klackarna så tydligt**
-
-**när vi springer i åskregnet**
-
-**bjudna till en kvinna**
-
-**               som skrev dom bästa sångerna 1890**
-
-**& tog sitt liv**
-
-**för någon annan än oss**
-
-***B. K. Ö******: ur ”Spelarens Sten”***
+*B. K. Ö: ur “Spelarens Sten”*
+:::
 
 Vi lämnar Crystal Palace och bestämmer oss för att besöka Boot Hill. Den mytiska kyrkogården. Den ligger en bit utanför stan. Vi promenerar. Det hinner mörkna en del innan vi kommer fram. På avstånd skäller präriehundar.
 ::: indent
@@ -679,7 +671,8 @@ Jag somnar direkt och drömmer om Wyatt Earps vackra, tredje fru, Josephine Earp
 
 Det sista vi gör i Tombstone är att ta ett fotografi. På riktigt. Vi går in i en fotoateljépå Allen St och tar en porträttbild.
 
-![We were so much older then\nWe are younger than that now.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/311.png)
+![We were so much older then
+We are younger than that now.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/311.png)
 <!-- PAGE 105 END -->
 
 <!-- PAGE 106 START -->
@@ -862,76 +855,56 @@ Vi passerar dom stora platåerna. First Mesa, Second Mesa. Urgamla byar hukar p�
 ::: indent
 Bakgrund: Vi stannade till i Santa Monica på väg från San Fransisco, mittemot motellet låg ett nöjesfält med ett pariserhjul, Bruno såg hur karusellens snurrande korgar speglade sig i vattnet utanför.
 :::
-
-**Spelarens Sten**
-
-**pariserhjulet repar floden**
-
-**där du hyr ett skjul**
-
-**med fruset gin som tak**
-
-**kärlek fraktas**
-
-**rovfåglar på magikerns rygg**
-
-**rovfåglar på magikerns rygg**
-
-**jag hittar dej**
-
-**vagnarna packas med flor**
-
-**dina tårar slavar motsols i natt**
 <!-- PAGE 108 END -->
 
 <!-- PAGE 109 START -->
-**kärlek fraktas**
+::: poem
+**Spelarens Sten**
 
-**kärlek fraktas mot stupet**
+pariserhjulet repar floden
+där du hyr ett skjul
+med fruset gin som tak
 
-**blixten under en död mans ögonlock**
+kärlek fraktas
+rovfåglar på magikerns rygg
+rovfåglar på magikerns rygg
 
-**jag hittar dej**
+jag hittar dej
+vagnarna packas med flor
+dina tårar slavar motsols i natt
 
-**skrinen töms på ringar från vattnet**
+kärlek fraktas
+kärlek fraktas mot stupet
+blixten under en död mans ögonlock
 
-**din fotspets doppas i utländsk sömn**
+jag hittar dej
+skrinen töms på ringar från vattnet
+din fotspets doppas i utländsk sömn
 
-**kärlek fraktas**
+kärlek fraktas
+kärlek fraktas mot stupet
+stenen i spelarens huvud
+borrhålen i förrädarens gloria
 
-**kärlek fraktas mot stupet**
+pariserhjulet repar floden
+du hyr ett skjul
+med fruset gin som tak
 
-**stenen i spelarens huvud**
+kärlek fraktas
+kärlek fraktas mot stupet
+rovfåglar
+rovfåglar på magikerns rygg
 
-**borrhålen i förrädarens gloria**
+i kväll går jag vilse
+i kväll hittar jag skåran i en nerfälld ridå
+män vill rädda dej
+kvinnor vill rädda dej
 
-**pariserhjulet repar floden**
+vingen slår en flisa ur golvet
+det blev början till deras fall
 
-**du hyr ett skjul**
-
-**med fruset gin som tak**
-
-**kärlek fraktas**
-
-**kärlek fraktas mot stupet**
-
-**rovfåglar**
-
-**rovfåglar på magikerns rygg**
-
-**i kväll går jag vilse**
-
-**i kväll hittar jag skåran i en nerfälld ridå**
-
-**män vill rädda dej**
-
-**kvinnor vill rädda dej**
-
-**vingen slår en flisa ur golvet**
-
-**det blev början till deras fall**
-
-***B. K. Ö******: ur”Spelarens Sten”***
+*B.K.Ö: ur “Spelarens Sten”*
+:::
 
 Rum nummer 10 i Dry Town. Ett billigt motell. Bruno mår inte bra. Jag drar upp ett smutsigt lakan över huvudet, han vankar runt.
 ::: indent

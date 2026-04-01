@@ -36,7 +36,7 @@ Han är modig.
 Men utöver det? Vågar vi inte uppröra längre? På riktigt? Har den digitala undervegetationens dreglande sekatörer klippt ner oss till harmlösa underhållare? Till stumma trygghetsnarkomaner?
 :::
 
-![297.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
+![Vad är det för fel på lite lugn och ro?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
 
 Var finns vreden?
 ::: indent

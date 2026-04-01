@@ -5,10 +5,9 @@
 My point of view:
 :::
 
-::: poem
-**STENSAGA**
-
-**Anteckningar från källarhålet - del 2.**
+::: center
+### STENSAGA
+*Anteckningar från källarhålet - del 2.*
 :::
 
 ::: indent
@@ -107,15 +106,11 @@ Själv tar jag in på St Pauls Hotel i ett kineshus. Det kostar sex dollar. 30 k
 Jag lägger mig på sängen med blöta, svala handdukar över bröstet, hör avlägsna kvinnoskrik i hallen som blandas med polissiréner, tänker: Hur ska jag kunna sova här? Tar fram pennan, skriver:
 :::
 
-***också i natt ska nån vakna ***
-
-***i rummet intill mitt ***
-
-***och ligga dödstyst, länge, ***
-
-***vettskrämd, ***
-
-***och aldrig kunna berätta ***
+*också i natt ska nån vakna*
+*i rummet intill mitt*
+*och ligga dödstyst, länge,*
+*vettskrämd,*
+*och aldrig kunna berätta*
 
 Såungefär.
 ::: indent
@@ -191,7 +186,10 @@ Vi dricker ur och reser oss. Bruno slänger en servett på golvet för att marke
 :::
 
 ::: indent
-På vägen ”hem”går jag vilse och hamnar i en återvändsgränd som heter Beckett End.
+På vägen “hem”går jag vilse och hamnar i en återvändsgränd som heter Beckett End.
+:::
+
+::: part
 :::
 
 Eftermiddag på Vesuvio med Zekeli och Bruno. Fullt vid borden, hög ljudnivå. Jag och Bruno diskuterar språket i våra senaste böcker, min Persona-bok och hans nyutkomna roman”*Chivas Regal*”. Hur hatiskt språket är och konsekvenserna av det, bortstötningen (en diskussion som ska fördjupas rejält när vi träffar Allen Ginsberg i Boulder). Vid bordet bakom oss jobbar en 70-årig stekare hårt för att imponera på en mycket ung mannekäng. 70-åringen är ställets kung, omgiven av ett hov av yngre proselyter, han sitter påleken och har nyckeln i låset, ler hela tiden servilt mot mannekängen, öser påom sin egen förträfflighet. Till slut tröttnar Zekeli, vänder sig om, väger lite påstolen och väser i 70-åringensöra:
@@ -211,7 +209,10 @@ Eftermiddag på Vesuvio med Zekeli och Bruno. Fullt vid borden, hög ljudnivå. 
 Det tar blodet ur hopen, mannekängen flyttar över till Zekeli, beställer in en flaska champagne på hans bekostnad och berättar att hon är lesbisk.
 :::
 
-På tal om ”*Chivas Regal*,”den är späckad med svindlande meningar som”... *dom tog en man. dom spände fast honom. repen var gjorda av vatten. han dog av törst*... ”
+På tal om “*Chivas Regal*,”den är späckad med svindlande meningar som”... *dom tog en man. dom spände fast honom. repen var gjorda av vatten. han dog av törst*... “
+
+::: part
+:::
 
 ::: indent
 – I ´ m from Sweden too.
@@ -266,6 +267,9 @@ Du bryter upp med en viskning, dödar ett leende, trycker en kallsvettig hand mo
 Lilla Eva Lost.
 :::
 
+::: part
+:::
+
 Nattbar, klockan är över två, Bruno har försvunnit till hotellet, jag och Zekeli har hamnat här: En jättelik svart bög med långa lackade naglar, tigerskjorta och sidenjacka, mörkröd scarf och guldarmband, kokain i en liten guldboett. En mörk prostituerad kvinna med teatermask till ansikte och det hårda håret virat till en svart, styv piska. Tvåstenade vita offer intill. Det skarpa fotot av en uppstoppad papegoja vid baren, en äldre man som gråter mellan cigaretterna och dunkar en konstgjord arm i ståldisken.
 ::: indent
 En bit bort sitter Zekeli med en brun påse med tequila i, smygsuper, vit muscadet i en annan påse, varvar klunkarna, mumlar underliga saker... ”ocksåmaskarna har ett jordeliv, bara vi förser dom med lik”... en klunk tequila, en klunk muscadet ...”kärleken är bara ett genrep för ett mycket större genrep” ...
@@ -277,6 +281,9 @@ Tvåpoliser med hängande, prunkande träcoltar dricker kaffe under vaksamma bli
 
 ::: indent
 Utanför står en lång rad människor med ansiktet mot en sönderrappad vägg och håller händerna högt över huvudet, fyra poliser med dragna revolvrar håller massan i schack. Jag får hindra Zekeli från att gåfram och lägga sig i.
+:::
+
+::: part
 :::
 <!-- PAGE 87 END -->
 
@@ -368,6 +375,9 @@ Jag vacklar in i det tomma, vakande huset och känner mig för första gången l
 
 ::: indent
 Sålite behövs det, en påtänd chaffis.
+:::
+
+::: part
 :::
 <!-- PAGE 89 END -->
 
@@ -504,6 +514,9 @@ Men det gjorde jag inte.
 Men jag minns varenda detalj.
 :::
 
+::: part
+:::
+
 Bruno och jag spelar schack på Vesuvio Café. Vi är ganska jämna (många år senare är Bruno totalt över lägsen ... vad hände?). En flicka med svullnaörsnibbar kommer fram till bordet:
 ::: indent
 – Ni ska ut på en resa, hörde jag. Vart ska ni?
@@ -552,6 +565,9 @@ Det är dags att dra härifrån.
 :::
 
 En sak värd att minnas från St Pauls Hotel, för sin skönhets skull: Ett stort inramat porträtt i foajén av en leende James Joyce, med samma spelande blick som John Lennon. Jag hade gärna stulit det.
+
+::: part
+:::
 
 Jag köper en liten silvrig kassettbandspelare, min ambition är att löpande prata in det vi är med om. Bruno har anteckningsböcker. Vi kommer över Dylans nysläppta ”*Street Legal*”och hyr en bil.
 ::: indent

@@ -31,5 +31,7 @@ Men ” *Kalabaliken i Bender* ” har ett dåligt, spretigt manus och är en d�
 
 Minne av Kalabalikenproduktionen: Jag, Åberg och Bosse Jonsson tillbringar en helg på Grythyttans Värdshus för att diskutera manus. Första kvällen i restaurangen kommerägaren Carl-Jan Granqvist in och ställer sig påknävid vårt bord. I den positionen samtalar han en bra stund medÅberg och Jonsson. Jag sneglar dåoch dåner påmannen vid bordskanten och undrar om han faller påknäinför alla gäster? Det verkar väldigt obekvämt. Såbjuder han med oss ner i vinkällaren. Mörk, suggestiv, fylld med vad jag antar är rariteter. Jag råkar dra ut en väldigt dammig flaska ur ett träfack och ser iögonvrån Granqvist förskräckta reaktion. Förmodligen har det med dammet att göra, att jag avlägsnar en del damm från flaskkroppen, eller för att jag håller flaskan rakt upp och ner - mystiska saker i botten kan vandra uppåt. När Granqvist har hämtat sig börjar han berätta om ” döda viner ”, ett okänt begrepp för mig, viner som har ” gått över sin tid ” och dött.Ändåfinns det folk som dricker det. Nekrofilpimplare. Jag använder mig senare av informationen i en scen i en Beckfilm, ” *Den japanska Shungamålningen* ”, där Jan Malmsjötalar varmt om ” döda viner ”.
 
-Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sammanhang framöver. Den heter ” *Nyttiga Idioter* ” och utgår från ett uttryck av den tyske författaren Heinrich Böll:
+::: part
+:::
 
+Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sammanhang framöver. Den heter ” *Nyttiga Idioter* ” och utgår från ett uttryck av den tyske författaren Heinrich Böll:

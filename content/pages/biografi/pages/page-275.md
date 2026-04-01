@@ -19,6 +19,8 @@ Jag vet inte.
 Kanske skriver jag en roman om det, familjeuppgörelser ligger ju i tiden ... *”Koprofagens ystra dans”*.
 :::
 
+::: part
+
 Sitter i halvdunkel och funderar (utan munskydd): När blir det förflutna viktigareän framtiden? När börjar man titta bakåt istället för framåt? Närövergår ” *Dont look back* ” till ” *Look back in anger* ”? Dylan till Osborne?
 ::: indent
 Förmodligen handlar det om den utmätta tiden: ju mindre man har att se fram emot, desto mer ser man bakåt.
@@ -58,3 +60,4 @@ Jag konstaterar att epitetet *”hänsynslös häcklare”* fortfarande hängde 
 
 Det gäller fortfarande.
 
+::: part

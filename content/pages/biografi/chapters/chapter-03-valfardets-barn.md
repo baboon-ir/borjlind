@@ -295,7 +295,7 @@ En stor blåteddybjörn.
 Jag får ihop till en björn efter flera timmar och ger den till min lillasyster Christina påjulafton.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/7.png)
+![Osvedd nallebjörn.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/7.png)
 
 På kvällen kommer björnen för nära dom levande ljusen i granen och blir totalt söndersvedd. En svartsolkig garnkropp är allt som blir kvar.
 ::: indent
@@ -962,6 +962,8 @@ Inget förlag är intresserat. Efter det gör vi vår första konstmapp, en port
 Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i träsom innehåller 12 blåpapphimlar, 12 uppblåsta plast påsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*”samt 1 ex av vår nya konstmapp”*Anvisningar*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/30.png)
+
+![Format: 32 x 26 cm.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/221.png)
 
 Ansökan avslås.
 <!-- PAGE 25 END -->

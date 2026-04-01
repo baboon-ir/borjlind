@@ -38,6 +38,9 @@ Modet att ur en personlig vrede gåut på torget och visa vem man är och vad ma
 Civilt motstånd, när det är som bäst.
 :::
 
+::: part
+:::
+
 Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. Påutställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
 
 ![331.jpeg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331.jpeg)

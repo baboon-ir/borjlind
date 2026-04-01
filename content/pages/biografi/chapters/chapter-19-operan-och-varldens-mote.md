@@ -1,7 +1,10 @@
 # Operan och världens möte
 
 <!-- PAGE 221 START -->
-**Mannen drack en klunk ur sitt glas. Det var inte första klunken, det såg Magdalena, både på flaskan och mannens ögon. Hans blick var insjunken. Men eftersom han var den ende gästen i baren just nu hängde hon sig kvar vid bordet, tillräckligt länge för att mannen skulle göra en gest mot stolen mittemot. Hon satte sig och rättade till sina lockar med en snabb gest. Mannen noterade det.**
+::: accordion
+**Mannen drack en klunk ur sitt glas. Det var inte första klunken, det såg Magdalena, både på flaskan och mannens ögon. Hans blick var insjunken.**
+
+**Men eftersom han var den ende gästen i baren just nu hängde hon sig kvar vid bordet, tillräckligt länge för att mannen skulle göra en gest mot stolen mittemot. Hon satte sig och rättade till sina lockar med en snabb gest. Mannen noterade det.**
 
 **     - Du är inte från trakten? sa hon.**
 
@@ -118,6 +121,7 @@
 **     Det kan han gott ha, tänkte Magdalena, när hon såg mannens förbryllade min.**
 
 **     - Vill du ha skjuts nånstans? sa hon.**
+:::
 
 Nu blir det inte så mycket”hängande i luften” tycker jag. Inte mannen från resemagasinet heller.
 ::: indent
@@ -125,6 +129,9 @@ Båda är nöjda.
 :::
 
  For the record: En av kvinnorna i berättelsen, Enögda Bierté, blir delvis förebilden till karaktären Enögda Vera i vår första deckare *”Springfloden”* - kvinnor som ser mycket bra, speciellt i mörker, och kan paralysera en jaktfalk i flykten med sin blick.
+
+::: part
+:::
 
 ::: indent
 – Jag ska komponera en opera, har du lust att skriva librettot?
@@ -157,6 +164,9 @@ Operan uruppförs på Folkoperan 1998 i regi avÅsa Kalmér.
 
 Minne med Stefan: Vi besöker hans barndomshem, en gammal gård uppe i Kukasjärvi, nära finska gränsen. Han visar det spartanska rummet där hans far placerade ett piano som Stefan skulleägna sigåt, han var yngst i barnaskaran och för liten för att arbeta i jordbruket. Oändliga timmar satt han ensam vid pianot och försökte lära sig att spela. Föga anade väl fadern vad det skulle resultera i - bland annat enastående filmmusik som renderade Stefan en Guldbagge 1998 ”för en tonkonst som berikar såväl epik som komik”.
 
+::: part
+:::
+
 Tvågånger i mitt liv har jag befunnit mig utomlands när stora katastrofer inträffar. Den första är nu. Jag bor i en liten fransk by som heter La Garde Frenet. Jag och Cilla har hyrt en lägenhet i en månad. Det är en mycket liten by med ett klassiskt pittoreskt torg där råvaror inhandlas påförmiddagen.
 ::: indent
 En dag passerar vi ett tidningsställ och ser rubriker som handlar om Sverige. Vi ser ocksågryniga svartvita foton på ett stort fartyg. Strax efter ringer min syster och berättar: Ett fartyg som heter Estonia har förlist och drygt 800 människor har omkommit. En monumental tragedi.
@@ -182,7 +192,12 @@ Det är en märklig upplevelse. Att avståndet, bristen pånärvaro, skalar bort
 Andra gången det händer är när den stora tsunamin slår till. Denåterkommer jag till.
 :::
 
+::: part
+:::
+
 En stor del av det häråret, 1995, och en bit in pånästa, kommer jag att ägna mig åt att skrivaåtta tv- och filmmanus om Martin Beck. Men innan dess bidrar jag med smått och gott till sju nya avsnitt av ”*Lorry*”. Sauk och jag har lagt ner ”*Tillfälligt Avbrott*”, våra inslag i den här omgången går under namnet ”*Cyber-Sauk*”, olika gestalter med synpunkter på det mesta.
+
+[yt-video][https://www.youtube.com/watch?v=pJH3wmYfk-o]
 
 ”*Larry löser fallet*”har nu ersatts av”*Blaséholmen*”- ett antal satiriska politikerporträtt som jag skriver tillsammans med Cilla.
 ::: indent
@@ -206,12 +221,18 @@ Cilla och jag lämnar innerstan, vi har ett litet barn och söker oss ut en bit 
 Förmodligen har han rätt.
 :::
 
+::: part
+:::
+
 Det är den 18 augusti 1995, på morgonen, när nyheten når mig. Kvällen innan har ett sällsynt vidrigt mordägt rum. Fyra nynazistiska ungdomar har sparkat ihjäl en 15-årig skolkamrat, John Hron. Mordet harägt rum vid en liten insjöoch i närvaro av en kamrat till Hron. Orsaken till mordet är att Hron vägrade säga att han älskade nazister. Detaljerna om misshandeln är plågsamma att ta in, morgonljusetändrar färg, då det gräver sig in i magen.
 ::: indent
 Reflektion: Ungdomarna som sparkar ihjäl Hron är nynazister, dvs omhuldar samma ideologi som har legat till grund för Sverigedemokraternas ungdoms för bund när det startades av nazisten Robert Wennerstedt treår tidigare. När mordetäger rum har JimmieÅkesson varit aktiv medlem i förbundet i ett år.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
+![Dödskalle. CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
+
+::: part
+:::
 
 Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes program i radioserien ”*Frispel*”. Jag läser egna texter varvade med musik. En av dom är den här:
 
@@ -246,6 +267,9 @@ Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes progr
 **     - Alla dom som vaknar som om ingenting har hänt.”**
 
 Musiken jag har valt till texten är Mari Boines ”*Örnebror*”.
+
+::: part
+:::
 
 Såringer Gösta. Ett danskt filmbolag som heter Victoria Film vill göra nya Beck-filmer som bygger på dom gamla karaktärerna, men med nya historier. Dom har köpt rättigheterna till karaktärerna av Maj Sjöwall. Gösta undrar om jag är intresserad av att vara med och skriva manus. Projektet har redan pågått en tid, visar det sig, andra manus författare har varit inkopplade. Det har inte funkat så bra. Gösta berättar att det rör sig omåtta filmer om 90 minuter vardera, sex av dom för tv, tvåav dom för både bio och tv.
 ::: indent
@@ -365,6 +389,8 @@ Grannen behålls.
 ::: indent
 Över tid blir han omåttligt populär i Tyskland och visar vikten av att våga tro på det man vet fungerar.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=1dZBkp1kmZs]
 <!-- PAGE 225 END -->
 
 <!-- PAGE 226 START -->
@@ -457,6 +483,9 @@ Och tydligen ocksåenligt radioprofilen Kjell Alinge som skriver såh är om Bec
 
 **”Vi har alldeles för få bra svenska nutidsserier. Beck är kanske den enda som fått växa ut och skriva en sorts svensk dagbok mitt i polisjakten på buset. Den fria framställningen och respektlösheten i berättelserna gör att jag hoppas att de (Cilla & Rolf Börjlind) aldrig slutar. Beck är svensk samtidskommentar utan motstycke. Brottslighetens förändring är en god temptagning på läget i landet. Nu spränger serien hela tiden ramen och snubblar vigt mellan satir, thriller och fri Börjlindfabulering. Se nya Beck. Se nya Beck. Alltid.”**
 
+::: part
+:::
+
 1996 är ett märkligt tomtår, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
 ::: indent
 Annars går början avåretåt till att avsluta första Beck-serien, efter det är det stiltje. Avståndet mellan den yttre världen och mitt skrivande har dragits ut under en längre tid, skrivandet har blivit ett skrivande per se, inte en direkt reaktion påomvärlden.
@@ -492,9 +521,15 @@ Enkelt svar:
 
  Samma racket, samma språk.
 
+::: part
+:::
+
 Sorglig notering: den amerikanska sångerskan Eva Cassidy dör, bara 33 år gammal. Hudcancer. Hennes sånger når inte fram till mig förrän en bra bit in på 2000-talet. Hon går under radarn hela sin livstid och blir världskänd först flera år efter sin död. Cassidy har en enastående röst och en bländande musikalitet, hon kan plocka upp en irländsk gammal ballad eller en söndersjungen evergreen och ge sångerna helt nya dimensioner. Hennes död är verkligen en förlust för musikvärlden. Men hennes sånger lever pådiverse cd-skivor.
 ::: indent
 Njut!
+:::
+
+::: part
 :::
 
 Ulf Linde har slutat som konstintendent på Moderna Museet och tagit över Thielska Galleriet på Djurgården. Han arrangerar en minnesutställning med Carstens verk.
@@ -511,6 +546,7 @@ Såhär skriver Linde om Carsten i inbjudan till utställningen:
 <!-- PAGE 228 END -->
 
 <!-- PAGE 229 START -->
+::: accordion
 **Och ändå något sprött, ömtåligt och nervigt, som om det funnits en Pierrot bakom den tuffa masken, en viskning som hördes tvärs genom tingeltanglet och gjorde det ännu tingeltangligare, en öm gest - och sedan de pinglande narrbjällrorna.**
 
 **    VARGEN - hans alter ego - var en ensamvarg som skydde flocken. Han passade inte in på samlingsutställningar; där verkade hans målningar som gälla ylanden utanför en ladugård. Men egendomligt nog märker man ingen gäll ton i en sal med bara hans egna målningar, som om han varit ett bråkigt barn som genast slutade bråka i ensamheten och lekte tyst.**
@@ -518,16 +554,25 @@ Såhär skriver Linde om Carsten i inbjudan till utställningen:
 **     För Carsten Regild lekte, och man frågar inte vad barn menat med sina lekar. Det vore bara dumt att fråga sig varför han målade som han gjorde; hade han vetat det hade han genast slutat och räckt lång näsa åt sig själv i spegeln.**
 
 **     Ändå**** ... - kanske skulle han ha sagt att han helt enkelt ville göra något vackert.”**
+:::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/210.png)
+::: part
+:::
+
+![Miss Bulb - glödlampa på målad gips.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/210.png)
 
 Jag skriver själv en text till utställningskatalogen med titeln ”*Konstens Öga*”:
 
+::: accordion
 **”Det finns en bristpunkt i varje människa, en punkt där kollapsen bidar. Den punkten är konstens öga. Därifrån återvänder ingen oanfrätt: det blicken sett i konstens öga utesluter allt slagg. Somliga av oss sugs mot punkten, med eller mot vår vilja. Somliga flyr åt andra hållet. Carsten flydde aldrig. Obönhörligt sögs han mot sin bristpunkt, balanserade över avgrunden och återvände: punkten blev hans öga.**
 
 **Det var därifrån han målade. Anfrätt, och konstant besatt: han brast på duken. Resultatet var vackert och påfrestande. Exakt och gåtfullt. Han skar ett snitt i varje tavla och presenterade sin bristpunkt: han målade kollapsen. Inte sin egen, den hade han dresserat, utan vår. Samtidens kollaps. Den är avläsbar i varje bild, för den som vågar. Den är där för oss, vi som glider vårdslösa genom världen. För att vi ska minnas det vi helst vill glömma: hur det egentligen ser ut. På riktigt. När sanningen är det enda som återstår. Det blev hans verk. Och öde. När andra samlade sin kompetens i estetiskt  fulländade tavlor, slet Carsten upp ett trasigt hål av skräck. Fulhet, skam, groteskeri ... han visste sin omutliga uppgift: att förvalta skriket. Han var alltigenom sann. Det gjorde honom farlig, och förtvivlad. Och mycket utanför. Han visste för mycket om det förbjudna. Om det som avtäcks vid bristpunkten: han visste vem han var. Det är få förunnat, och det har sitt pris. Konstens öga är obarmhärtigt, i bristpunkten finns ingen nåd. Där härskar ett säreget ultimatum: berätta exakt det du ser, eller brist. Carsten berättade. Om absolut kärlek, som det innersta och yttersta av allt: han älskade sin kvinna tills han dog. Om ondskan, den lismande ondskan, som omärkligt förvandlar oss till det vi en gång fruktade. Om längtan, efter den sortens samhörighet som utesluter alla andra. Om hungern, det skållade barnet, den hunger som handlar om bekräftelse, eller bara enkel tröst. Om hatet, skuggan som förföljer oss, rösten av den innan, som förminskar oss med flit: han visste allt om den sortens hat. Och han berättade. Han berättade om det rudimentära. Om lusten, glädjen, den färgade hjärnan som exploderar i en orgasm av primitiv lycka. Om sexualiteten. Sexualiteten, som flåsar genom kroppen som en rabiesdrabbad vinthund: han vågade glänta på mörkret. Han vågade se. Åt oss. Och berätta. Han arbetade utan förtecken, avskalat och direkt, han hade gångavstånd till det undermedvetna. Hans redskap var skurna ur omvärlden, tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som till ät hans blick att betrakta tillvaron med skoningslös konsekvens: han hade tolkningsföreträde till det djupt skrämmande. Och sanna: konstens öga. Nu är han död ... och jag såg honom senast igår, när han leende gled genom minnet och kastade släckt ljus mot himlen.” **
+:::
 
 Till vernissaget trycker jag ocksåupp en diktsamling, 38 epitaph till minne av Carsten. Den heter”*Som en akt av längtan*”(finns redovisad i MINNEN). Såhär lyder den första dikten:
+
+::: part
+:::
 <!-- PAGE 229 END -->
 
 <!-- PAGE 230 START -->
@@ -541,9 +586,15 @@ Till vernissaget trycker jag ocksåupp en diktsamling, 38 epitaph till minne av 
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/304.png)
 
+::: part
+:::
+
 På tal om döda: Allen Ginsberg avlider i april det häråret. I East Village, New York. Han är 70 år och tämligen sliten. När jag läser om hans död tänker jag på våra dygn i Boulder, med Bruno, våra samtal och dispyter, hans varma mörkaögon, hans mjuka röst ... det känns som ett annatårhundrade.
 ::: indent
 Jag hoppas han dog lycklig.
+:::
+
+::: part
 :::
 
 Minns ni den satiriska tv-serien”*Pannrum 2*”?
@@ -556,6 +607,9 @@ Såhär beskriver filmprofessorn Leif Furhammar dom småstänkarna:
 :::
 
 **”Med risk att stöta mig med den mer väluppfostrade delen av läsekretsen skulle jag vilja hävda att några av tv-veckans fem mest spännande minuter är de som brukar komma efter ”Striptease”på onsdagskvällarna.”Pannrum 2” kallas denna satirkortis av någon anledning. Det är där Stefan Sauk och Kjell Bergqvist sitter och viskar om ditt och datt i den svenska offentligheten. Det är utomordentligt provocerande, förfärligt elakt, kolossalt kvickt och dessutom helgalet på ett diskret sätt. Ta risken att titta. Det går fort över.”**
+
+::: part
+:::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/211.png)
 
@@ -695,6 +749,9 @@ Tack och lov spolas det av väldigt snabbt.
 Som smuts.
 :::
 
+::: part
+:::
+
 Det har startats en ny tidning det häråret, den heter”*98-Stockholm*”. Jag blir ombedd om en text. Varför inte? Jag är brödskrivare och driver ett gammalt kärntema vidare, från Keve Hjelms ”*Betraktelse*”:
 
 **”Det finns egentligen bara en giltig strävan idag, oavsett vem du är, vad du heter eller vad du gör: att återupprätta den mänskliga värdigheten. Den värdighet som oavbrutet besudlas. Förnedras. Vart vi oss i världen vänder. Den värdighet som stympas och kränks. Överallt. Dygnet runt. Vi vet alla hur. Var. Och på vilket sätt. Det finns ingen skuld vi inte alla är en del av, ingen oskuld vi kan kalla vår. Den tiden är förbi. Vi vet exakt vad som pågår och varför. Vi vet att vi obönhörligt förvandlas till det vi en gång fruktade. Det vi såg på med avsmak. Den avbild av människan som var människans varg. Vi är den vargen nu. Oavsett vem vi är, vad vi heter eller vad vi gör. Vi deltar i blindo. Vi accepterar. Vi reduceras tills vi tystnar. Mot detta finns bara ett vapen i framtiden. En enda genuin rörelse: den maximalt frigjorda skaparkraften. En kraft som ligger så långt utanför all social kontroll att den blir revolutionär enbart genom sin existens. En kraft som förmår att uttala den brutala sanningen genom ett obarmhärtigt språk och därmed möjliggöra vår enda giltiga strävan: att återupprätta den mänskliga värdigheten.”**
@@ -702,6 +759,9 @@ Det har startats en ny tidning det häråret, den heter”*98-Stockholm*”. Jag
 
 <!-- PAGE 233 START -->
 Fortfarande finns hoppet att såfrö, att odla motstånd, tända ett förborgat ursinne, en smygande gräsbrand i den förtorkade tristessen.
+
+::: part
+:::
 
 Klargörande 5: Jag har aldrig medverkat i några föreningssammanhang eller ingått i kollektiva sammanslutningar (jag räknar bort Vargungarna).
 ::: indent
@@ -812,6 +872,9 @@ Minne från Torshamn på Färöarna: Vi åker båt i Atlanten, längs höga, vit
 Ändå älskar jag surströmming.
 :::
 
+::: part
+:::
+
 Göteborgs Filmfestival hör av sig igen. Gunnar Bergdahl. Deras serie ”*90 minuter 90-tal*”närmar sig sitt slut. Bergdahl undrar om jag vill göraårets kortfilm.
 ::: indent
 – Kan man vara med tvågånger? undrar jag.
@@ -880,6 +943,8 @@ På grund av vår begränsade budget erbjuder vi en konsumdeal igen: alla får l
 Min kompisÅke Sundqvist skriver musiken. Tvånära vänner, Cian Bornebusch och Peter Alvérus, gör scenografi, bygger miljöer och trollar med knäna. Jag ber också den eminente Esa Vuorinen att fota filmen (han som skötte jobbet på Dödlig Drift).
 :::
 
+[yt-video][https://www.youtube.com/watch?v=fRBX30FreM4]
+
 Tankar:Än en gång dyker Ottos, faderns, sång ”*Här är gudagott att vara*”upp, nu gestaltad av en naken och blind Halvar Björk strosande genom förmultnade löv. Carsten döda träd med hängande svarta frukter ingår i en annan tablå. Scenen när Persbrandt pressar in bomull i munnen på en hjälplösåldring har jag drömt några gånger, eller kanske sett i förbifarten en flyktnatt.
 ::: indent
 Hela tidenåterbruk ur det förflutna, pusselbitar i nya tavlor.
@@ -912,6 +977,9 @@ Och på tal om Féte local: varje kväll pågår en mycket speciell form av boul
 
 ::: indent
 Extremt svårt.
+:::
+
+::: part
 :::
 
 Underbar händelse det häråret: Min första sondotter föds. Ella, syster till Ludvig. Nuärätteläggens skara utökad till sex. Många personnummer blir det ☺
@@ -957,6 +1025,9 @@ Vi diskuterar, återvänder till skrivbordet och kommer tillbaka med en ny versi
 Synd påberättelsen om Målle Lindberg (till några av sina väckelsemöten kom han nerdalande i fallskärm, bara det).
 :::
 
+::: part
+:::
+
 En parentes till: Gösta får en förfrågan om att göra en ny Papphammarserie det häråret. Jag vet att Gösta har bestämt sig för att aldrig mer utnyttja den karaktären (en gång hör försäkringsbolaget Skandia av sig, dom vill använda Papphammar i sin reklam och erbjuder ett fullständigt svindlande mångmiljonbelopp. Gösta svarar:
 ::: indent
 – Dubbla det så får vi se.
@@ -984,7 +1055,11 @@ Roligast under inspelningen: Papphammar sitter i köket och klipper till en spra
 
 ![Sprattelhammar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/215.png)
 
-Så:Återigen ett av dessa visuellaögonblick som bränner sig fast pånäthinnan och kommer att följa med ner innanför kistlocket, både på grund av sin omedelbara dramaturgi: ett flygplan som rammar rakt in i ett av de ikoniska tvillingtornen vid World Trade Center ... men också på grund av det ofattbara som händer strax efter: att i realtid följa hur ytterligare ett plan brakar in i tornet intill.
+::: part
+:::
+
+Så:
+Återigen ett av dessa visuellaögonblick som bränner sig fast pånäthinnan och kommer att följa med ner innanför kistlocket, både på grund av sin omedelbara dramaturgi: ett flygplan som rammar rakt in i ett av de ikoniska tvillingtornen vid World Trade Center ... men också på grund av det ofattbara som händer strax efter: att i realtid följa hur ytterligare ett plan brakar in i tornet intill.
 ::: indent
 Det stannar tiden.
 :::
@@ -1040,6 +1115,9 @@ Såstartar det skoningslösa kriget mot ”terrorister”. Bush II krig. Jag har
 Även på vår kontinent.
 :::
 
+::: part
+:::
+
 Skröna. Litter är fresk. En underbar torsdag. Det stora kalaset. Cilla och jag vill skriva en film som handlar om det burleska i det lilla, om kantmänniskor, om allt det som Steinbeck i sina upprymda stunder gav evigt liv - det allmängiltiga i vemodet, överlevandets grimas, skrattet. Vi börjar skriva en historia som får namnet”*Georg von Ingenting*”. Den utspelar sig en liten kustby och kretsar kringägaren till Kukbutiken, en mycket beläst och sofistikerad man med ett spretigt umgänge, själv specialiserad påavgjutningar av historiska mansorgan. Intresset startade redan i träslöjden.
 ::: indent
 – Vilken vacker skärbräda du har gjort, Georg!
@@ -1056,6 +1134,8 @@ Vi presenterar ett synops för SFI och får ekonomiskt stöd för att skriva ett
 ::: indent
 Historien inleds med en scen på en strand. En ung man har bestämt sig för att ta livet av sig. Han gräver ner sig i sanden tills bara huvudet dyker upp och inväntar tidvattnet som ska dränka honom. Tyvärr tar han fel påebb och flod. Vågorna når knappt fram till hakan på honom innan dom försvinner ut igen. Vi använder senare scenen i en annan variant i vår bok ”*Springfloden*”, där en gravid kvinna grävs ner och faktiskt dränks av tidvattnet.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=FuJOE0tuKg0]
 
 Viåteranvänder också ett par andra karaktärer ur det här materialet, Ronny Redlös och Minken, som båda dyker upp i våra böcker.
 ::: indent
@@ -1080,6 +1160,9 @@ Och därinne ligger *”Georg von Ingenting”* och ruvar.
 
 ::: indent
 Kanske lockar vi ut honom igen och skriver om manuset till en roman, i sinom.
+:::
+
+::: part
 :::
 
 Efter att ha skrivit dom förstaåtta filmerna om Martin Beck är jag klar med den världen. Det är inte produktionsbolaget Filmlance, finansiärerna och fram för allt inte publiken. Filmerna har blivit en formidabel tittarsuccéoch alla vill ha mer.
@@ -1133,6 +1216,9 @@ Med detta sagt har du som manus författareändå ingen makt över hur din fikti
 Vi har skrivit flera andra krimihistorier där verkligheten efteråt har hunnit ikapp fiktionen, men det ligger i längdriktningen - som författare fungerar du delvis som katalysator för fenomen som är pågång i samhället, din lyhördhet och fantasi kan föreställa sig det som komma skall.
 :::
 
+::: part
+:::
+
 Sauk och jag kan inte riktigt släppa alla hans ”gestalter”genomåren. Han har kontakter på Universal Pictures Nordic. Han föreslår att vi ska spela in en film direkt för videomarknaden. Med Sauk i huvudrollen och ett antal kompisar i olika andra roller. UPN tänder påidén och vi sätter igång. Filmen produceras av Deadline, mitt och Cillas bolag, och produceras av Cilla.
 
 Vårt hem förvandlades till produktionskontor igen.
@@ -1147,7 +1233,12 @@ Sauk har skapat en karaktär som vi döper till”*Gunnar Govin*”. En mycket b
 
 Ett av inslagen i videon är en kommentar till”den tunga förorts-rapen”:
 
+[yt-video][https://www.youtube.com/watch?v=EhO2WH_AaHU]
+
 Det blir en bisarr och bitvis hysteriskt rolig video (bitvis inte såhysteriskt rolig). Den lanseras påvideomarknaden och blir väl ingen kioskvältare.
+
+::: part
+:::
 
 Strax efter att vi har gjort Govinfilmen vill Gösta ha hjälp med bearbetning av en engelsk komediserie. Den handlar om grumpy old people och han tänker sig att den ska heta ”*En fot i graven*”. Jag är inte såupphetsad över den engelska förlagan, brittisk humor när den är som äldst, men jag fattar vad Gösta skulle kunna göra av den med sin förmåga. Vi skriver manuset tillsammans, men det blir aldrig nån inspelning, oklart varför (för mig, jag är inte riktigt inne i projektet).
 ::: indent
@@ -1156,7 +1247,10 @@ Istället skriver jag en text till julnumret av tidningen ”*Situation Stockhol
 
 **”Han tyckte om julen. Inte för tidigt, men när det var dags. Han tyckte om att få presenter. Han tyckte om att köpa presenter. Han tyckte om att packa säcken och att packa upp den, en present i taget. Han tyckte om julen och han visste om allt det andra. **
 
-**     Han tyckte om att kapa en utvald gran och att resa den och pynta den och sätta en stjärna i toppen. Och han tyckte om att lägga en kopparpeng i julgransfoten, för sakens skull. Han tyckte om det röda och gröna, kulorna och barren och blänket i en silvertråd. Han tyckte om dofterna, av nejlikan i mandarinen och det droppande stearinet. **
+::: accordion
+**Han tyckte om att kapa en utvald gran och att resa den och pynta den och sätta en stjärna i toppen.**
+
+**Och han tyckte om att lägga en kopparpeng i julgransfoten, för sakens skull. Han tyckte om det röda och gröna, kulorna och barren och blänket i en silvertråd. Han tyckte om dofterna, av nejlikan i mandarinen och det droppande stearinet.**
 
 **     Och han visste om allt det andra.**
 
@@ -1189,6 +1283,10 @@ Istället skriver jag en text till julnumret av tidningen ”*Situation Stockhol
 **     - Det vet jag inte.**
 
 **     Och fortsatte, hand i hand med flickan, ut i allt det andra.”**
+:::
+
+::: part
+:::
 
 Det häråret, 2002, blir det några tunga nerslag påtangentbordet. En kriminalserie som heter ”*Graven*”, en tv-serie på en Mankellbok som heter ”*Danslärarens återkomst*” och ett genuint hjärteprojekt igen: historien om greve Axel von Fersen.
 ::: indent
@@ -1208,9 +1306,7 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno KÖijer i Lita
 :::
 
 **”Molini di Triora**
-
 **Ligurien**
-
 **torsdag 13 juni 2002**
 
 **Käre Bruno,**
@@ -1221,6 +1317,7 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno KÖijer i Lita
 <!-- PAGE 241 END -->
 
 <!-- PAGE 242 START -->
+::: accordion
 **Till vilket pris vet jag inte riktigt, förmodligen är priset en del av befrielsen: ditt språk vittnar om en del underbara nederlag.**
 
 **     Du har alltid haft en enorm tro på ditt språk, eller den revansch som språket har möjliggjort: i dikten har du ord för ord bevingat hämnden och ditt ansikte har avspeglat sig i varenda rad. Du har aldrig dolt dig bakom texten, som merparten av den övriga parnassen, du har oavbrutet gjort dig synlig - dvs tillgänglig, och i begreppets djupare mening användbar.**
@@ -1244,6 +1341,10 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno KÖijer i Lita
 **     Ditt språk har förändrats, givetvis, genom årens lopp, stråk av sorgsen innerlighet har svept in över obönhörliga slutsatser ... som om du närmade dig det allra djupaste såret med allt mjukare nål ... och en tråd spunnen av mognad. Jag hoppas du lyckas sy ihop såret. Du är en väldigt ljus människa, Bruno, för mig, och tydlig, en människa som läcker ur ett mycket vackert hål.**
 
 **Roffe.”**
+:::
+
+::: part
+:::
 
 Kulturmingel på hög nivå: Föreningen KLYS (Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd) får en inbjudan till Kina för att ”främja kulturutbytet”. Vi är en relativt stor delegation som åker, bland annat författaren Peter Curman, jag själv och Cilla. På plats till sluter en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
 ::: indent
@@ -1290,6 +1391,9 @@ Men vi går påmuren och ser den mäktiga terrakottaarmén i Xi ´ an.
 Tack, Astrid.
 :::
 
+::: part
+:::
+
 Cilla och jag tillfrågas av SVT om vi vill skriva manus till en tv-serie baserad på en bok av Henning Mankell. Den heter ”*Danslärarens Återkomst*”och är en thriller. Jag har aldrig läst nåt av Mankell, slarvigt kanske, men vi läser boken. Denär välskriven och ordrik och har en bra intrig. Det känns att Mankell har ett personligt engagemang.
 ::: indent
 Som vanligt när du bryter ner en bok uppenbarar sig ett antal håligheter som du som manus författare måste skyffla igen, men det löser sig. Serien spelas in, regisseras av Stephan Apelgren med Jonas Karlsson i huvudrollen.
@@ -1306,6 +1410,9 @@ Inte av nonchalans, jag ser ytterst sällan egna produktioner, förmodligen avå
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/260.jpg)
+
+::: part
+:::
 
 Nästa projekt är ett undantag: tv-serien”*Graven*”. Undantag i den bemärkelsen att jag och Cilla faktiskt sätter oss framför tv-n när vi har fått cd-skivorna från serien och börjar titta. Påförsta avsnittet. På andra och på tredje. Och blir helt indragna. Och lyckliga. Det är såfågånger i en manus författares liv som du får uppleva att det du har skrivit faktiskt har landat rätt, träffat exakt ton och har blivit det du villeåt.
 ::: indent
@@ -1398,6 +1505,9 @@ Minne från manusarbetet 2: I en scen låter vi skådespelaren Göran Ragnestams
 Det visar en del av hans oerhörda noggrannhet och nyfikenhet.
 :::
 
+::: part
+:::
+
 Här borde jag spärra med en dikt igen, eller lufta det konstanta producerandet med en flisa omvärld. Men omvärlden väller in lite senare, just nu rullar tillvaron på.
 ::: indent
 Jag skulle kunna skriva om nätet, om sociala medier, om den gurglande kvicksand av ondska som börjar anas. Om hur allting är på väg att förändras på ett sätt som vi knappast anar, just nu, just här. Hur tecknen påstupiditet börjar nagga anständigheten i kanten, hur ord börjar byta innebörd, hur mörkermän börjar solka ner dialogerna och smyga in som drypande skuggor i det offentliga rummet.
@@ -1405,6 +1515,9 @@ Jag skulle kunna skriva om nätet, om sociala medier, om den gurglande kvicksand
 
 ::: indent
 Allt finns här att tolka, redan nu, men jag lagrar det till värre tider.
+:::
+
+::: part
 :::
 
 Cilla och jag blir sugna på att skriva nåt vi aldrig har skrivit: Epok. Historia. 1700-tal. Valet faller på Axel von Fersen, greven och lebemannen. Hans liv innehåller allt. Politik, kärlek, krig, resor och ond bråd död (han stampas ihjäl av en mobb på Slottsbacken 1810 inför tigande soldater).
@@ -1470,6 +1583,9 @@ Och där ligger han och surar för att ingen vill visualisera hans exceptionella
 Jag förstår honom.
 :::
 
+::: part
+:::
+
 Mankell dyker upp igen: Cilla och jag blir tillfrågade om vi vill skriva ett avsnitt till en ny tv-serie om polisen Kurt Wallander. Mankell ska skriva ett ”utkast”till varje avsnitt som olika författare får arbeta vidare med. Vi tackar ja (i backspegeln vet jag inte varför vi gör det, pengar? Kanske ... eller för att jag har en varm och bra relation till en av producenterna, Lars Björkman?). Vi skriver ett avsnitt som handlar om människohandel, om en container som hittas, öppnas och är fylld med döda flyktingar. Vi döper avsnittet till”*Containern*”(senareändras det till”*Täckmanteln*”).
 ::: indent
 Inte så mycket av Mankells ”utkast”finns kvar i berättelsen.
@@ -1488,6 +1604,9 @@ Nota bene: Jagälskar verkligen att skriva dialog. Att landa repliker så tätt 
 
 ::: indent
 Resten av det häråret skriver Cilla och jag ytterligare fyra Beck-filmer.
+:::
+
+::: part
 :::
 
 Såkommer den andra katastrofen där Cilla och jag befinner oss utomlands.
@@ -1588,6 +1707,9 @@ Så småningom, hemkomna, hinner vi ikapp och tar del av allt det alla andra tar
 <!-- PAGE 247 START -->
 Fotnot: En nära vän till Kjelle Bergqvist förlorar tvåtonårsbarn i tsunamin. Sussie. För att hantera sorgen, och minnet, startar hon så småningom ett barnhem och en skola på Pukhet för thailändska barn som har blivit föräldralösa i katastrofen. Kjelle stöttar hemmet ekonomiskt (så även vi). Idag är verksamheten väletablerad, heter ”Happy Child Foundation” och slussar löpande ut unga thailändska barn i vuxenlivet.
 
+::: part
+:::
+
 Mörk tid börjar det häråret. JimmieÅkesson blir partiledare för Sverigedemokraterna. En händelse som är tämligen perifer, politiskt sett, men som ska orsaka konvulsioner i det svenska samhälletåren framöver. Mycket tack vareÅkessons egen persona. Själv har jag ingen direkt koll på honom vid den här tidpunkten. Skåning, med täta tänder och försumbart skägg.
 ::: indent
 Och ett förflutet som borde ha höjt garden en aning.
@@ -1596,6 +1718,9 @@ Och ett förflutet som borde ha höjt garden en aning.
 Men det finnsäven ljus i mörkret! Lille Ivan föds, Saris och Alexanders andra barn och mitt fjärde barnbarn (han kommer att bli en fiskeentusiast som nästan slår mig själv). Nuärätteläggen uppe iåtta.
 ::: indent
 Och det ska komma ett till.
+:::
+
+::: part
 :::
 
 Årets Nobelpris i litteratur tilldelas den engelske dramatikern Harold Pinter. Ytterst välförtjänt. Förutom en magnifik katalog med pjäser och filmmanus har han en utpräglat skarp och skoningslös inställning till kapitalismen och USA. Jag rekommenderar alla att lyssna på Pinters nobeltal på Youtube, det heter *”Konst, sanning och politik”*. Ett gripande dokument om skapandets villkor och en obarmhärtig vidräkning med USA. Pinter är svårt sjuk när han spelar in talet, i princip döende, och har ingen anledning att väja för sanningen.
@@ -1629,6 +1754,9 @@ Utsökta rätter med väldigt långa mellanrum, mer eller mindre intressanta sam
 
 ::: indent
 Been there, done that, är väl kontentan.
+:::
+
+::: part
 :::
 
 Det häråret gör jag också ett besök i Kapstaden.
@@ -1670,6 +1798,9 @@ Fotnot 2: Bondproducenten Barbara Broccoli sitter i juryn, vilket föranleder en
 Kjelle undviker att svara på det.
 :::
 
+::: part
+:::
+
 Privat: Jag går i kognitiv samtalsterapi ett antalår, många år, huvudsakligen för att försöka få en bättre relation till Sari och Nick (som har sargats av min skilsmässa från Tove) - genom att försöka förståmig själv och hur jag tänker, agerar och uttrycker mig. Samtalen gör mig plågsamt medveten om skillnaden påvad du själv tror att du utrycker och vad du egentligen signalerar. Avståndet mellan ego och empati. En kurs i tillkortakommande.
 ::: indent
 Jag förstår också att allt rör sig framåt.
@@ -1677,6 +1808,9 @@ Jag förstår också att allt rör sig framåt.
 
 ::: indent
 Mycket fruktbart, tack Ann-Marie.
+:::
+
+::: part
 :::
 
 Påarbetsfronten: Cilla och jag skriver tvånya Beckfilmer, 23 och 24.
@@ -1693,5 +1827,8 @@ Men den fungerar.
 Jag blir ocksåombedd att skriva en text till Ingvar Hirdwall, han ska uppträda som Grannen på Guldbaggegalan. Jag är inte såförtjust i det, att exploatera en karaktär utanför det sammanhang den ingår i, det funkar sällan.
 ::: indent
 Men jag gör det, av respekt för Hirdwall (en, om jag inte har nämnt det tidigare, genuint grundad skådespelare, med en otrolig känsla för tajming och utan för skap).
+:::
+
+::: part
 :::
 <!-- PAGE 248 END -->

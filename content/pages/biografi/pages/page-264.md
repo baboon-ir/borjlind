@@ -27,6 +27,8 @@ Så jag backar in i manusfållan igen och skriver manuset till ” *Springfloden
 
 Parentes om Minken: Han är ursprungligen tänkt som en form av side-kick, ungef är som Grannen i Beck, en gestalt som kommer in från fel håll. Det fungerar bra i den första boken, i den andra drar vi ner på honom. Vi tycker inte han fyller den funktion vi har tänkt. Såkommer tv-serien ” *Springfloden* ”, där Minken gestaltas på ett fullständigt kongenialt sätt av skådespelaren Johan Widerberg. Och tränger ut ordentligt genom rutan.
 
+[yt-video][https://www.youtube.com/watch?v=PwnyYBBvCLU]
+
 Vi inser att vi måste vårda Minken lite mer ochökar hans utrymme i den tredje boken - en intressant växelverkan mellan bok och tv-serie.
 ::: indent
 Minne från förproduktionen: Vi diskuterar val av skådespelare till en av huvudrollerna, Tom Stilton, uteliggaren. Blomgren föreslår att han ska kontakta Peter Stormare. Och gör så. Stormare läser manuset, blir taggad och kommer till Stockholm. Han inackorderas på hotell Diplomat på Strandvägen.

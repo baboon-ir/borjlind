@@ -24,6 +24,9 @@ Fotnot om Amis, Carstens änka: En vacker och remarkabel kvinna, gift med Carste
 Kärlek.
 :::
 
+::: part
+:::
+
 För att försöka skölja ur den mesta akuta saknaden efter Carsten skriver jag i raskt takt ett antal sångtexter. Tre till Anna-Lotta Larsson skiva ” *5* ”, tre till Mats Ronanders skiva ” *Himlen gråter för Elmore James* ” och en till Janne Schaffers ” *Överblick* ”. Den sjungs in av Anna Nederdal och heter ” *Ingen minns* ”.
 
 ::: poem
@@ -61,4 +64,3 @@ För att försöka skölja ur den mesta akuta saknaden efter Carsten skriver jag
 **blev vi främlingar,**
 **ingen minns vem det var som försvann.**
 :::
-

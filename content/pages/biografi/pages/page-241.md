@@ -7,6 +7,15 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "2013–2017"
 ---
+::: accordion
+**Han tyckte om att kapa en utvald gran och att resa den och pynta den och sätta en stjärna i toppen.**
+
+**Och han tyckte om att lägga en kopparpeng i julgransfoten, för sakens skull. Han tyckte om det röda och gröna, kulorna och barren och blänket i en silvertråd. Han tyckte om dofterna, av nejlikan i mandarinen och det droppande stearinet.**
+
+**     Och han visste om allt det andra.**
+
+**     Han tyckte om att tända levande ljus i sitt hus och att skapa skuggor av värme. Han tyckte om det utskurna, en gång om året. Han tyckte om att duka ett julbord och att äta det och lämna det. Han tyckte om den stillsamma musiken och han visste om allt det andra.**
+
 **Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev dåsig ro. Han tyckte om när det var över. **
 
 **     Då brukade han lämna huset, i ottan, när alla andra sov, och gå den långa vägen ner till sjön. Där tog han sig ut till den bortre udden, dit ingen brukade gå****. Där ställde han sig vid uddens kant, i gryningens starka motljus och började skrika. Han skrek hårt och länge, ofta tills det värkte i bröstet, och så gick han hem. **
@@ -32,6 +41,10 @@ yearGroup: "2013–2017"
 **     - Det vet jag inte.**
 
 **     Och fortsatte, hand i hand med flickan, ut i allt det andra.”**
+:::
+
+::: part
+:::
 
 Det häråret, 2002, blir det några tunga nerslag påtangentbordet. En kriminalserie som heter ” *Graven* ”, en tv-serie på en Mankellbok som heter ” *Danslärarens återkomst* ” och ett genuint hjärteprojekt igen: historien om greve Axel von Fersen.
 ::: indent
@@ -51,9 +64,7 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno KÖijer i Lita
 :::
 
 **”Molini di Triora**
-
 **Ligurien**
-
 **torsdag 13 juni 2002**
 
 **Käre Bruno,**

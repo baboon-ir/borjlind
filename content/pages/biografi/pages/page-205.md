@@ -32,7 +32,12 @@ Orsak 3är flugfisket: För den som aldrig har flugfiskat är det svårt att fö
 Det är magiskt.
 :::
 
+[yt-video][https://www.youtube.com/watch?v=lNLWyhbUI5Q]
+
 Till flugfisket och Miekakåtervänder jag såofta jag kan. Det, och svampplockning, är lungorna i mitt liv (nuförtiden).
+
+::: part
+:::
 
 Roligt fiskeminne av ett helt annat slag: Jag, min son Nick och hans kusin Gabriel är på Azorerna. Gabriel är en otvungen person, talar flytande spanska och lär snabbt känna en restaurangägare nere i hamnen i Ponta Delgada. En man som har basat över restaurangkedjor lite runt om i världen. En kväll berättar vi för honom att vi ska ut pålite havsfiske nästa dag.
 ::: indent
@@ -46,3 +51,5 @@ Nästa morgonåker vi ut i en hyrd båt, *”Rabao”*, med tre mans besättning
 ::: indent
 Det är ingen sinekur.
 :::
+
+[yt-video][https://www.youtube.com/watch?v=R4sO5UxZ73o]

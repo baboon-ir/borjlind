@@ -9,6 +9,9 @@ yearGroup: "2013–2017"
 ---
 Fortfarande finns hoppet att såfrö, att odla motstånd, tända ett förborgat ursinne, en smygande gräsbrand i den förtorkade tristessen.
 
+::: part
+:::
+
 Klargörande 5: Jag har aldrig medverkat i några föreningssammanhang eller ingått i kollektiva sammanslutningar (jag räknar bort Vargungarna).
 ::: indent
 Förutom ett.
