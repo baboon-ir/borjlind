@@ -7,9 +7,9 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1942–1955"
 ---
-:::part
+::: part
 :::
-Jag föds i oktober 1943 i Västra Skrävlinge. En församling i Malmömed ett roligt namn. Zlatan föds där 38år senare. Jag döps till Rolf Sigvard.
+Jag föds i oktober 1943 i Västra Skrävlinge. En församling i Malmömed ett roligt namn. Zlatan föds där 38 år senare. Jag döps till Rolf Sigvard.
 
 ![Som barn kan jag se mycket oskyldig ut.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/2.png)
 
@@ -19,7 +19,7 @@ Det kröker hans rygg.
 :::
 
 ::: indent
-Minne av morfar: Han kommer hem efter en lång dag påvarvet, skär en bred skiva sidfläsk, äter skivan, lägger sig påsoffan med kvällstidningen över ansiktet och snarkar inom en minut. Jag står gömd bakom dörrkarmen och iakttar hur tidningen svävar upp i luften några centimeter vid varje snarkning, dallrar en stund och sänker sig över ansiktet igen©.
+Minne av morfar: Han kommer hem efter en lång dag påvarvet, skär en bred skiva sidfläsk, äter skivan, lägger sig påsoffan med kvällstidningen över ansiktet och snarkar inom en minut. Jag står gömd bakom dörrkarmen och iakttar hur tidningen svävar upp i luften några centimeter vid varje snarkning, dallrar en stund och sänker sig över ansiktet igen.
 :::
 
 ::: indent
@@ -27,12 +27,12 @@ Det är spännande.
 :::
 
 ::: indent
-Mormor ligger delvis i dunkel. Hon heter Beatha och är dotter till en välbärgad skånsk bonde. Hennes gråa hår är prydligt uppsatt med tunna, bruna nålar, ansiktet är runt och vänligt. Hemmet är alltid välstädat.Över soffan i vardagsrummet hänger en guldinramad variant av ungraren Charles Rokas målning ” *Zigenarflickan* ”, en ung kvinna med yppiga och blottade bröst.
+Mormor ligger delvis i dunkel. Hon heter Beatha och är dotter till en välbärgad skånsk bonde. Hennes gråa hår är prydligt uppsatt med tunna, bruna nålar, ansiktet är runt och vänligt. Hemmet är alltid välstädat. Över soffan i vardagsrummet hänger en guldinramad variant av ungraren Charles Rokas målning ”*Zigenarflickan*”, en ung kvinna med yppiga och blottade bröst.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/323.png)
 
-Ett, kan det tyckas, ekivokt motiv i det förövrigt mycket prudentliga hemmet, eventuellt en relikt från morfars sjömansår.
+Ett, kan det tyckas, ekivokt motiv i det för övrigt mycket prudentliga hemmet, eventuellt en relikt från morfars sjömansår.
 ::: indent
 Minne av mormor: Hon luktar nybakta bullar.
 :::

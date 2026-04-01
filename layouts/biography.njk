@@ -31,13 +31,12 @@ noFooter: true
   </div>
 
   <div class="rb-reader-bar">
-    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
+    <span class="rb-reader-bar-label" data-year-label></span>
     <span class="rb-page-indicator" data-footer-center></span>
-    <button class="rb-reader-bar-btn rb-reader-nav" data-year-toggle aria-label="Öppna innehållsförteckning">Innehåll</button>
+    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
   </div>
 </div>
 
-{% include "bio-toc.njk" %}
 {% include "site-nav.njk" %}
 
-<script>document.body.dataset.biography = '1'; document.body.dataset.totalPages = '{{ TOTAL_PAGES }}';</script>
+<script>document.body.dataset.biography = '1'; document.body.dataset.totalPages = '{{ TOTAL_PAGES }}'; document.body.dataset.navContext = 'biografi';</script>

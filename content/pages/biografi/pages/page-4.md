@@ -44,7 +44,7 @@ Sålångt möjligt ska jag belägga det jag redovisar. Mitt privata arkivär, so
 
 ![Pssst… I’m on fire](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/500.jpg)
 
-Att lägga ut min berättelse digitalt, öppet för den som vill ta del av det, gör också att jag slipper förhålla mig till balansen mellan privat och ” allmängiltigt ”, vad som är intressant för vem (vilket jagändåaldrig kan spekulera i). Det jag väljer att berätta är det jag vill förmedla, är det ointressant är det bara att scrolla eller klicka bort, kostnadsfritt.
+Att lägga ut min berättelse digitalt, öppet för den som vill ta del av det, gör också att jag slipper förhålla mig till balansen mellan privat och ”allmängiltigt”, vad som är intressant för vem (vilket jag ändå aldrig kan spekulera i). Det jag väljer att berätta är det jag vill förmedla, är det ointressant är det bara att scrolla eller klicka bort, kostnadsfritt.
 ::: indent
 Eller enkelt uttryckt: take it or leave it.
 :::
@@ -53,8 +53,11 @@ Eller enkelt uttryckt: take it or leave it.
 
 ::: poem
 **Tre år innan jag föds fäller nazisterna en bomb i Slottsparken i Malmö.**
+
 **Året är 1940 och Sverige hukar.**
+
 **Idag marscherar nazisterna på våra egna gator och vi hukar fortfarande.**
+
 **Bågen mellan då och nu är min berättelse.**
 :::
 

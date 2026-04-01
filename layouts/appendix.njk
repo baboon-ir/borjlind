@@ -4,27 +4,6 @@ mainClass: "rb-main-full"
 noHeader: true
 noFooter: true
 ---
-{% set tocItems = [
-  { id: "60-talet", label: "60-talet" },
-  { id: "70-talet", label: "70-talet" },
-  { id: "80-talet", label: "80-talet" },
-  { id: "90-talet", label: "90-talet" },
-  { id: "00-talet", label: "00-talet" },
-  { id: "10-talet", label: "10-talet" },
-  { id: "20-talet", label: "20-talet" },
-  { id: "bocker", label: "Böcker" },
-  { id: "konst", label: "Konst" },
-  { id: "forestallningar", label: "Föreställningar" },
-  { id: "tv", label: "Tv" },
-  { id: "radio", label: "Radio" },
-  { id: "biofilmer", label: "Biofilmer" },
-  { id: "scen", label: "Scen" },
-  { id: "musik", label: "Musik" },
-  { id: "tidningar", label: "Tidningar/Tidskrifter" },
-  { id: "ovrigt", label: "Övrigt" },
-  { id: "utmarkelser", label: "Utmärkelser" }
-] %}
-
 <div class="rb-section-reader-wrap">
   <div class="rb-section-container">
     <div class="rb-page-title-wrap">
@@ -39,13 +18,12 @@ noFooter: true
   </div>
 
   <div class="rb-reader-bar">
-    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
+    <span></span>
     <span class="rb-reader-title">Appendix</span>
-    <button class="rb-reader-bar-btn rb-reader-nav" data-section-toc-open aria-label="Öppna innehållsförteckning">Innehåll</button>
+    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
   </div>
 </div>
 
-{% include "section-toc.njk" %}
 {% include "site-nav.njk" %}
 
-<script>document.body.dataset.sectionReader = '1';</script>
+<script>document.body.dataset.sectionReader = '1'; document.body.dataset.navContext = 'appendix';</script>

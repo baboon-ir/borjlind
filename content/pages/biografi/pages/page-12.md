@@ -7,7 +7,7 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1942–1955"
 ---
-Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt)är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ” färgstarka ” karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosf är (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
+Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt)är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ”färgstarka” karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosf är (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
 ::: indent
 Det är en stundtals stökig omgivning jag bor i, Björnsan är ett tillhåll för det mesta.
 :::
@@ -17,7 +17,7 @@ Det är en stundtals stökig omgivning jag bor i, Björnsan är ett tillhåll f�
 :::
 
 ::: indent
-Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som ” *Goda viner under femman!* ”), kompisar som ligger under byggfuttar med snuttefiltar indränkta i ammoniak, utslagna som sitter på bänkarna och filtrerar t-sprit genom brödlimpor, fnask och torskar som försvinner in och ut ur buskagen,  allt några meter utanför min port.
+Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som ”*Goda viner under femman!*”), kompisar som ligger under byggfuttar med snuttefiltar indränkta i ammoniak, utslagna som sitter på bänkarna och filtrerar t-sprit genom brödlimpor, fnask och torskar som försvinner in och ut ur buskagen,  allt några meter utanför min port.
 :::
 
 ::: indent
@@ -33,7 +33,7 @@ Steve Jobs har utvecklat tekniken en aning.
 :::
 
 ::: indent
-PåSöder drabbas jag ocksåav musik för första gången. Det är en omvälvande upplevelse, nånting utanför som når in utan mellanhänder. Min första skiva är en singel med Elvis Presley: ” *Blue suede shoes* ”. Det är en cover på en Carl Perkinslåt och kommer ut 1956. Jag köper den när jag fyller femton, sparar till en skinnjacka och påbörjar konflikten med alla som är dixie, klär sig i duffel och drömmer om Tommy Steele.
+PåSöder drabbas jag ocksåav musik för första gången. Det är en omvälvande upplevelse, nånting utanför som når in utan mellanhänder. Min första skiva är en singel med Elvis Presley: ”*Blue suede shoes*”. Det är en cover på en Carl Perkinslåt och kommer ut 1956. Jag köper den när jag fyller femton, sparar till en skinnjacka och påbörjar konflikten med alla som är dixie, klär sig i duffel och drömmer om Tommy Steele.
 :::
 
 ::: indent
@@ -56,7 +56,7 @@ En stor blåteddybjörn.
 Jag får ihop till en björn efter flera timmar och ger den till min lillasyster Christina påjulafton.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/7.png)
+![Osvedd nallebjörn.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/7.png)
 
 På kvällen kommer björnen för nära dom levande ljusen i granen och blir totalt söndersvedd. En svartsolkig garnkropp är allt som blir kvar.
 ::: indent

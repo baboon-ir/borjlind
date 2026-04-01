@@ -246,7 +246,7 @@ Scenen har fastnat hos mig.
 <!-- PAGE 11 END -->
 
 <!-- PAGE 12 START -->
-Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt)är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ”färgstarka”karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosf är (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
+Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt)är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ”färgstarka” karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosf är (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
 ::: indent
 Det är en stundtals stökig omgivning jag bor i, Björnsan är ett tillhåll för det mesta.
 :::
@@ -256,7 +256,7 @@ Det är en stundtals stökig omgivning jag bor i, Björnsan är ett tillhåll f�
 :::
 
 ::: indent
-Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som”*Goda viner under femman!*”), kompisar som ligger under byggfuttar med snuttefiltar indränkta i ammoniak, utslagna som sitter på bänkarna och filtrerar t-sprit genom brödlimpor, fnask och torskar som försvinner in och ut ur buskagen,  allt några meter utanför min port.
+Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som ”*Goda viner under femman!*”), kompisar som ligger under byggfuttar med snuttefiltar indränkta i ammoniak, utslagna som sitter på bänkarna och filtrerar t-sprit genom brödlimpor, fnask och torskar som försvinner in och ut ur buskagen,  allt några meter utanför min port.
 :::
 
 ::: indent
@@ -311,7 +311,7 @@ Hans högerfot var rena bomben.
 <!-- PAGE 13 START -->
 På tal om alkoholism: Alla som har växt upp med en alkoholiserad förälder vet vad det handlar om - man blir ett tassande barn. Ett barn som lär sig lyssna på tonfall, avläsa rörelser, registrera: en hand som missar en gaffel, en tunga som missar ett uttal, ett parögon som inte kan fokusera. Man lär sig när ens pappa inte är ens pappa, när han är den andre. Man lär sig att tiga, utan att förstå.
 
-Det är några blandadeår på Söder. Mina föräldrar separerar, jag och Christina flyttar in med Svea i en liten trång lägenhet på Högbergsgatan, en period bor vi påvinden hos rika släktingar i Djursholm, jag försöker fågrepp om tillvaron, förtränga, föräldrarna förenas igen och jag försöker navigera.
+Det är några blandadeår på Söder. Mina föräldrar separerar, jag och Christina flyttar in med Svea i en liten trång lägenhet på Högbergsgatan, en period bor vi på vinden hos rika släktingar i Djursholm, jag försöker få grepp om tillvaron, förtränga, föräldrarna förenas igen och jag försöker navigera.
 ::: indent
 Vad handlar det här om?
 :::
@@ -324,13 +324,13 @@ Jag har en otrolig hunger som jag inte vet var den kommer ifrån, suger i mig al
 Bara för att vi kan.
 :::
 
-Eftertanke: den här perioden på Söder är nog den enda i livet där jag på allvar reflekterar över mig själv, försöker förståvem jag är, min plats, min roll, avsikten med mitt liv, mitt uppsåt. Runt 18-årsåldern är jag klar. Efter det går jag bara på, driver framåt, jagar mitt språk, mina uttryck: mina fotspår utplånas framför mig.
+Eftertanke: den här perioden på Söder är nog den enda i livet där jag på allvar reflekterar över mig själv, försöker förstå vem jag är, min plats, min roll, avsikten med mitt liv, mitt uppsåt. Runt 18-årsåldern är jag klar. Efter det går jag bara på, driver framåt, jagar mitt språk, mina uttryck: mina fotspår utplånas framför mig.
 
 ::: part
 :::
-Som ett led i Sveas sociala projekt skrivs jag in på Palmgrenska Samskolan på Östermalm. En privat realskola. Jag vantrivs från början och lyckas med konststycket att gåom samma klass tvågånger och fortfarande vara underkänd. När jag sparkar sönder en väggkontakt och mörklägger hela skolan blir jag relegerad.
+Som ett led i Sveas sociala projekt skrivs jag in på Palmgrenska Samskolan på Östermalm. En privat realskola. Jag vantrivs från början och lyckas med konststycket att gå om samma klass två gånger och fortfarande vara underkänd. När jag sparkar sönder en väggkontakt och mörklägger hela skolan blir jag relegerad.
 ::: indent
-Minne efter relegeringen: Jag får arbete som springpojke på LM Eriksson. Kontoret ligger på Kungsgatan. Där blir jag häftigt förälskad i en svart och blind flicka som har epilepsi. Första gången hon får ett anfall påkontorsgolvet får jag lära mig att tränga in en trälinjal mellan hennes käkar för att hindra att hon tuggar sönder tungan.
+Minne efter relegeringen: Jag får arbete som springpojke på LM Eriksson. Kontoret ligger på Kungsgatan. Där blir jag häftigt förälskad i en svart och blind flicka som har epilepsi. Första gången hon får ett anfall på kontorsgolvet får jag lära mig att tränga in en trälinjal mellan hennes käkar för att hindra att hon tuggar sönder tungan.
 :::
 
 ::: indent
@@ -338,7 +338,7 @@ Jag minns inte vad hon hette.
 :::
 
 ::: indent
-Obehagligt minne från anställningen på LM: Alla på kontoret satsar en gemensam pott på en tipsrad varje vecka. Jag får i uppdrag att lämna in och betala för kupongen. Jag glömmer det och kommer på det när inlämningstiden har gått ut. Risken att den tippaderaden ska ge utdelning plågar migända fram tills sista matchen är spelad.
+Obehagligt minne från anställningen på LM: Alla på kontoret satsar en gemensam pott på en tipsrad varje vecka. Jag får i uppdrag att lämna in och betala för kupongen. Jag glömmer det och kommer på det när inlämningstiden har gått ut. Risken att den tippade raden ska ge utdelning plågar mig ända fram tills sista matchen är spelad.
 :::
 
 ::: indent
@@ -349,7 +349,7 @@ Det blir ingen vinst.
 Sen flyttar familjen från Söder.
 :::
 
-Många år senare, när begreppet ”klassresa”når fram till mig, ser jag ett mönster. Hur en drivande kvinna drar med sig en osäker man uppför stegen - parfymexpediten vill ha mer, mannen från sillfabriken följer efter. Min syster och jag har inte så mycket att välja på.
+Många år senare, när begreppet ”klassresa” når fram till mig, ser jag ett mönster. Hur en drivande kvinna drar med sig en osäker man uppför stegen - parfymexpediten vill ha mer, mannen från sillfabriken följer efter. Min syster och jag har inte så mycket att välja på.
 ::: indent
 Då.
 :::
@@ -368,7 +368,7 @@ Jag börjar skriva.
 <!-- PAGE 13 END -->
 
 <!-- PAGE 14 START -->
-Först en diktsamling,”*Som från själ till själ en stråle*”:
+Först en diktsamling, ”*Som från själ till själ en stråle*”:
 
 ::: poem
 **Telefonnummer funna på några av våra vanligaste toaletter:**
@@ -391,7 +391,7 @@ Etyder utan vikt, men jag smakar påorden, jag prövar dom verbala vingarna. Jag
 :::
 
 ::: indent
-Jag sätter ocksåin titeln ”Författare”i telefonkatalogen, vilket provocerar mina föräldrar oerhört. När jag visar dom att jag är omnämnd redan i Strindbergs klassiker”*Hemsöborna*”skakar dom på huvudet.
+Jag sätter också in titeln ”Författare” i telefonkatalogen, vilket provocerar mina föräldrar oerhört. När jag visar dom att jag är omnämnd redan i Strindbergs klassiker ”*Hemsöborna*” skakar dom på huvudet.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/320.png)
@@ -401,7 +401,7 @@ Mitt första dadaistiska infall.
 Jag har över gett tanken på att bli fotbollsproffs.
 :::
 
-Via privatlektioner har jag till slut lyckats komma in på en fyraårig gymnasielinje på Lidingö Södra Läroverk. En”fin”skola. Svea är stolt.
+Via privatlektioner har jag till slut lyckats komma in på en fyraårig gymnasielinje på Lidingö Södra Läroverk. En ”fin” skola. Svea är stolt.
 ::: indent
 Minne från Lidingö 1: Jag är sällsynt ointresserad av min klädsel och kommer ofta till gymnasiet i stora gummistövlar och islandströja. Elevernas reaktioner påminner mig om utsattheten i folkskolan i Kärrtorp: skånskan och dom utståendeöronen har bytts mot fel kläder och fel attityd.
 :::
@@ -433,7 +433,7 @@ En man utgör ett undantag.
 :::
 
 ::: indent
-Han kallas”Greven”, förmodligen har han adlig härkomst. Mager, kanske runt femtio, med ett snällt och frånvarande uttryck i ansiktet. Varje matpaus (vi har tvåvarje natt), sätter han sig vid ett piano i denödsliga matsalen och börjar spela. Klassisk musik, ofta Vivaldi. Han är duktig, kanske har han ett förflutet som konsertpianist. Han sitter vid pianot hela matpausen, äter ingenting själv, försvinner in i musiken. Alla andra sitter böjda över sina tallrikar i halvmörkret, lyssnar påklangerna som studsar mellan väggarna, sneglar då och då på”Greven”. När pausen är slut reser sig alla utom ”Greven”. Han sitter kvar ett par minuter för sig själv, utan att spela, låter blicken glida runt i den stora salen som om han letade efter dom försvunna tonerna.
+Han kallas ”Greven”, förmodligen har han adlig härkomst. Mager, kanske runt femtio, med ett snällt och frånvarande uttryck i ansiktet. Varje matpaus (vi har tvåvarje natt), sätter han sig vid ett piano i denödsliga matsalen och börjar spela. Klassisk musik, ofta Vivaldi. Han är duktig, kanske har han ett förflutet som konsertpianist. Han sitter vid pianot hela matpausen, äter ingenting själv, försvinner in i musiken. Alla andra sitter böjda över sina tallrikar i halvmörkret, lyssnar påklangerna som studsar mellan väggarna, sneglar då och då på ”Greven”. När pausen är slut reser sig alla utom ”Greven”. Han sitter kvar ett par minuter för sig själv, utan att spela, låter blicken glida runt i den stora salen som om han letade efter dom försvunna tonerna.
 :::
 
 ::: indent
@@ -461,7 +461,7 @@ Där det tar stopp. Tills jag säger:
 :::
 
 ::: indent
-”Greven”tittar hela tiden ner på sina smala händer. Jag känner att han är obekväm, eller jag tror det. Så jag säger:
+”Greven” tittar hela tiden ner på sina smala händer. Jag känner att han är obekväm, eller jag tror det. Så jag säger:
 :::
 
 ::: indent
@@ -469,7 +469,7 @@ Där det tar stopp. Tills jag säger:
 :::
 
 ::: indent
-Då, äntligen, tittar han upp på mig. Det är första gången jag ser hans ögon pånära håll. Blå, med lite gulnadeögonvitor, inramade av ett par vackra mörkaögonbryn.
+Då, äntligen, tittar han upp på mig. Det är första gången jag ser hans ögon på nära håll. Blå, med lite gulnadeögonvitor, inramade av ett par vackra mörkaögonbryn.
 :::
 
 ::: indent
@@ -481,7 +481,7 @@ Då, äntligen, tittar han upp på mig. Det är första gången jag ser hans ög
 :::
 
 ::: indent
-Plötsligt flyttar sig”Greven”ett par decimeter på pianobänken, lämnar plats, som om han vill att jag ska sätta mig intill. Jag vrider mig runt, ser att salen är tom, det är bara han och jag där. Jag sätter mig.”Greven”lägger händerna på klaviaturen, mycket försiktigt, utan att trycka ner några tangenter.
+Plötsligt flyttar sig ”Greven” ett par decimeter på pianobänken, lämnar plats, som om han vill att jag ska sätta mig intill. Jag vrider mig runt, ser att salen är tom, det är bara han och jag där. Jag sätter mig. ”Greven” lägger händerna på klaviaturen, mycket försiktigt, utan att trycka ner några tangenter.
 :::
 
 ::: indent
@@ -497,7 +497,7 @@ Tyst, men fullt hörbart. Jag avvaktar ... tills jag säger:
 :::
 
 ::: indent
-– Nej. Det var en bok hon hade köpt i Leipzig när hon var olycklig.”The Monk”hette den, jag varåttaår då.
+– Nej. Det var en bok hon hade köpt i Leipzig när hon var olycklig. ”The Monk” hette den, jag var åtta år då.
 :::
 
 ::: indent
@@ -523,7 +523,7 @@ Han andas rytmiskt genom näsan, jag får en känsla av att han bemödar sig att
 :::
 
 ::: indent
-Såtrycker han ner några tangenter, och några till, långsamt klingar en melodi ut ur pianot. Jag tittar över salen, bort mot dörren på andra sidan. Jag vet att förmannen kommer att dyka upp när som helst, våra platser saknas vid godisbandet.
+Så trycker han ner några tangenter, och några till, långsamt klingar en melodi ut ur pianot. Jag tittar över salen, bort mot dörren på andra sidan. Jag vet att förmannen kommer att dyka upp när som helst, våra platser saknas vid godisbandet.
 :::
 
 ::: indent
@@ -532,7 +532,7 @@ The Monk?
 
 ::: part
 :::
-Jag kliver ut i offentligheten den nittonde april 1964. En söndag. Dåpublicerar DN fyra prosastycken av mig med vidhängande personporträtt. Jag beskrivs i en faktaruta som”*kanske en skrivande filmmakare i framtiden?*”.
+Jag kliver ut i offentligheten den nittonde april 1964. En söndag. Då publicerar DN fyra prosastycken av mig med vidhängande personporträtt. Jag beskrivs i en faktaruta som ”*kanske en skrivande filmmakare i framtiden?*”.
 ::: indent
 En märklig profetia, med facit i hand.
 :::
@@ -541,7 +541,7 @@ En märklig profetia, med facit i hand.
 
 DN har anordnat en skrivtävling för gymnasieelever över hela Sverige under namnet ”*Ung Profil*”. Tidningen har ställt sex frågor som ska besvaras efter eget gottfinnande. De tio bästa resultaten belönas med en resa till San Remo. Fyra av mina svar publiceras på förstasidan och vittnar om en obefintlig rädsla för begreppet pretentiös. Jag blir en av tio ”vinnare”.
 ::: indent
-Mina föräldrar fåråka till Italien.
+Mina föräldrar får åka till Italien.
 :::
 
 ::: indent
@@ -549,7 +549,7 @@ Jag befinner mig på en helt annan resa.
 :::
 
 ::: indent
-Jag bär brun basker, röker sjöskumspipa, läser ”*Såsom käril ur skeppen*”av St John Perse och lyssnar på Miles Davis.”*Kind of Blue*”. Ovanför min huvudgärd har jag skrivit: ”*Glöm aldrig dom dresserade fläckarna i Eichmanns ögon, glöm aldrig barken under Görings hud.*”
+Jag bär brun basker, röker sjöskumspipa, läser ”*Såsom käril ur skeppen*” av St John Perse och lyssnar på Miles Davis. ”*Kind of Blue*”. Ovanför min huvudgärd har jag skrivit: ”*Glöm aldrig dom dresserade fläckarna i Eichmanns ögon, glöm aldrig barken under Görings hud.*”
 :::
 
 ::: indent
@@ -576,13 +576,13 @@ Det är en svår tid.
 <!-- PAGE 16 END -->
 
 <!-- PAGE 17 START -->
-Minne från den svåra tiden: Jag ligger i mitt pojkrum med stängd dörr och lyssnar på”*Scheherazade*”. Det knackar pådörren.
+Minne från den svåra tiden: Jag ligger i mitt pojkrum med stängd dörr och lyssnar på ”*Scheherazade*”. Det knackar på dörren.
 ::: indent
 – Ja?
 :::
 
 ::: indent
-Sveaöppnar den, försiktigt.
+Svea öppnar den, försiktigt.
 :::
 
 ::: indent
@@ -607,28 +607,28 @@ Ut!
 :::
 
 ::: indent
-Jag liftar genom Europa, sover påstränder, i parker, allt är osett och befriande. Varje främling är en upptäckt, varje ståtoalett en omöjlighet att skita på.
+Jag liftar genom Europa, sover på stränder, i parker, allt är osett och befriande. Varje främling är en upptäckt, varje ståtoalett en omöjlighet att skita på.
 :::
 
 ::: indent
-Men framför allt: Den vita hjärnan fylls med massiva intryck av nya språk, nya dofter, nya landskap, nya över levnadsstrategier. Ett kort tag jobbar jag i ett tvätteri påfranska västkusten, Bayonne, bär säckar med kläder hit och dit och lär mig en del om ostar och rödvin och extremt snarstuckna ortsbor. Vad jag lär dom vet jag inte riktigt, kanske att allt är möjligt?
+Men framför allt: Den vita hjärnan fylls med massiva intryck av nya språk, nya dofter, nya landskap, nya överlevnadsstrategier. Ett kort tag jobbar jag i ett tvätteri på franska västkusten, Bayonne, bär säckar med kläder hit och dit och lär mig en del om ostar och rödvin och extremt snarstuckna ortsbor. Vad jag lär dom vet jag inte riktigt, kanske att allt är möjligt?
 :::
 
 ::: indent
-Minne från Saint-Jean de Luz: En lummig park, ett mjukt regn. Jag försöker somna i en sovsäck på en bänk. Det regnar, vätan tränger igenom tyget och håller mig vaken, lukten är påfrestande. En bit bort, vid gatan intill parken, ser jag råttor stora som hundar som gräver i svarta plast påsar. Ljuset från en gatlykta reflekteras i säckarna. En mörkklädd man ramlar omkull en bit från råttorna och slår skallen i rännstenskanten. Jag vrider mig om och blundar. Jag är nästan på väg att somna när jag känner ett lätt tryck påbenet. Jag kastar mig runt och spärrar uppögonen. Det sitter en gammal kvinna påhuk intill bänken med en hand runt min vad. Hon har ett djur intill sig, i ett rep. Jag ser inte vad det är för djur. Hennes grepp runt mitt ben hårdnar. Plötsligt ler hon och jag ser hur vackra tänder hon har. Vita och breda. Sen släpper hon vaden, reser sig och går därifrån (scenen har jag återgett nästan ordagrant i min och min yngsta dotter Mollys ljudboksthriller ”*Mörkret oss emellan*”).
+Minne från Saint-Jean de Luz: En lummig park, ett mjukt regn. Jag försöker somna i en sovsäck på en bänk. Det regnar, vätan tränger igenom tyget och håller mig vaken, lukten är påfrestande. En bit bort, vid gatan intill parken, ser jag råttor stora som hundar som gräver i svarta plast påsar. Ljuset från en gatlykta reflekteras i säckarna. En mörkklädd man ramlar omkull en bit från råttorna och slår skallen i rännstenskanten. Jag vrider mig om och blundar. Jag är nästan på väg att somna när jag känner ett lätt tryck på benet. Jag kastar mig runt och spärrar upp ögonen. Det sitter en gammal kvinna på huk intill bänken med en hand runt min vad. Hon har ett djur intill sig, i ett rep. Jag ser inte vad det är för djur. Hennes grepp runt mitt ben hårdnar. Plötsligt ler hon och jag ser hur vackra tänder hon har. Vita och breda. Sen släpper hon vaden, reser sig och går därifrån (scenen har jag återgett nästan ordagrant i min och min yngsta dotter Mollys ljudboksthriller ”*Mörkret oss emellan*”).
 :::
 <!-- PAGE 17 END -->
 
 <!-- PAGE 18 START -->
 ::: indent
-Minne från Barcelona: Jag sitter på en uteservering på det vackra innertorget Placa Reial, det är sen kväll, ett antal hemlösa rör sig i mörkret, en del hänger runt fontänen, andra sitter eller ligger vid pelare. Plötsligt kör ett par bandvagnar med vattenkanoner in på torget, slår påkanonerna och börjar spruta bort dom hemlösa, jagar dom med den brutala vattenstrålen över stenbeläggningen. Dom tumlar runt, ramlar, kryper, försöker skydda sig. Efter en stund är torget helt renspolat påhemlösa.
+Minne från Barcelona: Jag sitter på en uteservering på det vackra innertorget Placa Reial, det är sen kväll, ett antal hemlösa rör sig i mörkret, en del hänger runt fontänen, andra sitter eller ligger vid pelare. Plötsligt kör ett par bandvagnar med vattenkanoner in på torget, slår på kanonerna och börjar spruta bort dom hemlösa, jagar dom med den brutala vattenstrålen över stenbeläggningen. Dom tumlar runt, ramlar, kryper, försöker skydda sig. Efter en stund är torget helt renspolat på hemlösa.
 :::
 
 ::: indent
-Från vissa uteserv er ingar hörs applåder.
+Från vissa uteserveringar hörs applåder.
 :::
 
-Jag köper mina första läderboots i en specialbutik under tjurfäktningsarenan i  Salamanca och allt är en fest. Bland mina spanska vänner kallas jag ”treinta y ocho”- jag går alltid klädd i en gul amerikansk rugbytröja med 38 på. Denär av ett mycket slitstarkt material.
+Jag köper mina första läderboots i en specialbutik under tjurfäktningsarenan i  Salamanca och allt är en fest. Bland mina spanska vänner kallas jag ”treinta y ocho” - jag går alltid klädd i en gul amerikansk rugbytröja med 38 på. Den är av ett mycket slitstarkt material.
 ::: indent
 Minne från Malaga: Jag är svårt uppslukad av tjurfäktning och betraktar mig, lite över maga, som en aficionado. Under ett parår besöker jag ett stort antal arenor runt om i landet. En eftermiddag, på en tjurfäktningsarena i Malaga, händer nåt märkligt.
 :::
@@ -664,7 +664,7 @@ Jag vet inte.
 
 <!-- PAGE 19 START -->
 ::: indent
-Iställetägnar jag en periodåt att försöka importera sandblästrade läderboots till Sverige.”*Spanish boots of spanish leather*”. Jag besöker några stövelfabriker i inlandet, ett mycket hett inland, Toledo, Navalmoral, tills jag inser att det är en volymfråga. Jag vill börja med 10 par. Det är ingen som är intresserad av det. Projektet läggs ner.
+Istället ägnar jag en period åt att försöka importera sandblästrade läderboots till Sverige. ”*Spanish boots of spanish leather*”. Jag besöker några stövelfabriker i inlandet, ett mycket hett inland, Toledo, Navalmoral, tills jag inser att det är en volymfråga. Jag vill börja med 10 par. Det är ingen som är intresserad av det. Projektet läggs ner.
 :::
 
 ::: indent
@@ -719,7 +719,7 @@ Frågorna är hypotetiskt ställda, pågränsen till infantila, och jag försök
 :::
 
 ::: indent
-Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fläckarna i Eichmannsögon för henne). Jag får diagnosen ”astenisk”(osjälvständig personlighetsstörning)*,* friskrivs med”omtestning”om tolv månader och hör aldrig av det militära mer.
+Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fläckarna i Eichmannsögon för henne). Jag får diagnosen ”astenisk” (osjälvständig personlighetsstörning), friskrivs med ”omtestning” om tolv månader och hör aldrig av det militära mer.
 :::
 
 ::: indent
@@ -732,7 +732,7 @@ Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fl
 
 Jag gör ett kort gästspel som vikarierande lärare i Bodals skola på Lidingö. Långt hår, utsvängda fiskbensmönstrade byxor och boots, tämligen olik dom andra i kollegierummet. Min undervisningsteknik går ut påfrihet under ansvar.
 ::: indent
-En värdelös teknik, visar det sig. Rektorn förklarar att det krävs ordning, reda och disciplin. Det är inte mina bästa grenar. Jag slutar och söker till Journalisthögskolan i Stockholm (än så länge med namnet Journalistinstitutet). Det är det närmaste ett skrivande yrke jag kan komma. Jag är inte flygfärdigännu. Utbildningen tråkar ut mig, men jag får möjlighet att uttrycka saker som berör mig. Poesins framtid, till exempel. I skolans egen tidning Anfangen skriver jag en debattartikel om just detta:”*Poesins framtid - en skiss i två plan*”. Den avslutas så här:
+En värdelös teknik, visar det sig. Rektorn förklarar att det krävs ordning, reda och disciplin. Det är inte mina bästa grenar. Jag slutar och söker till Journalisthögskolan i Stockholm (än så länge med namnet Journalistinstitutet). Det är det närmaste ett skrivande yrke jag kan komma. Jag är inte flygfärdig ännu. Utbildningen tråkar ut mig, men jag får möjlighet att uttrycka saker som berör mig. Poesins framtid, till exempel. I skolans egen tidning Anfangen skriver jag en debattartikel om just detta: ”*Poesins framtid - en skiss i två plan*”. Den avslutas så här:
 :::
 
 **”Jag tror att varje konstnär inom sitt område måste få fram en essens, något nytt, som kanske inte i och för sig är intressant eller betydelsefullt, men som i kombination med andra konstarter kan bilda en arbetsplatta. I essensernas möte uppstår den första, verkliga opersonligheten, bildas den grund på vilket ett intimt samarbete ”över gränserna” så småningom kan leda till en ny konstform. Det är till dessa möten jag tror poeterna måste bege sig, på denna basplatta de tillsammans med andra konstnärer kan nå en maximal betydelse med sina ord. På väg mot en situation där två konstnärer tillsammans bildar en skapande tredje, skulpterar en fristående och opersonlig konstform.”**
@@ -743,7 +743,7 @@ Det vi kommer att kalla multimedia.
 :::
 
 ::: indent
-Artikeln illustreras av en bild-ljud-dikt ur poetenÅke Hodells diktsamling ”*General Bussig*”.
+Artikeln illustreras av en bild-ljud-dikt ur poeten Åke Hodells diktsamling ”*General Bussig*”.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/148.png)
@@ -762,13 +762,13 @@ Dylan ger upp.
 :::
 
 ::: indent
-Efteråt söker jag upp honom, han står och röker i ett atrium, jag förklarar mitt modesta uppdrag som ”utsänd”från en högskoletidning och beklagar det han just har utsatts för. Dylan rycker på axlarna, säger några ord, röker och är förmodligen redan på väg därifrån.
+Efteråt söker jag upp honom, han står och röker i ett atrium, jag förklarar mitt modesta uppdrag som ”utsänd” från en högskoletidning och beklagar det han just har utsatts för. Dylan rycker på axlarna, säger några ord, röker och är förmodligen redan på väg därifrån.
 :::
 <!-- PAGE 20 END -->
 
 <!-- PAGE 21 START -->
 ::: indent
-Jag nämner detta lätt devota möte av en enda orsak: Dylan kommer att spela en stor roll för mig. Jag kommer att gåtätt intill honom genom hela livet. Dylanman? Jag vet inte vad refererar till. Beckettman?
+Jag nämner detta lätt devota möte av en enda orsak: Dylan kommer att spela en stor roll för mig. Jag kommer att gå tätt intill honom genom hela livet. Dylanman? Jag vet inte vad refererar till. Beckettman?
 :::
 
 ::: indent
@@ -780,7 +780,7 @@ Begåvade följeslagare är en ynnest.
 :::
 
 ::: indent
-Första minnet av Dylan: Jag sitter i min kompis Ted Ströms pojkrum på Lidingö. Året är 1963. Jag spelar gitarr och han banjo. Vi har en musikgrupp som sjunger covers på Brothers Four och Kingston Trio,  låtar som”*Tom Doley*”. Brasmusik. Ted rattar in Radio Luxemburg, ”*The Great 208*”, och plötsligt händer det. Betydligt kraftigareän i en Gevaliareklam. En röst sprakar ut i rummet och trollbinder oss. Det är inte orden, inte ens musiken, det är rösten. Dylans.
+Första minnet av Dylan: Jag sitter i min kompis Ted Ströms pojkrum på Lidingö. Året är 1963. Jag spelar gitarr och han banjo. Vi har en musikgrupp som sjunger covers på Brothers Four och Kingston Trio,  låtar som ”*Tom Doley*”. Brasmusik. Ted rattar in Radio Luxemburg, ”*The Great 208*”, och plötsligt händer det. Betydligt kraftigareän i en Gevaliareklam. En röst sprakar ut i rummet och trollbinder oss. Det är inte orden, inte ens musiken, det är rösten. Dylans.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/324.jpeg)
@@ -794,7 +794,7 @@ https://youtu.be/JTnBQri-WUI
 
 ::: part
 :::
-I april 1965 får jag mitt första barn, en son. Joakim. Med Eva. Vid det här laget har vi hunnit smälta det tämligen omtumlande faktumet att vi ska bli föräldrar, jag 21 och hon 19. För mig känns det på ett egendomligt sätt helt naturligt. Älskar man varann så får man barn, förr eller senare. Nu blev det förr. Joakim är ett underbart litet troll, jag är mycket barnk är och Evaär en klok och varm mamma.
+I april 1965 får jag mitt första barn, en son. Joakim. Med Eva. Vid det här laget har vi hunnit smälta det tämligen omtumlande faktumet att vi ska bli föräldrar, jag 21 och hon 19. För mig känns det på ett egendomligt sätt helt naturligt. Älskar man varann så får man barn, förr eller senare. Nu blev det förr. Joakim är ett underbart litet troll, jag är mycket barnkär och Eva är en klok och varm mamma.
 ::: indent
 Vi gifter oss.
 :::
@@ -810,14 +810,14 @@ Men det finns ett problem: Jag är inte bara ung. Jag är ocksåutomordentligt a
 
 Och så drar det igång, ett nytt och livsavgörande kapitel i mitt liv: resan mot min samlade kvarlåtenskap.
 ::: indent
-Eller inte just nu. Det börjar egentligen treår tidigare i ett skånskt kapell. Jag och min kusin Carsten Regild möts vid vår mormors kista. Beathas kropp. Våra mödrar är systrar och vi är kusiner. Vi har inte haft kontakt sen vi var små, gick i regnkläder och var stjärngossar. Nuär jag ”författare”och Carsten konstnär. Han är två år äldre och längre kommen i sin roll.
+Eller inte just nu. Det börjar egentligen tre år tidigare i ett skånskt kapell. Jag och min kusin Carsten Regild möts vid vår mormors kista. Beathas kropp. Våra mödrar är systrar och vi är kusiner. Vi har inte haft kontakt sen vi var små, gick i regnkläder och var stjärngossar. Nu är jag ”författare” och Carsten konstnär. Han är två år äldre och längre kommen i sin roll.
 :::
 <!-- PAGE 21 END -->
 
 <!-- PAGE 22 START -->
 ![Självporträtt CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/147.png)
 
-Pånattåget tillbaka till Stockholm dricker vi oss fram till ett gemensamt kulturprojekt: Happy Cousins - en författare och en konstnär. Motto: Vi ska inte förändra världen, vi ska förädla den. Projektet ska komma att pågåutan avbrott i nästan trettioår, tills Carsten dör i cancer 1992 - Carsten i rollen som”Jokern”, jag i rollen som ”Tjuven”.
+På nattåget tillbaka till Stockholm dricker vi oss fram till ett gemensamt kulturprojekt: Happy Cousins - en författare och en konstnär. Motto: Vi ska inte förändra världen, vi ska förädla den. Projektet ska komma att pågå utan avbrott i nästan trettio år, tills Carsten dör i cancer 1992 - Carsten i rollen som ”Jokern”, jag i rollen som ”Tjuven”.
 
 ![Vi tar fram en stämpel med vårt varumärke.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/11.png)
 
@@ -834,7 +834,7 @@ Carsten målar senare en tavla han döper till ”*Still Life*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/12.png)
 
-Vi är båda berusade av inspiration. Den som flödar mellan oss och den som framtiden erbjuder. Jag hoppar av Journalisthögskolan och Carsten slutar som art director på Gutenberg h us i Köpenhamn - en fast anställning som kostar på att avbryta (Carsten är ocksågift, med Amis, och har en liten dotter, Johanna). Men vi är totalt fokuserade på att försöka skapa nåt banbrytande. Nåt osett. ”*The sky is the limit*.”Det osedda blir en bildpoesibok i ett unikt format: 32 sidor som är 1 meter gånger 70 centimeter och heter”*The Mister Ray Balon Sinclaire*”.
+Vi är båda berusade av inspiration. Den som flödar mellan oss och den som framtiden erbjuder. Jag hoppar av Journalisthögskolan och Carsten slutar som art director på Gutenberg hus i Köpenhamn - en fast anställning som kostar på att avbryta (Carsten är också gift, med Amis, och har en liten dotter, Johanna). Men vi är totalt fokuserade på att försöka skapa nåt banbrytande. Nåt osett. ”*The sky is the limit*.” Det osedda blir en bildpoesibok i ett unikt format: 32 sidor som är 1 meter gånger 70 centimeter och heter ”*The Mister Ray Balon Sinclaire*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/13.png)
 
@@ -861,12 +861,12 @@ Vi lämnar boken till Bonniers förlag som tackar nej. Motivet är bokens format
 
 Vi ger inte upp utan förvandlar boken till ett ljud/musikverk som vi erbjuder grammofonbolaget Metronome. Även dom tackar nej.
 ::: indent
-Dåbestämmer vi oss för att göra en konstutställning av materialet. Vi kompletterar boken med ett antal objekt och har vår första konstutställning på Galleri Maxim 1966 (en lokal i nuvarande Maximtunneln vid Norrmalmstorg).
+Då bestämmer vi oss för att göra en konstutställning av materialet. Vi kompletterar boken med ett antal objekt och har vår första konstutställning på Galleri Maxim 1966 (en lokal i nuvarande Maximtunneln vid Norrmalmstorg).
 :::
 
 ![Vernissagekortet](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/18.png)
 
-De 32 boksidorna exponeras på väggarna och kompletteras med objekt, målningar och texter som kommenterar boken. Bland annat en stor roterande röd mun med numrerade tänder, tvåparafraser påkonstnären Jasper Jones berömda gråamerikanska flagga med ordet LINDERGARDEN överklistrat, en gulsvart trädgårdsslang som ringlar utöver golvet och en tavla med transparant duk.
+De 32 boksidorna exponeras på väggarna och kompletteras med objekt, målningar och texter som kommenterar boken. Bland annat en stor roterande röd mun med numrerade tänder, två parafraser på konstnären Jasper Jones berömda grå amerikanska flagga med ordet LINDERGARDEN överklistrat, en gulsvart trädgårdsslang som ringlar ut över golvet och en tavla med transparant duk.
 ::: indent
 Det är en mycket annorlunda konstutställning.
 :::
@@ -879,19 +879,19 @@ Det är en mycket annorlunda konstutställning.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/160.jpg)
 
-Utställningsbesökarna kan köpa transparanta slipsar, 4 olika t-shirts med tryckta bilddikter påsamt falska guldtackor (hela utställningenåterskapas 43 år senare på Galleri Bohman i Stockholm).
+Utställningsbesökarna kan köpa transparanta slipsar, 4 olika t-shirts med tryckta bilddikter på samt falska guldtackor (hela utställningen återskapas 43 år senare på Galleri Bohman i Stockholm).
 
 ![Min favorittröja](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/21.png)
 
 Fotnot: Vid den här tidpunkten är beteckningar som till exempel indian, neger, lapp, eskimå, zigenare eller dvärg fortfarande legio i folkmun. Idag vet vi bättre: ”*Snövit och de sju betydligt under medellängd.*”
 
-Utställningens grundtanke, att föra ihop text och bild till ett tredje, ett idébaserat uttryck, kommer senare att kallas för *conceptual art* - konceptkonst, och slår igenom i Sverige en bit in på 70-talet. Ursprungligen kommer begreppet från USA, myntat av konstnären Henry Flynt. Galleristen Jean Sellem i Lund startar tidigt ett galleri som fokuserar påjust konceptkonst (vi kommer att ha några utställningar där genomåren).
+Utställningens grundtanke, att föra ihop text och bild till ett tredje, ett idébaserat uttryck, kommer senare att kallas för *conceptual art* - konceptkonst, och slår igenom i Sverige en bit in på 70-talet. Ursprungligen kommer begreppet från USA, myntat av konstnären Henry Flynt. Galleristen Jean Sellem i Lund startar tidigt ett galleri som fokuserar på just konceptkonst (vi kommer att ha några utställningar där genom åren).
 <!-- PAGE 23 END -->
 
 <!-- PAGE 24 START -->
 ::: part
 :::
-Samtidigt som vi har vår utställning på Maxim ska en ny klädbutiköppna, granne med galleriet: Gul&Blå- i första hand inriktad påmoderna jeans i alla varianter. Vi får kontakt med ägaren Lars Knutsson och kommer över ens om att han ska sälja våra 4 t-shirts i butiken.
+Samtidigt som vi har vår utställning på Maxim ska en ny klädbutik öppna, granne med galleriet: Gul&Blå - i första hand inriktad på moderna jeans i alla varianter. Vi får kontakt med ägaren Lars Knutsson och kommer överens om att han ska sälja våra 4 t-shirts i butiken.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/501.png)
 
@@ -899,7 +899,7 @@ Samtidigt som vi har vår utställning på Maxim ska en ny klädbutiköppna, gra
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/503.png)
 
-Invigningen av Gul&Blå ska bli ett kändisevenemang. Jag föreslår Knutsson att jag ska filma hela invigningen. Han tycker det är en bra idé. Vi hyr en 16-millimeterskamera. Jag lyckas ta mig upp ovanför järnkonstruktionen i taket på Maximtunneln med kameran och får en perfekt vinkel påpremiärminglet. Filmen lämnas till labbet och Knutsson är nyfiken påmaterialet.
+Invigningen av Gul&Blå ska bli ett kändisevenemang. Jag föreslår Knutsson att jag ska filma hela invigningen. Han tycker det är en bra idé. Vi hyr en 16-millimeterskamera. Jag lyckas ta mig upp ovanför järnkonstruktionen i taket på Maximtunneln med kameran och får en perfekt vinkel på premiärminglet. Filmen lämnas till labbet och Knutsson är nyfiken på materialet.
 ::: indent
 Det är totalt svart.
 :::
@@ -914,19 +914,19 @@ Däremot säljer tröjorna ganska bra.
 
 ::: part
 :::
-Efter den kreativa urladdning med Ray-utställningen vill Carsten och jag komprimera vårt uttryck. Vi åker med våra familjer till Skåne för att fåinspiration. Mina föräldrar har ett som marställe i Lilla Beddinge, själva har de flyttat till Spanien med Christina (hon är 13 år när det sker och slits bort från alla sammanhang här hemma, en tragedi i sig).
+Efter den kreativa urladdning med Ray-utställningen vill Carsten och jag komprimera vårt uttryck. Vi åker med våra familjer till Skåne för att få inspiration. Mina föräldrar har ett sommarställe i Lilla Beddinge, själva har de flyttat till Spanien med Christina (hon är 13 år när det sker och slits bort från alla sammanhang här hemma, en tragedi i sig).
 
 ![Familjerna.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/22.png)
 
-Under vistelsen skapar vi en ny bildpoesibok som är den första bokens raka motsats. Vi kallar den för ”*Den andra våldsamma döden*”. Ett mycket sparsmakat och hårt stiliserat verk. 36 spatiösa sidor med en enkel form och en text på(Arvo Pärts sakrala ”*Spiegel im Spiegel*”hade kunnat vara en fantastisk inspirationskälla till det här verket om han hade skrivit kompositionen 38 år tidigare).
+Under vistelsen skapar vi en ny bildpoesibok som är den första bokens raka motsats. Vi kallar den för ”*Den andra våldsamma döden*”. Ett mycket sparsmakat och hårt stiliserat verk. 36 spatiösa sidor med en enkel form och en text på (Arvo Pärts sakrala ”*Spiegel im Spiegel*” hade kunnat vara en fantastisk inspirationskälla till det här verket om han hade skrivit kompositionen 38 år tidigare).
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/23.jpg)
 
-Vi erbjuder boken till Bonniers som tackar nej igen. Långt senare, i samband med att jag börjar skriva kriminalromaner, har jag funderat över uttrycket”*Den andra våldsamma döden*”. Jag har svårt att härleda det.
+Vi erbjuder boken till Bonniers som tackar nej igen. Långt senare, i samband med att jag börjar skriva kriminalromaner, har jag funderat över uttrycket ”*Den andra våldsamma döden*”. Jag har svårt att härleda det.
 
 ::: part
 :::
-Vår avvikande utställning på Galleri Maxim har gett ett visst eko i konstvärlden (den är inte stor, menänd å). Vi blir tillfrågade av redaktören och kritikern Olle Granath om vi vill skriva en text till den etablerade tidskriften Konstrevy. Ämnet får vi välja själva.
+Vår avvikande utställning på Galleri Maxim har gett ett visst eko i konstvärlden (den är inte stor, men ändå). Vi blir tillfrågade av redaktören och kritikern Olle Granath om vi vill skriva en text till den etablerade tidskriften Konstrevy. Ämnet får vi välja själva.
 ::: indent
 Det blir vårt första litterära manifest, en form av program för klaring i det rådande kulturläget. Vi kallar artikeln *”Happy days are here again and Santa Claus is back in business”*. Rubriken till artikeln formger vi som en bildsida som illustrerar texten.
 :::
@@ -937,7 +937,7 @@ Texten avslutas så här:
 <!-- PAGE 24 END -->
 
 <!-- PAGE 25 START -->
-**”Ur enkelheten och ärligheten uppstår en känsla av fullständig frihet gentemot värderingar och normer, förstärks förmågan att ändra uppfattning från den ena dagen  till den andra, föds den nödvändiga överlägsenheten gentemot materialet, accentueras avståndet till provinsialismen, fördjupas känslan av internationell egoism. **
+**”Ur enkelheten och ärligheten uppstår en känsla av fullständig frihet gentemot värderingar och normer, förstärks förmågan att ändra uppfattning från den ena dagen till den andra, föds den nödvändiga överlägsenheten gentemot materialet, accentueras avståndet till provinsialismen, fördjupas känslan av internationell egoism. **
 
 ::: accordion
 **Fångad i denna känsla ökar också tvivlet på de nuvarande auktoriteterna, svalnar intresset för deras ståndpunkter, framstår dagens situation som osedvanligt kvalmig och jönsig.**
@@ -945,11 +945,11 @@ Texten avslutas så här:
 **Det verkar så svårt att se enkelt, så oerhört svårt att arbeta rent och klart, så lätt att springa runt i labyrinter och tro att näsan är längre än den är, så lätt att ambitiöst arbeta sönder enkla och vackra uttryck. Varför vräka all sin kraft mot ett misshagligt mål istället för att försöka skapa ett förnuftigare och livsdugligare alternativ? Det verkar slöseri med värdefull kraft. Det är trots allt inte alltför många som är nödvändigt lyhörda för den känsla som håller på att födas, eller just har fötts, för den ton som nu tränger ut som ett första barnskri ur en mycket gammal och mycket trött kropp, en ton  som hörs allt tydligare.”**
 :::
 
-Vi gör också ett förslag till tidskriftens omslag, som på ett uppsluppet sätt illustrerar vår text. Vi använder våra barn, sysslingarna, som fotomodeller. Allt är fortfarande en lek påfullt allvar.
+Vi gör också ett förslag till tidskriftens omslag, som på ett uppsluppet sätt illustrerar vår text. Vi använder våra barn, sysslingarna, som fotomodeller. Allt är fortfarande en lek på fullt allvar.
 
 ![Det finns alltid ett alternativ.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/26.png)
 
-Pengar tjänar vi inte på vår konstnärliga verksamhet. Men vi försöker. I raskt takt producerar vi tre verk för att få en utkomst av det vi tror på. Först en lång dialog mellan oss tvåom vårt behov av pengar som helt enkelt heter”*Pengar*”. Dialogen illustreras av Carsten.
+Pengar tjänar vi inte på vår konstnärliga verksamhet. Men vi försöker. I raskt takt producerar vi tre verk för att få en utkomst av det vi tror på. Först en lång dialog mellan oss två om vårt behov av pengar som helt enkelt heter ”*Pengar*”. Dialogen illustreras av Carsten.
 
 ![Eller finns det kanske någon djupare mening med denna underliga situation?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/27.png)
 
@@ -959,7 +959,7 @@ Inget förlag är intresserat. Efter det gör vi vår första konstmapp, en port
 
 ![Assa Assa vad du är vacker.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/29.png)
 
-Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i träsom innehåller 12 blåpapphimlar, 12 uppblåsta plast påsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*”samt 1 ex av vår nya konstmapp”*Anvisningar*”.
+Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i trä som innehåller 12 blåpapphimlar, 12 uppblåsta plast påsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*” samt 1 ex av vår nya konstmapp ”*Anvisningar*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/30.png)
 
@@ -971,11 +971,11 @@ Ansökan avslås.
 <!-- PAGE 26 START -->
 ::: part
 :::
-Carsten och jag har i princip dygnet-runt-kontakt. Mitt huvud är sprängfyllt av idéer om allt och ingenting. Jag är uppslukad av tanken på att ”allt är möjligt”.  Vad ”allt” egentligen är har jag svårare att ringa in. Men jag får hjälp av Carsten. Han är oerhört inläst pådadaismen och surrealismen. Hanälskar Picabia.
+Carsten och jag har i princip dygnet-runt-kontakt. Mitt huvud är sprängfyllt av idéer om allt och ingenting. Jag är uppslukad av tanken på att ”allt är möjligt”. Vad ”allt” egentligen är har jag svårare att ringa in. Men jag får hjälp av Carsten. Han är oerhört inläst på dadaismen och surrealismen. Han älskar Picabia.
 
 ![Man bör byta åsikter som man byter skjortor.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/31.png)
 
-Han leder in mig i dadavärlden under dom häråren. Det är jag evigt tacksam för. Chirico, Tzara, Cabaret Voltaire i Zurich (senare förebild för ett antal kabaréer vi gör på Moderna Museet), Hugo Ball, Paul Eluard, Breton, Magritte, Man Ray. Och den suraste av dom alla: Antoine Artaud.
+Han leder in mig i dadavärlden under dom här åren. Det är jag evigt tacksam för. Chirico, Tzara, Cabaret Voltaire i Zurich (senare förebild för ett antal kabaréer vi gör på Moderna Museet), Hugo Ball, Paul Eluard, Breton, Magritte, Man Ray. Och den suraste av dom alla: Antoine Artaud.
 
 ::: quote
 **”De, för vilka vissa ord och vissa levnadssätt har en betydelse, de som skickar sig väl, de som delar in känslorna i klasser och på vilken nivå som helst diskuterar dessa skrattretande klassifikationer, de som ännu tror på ´gränser´, de som ältar ideologier som har fått plats på vår tids rangskala ... de som följer utstakade vägar, de som kommer viftande med namn som får boksidorna att skrika - de är de värsta svinen!”**
@@ -989,7 +989,7 @@ Möjligen kan Artauds skoningslösa attityd ha inspirerat Jan Myrdal till ett li
 
 Jag är mycket förtjust i Myrdals text när den kommer, i hans hållning över huvudtaget. Han får en viss kompassfunktion under många år (den solkas betänkligt i samband med satirprocessen mot Thorbjörn Fälldin 1977).
 ::: indent
-Men tillbaka till dadaismen. Äntligen får jag kontakt med det gränslösa föraktet och det upproriska skrattet, med förlöjligandetsädla konst och det undermedvetnas välsignelse, med den dresserade spontaniteten och bejakandet av infantila infall: barnet mitt i världen.
+Men tillbaka till dadaismen. Äntligen får jag kontakt med det gränslösa föraktet och det upproriska skrattet, med förlöjligandets ädla konst och det undermedvetnas välsignelse, med den dresserade spontaniteten och bejakandet av infantila infall: barnet mitt i världen.
 :::
 
 ![MAMA CAN ALSO BE DADA](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/175.png)
@@ -1000,7 +1000,7 @@ Fotnot: Ordet *”DADA”* förekommer första gången i tryck i en liten publik
 <!-- PAGE 26 END -->
 
 <!-- PAGE 27 START -->
-DADA lär ocksåut diktandets svåra konst:
+DADA lär också ut diktandets svåra konst:
 
 ::: poem
 **HUR MAN GÖR EN DADAISTISK DIKT**
@@ -1025,11 +1025,11 @@ Den fungerar.
 :::
 
 ::: indent
-Carsten leder mig också till konstnären Marcel Duchamp. Knepigare territorium. Mindre skratt och mer schack. Mer hjärna och flasktorkare. Duchamp blir aldrig en husgud, gåtorna är för avancerade (jag har tillbringatåtskilliga timmar på Moderna Museet framför Duchamps stora glasverk ”*Bruden avklädd av sina ungkarlar, till och med*”- jag fattar fortfarande inte vad det handlar om).
+Carsten leder mig också till konstnären Marcel Duchamp. Knepigare territorium. Mindre skratt och mer schack. Mer hjärna och flasktorkare. Duchamp blir aldrig en husgud, gåtorna är för avancerade (jag har tillbringat åtskilliga timmar på Moderna Museet framför Duchamps stora glasverk ”*Bruden avklädd av sina ungkarlar, till och med*” - jag fattar fortfarande inte vad det handlar om).
 :::
 
 ::: indent
-Däremot blir jag fascinerad av schweizaren Arthur Cravan (som egentligen hette Fabian Lloyd). Cravan var en vildsint poet och boxare och en av dadaisternas tidiga favoriter (hans moster var gift med Oscar Wilde). Han var tvåmeter lång och gick en gång en boxningsmatch mot Jack Johnson, den förste svarte tungviktsmästaren.
+Däremot blir jag fascinerad av schweizaren Arthur Cravan (som egentligen hette Fabian Lloyd). Cravan var en vildsint poet och boxare och en av dadaisternas tidiga favoriter (hans moster var gift med Oscar Wilde). Han var två meter lång och gick en gång en boxningsmatch mot Jack Johnson, den förste svarte tungviktsmästaren.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/217.png)

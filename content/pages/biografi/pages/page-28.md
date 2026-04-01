@@ -7,9 +7,9 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1956–1968"
 ---
-Privat har jag problem i mitt äktenskap. Mitt huvud är ockuperat av en alltmer glupande hunger efter bekräftelse. Balansen mellan familjen och världen utanför blir mer och mer ohållbar. Jag vet inte vad jag villåt, bara att jag villåt det. Påbekostnad av ganska mycket. Det mesta av min tid gåråt till att odla idéer, vansinniga hugskott, det mesta helt obegripligt för alla utom Carsten: jag vill framställa en jättestor palett av skinande svart plast med en enda lång svängd rispa tvärsöver, iänden av rispan ska det ligga en konståkningsskridsko. Den typen av idéer.
+Privat har jag problem i mitt äktenskap. Mitt huvud är ockuperat av en alltmer glupande hunger efter bekräftelse. Balansen mellan familjen och världen utanför blir mer och mer ohållbar. Jag vet inte vad jag vill åt, bara att jag vill åt det. På bekostnad av ganska mycket. Det mesta av min tid går åt till att odla idéer, vansinniga hugskott, det mesta helt obegripligt för alla utom Carsten: jag vill framställa en jättestor palett av skinande svart plast med en enda lång svängd rispa tvärsöver, i änden av rispan ska det ligga en konståkningsskridsko. Den typen av idéer.
 ::: indent
-Eva och jag separerar. Joakim bor kvar hos henne, själv dalar jag ner i en vegetativ grav under en period. Som vanligt använder jag språket som en snorkel, ett sätt att fåluft.
+Eva och jag separerar. Joakim bor kvar hos henne, själv dalar jag ner i en vegetativ grav under en period. Som vanligt använder jag språket som en snorkel, ett sätt att få luft.
 :::
 
 ::: poem
@@ -42,9 +42,9 @@ Eva och jag separerar. Joakim bor kvar hos henne, själv dalar jag ner i en vege
 
 ::: part
 :::
-Åren som följer kan jag kalla *The Missing Years* (för att ta hjälp av John Prine). På ett privat plan. Jag blir en påtänd satellit som roterar sålångt bort från mitt emotionella inre som möjligt. Konstnärligt kreativt, kanske, men med en ständig resonans av sorg och ensamhet.
+Åren som följer kan jag kalla *The Missing Years* (för att ta hjälp av John Prine). På ett privat plan. Jag blir en påtänd satellit som roterar så långt bort från mitt emotionella inre som möjligt. Konstnärligt kreativt, kanske, men med en ständig resonans av sorg och ensamhet.
 ::: indent
-Vänner, eller ” polare ” som uttrycketär, blir allt viktigare som ett slags berusade krockkuddar (flera av dom har dött bort, men dom finns iåminnelse). Alla har illustra smeknamn: *Haddock* och *Tjocka Mattan*, *Paletten*, *Ärtan* och *Kalle Maräng*, *Gräsätarn*, *Svampen* och *Skånska Lasse*.
+Vänner, eller ”polare” som uttrycket är, blir allt viktigare som ett slags berusade krockkuddar (flera av dom har dött bort, men dom finns i åminnelse). Alla har illustra smeknamn: *Haddock* och *Tjocka Mattan*, *Paletten*, *Ärtan* och *Kalle Maräng*, *Gräsätarn*, *Svampen* och *Skånska Lasse*.
 :::
 
 ::: indent
@@ -52,5 +52,5 @@ Carsten kallas alltid för Carsten.
 :::
 
 ::: indent
-Själv kallas jag till och från för *Värta*, alluderande pågasverken i Värtahamnen. Jag råkar släppa en lövkoja i höjd med Hedvig Eleonora som hänger med längs Storgatan förbi Broddmans skivaffärända fram till korsningen Skeppargatan.
+Själv kallas jag till och från för *Värta*, alluderande på gasverken i Värtahamnen. Jag råkar släppa en lövkoja i höjd med Hedvig Eleonora som hänger med längs Storgatan förbi Broddmans skivaffär ända fram till korsningen Skeppargatan.
 :::

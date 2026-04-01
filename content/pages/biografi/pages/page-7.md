@@ -21,7 +21,7 @@ yearGroup: "1942–1955"
 
 **plötsligt ropar hon till en rörelse i bakgrunden**
 
-**” Så fin han är! ”**
+**”Så fin han är!”**
 
 **som om hon deltog**
 :::
@@ -29,17 +29,17 @@ yearGroup: "1942–1955"
 ::: poem
 ### *Dikt om Otto*
 
-**” Du gav mig en tidtabell? ”**
+**”Du gav mig en tidtabell?”**
 
 **ja**
 
-**” Men jag vinkade aldrig? ”**
+**”Men jag vinkade aldrig?”**
 
 **nej**
 
 **nu ler han mot mig, som om också han deltog**
 
-**” Varför ljuger du? ”**
+**”Varför ljuger du?”**
 
 **för att fastna**
 :::
@@ -54,7 +54,7 @@ Knappast. Snarare om två unga förälskade individer, djupt upptagna av att se 
 :::
 
 ::: indent
-Långt senare förstår jag deras oförmåga att innesluta, deras upplevelse av barnet som ett tillbehör. Hur deras instruktionsbok kan ha sett ut: ” Ska ha näring, tumskruvar och distans, hållas rent och artigt, inte få kilfunktion, delges värme vid behov. Generellt: inte kladdas med. ”
+Långt senare förstår jag deras oförmåga att innesluta, deras upplevelse av barnet som ett tillbehör. Hur deras instruktionsbok kan ha sett ut: ”Ska ha näring, tumskruvar och distans, hållas rent och artigt, inte få kilfunktion, delges värme vid behov. Generellt: inte kladdas med.”
 :::
 
 ::: indent

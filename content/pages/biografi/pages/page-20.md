@@ -9,9 +9,9 @@ yearGroup: "1942–1955"
 ---
 ![När börjar dansen?!](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/9.png)
 
-Jag gör ett kort gästspel som vikarierande lärare i Bodals skola på Lidingö. Långt hår, utsvängda fiskbensmönstrade byxor och boots, tämligen olik dom andra i kollegierummet. Min undervisningsteknik går ut påfrihet under ansvar.
+Jag gör ett kort gästspel som vikarierande lärare i Bodals skola på Lidingö. Långt hår, utsvängda fiskbensmönstrade byxor och boots, tämligen olik dom andra i kollegierummet. Min undervisningsteknik går ut på frihet under ansvar.
 ::: indent
-En värdelös teknik, visar det sig. Rektorn förklarar att det krävs ordning, reda och disciplin. Det är inte mina bästa grenar. Jag slutar och söker till Journalisthögskolan i Stockholm (än så länge med namnet Journalistinstitutet). Det är det närmaste ett skrivande yrke jag kan komma. Jag är inte flygfärdigännu. Utbildningen tråkar ut mig, men jag får möjlighet att uttrycka saker som berör mig. Poesins framtid, till exempel. I skolans egen tidning Anfangen skriver jag en debattartikel om just detta: ” *Poesins framtid - en skiss i två plan* ”. Den avslutas så här:
+En värdelös teknik, visar det sig. Rektorn förklarar att det krävs ordning, reda och disciplin. Det är inte mina bästa grenar. Jag slutar och söker till Journalisthögskolan i Stockholm (än så länge med namnet Journalistinstitutet). Det är det närmaste ett skrivande yrke jag kan komma. Jag är inte flygfärdig ännu. Utbildningen tråkar ut mig, men jag får möjlighet att uttrycka saker som berör mig. Poesins framtid, till exempel. I skolans egen tidning Anfangen skriver jag en debattartikel om just detta: ”*Poesins framtid - en skiss i två plan*”. Den avslutas så här:
 :::
 
 **”Jag tror att varje konstnär inom sitt område måste få fram en essens, något nytt, som kanske inte i och för sig är intressant eller betydelsefullt, men som i kombination med andra konstarter kan bilda en arbetsplatta. I essensernas möte uppstår den första, verkliga opersonligheten, bildas den grund på vilket ett intimt samarbete ”över gränserna” så småningom kan leda till en ny konstform. Det är till dessa möten jag tror poeterna måste bege sig, på denna basplatta de tillsammans med andra konstnärer kan nå en maximal betydelse med sina ord. På väg mot en situation där två konstnärer tillsammans bildar en skapande tredje, skulpterar en fristående och opersonlig konstform.”**
@@ -22,7 +22,7 @@ Det vi kommer att kalla multimedia.
 :::
 
 ::: indent
-Artikeln illustreras av en bild-ljud-dikt ur poetenÅke Hodells diktsamling ”*General Bussig*”.
+Artikeln illustreras av en bild-ljud-dikt ur poeten Åke Hodells diktsamling ”*General Bussig*”.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/148.png)
@@ -41,5 +41,5 @@ Dylan ger upp.
 :::
 
 ::: indent
-Efteråt söker jag upp honom, han står och röker i ett atrium, jag förklarar mitt modesta uppdrag som ” utsänd ” från en högskoletidning och beklagar det han just har utsatts för. Dylan rycker påaxlarna, säger några ord, röker och är förmodligen redan på väg därifrån.
+Efteråt söker jag upp honom, han står och röker i ett atrium, jag förklarar mitt modesta uppdrag som ”utsänd” från en högskoletidning och beklagar det han just har utsatts för. Dylan rycker på axlarna, säger några ord, röker och är förmodligen redan på väg därifrån.
 :::

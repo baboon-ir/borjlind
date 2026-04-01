@@ -8,7 +8,7 @@ layout: biography
 yearGroup: "1942–1955"
 ---
 ::: indent
-Iställetägnar jag en periodåt att försöka importera sandblästrade läderboots till Sverige. ” *Spanish boots of spanish leather* ”. Jag besöker några stövelfabriker i inlandet, ett mycket hett inland, Toledo, Navalmoral, tills jag inser att det är en volymfråga. Jag vill börja med 10 par. Det är ingen som är intresserad av det. Projektet läggs ner.
+Istället ägnar jag en period åt att försöka importera sandblästrade läderboots till Sverige. ”*Spanish boots of spanish leather*”. Jag besöker några stövelfabriker i inlandet, ett mycket hett inland, Toledo, Navalmoral, tills jag inser att det är en volymfråga. Jag vill börja med 10 par. Det är ingen som är intresserad av det. Projektet läggs ner.
 :::
 
 ::: indent
@@ -33,7 +33,7 @@ Kanske Dominicus av Landsvägen?
 
 ::: part
 :::
-Min nyvunna törst pålivet avbryts temporärt av en inkallelse till militärtjänst. Jag har valt att göra den längre tjänstgöringen, som är på15 månader, ett slags förberedande officerstjänst, förmodligen för att imponera på min blivande svärfar som är rektor på Gymnastikhögskolan i Stockholm.
+Min nyvunna törst pålivet avbryts temporärt av en inkallelse till militärtjänst. Jag har valt att göra den längre tjänstgöringen, som är på 15 månader, ett slags förberedande officerstjänst, förmodligen för att imponera på min blivande svärfar som är rektor på Gymnastikhögskolan i Stockholm.
 ::: indent
 Ett fett fel val.
 :::
@@ -63,7 +63,7 @@ Frågorna är hypotetiskt ställda, pågränsen till infantila, och jag försök
 :::
 
 ::: indent
-Vilket det gör, visar det sig (dåhar jagändåinte nämnt dom dresserade fläckarna i Eichmannsögon för henne). Jag får diagnosen ” astenisk ” (osjälvständig personlighetsstörning)*,* friskrivs med ” omtestning ” om tolv månader och hör aldrig av det militära mer.
+Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fläckarna i Eichmannsögon för henne). Jag får diagnosen ”astenisk” (osjälvständig personlighetsstörning), friskrivs med ”omtestning” om tolv månader och hör aldrig av det militära mer.
 :::
 
 ::: indent

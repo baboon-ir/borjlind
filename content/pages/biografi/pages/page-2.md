@@ -7,7 +7,7 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1942–1955"
 ---
-::: center
+::: fullpage
 **till**
 
 **Joakim Sari Nick Molly**

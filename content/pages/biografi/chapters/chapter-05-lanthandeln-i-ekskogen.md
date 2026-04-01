@@ -1,20 +1,20 @@
 # Lanthandeln i Ekskogen
 
 <!-- PAGE 40 START -->
-Mötet med byn och dess innevånare blir omtumlande. Vi är två långhåriga ufon från Stockholm som skaägna ossåt att ”skapa”. Byn ligger mitt inne skogen och består av en smal grusväg kantad av låga, delvis prefabricerade hus. I slutet av vägen ligger en klassisk lanthandel med lång disk och ett brett utbud av konserver. Inklusive fiskbullar. Själva vägen slutar vid en insjöfull med tusenbröder.
+Mötet med byn och dess innevånare blir omtumlande. Vi är två långhåriga ufon från Stockholm som ska ägna oss åt att ”skapa”. Byn ligger mitt inne skogen och består av en smal grusväg kantad av låga, delvis prefabricerade hus. I slutet av vägen ligger en klassisk lanthandel med lång disk och ett brett utbud av konserver. Inklusive fiskbullar. Själva vägen slutar vid en insjöfull med tusenbröder.
 ::: indent
-Om byn: En kraftig kvinnaåker runt på en flakmoppe, kallas Svarta Märta och har ett förflutet som glädjeflicka i Stockholm. Vi får bra kontakt. Ett par storvuxna bröder är golvläggare och kraftigt anfrätta av lösningsmedel. En av dom kan lyfta en fåtölj i ena benet med bara en hand (jag använder honom senare som förebild till en scen i kriminalserien ”*Graven*”, där en kraftig man lyfter just en fåtölj i ena benet).
+Om byn: En kraftig kvinna åker runt på en flakmoppe, kallas Svarta Märta och har ett förflutet som glädjeflicka i Stockholm. Vi får bra kontakt. Ett par storvuxna bröder är golvläggare och kraftigt anfrätta av lösningsmedel. En av dom kan lyfta en fåtölj i ena benet med bara en hand (jag använder honom senare som förebild till en scen i kriminalserien ”*Graven*”, där en kraftig man lyfter just en fåtölj i ena benet).
 :::
 
 https://youtu.be/3gNpsbP2E6Y
 
-Bynär impregnerad av hembränning. Vi lär oss hur man gömmer spriten i myrstackar runt om i skogen och dricker jäst mäsk direkt ur plastdunkar. Vi bor granne med byns brevbärare och hans fru, ett mycket prudentligt par som inte ser med blidaögon hur vårt hus förvandlas till en samlingsplats för högt och lågt.
+Byn är impregnerad av hembränning. Vi lär oss hur man gömmer spriten i myrstackar runt om i skogen och dricker jäst mäsk direkt ur plastdunkar. Vi bor granne med byns brevbärare och hans fru, ett mycket prudentligt par som inte ser med blida ögon hur vårt hus förvandlas till en samlingsplats för högt och lågt.
 ::: indent
 På andra sidan vårt hus ligger Sions Sal. Sprit och böner går hand i hand, som alltid. Vi lär känna vaktmästaren som släpper in oss vissa kvällar när bönehuset är tomt. Det finns ett piano där och en fantastisk, ödslig akustik i den stora salen. Jag skriver några låtar, inspirerad av The Band, och sjunger stämsång med Ove. Nästan varje kväll vi är där smyger det in en ung, ljushårig flicka och sätter sig längst bak, helt tyst (även det en scen jag har använt i en tv-serie). När vi försöker ta kontakt med henne försvinner hon ut. Eventuellt bor hon i byn, eventuellt inte, vi får aldrig reda på det.
 :::
 
 ::: indent
-Rätt snart tar våra pengar slut. Vi får ett tips: fårtickor. Skogen runt omär full med fårtickor som går att sälja. Svampen mals ner och används till hundmat. Det kan ge en viss förtjänst att plocka dom. Vi utrustar oss med svarta sopsäckar och fyller dom med svamp under timslånga exekutioner. Resultatet blir några tior. Ove besöker  lanthandeln och kommer tillbaka med tvåburkar fiskbullar. Han vet att jag hatar fiskbullar. Möjligen är det en lapsus, möjligen inte. Det vänliga paret intill tycker synd om oss och hänger en kasse med mat på vårt dörrhandtag.
+Rätt snart tar våra pengar slut. Vi får ett tips: fårtickor. Skogen runt om är full med fårtickor som går att sälja. Svampen mals ner och används till hundmat. Det kan ge en viss förtjänst att plocka dom. Vi utrustar oss med svarta sopsäckar och fyller dom med svamp under timslånga exekutioner. Resultatet blir några tior. Ove besöker lanthandeln och kommer tillbaka med två burkar fiskbullar. Han vet att jag hatar fiskbullar. Möjligen är det en lapsus, möjligen inte. Det vänliga paret intill tycker synd om oss och hänger en kasse med mat på vårt dörrhandtag.
 :::
 
 ::: indent
@@ -22,9 +22,9 @@ Social distans, redan nu.
 :::
 
 ::: minne
-Minne från Kölsjön: Påjulafton blir vi hembjudna till en avlägsen bekant till Ove i en by långt bort. Han är ordförande i den lokala fack för eningen. Viäter julmat i familjens kök, starkt neonljus i taket och perstorpsbord. Efter maten föreslår mannen att vi skaåka runt till gårdarna och agera tomte - en tradition han har påtagit sig under någraår. Ove utses till tomte på grund av sitt yviga skägg. Tyvärr är det svart, men mannens hustru plockar fram mjöl och pudrar skägget vitt. Vi beger oss iväg på vår tomteturnéutan att vara medvetna om vissa andra traditioner i trakten. Tomten och hans ”nissar”ska bjudas på en sup, minst, på varje ställe som besöks. Mjölet i Oves skägg förvandlas så småningom till vita tjocka klumpar och natten slutar ganska illa.
+Minne från Kölsjön: På julafton blir vi hembjudna till en avlägsen bekant till Ove i en by långt bort. Han är ordförande i den lokala fackföreningen. Vi äter julmat i familjens kök, starkt neonljus i taket och perstorpsbord. Efter maten föreslår mannen att vi ska åka runt till gårdarna och agera tomte - en tradition han har påtagit sig under några år. Ove utses till tomte på grund av sitt yviga skägg. Tyvärr är det svart, men mannens hustru plockar fram mjöl och pudrar skägget vitt. Vi beger oss iväg på vår tomteturné utan att vara medvetna om vissa andra traditioner i trakten. Tomten och hans ”nissar” ska bjudas på en sup, minst, på varje ställe som besöks. Mjölet i Oves skägg förvandlas så småningom till vita tjocka klumpar och natten slutar ganska illa.
 
-Illa slutar det också för Oves bekant någraår senare, då han ertappas med att ha förskingrat fack för eningens lokalkassa.
+Illa slutar det också för Oves bekant några år senare, då han ertappas med att ha förskingrat fackföreningens lokalkassa.
 :::
 
 ::: part
@@ -41,7 +41,7 @@ https://youtu.be/drqYgCuWU_k
 :::
 För att klara av mitt förhållande till musik:
 
- Jag är trettonår är när Elvis släpper”*Blue Suede shoes*”, nitton när Dylan släpper ”*Freewheeling*”och tjugo när Beatles och Stones slår igenom. Jag impregneras med rockmusik under hela 60-talet. Den blir i viss utsträckning min världskarta och inre kompass. Även dom udda grupperna. En av mina polare, Skånska Lasse, får mig att lyssna på The Fugs - en säregen, magisk amerikansk grupp som ger ut anarkistiska och satiriska skivor med stimulerande texter. Ed Sanders och Tuli Kupferberg är tvåav medlemmarna, båda viktiga personer i USA:s vänsterrörelse.
+ Jag är tretton år när Elvis släpper ”*Blue Suede shoes*”, nitton när Dylan släpper ”*Freewheeling*” och tjugo när Beatles och Stones slår igenom. Jag impregneras med rockmusik under hela 60-talet. Den blir i viss utsträckning min världskarta och inre kompass. Även dom udda grupperna. En av mina polare, Skånska Lasse, får mig att lyssna på The Fugs - en säregen, magisk amerikansk grupp som ger ut anarkistiska och satiriska skivor med stimulerande texter. Ed Sanders och Tuli Kupferberg är två av medlemmarna, båda viktiga personer i USA:s vänsterrörelse.
 ::: indent
 Minne av Skånska Lasse: efter en natt med musik och godis hittar jag honom sovande på golvet med en pingisboll som huvudkudde (jag använder situationen i en tv-serie många år senare).
 :::
@@ -52,7 +52,7 @@ Skånska är utbildad på Beckmans Reklamskola, diskar i köket på restaurang R
 
 ![Format: 32 x 26 cm. Eller minusformat.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/221.png)
 
-Skånska är en extremt snäll människa (den förste som även introducerar mig för Tom Waits) och har som valspråk:”*Fortsätt bakåt!*”. Han lever ett ensligt liv och hittas i sin lägenhet på Söder flera dygn efter sin död.
+Skånska är en extremt snäll människa (den förste som även introducerar mig för Tom Waits) och har som valspråk: ”*Fortsätt bakåt!*”. Han lever ett ensligt liv och hittas i sin lägenhet på Söder flera dygn efter sin död.
 ::: indent
 En av Skånskas favoriter är den amerikanske tecknaren och låtskrivaren Shel Silverstein. Det är så jag kommer i kontakt med honom. Han tecknar för Playboy och skriver ett antal klassiska sånger till Dr Hook and the Medicine Show - ”*Sylvias Mother*”, till exempel. Vid ett besök i San Francisco söker jag upp hans husbåt.
 :::
@@ -62,12 +62,12 @@ En av Skånskas favoriter är den amerikanske tecknaren och låtskrivaren Shel S
 ::: part
 :::
 
-Minne från 68: Jag och min polare Benke (*Haddock*) sitter på Sturehof, dricker öl och diskuterar Pragvåren. Vi är inte helt över ens. Jag väljer att illustrera vad det hela handlar om, enligt mig, nämligen hur Sovjet (eller Warzawapakten) fullständigt skoningslöst slukar det lilla Tjeckoslovakien. Jag låter en tomölsejdel symbolisera Sovjet och en liten tändsticksask Tjeckoslovakien. När jag drämmer sejdeln över den lilla asken spricker glaset och skär upp hela tummen. Jag fraktas till nåt sjukhus. Läkaren som syr ihop fingret anser att bedövning vore att kasta pärlor för svin.
+Minne från 68: Jag och min polare Benke (*Haddock*) sitter på Sturehof, dricker öl och diskuterar Pragvåren. Vi är inte helt överens. Jag väljer att illustrera vad det hela handlar om, enligt mig, nämligen hur Sovjet (eller Warzawapakten) fullständigt skoningslöst slukar det lilla Tjeckoslovakien. Jag låter en tom ölsejdel symbolisera Sovjet och en liten tändsticksask Tjeckoslovakien. När jag drämmer sejdeln över den lilla asken spricker glaset och skär upp hela tummen. Jag fraktas till nåt sjukhus. Läkaren som syr ihop fingret anser att bedövning vore att kasta pärlor för svin.
 ::: indent
-Ärret är synligtän idag.
+Ärret är synligt än idag.
 :::
 
-På tal om Benke: Han har en vacker liten träbåt, ursprungligen en räddningsbåt från en dansk lyxkryssare. Han har döpt den till *”Hybris II”(*såvitt jag vet har det aldrig funnits nån*”Hybris I”**).* Den här hösten föreslår han att vi ska segla till Åland med båten.
+På tal om Benke: Han har en vacker liten träbåt, ursprungligen en räddningsbåt från en dansk lyxkryssare. Han har döpt den till *”Hybris II”* (*såvitt jag vet har det aldrig funnits nån ”Hybris I”*). Den här hösten föreslår han att vi ska segla till Åland med båten.
 ::: indent
 Varför inte?
 :::
@@ -75,7 +75,7 @@ Varför inte?
 
 <!-- PAGE 42 START -->
 ::: indent
-Han, jag, Ove och *Kalle Maräng* ger oss iväg från Löka hamn på Möja. Humöret sprudlar. Solen skiner. Vi har rustat med mat och whisky. *”Hybris II”* klyver det lugna vattnet upp mot Söderarm, sista utposten motÅlands hav. Där, strax innan vi når fram, slår vädret om avsevärt, solen försvinner, lätt regn faller, vinden tilltar. Vi måste fatta ett beslut: vända, ankra upp eller fortsätta.
+Han, jag, Ove och *Kalle Maräng* ger oss iväg från Löka hamn på Möja. Humöret sprudlar. Solen skiner. Vi har rustat med mat och whisky. *”Hybris II”* klyver det lugna vattnet upp mot Söderarm, sista utposten mot Ålands hav. Där, strax innan vi når fram, slår vädret om avsevärt, solen försvinner, lätt regn faller, vinden tilltar. Vi måste fatta ett beslut: vända, ankra upp eller fortsätta.
 :::
 
 ::: indent
@@ -91,7 +91,7 @@ Om vi kommer fram.
 :::
 
 ::: indent
-Vi stävar ut på öppet hav med kurs mot Mariehamn. Fortfarande är vi skojfriska. Grabbar. Nuär det vi mot elementen!
+Vi stävar ut på öppet hav med kurs mot Mariehamn. Fortfarande är vi skojfriska. Grabbar. Nu är det vi mot elementen!
 :::
 
 ::: indent
@@ -99,7 +99,7 @@ Men.
 :::
 
 ::: indent
-Rätt snabbt slår sig dom långa, tunga dyningarna på*Kalle Marängs* mage. Han spyr över relingen och kryper ner i ruffen. Vi andra tre stävar på, stärkta av whisky, men kaxigheten har försvunnit, vi blir mindre och mindre talföra, det skojfriska sjunker undan. Efter nån timme blåser det upp rejält, regnetökar och mörkret faller snabbt. Svart hav är det enda vi ser, böljande dyningar och småkrumma vågor med vitt skum på. Vi bestämmer att en av oss ska ta rodret, dom andra tvåkrypa ner, undan regnet och blåsten. För att bytas av efter hand.
+Rätt snabbt slår sig dom långa, tunga dyningarna på *Kalle Marängs* mage. Han spyr över relingen och kryper ner i ruffen. Vi andra tre stävar på, stärkta av whisky, men kaxigheten har försvunnit, vi blir mindre och mindre talföra, det skojfriska sjunker undan. Efter nån timme blåser det upp rejält, regnet ökar och mörkret faller snabbt. Svart hav är det enda vi ser, böljande dyningar och småkrumma vågor med vitt skum på. Vi bestämmer att en av oss ska ta rodret, dom andra två krypa ner, undan regnet och blåsten. För att bytas av efter hand.
 :::
 
 ::: indent
@@ -107,11 +107,11 @@ Jag tar första passet.
 :::
 
 ::: indent
-Jag utrustas med en extra täckjacka och surras fast i sittbrunnen med ett tjockt rep runt midjan, i händelse det skulle slåin nån kraftig våg. Precis intill mig sitter gyron, det är den jag navigerar efter. Jag vet vilken riktning vi ska.
+Jag utrustas med en extra täckjacka och surras fast i sittbrunnen med ett tjockt rep runt midjan, i händelse det skulle slå in nån kraftig våg. Precis intill mig sitter gyron, det är den jag navigerar efter. Jag vet vilken riktning vi ska.
 :::
 
 ::: indent
-Såsitter jag där. Ensam i den vackra sittbrunnen, mahogny, kopparbeslag, på insidan av skrovet har Benke fäst en konstgjord träarm med en lina till, han är trött på alla som ska vinka så fort man möts i en farled, då drar han i linan så åker armen upp.
+Så sitter jag där. Ensam i den vackra sittbrunnen, mahogny, kopparbeslag, på insidan av skrovet har Benke fäst en konstgjord träarm med en lina till, han är trött på alla som ska vinka så fort man möts i en farled, då drar han i linan så åker armen upp.
 :::
 
 ::: indent
@@ -119,7 +119,7 @@ Det är ingen risk att jag behöver använda armen i nuläget.
 :::
 
 ::: indent
-Jag är fullt fokuserad påvågorna, det jag ser av dom i natten, av rörelserna under skrovet, manövrerandet, glidandet, jag upplever efter ett tag att jag ”blir ett med havet”.
+Jag är fullt fokuserad på vågorna, det jag ser av dom i natten, av rörelserna under skrovet, manövrerandet, glidandet, jag upplever efter ett tag att jag ”blir ett med havet”.
 :::
 
 ::: indent
@@ -127,7 +127,7 @@ På riktigt.
 :::
 
 ::: indent
-Första timmen går över i tredje timmen. Regnet piskar i ansiktet, skummet slår in i sittbrunnen, vinden är råkall. Dåoch då öppnas luckan ner till ruffen, Benke eller Ove sträcker upp en flaska och frågar om jag vill bli avbytt. Det vill jag inte. Tvärtom. Jag har hamnat i ett slags trance, bortom all rädsla eller kyla, utanför mig själv, jag njuter när jag ser nästa väldiga dyning närma sig, jag vill upp på den, högst upp, och forsa ner på andra sidan. Jag är odödlig.
+Första timmen går över i tredje timmen. Regnet piskar i ansiktet, skummet slår in i sittbrunnen, vinden är råkall. Då och då öppnas luckan ner till ruffen, Benke eller Ove sträcker upp en flaska och frågar om jag vill bli avbytt. Det vill jag inte. Tvärtom. Jag har hamnat i ett slags trance, bortom all rädsla eller kyla, utanför mig själv, jag njuter när jag ser nästa väldiga dyning närma sig, jag vill upp på den, högst upp, och forsa ner på andra sidan. Jag är odödlig.
 :::
 
 ::: indent
@@ -135,11 +135,11 @@ Och ensam.
 :::
 
 ::: indent
-Ett tag försöker jag komma påtextraderna till Taubes *”Briggen Blue Bird”*, raderna om killen som gick under med vraket, Karl Stranne, han som var surrad vid rodret. Jag minns dom inte.
+Ett tag försöker jag komma på textraderna till Taubes *”Briggen Blue Bird”*, raderna om killen som gick under med vraket, Karl Stranne, han som var surrad vid rodret. Jag minns dom inte.
 :::
 
 ::: indent
-Tiden och timmarna går, jag sitter fastgjuten i beckmörkret med stelfrusna händer och stirrar pågyron, rätt kurs, rätt kurs.
+Tiden och timmarna går, jag sitter fastgjuten i beckmörkret med stelfrusna händer och stirrar på gyron, rätt kurs, rätt kurs.
 :::
 
 ::: indent
@@ -151,17 +151,17 @@ Det gör vi!
 :::
 
 ::: indent
-Nuär det bara att navigera efter det gröna ljuset, så är det lugnt.
+Nu är det bara att navigera efter det gröna ljuset, så är det lugnt.
 :::
 <!-- PAGE 42 END -->
 
 <!-- PAGE 43 START -->
 ::: indent
-Dåkommer problem nummer två. Eller tre eller fyra. Jag har nedsatt färgseende i gränsen mellan rött och grönt. Det lilla jag har blir inte bättre av att det är beckmörkt. Jag inser rätt snabbt att jag inte kan avgöra om fyrarna skickar grönt eller rött ljus. En rätt väsentlig information när man ska ta sig in i denåländska skärgården, nersållad med dolda grynnor och flacka kobbar.
+Då kommer problem nummer två. Eller tre eller fyra. Jag har nedsatt färgseende i gränsen mellan rött och grönt. Det lilla jag har blir inte bättre av att det är beckmörkt. Jag inser rätt snabbt att jag inte kan avgöra om fyrarna skickar grönt eller rött ljus. En rätt väsentlig information när man ska ta sig in i den åländska skärgården, nersållad med dolda grynnor och flacka kobbar.
 :::
 
 ::: indent
-Jag ropar upp Benke, båtägaren och den som vet mest om sjön. Han lossar mig, tar över rodret och börja navigera efter rätt färg.
+Jag ropar upp Benke, båtägaren och den som vet mest om sjön. Han lossar mig, tar över rodret och börjar navigera efter rätt färg.
 :::
 
 ::: indent
@@ -173,26 +173,26 @@ Vi når Mariehamn.
 :::
 
 ::: indent
-Under den korta vistelsen där lär jag mig tvåfinska ord: Kaksi potkuria. Det betyder ”Tvåpropellrar”. Inget jag har daglig användning av.
+Under den korta vistelsen där lär jag mig två finska ord: Kaksi potkuria. Det betyder ”Tvåpropellrar”. Inget jag har daglig användning av.
 :::
 
-Jag har lurat döden ett par gånger till i mitt liv. En gång hyr jag en lätt motorcykel på den grekiskaön Skiathos, missbedömer gravitationskraften i en lätt feldoserad bergskurva, far omkull och flyger iväg över asfalten mot några mötande bilar. Dom hinner sladda undan.
+Jag har lurat döden ett par gånger till i mitt liv. En gång hyr jag en lätt motorcykel på den grekiska ön Skiathos, missbedömer gravitationskraften i en lätt feldoserad bergskurva, far omkull och flyger iväg över asfalten mot några mötande bilar. Dom hinner sladda undan.
 ::: indent
-Resultat: lår, ben och armar totalt uppskrapade. Den grekiske läkaren anser att jag har haftänglavakt (justänglar vet jag inte, kan ocksåha varit småbelsebubar med gulaögon och håriga testiklar).
+Resultat: lår, ben och armar totalt uppskrapade. Den grekiske läkaren anser att jag har haft änglavakt (just änglar vet jag inte, kan också ha varit småbelsebubar med gula ögon och håriga testiklar).
 :::
 
 ::: indent
-Som tur är har en kompis, Åke Sundqvist, med sig en magisk dundersalva från Norrland, en liten glasburk med ett gulbrunt vaxliknande innehåll, påetiketten står ”Grankådeplåster” och en liten innehållsdeklaration: Kådsalva, fårfett, bivax, alunextrakt … och förmodligen en del hemliga släktingredienser. Salvan är fantastisk och gör underverk med köttsåren. I vår bok *”Springfloden”* har Enögda Vera en burk ”Grankådeplåster”i sin husvagn, Minken smörjer in Tom Stilton med salvan efter en brutal misshandel, i tv-serien ser scenen ut så här:
+Som tur är har en kompis, Åke Sundqvist, med sig en magisk dundersalva från Norrland, en liten glasburk med ett gulbrunt vaxliknande innehåll, på etiketten står ”Grankådeplåster” och en liten innehållsdeklaration: Kådsalva, fårfett, bivax, alunextrakt … och förmodligen en del hemliga släktingredienser. Salvan är fantastisk och gör underverk med köttsåren. I vår bok *”Springfloden”* har Enögda Vera en burk ”Grankådeplåster” i sin husvagn, Minken smörjer in Tom Stilton med salvan efter en brutal misshandel, i tv-serien ser scenen ut så här:
 :::
 
 [yt-video][https://www.youtube.com/watch?v=_cobTeyo-2s]
 
-Sålite payoff påomkullkörningen blev det.
+Så lite payoff på omkullkörningen blev det.
 
 ::: part
 :::
 
-Det häråret avslutas med att Carsten och jag framför en happening för barn på Moderna Museet tillsammans med musikgrupperna Contact och Skäggmanslaget. Den heter”*Boom! Boom! Boom!*”.
+Det här året avslutas med att Carsten och jag framför en happening för barn på Moderna Museet tillsammans med musikgrupperna Contact och Skäggmanslaget. Den heter ”*Boom! Boom! Boom!*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/242.png)
 
@@ -202,7 +202,7 @@ För vuxna.
 :::
 
 ::: indent
-Happening: *”En till synes oförberedd föreställning eller händelse, ibland med syfte att fååskådarna att delta.”*
+Happening: *”En till synes oförberedd föreställning eller händelse, ibland med syfte att få åskådarna att delta.”*
 :::
 
 [yt-video][https://www.youtube.com/watch?v=728TN0iC4RQ]
@@ -217,23 +217,23 @@ Sportminne från OS -68: Jag följer tävlingarna på tv. Det är dags för höj
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/50.png)
 
-En av de följande affischerna har texten ”GUDÄR INTE ALLS FÖDD PÅEN TORSDAG. HANÄR FÖDD PÅEN ONSDAG. PRECIS SOM JAG”. Texten illustreras av en Joker.
+En av de följande affischerna har texten ”GUD ÄR INTE ALLS FÖDD PÅ EN TORSDAG. HAN ÄR FÖDD PÅ EN ONSDAG. PRECIS SOM JAG”. Texten illustreras av en Joker.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/141.png)
 
-När han i oktober sätter upp en affisch med en lösnäsa och texten ”VI HAR TA ME ´ FAN DOM POLITIKER VI FÖRTJÄNAR”plockas den ner klockan halvtvå på natten och kontraktet bryts. SL:s chef är rädd för att nån kan tro att det är politisk propaganda och sånt får inte förekomma i t-banan.
+När han i oktober sätter upp en affisch med en lösnäsa och texten ”VI HAR TA ME ´ FAN DOM POLITIKER VI FÖRTJÄNAR” plockas den ner klockan halvtvå på natten och kontraktet bryts. SL:s chef är rädd för att nån kan tro att det är politisk propaganda och sånt får inte förekomma i t-banan.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/51.png)
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/51A.png)
 
-Carsten har ocksåsin första separatutställning på Moderna Museet. Den heter”*Nekropolis*”och består av målningar och olika objekt.
+Carsten har också sin första separatutställning på Moderna Museet. Den heter ”*Nekropolis*” och består av målningar och olika objekt.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/146.png)
 
 Klargörande 1 (inför det som komma skall):
 ::: indent
-Jag har aldrig varit en del av den finkulturella sfären i Sverige, alltid varit obekväm på dom avlutade planken i salongerna. Det sjaskiga är min domän. Det plumpa och puerila. Övermodet och det distanslösa. Den storvulna extasen. Artaud, igen. Jag har svårt för det finstilta. Välformulerade människor gör mig nervös och över driven, det belevade gör mig osäker och snar till alkohol. Jag lider gravt av misto (ett av mindervärdighetskomplex underminerat storhetsvansinne), slår ständigt mellan själv för akt och hybris och sugs till det aparta.
+Jag har aldrig varit en del av den finkulturella sfären i Sverige, alltid varit obekväm på dom avlutade planken i salongerna. Det sjaskiga är min domän. Det plumpa och puerila. Övermodet och det distanslösa. Den storvulna extasen. Artaud, igen. Jag har svårt för det finstilta. Välformulerade människor gör mig nervös och överdriven, det belevade gör mig osäker och snar till alkohol. Jag lider gravt av misto (ett av mindervärdighetskomplex underminerat storhetsvansinne), slår ständigt mellan självförakt och hybris och sugs till det aparta.
 :::
 
 ::: indent
@@ -249,7 +249,7 @@ Det fel.
 :::
 
 ::: indent
-Till att tänja på alla gränser som går, förädla effektsökeriets banala konst, att till varje pris provocera, vända upp och ner på allt som går. Under många år reagerar jag reflexmässigt men konsekvent utifrån devisen”bit den hand som föder dig”. Det krånglar till mycket. Jag kallas *rabulist*, *folkhemsterrorist*, *hädelsens härförare* (!) och *smaklöshetens mästare*, epitet som jag sorglöst koketterar med.
+Till att tänja på alla gränser som går, förädla effektsökeriets banala konst, att till varje pris provocera, vända upp och ner på allt som går. Under många år reagerar jag reflexmässigt men konsekvent utifrån devisen ”bit den hand som föder dig”. Det krånglar till mycket. Jag kallas *rabulist*, *folkhemsterrorist*, *hädelsens härförare* (!) och *smaklöshetens mästare*, epitet som jag sorglöst koketterar med.
 :::
 
 ::: indent
@@ -258,7 +258,7 @@ Det är nu det börjar, på riktigt.
 <!-- PAGE 44 END -->
 
 <!-- PAGE 45 START -->
-Carsten har köpt en stencilapparat och startat förlaget ”*Vargen*”*. * Jag har tillbringat ett antal veckor som gäst i ett kollektiv uppe på Rödön i Jämtland. I gårdens tokstuga har jag gått igenom mina tusen dagboksanteckningar, ”de bruna böckernas universum”, sovrat, bearbetat, fogat samman. Resultat har blivit en lång uppbruten prosatext med illustrationer från min inre bildvärld.
+Carsten har köpt en stencilapparat och startat förlaget ”*Vargen*”. Jag har tillbringat ett antal veckor som gäst i ett kollektiv uppe på Rödön i Jämtland. I gårdens tokstuga har jag gått igenom mina tusen dagboksanteckningar, ”de bruna böckernas universum”, sovrat, bearbetat, fogat samman. Resultat har blivit en lång uppbruten prosatext med illustrationer från min inre bildvärld.
 ::: indent
 En bok.
 :::
@@ -271,7 +271,7 @@ Jag ger den titeln ”*Förbjudet att luta sig ut genom huvudet*”. Titeln allu
 
 ::: poem
 **mina händer håller om dina**
-**nån har tömt ut oss **
+**nån har tömt ut oss**
 **i skuggan av ett sammanbrott**
 **vi huttrar**
 **och ingen erbjuder oss lä**
@@ -321,22 +321,22 @@ Boken avslutas med en teckning av Carsten.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/54.png)
 
-Vackraste minnet från Rödön: Jag blir kär i en av kvinnorna i kollektivet. Tove. Hennes intellekt och distanserade attityd är våldsamt attraktivt -  en spännande kvinna med magnifik integritet. Dessutom är vårt förflutna tämligen analogt: barn som brutit sig loss och skapat egna villkor.
+Vackraste minnet från Rödön: Jag blir kär i en av kvinnorna i kollektivet. Tove. Hennes intellekt och distanserade attityd är våldsamt attraktivt - en spännande kvinna med magnifik integritet. Dessutom är vårt förflutna tämligen analogt: barn som brutit sig loss och skapat egna villkor.
 ::: indent
 Tove blir min andra grundpelare i livet.
 :::
 
 ::: indent
-Vi kommer att vara tillsammans i artonår och fåtvåälskade barn.
+Vi kommer att vara tillsammans i arton år och få två älskade barn.
 :::
 
 Minne från försäljningen av min bok: I avsaknad av gängse distributionskanaler säljer jag boken på Stockholms gator. Utanför NK (vår tidigare ”samarbetspartner”) ställer jag mig intill huvudentrén med en låda på magen och saluför boken. Det väcker ett visst intresse (tv dyker upp andra dan och gör ett ”kulturinslag” om det).
 ::: indent
-Efter en stund ombeds jag av en anställd påvaruhuset att följa med upp till direktionsavdelningen. Där framför en mycket seriös man med glesaögon förtäckta hot i den händelse jag inte avlägsnar mig från entrén. Jag hävdar att min produkt knappast konkurrerar med NK:s utbud, en ironi som går mannen förbi. Jag påpekar också att vi lever i ett fritt samhälle - ett eventuellt närings för bud kan knappast omfatta direkt för säljning av dikter på gatan.
+Efter en stund ombeds jag av en anställd på varuhuset att följa med upp till direktionsavdelningen. Där framför en mycket seriös man med glesa ögon förtäckta hot i den händelse jag inte avlägsnar mig från entrén. Jag hävdar att min produkt knappast konkurrerar med NK:s utbud, en ironi som går mannen förbi. Jag påpekar också att vi lever i ett fritt samhälle - ett eventuellt näringsförbud kan knappast omfatta direktförsäljning av dikter på gatan.
 :::
 
 ::: indent
-Jagåtervänder till mitt säljställe och bjuder ut min bok utan fortsatta störningar.
+Jag återvänder till mitt säljställe och bjuder ut min bok utan fortsatta störningar.
 :::
 
 ![Ordet är ute.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/55.jpg)
@@ -344,7 +344,7 @@ Jagåtervänder till mitt säljställe och bjuder ut min bok utan fortsatta stö
 ::: part
 :::
 
-En dag får jag en intressant bok av en väninna. Denär skriven av den amerikanske psykologen Arthur Janov och heter *”Primalskriket”**. * Huvudsakligen handlar den om förträngning, att orsaken till psykiska problem beror på saker man har förträngt i barndomen. Janov hävdar att hans primalterapi kan lösa problemen. Utan att uppleva mig som direkt psykiskt sjuk slukar jag ändå boken, med tanke på alla svackor jag har från barndomen.
+En dag får jag en intressant bok av en väninna. Den är skriven av den amerikanske psykologen Arthur Janov och heter *”Primalskriket”*. Huvudsakligen handlar den om förträngning, att orsaken till psykiska problem beror på saker man har förträngt i barndomen. Janov hävdar att hans primalterapi kan lösa problemen. Utan att uppleva mig som direkt psykiskt sjuk slukar jag ändå boken, med tanke på alla svackor jag har från barndomen.
 ::: indent
 Det hjälper inte så mycket.
 :::
@@ -353,14 +353,14 @@ Det hjälper inte så mycket.
 En annan som slukas av Janovs teorier är John Lennon. Förmodligen är hans berömda och smärtsamma låt *”Mother”* en direkt effekt av terapin.
 :::
 
-Många år senare plockar jag upp Janovs primalskriksteorier i en scen i tv-serien* “Graven”*:
+Många år senare plockar jag upp Janovs primalskriksteorier i en scen i tv-serien *”Graven”*:
 
 [yt-video][https://www.youtube.com/watch?v=allrD1_vbOs]
 
 ::: part
 :::
 
-Det häråret startar också en tidskrift som heter “*Folket i Bild/Kulturfront*”, med ett antal profilerade skribenter. Jan Guillou, Jan Myrdal, Peter Bratt med flera. Tidskriften får ett rejält scoo påret efter med det som kallas “IB-affären”- man avslöjar att det socialdemokratiska partiet har en egen hemlig underrättelseorganisation som bland annatägnar sigåt att registrera vänstersympatisörer, främst”kommunister”. Avslöjandet renderar författarna Guillou och Bratt fängelsestraff.
+Det här året startar också en tidskrift som heter ”*Folket i Bild/Kulturfront*”, med ett antal profilerade skribenter. Jan Guillou, Jan Myrdal, Peter Bratt med flera. Tidskriften får ett rejält scoo påret efter med det som kallas ”IB-affären” - man avslöjar att det socialdemokratiska partiet har en egen hemlig underrättelseorganisation som bland annat ägnar sig åt att registrera vänstersympatisörer, främst ”kommunister”. Avslöjandet renderar författarna Guillou och Bratt fängelsestraff.
 <!-- PAGE 46 END -->
 
 <!-- PAGE 47 START -->
@@ -371,7 +371,7 @@ Jag medverkar i tidningen 1988 med texten *”Skrattar bäst som skrattar sist.�
 ::: part
 :::
 
-Sen någraår ingår jag i en musikgrupp som heter ”*Sergeant Honolulu Double Fucking Five*”. Gruppen består av fem medlemmar och är en utlöpare från gymnasietiden på Lidingö. Själv spelar jag gitarr, skriver texter och sjunger. Gruppen framträder på olika pubar och musikscener i Stockholm under flera år. Främst påvispråmen Storken och Mosebacke Etablissemang. Vårt musikaliska utbud består till stor del av satiriska pastischer på olika musikgenrer. Bland annat gör vi en version av den populära hawaianska slangdängan ”*Puti Puti*”. En av våra sånger, ”*Små blå duvor*” tävlar på Svensktoppen.
+Sen några år ingår jag i en musikgrupp som heter ”*Sergeant Honolulu Double Fucking Five*”. Gruppen består av fem medlemmar och är en utlöpare från gymnasietiden på Lidingö. Själv spelar jag gitarr, skriver texter och sjunger. Gruppen framträder på olika pubar och musikscener i Stockholm under flera år. Främst på vispråmen Storken och Mosebacke Etablissemang. Vårt musikaliska utbud består till stor del av satiriska pastischer på olika musikgenrer. Bland annat gör vi en version av den populära hawaianska slangdängan ”*Puti Puti*”. En av våra sånger, ”*Små blå duvor*” tävlar på Svensktoppen.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/57.png)
 
@@ -386,18 +386,18 @@ Skivproducenten Gert Palmqvist spelar in en lp med oss på Metronome.
 ::: part
 :::
 
-Det häråret hittar Carsten en annons från Försvarsmakten som kommer att fåföljdverkningar för både honom och mig. Främst för honom.
+Det här året hittar Carsten en annons från Försvarsmakten som kommer att få följdverkningar för både honom och mig. Främst för honom.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/59.png)
 
-Det är en annons som förklarar hur man ska agera i händelse av ett atombombsanfall. Om man bär hatt, vilket man förutses göra, ska man vika ner brättet för att skyddaögonen. Bilden av mannen med hatten kommer att bli en livslång symbol för Carsten, varierad och använd i otaliga variationer. Främst i hans egna verk, men ocksåi våra gemensamma. Till exempel Kulturmagasinet Vargen.
+Det är en annons som förklarar hur man ska agera i händelse av ett atombombsanfall. Om man bär hatt, vilket man förutses göra, ska man vika ner brättet för att skydda ögonen. Bilden av mannen med hatten kommer att bli en livslång symbol för Carsten, varierad och använd i otaliga variationer. Främst i hans egna verk, men också i våra gemensamma. Till exempel Kulturmagasinet Vargen.
 ::: indent
 För att försäkra sig om bilden tar han patent på den.
 :::
 
 ![Lupus Ultra](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/153.png)
 
-Redan sammaår dyker hattmannen upp i en stor målning av Carsten.
+Redan samma år dyker hattmannen upp i en stor målning av Carsten.
 
 ![Vargmålningen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/60.png)
 
@@ -436,7 +436,7 @@ Carsten ler inte.
 :::
 
 ::: indent
-Den 28 maj 1973 (på Mors Dag) avhålls i Gamla Riksdagshuset i Stockholm en ”poesimanifestation”. Ett antal speciellt utvalda poeter läser på en speciellt utmätt tid sin speciellt anpassade poesi för, huvudsakligen, speciellt anpassade lyssnare. Ett sagolikt självmord på ett förgånget salongsnöje. Ett motbjudande sätt att slicka arsel på ett högt kulturellt plan. Anser Carsten, jag och Ove Enervald. Under ”manifestationen”gör vi vår första gemensamma kulturaktion. Mellan tvåetablerade poeter tränger jag mig upp påpodiet och läser upp ett i all hast frampiskat manifest som vi i all enkelhet kallar”*MORS DAGS-MANIFESTET*”. Samtidigt kliver Ove upp på scenen, blåser upp en rosa plastgitarr och sjunger den välkända Stones-låten ”*Under my Thumb*”.
+Den 28 maj 1973 (på Mors Dag) avhålls i Gamla Riksdagshuset i Stockholm en ”poesimanifestation”. Ett antal speciellt utvalda poeter läser på en speciellt utmätt tid sin speciellt anpassade poesi för, huvudsakligen, speciellt anpassade lyssnare. Ett sagolikt självmord på ett förgånget salongsnöje. Ett motbjudande sätt att slicka arsel på ett högt kulturellt plan. Anser Carsten, jag och Ove Enervald. Under ”manifestationen” gör vi vår första gemensamma kulturaktion. Mellan två etablerade poeter tränger jag mig upp på podiet och läser upp ett i all hast frampiskat manifest som vi i all enkelhet kallar ”*MORS DAGS-MANIFESTET*”. Samtidigt kliver Ove upp på scenen, blåser upp en rosa plastgitarr och sjunger den välkända Stones-låten ”*Under my Thumb*”.
 :::
 <!-- PAGE 48 END -->
 
@@ -475,14 +475,14 @@ Från en av läktarna lyckas Carsten kasta ner 600 röda lösnäsor i plast öve
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/65.png)
 
-Efter den fem minuter långa aktionen försvinner vi lika osynligt som vi dök upp. Plastgitarren skänker vi till den förvirrade mötesord för anden Sandro Key-Åberg.
+Efter den fem minuter långa aktionen försvinner vi lika osynligt som vi dök upp. Plastgitarren skänker vi till den förvirrade mötesordföranden Sandro Key-Åberg.
 
 ::: part
 :::
 
-Nu börjar ett relativt hektisktår. 1974. Jag ger ut min andra bok, Carsten och jag startar Kulturmagasinet Vargen, gör ett par konstmappar och ställer till med en skandalartad kulturaktion i New York.
+Nu börjar ett relativt hektiskt år. 1974. Jag ger ut min andra bok, Carsten och jag startar Kulturmagasinet Vargen, gör ett par konstmappar och ställer till med en skandalartad kulturaktion i New York.
 ::: indent
-Jag får ocksåmin första dotter: Sari, med Tove. Ett varmt och väldigt efterlängtat ljus i det ständigt pågående stångandet med omvärlden. Jag är fortfarande en flipperkula, men nioår mognareän förra faderskapet. Familjen vill ut från stan och vi bosätter oss i en gammal lanthandel i Ekskogen, längs Roslagsbanan.
+Jag får också min första dotter: Sari, med Tove. Ett varmt och väldigt efterlängtat ljus i det ständigt pågående stångandet med omvärlden. Jag är fortfarande en flipperkula, men nio år mognare än förra faderskapet. Familjen vill ut från stan och vi bosätter oss i en gammal lanthandel i Ekskogen, längs Roslagsbanan.
 :::
 
 ::: indent
@@ -490,7 +490,7 @@ En familj som vill vara en familj.
 :::
 
 ::: indent
-Minne från Ekskogen 1: Jag är kräftälskare och har fiskat dessa kräldjur under min ungdoms somrar i Åkersberga. Nu bor vi intill ett vattendrag som kan härledas till vikingatiden, en smalåsom ringlar utöver böndernas fält på andra sidan järnvägen.
+Minne från Ekskogen 1: Jag är kräftälskare och har fiskat dessa kräldjur under min ungdoms somrar i Åkersberga. Nu bor vi intill ett vattendrag som kan härledas till vikingatiden, en smal å som ringlar ut över böndernas fält på andra sidan järnvägen.
 :::
 
 ::: indent
@@ -498,15 +498,15 @@ Fylld med kräftor, visar det sig.
 :::
 
 ::: indent
-När tiden är inne smyger vi ut på nätterna och tjuvlägger burar längs en försvarlig del avån. Det ger god fångst och stärker min uppfattning att stulen frukt smakar bäst. Dessutom finns det en sällsam magi i att röra sig i beckmörker med en smal ljusstråle framför stövlarna, medveten om att det när som helst kan dyka upp en gestalt med ett eller annat vapen, beredd att försvara sina fiskevatten.
+När tiden är inne smyger vi ut på nätterna och tjuvlägger burar längs en försvarlig del av ån. Det ger god fångst och stärker min uppfattning att stulen frukt smakar bäst. Dessutom finns det en sällsam magi i att röra sig i beckmörker med en smal ljusstråle framför stövlarna, medveten om att det när som helst kan dyka upp en gestalt med ett eller annat vapen, beredd att försvara sina fiskevatten.
 :::
 
 ::: indent
-Första natten vi vittjar drar vi upp en väldigt tung bur, upphetsade, den måste vara proppfull med kräftor! Det är den inte, däremot innehåller den en stor död mink, fångad och dränkt. Med tanke påminkens hänsynslösa rovjakt påbåde fåglar och kräftor är det ingenting vi sörjer.
+Första natten vi vittjar drar vi upp en väldigt tung bur, upphetsade, den måste vara proppfull med kräftor! Det är den inte, däremot innehåller den en stor död mink, fångad och dränkt. Med tanke på minkens hänsynslösa rovjakt på både fåglar och kräftor är det ingenting vi sörjer.
 :::
 
 ::: indent
-Minne från Ekskogen 2: Vårt sovrum ligger på övervåningen, vägg i vägg med en tom och över given bönesal. Exakt samma minutslag varje natt, strax efter tolv, börjar det skallra på andra sidan sovrumsväggen, plåtskaller. Från bönesalen. Och skallra högt. Det pågår i några minuter innan det tystnar. Varken Tove eller jag är belastade med vidskepliga drag och gör alla dom rationella undersökningar vi kan. Det leder ingenstans. Skallrandet lever sitt eget liv och fortgår.
+Minne från Ekskogen 2: Vårt sovrum ligger på övervåningen, vägg i vägg med en tom och övergiven bönesal. Exakt samma minutslag varje natt, strax efter tolv, börjar det skallra på andra sidan sovrumsväggen, plåtskaller. Från bönesalen. Och skallra högt. Det pågår i några minuter innan det tystnar. Varken Tove eller jag är belastade med vidskepliga drag och gör alla dom rationella undersökningar vi kan. Det leder ingenstans. Skallrandet lever sitt eget liv och fortgår.
 :::
 
 ::: indent
@@ -528,30 +528,30 @@ Men Carsten gör ett vackert dadaistiskt omslag.
 ::: part
 :::
 
-Carsten och jag bjuds in till fest på Moderna Museet. En tillställning med internationella förtecken. En bit in i drickandet stöter vi ihop med den amerikanske dokumentärfilmaren och Vietnamaktivisten Emilie  d`Antonio. Han är världsberömd för den klassiska dokumentärslakten av Richard Nixon: ”*Milhouse - a white comedy*”.
+Carsten och jag bjuds in till fest på Moderna Museet. En tillställning med internationella förtecken. En bit in i drickandet stöter vi ihop med den amerikanske dokumentärfilmaren och Vietnamaktivisten Emilie d`Antonio. Han är världsberömd för den klassiska dokumentärslakten av Richard Nixon: ”*Milhouse - a white comedy*”.
 
 ![America first!](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/68.png)
 
-Vi samtalar länge och yvigt. d`Antonio är upprörd över ”träkuken”Pinochet, generalen som leder en militärjunta i Chile och har torkade människoöron i en skål påskrivbordet. Som hundgodis.
+Vi samtalar länge och yvigt. d`Antonio är upprörd över ”träkuken” Pinochet, generalen som leder en militärjunta i Chile och har torkade människoöron i en skål på skrivbordet. Som hundgodis.
 ::: indent
 Jag gillar d`Antonios attityd.
 :::
 
 ::: indent
-Sent på natten mynnar vårt samtal ut i ett gemensamt dadaprojekt: vi ska skapa en fiktiv rysk konstnär med namnet”*Maximoff*”. Carsten och jag ska framställa några verk av ”*Maximoff*”som d`Antonio ska prångla ut i New York.
+Sent på natten mynnar vårt samtal ut i ett gemensamt dadaprojekt: vi ska skapa en fiktiv rysk konstnär med namnet ”*Maximoff*”. Carsten och jag ska framställa några verk av ”*Maximoff*” som d`Antonio ska prångla ut i New York.
 :::
 
 ::: indent
-Det är delvis en reaktion påkonstmarknadens korrupta verksamhet.
+Det är delvis en reaktion på konstmarknadens korrupta verksamhet.
 :::
 
-d`Antonioåker till USA och Carsten och jag producerar en konstmapp med 16 screenporträtt av Andy Warhol i olika färger, signerade”*Maximoff*”.
+d`Antonio åker till USA och Carsten och jag producerar en konstmapp med 16 screenporträtt av Andy Warhol i olika färger, signerade ”*Maximoff*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/69.jpg)
 
-d`Antonio får konstmappen, jobbar hårt med sina kontakter, men lyckas aldrig fåporträtten utställda i New York.
+d`Antonio får konstmappen, jobbar hårt med sina kontakter, men lyckas aldrig få porträtten utställda i New York.
 ::: indent
-Carsten gör ocksånågra mycket vackra hommage till amerikanska popkonstnärer i akvarell/collage-teknik som signeras ”*Maximoff*”.
+Carsten gör också några mycket vackra hommage till amerikanska popkonstnärer i akvarell/collage-teknik som signeras ”*Maximoff*”.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/70.png)
@@ -562,9 +562,9 @@ Carsten gör ocksånågra mycket vackra hommage till amerikanska popkonstnärer 
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/73.png)
 
-Strax efteråtåker vi till New York för att träffa d`Antonio. Han har lovat att skriva en dagbok i den tidskrift vi planerar att ge ut senare under året, Kulturmagasinet Vargen. Under vistelsen gör vi vår andra större kulturaktion.
+Strax efteråt åker vi till New York för att träffa d`Antonio. Han har lovat att skriva en dagbok i den tidskrift vi planerar att ge ut senare under året, Kulturmagasinet Vargen. Under vistelsen gör vi vår andra större kulturaktion.
 ::: indent
-PåCarl XVI:s födelsedag lyckas vi ta oss in på svenska konsulatet. Vi hävdar att vi är svenska kulturarbetare med anknytning till Moderna Museet. Under det mingel som pågår där bestämmer vi oss för att stjäla det stora porträtt av Konungen som står uppställd på en svart flygel. Jag sätter mig och börjar spela lite blues, folk runt omkring vänder sig bort, Carsten smugglar ner porträttet i en stor plastpåse.
+På Carl XVI:s födelsedag lyckas vi ta oss in på svenska konsulatet. Vi hävdar att vi är svenska kulturarbetare med anknytning till Moderna Museet. Under det mingel som pågår där bestämmer vi oss för att stjäla det stora porträtt av Konungen som står uppställd på en svart flygel. Jag sätter mig och börjar spela lite blues, folk runt omkring vänder sig bort, Carsten smugglar ner porträttet i en stor plastpåse.
 :::
 
 ::: indent
@@ -574,7 +574,7 @@ Vi skänker porträttet till d`Antonio samma kväll, som under sin revolutionär
 
 <!-- PAGE 51 START -->
 ::: indent
-I gryningen påföljande dag smyger hans hustru upp till konsulatets port och hänger tillbaka porträttet påytterdörren.
+I gryningen påföljande dag smyger hans hustru upp till konsulatets port och hänger tillbaka porträttet på ytterdörren.
 :::
 
 ::: indent
@@ -583,25 +583,25 @@ Hon delar uppenbarligen inte sin mans vurm för monarkin.
 
 ![Stora idioter graveras på små frimärken.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/74.png)
 
-Viåtervänder hem och startar arbetet på Kulturmagasinet Vargen, tillsammans med Carstens fru Amis.
+Vi återvänder hem och startar arbetet på Kulturmagasinet Vargen, tillsammans med Carstens fru Amis.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/900.png)
 
-Tanken är att komma ut med åtta nummer på tvåår. För att ge tidskriften en viss etablerad tyngd ber vi konstkritikern Olle Granath att ingåi redaktionen. Han tackar ja. För att ocksåge tidskriften en patafysisk anstrykning ber vi den finske konstnären JO Mallander att ingå. Även han tackar ja.
+Tanken är att komma ut med åtta nummer på två år. För att ge tidskriften en viss etablerad tyngd ber vi konstkritikern Olle Granath att ingå i redaktionen. Han tackar ja. För att också ge tidskriften en patafysisk anstrykning ber vi den finske konstnären JO Mallander att ingå. Även han tackar ja.
 
-Parentes: Mallander har ett parår innan gett ut en vinylsingel med en inspelning av den senaste omröstningen i det finska parlamentet, “*Extended Play*”. En rösträknare läser upp alla röstlappar som avgetts. Påsamtliga står “Kekkonen”. Efter ett tag börjar talmannen, förmodligen omedvetet, betona Kekkonen på alla upptänkliga sätt för att bryta monotonin, mot slutet av skivan nästan viskar han fram namnet med mycket hes röst.
+Parentes: Mallander har ett par år innan gett ut en vinylsingel med en inspelning av den senaste omröstningen i det finska parlamentet, “*Extended Play*”. En rösträknare läser upp alla röstlappar som avgetts. På samtliga står “Kekkonen”. Efter ett tag börjar talmannen, förmodligen omedvetet, betona Kekkonen på alla upptänkliga sätt för att bryta monotonin, mot slutet av skivan nästan viskar han fram namnet med mycket hes röst.
 
 [yt-video][https://www.youtube.com/watch?v=QcRQNA1GZrc&t=2s]
 
 Det är en rolig och politiskt lärorik inspelning.
 
-Vi ber ocksåkonstnären Dick Bengtsson att ingåi redaktionen, till vilket han samtycker (han är känd för sina egendomligt inplacerade hakkors i idylliska landskap).
+Vi ber också konstnären Dick Bengtsson att ingå i redaktionen, till vilket han samtycker (han är känd för sina egendomligt inplacerade hakkors i idylliska landskap).
 ::: indent
-Tidskriftens idéär mycket enkel: allt material som sänds till oss ska publiceras. Såväl text som bild. Det kallas till ämpad tryckfrihet. Däremot förbehåller sig Carsten och jag rätten att bearbeta materialet efter våra intentioner. Det kallas konstnärlig frihet. I korsningen mellan till ämpad tryckfrihet och konstnärlig frihet uppstår Kulturmagasinet Vargen.
+Tidskriftens idé är mycket enkel: allt material som sänds till oss ska publiceras. Såväl text som bild. Det kallas tillämpad tryckfrihet. Däremot förbehåller sig Carsten och jag rätten att bearbeta materialet efter våra intentioner. Det kallas konstnärlig frihet. I korsningen mellan tillämpad tryckfrihet och konstnärlig frihet uppstår Kulturmagasinet Vargen.
 :::
 
 ::: indent
-Via redaktionens kontaktnät och ett visst massmedialt intresse för ”underground”och”stenciltidskrifter”sprids informationen om produkten. Gensvaret blir över väldigande. Från såväl ytterligt etablerade kulturpersonligheter till totalt”okända” människor. Materialet sträcker sig från vykort och kortromaner via dikter, artiklar, konstverk och serier till manifest och hotelsebrev.
+Via redaktionens kontaktnät och ett visst massmedialt intresse för ”underground” och ”stenciltidskrifter” sprids informationen om produkten. Gensvaret blir överväldigande. Från såväl ytterligt etablerade kulturpersonligheter till totalt ”okända” människor. Materialet sträcker sig från vykort och kortromaner via dikter, artiklar, konstverk och serier till manifest och hotelsebrev.
 :::
 
 ::: indent
@@ -624,7 +624,7 @@ Fotnot: Fjärtarnas Konung heter Joseph Pujol, lever mellan 1857 och 1945 och ä
 
 ![Fjärtarnas Konung.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/78.png)
 
-Vargens redigeringsprincip bygger på en blandning av respekt för det enskilda bidraget och en strävan att skapa ett nytt uttryck. För oss är tidskriften ett sätt att via andra människors materialåstadkomma en förskjutning i det till synes sedda - genom att kombinera enkelt och svårt på ett för oss attraktivt och fruktbart sätt och därigenom låta vårt konstnärliga credo exponeras genom andra.
+Vargens redigeringsprincip bygger på en blandning av respekt för det enskilda bidraget och en strävan att skapa ett nytt uttryck. För oss är tidskriften ett sätt att via andra människors material åstadkomma en förskjutning i det till synes sedda - genom att kombinera enkelt och svårt på ett för oss attraktivt och fruktbart sätt och därigenom låta vårt konstnärliga credo exponeras genom andra.
 ::: indent
 Vargen är i grunden ett enda långt collage.
 :::
@@ -642,7 +642,7 @@ Vargen är i grunden ett enda långt collage.
 
 Tidskriften trycks på en stencilapparat i Carstens garage och häftas av oss personligen. Senare trycks några nummer på ett offset-tryckeri i grannskapet (det sista trycks på en stencilapparat i Moderna Museets Verkstad).
 ::: indent
-Nummer 1, 2, 3 och 5 är en konkret till ämpning av tidskriftens grundidé: allt insänt material redovisas, bearbetat och koncentrerat, sammantaget ger det en tämligen explosiv bild av tidens kommunikationsbehov - kaos klätt i konst.
+Nummer 1, 2, 3 och 5 är en konkret tillämpning av tidskriftens grundidé: allt insänt material redovisas, bearbetat och koncentrerat, sammantaget ger det en tämligen explosiv bild av tidens kommunikationsbehov - kaos klätt i konst.
 :::
 
 ::: indent
@@ -668,7 +668,7 @@ Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi e
 
 **     Vi ser hur dessa biologiska tragedier stirrar in i sin mänskliga devalvering med ett uttryck av dövstum beundran - husse har slängt åt dom ett gott stycke kött i år och piskan har förvandlats till ett trollspö. Vi kan se den statiska människan dompteras flockvis via förföriska folkrörelser och förment trygghet, om nätterna hör vi ekot av hennes självmord - mänsklig gemenskap är den död dröm.**
 
-**     Den statiska människan är ett deprimerande exempel på världens vanvett. Ett hjälplöst offer för en grym och välplanerad prägling, framstansad vid försvarslös ålder och livslångt hämmande. En prägling som målmedvetet utrotar det livsviktiga självförtroendet via en ögda centraldikterade utbildningssystem - visionen om kunskap som en väg till mänsklig frigörelse och individuellt självförverkligande missbrukas intensivt. Respekten för den enskilda människans möjligheter och resurser spolieras av ekonomisk cynism och ideologisk korrumption.**
+**     Den statiska människan är ett deprimerande exempel på världens vanvett. Ett hjälplöst offer för en grym och välplanerad prägling, framstansad vid försvarslös ålder och livslångt hämmande. En prägling som målmedvetet utrotar det livsviktiga självförtroendet via enögda centraldikterade utbildningssystem - visionen om kunskap som en väg till mänsklig frigörelse och individuellt självförverkligande missbrukas intensivt. Respekten för den enskilda människans möjligheter och resurser spolieras av ekonomisk cynism och ideologisk korrumption.**
 
 **      Den undermedvetet förankrade förnimmelseförmåga, den genuina sensibilitet och ofläckade klarsyn som är barnets unika och oersättliga kapital, plundras blint. Självförverkligande ersätts med neurotisk konkurrenshysteri och förnedrande karriärideal. Det är strebrarnas och rövslickarnas gyllene tidevarv. Det är dom känsligas undergång för dom neutralas succé.**
 
@@ -682,7 +682,7 @@ Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi e
 
 **     Den frigjorda skaparkraften måste lära sig dom nya instrumenten för att spränga dom gamla målen. Måste göra tekniken visionär, inte visionen teknisk. Måste slita mikroskopen ur ögonen på forskarna och lägga beslag på alla anslag och all teori. Det gäller att göra språk av data, inte data av språk - framtiden tillhör dom som erövrar den!**
 
-**     I kampen för den individuella revolutionens förverkligande måste varje människa hålla fyrkanten rund och allvaret på avstånd. Det finns inga människor som vet mer än andra. Det finns inga människor som är före sin  tid, men massor som är efter - och tid är inte till salu!**
+**     I kampen för den individuella revolutionens förverkligande måste varje människa hålla fyrkanten rund och allvaret på avstånd. Det finns inga människor som vet mer än andra. Det finns inga människor som är före sin tid, men massor som är efter - och tid är inte till salu!**
 
 **     Kampen måste föras obesudlad av den akademiska förruttnelsen och den lismande statskulturen. Den skapande kraften är inget kulturellt luder i maktens sängar, inget dekorativt horeri. All avbildning är reaktionär, till sin rörelse retarderande. Den skapande kraftens innehåll heter kommunikation - den skapande kraftens form heter distribution (mediet skapar formen). Kom ihåg att nyheter är en handelsvara och månsten bara en myntfot!**
 
@@ -696,17 +696,17 @@ Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi e
 
 Kedjebrevet distribueras via Moderna Museets adressregister till stora delar av världen. Gensvaret blir massivt och finns sammanställt och redovisat i Vargen nummer 6. Ett i ordets sanna bemärkelse internationellt nummer - samtliga bidrag trycks i original rakt av. Från fem kontinenter.
 ::: indent
-Nummer 7 görs helt och hållet av Carsten och mig. Det är utformat som ett projekt för slag till Moderna Museet - vi vill avsluta tidskriften med en utställning på museet (såsker också, i samband med museets nyinvigning 1975).
+Nummer 7 görs helt och hållet av Carsten och mig. Det är utformat som ett projekt för slag till Moderna Museet - vi vill avsluta tidskriften med en utställning på museet (så sker också, i samband med museets nyinvigning 1975).
 :::
 
 ::: indent
-Nummer 8 tillverkas av besökarna påutställning. I museets Verkstad finns en stencilapparat uppställd och tillgång till A4-papper och ritmaterial. Carsten och jag svarar för omslag, bindning och distribution. Alla besökarnas bidrag trycks obearbetat. Längreän så kan vi inte komma i publicistisk frihet. Vilket var Vargens avsikt (och det vi egentligen villeåstadkomma flera år innan med vårt gatuprojekt “*Graffiti*”).
+Nummer 8 tillverkas av besökarna på utställning. I museets Verkstad finns en stencilapparat uppställd och tillgång till A4-papper och ritmaterial. Carsten och jag svarar för omslag, bindning och distribution. Alla besökarnas bidrag trycks obearbetat. Längre än så kan vi inte komma i publicistisk frihet. Vilket var Vargens avsikt (och det vi egentligen ville åstadkomma flera år innan med vårt gatuprojekt “*Graffiti*”).
 :::
 
 ::: part
 :::
 
-Dom häråren, mitten på 70-talet, förebådar min egen entréi orkanensöga.
+Dom här åren, mitten på 70-talet, förebådar min egen entré i orkanens öga.
 ::: indent
 Nackskruven.
 :::
@@ -725,7 +725,7 @@ Men innan dess hinner jag göra en del annat.
 
 En obekväm resa till Gran Canaria bland annat. Mina föräldrars relation har krisat ihop och Svea vill att jag kommer ner för att ”hjälpa till”.
 ::: indent
-Bakgrund: Driftiga Svea haröppnat ett eget parfymeri i Las Palmas, *”Sidemar”*. Otto och en kompanjon ger ut en tidning som heter: ”*Vad händer i Las Palmas?*”
+Bakgrund: Driftiga Svea har öppnat ett eget parfymeri i Las Palmas, *”Sidemar”*. Otto och en kompanjon ger ut en tidning som heter: ”*Vad händer i Las Palmas?*”
 :::
 
 ::: indent
@@ -733,15 +733,15 @@ Min syster har mer eller mindre lämnats vind för våg (återigen: vems behov g
 :::
 
 ::: indent
-Jagåker ner.
+Jag åker ner.
 :::
 
 ::: indent
-Jag vet inte vad som förväntas av mig. Jag har tagit studenten, det kanske är det? Eller såvill Svea bara ha nån att avlasta sig på.
+Jag vet inte vad som förväntas av mig. Jag har tagit studenten, det kanske är det? Eller så vill Svea bara ha nån att avlasta sig på.
 :::
 
 ::: indent
-Otto flyter runt och äter gambas al ajillo som han sköljer ner med iskyld campari. Till lunch. Svea klär upp sig, umgås med svenskkolonin och låter sig fotograferas med Jokkmokks-Jo k ke.
+Otto flyter runt och äter gambas al ajillo som han sköljer ner med iskyld campari. Till lunch. Svea klär upp sig, umgås med svenskkolonin och låter sig fotograferas med Jokkmokks-Jokke.
 :::
 
 ::: indent
@@ -763,7 +763,7 @@ Lyssnar på Svea: försöker vara pedagogisk.
 :::
 
 ::: indent
-Senåker jag hem.
+Sen åker jag hem.
 :::
 
 Obehaglig reflektion efteråt: Det är inte bra att uppleva sina föräldrar som hjälplösa, fångade i roller som inte angår mig.
@@ -771,26 +771,26 @@ Obehaglig reflektion efteråt: Det är inte bra att uppleva sina föräldrar som
 Det är lätt att lämna dom vind för våg.
 :::
 
-I backspegeln kanske det finns ett annat sätt att se på det, tvåhjälplösa föräldrar som ber sin son om hjälp ... det finns ett stråk av sorgsen kärlek i det.
+I backspegeln kanske det finns ett annat sätt att se på det, två hjälplösa föräldrar som ber sin son om hjälp ... det finns ett stråk av sorgsen kärlek i det.
 
 ::: part
 :::
 
-Landad i Sverige dyker jag in i den verklighet som är min. Jag sammanställer en omfångsrik antologi som heter “*Nya TiderNya Änglar*”.
+Landad i Sverige dyker jag in i den verklighet som är min. Jag sammanställer en omfångsrik antologi som heter “*Nya Tider Nya Änglar*”.
 
 ![Carstens svarta glödlampa.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/79.png)
 
-Den innehåller djupt personliga och mycket utlämnande intervjuer med fyra poeter: Eric Fylkeson, Bruno KÖijer, Per Lindgren och Margareta Renberg. Samt tvåmusiker: Mikael Wiehe och Bernt Staf.
+Den innehåller djupt personliga och mycket utlämnande intervjuer med fyra poeter: Eric Fylkeson, Bruno KÖijer, Per Lindgren och Margareta Renberg. Samt två musiker: Mikael Wiehe och Bernt Staf.
 ::: indent
-Mitt urval styrs dels av nyfikenhet påde poeter/sångare jag valt, dels känslan av att fånga nåt i flykten och försöka bevara en del av det till eftervärlden. Ett tidsdokument om sex unga människor, fångade i sin formulering av samtiden, sex individer utan inbördes relationer, utan gemensam ideologi, utan gemensamt poetiskt språk.
+Mitt urval styrs dels av nyfikenhet på de poeter/sångare jag valt, dels känslan av att fånga nåt i flykten och försöka bevara en del av det till eftervärlden. Ett tidsdokument om sex unga människor, fångade i sin formulering av samtiden, sex individer utan inbördes relationer, utan gemensam ideologi, utan gemensamt poetiskt språk.
 :::
 
 ::: indent
-Jag gör intervjuerna med bandspelare på olika ställen i Sverige. Mötena lämnar olika efterfrukt: Wiehe känner jag en frändskap med, inte bara på grund av vår malmöitiska bakgrund, vår uppskattning av Dylan, Wiehe har rak rygg. Vi kommer att samarbeta längre fram. Bernt Staf är slingrigare, ingen person jag kommer nära, trots att jag är djupt fascinerad av hans texter, hans förbrännande röst, inte olik den Dylanröst jag hörde i Teds Ströms pojkrum i början på 60-talet. Margareta Renbergälskar jag som manälskar en amfora, ett mycket skört krus från en svunnen tid, en poetisk anakronism med ett iskallt skalpellspråk (hon dör alldeles för tidigt). Fylkeson och Lindgren flyter ut en aning för mig, stannar inte kvar på samma sätt, båda är poeter med var sitt reservat, men personligen fäster det inte riktigt.
+Jag gör intervjuerna med bandspelare på olika ställen i Sverige. Mötena lämnar olika efterfrukt: Wiehe känner jag en frändskap med, inte bara på grund av vår malmöitiska bakgrund, vår uppskattning av Dylan, Wiehe har rak rygg. Vi kommer att samarbeta längre fram. Bernt Staf är slingrigare, ingen person jag kommer nära, trots att jag är djupt fascinerad av hans texter, hans förbrännande röst, inte olik den Dylanröst jag hörde i Teds Ströms pojkrum i början på 60-talet. Margareta Renberg älskar jag som man älskar en amfora, ett mycket skört krus från en svunnen tid, en poetisk anakronism med ett iskallt skalpellspråk (hon dör alldeles för tidigt). Fylkeson och Lindgren flyter ut en aning för mig, stannar inte kvar på samma sätt, båda är poeter med var sitt reservat, men personligen fäster det inte riktigt.
 :::
 
 ::: indent
-Bruno K (som bor i undervåningen i vårt hus i Ekskogen, intill pannrummet)är en helt annan historia.
+Bruno K (som bor i undervåningen i vårt hus i Ekskogen, intill pannrummet) är en helt annan historia.
 :::
 
 ::: indent
@@ -801,7 +801,7 @@ En ljudkassett med uppläsningar av poeterna bifogas boken som ges ut i form av 
 
 Såhär i efterhand visar projektet en del av Bo Cavefors mod och nyfikenhet - inte många förläggare skulle ge ut en Jiffypåse med poeter.
 
-Samtidigt har Carsten en separatutställning på Galleri Aronowitsch i Stockholm. På en av tavlorna har han sålt reklamplats till olika företag: Chiquita, Datsun, Telerent. Han målar deras annonser påduken och säljer som konst. Tavlan heter ”*Hela denna sida är kultur*.”
+Samtidigt har Carsten en separatutställning på Galleri Aronowitsch i Stockholm. På en av tavlorna har han sålt reklamplats till olika företag: Chiquita, Datsun, Telerent. Han målar deras annonser på duken och säljer som konst. Tavlan heter ”*Hela denna sida är kultur*.”
 ::: indent
 Intrikat.
 :::

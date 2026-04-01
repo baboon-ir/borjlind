@@ -7,20 +7,20 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1956–1968"
 ---
-Carsten har köpt en stencilapparat och startat förlaget ” *Vargen* ”*. * Jag har tillbringat ett antal veckor som gäst i ett kollektiv uppe på Rödön i Jämtland. I gårdens tokstuga har jag gått igenom mina tusen dagboksanteckningar, ” de bruna böckernas universum ”, sovrat, bearbetat, fogat samman. Resultat har blivit en lång uppbruten prosatext med illustrationer från min inre bildvärld.
+Carsten har köpt en stencilapparat och startat förlaget ”*Vargen*”. Jag har tillbringat ett antal veckor som gäst i ett kollektiv uppe på Rödön i Jämtland. I gårdens tokstuga har jag gått igenom mina tusen dagboksanteckningar, ”de bruna böckernas universum”, sovrat, bearbetat, fogat samman. Resultat har blivit en lång uppbruten prosatext med illustrationer från min inre bildvärld.
 ::: indent
 En bok.
 :::
 
 ::: indent
-Jag ger den titeln ” *Förbjudet att luta sig ut genom huvudet* ”. Titeln alluderar på dom varningsskyltar i metall som sitter vid alla kupéfönster på SJ. Carsten trycker boken, jag binder ihop den för hand med svarta sammetsband. Den har undertiteln ” *Läsebok för blottare* ”.
+Jag ger den titeln ”*Förbjudet att luta sig ut genom huvudet*”. Titeln alluderar på dom varningsskyltar i metall som sitter vid alla kupéfönster på SJ. Carsten trycker boken, jag binder ihop den för hand med svarta sammetsband. Den har undertiteln ”*Läsebok för blottare*”.
 :::
 
-![53.png](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/53.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/53.png)
 
 ::: poem
 **mina händer håller om dina**
-**nån har tömt ut oss **
+**nån har tömt ut oss**
 **i skuggan av ett sammanbrott**
 **vi huttrar**
 **och ingen erbjuder oss lä**
@@ -55,6 +55,10 @@ Jag ger den titeln ” *Förbjudet att luta sig ut genom huvudet* ”. Titeln al
 :::
 
 Boken innehåller mängder av vildsinta och aggressiva angrepp på den tillvaro jag lever i, osorterat och riktningslöst, min första cerebrala tömning.
+
+::: part
+:::
+
 ::: indent
 Det ska komma fler.
 :::

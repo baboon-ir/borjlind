@@ -7,9 +7,9 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1956–1968"
 ---
-Tanken på ett skivomslag styr in oss på ett helt nytt projekt. Jag har träffat en amerikansk vietnamdesertör under en tjurfestival i Pamplona. Ken. Han har bosatt sig i London och börjat producera musik. Vi håller kontakt. Carsten och jag vill utnyttja den kontakten. Vi skapar en bildpoesibok i lp-format, jag skriver ett antal sånger som vi spelar in på en demotejp i ett garage. Sång, piano och bongas. Titeln pålp-boken är ” *Inuti varje ögonblick finns en stillhet* ” (ettåterbruk ur ” *Den andra våldsamma döden* ”) och består av 24 illustrerade berättelser och 24 sånger.
+Tanken på ett skivomslag styr in oss på ett helt nytt projekt. Jag har träffat en amerikansk vietnamdesertör under en tjurfestival i Pamplona. Ken. Han har bosatt sig i London och börjat producera musik. Vi håller kontakt. Carsten och jag vill utnyttja den kontakten. Vi skapar en bildpoesibok i lp-format, jag skriver ett antal sånger som vi spelar in på en demotejp i ett garage. Sång, piano och bongas. Titeln på lp-boken är ”*Inuti varje ögonblick finns en stillhet*” (ett återbruk ur ”*Den andra våldsamma döden*”) och består av 24 illustrerade berättelser och 24 sånger.
 ::: indent
-Vi åker över till London med materialet. Ken ordnar en inspelningsstudio där demotejperna ska fålite bättre kostym. Jag sjunger in låtarna med engelska kompmusiker och får en utskällning av en kille som kallar sig T-Rex för att jag lägger hans gitarr påfel sätt mot ett bord.
+Vi åker över till London med materialet. Ken ordnar en inspelningsstudio där demotejperna ska få lite bättre kostym. Jag sjunger in låtarna med engelska kompmusiker och får en utskällning av en kille som kallar sig T-Rex för att jag lägger hans gitarr på fel sätt mot ett bord.
 :::
 
 ::: indent
@@ -29,7 +29,7 @@ Dimmig tid.
 :::
 
 ::: indent
-Minne från London: Vi går på Carnaby Street och inventerar det enorma utbudet av häftiga kläder. Allt riktat till den unga generationen. Färger och former är näst intill bedövande. Stockholm saknar fortfarande affärer på den här nivån. Jag köper en lång afghanpäls i brunt skinn, klädd med stripigt svart hår på insidan. Den luktar egendomligt (jag bär den senare i vår första kortfilm för tv, barnfilmen ” *Bobo* ”).
+Minne från London: Vi går på Carnaby Street och inventerar det enorma utbudet av häftiga kläder. Allt riktat till den unga generationen. Färger och former är näst intill bedövande. Stockholm saknar fortfarande affärer på den här nivån. Jag köper en lång afghanpäls i brunt skinn, klädd med stripigt svart hår på insidan. Den luktar egendomligt (jag bär den senare i vår första kortfilm för tv, barnfilmen ”*Bobo*”).
 :::
 
 ::: indent
@@ -42,11 +42,11 @@ Dom håller till på Abbey Road.
 :::
 
 ::: indent
-Vi ses i ett trångt rum. En anemisk skivbolagsman med fett hår pratar med Ken. Bakom ett skrivbord i hörnet sitter gitarristen George Harrison. Carsten och jag hänger inte riktig med i samtalet, det handlar om våra demotejper. Harrison griper in och förklarar: Våra texter är för negativa och destruktiva.
+Vi ses i ett trångt rum. En anemisk skivbolagsman med fett hår pratar med Ken. Bakom ett skrivbord i hörnet sitter gitarristen George Harrison. Carsten och jag hänger inte riktigt med i samtalet, det handlar om våra demotejper. Harrison griper in och förklarar: Våra texter är för negativa och destruktiva.
 :::
 
 ::: indent
-– Folk knegar hela dan i industrier och gruvor och skit och när dom kommer hem och lyssnar på en platta vill dom inte höra hur eländigt alltingär, det vet dom redan.
+– Folk knegar hela dan i industrier och gruvor och skit och när dom kommer hem och lyssnar på en platta vill dom inte höra hur eländigt allting är, det vet dom redan.
 :::
 
 ::: indent
@@ -58,7 +58,7 @@ Då.
 :::
 
 ::: indent
-Killarna gillar vårt material, vår idémed en lp-bok, våra låtar, men vill sätta in en engelsk författare och skriva om alla låttexterna. Mina texter. Jag är helt ointresserad av det.
+Killarna gillar vårt material, vår idé med en lp-bok, våra låtar, men vill sätta in en engelsk författare och skriva om alla låttexterna. Mina texter. Jag är helt ointresserad av det.
 :::
 
 ::: indent
@@ -66,7 +66,7 @@ I backspegeln kanske en onödig arrogans.
 :::
 
 ::: indent
-Vi söker istället upp grammofonbolaget CBS i London, presenterar lp-boken och får ett ekonomiskt hyfsat optionskontrakt påettår för att utarbeta materialet.
+Vi söker istället upp grammofonbolaget CBS i London, presenterar lp-boken och får ett ekonomiskt hyfsat optionskontrakt på ett år för att utarbeta materialet.
 :::
 
 ::: indent
@@ -74,7 +74,7 @@ Vi fullföljer inte projektet.
 :::
 
 ::: indent
-LP-boken publiceras aldrig (jag använder senare idén bok/lp till min roman ” *Persona Non Grata* ” 1977).
+LP-boken publiceras aldrig (jag använder senare idén bok/lp till min roman ”*Persona Non Grata*” 1977).
 :::
 
 ::: part

@@ -17,9 +17,8 @@
     }))
     .filter((row) => Number.isFinite(row.number));
 
-  const yearToggle = document.querySelector('[data-year-toggle]');
+  const yearLabel = document.querySelector('[data-year-label]');
   const footerIndicator = document.querySelector('[data-footer-center]');
-  const tocPanel = document.querySelector('[data-toc-panel]');
 
   let segmentPositions = [];
   let pagePositions = [];
@@ -29,9 +28,9 @@
   let reflowId = null;
 
   const setYearLabel = (segmentId) => {
-    if (!yearToggle) return;
+    if (!yearLabel) return;
     const match = segmentMeta.find((segment) => Number(segment.id) === Number(segmentId));
-    yearToggle.textContent = match?.label || 'Innehåll';
+    yearLabel.textContent = match?.label || '';
   };
 
   const binarySearchLastAtOrBefore = (list, targetY) => {
@@ -110,36 +109,8 @@
     });
   };
 
-  const openToc = () => {
-    if (!tocPanel) return;
-    tocPanel.classList.add('is-open');
-    tocPanel.setAttribute('aria-hidden', 'false');
-  };
-
-  const closeToc = () => {
-    if (!tocPanel) return;
-    tocPanel.classList.remove('is-open');
-    tocPanel.setAttribute('aria-hidden', 'true');
-  };
-
   const wireToc = () => {
-    if (!tocPanel) return;
-
-    yearToggle?.addEventListener('click', openToc);
-    document.querySelector('[data-toc-close]')?.addEventListener('click', closeToc);
-
-    tocPanel.querySelectorAll('[data-toc-segment]').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        const idx = Number.parseInt(btn.dataset.tocSegment || '', 10);
-        if (!Number.isFinite(idx)) return;
-
-        const target = document.getElementById(`segment-${idx}`);
-        if (target) {
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-        closeToc();
-      });
-    });
+    // TOC panel removed — navigation handled by site-nav sidebar
   };
 
   const wireReflowTriggers = () => {

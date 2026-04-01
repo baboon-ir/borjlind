@@ -1,11 +1,11 @@
 # J'accuse! Moderna Museet
 
 <!-- PAGE 56 START -->
-Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck “*Sjukdom är till salu*”. Under en balett för eställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
+Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck “*Sjukdom är till salu*”. Under en balett föreställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
 
 ![Formen är budskapet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/83.png)
 
-Ett intressant inslag i baletten är ett stort antal sköldpaddor som extremt långsamt rör sig över golvet med småtända lampor påsköldarna.
+Ett intressant inslag i baletten är ett stort antal sköldpaddor som extremt långsamt rör sig över golvet med småtända lampor på sköldarna.
 ::: indent
 Jag har respekt för det.
 :::
@@ -13,7 +13,7 @@ Jag har respekt för det.
 ::: part
 :::
 
-Jag är nu 33 år gammal. Har tvåbarn och en tatuering. Bor fortfarande kvar iövervåningen pålanthandeln i Ekskogen. Med Tove och Sari. På den vita kakelugnen i vardagsrummet har jag målat en stor, svart femuddig stjärna. Dylan har just gett ut ”*Blood on the tracks*”, en sårig skilsmässoskiva. Den ekar i dom stora rummen och över röstar dom nattliga plåtskallren från bönesalen.
+Jag är nu 33 år gammal. Har två barn och en tatuering. Bor fortfarande kvar i övervåningen på lanthandeln i Ekskogen. Med Tove och Sari. På den vita kakelugnen i vardagsrummet har jag målat en stor, svart femuddig stjärna. Dylan har just gett ut ”*Blood on the tracks*”, en sårig skilsmässoskiva. Den ekar i dom stora rummen och över röstar dom nattliga plåtskallren från bönesalen.
 ::: indent
 Det är en vild och lycklig tid.
 :::
@@ -23,7 +23,7 @@ Igen: Allt är möjligt!
 :::
 
 ::: indent
-Samtidigt laddar Carsten och jag för vår stora utställning till återinvigningen av Moderna Museet. Det ska bli en manifestation av allt det vi villåt.
+Samtidigt laddar Carsten och jag för vår stora utställning till återinvigningen av Moderna Museet. Det ska bli en manifestation av allt det vi vill åt.
 :::
 
 ::: indent
@@ -31,10 +31,10 @@ Såhär långt.
 :::
 
 ::: indent
-Minne från Ekskogen 3: I en del av lanthandels undervåning bor ett par med ett litet barn. Han är gammal pundare, ”Jimmy”, hon är frisörska och dotter till en bilhandlare i Rimbo. En kväll frågar jag ”Jimmy” var han har fått sina kraftigaärr i ansiktet ifrån. En nyckelknippa, visar det sig. Hans alkoholiserade föräldrar slog honom med en nyckelknippa i ansiktet när lusten föll på. Plötsligt börjar han berätta om en händelse som präglat honom:
+Minne från Ekskogen 3: I en del av lanthandels undervåning bor ett par med ett litet barn. Han är gammal pundare, ”Jimmy”, hon är frisörska och dotter till en bilhandlare i Rimbo. En kväll frågar jag ”Jimmy” var han har fått sina kraftiga ärr i ansiktet ifrån. En nyckelknippa, visar det sig. Hans alkoholiserade föräldrar slog honom med en nyckelknippa i ansiktet när lusten föll på. Plötsligt börjar han berätta om en händelse som präglat honom:
 :::
 
-”Jag var tretton när det hände, vi kom på besök till farmors gård i Uppland med mamma och pappa, dom drack sig fulla och började bråka och till slut gick farmor ut, hon orkade inte vara kvar, hon visste att nyckelknippan skulle komma fram igen, att dom skulle ta ut det på mig, hon orkade inte se det ... när knippan kom hann jag undan för att dom var såfulla och sprang ut för att hämta farmor. Jag hittade henne i ladan, hon hängde i ett rep från nån takbjälke, jag försökte hämta mamma och pappa men dom var aspackade så jag gick tillbaka och tog ner farmor själv och la henne påjordgolvet i ladan ... sen satt jag hos henne i flera timmar i mörkret och bara grina … jag älskade farmor.”
+”Jag var tretton när det hände, vi kom på besök till farmors gård i Uppland med mamma och pappa, dom drack sig fulla och började bråka och till slut gick farmor ut, hon orkade inte vara kvar, hon visste att nyckelknippan skulle komma fram igen, att dom skulle ta ut det på mig, hon orkade inte se det ... när knippan kom hann jag undan för att dom var så fulla och sprang ut för att hämta farmor. Jag hittade henne i ladan, hon hängde i ett rep från nån takbjälke, jag försökte hämta mamma och pappa men dom var aspackade så jag gick tillbaka och tog ner farmor själv och la henne på jordgolvet i ladan ... sen satt jag hos henne i flera timmar i mörkret och bara grina … jag älskade farmor.”
 
 ![Ångesten är ondskans moder och våldet är det vilsna barnets rop på hjälp.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/182.png)
 
@@ -46,29 +46,29 @@ I vår första kriminalroman, “*Springfloden*”, låter vi en av karaktärern
 <!-- PAGE 56 END -->
 
 <!-- PAGE 57 START -->
-Moderna Museetåterinvigs 7 november 1975, efter en omfattande till- och ombyggnad. Carsten och jag ska svara för en av de tre utställningar som ska manifestera invigningen. Vi har presenterat vårt projekt i Vargen nummer 7 (som också blir vår katalog). Vi kallar utställningen för ”*TAG PLATS - DÖRRARNA STÄNGS*”.
+Moderna Museet återinvigs 7 november 1975, efter en omfattande till- och ombyggnad. Carsten och jag ska svara för en av de tre utställningar som ska manifestera invigningen. Vi har presenterat vårt projekt i Vargen nummer 7 (som också blir vår katalog). Vi kallar utställningen för ”*TAG PLATS - DÖRRARNA STÄNGS*”.
 
 ![Logotype.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/84.png)
 
-Den består av fem delar, uppdelade påfem rum.
+Den består av fem delar, uppdelade på fem rum.
 ::: indent
 Den första delen är ett rum med en stencilapparat i, där besökarna instrueras i tryckteknik. En workshop. De får skriva eller teckna vad de vill. Deras tryck ställs oredigerat samman till Kulturmagasinet Vargen nummer 8. Det kommer att omfatta 200 sidor.
 :::
 
-Den andra delen är ett videorum. Här visas nonstop videos av in- och utländska konstnärer. Besökarna erbjuds ocksåinstruktioner i videoteknik samt lån av utrustning för egna inspelningar. Deras filmer spelas upp påvideoapparater i rummet.
+Den andra delen är ett videorum. Här visas nonstop videos av in- och utländska konstnärer. Besökarna erbjuds också instruktioner i videoteknik samt lån av utrustning för egna inspelningar. Deras filmer spelas upp på videoapparater i rummet.
 ::: indent
-Den tredje delen är en internationell idébank, ett kartotek där kulturarbetare från fem världsdelar presenterar idéer, projekt, utkast, skisser. Ett resultat av vårt kedjebrev i Vargen nummer 4. Deras material finns tillgängligt i namngivna pärmar för besökarna (ett kartotek som tyvärr senare ”förskingras”av museets personal av oklara orsaker).
+Den tredje delen är en internationell idébank, ett kartotek där kulturarbetare från fem världsdelar presenterar idéer, projekt, utkast, skisser. Ett resultat av vårt kedjebrev i Vargen nummer 4. Deras material finns tillgängligt i namngivna pärmar för besökarna (ett kartotek som tyvärr senare ”förskingras” av museets personal av oklara orsaker).
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/85.png)
 
-Den fjärde delen är en realistiskt uppbyggd”tunnelbanestation”med perronger, originalräls, syllar, makadam och en repeterande röst i högtalaren som påminner om att dörrarna stängs.
+Den fjärde delen är en realistiskt uppbyggd ”tunnelbanestation” med perronger, originalräls, syllar, makadam och en repeterande röst i högtalaren som påminner om att dörrarna stängs.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/86.png)
 
 ![Tag plats, dörrarna stängs.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/87.png)
 
-Påstationens”affischplatser” hänger tio bilder som Carsten och jag har skapat, i formatet 5 x 2,5 meter. Tanken är att visa hur t-banans informationsutbud skulle kunna utformas om andraän rent kommersiella intressen producerade informationen (Carsten har redan prövat det i sitt projekt *”Instant Art”*). Affischerna görs direkt på plats på museet inom loppet av 14 dagar. Den flyktiga, skissartade karaktären speglar informationens omsättningshastighet i en tänkt ”t-banetidning”.
+På stationens ”affischplatser” hänger tio bilder som Carsten och jag har skapat, i formatet 5 x 2,5 meter. Tanken är att visa hur t-banans informationsutbud skulle kunna utformas om andra än rent kommersiella intressen producerade informationen (Carsten har redan prövat det i sitt projekt *”Instant Art”*). Affischerna görs direkt på plats på museet inom loppet av 14 dagar. Den flyktiga, skissartade karaktären speglar informationens omsättningshastighet i en tänkt ”t-banetidning”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/88.png)
 
@@ -90,32 +90,32 @@ En annan av affischerna kommenterar barnets situation i samhället:
 <!-- PAGE 58 START -->
 **”BARNETS UNIKA OCH OERSÄTTLIGA KAPITAL PLUNDRAS OCH RUINERAS. BARNETS UNDERMEDVETET FÖRANKRADE FÖRNIMMELSEFÖRMÅGA DÖR AV SVÄLT. BARNETS GENUINA SENSIBILITET KONKURRERAS SÖNDER OCH SAMMAN. BARNETS OFLÄCKADE KLARSYN INDOKTRINERAS TILLS PUPILLERNA ANTAR FORMEN AV EN TV-RUTA. DEN VUXNA MÄNNISKAN BETALAR ETT OBEGRIPLIGT HÖGT PRIS FÖR SIN MATERIELLA VÄLFÄRD OCH MENTALA FÖRFLACKNING.”**
 
-Påvernissaget kommer Olof Palme fram till mig. Han har läst texten och reagerat:
+På vernissaget kommer Olof Palme fram till mig. Han har läst texten och reagerat:
 ::: indent
-– Denär alldeles för fanatisk, för brutal, för långt från verkligheten.
+– Den är alldeles för fanatisk, för brutal, för långt från verkligheten.
 :::
 
 ::: indent
-Han har påfallande sönderrökt röst och diamantblankaögon. Jag upplever att han registrerar mig.
+Han har påfallande sönderrökt röst och diamantblanka ögon. Jag upplever att han registrerar mig.
 :::
 
 ::: indent
-Annan affisch: Carsten hänger upp en stor burk fylld med vit färg i ett snöre i taket, gör hål i botten påburken och sätter den i rotation. Virveln skapar sig själv över det enorma svarta pappret: ”Framtiden tillhör dom som erövrar den.”
+Annan affisch: Carsten hänger upp en stor burk fylld med vit färg i ett snöre i taket, gör hål i botten på burken och sätter den i rotation. Virveln skapar sig själv över det enorma svarta pappret: ”Framtiden tillhör dom som erövrar den.”
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/178.png)
 
-Den femte delen i vår utställningäger rum i museets biosalong. Där uppför vi tre Vargkabaréer, tre på varann följande söndagar. Förebilden är dadaisternas *”Cabaret Voltaire”*.
+Den femte delen i vår utställning äger rum i museets biosalong. Där uppför vi tre Vargkabaréer, tre på varann följande söndagar. Förebilden är dadaisternas *”Cabaret Voltaire”*.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/245.png)
 
-Den startas 1916 i Z ü rich av konstnären Hugo Ball och hans hustru Emmy Hennings. Varje kabaréär ett sällsynt sammelsurium. Människor i groteska ansiktsmasker utför okontrollerade danser, poeter läser simultandikter ackompanjerade av olika slaginstrument, konstnärer går runt med sina senaste tavlor på scenen, allt händer på en och samma gång. Ett magnifikt kaos, multimedia i dess prydno.
+Den startas 1916 i Zürich av konstnären Hugo Ball och hans hustru Emmy Hennings. Varje kabaré är ett sällsynt sammelsurium. Människor i groteska ansiktsmasker utför okontrollerade danser, poeter läser simultandikter ackompanjerade av olika slaginstrument, konstnärer går runt med sina senaste tavlor på scenen, allt händer på en och samma gång. Ett magnifikt kaos, multimedia i dess prydno.
 ::: indent
 Vi är starkt inspirerade av vildsintheten och turbulensen i *”Cabaret Voltaire”*.
 :::
 
 ::: indent
-Deltagare i våra egna kabaréerär ett säreget utbud av outsiders och magiker, bland annat stridspiloten och bildpoetenÅke Hodell, satirtecknaren och arkitekten Hans ”Brul”Nordenström, konstintendenten och xylofonspelaren Ulf Linde och mannen som gjort filmen”*Generalrepetition för självmord*”, allkonstnärenÅke Karlung.
+Deltagare i våra egna kabaréer är ett säreget utbud av outsiders och magiker, bland annat stridspiloten och bildpoeten Åke Hodell, satirtecknaren och arkitekten Hans ”Brul” Nordenström, konstintendenten och xylofonspelaren Ulf Linde och mannen som gjort filmen ”*Generalrepetition för självmord*”, allkonstnären Åke Karlung.
 :::
 
 ::: indent
@@ -130,7 +130,7 @@ I den första kabarén uppträder bland annat jag själv, Carsten, pianisten Ste
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/95.png)
 
-Jag gör entréi rullstol. Texten jag framför heter “*Vem kan tatuera ett telefonnummer över min skräck?*”. Delar av föreställningen filmas av Johan Donner och sänds i SVT med titeln “*Att leva är att dö en smula*”.
+Jag gör entré i rullstol. Texten jag framför heter “*Vem kan tatuera ett telefonnummer över min skräck?*”. Delar av föreställningen filmas av Johan Donner och sänds i SVT med titeln “*Att leva är att dö en smula*”.
 
 [yt-video][https://www.youtube.com/watch?v=uDlNOtuvBcw]
 
@@ -143,7 +143,7 @@ När vår utställningen är slut producerar Moderna Museet en konstportfölj.
 <!-- PAGE 59 START -->
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/98.png)
 
-Den innehåller 10 grafiska tryck av våra affischer på”tunnelbanan”. Ett av dom ser ut så här.
+Den innehåller 10 grafiska tryck av våra affischer på ”tunnelbanan”. Ett av dom ser ut så här.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/99.png)
 
@@ -156,7 +156,7 @@ Som sagt, mycket är vunnet när fusket blir skrattretande. Som ett eko genom ko
 ::: part
 :::
 
-Senare sammaår har Carsten och jag vår första utställning på Galleri S:t Petri i Lund. Galleriägaren och fransmannen Jean Sellem beskriver galleriet som ”*Archive of experimental and marginal art - ett rum för internationellt idébaserad konst*”. Vi ger följande instruktioner till Sellem:
+Senare samma år har Carsten och jag vår första utställning på Galleri S:t Petri i Lund. Galleriägaren och fransmannen Jean Sellem beskriver galleriet som ”*Archive of experimental and marginal art - ett rum för internationellt idébaserad konst*”. Vi ger följande instruktioner till Sellem:
 
 **”Måla upp bifogade kondoleanskort ”** ***Sjukdom är till salu*** **” i formatet 3 x 2 meter på den vänstra väggen. Fyll bifogade svarta plastsäckar (mer eller mindre) med valfritt innehåll. Placera ut efter gottfinnande (se skiss).”**
 
@@ -170,22 +170,22 @@ Respekt.
 ::: part
 :::
 
-Strax efter vår utställning hos Sellem ger Carsten ut en samlings-lp på det nystartade skivbolaget “*Gump*”. Den heter “*Voice of the Wolf*”. Vibrationerna från Vargpojken i Indien vaggar in. Själv medverkar jag med låten “*Nya Tider Nya Änglar*”-ödsligt piano och vissling.
+Strax efter vår utställning hos Sellem ger Carsten ut en samlings-lp på det nystartade skivbolaget “*Gump*”. Den heter “*Voice of the Wolf*”. Vibrationerna från Vargpojken i Indien vaggar in. Själv medverkar jag med låten “*Nya Tider Nya Änglar*” - ödsligt piano och vissling.
 
 [yt-video][https://www.youtube.com/watch?v=AvRqsmh8Dl0]
 
-Det är en sällsamt brokig och märklig skiva, som blandar inslag från poetenÅke Hodell med originalmaterial av Pugh Rogefeldt och elektronmusikerna Sten Hansson och Bengt”Frippe”Nordström. Även 48 sekunder med den nerlagda gruppen Sergeant Honolulu finns med. Skivan etiketteras idag som:”Sällsynt”- B-sidan pålp-när en 24 minuter lång sampling av materialet på A-sidan, gjord av Hans Anton Knall.
+Det är en sällsamt brokig och märklig skiva, som blandar inslag från poeten Åke Hodell med originalmaterial av Pugh Rogefeldt och elektronmusikerna Sten Hansson och Bengt ”Frippe” Nordström. Även 48 sekunder med den nerlagda gruppen Sergeant Honolulu finns med. Skivan etiketteras idag som: ”Sällsynt” - B-sidan på lp:n är en 24 minuter lång sampling av materialet på A-sidan, gjord av Hans Anton Knall.
 ::: indent
 Allt är möjligt, det omöjliga är en lögn.
 :::
 <!-- PAGE 59 END -->
 
 <!-- PAGE 60 START -->
-Parallellt med inspelningen skriver jag en text till stenciltidskriften Guru Papers, en av de viktigaste pamflettbladen i skuggan av Vargen. Tidskriften har det uppfriskande mottot:”*Spräng den förbannade kultureliten!*”.
+Parallellt med inspelningen skriver jag en text till stenciltidskriften Guru Papers, en av de viktigaste pamflettbladen i skuggan av Vargen. Tidskriften har det uppfriskande mottot: ”*Spräng den förbannade kultureliten!*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/162.png)
 
-Det nummer jag medverkar iär utarbetat av poeterna Per-Erik Söder och Bruno KÖijer och inleds med: “*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
+Det nummer jag medverkar i är utarbetat av poeterna Per-Erik Söder och Bruno KÖijer och inleds med: “*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
 
 “Dessa människor som tvingar mig att resignera. Dessa hyndor och kackerlackor som tvingar mig att ligga sömnlös och kallsvettig på en bågnande sarkofag av sorg. Dessa morbida monster som knallar gator upp och gator ner med djupfrysta ögon och brallorna fulla av förluster. Dessa hallucinationer som dom kallar vardag.
 
@@ -197,7 +197,7 @@ Denna förstörda, rämnade, intill svek fega nation som har gjort neutraliteten
 
 Texten förebådar andra texter av mig, om Sverige, om min inställning, lika bottenlöst mollstämda och förtvivlade. Den lekfulla dadaistiska attityden har hårdnat, glesnat bort. Jag vet inte varför. Var kommer det näst intill besinningslösa föraktet ifrån?
 ::: indent
-Knappast från barndomensörfilar.
+Knappast från barndomens örfilar.
 :::
 
 ::: indent
@@ -220,13 +220,13 @@ Det är ingenting som berör mig. Just då. Den politiska scenen är fortfarande
 <!-- PAGE 60 END -->
 
 <!-- PAGE 61 START -->
-Mina barn är nu tvåoch elvaår gamla. Sari lever jag med, Joakim bor med Eva. Hon och jag har en bra relation, även om jag borde vara mycket mer involverad i Joakims liv. Mer närvarande, synlig, med tanke på min egen frånvarande pappa.
+Mina barn är nu två och elva år gamla. Sari lever jag med, Joakim bor med Eva. Hon och jag har en bra relation, även om jag borde vara mycket mer involverad i Joakims liv. Mer närvarande, synlig, med tanke på min egen frånvarande pappa.
 ::: indent
 Jag borde ha lärt mig.
 :::
 
 ::: indent
-Jag borde ocksåha lärt mig lite mer om att leva familjeliv. Mitt vulkaniska behov av att spränga ut mig själv hela tiden, i alla tänkbara former, det sanslösa behovet av en konstant spotlight på mig själv och mina idéer kräver en tänjbar kärlek.
+Jag borde också ha lärt mig lite mer om att leva familjeliv. Mitt vulkaniska behov av att spränga ut mig själv hela tiden, i alla tänkbara former, det sanslösa behovet av en konstant spotlight på mig själv och mina idéer kräver en tänjbar kärlek.
 :::
 
 ::: indent
@@ -238,13 +238,13 @@ Men jag får den, av Tove.
 ::: part
 :::
 
-Året börjar med att Carsten och jag bjuds in av musikern Sten Hansson att medverka pådenårliga elektronmusikfestivalen på Fylkingen i Stockholm. Fylkingen håller till i en lokal på Östgötagatan (på min tid runt Björnsan en matinébiograf där jag sågåtskilliga underbara så kallade B-filmer).
+Året börjar med att Carsten och jag bjuds in av musikern Sten Hansson att medverka på den årliga elektronmusikfestivalen på Fylkingen i Stockholm. Fylkingen håller till i en lokal på Östgötagatan (på min tid runt Björnsan en matinébiograf där jag såg åtskilliga underbara så kallade B-filmer).
 ::: indent
-Lokalen är fullsatt av djupt seriösa elektronmusiker, konstnärer som försöker utvidga den musikaliska begreppsvärlden. Carsten och jag är tämligen udda i sammanhanget, men hanterar det efter gottfinnande. Carsten uppträder i svart smoking. Han har mikrofon för stärkt ett flipperspel och kopplat ut det i salongens högtalarsystem. Hans bidrag till festivalen blir ett parti dånande flipper, ett ödsligt spel som han förlorar.
+Lokalen är fullsatt av djupt seriösa elektronmusiker, konstnärer som försöker utvidga den musikaliska begreppsvärlden. Carsten och jag är tämligen udda i sammanhanget, men hanterar det efter gottfinnande. Carsten uppträder i svart smoking. Han har mikrofonförstärkt ett flipperspel och kopplat ut det i salongens högtalarsystem. Hans bidrag till festivalen blir ett parti dånande flipper, ett ödsligt spel som han förlorar.
 :::
 
 ::: indent
-Själv har jag spelat in den nazistiska slagdängan ”*Die Faane Hoch*”och distat om den till en vinande spöksonat. Verket spelas upp i en helt mörklagd salong.
+Själv har jag spelat in den nazistiska slagdängan ”*Die Faane Hoch*” och distat om den till en vinande spöksonat. Verket spelas upp i en helt mörklagd salong.
 :::
 
 ::: indent
@@ -254,7 +254,7 @@ En del reser sig och går ut.
 ::: part
 :::
 
-Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galleri Sellem. Vi kallar den”*Räkna de lyckliga stunderna blott*”. Vi köper bland annat en grårullgardin och kopierar några svartvita objekt på den.
+Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galleri Sellem. Vi kallar den ”*Räkna de lyckliga stunderna blott*”. Vi köper bland annat en grårullgardin och kopierar några svartvita objekt på den.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/142.png)
 
@@ -268,24 +268,24 @@ Förbluffande.
 
 Bigorneuer.
 ::: indent
-Mycket småskaldjur som man med hjälp av en minimal nål petar ut ur skalet och äter. En delikatess, om man har tålamod. Första gången jag får snäckorna framför mig är på en uteservering i Venedig, tätt intill Canal Grande (den finns numeraäven på restaurang Wasahof i Stockholm, snäckan allts å). Jag är här för att göra en dokumentärfilm för Moderna Museet. Konstbiennalen pågår och jag ska filma ett projekt som heter ”*ARARAT - Alternative Research in Architecture, Resources, Art and Technology *”.
+Mycket småskaldjur som man med hjälp av en minimal nål petar ut ur skalet och äter. En delikatess, om man har tålamod. Första gången jag får snäckorna framför mig är på en uteservering i Venedig, tätt intill Canal Grande (den finns numera även på restaurang Wasahof i Stockholm, snäckan alltså). Jag är här för att göra en dokumentärfilm för Moderna Museet. Konstbiennalen pågår och jag ska filma ett projekt som heter ”*ARARAT - Alternative Research in Architecture, Resources, Art and Technology*”.
 :::
 <!-- PAGE 61 END -->
 
 <!-- PAGE 62 START -->
 ::: indent
-Projektet startar på museet i Stockholm, har en ekologisk utgångspunkt och bygger på”*ett kreativt samarbete mellan konstnärer, arkitekter, tekniker, hantverkare och humanister*.”Fokus ligger på återvinning, småskalig produktion, överblickbara demokratiska processer, alternativ energi och byggande samt ekologisk odling (man framställer bland annat metangas av elefantspillning från Skansen).
+Projektet startar på museet i Stockholm, har en ekologisk utgångspunkt och bygger på ”*ett kreativt samarbete mellan konstnärer, arkitekter, tekniker, hantverkare och humanister*.” Fokus ligger på återvinning, småskalig produktion, överblickbara demokratiska processer, alternativ energi och byggande samt ekologisk odling (man framställer bland annat metangas av elefantspillning från Skansen).
 :::
 
 ::: indent
-Filmen blir en timme lång och visas på en skärmutställning på Svenska Institutet i Paris. Enligt avtal uppb är jag en ersättning om 900:- för filmen.
+Filmen blir en timme lång och visas på en skärmutställning på Svenska Institutet i Paris. Enligt avtal uppbär jag en ersättning om 900:- för filmen.
 :::
 
 ::: indent
 Hårda tider.
 :::
 
-I samband med detta lämnar jag ett förslag till Moderna Museet. Jag vill att museet skapar Sveriges första videoarkiv över aktiva poeter som läser sina verk. Jag döper projektet till”*Det är dom vackra fåglarna som sätts i bur*”. Initialt ska det omfatta ett antal 1-timmeskassetter bestående av 3 poeter med tjugo minuter vardera. I ansökan skriver jag:
+I samband med detta lämnar jag ett förslag till Moderna Museet. Jag vill att museet skapar Sveriges första videoarkiv över aktiva poeter som läser sina verk. Jag döper projektet till ”*Det är dom vackra fåglarna som sätts i bur*”. Initialt ska det omfatta ett antal 1-timmeskassetter bestående av 3 poeter med tjugo minuter vardera. I ansökan skriver jag:
 
 **”Värdet av en bred samtidsdokumentering av aktiva svenska poeter behöver inte motiveras. Att poeterna finns i tryck påverkar inte det faktum att poesi, läst av dess upphovsman, fyller såväl kulturhistoriska som pedagogiska och litterära funktioner. Samtidigt som det otvetydigt utgör en kompletterande funktion till den tryckta texten. Jag är av den uppfattningen att en expanderande kulturinstitution av museets dignitet måste täcka upp även den litterära sidan av konstnärlig verksamhet, i all synnerhet som exemplen på ett fördjupat intimt samarbete mellan poeter och konstnärer blir allt vanligare.”**
 
@@ -297,7 +297,7 @@ Men arkivet blir aldrig av.
 ::: part
 :::
 
-Parallellt med mitt dokumentärfilmande i Venedig gör Carsten sin första videoshow på Moderna Museet. Den heter ”*Sista Skriket*”(en titel som skaåterkomma på många företeelser framöver) och äger rum i Bion. Carsten har byggt en trälabyrint i form av en stiliserad hjärna. I den bisarra labyrinten springer tvåvita möss runt. Deras irrande projiceras påsalongens stora duk. Showen pågår i 8 timmar.
+Parallellt med mitt dokumentärfilmande i Venedig gör Carsten sin första videoshow på Moderna Museet. Den heter ”*Sista Skriket*” (en titel som ska återkomma på många företeelser framöver) och äger rum i Bion. Carsten har byggt en trälabyrint i form av en stiliserad hjärna. I den bisarra labyrinten springer två vita möss runt. Deras irrande projiceras på salongens stora duk. Showen pågår i 8 timmar.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/143.png)
 
@@ -314,7 +314,7 @@ Gungor och karuseller.
 :::
 
 ::: indent
-Jag och familjen håller oss kvar ute pålandet, några meter från Roslagsbanans räls. Ekonomin är inte på topp och min personliga inställning till pengar underlättar inte. En dag upptäcker vi ett dolt vindsutrymme där nån har lagrat en oerhörd mängd tomflaskor.
+Jag och familjen håller oss kvar ute på landet, några meter från Roslagsbanans räls. Ekonomin är inte på topp och min personliga inställning till pengar underlättar inte. En dag upptäcker vi ett dolt vindsutrymme där nån har lagrat en oerhörd mängd tomflaskor.
 :::
 
 ::: indent
@@ -322,7 +322,7 @@ Som går att panta.
 :::
 
 ::: indent
-Jagåker in med tompavorna till närmaste system, får pengar och köper med mig gott vin och läckra kulinariska finesser hem.
+Jag åker in med tompavorna till närmaste system, får pengar och köper med mig gott vin och läckra kulinariska finesser hem.
 :::
 
 ::: indent

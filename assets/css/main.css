@@ -920,9 +920,10 @@ a.rb-skip-btn:hover {
 }
 
 .stars {
-  font-size: 48px;
-  font-weight: 900;
-  margin: 112px 0;
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 0.3em;
+  margin: 1.5rem 0;
 }
 
 .rb-part { margin-top: 68px; margin-bottom: 68px; }
@@ -1302,13 +1303,13 @@ a.rb-skip-btn:hover {
    ============================================================ */
 
 .rb-page-title-wrap {
-  padding: 0.5rem var(--rb-inline-inset-desktop) 1.5rem;
+  padding: 4rem var(--rb-inline-inset-desktop) 1.5rem;
 }
 
 .rb-page-h1 {
-  font-size: 3.75rem;
+  font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   text-transform: lowercase;
 }
 
@@ -1391,16 +1392,22 @@ a.rb-skip-btn:hover {
   user-select: text;
 }
 
-/* Dedicated first reader page (cover) before biography content starts */
+/* Dedicated first reader page (cover) — book front cover */
 .rb-cover-page {
-  min-height: 72dvh;
+  position: relative;
+  aspect-ratio: 9 / 16;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: 0.75rem;
-  padding: 1rem;
+  padding: 3rem 2rem;
+  border: 0.5px solid var(--rb-border);
+  margin: 2rem auto;
+  overflow: hidden;
+  background:
+    url('/assets/images/pattern.png') center / cover no-repeat;
 }
 
 .rb-cover-title {
@@ -1411,6 +1418,9 @@ a.rb-skip-btn:hover {
   text-transform: lowercase;
   font-weight: 700;
   color: var(--rb-text);
+  flex: 1;
+  display: flex;
+  align-items: center;
 }
 
 .rb-cover-author {
@@ -1419,6 +1429,7 @@ a.rb-skip-btn:hover {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--rb-text-muted);
+  margin-top: auto;
 }
 
 /* =====================================================
@@ -1703,6 +1714,14 @@ a.rb-skip-btn:hover {
    Reader bar button — shared across all reader bars
 ===================================================== */
 
+.rb-reader-bar-label {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+  white-space: nowrap;
+}
+
 .rb-reader-bar-btn {
   background: transparent;
   border: 1px solid transparent;
@@ -1749,6 +1768,7 @@ a.rb-skip-btn:hover {
    Site-wide navigation drawer — slides from left
 ===================================================== */
 
+/* ── Multi-level sidebar navigation ── */
 .rb-site-nav {
   position: fixed;
   inset: 0;
@@ -1779,51 +1799,143 @@ a.rb-skip-btn:hover {
 .rb-site-nav-content {
   position: absolute;
   top: 0;
-  left: 0;
+  right: 0;
   bottom: 0;
-  width: 280px;
-  max-width: 80vw;
+  width: 450px;
+  max-width: 90vw;
   display: flex;
   flex-direction: column;
-  padding: 2rem;
   background-color: var(--color-dark);
-  border-right: 1px solid var(--rb-border);
-  transform: translateX(-100%);
+  border-left: 1px solid var(--rb-border);
+  transform: translateX(100%);
   transition: transform 0.3s ease;
+  overflow: hidden;
 }
 
 .rb-site-nav.is-open .rb-site-nav-content {
   transform: translateX(0);
 }
 
-.rb-site-nav-close {
-  align-self: flex-end;
-  background: transparent;
-  border: 1px solid var(--rb-border);
-  color: var(--rb-text);
-  cursor: pointer;
-  padding: 0.4rem 0.75rem;
-  border-radius: 4px;
-  font-size: 1rem;
-  margin-bottom: 2rem;
+/* Level container */
+.rb-site-nav-level {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, opacity 0.25s ease;
 }
 
+.rb-site-nav-level[hidden] {
+  display: flex;
+  transform: translateX(100%);
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.rb-site-nav-level.is-active {
+  transform: translateX(0);
+  opacity: 1;
+  pointer-events: auto;
+  visibility: visible;
+}
+
+/* When going back, slide the main level in from left */
+.rb-site-nav-level.is-active.slide-from-left {
+  animation: navSlideFromLeft 0.25s ease forwards;
+}
+
+@keyframes navSlideFromLeft {
+  from { transform: translateX(-30%); opacity: 0; }
+  to   { transform: translateX(0);    opacity: 1; }
+}
+
+/* Header bar: back / title / close */
+.rb-site-nav-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--rb-border);
+  flex-shrink: 0;
+}
+
+.rb-site-nav-title {
+  flex: 1;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+}
+
+.rb-site-nav-close {
+  background: transparent;
+  border: none;
+  color: var(--rb-text-muted);
+  cursor: pointer;
+  padding: 0.25rem;
+  font-size: 1rem;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.rb-site-nav-close:hover {
+  color: var(--rb-text);
+}
+
+.rb-site-nav-back {
+  background: transparent;
+  border: none;
+  color: var(--rb-text-muted);
+  cursor: pointer;
+  padding: 0.25rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.rb-site-nav-back:hover {
+  color: var(--rb-text);
+}
+
+/* Scrollable area for sub-levels */
+.rb-site-nav-scroll {
+  flex: 1;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 1rem 1.5rem 2rem;
+}
+
+/* Nav list */
 .rb-site-nav-list {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.125rem;
 }
 
+/* Main level list gets more padding */
+[data-nav-level="main"] .rb-site-nav-list {
+  padding: 1.5rem;
+}
+
+/* Nav link */
 .rb-site-nav-link {
-  display: block;
-  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0.65rem 0.75rem;
   color: var(--rb-text-muted);
   text-decoration: none;
-  font-size: 1.25rem;
+  font-size: 1rem;
+  border: none;
+  background: transparent;
   border-radius: 4px;
+  cursor: pointer;
+  text-align: left;
   transition: color 0.15s, background 0.15s;
 }
 
@@ -1832,15 +1944,48 @@ a.rb-skip-btn:hover {
   background: var(--rb-surface);
 }
 
-/* On start page: slide site-nav from right instead of left */
-.rb-hub-bg .rb-site-nav-content {
-  left: auto;
-  right: 0;
-  border-right: none;
-  border-left: 1px solid var(--rb-border);
-  transform: translateX(100%);
+/* Main level: larger links */
+[data-nav-level="main"] .rb-site-nav-link {
+  font-size: 1.35rem;
+  padding: 0.85rem 1rem;
 }
 
-.rb-hub-bg .rb-site-nav.is-open .rb-site-nav-content {
-  transform: translateX(0);
+/* Drill arrow */
+.rb-site-nav-arrow {
+  font-size: 1.1em;
+  opacity: 0.4;
+  transition: opacity 0.15s;
+}
+
+.rb-site-nav-link:hover .rb-site-nav-arrow {
+  opacity: 0.8;
+}
+
+/* Year group headers in biografi sub-nav */
+.rb-site-nav-group {
+  margin-bottom: 0.75rem;
+}
+
+.rb-site-nav-group-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--rb-text-muted);
+  padding: 0.5rem 0.75rem 0.25rem;
+  opacity: 0.6;
+}
+
+/* Chapter links: slightly smaller */
+.rb-site-nav-chapter {
+  font-size: 0.95rem;
+  padding: 0.5rem 0.75rem;
+}
+
+/* ── Mobile: fullpage sidebar ── */
+@media (max-width: 768px) {
+  .rb-site-nav-content {
+    width: 100vw;
+    max-width: 100vw;
+    border-left: none;
+  }
 }

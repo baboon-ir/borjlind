@@ -58,15 +58,15 @@ En granne till Carsten kommer ner i ateljén, ser spindeln på golvet och reager
 
 ![Det är inte så populärt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/36.png)
 
-För att späda på vår image som cyniska reklamare (och i viss mån våra ekonomiska resurser) utformar Carsten och jag tvåannonskampanjer för NK. Kompaniet har startat ett undervaruhus med namnet ” K ”, inriktat på” ungdomen ”. Vår första affisch ser ut så här.
+För att späda på vår image som cyniska reklamare (och i viss mån våra ekonomiska resurser) utformar Carsten och jag två annonskampanjer för NK. Kompaniet har startat ett undervaruhus med namnet ”K”, inriktat på ”ungdomen”. Vår första affisch ser ut så här.
 
 ![Pårökt, men i tiden.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/37.png)
 
-Och vår andra kampanj i samma veva går under namnet ” *påp* ”.
+Och vår andra kampanj i samma veva går under namnet ”*påp*”.
 
 ![Eller som en av våra stora poeter skrev: ”Jag har sålt mina visor till nöjets estrader, och gud må förlåta mig somliga rader.”](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/38.png)
 
-Samtidigt som vi gör våra NK-kampanjer får vi ett brev från Bo Lindwall på Nationalmuseum. Han meddelar att Nordiska Konst för bundet har valt ut oss att ” med högst fem målningar ” representera Sverige på den Nordiska Ungdomsbiennalen i Helsingfors. Och tillägger i brevet: ” Så vida ytterligare material föreligger, såsom manifest, citat eller kommentarer till Er verksamhet mottas de med tacksamhet. ”
+Samtidigt som vi gör våra NK-kampanjer får vi ett brev från Bo Lindwall på Nationalmuseum. Han meddelar att Nordiska Konstförbundet har valt ut oss att ”med högst fem målningar” representera Sverige på den Nordiska Ungdomsbiennalen i Helsingfors. Och tillägger i brevet: ”Såvida ytterligare material föreligger, såsom manifest, citat eller kommentarer till Er verksamhet mottas de med tacksamhet.”
 ::: indent
-Det är som att glänta påsyndafloden.
+Det är som att glänta på syndafloden.
 :::

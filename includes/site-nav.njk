@@ -1,13 +1,92 @@
-{# Site-wide navigation drawer — shared across biography, minnen, appendix #}
+{# Multi-level sidebar navigation — slides in from right #}
 <div class="rb-site-nav" data-site-nav aria-hidden="true">
   <div class="rb-site-nav-backdrop" data-site-nav-backdrop></div>
   <div class="rb-site-nav-content">
-    <button class="rb-site-nav-close" data-site-nav-close aria-label="Stäng meny">&#10005;</button>
-    <ul class="rb-site-nav-list">
-      <li><a class="rb-site-nav-link" href="/">Start</a></li>
-      <li><a class="rb-site-nav-link" href="/biografi/">Biografi</a></li>
-      <li><a class="rb-site-nav-link" href="/minnen/">Minnen</a></li>
-      <li><a class="rb-site-nav-link" href="/appendix/">Appendix</a></li>
-    </ul>
+
+    {# ── Level 1: Main site navigation ── #}
+    <div class="rb-site-nav-level" data-nav-level="main">
+      <div class="rb-site-nav-header">
+        <span class="rb-site-nav-title">Meny</span>
+        <button class="rb-site-nav-close" data-site-nav-close aria-label="Stäng meny">&#10005;</button>
+      </div>
+      <ul class="rb-site-nav-list">
+        <li><a class="rb-site-nav-link" href="/">Hem</a></li>
+        <li><button class="rb-site-nav-link rb-site-nav-drill" data-nav-goto="biografi">Biografi<span class="rb-site-nav-arrow">›</span></button></li>
+        <li><button class="rb-site-nav-link rb-site-nav-drill" data-nav-goto="minnen">Minnen<span class="rb-site-nav-arrow">›</span></button></li>
+        <li><button class="rb-site-nav-link rb-site-nav-drill" data-nav-goto="appendix">Appendix<span class="rb-site-nav-arrow">›</span></button></li>
+      </ul>
+    </div>
+
+    {# ── Level 2: Biografi — chapters grouped by year ── #}
+    <div class="rb-site-nav-level" data-nav-level="biografi" hidden>
+      <div class="rb-site-nav-header">
+        <button class="rb-site-nav-back" data-nav-back aria-label="Tillbaka">‹</button>
+        <span class="rb-site-nav-title">Biografi</span>
+        <button class="rb-site-nav-close" data-site-nav-close aria-label="Stäng meny">&#10005;</button>
+      </div>
+      <div class="rb-site-nav-scroll">
+        <ul class="rb-site-nav-list">
+          <li><a class="rb-site-nav-link rb-site-nav-chapter" href="/biografi/#p-001" data-nav-page="1">Framsida</a></li>
+        </ul>
+        {% for group in navBioData %}
+        <div class="rb-site-nav-group">
+          <div class="rb-site-nav-group-label">{{ group.yearGroup }}</div>
+          <ul class="rb-site-nav-list">
+            {% for ch in group.chapters %}
+            <li><a class="rb-site-nav-link rb-site-nav-chapter" href="/biografi/#p-{{ ch.startPage | pad3 }}" data-nav-page="{{ ch.startPage }}">{{ ch.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    {# ── Level 2: Minnen ── #}
+    <div class="rb-site-nav-level" data-nav-level="minnen" hidden>
+      <div class="rb-site-nav-header">
+        <button class="rb-site-nav-back" data-nav-back aria-label="Tillbaka">‹</button>
+        <span class="rb-site-nav-title">Minnen</span>
+        <button class="rb-site-nav-close" data-site-nav-close aria-label="Stäng meny">&#10005;</button>
+      </div>
+      <div class="rb-site-nav-scroll">
+        <ul class="rb-site-nav-list">
+          <li><a class="rb-site-nav-link" href="/minnen/#kusinen">Kusinen</a></li>
+          <li><a class="rb-site-nav-link" href="/minnen/#den-osynlige">Den osynlige</a></li>
+          <li><a class="rb-site-nav-link" href="/minnen/#yngling">En vacker yngling</a></li>
+        </ul>
+      </div>
+    </div>
+
+    {# ── Level 2: Appendix ── #}
+    <div class="rb-site-nav-level" data-nav-level="appendix" hidden>
+      <div class="rb-site-nav-header">
+        <button class="rb-site-nav-back" data-nav-back aria-label="Tillbaka">‹</button>
+        <span class="rb-site-nav-title">Appendix</span>
+        <button class="rb-site-nav-close" data-site-nav-close aria-label="Stäng meny">&#10005;</button>
+      </div>
+      <div class="rb-site-nav-scroll">
+        <ul class="rb-site-nav-list">
+          <li><a class="rb-site-nav-link" href="/appendix/#60-talet">60-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#70-talet">70-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#80-talet">80-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#90-talet">90-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#00-talet">00-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#10-talet">10-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#20-talet">20-talet</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#bocker">Böcker</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#konst">Konst</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#forestallningar">Föreställningar</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#tv">Tv</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#radio">Radio</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#biofilmer">Biofilmer</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#scen">Scen</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#musik">Musik</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#tidningar">Tidningar/Tidskrifter</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#ovrigt">Övrigt</a></li>
+          <li><a class="rb-site-nav-link" href="/appendix/#utmarkelser">Utmärkelser</a></li>
+        </ul>
+      </div>
+    </div>
+
   </div>
 </div>

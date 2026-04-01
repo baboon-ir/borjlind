@@ -28,7 +28,7 @@ yearGroup: "1956–1968"
 
 **- nä****?**
 
-**Pfut, 200x500.**
+**Pfut, 200 x 500.**
 
 **Sanningen om Börjlind och Regild.**
 :::
@@ -37,7 +37,7 @@ yearGroup: "1956–1968"
 :::
 Nåväl.
 ::: indent
-Vi håller den privata fanan högt, vårt monumentala över mod är enöverlevnadsstrategi. Fortfarande ” dom mot oss ”. Det är viktigt.
+Vi håller den privata fanan högt, vårt monumentala övermod är en överlevnadsstrategi. Fortfarande ”dom mot oss”. Det är viktigt.
 :::
 
 ::: indent
@@ -45,24 +45,27 @@ Kulturetablissemanget skålar ombord på Titanic, vi är isberget.
 :::
 
 ::: indent
-Resten aväventyret i Helsingfors ligger i barmhärtigt mörker.
+Resten av äventyret i Helsingfors ligger i barmhärtigt mörker.
+:::
+
+::: part
 :::
 
 Men lite innan Helsingfors, redan på våren, ska jag träffa en av mina stora idoler, Jimi Hendrix. På Gröna Lund. Upptakten är Liljevalchs Vårutställning. Vi deltar på den med fyra kvadratiska tavlor. Varje tavla har ett identiskt motiv: bakdelen på en tiger på väg ut ur tavlan.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/42.png)
 
-En röd, en gul, en grön och en röd. Titlarna påtavlorna är Hösten, Sommaren, Våren och Vintern. En besökare köper Hösten.
+En röd, en gul, en grön och en röd. Titlarna på tavlorna är Hösten, Sommaren, Våren och Vintern. En besökare köper Hösten.
 ::: indent
 Intressant.
 :::
 
 ::: indent
-När vi ser att Hendrix ska uppträda på Gröna Lund passar vi på. Vi har en tid varit inne på att göra skivomslag. Varför inte ett till Hendrix? Vi inser att man inte närmar sig honom hur som helst så vi går omvägen via hans basist Noel Redding. Jag ringer upp honom på Grand Hotel och berättar att vi har ett förslag till ett skivomslag som vi vill visa. Han föreslår att vi kommer backstage på Gröna Lund samma kväll (jag måste ha varit hyfsat över tygande påtelefon). Vi går backstage efter konserten (förövrigt den där man drar ur strömmen för att fåslut på Hendrix spelning, man vill ha igång karusellerna).
+När vi ser att Hendrix ska uppträda på Gröna Lund passar vi på. Vi har en tid varit inne på att göra skivomslag. Varför inte ett till Hendrix? Vi inser att man inte närmar sig honom hur som helst så vi går omvägen via hans basist Noel Redding. Jag ringer upp honom på Grand Hotel och berättar att vi har ett förslag till ett skivomslag som vi vill visa. Han föreslår att vi kommer backstage på Gröna Lund samma kväll (jag måste ha varit hyfsat övertygande på telefon). Vi går backstage efter konserten (för övrigt den där man drar ur strömmen för att få slut på Hendrix spelning, man vill ha igång karusellerna).
 :::
 
 ::: indent
-Redding tar emot oss, visar in oss, vi har med ett skivomslag i form av bakdelen på en röd tiger på väg ut ur ett vitt konvolut. Hendrix står i ett hörn och jammar på gitarren, solon upp och ner påsträngarna (minne: plötsligt vänder han på gitarren och får strängarna ” upp och ner ” och fortsätter lika flytande som innan - det är svårareän det kan verka). Vi visar vårt omslag när han lägger ifrån sig gitarren. Han tycker det är absurt men roligt och kallar till sig sin ” ett eller annat ”. Vi lämnar omslaget till den personen, våra kontaktnummer och där tar det slut.
+Redding tar emot oss, visar in oss, vi har med ett skivomslag i form av bakdelen på en röd tiger på väg ut ur ett vitt konvolut. Hendrix står i ett hörn och jammar på gitarren, solon upp och ner på strängarna (minne: plötsligt vänder han på gitarren och får strängarna ”upp och ner” och fortsätter lika flytande som innan - det är svårare än det kan verka). Vi visar vårt omslag när han lägger ifrån sig gitarren. Han tycker det är absurt men roligt och kallar till sig sin ”ett eller annat”. Vi lämnar omslaget till den personen, våra kontaktnummer och där tar det slut.
 :::
 
 ::: indent

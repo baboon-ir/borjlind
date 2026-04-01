@@ -9,33 +9,33 @@ yearGroup: "1956–1968"
 ---
 ![Carsten spelar rollen som sig själv.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/45.png)
 
-När vi är klara med kortfilmen börjar vi strukturera Dantes ” *Inferno* ” till en popmusikal, i samarbete med musikern Ted Ström. Vi tillbringar ett antal dagar på en isolerad lantgård och arbetar fram ett bild/text-manus.
+När vi är klara med kortfilmen börjar vi strukturera Dantes ”*Inferno*” till en popmusikal, i samarbete med musikern Ted Ström. Vi tillbringar ett antal dagar på en isolerad lantgård och arbetar fram ett bild/text-manus.
 
 ![Inferno.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/46.png)
 
-Projektet förblir oavslutat och är ytterligare ett exempel påhur vi försöker hela tiden. Med allt möjligt. Utan att lyckas. Fantasin bågnar, men mycket hamnar påhälleberget.
+Projektet förblir oavslutat och är ytterligare ett exempel på hur vi försöker hela tiden. Med allt möjligt. Utan att lyckas. Fantasin bågnar, men mycket hamnar på hälleberget.
 ::: indent
-Så även en ny reklamkampanj som vi gör till NK under namnet ” *Även mördare bär morgonrockar* ” (vad är det för fel på det upplägget?).
+Så även en ny reklamkampanj som vi gör till NK under namnet ”*Även mördare bär morgonrockar*” (vad är det för fel på det upplägget?).
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/155.png)
 
-NK betalar en symbolisk summa, kopierar våra layoutidéer och använder dom i sin egen marknads för ing treår senare.
+NK betalar en symbolisk summa, kopierar våra layoutidéer och använder dom i sin egen marknadsföring tre år senare.
 ::: indent
-Begreppet upphovsrätt har inte slagit igenomännu.
+Begreppet upphovsrätt har inte slagit igenom ännu.
 :::
 
 ![Ibland har vi bara roligt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/47.png)
 
-Ibland är vi mer konkreta. Under några hektiska dagar sätter vi upp stora vitmålade masonitskivor runt om i Stockholm. Vi kallar projektet ” *Graffiti* ”. Tanken är att förbipasserande människor ska fylla dom med teckningar och text, varefter skivorna ska tas ner och ställas ut på ett offentligt galleri - en konkretisering av begreppet ” yttrandefrihet ”.
+Ibland är vi mer konkreta. Under några hektiska dagar sätter vi upp stora vitmålade masonitskivor runt om i Stockholm. Vi kallar projektet ”*Graffiti*”. Tanken är att förbipasserande människor ska fylla dom med teckningar och text, varefter skivorna ska tas ner och ställas ut på ett offentligt galleri - en konkretisering av begreppet ”yttrandefrihet”.
 ::: indent
 Ett antal av skivorna tas snabbt ner av polisen, projektet fullföljs aldrig (vi ska genomföra det på Moderna Museet flera år senare).
 :::
 
-Fotnot: I början av det häråret startar en tidning som heter ” *Puss* ”, en satirisk och tämligen anarkistisk utgåva, huvudsakligen fylld med teckningar av konstnärer som Lars Hillersberg, Lena Svedberg och Carl-Johan de Geer. Jag gillar deras försäljningsslogan: ” *Köp Puss, familjesnusk till husbehov, barnens och småfåglarnas vän*. ”
+Fotnot: I början av det här året startar en tidning som heter ”*Puss*”, en satirisk och tämligen anarkistisk utgåva, huvudsakligen fylld med teckningar av konstnärer som Lars Hillersberg, Lena Svedberg och Carl-Johan de Geer. Jag gillar deras försäljningsslogan: ”*Köp Puss, familjesnusk till husbehov, barnens och småfåglarnas vän*.”
 
 ::: part
 :::
-Jag behöver komma bort från det höga varvet i Stockholm (det tar påkroppen). Jagåker till Hälsingland i sällskap med Ove Enervald. Vi har fått låna ett hus i den lilla ensligt belägna byn Kölsjön. Vi skaägna ossåt att skriva och måla. Vi tar med oss The Bands skiva ” *Big Pink* ” och lite förnödenheter. Huset har tre rum. Ove ställer upp stafflit i stora rummet, jag tar ett mindre, med utsikt mot en grusväg.
+Jag behöver komma bort från det höga varvet i Stockholm (det tar på kroppen). Jag åker till Hälsingland i sällskap med Ove Enervald. Vi har fått låna ett hus i den lilla ensligt belägna byn Kölsjön. Vi ska ägna oss åt att skriva och måla. Vi tar med oss The Bands skiva ”*Big Pink*” och lite förnödenheter. Huset har tre rum. Ove ställer upp stafflit i stora rummet, jag tar ett mindre, med utsikt mot en grusväg.
 
 ![Ove gör en snabbskiss av mig.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/48.png)

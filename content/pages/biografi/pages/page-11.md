@@ -9,11 +9,11 @@ yearGroup: "1942–1955"
 ---
 **”Hatten av för min fru för att hon avreagerar sin intelligens och sitt behov av svensk likställdhet vid skrivmaskinen hemma under förmiddagen. Och på eftermiddagen alltid finns gammaldags rosig och söt vid köttgrytorna när vi tre manliga familjemedlemmar kommer hemstörtande från skolor och arbete, hungrande efter mat, hemtrivsel och mammaomvårdnad.”**
 
-Ett mycket aningslöst tidsskede, som jag senare använder mig av i en sketch i satirprogrammet Lorry med hjälp av Lena Endre - ” *Håll Sverige Rent!* ”. Inslaget visar en aningslös hemmafru på50-talet som har en ny spray som får all skit att försvinna, smuts i avloppet, stänk pådiskbänken, till och med en invandrare lyckas hon spraya bort i slutet.
+Ett mycket aningslöst tidsskede, som jag senare använder mig av i en sketch i satirprogrammet Lorry med hjälp av Lena Endre - ”*Håll Sverige Rent!*”. Inslaget visar en aningslös hemmafru på 50-talet som har en ny spray som får all skit att försvinna, smuts i avloppet, stänk pådiskbänken, till och med en invandrare lyckas hon spraya bort i slutet.
 
 https://www.youtube.com/watch?v=ZItDrGcdLRc
 
-Inslaget väcker våldsamma reaktioner, hatiska insändare och anmäls till Radionämnden. Och fälls. Det anses inte ha en ” tillräckligt tydlig avsändare ”.
+Inslaget väcker våldsamma reaktioner, hatiska insändare och anmäls till Radionämnden. Och fälls. Det anses inte ha en ”tillräckligt tydlig avsändare”.
 ::: indent
 Nåväl.
 :::

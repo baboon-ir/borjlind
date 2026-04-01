@@ -28,7 +28,7 @@ Ljusare minne från Malmö: Min första förälskelse heter Carin. Vi är båda 
 Ibland får jag syn på henne.
 :::
 
-På tal om specifik fysisk kontakt: Jag är ett barn som inbjuder till handgriplig bestraffning, en ” vildbasare ”. Enligt uppgift sliter jag ut ett par skor i veckan (det här är långt innan bokstavskombinationernas gyllene era). Båda mina föräldrar är snabba till skoningslösa örfilar över ansiktet, morgon som kväll. Knappast av ondo eller kärlekslöshet, det är tidens vedertagna sätt att fostra krångliga barn. Aga, helt enkelt. Spocks insikter om barns behov har inte hunnit tränga igenom ännu. ” Barnet ” har inte trätt ut på arenan.
+På tal om specifik fysisk kontakt: Jag är ett barn som inbjuder till handgriplig bestraffning, en ”vildbasare”. Enligt uppgift sliter jag ut ett par skor i veckan (det här är långt innan bokstavskombinationernas gyllene era). Båda mina föräldrar är snabba till skoningslösa örfilar över ansiktet, morgon som kväll. Knappast av ondo eller kärlekslöshet, det är tidens vedertagna sätt att fostra krångliga barn. Aga, helt enkelt. Spocks insikter om barns behov har inte hunnit tränga igenom ännu. ”Barnet” har inte trätt ut på arenan.
 
 ::: indent
 Men att ständigt bli slagen gör nåt med mig, oklart vad vid den tidpunkten. Kanske blir jag strykrädd? Eller konflikträdd?
@@ -47,20 +47,20 @@ Eller helt enkelt förnedrad utan att ha en aning om det, ett kränkt barn som b
 **nakna väggar, inga fönster**
 **mitt i rummet vajar en nyspänd örfil**
 
-**” Älskling. ”**
+**”Älskling.”**
 
 **vaselin**
 **heter burken i den förbjudna lådan**
 :::
 
-:::part
+::: part
 :::
 På ett BVC-möte för ett av mina egna barn, Molly, uppmanas vi föräldrar att rita ett barndomsminne som har fastnat. Jag ritar ett barn som är bundet med ett kraftigt rep runt benet och fäst vid en sandlåda. När jag förklarar att mina föräldrar band mig för att gå och bada på stranden i Falsterbo blir det tryckt i rummet. Jag försäkrar att jag inte har för avsikt att binda Molly.
 ::: indent
 
-Minne från barndomen: Jag blir utesluten ur Vargungarna, en ideell scout för ening som kräver att man ska sitta still när dom läser långtråkiga sagor om djungelbarn och djur som kan tala. ” *Han är för orolig, han stör alla andra.* ”
+Minne från barndomen: Jag blir utesluten ur Vargungarna, en ideell scout för ening som kräver att man ska sitta still när dom läser långtråkiga sagor om djungelbarn och djur som kan tala. ”*Han är för orolig, han stör alla andra.*”
 :::
 
 ::: indent
-Jag saknar inte ” vargungarna ”, men mina föräldrar tar illa vid sig.
+Jag saknar inte ”vargungarna”, men mina föräldrar tar illa vid sig.
 :::

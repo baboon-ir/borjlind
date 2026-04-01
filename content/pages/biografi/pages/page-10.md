@@ -27,6 +27,6 @@ Så ser löftet ut.
 
 Idag är Den Osynlige försvunnen. Eventuellt dyker han upp i livets slutskede, på nåt hospis nära mig.
 
-Sverige är ett rikt och välskött land vid den här tiden. Vår utrikespolitiska servilitet under krigsåren har skapat ett unikt läge i Europa. Näringslivet blomstrar och välfärden skjuter i höjden. Familjerna skaffar tv, fäderna tittar på fotboll, hemmafruarna lyssnar på Lily Berglunds pekoral ” *Vad tar ni för valpen där i fönstret?* ”
+Sverige är ett rikt och välskött land vid den här tiden. Vår utrikespolitiska servilitet under krigsåren har skapat ett unikt läge i Europa. Näringslivet blomstrar och välfärden skjuter i höjden. Familjerna skaffar tv, fäderna tittar på fotboll, hemmafruarna lyssnar på Lily Berglunds pekoral ”*Vad tar ni för valpen där i fönstret?*”
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/6.png)

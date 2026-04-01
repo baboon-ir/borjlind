@@ -379,6 +379,25 @@ module.exports = function (eleventyConfig) {
     }));
   });
 
+  // Nav data: year groups with their chapters for sidebar navigation
+  const chapters = require("./_data/chapters.js");
+  eleventyConfig.addGlobalData("navBioData", () => {
+    return YEAR_GROUP_RANGES.map((range) => {
+      const groupChapters = chapters.filter(
+        (ch) => ch.start >= range.start && ch.start <= range.end
+      );
+      return {
+        yearGroup: range.label,
+        firstPage: range.start,
+        chapters: groupChapters.map((ch) => ({
+          title: ch.title,
+          segmentId: null, // will be resolved client-side
+          startPage: ch.start,
+        })),
+      };
+    });
+  });
+
   // Segment-based collection for e-book reader:
   // Prolog (1..PROLOG_END_PAGE) + year groups + Epilog (EPILOG_START_PAGE..TOTAL_PAGES)
   eleventyConfig.addCollection("biografiSegments", () => {

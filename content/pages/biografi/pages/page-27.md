@@ -7,7 +7,7 @@ tags: [biografiPage]
 layout: biography
 yearGroup: "1942–1955"
 ---
-DADA lär ocksåut diktandets svåra konst:
+DADA lär också ut diktandets svåra konst:
 
 ::: poem
 **HUR MAN GÖR EN DADAISTISK DIKT**
@@ -32,11 +32,11 @@ Den fungerar.
 :::
 
 ::: indent
-Carsten leder mig också till konstnären Marcel Duchamp. Knepigare territorium. Mindre skratt och mer schack. Mer hjärna och flasktorkare. Duchamp blir aldrig en husgud, gåtorna är för avancerade (jag har tillbringatåtskilliga timmar på Moderna Museet framför Duchamps stora glasverk ” *Bruden avklädd av sina ungkarlar, till och med* ” - jag fattar fortfarande inte vad det handlar om).
+Carsten leder mig också till konstnären Marcel Duchamp. Knepigare territorium. Mindre skratt och mer schack. Mer hjärna och flasktorkare. Duchamp blir aldrig en husgud, gåtorna är för avancerade (jag har tillbringat åtskilliga timmar på Moderna Museet framför Duchamps stora glasverk ”*Bruden avklädd av sina ungkarlar, till och med*” - jag fattar fortfarande inte vad det handlar om).
 :::
 
 ::: indent
-Däremot blir jag fascinerad av schweizaren Arthur Cravan (som egentligen hette Fabian Lloyd). Cravan var en vildsint poet och boxare och en av dadaisternas tidiga favoriter (hans moster var gift med Oscar Wilde). Han var tvåmeter lång och gick en gång en boxningsmatch mot Jack Johnson, den förste svarte tungviktsmästaren.
+Däremot blir jag fascinerad av schweizaren Arthur Cravan (som egentligen hette Fabian Lloyd). Cravan var en vildsint poet och boxare och en av dadaisternas tidiga favoriter (hans moster var gift med Oscar Wilde). Han var två meter lång och gick en gång en boxningsmatch mot Jack Johnson, den förste svarte tungviktsmästaren.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/217.png)
@@ -54,5 +54,7 @@ När han var 31 år rodde han ut i en båt i Salina Cruz i Mexico och kom aldrig
 Jag är benägen att hålla med.
 :::
 
-Fotnot: För den intresserade kan jag rekommendera Gunnar Qvarnströms standardverk om surrealismen, de fyra böckerna ” *Moderna Manifest* ”. En nästan outsinlig källa till citat, kunskap och skratt.
+Fotnot: För den intresserade kan jag rekommendera Gunnar Qvarnströms standardverk om surrealismen, de fyra böckerna ”*Moderna Manifest*”. En nästan outsinlig källa till citat, kunskap och skratt.
 
+::: part
+:::

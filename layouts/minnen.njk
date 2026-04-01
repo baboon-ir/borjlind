@@ -4,12 +4,6 @@ mainClass: "rb-main-full"
 noHeader: true
 noFooter: true
 ---
-{% set tocItems = [
-  { id: "kusinen", label: "Kusinen" },
-  { id: "den-osynlige", label: "Den osynlige" },
-  { id: "yngling", label: "En vacker yngling" }
-] %}
-
 <div class="rb-section-reader-wrap">
   <div class="rb-section-container">
     <div class="rb-page-title-wrap">
@@ -24,13 +18,12 @@ noFooter: true
   </div>
 
   <div class="rb-reader-bar">
-    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
+    <span></span>
     <span class="rb-reader-title">Minnen</span>
-    <button class="rb-reader-bar-btn rb-reader-nav" data-section-toc-open aria-label="Öppna innehållsförteckning">Innehåll</button>
+    <button class="rb-reader-bar-btn" data-site-nav-open aria-label="Öppna meny">Meny</button>
   </div>
 </div>
 
-{% include "section-toc.njk" %}
 {% include "site-nav.njk" %}
 
-<script>document.body.dataset.sectionReader = '1';</script>
+<script>document.body.dataset.sectionReader = '1'; document.body.dataset.navContext = 'minnen';</script>

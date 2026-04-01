@@ -23,7 +23,7 @@ Minne från barndomen i förhöjd form:
 
 **”Titta på hans hörntänder, är dom inte egendomligt långa?”**
 
-**” Jo, lika långa båda två. ”**
+**”Jo, lika långa båda två.”**
 
 **pojken försöker gå upprätt**
 **försöker vara till lags**
