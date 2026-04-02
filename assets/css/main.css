@@ -1190,7 +1190,6 @@ a.rb-skip-btn:hover {
   color: var(--color-light);
   display: flex;
   flex-direction: column;
-  overscroll-behavior-y: none;
 }
 
 .rb-main {
@@ -1382,7 +1381,6 @@ a.rb-skip-btn:hover {
 .rb-bio-reader-wrap {
   width: 100%;
   overflow-x: clip;
-  overflow-anchor: auto;
   padding-bottom: calc(52px + env(safe-area-inset-bottom));
 }
 
@@ -1755,7 +1753,6 @@ a.rb-skip-btn:hover {
   min-height: 100svh;
   display: flex;
   flex-direction: column;
-  overflow-anchor: auto;
   padding-bottom: calc(52px + env(safe-area-inset-bottom));
   background-color: var(--rb-bg);
   padding-bottom: calc(4rem + env(safe-area-inset-bottom));
@@ -1989,14 +1986,12 @@ a.rb-skip-btn:hover {
 
 /* Read-indicator dot */
 .rb-read-dot {
-  display: inline-block;
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
   border-radius: 50%;
   background-color: var(--rb-text-muted);
   flex-shrink: 0;
-  opacity: 0.7;
-  margin-left: 0.5rem;
+  opacity: 0.5;
 }
 
 /* ── Mobile: fullpage sidebar ── */
