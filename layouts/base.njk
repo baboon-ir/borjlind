@@ -3,8 +3,33 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ title or "Rolf Börjlind" }}</title>
-    <meta name="description" content="{{ teaser or description or "Rolf Börjlind – biografi" }}" />
+    {% if ogTitle %}
+      {% set pageTitle = ogTitle %}
+    {% elif title %}
+      {% set pageTitle = "Rolf Börjlind: " + title %}
+    {% else %}
+      {% set pageTitle = "Rolf Börjlind" %}
+    {% endif %}
+    {% set pageDesc = description or teaser or "Rolf Sigvard Börjlind, född 7 oktober 1943 i Västra Skrävlinge församling i Malmö, är en svensk poet, skådespelare, regissör, romanförfattare och manusförfattare. Börjlind är mest känd för filmerna om Jönssonligan samt filmerna om Martin Beck som gjordes 1997–2007." %}
+    {% set siteUrl = site.url or "https://borjlind.se" %}
+    <title>{{ pageTitle }}</title>
+    <meta name="description" content="{{ pageDesc }}" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ pageTitle }}" />
+    <meta property="og:description" content="{{ pageDesc }}" />
+    <meta property="og:image" content="{{ siteUrl }}/assets/images/og-image.png" />
+    <meta property="og:url" content="{{ siteUrl }}{{ page.url }}" />
+    <meta property="og:locale" content="sv_SE" />
+    <meta property="og:site_name" content="Rolf Börjlind" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ pageTitle }}" />
+    <meta name="twitter:description" content="{{ pageDesc }}" />
+    <meta name="twitter:image" content="{{ siteUrl }}/assets/images/og-image.png" />
+
     <link rel="stylesheet" href="/assets/css/main.css" />
   </head>
   <body class="rb-body {{ bodyClass }}">
