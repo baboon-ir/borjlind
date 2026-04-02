@@ -39,6 +39,8 @@
   let hashUpdateTimer = null;
 
   // ── Read-tracking via localStorage ──
+  const STORAGE_MAX_KEY = 'rb-bio-maxpage';
+
   const getReadChapters = () => {
     try {
       return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
@@ -49,15 +51,32 @@
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(ids)); } catch {}
   };
 
+  const getMaxPage = () => {
+    try { return Number(localStorage.getItem(STORAGE_MAX_KEY)) || 0; } catch { return 0; }
+  };
+
+  const saveMaxPage = (page) => {
+    try { localStorage.setItem(STORAGE_MAX_KEY, String(page)); } catch {}
+  };
+
+  let maxPageReached = getMaxPage();
+
   const checkChapterCompletion = (pageNumber) => {
     if (!chapterMeta.length || !pageNumber) return;
+
+    // Update high-water mark
+    if (pageNumber > maxPageReached) {
+      maxPageReached = pageNumber;
+      saveMaxPage(maxPageReached);
+    }
+
     const readIds = getReadChapters();
     let changed = false;
 
+    // Mark all chapters whose last page is at or below the max page ever reached
     for (const ch of chapterMeta) {
       if (readIds.includes(ch.id)) continue;
-      // Chapter is read when user has reached its last page
-      if (pageNumber >= ch.end) {
+      if (maxPageReached >= ch.end) {
         readIds.push(ch.id);
         changed = true;
       }
@@ -218,6 +237,8 @@
     requestAnimationFrame(() => {
       requestAnimationFrame(() => {
         restorePosition();
+        // Retroactively mark chapters read based on max page ever reached
+        checkChapterCompletion(maxPageReached);
       });
     });
   };

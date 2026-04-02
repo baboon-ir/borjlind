@@ -131,7 +131,7 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
-.h-full { height: calc(100vh - var(--header-h)); }
+.h-full { height: calc(100svh - var(--header-h)); }
 
 /* ============================================================
    Section 4 — Hub background components
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   position: relative;
   background-color: var(--color-hub);
   overflow: hidden;
-  height: 100vh;
+  height: 100svh;
 }
 
 .rb-hub-bg footer {
@@ -380,7 +380,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 .rb-title-block {
   margin: 0 auto;
   text-align: center;
-  height: calc(100vh - var(--header-h));
+  height: calc(100svh - var(--header-h));
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1184,7 +1184,7 @@ a.rb-skip-btn:hover {
    ============================================================ */
 
 .rb-body {
-  min-height: 100vh;
+  min-height: 100svh;
   font-family: var(--font-serif);
   background-color: var(--color-dark);
   color: var(--color-light);
