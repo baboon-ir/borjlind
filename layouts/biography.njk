@@ -7,6 +7,8 @@ noFooter: true
 ---
 {# Segment metadata for scroll TOC/year state #}
 <script type="application/json" id="rb-segment-data">{{ collections.biografiSegments | segmentsMeta | json | safe }}</script>
+{# Chapter metadata for read-tracking #}
+<script type="application/json" id="rb-chapter-data">{{ chapters | json | safe }}</script>
 
 <div class="rb-bio-reader-wrap">
   <div class="rb-bio-container">

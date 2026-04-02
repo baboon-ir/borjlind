@@ -390,13 +390,16 @@ module.exports = function (eleventyConfig) {
         yearGroup: range.label,
         firstPage: range.start,
         chapters: groupChapters.map((ch) => ({
+          id: ch.id,
           title: ch.title,
-          segmentId: null, // will be resolved client-side
           startPage: ch.start,
         })),
       };
     });
   });
+
+  // Chapter metadata for read-tracking in templates
+  eleventyConfig.addGlobalData("chapters", () => chapters);
 
   // Segment-based collection for e-book reader:
   // Prolog (1..PROLOG_END_PAGE) + year groups + Epilog (EPILOG_START_PAGE..TOTAL_PAGES)

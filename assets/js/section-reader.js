@@ -76,7 +76,34 @@
       });
     });
 
-    openBtns.forEach((btn) => btn.addEventListener('click', openSiteNav));
+    // ── Read-indicator dots ──
+    const STORAGE_KEY = 'rb-bio-read';
+
+    const updateReadDots = () => {
+      let readIds = [];
+      try { readIds = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); } catch {}
+
+      siteNav.querySelectorAll('[data-chapter-id]').forEach((link) => {
+        const chId = Number(link.dataset.chapterId);
+        const dot = link.querySelector('.rb-read-dot');
+        if (readIds.includes(chId)) {
+          if (!dot) {
+            const span = document.createElement('span');
+            span.className = 'rb-read-dot';
+            span.setAttribute('aria-label', 'Läst');
+            link.appendChild(span);
+          }
+        } else if (dot) {
+          dot.remove();
+        }
+      });
+    };
+
+    // Wire open buttons — update dots each time nav opens
+    openBtns.forEach((btn) => btn.addEventListener('click', () => {
+      openSiteNav();
+      updateReadDots();
+    }));
     closeBtns.forEach((btn) => btn.addEventListener('click', closeSiteNav));
     if (backdrop) backdrop.addEventListener('click', closeSiteNav);
 
@@ -93,11 +120,13 @@
       });
     });
 
+    // Live update when bio-reader dispatches read event
+    window.addEventListener('rb-read-updated', () => updateReadDots());
+
     // Initialize: show main level (hidden by default)
     showLevel('main');
+    updateReadDots();
   }
-
-  /* Section-TOC removed — navigation handled by site-nav sidebar */
 })();
 
 /* ── Accordion toggle text ── */

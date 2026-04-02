@@ -33,7 +33,7 @@
           <div class="rb-site-nav-group-label">{{ group.yearGroup }}</div>
           <ul class="rb-site-nav-list">
             {% for ch in group.chapters %}
-            <li><a class="rb-site-nav-link rb-site-nav-chapter" href="/biografi/#p-{{ ch.startPage | pad3 }}" data-nav-page="{{ ch.startPage }}">{{ ch.title }}</a></li>
+            <li><a class="rb-site-nav-link rb-site-nav-chapter" href="/biografi/#p-{{ ch.startPage | pad3 }}" data-nav-page="{{ ch.startPage }}" data-chapter-id="{{ ch.id }}">{{ ch.title }}</a></li>
             {% endfor %}
           </ul>
         </div>

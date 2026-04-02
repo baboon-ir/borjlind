@@ -2,10 +2,20 @@
   if (!document.body.dataset.biography) return;
 
   const totalPages = Number.parseInt(document.body.dataset.totalPages || '276', 10);
+  const STORAGE_KEY = 'rb-bio-read';
+  const STORAGE_PAGE_KEY = 'rb-bio-page';
+
   let segmentMeta = [];
   try {
     segmentMeta = JSON.parse(
       document.getElementById('rb-segment-data')?.textContent || '[]'
+    );
+  } catch {}
+
+  let chapterMeta = [];
+  try {
+    chapterMeta = JSON.parse(
+      document.getElementById('rb-chapter-data')?.textContent || '[]'
     );
   } catch {}
 
@@ -26,6 +36,76 @@
   let currentPageNumber = null;
   let frameId = null;
   let reflowId = null;
+  let hashUpdateTimer = null;
+
+  // ── Read-tracking via localStorage ──
+  const getReadChapters = () => {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+    } catch { return []; }
+  };
+
+  const saveReadChapters = (ids) => {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(ids)); } catch {}
+  };
+
+  const checkChapterCompletion = (pageNumber) => {
+    if (!chapterMeta.length || !pageNumber) return;
+    const readIds = getReadChapters();
+    let changed = false;
+
+    for (const ch of chapterMeta) {
+      if (readIds.includes(ch.id)) continue;
+      // Chapter is read when user has reached its last page
+      if (pageNumber >= ch.end) {
+        readIds.push(ch.id);
+        changed = true;
+      }
+    }
+
+    if (changed) {
+      saveReadChapters(readIds);
+      // Dispatch event so open nav can update dots live
+      window.dispatchEvent(new CustomEvent('rb-read-updated', { detail: readIds }));
+    }
+  };
+
+  // ── Save last page to localStorage as fallback ──
+  const saveLastPage = (pageNumber) => {
+    try { localStorage.setItem(STORAGE_PAGE_KEY, String(pageNumber)); } catch {}
+  };
+
+  // ── URL hash + position restore ──
+  const updateHash = (pageNumber) => {
+    const hash = `#p-${String(pageNumber).padStart(3, '0')}`;
+    if (window.location.hash !== hash) {
+      history.replaceState(null, '', hash);
+    }
+  };
+
+  const restorePosition = () => {
+    // Priority 1: URL hash
+    const hash = window.location.hash;
+    if (hash && hash.startsWith('#p-')) {
+      const target = document.getElementById(hash.slice(1));
+      if (target) {
+        target.scrollIntoView({ behavior: 'instant', block: 'start' });
+        return;
+      }
+    }
+
+    // Priority 2: localStorage fallback
+    try {
+      const savedPage = localStorage.getItem(STORAGE_PAGE_KEY);
+      if (savedPage) {
+        const anchor = `p-${String(savedPage).padStart(3, '0')}`;
+        const target = document.getElementById(anchor);
+        if (target) {
+          target.scrollIntoView({ behavior: 'instant', block: 'start' });
+        }
+      }
+    } catch {}
+  };
 
   const setYearLabel = (segmentId) => {
     if (!yearLabel) return;
@@ -98,6 +178,14 @@
       if (footerIndicator) {
         footerIndicator.textContent = `${currentPageNumber} av ${totalPages}`;
       }
+
+      // Debounced hash update (avoid spamming history)
+      clearTimeout(hashUpdateTimer);
+      hashUpdateTimer = setTimeout(() => {
+        updateHash(currentPageNumber);
+        saveLastPage(currentPageNumber);
+        checkChapterCompletion(currentPageNumber);
+      }, 400);
     }
   };
 
@@ -107,10 +195,6 @@
       updateFromScroll();
       frameId = null;
     });
-  };
-
-  const wireToc = () => {
-    // TOC panel removed — navigation handled by site-nav sidebar
   };
 
   const wireReflowTriggers = () => {
@@ -126,10 +210,16 @@
   };
 
   const setup = () => {
-    wireToc();
     wireReflowTriggers();
     recomputePositions();
     window.addEventListener('scroll', onScroll, { passive: true });
+
+    // Restore reading position after layout settles
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        restorePosition();
+      });
+    });
   };
 
   window.addEventListener('DOMContentLoaded', setup);

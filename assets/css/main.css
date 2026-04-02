@@ -1984,6 +1984,16 @@ a.rb-skip-btn:hover {
   padding: 0.5rem 0.75rem;
 }
 
+/* Read-indicator dot */
+.rb-read-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: var(--rb-text-muted);
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+
 /* ── Mobile: fullpage sidebar ── */
 @media (max-width: 768px) {
   .rb-site-nav-content {
