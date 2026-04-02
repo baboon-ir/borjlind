@@ -311,6 +311,8 @@ module.exports = function (eleventyConfig) {
 
   // If you add images later, place them in assets/images/.
   eleventyConfig.addPassthroughCopy({ "assets/images": "assets/images" });
+  // Favicon at root for browsers that look for /favicon.png
+  eleventyConfig.addPassthroughCopy({ "assets/images/fav.png": "favicon.png" });
 
   // Filters
   eleventyConfig.addFilter("pad3", pad3);
