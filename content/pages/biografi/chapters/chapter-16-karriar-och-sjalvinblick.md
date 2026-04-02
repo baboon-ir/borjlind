@@ -27,7 +27,7 @@ Det är försommar och jag får ett telefonsamtal från regissören Kjell Sundva
 :::
 
 ::: indent
-Jag är inte såtrakterad av att exponera mig påsatirscenen igen, jag har gjort den svängen, tuggat benet och spottat ut det. Samtidigt har det börjat dyka upp reklamfilmer i tv via den Londonbaserade kanalen TV3. Jag är, efter mina besök i USA, allergisk mot reklam i tv. Nuär det på väg in här. Jag får en idéoch ringer tillbaka till Sundvall.
+Jag är inte så trakterad av att exponera mig på satirscenen igen, jag har gjort den svängen, tuggat benet och spottat ut det. Samtidigt har det börjat dyka upp reklamfilmer i tv via den Londonbaserade kanalen TV3. Jag är, efter mina besök i USA, allergisk mot reklam i tv. Nu är det på väg in här. Jag får en idé och ringer tillbaka till Sundvall.
 :::
 
 ::: indent
@@ -66,14 +66,14 @@ Jag är inte såtrakterad av att exponera mig påsatirscenen igen, jag har gjort
 Sauk och jag träffas. Vi känner rätt snabbt att vi kan funka ihop. Jag skriver, han gestaltar. Hur vet vi inteännu.
 :::
 
-”*Lorry*”(som blir det slutgiltiga namnet påserien, ett förslag från författaren Sven-Hugo Persson, med till ägget”*för er som är vana att ha det lite småtrist*”) produceras i dom gamla tv-barackerna på Valhallavägen. En fantastiskt kreativ miljö, sliten, tät, alla är i kontakt med alla, inga kontorslandskap, gångavstånd mellan idéerna, häpnadsväckande högt i tak (en stor eloge till Dramachefen Ingrid Dahlberg för detta).
+”*Lorry*” (som blir det slutgiltiga namnet på serien, ett förslag från författaren Sven-Hugo Persson, med tillägget ”*för er som är vana att ha det lite småtrist*”) produceras i dom gamla tv-barackerna på Valhallavägen. En fantastiskt kreativ miljö, sliten, tät, alla är i kontakt med alla, inga kontorslandskap, gångavstånd mellan idéerna, häpnadsväckande högt i tak (en stor eloge till Dramachefen Ingrid Dahlberg för detta).
 ::: indent
 Producenten heter Tommy Bennwik, Sundvall regisserar, sex skådespelare medverkar: Lena Endre, Ulla Skoog, Claes Månsson, Peter Dalle, Johan Ulveson och Stefan Sauk. Ett 20-tal författare anlitas. Rätt snabbt lägger vi gemensamt fast en form för programmet, som delas in i sju block : Sketcher, reklamavbrott, sketcher, Sauk, sketcher, reklamavbrott, sketcher. En enkel och tydlig struktur som bibehålls genom allaår serien sänds.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/267.jpeg)
 
-Carsten och jag kommer snabbt fram till en layout för reklamfilmerna. Inslagen ska påannonseras som ”*Kanal C*”med Carstens stiliseradeöga som logotype.
+Carsten och jag kommer snabbt fram till en layout för reklamfilmerna. Inslagen ska påannonseras som ”*Kanal C*” med Carstens stiliserade öga som logotype.
 
 [yt-video][https://www.youtube.com/watch?v=WWkM1T_eksQ]
 
@@ -81,14 +81,14 @@ Varje block ska vara 3 minuter och dyka upp tvågånger i varje program (sammanl
 <!-- PAGE 181 END -->
 
 <!-- PAGE 182 START -->
-Stefan och jag börjar arbeta. Han får en massa textbitar av mig och börjar repetera framför en uppställd videokamera i ett tomt litet kontorsrum i en träbarack (den inhyser Lorrys redaktionslokaler). I och med att kameran står fast får han själv bestämma skärpa och avstånd. Det gör honom fri. Han jobbar i timmar framför kameran, ensam, lär sig hur han ska förhålla sig till avståndet, var han kan ramla, hur han kan gå, hur han kan försvinna ur bild. Han prövar att skrika, viska, ändra tonläge och dialekt. Efteråt tittar vi påresultatet tillsammans.”Den gesten är bra”, sen spolar vi fram tjugo minuter, ”den dialekten är rolig”, spolar igen, ”det uttrycket håller”osv. Det är ett nytt sätt att arbeta påsom är möjligt tack vare videokameran.
+Stefan och jag börjar arbeta. Han får en massa textbitar av mig och börjar repetera framför en uppställd videokamera i ett tomt litet kontorsrum i en träbarack (den inhyser Lorrys redaktionslokaler). I och med att kameran står fast får han själv bestämma skärpa och avstånd. Det gör honom fri. Han jobbar i timmar framför kameran, ensam, lär sig hur han ska förhålla sig till avståndet, var han kan ramla, hur han kan gå, hur han kan försvinna ur bild. Han prövar att skrika, viska, ändra tonläge och dialekt. Efteråt tittar vi på resultatet tillsammans. ”Den gesten är bra”, sen spolar vi fram tjugo minuter, ”den dialekten är rolig”, spolar igen, ”det uttrycket håller” osv. Det är ett nytt sätt att arbeta på som är möjligt tack vare videokameran.
 ::: indent
-Vi känner ocksånästan direkt att det är här vi ska göra inspelningarna. I det här utomordentligt charmlösa och oscenograferade hålrummet, med enbart en fast kamera. Ingen fotograf, Stefan får själv dirigera sitt agerande framför objektivet. Effekten blir påträngande och originell. Vi föreslår att inslagen ska starta med en grynig ruta som aviserar ett”*Tillfälligt Avbrott*”. Sundvall tycker det är en bra idé.
+Vi känner också nästan direkt att det är här vi ska göra inspelningarna. I det här utomordentligt charmlösa och oscenograferade hålrummet, med enbart en fast kamera. Ingen fotograf, Stefan får själv dirigera sitt agerande framför objektivet. Effekten blir påträngande och originell. Vi föreslår att inslagen ska starta med en grynig ruta som aviserar ett ”*Tillfälligt Avbrott*”. Sundvall tycker det är en bra idé.
 :::
 
 [yt-video][https://www.youtube.com/watch?v=iwRXs_O5vt0]
 
-Karaktären ”Rune”och hans uttryck”*de e mycke nu*”får en märklig genomslagskraft. Plötsligt dyker det upp i alla möjliga sammahang, såväl i folkmun som i riksdagsdebatter. Fyra enkla ord som uppenbarligen fångar upp en utbredd känsla i tiden (genomslaget påminner om ett annat av mina uttryck lite senare, också med fyra ord:”*Skaru ha en stänkare*?”).
+Karaktären ”Rune” och hans uttryck ”*de e mycke nu*” får en märklig genomslagskraft. Plötsligt dyker det upp i alla möjliga sammanhang, såväl i folkmun som i riksdagsdebatter. Fyra enkla ord som uppenbarligen fångar upp en utbredd känsla i tiden (genomslaget påminner om ett annat av mina uttryck lite senare, också med fyra ord: ”*Skaru ha en stänkare*?”).
 
 Om Stefan: Många skådespelare ska vända och vrida på en text, fundera, förankra, känna in - Stefan går rakt på. Utan betänkligheter. Han levererar det jag skriver utan omsvep. Ofta med egna utvikningar som är analoga med texten och karaktären.
 ::: indent
@@ -105,12 +105,12 @@ Programmet inhöstar beröm och vinner priser. Själv får jag Expressens heders
 :::
 
 ::: indent
-”*Lorry*”blir också SVT:s Montreaux-bidrag 1990.
+”*Lorry*” blir också SVT:s Montreaux-bidrag 1990.
 :::
 
 Som vanligt blir jag indragen i censurdiskussioner ett antal gånger, men dramaledningen har högt i tak (på den här tiden) och det mesta får passera.
 ::: indent
-Ett par gånger under serien hamnar jag ocksåi skottgluggen för människor som har blivit sårade eller kränkta eller bara upprörda över olika inslag. När vi gör en miniserie om det motbjudande geschäftet i begravningsbranschen och låter den fiktive karaktären”Helige Harry”kränga barnkistor byggda av legobitar blir det starka reaktioner.
+Ett par gånger under serien hamnar jag också i skottgluggen för människor som har blivit sårade eller kränkta eller bara upprörda över olika inslag. När vi gör en miniserie om det motbjudande geschäftet i begravningsbranschen och låter den fiktive karaktären ”Helige Harry” kränga barnkistor byggda av legobitar blir det starka reaktioner.
 :::
 
 Jag har förståelse för det. Problemet är att du inte kan skriva satir utan att riskera den effekten. Det finns alltid individer som tolkar in fel saker eller inte förstår ironi, som känner sig trampade påtårna. Men vill du undvika att trampa påtår ska du inteägna digåt satir.
@@ -129,7 +129,7 @@ Lorrys framgångar beror på flera olika saker, enligt min uppfattning. Mixen me
 
 Såhär långt, i slutet av 80-talet, är livet fortfarande hanterbart. Dom tioåren på ön har fjärmat mig en hel del från det som gröpte ur tillvaron och slet sönder mig. Jag har landat i ett annat jag. Föga anar jag vad som väntar runt hörnet (vi gör ju sällan det).
 
-Men innan hörnet kommer skriver jag manus till en helaftonspjäs i samarbete med Lars Amble och Brasse Brännström. Manuset bygger på en engelsk förlaga och sätts upp på Maximteatern under namnet”*Happy End*”.
+Men innan hörnet kommer skriver jag manus till en helaftonspjäs i samarbete med Lars Amble och Brasse Brännström. Manuset bygger på en engelsk förlaga och sätts upp på Maximteatern under namnet ”*Happy End*”.
 ::: indent
 Jag missar premiären.
 :::
@@ -230,7 +230,7 @@ Lorry nomineras till Guldrosen, Europas finaste tv-pris. Det ska delas ut i Mont
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/2000.jpeg)
 
-Vi har arbetat ihop en längre tid med Lorry och drabbats av varann. Varför vet jag inte riktigt (vem har svaret påsånt?). Jag har varit ihop med Tove i 18 år, älskar henne, älskar mina barn, mina omständigheter, vår trygga borg mot omvärlden. Ändåfaller jag handlöst in en förälskelse som snabbt över går i en ohejdbar passion, eller en ”våldsam sinnesrörelse”som är den lexikala beskrivningen.
+Vi har arbetat ihop en längre tid med Lorry och drabbats av varann. Varför vet jag inte riktigt (vem har svaret på sånt?). Jag har varit ihop med Tove i 18 år, älskar henne, älskar mina barn, mina omständigheter, vår trygga borg mot omvärlden. Ändå faller jag handlöst in en förälskelse som snabbt övergår i en ohejdbar passion, eller en ”våldsam sinnesrörelse” som är den lexikala beskrivningen.
 ::: indent
 Det är märkligt att drabbas av det. Kraften i känslorna, hur jag förvandlas från nånting jag är till nånting jag går intill och betraktar med förvirradeögon. Hur allt i min omvärld filtreras genom en regnbåge av rus och hänförelse. Allt blir overkligt verkligt, förhöjt.
 :::
@@ -250,7 +250,7 @@ Jag försöker göra det ensam i Venedig.
 :::
 
 ::: indent
-Ett regnigt och ödsligt Venedig. Jag går runt i gränderna som en våt vålnad utan riktning, bara går, har ingen jag kan prata med, vill inte prata med nån, står stirrande mot skrovliga husfasader, tar en båt över Dödens Lagun ut till Torcelli, den vackra grönaön som bara känns meningslös, åker tillbaka, går in i ett palats fylld med gigantiska oljemålningar i självmordsfärger, hittar Harrys Bar, den är stängd, sover en natt i ett billigt rum utan handfat, äter ingen frukost, ingen aptit, stannar till vid ett vykortsstånd utanför en tobaksaffär, en kvinna kommer ut och betraktar mig, letar upp ett vykort och sträcker det till mig. Bilden föreställer en mycket fet naken kvinna, hon står upp och bär en annan naken, plattbröstad kvinna i sina armar, ett långt pärlhalsband hänger ner från hennes hals, hennes mun är halvöppen, den feta kvinnan har högklackade svarta skor på sig, en kraftig köttvalk buktar ner över hennes renrakade vagina, hennes hår är svart och bakåtslickat, runt hennes hals hänger en vitögonbindel, kvinnan som har gett mig vykortet säger att den feta kvinnan heter”*Dagens Öga*”och kroppen i hennes armar är”*Rudolf la Doux*”, en man alltså, jag köper vykortet, sätter mig vid en kanal och skriver några ord påkortet, jag vet inte vart jag ska skicka det, i kanalvattnet flyter några döda kattungar förbi, hela tiden tänker jag på det jag inte kan lösa, det som gör mig förtvivlad, regnet rinner ner innanför jackan, jag fryser och slinker in på en restaurang, sätter mig ett mörkt hörn, en bit bort sitter en stor italiensk familj, minst elva personer, dricker vin, skrattar, bryter bröd, pratar på ett språk som jag inte behärskar, får in ett stort silverfat med en saltinbakad fisk på, kyparen bryter loss saltet, familjen följer andäktigt hans rörelser, några ler, andra skålar, jag märker hur jag snyltar på deras värme, suger i mig deras gemenskap som en svulten fästing, försöker vara delaktig ... nästa morgon spricker plötsligt molnen upp, vattenpölarna på Markusplatsen glittrar och allting känns bara värre.
+Ett regnigt och ödsligt Venedig. Jag går runt i gränderna som en våt vålnad utan riktning, bara går, har ingen jag kan prata med, vill inte prata med nån, står stirrande mot skrovliga husfasader, tar en båt över Dödens Lagun ut till Torcelli, den vackra gröna ön som bara känns meningslös, åker tillbaka, går in i ett palats fyllt med gigantiska oljemålningar i självmordsfärger, hittar Harrys Bar, den är stängd, sover en natt i ett billigt rum utan handfat, äter ingen frukost, ingen aptit, stannar till vid ett vykortsstånd utanför en tobaksaffär, en kvinna kommer ut och betraktar mig, letar upp ett vykort och sträcker det till mig. Bilden föreställer en mycket fet naken kvinna, hon står upp och bär en annan naken, plattbröstad kvinna i sina armar, ett långt pärlhalsband hänger ner från hennes hals, hennes mun är halvöppen, den feta kvinnan har högklackade svarta skor på sig, en kraftig köttvalk buktar ner över hennes renrakade vagina, hennes hår är svart och bakåtslickat, runt hennes hals hänger en vit ögonbindel, kvinnan som har gett mig vykortet säger att den feta kvinnan heter ”*Dagens Öga*” och kroppen i hennes armar är ”*Rudolf la Doux*”, en man alltså, jag köper vykortet, sätter mig vid en kanal och skriver några ord på kortet, jag vet inte vart jag ska skicka det, i kanalvattnet flyter några döda kattungar förbi, hela tiden tänker jag på det jag inte kan lösa, det som gör mig förtvivlad, regnet rinner ner innanför jackan, jag fryser och slinker in på en restaurang, sätter mig ett mörkt hörn, en bit bort sitter en stor italiensk familj, minst elva personer, dricker vin, skrattar, bryter bröd, pratar på ett språk som jag inte behärskar, får in ett stort silverfat med en saltinbakad fisk på, kyparen bryter loss saltet, familjen följer andäktigt hans rörelser, några ler, andra skålar, jag märker hur jag snyltar på deras värme, suger i mig deras gemenskap som en svulten fästing, försöker vara delaktig ... nästa morgon spricker plötsligt molnen upp, vattenpölarna på Markusplatsen glittrar och allting känns bara värre.
 :::
 
 Cilla och jag gifter oss någraår senare. Bröllopsresan går till Venedig. Den våta vålnaden är försvunnen och Cilla blir den tredje grundpelaren i mitt liv (till dags dato har vi varit tillsammans i 30 år och har en dotter, Molly, till henneåterkommer jag).
@@ -311,17 +311,17 @@ Jag skriver en text till katalogen som jag döper efter ett lysande uttryck av C
 ::: part
 :::
 
-I samband med utställningen arrangerar Gateway sina sista tre multimedia för eställningar (live, vi kommer att använda konceptet i en tv-serie senare det häråret). Det sker ocksåpå Kulturhuset. Vi döper arrangemanget till ”*Sista Skriket - en futuristisk happening i 5 paket*”. Medverkande är en blandning av poeter, konstnärer, musiker och skådespelare: Karl-Erik Welin, Stefan Sauk, Janne Schaffer, Sten Hansson, Ola Magnell, Curre Hillfon, Mats Ronander, Bruno KÖijer, Åke Sundqvist, Anna-Lotta Larsson m.fl.
+I samband med utställningen arrangerar Gateway sina sista tre multimediaföreställningar (live, vi kommer att använda konceptet i en tv-serie senare det här året). Det sker också på Kulturhuset. Vi döper arrangemanget till ”*Sista Skriket - en futuristisk happening i 5 paket*”. Medverkande är en blandning av poeter, konstnärer, musiker och skådespelare: Karl-Erik Welin, Stefan Sauk, Janne Schaffer, Sten Hansson, Ola Magnell, Curre Hillfon, Mats Ronander, Bruno K Öijer, Åke Sundqvist, Anna-Lotta Larsson m.fl.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/207.png)
 
-Den stora hörsalen är fullsatt påpremiären, 400 människor. Inledningsnumret sker i en helt nersläckt salong med svarta fönster. När numret närmar sig slutet höjs sakta de mekaniska ridåer som sitter mellan dom enorma glasfönstren, långsamt blottas hela innerstaden utanför, med neonljus och flämtande bilstrålkastare. Känslan av att sitta i ett rymdskepp är påtaglig.
+Den stora hörsalen är fullsatt på premiären, 400 människor. Inledningsnumret sker i en helt nersläckt salong med svarta fönster. När numret närmar sig slutet höjs sakta de mekaniska ridåer som sitter mellan dom enorma glasfönstren, långsamt blottas hela innerstaden utanför, med neonljus och flämtande bilstrålkastare. Känslan av att sitta i ett rymdskepp är påtaglig.
 ::: indent
 Speciellt inslag: Sauk tränger sig in mellan dom dubbla rutorna i glasfasaden, det finns ett utrymme på en halvmeter där. Han är uppmickad mot högtalarna i salongen. Sakta rör han sig mellan glasen medan han gestaltar en text. Det ser ut som om han svävar.
 :::
 
 ::: indent
-Annat speciellt inslag: Carsten lägger in en liten glaslåda med levande myror i en projektor och projicerar myrorna tvärs genom salongen och ut påhusfasaden mittemot Kulturhuset. Gigantiska myror krälar över den gråhusväggen. Fotgängare och biltrafik stannar upp (idén kommer från ”*Brain Bizzare*”på Moderna Museet, när han projicerade levande möss påfilmduken).
+Annat speciellt inslag: Carsten lägger in en liten glaslåda med levande myror i en projektor och projicerar myrorna tvärs genom salongen och ut på husfasaden mittemot Kulturhuset. Gigantiska myror krälar över den grå husväggen. Fotgängare och biltrafik stannar upp (idén kommer från ”*Brain Bizzare*” på Moderna Museet, när han projicerade levande möss på filmduken).
 :::
 
 ::: indent
@@ -348,7 +348,7 @@ Under repetitionen känner jag att det är nånting som saknas. En stund innan p
 
  Transaktionen går mycket snabbt.
 
- Med ett par svarta trosor som mask över ansiktet framför jag sen rapdikten”*Fantomen*”.
+Med ett par svarta trosor som mask över ansiktet framför jag sen rapdikten ”*Fantomen*”.
 ::: indent
 På natten efter föreställningen skriver jag en dikt innan jag somnar:
 :::
@@ -403,11 +403,11 @@ Påuppdrag av Filmfestivalen i Göteborg skriver jag en text till tidningen ”D
 
 **     Så ser filmskapandet sällan ut.**
 
-**     Därför är det, nästan, alltid samma sak: att se ”min”egen text på duk blir en frustrerande form av masochism som jag då och då utsätter mig för.**
+**     Därför är det, nästan, alltid samma sak: att se ”min” egen text på duk blir en frustrerande form av masochism som jag då och då utsätter mig för.**
 
 **     Chansen finns ju.**
 
-**     Chansen att det plötsligt händer: att en gestaltning tränger förbi och in. Det kan vara en enstaka sekvens, kanske bara en blick mellan två ord, eller en fullständigt”fel” pausering - något som plötsligt lyfter undan hantverket och öppnar ett bråddjup in i mig själv: det var detta jag en gång kände! Det var detta jag avsåg - att se det osedda!**
+**     Chansen att det plötsligt händer: att en gestaltning tränger förbi och in. Det kan vara en enstaka sekvens, kanske bara en blick mellan två ord, eller en fullständigt ”fel” pausering - något som plötsligt lyfter undan hantverket och öppnar ett bråddjup in i mig själv: det var detta jag en gång kände! Det var detta jag avsåg - att se det osedda!**
 
 **     Och så länge den chansen finns, sitter jag där ensam i mörkret och torteras.”**
 
@@ -481,11 +481,11 @@ Det är dags för den slutgiltiga manifestationen av Carstens och min multimedia
 :::
 
 ::: indent
-Vi lägger fram ett program för slag till Lars Säfström, chef på SVT Drama. Vi vill göra en tv-serie efter modell från dom olika multimedia för eställningar vi har gjort genomåren. Vi vill utnyttja alla kontaktnät vi har byggt upp under 25 år. Vi vill kalla serien för ”*Sista Skriket*”-åtta avsnitt om 45 minuter, med en blandning av musiker, magiker, poeter, dansare, författare, konstnärer, illusionister. Från Kroumata till Benny Andersson. FrånÅke Hodell till Bruno KÖijer. Från Pugh till Kjartan Slettermark. Från Ulf Linde till Karl-Erik Welin. Från Jan Allan till Mats Ronander via Georg Riedel. Från Ola Magnell till Jojje Wadenius via Sauk och Lena Nyman.
+Vi lägger fram ett programförslag till Lars Säfström, chef på SVT Drama. Vi vill göra en tv-serie efter modell från dom olika multimediaföreställningar vi har gjort genom åren. Vi vill utnyttja alla kontaktnät vi har byggt upp under 25 år. Vi vill kalla serien för ”*Sista Skriket*” - åtta avsnitt om 45 minuter, med en blandning av musiker, magiker, poeter, dansare, författare, konstnärer, illusionister. Från Kroumata till Benny Andersson. Från Åke Hodell till Bruno K Öijer. Från Pugh till Kjartan Slettermark. Från Ulf Linde till Karl-Erik Welin. Från Jan Allan till Mats Ronander via Georg Riedel. Från Ola Magnell till Jojje Wadenius via Sauk och Lena Nyman.
 :::
 
 ::: indent
-Ett något annorlunda”underhållningsprogram”, en våldsam, turbulent urladdning.
+Ett något annorlunda ”underhållningsprogram”, en våldsam, turbulent urladdning.
 :::
 
 ::: indent
@@ -493,11 +493,11 @@ Säfström blir intresserad och ger klartecken (och han gör det utan att ha en 
 :::
 
 ::: indent
-Carsten och jag sätter ihop en redaktion som ska svara för seriens innehåll och form - han själv, jag, Stefan Sauk, batteristsnilletÅke Sundqvist, Lena Nyman och Stefan Nilsson. Vi kompletterar den med Cilla Gemvall och min syster Christina (hon är vid det här laget fast anställd på SVT). Även min svärdotter Pia Börjlind kopplas in i produktionen.
+Carsten och jag sätter ihop en redaktion som ska svara för seriens innehåll och form - han själv, jag, Stefan Sauk, batteristsnillet Åke Sundqvist, Lena Nyman och Stefan Nilsson. Vi kompletterar den med Cilla Gemvall och min syster Christina (hon är vid det här laget fast anställd på SVT). Även min svärdotter Pia Börjlind kopplas in i produktionen.
 :::
 
 ::: indent
-Parentes: Först vill jag ha med Kristina Lugn i redaktionen. Vi träffas över en öl påjärnvägsrestaurangen vid Tekniska Högskolan. Hon tvekar, röker och avstår - möjligen finns suget efter Svenska Akademien redan nu. Jag vänder mig till Lena Nyman istället. Hon ställer upp direkt.
+Parentes: Först vill jag ha med Kristina Lugn i redaktionen. Vi träffas över en öl på järnvägsrestaurangen vid Tekniska Högskolan. Hon tvekar, röker och avstår - möjligen finns suget efter Svenska Akademien redan nu. Jag vänder mig till Lena Nyman istället. Hon ställer upp direkt.
 :::
 
 ::: indent
@@ -535,13 +535,13 @@ Serien spelas in i underjorden under S:t Eriksplan. Platsen döps till Lilla Bei
 :::
 
 ::: indent
-Dom bygger också en bar som heter *”BALOOBA BAR”* där vi serveraröl och vin. Baren blir ett naturligt häng efter varje avslutad inspelning, team och artister blandas. Senare på natten kommer andra godsaker fram.
+Dom bygger också en bar som heter *”BALOOBA BAR”* där vi serverar öl och vin. Baren blir ett naturligt häng efter varje avslutad inspelning, team och artister blandas. Senare på natten kommer andra godsaker fram.
 :::
 <!-- PAGE 189 END -->
 
 <!-- PAGE 190 START -->
 ::: indent
-Reflektion: Med hänsyn till den enorma blandningen av utpräglade individualister och fågivna kommandon (i princip inga körscheman över huvudtaget)är det imponerande hur friktionslöst inspelningen genomförs, hur den genomsyras av respekt för var och en som deltar, hur själva sammelsuriet är befruktande.
+Reflektion: Med hänsyn till den enorma blandningen av utpräglade individualister och få givna kommandon (i princip inga körscheman över huvud taget) är det imponerande hur friktionslöst inspelningen genomförs, hur den genomsyras av respekt för var och en som deltar, hur själva sammelsuriet är befruktande.
 :::
 
 ::: indent
@@ -582,11 +582,11 @@ Efter ett par kvällar är hela SVT-teamet på vår sida (en av veteranerna, All
 :::
 
 ::: indent
-Hela serien byggs upp efter samma grundprinciper som Kulturmagasinet Vargen, fast i tv-form - total blandning av kulturformer, ingen censur, full respekt för varje individ. Enda inre konflikten handlar om ett inslag där elektronmusikern Sten Hansson kastar fläskkotletter på olika politikerporträtt som en kommentar till”valfläsk”. Kanske inte såsubtilt, men ”bra tv”som det heter idag. Inslaget behålls.
+Hela serien byggs upp efter samma grundprinciper som Kulturmagasinet Vargen, fast i tv-form - total blandning av kulturformer, ingen censur, full respekt för varje individ. Enda inre konflikten handlar om ett inslag där elektronmusikern Sten Hansson kastar fläskkotletter på olika politikerporträtt som en kommentar till ”valfläsk”. Kanske inte så subtilt, men ”bra tv” som det heter idag. Inslaget behålls.
 :::
 
 ::: indent
-Och här ett annat avsnitt, med kompositören Sten Hansson, konstintendenten Ulf Linde och dansbandspastishen”ÅKE STEFANZ ”med Ola Magnell. I slutet framför jag själv en text till svidande såg. Den handlar om Carsten och mig. Om vår resa. Jag försöker trycka tillbaka alla känslor. Happy Cousins lider mot sitt slut:
+Och här ett annat avsnitt, med kompositören Sten Hansson, konstintendenten Ulf Linde och dansbandspastishen ”ÅKE STEFANZ” med Ola Magnell. I slutet framför jag själv en text till svidande såg. Den handlar om Carsten och mig. Om vår resa. Jag försöker trycka tillbaka alla känslor. Happy Cousins lider mot sitt slut:
 :::
 
 [yt-video][https://www.youtube.com/watch?v=VrWfKg4rzm8]
@@ -605,7 +605,7 @@ Och här ett mer stillsamt inslag. Carsten spelar omnichord, han är märkt av c
 <!-- PAGE 190 END -->
 
 <!-- PAGE 191 START -->
-Hela tv-serien avslutas med ett specialprogram där Bruno KÖijer framför sin långa dikt”*Skisser till ett av dödens tal*”till ackompanjemang av Jan Tolf och några musiker.
+Hela tv-serien avslutas med ett specialprogram där Bruno KÖijer framför sin långa dikt ”*Skisser till ett av dödens tal*” till ackompanjemang av Jan Tolf och några musiker.
 
 [yt-video][https://www.youtube.com/watch?v=YtzHMP2o1nw]
 
@@ -627,15 +627,15 @@ Såhär sammanfattar jag hela inspelningen i en text till cd-skivan:
 
 Av någon anledning finns inte serien” *Sista Skriket”* bevarat i SVT:s arkiv.
 ::: indent
-Söker du på”Sista Skriket”i Öppet Arkiv får du upp en lätt tintad moralitet av Ingmar Bergman.
+Söker du på ”Sista Skriket” i Öppet Arkiv får du upp en lätt tintad moralitet av Ingmar Bergman.
 :::
 
 ::: part
 :::
 
-Såkrälar främlingsfientligheten in ytterligare en bit i vårt samhälle. Ny Demokrati bildas, av Ian Wachtmeister och Bert Karlsson - en degenererad greve och en vulg är pajas i ledningen för ett öppet rasistiskt parti. Det ger en föraning om den bruna gas som ska sippra in i ett rämnande samhällsbygge på 2000-talet. Ny Demokrati blir en testballong för Sverigedemokraterna.
+Så krälar främlingsfientligheten in ytterligare en bit i vårt samhälle. Ny Demokrati bildas, av Ian Wachtmeister och Bert Karlsson - en degenererad greve och en vulgär pajas i ledningen för ett öppet rasistiskt parti. Det ger en föraning om den bruna gas som ska sippra in i ett rämnande samhällsbygge på 2000-talet. Ny Demokrati blir en testballong för Sverigedemokraterna.
 ::: indent
-En mer skrämmande utlöpare ur den rasistiska myllan är Lasermannen. John Ausonius. En förvriden man som går runt med ett lasergev är och skjuter vad han upplever som”invandrare”. Galning, så klart, men den ideologiska backupen finns högre upp i samhället.
+En mer skrämmande utlöpare ur den rasistiska myllan är Lasermannen. John Ausonius. En förvriden man som går runt med ett lasergevär och skjuter vad han upplever som ”invandrare”. Galning, så klart, men den ideologiska backupen finns högre upp i samhället.
 :::
 
 ::: indent
@@ -647,7 +647,7 @@ Rasismen är delvis sanktionerad.
 
 Gösta ringer och har en idé. Han vill göra en tv-serie i tre delar om relationsproblem. Han har redan fått löfte från Dramachefen Ingrid Dahlberg om en första manusfinansiering till en serie om 3 x 60 minuter. Producenten Christer Abrahamsen och regissören Mats Arehn är vidtalade och intresserade av projektet.
 ::: indent
-Vi börjar arbeta påhistorien som har arbetsnamnet ”*Min pappa dog två gånger*”. Senare ska den döpas om till ”*Paradiset*”. Jag förstår snabbt att historien till stora delar ska byggas på Göstas egna privata erfarenheter.
+Vi börjar arbeta på historien som har arbetsnamnet ”*Min pappa dog två gånger*”. Senare ska den döpas om till ”*Paradiset*”. Jag förstår snabbt att historien till stora delar ska byggas på Göstas egna privata erfarenheter.
 :::
 
 ::: indent
@@ -689,7 +689,7 @@ Reflektion: Det är en aning beklämmande att konstatera hur mycket tid av mitt 
 
 Bob Dylan? Käpphästen?
 ::: indent
-Filmgurun Nils-Petter Sundgren kontaktar mig och frågar om jag vill göra en introduktion till Bob Dylan`s film ”*Renaldo & Clara*”som ska visas på tv. Jag ska själv framföra den innan filmen.
+Filmgurun Nils-Petter Sundgren kontaktar mig och frågar om jag vill göra en introduktion till Bob Dylan`s film ”*Renaldo & Clara*” som ska visas på tv. Jag ska själv framföra den innan filmen.
 :::
 
 ::: indent
@@ -697,11 +697,11 @@ Filmgurun Nils-Petter Sundgren kontaktar mig och frågar om jag vill göra en in
 :::
 
 ::: indent
-Utan närmare eftertanke. När den kommer, eftertanken, inser jag att det inte är ett helt lätt uppdrag. För mig. Hur närmar man sig den man har skuggat genom allaår? Utan att bli krystad eller bombastisk? Hur introducerar man Bob Dylan på några minuter? Vilken spegel ska man välja? Vilket anslag? Utgångspunkten är naturligtvis filmen i sig. En undanglidande, mångbottnad och fragmentarisk historia som, det är jag ganska över tygad om, inte kommer att falla särskilt många tv-tittare påläppen - förutom dom som slukar allt Dylan rör vid. Jag tillhör inte dom.
+Utan närmare eftertanke. När den kommer, eftertanken, inser jag att det inte är ett helt lätt uppdrag. För mig. Hur närmar man sig den man har skuggat genom alla år? Utan att bli krystad eller bombastisk? Hur introducerar man Bob Dylan på några minuter? Vilken spegel ska man välja? Vilket anslag? Utgångspunkten är naturligtvis filmen i sig. En undanglidande, mångbottnad och fragmentarisk historia som, det är jag ganska övertygad om, inte kommer att falla särskilt många tv-tittare på läppen - förutom dom som slukar allt Dylan rör vid. Jag tillhör inte dom.
 :::
 
 ::: indent
-Men har man sagt”självklart” såmåste man leverera, såsnart nog sitter jag i studion och försöker förklara det som ska visas:
+Men har man sagt ”självklart” så måste man leverera, så snart nog sitter jag i studion och försöker förklara det som ska visas:
 :::
 
 **”Filmen är en saga om den nya världen. En berusad tripp genom ett fosterland som vrider sig i våndor. Den berättar en historia, men inte med den vanliga historiens kännetecken. Det är känsloladdade fragment från en tidsepok som bara låter sig beskrivas i sina beståndsdelar. Av en tillvaro som bara är gripbar av en känsla i taget. Filmen är ett vittnesbörd om en period i Dylans liv, där han hänsynslöst lämnar ut sig själv och sina förtrogna, inneslutna i roller. Det är en musikalisk fresk, en resa genom Dylans surrealistiska tankevärld, där han hela tiden interfolierar sina sånger med en bildberättelse om livet on the road en höst i USA. **

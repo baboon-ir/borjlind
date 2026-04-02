@@ -179,7 +179,7 @@ Vid elvaårsålder flyttar vi till Kärrtorp utanför Stockholm. Jag pratar bred
 
 <!-- PAGE 10 START -->
 ::: indent
-Under dom häråren har jag en mycket speciell kompis, dygnet runt. Jag kallar honom Den Osynlige. En imaginär lekkamrat som alltid finns där när jag behöver honom. Jag kan sitta i timtal på golvet, prata med honom och köra småplasttåg fram och tillbaka (dom tillhandahålls i Kalaspuffspaket). Jag inbillar mig att umgänget med Den Osynlige befrämjar min fantasi:
+Under dom här åren har jag en mycket speciell kompis, dygnet runt. Jag kallar honom Den Osynlige. En imaginär lekkamrat som alltid finns där när jag behöver honom. Jag kan sitta i timtal på golvet, prata med honom och köra små plasttåg fram och tillbaka (dom tillhandahålls i Kalaspuffspaket). Jag inbillar mig att umgänget med Den Osynlige befrämjar min fantasi:
 :::
 
 **Han är en mycket liten varelse, bunden vid ett tunt träd. Långt borta: skrynkliga män i vita kläder rullar nötta krocketklot längs sandbankarna. Alla drömmer om bärnstensfynd, om osänkbara fartyg. Det är vit sommar. Vita kalkstenshus, vit sand, vita fåglar, vitt ljus, vita kvinnor som gömmer sina skratt i torkad ljung. Han försöker ropa till människorna. Ingen hejdar sig, ingen vänder sig om. Han försöker komma loss. Ingen reagerar.**
@@ -187,11 +187,11 @@ Under dom häråren har jag en mycket speciell kompis, dygnet runt. Jag kallar h
 ::: accordion
 Tiden går, solen slocknar, alla häller skymning i glasen, dricker sprit, någon lossar pojken från trädet, kalla blanka läppar tröstar sig mot hans nakna skuldror: det är mycket genant. Pojken blundar. Han håller en gummidolk i handen. Han ska växa och detta ska dö ut.
 
-”Här är gudagott att vara...”sjunger dom, tjocka glada människor med vårtor i ansiktet. En av dom ska få hjärtslag i hönshuset, resten ska måla sina ägg”i glada färger, mitt barn, i glada färger!”Pojken vet ingenting om deras tillvaro. Han umgås med ålarna, tången, pressar fingeravtryck i ljummen beck, smeker snäckskal, lär sig lukten av rutten plattfisk: han växer delvis upp vid havet. Han rymmer, gång på gång, för att se vem som saknar honom först, vem som vågar krackelera.”Att han aldrig tröttnar!”säger dom.”Vem?”
+”Här är gudagott att vara...” sjunger dom, tjocka glada människor med vårtor i ansiktet. En av dom ska få hjärtslag i hönshuset, resten ska måla sina ägg ”i glada färger, mitt barn, i glada färger!” Pojken vet ingenting om deras tillvaro. Han umgås med ålarna, tången, pressar fingeravtryck i ljummen beck, smeker snäckskal, lär sig lukten av rutten plattfisk: han växer delvis upp vid havet. Han rymmer, gång på gång, för att se vem som saknar honom först, vem som vågar krackelera. ”Att han aldrig tröttnar!” säger dom. ”Vem?”
 
 Dom tror att det är en lek.
 
-Pojken rymmer till havet. Långt därute, längst ut på ett omarkerat rev, sitter en uppspolad särling med en bongotrumma mellan benen. Han är den ende i pojkens tillvaro som inte finns: han är hans ende vän. Den Osynlige. Pojken frågar honom, när tidvattnet tillåter: ”Varför kommer dom till mig med sina giftampuller?”Särlingen svarar inte.”Och vad är det för muller alla är så rädda för?”Särlingen vispar sina tår i vattnet, hans röst är varsam, fingrarna rör sig rytmiskt över trumman när han svarar.”En gång, min vän, ska du möta din berättelse, bara en gång, och du ska buga och tiga. Försiktigt ska du sätta dig vid berättelsens fötter och sitta där, länge, tills ditt hår faller av och din hjässa blir naken och ren...”Särlingens fingrar snuddar vid trumman nu, hans blick är öm och inåtvänd, han är på väg att försvinna ur pojkens liv, för gott.”Så ska du sitta där, tigande, och lyssna, nerböjd...tills berättelsen tränger en virknål av ljus genom hjärnan.”Trumman tystnar, vattnet stillnar. Pojken tittar upp.”Vad handlar berättelsen om?”
+Pojken rymmer till havet. Långt därute, längst ut på ett omarkerat rev, sitter en uppspolad särling med en bongotrumma mellan benen. Han är den ende i pojkens tillvaro som inte finns: han är hans ende vän. Den Osynlige. Pojken frågar honom, när tidvattnet tillåter: ”Varför kommer dom till mig med sina giftampuller?” Särlingen svarar inte. ”Och vad är det för muller alla är så rädda för?” Särlingen vispar sina tår i vattnet, hans röst är varsam, fingrarna rör sig rytmiskt över trumman när han svarar. ”En gång, min vän, ska du möta din berättelse, bara en gång, och du ska buga och tiga. Försiktigt ska du sätta dig vid berättelsens fötter och sitta där, länge, tills ditt hår faller av och din hjässa blir naken och ren...” Särlingens fingrar snuddar vid trumman nu, hans blick är öm och inåtvänd, han är på väg att försvinna ur pojkens liv, för gott. ”Så ska du sitta där, tigande, och lyssna, nerböjd...tills berättelsen tränger en virknål av ljus genom hjärnan.” Trumman tystnar, vattnet stillnar. Pojken tittar upp. ”Vad handlar berättelsen om?”
 
 Så ser löftet ut.
 :::
@@ -206,7 +206,7 @@ Sverige är ett rikt och välskött land vid den här tiden. Vår utrikespolitis
 <!-- PAGE 11 START -->
 **”Hatten av för min fru för att hon avreagerar sin intelligens och sitt behov av svensk likställdhet vid skrivmaskinen hemma under förmiddagen. Och på eftermiddagen alltid finns gammaldags rosig och söt vid köttgrytorna när vi tre manliga familjemedlemmar kommer hemstörtande från skolor och arbete, hungrande efter mat, hemtrivsel och mammaomvårdnad.”**
 
-Ett mycket aningslöst tidsskede, som jag senare använder mig av i en sketch i satirprogrammet Lorry med hjälp av Lena Endre - ”*Håll Sverige Rent!*”. Inslaget visar en aningslös hemmafru på 50-talet som har en ny spray som får all skit att försvinna, smuts i avloppet, stänk pådiskbänken, till och med en invandrare lyckas hon spraya bort i slutet.
+Ett mycket aningslöst tidsskede, som jag senare använder mig av i en sketch i satirprogrammet Lorry med hjälp av Lena Endre - ”*Håll Sverige Rent!*”. Inslaget visar en aningslös hemmafru på 50-talet som har en ny spray som får all skit att försvinna, smuts i avloppet, stänk på diskbänken, till och med en invandrare lyckas hon spraya bort i slutet.
 
 https://www.youtube.com/watch?v=ZItDrGcdLRc
 
@@ -246,7 +246,7 @@ Scenen har fastnat hos mig.
 <!-- PAGE 11 END -->
 
 <!-- PAGE 12 START -->
-Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt)är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ”färgstarka” karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosf är (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
+Nästa anhalt på vår nomadiska tillvaro (jag bor på åtta ställen under min uppväxt) är Björns Trädgård på Söder. Jag har vuxit in i Stockholmskostymen och bor granne med restaurang Kvarnen på Tjärhovsgatan. Området frekventeras dygnet runt av ”färgstarka” karaktärer. Mitt undermedvetna lagrar, både språk, gester och atmosfär (i mitt senare skrivande har jag alltid haft gångavstånd till udda människor - Rune i Lorry, Grannen i Beck, Minken, Jelle och Enögda Vera i våra deckare).
 ::: indent
 Det är en stundtals stökig omgivning jag bor i, Björnsan är ett tillhåll för det mesta.
 :::
@@ -260,11 +260,11 @@ Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som ”
 :::
 
 ::: indent
-Det är ocksåstiletternas tid - själv har jag den farliga varianten, där det skarpa bladet skjuter ut direkt från skaftet. Varför jag har den är oklart, annatän som markör. Jag skulle aldrig våga använda den i ett slagsmål.
+Det är också stiletternas tid - själv har jag den farliga varianten, där det skarpa bladet skjuter ut direkt från skaftet. Varför jag har den är oklart, annat än som markör. Jag skulle aldrig våga använda den i ett slagsmål.
 :::
 
 ::: indent
-Minne från Söder 1: Tvärs över gården från mitt pojkrum bor en kompis, Björne, i sammaålder. Vi drar en tunn tråd mellan våra fönster och sätter en tom metallburk i varjeända. Våra röster når varann när föräldrarna har somnat.
+Minne från Söder 1: Tvärs över gården från mitt pojkrum bor en kompis, Björne, i samma ålder. Vi drar en tunn tråd mellan våra fönster och sätter en tom metallburk i varje ända. Våra röster når varann när föräldrarna har somnat.
 :::
 
 ::: indent
@@ -272,7 +272,7 @@ Steve Jobs har utvecklat tekniken en aning.
 :::
 
 ::: indent
-PåSöder drabbas jag ocksåav musik för första gången. Det är en omvälvande upplevelse, nånting utanför som når in utan mellanhänder. Min första skiva är en singel med Elvis Presley: ”*Blue suede shoes*”. Det är en cover på en Carl Perkinslåt och kommer ut 1956. Jag köper den när jag fyller femton, sparar till en skinnjacka och påbörjar konflikten med alla som är dixie, klär sig i duffel och drömmer om Tommy Steele.
+På Söder drabbas jag också av musik för första gången. Det är en omvälvande upplevelse, nånting utanför som når in utan mellanhänder. Min första skiva är en singel med Elvis Presley: ”*Blue suede shoes*”. Det är en cover på en Carl Perkinslåt och kommer ut 1956. Jag köper den när jag fyller femton, sparar till en skinnjacka och påbörjar konflikten med alla som är dixie, klär sig i duffel och drömmer om Tommy Steele.
 :::
 
 ::: indent
@@ -288,11 +288,11 @@ Minne från Söder 2: Jag samlar bortkastade lottsedlar på Medborgarplatsen und
 :::
 
 ::: indent
-En stor blåteddybjörn.
+En stor blå teddybjörn.
 :::
 
 ::: indent
-Jag får ihop till en björn efter flera timmar och ger den till min lillasyster Christina påjulafton.
+Jag får ihop till en björn efter flera timmar och ger den till min lillasyster Christina på julafton.
 :::
 
 ![Osvedd nallebjörn.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/7.png)
@@ -309,9 +309,9 @@ Hans högerfot var rena bomben.
 <!-- PAGE 12 END -->
 
 <!-- PAGE 13 START -->
-På tal om alkoholism: Alla som har växt upp med en alkoholiserad förälder vet vad det handlar om - man blir ett tassande barn. Ett barn som lär sig lyssna på tonfall, avläsa rörelser, registrera: en hand som missar en gaffel, en tunga som missar ett uttal, ett parögon som inte kan fokusera. Man lär sig när ens pappa inte är ens pappa, när han är den andre. Man lär sig att tiga, utan att förstå.
+På tal om alkoholism: Alla som har växt upp med en alkoholiserad förälder vet vad det handlar om - man blir ett tassande barn. Ett barn som lär sig lyssna på tonfall, avläsa rörelser, registrera: en hand som missar en gaffel, en tunga som missar ett uttal, ett par ögon som inte kan fokusera. Man lär sig när ens pappa inte är ens pappa, när han är den andre. Man lär sig att tiga, utan att förstå.
 
-Det är några blandadeår på Söder. Mina föräldrar separerar, jag och Christina flyttar in med Svea i en liten trång lägenhet på Högbergsgatan, en period bor vi på vinden hos rika släktingar i Djursholm, jag försöker få grepp om tillvaron, förtränga, föräldrarna förenas igen och jag försöker navigera.
+Det är några blandade år på Söder. Mina föräldrar separerar, jag och Christina flyttar in med Svea i en liten trång lägenhet på Högbergsgatan, en period bor vi på vinden hos rika släktingar i Djursholm, jag försöker få grepp om tillvaron, förtränga, föräldrarna förenas igen och jag försöker navigera.
 ::: indent
 Vad handlar det här om?
 :::
@@ -387,7 +387,7 @@ Sen en prosasamling, ”*Brottstycken*”:
 
 Nåväl.
 ::: indent
-Etyder utan vikt, men jag smakar påorden, jag prövar dom verbala vingarna. Jag fängslas av möjligheten att trycka ut det inre i ord, att formulera det jag känner förklätt till text.
+Etyder utan vikt, men jag smakar på orden, jag prövar dom verbala vingarna. Jag fängslas av möjligheten att trycka ut det inre i ord, att formulera det jag känner förklätt till text.
 :::
 
 ::: indent
@@ -398,20 +398,20 @@ Jag sätter också in titeln ”Författare” i telefonkatalogen, vilket provoc
 
 Mitt första dadaistiska infall.
 ::: indent
-Jag har över gett tanken på att bli fotbollsproffs.
+Jag har övergett tanken på att bli fotbollsproffs.
 :::
 
 Via privatlektioner har jag till slut lyckats komma in på en fyraårig gymnasielinje på Lidingö Södra Läroverk. En ”fin” skola. Svea är stolt.
 ::: indent
-Minne från Lidingö 1: Jag är sällsynt ointresserad av min klädsel och kommer ofta till gymnasiet i stora gummistövlar och islandströja. Elevernas reaktioner påminner mig om utsattheten i folkskolan i Kärrtorp: skånskan och dom utståendeöronen har bytts mot fel kläder och fel attityd.
+Minne från Lidingö 1: Jag är sällsynt ointresserad av min klädsel och kommer ofta till gymnasiet i stora gummistövlar och islandströja. Elevernas reaktioner påminner mig om utsattheten i folkskolan i Kärrtorp: skånskan och dom utstående öronen har bytts mot fel kläder och fel attityd.
 :::
 
 ::: indent
-Känslan av utan för skap är densamma.
+Känslan av utanförskap är densamma.
 :::
 
 ::: indent
-Bästa som händer under gymnasietiden: Jag träffar Eva. Hon går i en parallellklass och är, i mina ögon, bedårande vacker och chosefri och har nära till skratt. Vi blir ihop, mot en del odds. Våra bakgrunder skiljer sigåt en aning, en höghuslägenhet möter en tvåplansvilla på Lidingö, typ. Jag är dessutom knappast en svärmorsdröm (vad dom nu drömmer om).  Men vi blir djupt förälskade och Eva blir den första grundpelaren i mitt liv.
+Bästa som händer under gymnasietiden: Jag träffar Eva. Hon går i en parallellklass och är, i mina ögon, bedårande vacker och chosefri och har nära till skratt. Vi blir ihop, mot en del odds. Våra bakgrunder skiljer sig åt en aning, en höghuslägenhet möter en tvåplansvilla på Lidingö, typ. Jag är dessutom knappast en svärmorsdröm (vad dom nu drömmer om).  Men vi blir djupt förälskade och Eva blir den första grundpelaren i mitt liv.
 :::
 
 ::: indent
@@ -1047,7 +1047,7 @@ När han var 31 år rodde han ut i en båt i Salina Cruz i Mexico och kom aldrig
 Jag är benägen att hålla med.
 :::
 
-Fotnot: För den intresserade kan jag rekommendera Gunnar Qvarnströms standardverk om surrealismen, de fyra böckerna”*Moderna Manifest*”. En nästan outsinlig källa till citat, kunskap och skratt.
+Fotnot: För den intresserade kan jag rekommendera Gunnar Qvarnströms standardverk om surrealismen, de fyra böckerna ”*Moderna Manifest*”. En nästan outsinlig källa till citat, kunskap och skratt.
 
 ::: part
 :::

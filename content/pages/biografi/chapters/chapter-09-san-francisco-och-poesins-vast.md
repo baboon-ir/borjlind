@@ -186,13 +186,13 @@ Vi dricker ur och reser oss. Bruno slänger en servett på golvet för att marke
 :::
 
 ::: indent
-På vägen “hem”går jag vilse och hamnar i en återvändsgränd som heter Beckett End.
+På vägen “hem” går jag vilse och hamnar i en återvändsgränd som heter Beckett End.
 :::
 
 ::: part
 :::
 
-Eftermiddag på Vesuvio med Zekeli och Bruno. Fullt vid borden, hög ljudnivå. Jag och Bruno diskuterar språket i våra senaste böcker, min Persona-bok och hans nyutkomna roman”*Chivas Regal*”. Hur hatiskt språket är och konsekvenserna av det, bortstötningen (en diskussion som ska fördjupas rejält när vi träffar Allen Ginsberg i Boulder). Vid bordet bakom oss jobbar en 70-årig stekare hårt för att imponera på en mycket ung mannekäng. 70-åringen är ställets kung, omgiven av ett hov av yngre proselyter, han sitter påleken och har nyckeln i låset, ler hela tiden servilt mot mannekängen, öser påom sin egen förträfflighet. Till slut tröttnar Zekeli, vänder sig om, väger lite påstolen och väser i 70-åringensöra:
+Eftermiddag på Vesuvio med Zekeli och Bruno. Fullt vid borden, hög ljudnivå. Jag och Bruno diskuterar språket i våra senaste böcker, min Persona-bok och hans nyutkomna roman ”*Chivas Regal*”. Hur hatiskt språket är och konsekvenserna av det, bortstötningen (en diskussion som ska fördjupas rejält när vi träffar Allen Ginsberg i Boulder). Vid bordet bakom oss jobbar en 70-årig stekare hårt för att imponera på en mycket ung mannekäng. 70-åringen är ställets kung, omgiven av ett hov av yngre proselyter, han sitter på leken och har nyckeln i låset, ler hela tiden servilt mot mannekängen, öser på om sin egen förträfflighet. Till slut tröttnar Zekeli, vänder sig om, väger lite på stolen och väser i 70-åringens öra:
 ::: indent
 – At your age I wouldn ´ t overdo it.
 :::
@@ -288,7 +288,7 @@ Utanför står en lång rad människor med ansiktet mot en sönderrappad vägg o
 <!-- PAGE 87 END -->
 
 <!-- PAGE 88 START -->
-Överfulla spårvagnar sliter i backarna, Bruno sitter på Vesuvio och pratar med några poeter, jag går gata upp och gata ner, flanerar, letar efter Joshua Tree Inn, hotellet där Gram Parson knarkade ihjäl sig 1973. Parson är en av mina musikhjältar. Blir upplyst om att hotellet ligger i en nationalpark långt härifrån. Tänker på Parson s, på*”Grievous Angel”*, påhur aktivisten Phil Kaufman snodde Parsons lik på flygplatsen och förde tillbaka det till rummet där han dog.
+Överfulla spårvagnar sliter i backarna, Bruno sitter på Vesuvio och pratar med några poeter, jag går gata upp och gata ner, flanerar, letar efter Joshua Tree Inn, hotellet där Gram Parsons knarkade ihjäl sig 1973. Parsons är en av mina musikhjältar. Blir upplyst om att hotellet ligger i en nationalpark långt härifrån. Tänker på Parsons, på *”Grievous Angel”*, på hur aktivisten Phil Kaufman snodde Parsons lik på flygplatsen och förde tillbaka det till rummet där han dog.
 ::: indent
 Fortsätter flanera genom Ashbury Heights, passerar människor, ser samma flackande desperation iögonen pånästan allihop, samma flykt från ingenting till ingenting, alla känns hårda, tomma, jagade, brända ... ingen värme, ingen kontakt, ingen kommunikation, inget som helst intresse av andra ... allt verkar cirkulera runt påtändning och våld och jag inser: festen är slut. Blommorna i håret har vissnat. Flower power har begravts iångest och uppgivenhet. Kärleksbudskapet har kokat ner till skygga kvinnor i solkiga kläder, män som vakar runt deras kroppar som stenade hökar.
 :::
@@ -404,7 +404,7 @@ Jag sjunker uppåt.
 :::
 
 ::: indent
-Kristallvasen mellan mina ben vidgar sig, rummet exploderar, mellan flisorna ser jag Brunos förvånade ansikte. Han stirrar på mig. Hans ansikte är över draget med oklippt grishud. En tunn kvinna med en stor vacker mun lutar sig mot mig, hennes storaögon sväller till tvådrunknade spindelkroppar som kletar sig fast mot min strupe. Jag går mot toaletten, jag måste skölja av mig. En ung man med skägg påvänstra ansiktshalvan följer efter, strax bakom mig, han viskar över min axel:”Kycklingar är värst, dom lever länge efteråt ...”
+Kristallvasen mellan mina ben vidgar sig, rummet exploderar, mellan flisorna ser jag Brunos förvånade ansikte. Han stirrar på mig. Hans ansikte är överdraget med oklippt grishud. En tunn kvinna med en stor vacker mun lutar sig mot mig, hennes stora ögon sväller till två drunknade spindelkroppar som kletar sig fast mot min strupe. Jag går mot toaletten, jag måste skölja av mig. En ung man med skägg på vänstra ansiktshalvan följer efter, strax bakom mig, han viskar över min axel: ”Kycklingar är värst, dom lever länge efteråt ...”
 :::
 
 ::: indent
@@ -569,9 +569,9 @@ En sak värd att minnas från St Pauls Hotel, för sin skönhets skull: Ett stor
 ::: part
 :::
 
-Jag köper en liten silvrig kassettbandspelare, min ambition är att löpande prata in det vi är med om. Bruno har anteckningsböcker. Vi kommer över Dylans nysläppta ”*Street Legal*”och hyr en bil.
+Jag köper en liten silvrig kassettbandspelare, min ambition är att löpande prata in det vi är med om. Bruno har anteckningsböcker. Vi kommer över Dylans nysläppta ”*Street Legal*” och hyr en bil.
 ::: indent
-Zekeli ska inte med. Han haråkt till East Bay Terminal för att försöka ta sig till New York och vidare hem. Han orkar inte bära resväskan nerför trappan.”Jag kan inteäta”säger han.”Jag kan inte fåi mig nån mat.”Under hela SF-vistelsen har han baraätit stektaägg och ostron. Förövrigt har han levt på Jack Daniels och kaffe, då och då en flaska champagne och B-vitaminer.
+Zekeli ska inte med. Han har åkt till East Bay Terminal för att försöka ta sig till New York och vidare hem. Han orkar inte bära resväskan nerför trappan. ”Jag kan inte äta” säger han. ”Jag kan inte få i mig nån mat.” Under hela SF-vistelsen har han bara ätit stekta ägg och ostron. För övrigt har han levt på Jack Daniels och kaffe, då och då en flaska champagne och B-vitaminer.
 :::
 
 ::: indent
@@ -648,7 +648,7 @@ Han bjuder påost. Vi hämtar in vår tequila. Han dricker inte. Han är trött.
 :::
 
 ::: indent
-Han har startat ett eget förlag som heter Kayak och har en tidskrift med samma namn (han kommer senare att publicera flera av Brunos dikter i tidskriften). Han har gett ut 40 böcker påförlaget, som startade 1964. Han är mycket känd i USA. Hans förlag är mycket känt. Han tillhör en av de ledande i The Small Press. Han anser att berömmelse ruinerar poesin, att berömmelsen ger pengar som ruinerar poesin.
+Han har startat ett eget förlag som heter Kayak och har en tidskrift med samma namn (han kommer senare att publicera flera av Brunos dikter i tidskriften). Han har gett ut 40 böcker på förlaget, som startade 1964. Han är mycket känd i USA. Hans förlag är mycket känt. Han tillhör en av de ledande i The Small Press. Han anser att berömmelse ruinerar poesin, att berömmelsen ger pengar som ruinerar poesin.
 :::
 
 ::: indent
@@ -695,7 +695,7 @@ Vi frågar henne vad som hänt med The Left Wing Movement. Hon blir oerhört kon
 :::
 
 ::: indent
-– Dom är uppköpta, säger hon. Dom finns kvar men dom är uppköpta av dom stora förlagen. Somär inkorporerade med dom stora filmbolagen. Som gör att Book-Stores inte längre tar in annatän sånt som kan tänkas sälja eller kan tänkas utgöra underlag för filmmanuskript.
+– Dom är uppköpta, säger hon. Dom finns kvar men dom är uppköpta av dom stora förlagen. Som är inkorporerade med dom stora filmbolagen. Som gör att Book-Stores inte längre tar in annat än sånt som kan tänkas sälja eller kan tänkas utgöra underlag för filmmanuskript.
 :::
 
 ::: indent

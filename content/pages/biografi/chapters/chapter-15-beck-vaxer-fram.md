@@ -6,7 +6,7 @@ Jag vet hur jag själv fungerar när jag ska läsa en ny bok: första sidan, oft
 :::
 
 ::: indent
-Men många författare har gått mig till mötes på min hang-up, dragit in mig och pulvriserat min comfort-zone. Anthony Burgess inledning på”*Jordiska Makter*”är ett klassiskt exempel påhur det kan se ut när jag hookas (jag minns fortfarande hur jag ligger i sängen på ön och slår upp boken):
+Men många författare har gått mig till mötes på min hang-up, dragit in mig och pulvriserat min comfort-zone. Anthony Burgess inledning på ”*Jordiska Makter*” är ett klassiskt exempel på hur det kan se ut när jag hookas (jag minns fortfarande hur jag ligger i sängen på ön och slår upp boken):
 :::
 
 **”Det var på eftermiddagen av min åttioförsta födelsedag och jag låg i sängen med min manliga konkubin när Ali förkunnade att ärkebiskopen hade kommit för att träffa mig.”**
@@ -24,14 +24,14 @@ Suveränt. Eller Graham Greene i *Brighton Rock*:
 
 Ingången handlar alltid om graden av gåta (Greene), eller komplexiteten i situationen (Burgess), eller ren och skär likgiltighet (Camus).
 
- Men det är nåtåt det hållet jag villåt.
+ Men det är nåt åt det hållet jag vill åt.
 ::: indent
-Jag lider dessutom av den för författare tämligen vanligaåkomman att anslaget måste sitta, anklangen. Är inte ingången där låser det sig lätt. Jag antar att det är som att komponera, det är svårt att börja några takter in. Tonen måste vara där.”*Det var en mörk och stormig natt*.” Skitbra inledning, egentligen. På min förstasida står det än så länge så här:
+Jag lider dessutom av den för författare tämligen vanliga åkomman att anslaget måste sitta, anklangen. Är inte ingången där låser det sig lätt. Jag antar att det är som att komponera, det är svårt att börja några takter in. Tonen måste vara där.” *Det var en mörk och stormig natt*.” Skitbra inledning, egentligen. På min första sida står det än så länge så här:
 :::
 
 **”Han var en oansenlig**** man med två stora hundar.”**
 
-Senär det vitt och blankt.
+Sen är det vitt och blankt.
 ::: indent
 Och tyst.
 :::
@@ -70,9 +70,9 @@ Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket 
 
 Filmen kommer aldrig till stånd.
 
-Själv arbetar jag vidare och skriver tvåsatiriska kabaréer. Den ena tillsammans med ett par andra författare, ”*Ju mer vi är tillsammans*”, för Norrbottensteatern.
+Själv arbetar jag vidare och skriver två satiriska kabaréer. Den ena tillsammans med ett par andra författare, ”*Ju mer vi är tillsammans*”, för Norrbottensteatern.
 ::: indent
-Den andra skriver jag tillsammans med Carsten. Den heter ”*Snusk och fusk i korvfabriken - en komedi om Folkhemmet*”. Den sätts upp på Backateatern i Göteborg av Sten Ljunggren. Föreställningen inleds med ett framträdande av ”*Doktor Staten*”och hans”*No Brain Today Orchestra*”med”*Lobotomikören*”. Textens tema är ”*Skapade Gud Förgäves?*”.
+Den andra skriver jag tillsammans med Carsten. Den heter ”*Snusk och fusk i korvfabriken - en komedi om Folkhemmet*”. Den sätts upp på Backateatern i Göteborg av Sten Ljunggren. Föreställningen inleds med ett framträdande av ”*Doktor Staten*” och hans ”*No Brain Today Orchestra*” med ”*Lobotomikören*”. Textens tema är ”*Skapade Gud Förgäves?*”.
 :::
 
 ::: indent
@@ -81,9 +81,9 @@ Parallellt färdigställer jag manuset till min andra Jönsson-film: ”*Jönsso
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/254.jpg)
 
-Mest spektakulärt i filmen är scenen när Gösta/Sickan hänger i visarna på den enorma guldklockan på Stadshustornets ena sida. Många turister har blivit rejält förvirrade och besvikna när dom konstaterat att det inte finns nån klocka på Stadshuset (scenen spelades in i en stor ateljéi Köpenhamn och printades in på Stadshuset).
+Mest spektakulärt i filmen är scenen när Gösta/Sickan hänger i visarna på den enorma guldklockan på Stadshustornets ena sida. Många turister har blivit rejält förvirrade och besvikna när dom konstaterat att det inte finns nån klocka på Stadshuset (scenen spelades in i en stor ateljé i Köpenhamn och printades in på Stadshuset).
 ::: indent
-I samband med den här inspelningen börjar jag diskutera en helt annan sorts film med Gösta och Mats Arehn. En slags absurd mordhistoria, delvis byggd påsvart humor, delvis på en madröm som Arehn haft. Jag sätter mig ner och skriver ett förstamanus. Arehn lyckas fåfinansiering och filmen spelas in med Gösta och Sten Ljunggren i dom bärande rollerna (den innehåller också ett kvinnligt lik och mig själv som polis i en biroll). Filmen heter ”*Dödspolare*”.
+I samband med den här inspelningen börjar jag diskutera en helt annan sorts film med Gösta och Mats Arehn. En slags absurd mordhistoria, delvis byggd på svart humor, delvis på en madröm som Arehn haft. Jag sätter mig ner och skriver ett förstamanus. Arehn lyckas få finansiering och filmen spelas in med Gösta och Sten Ljunggren i dom bärande rollerna (den innehåller också ett kvinnligt lik och mig själv som polis i en biroll). Filmen heter ”*Dödspolare*”.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/199.png)
@@ -139,7 +139,7 @@ Ingen höjdarställning.
 :::
 
 ::: indent
-Det blir sjukhus och en läkare som snabbt konstaterar att det rör sig om ett akut diskbråck - ”gummikudden”mellan tvåkotor har spruckit och runnit ut.
+Det blir sjukhus och en läkare som snabbt konstaterar att det rör sig om ett akut diskbråck - ”gummikudden” mellan två kotor har spruckit och runnit ut.
 :::
 
 ::: indent
@@ -151,7 +151,7 @@ Minne före operationen: Jag är mycket munter och talför påbåren i hissen up
 
 <!-- PAGE 169 START -->
 ::: indent
-Minne efter operationen: En säng i ett rum med tre andra patienter. Ingen kontakt. Mats Arehn kommer upp med en liten tv som kan placeras påbröstet. Mycket vänligt. Dåoch då kommer det in en klunga läkare och läkarkandidater och unga sköterskor, ställer sig vid min fotända och pratar om saker jag inte förstår med en vokabul är som jag inte kan tolka.
+Minne efter operationen: En säng i ett rum med tre andra patienter. Ingen kontakt. Mats Arehn kommer upp med en liten tv som kan placeras på bröstet. Mycket vänligt. Då och då kommer det in en klunga läkare och läkarkandidater och unga sköterskor, ställer sig vid min fotända och pratar om saker jag inte förstår med en vokabulär som jag inte kan tolka.
 :::
 
 ::: indent
@@ -199,24 +199,24 @@ Parentes: Jag har aldrig haft problem med att söka läkarhjälp eller befinna m
 ::: part
 :::
 
-Ryggen rätar på sig, smärtorna försvinner och Mikael Wiehe ringer. Stora delar av den svenska musikeliten ska göra en stödgala för Sydafrika. För ANC (African National Congress) - mot apartheid. Tvåkonserter i Scandinavium i Göteborg. Han frågar om jag vill medverka och framföra min dikt”*Nyttiga Idioter*”. Det vill jag och gör jag:
+Ryggen rätar på sig, smärtorna försvinner och Mikael Wiehe ringer. Stora delar av den svenska musikeliten ska göra en stödgala för Sydafrika. För ANC (African National Congress) - mot apartheid. Två konserter i Scandinavium i Göteborg. Han frågar om jag vill medverka och framföra min dikt ”*Nyttiga Idioter*”. Det vill jag och gör jag:
 
 [yt-video][https://www.youtube.com/watch?v=OsoPVJZD3V0]
 
-Såhär beskriver artisterna bakgrunden till konserterna:
+Så här beskriver artisterna bakgrunden till konserterna:
 
 **”Vi känner en stark avsky inför rasismen, som dömer människor till andra eller tredje klassens medborgarskap i deras eget land på grund av hudfärg. Vi känner en vrede inför de metoder som regimen i Sydafrika använder för att upprätthålla apartheidsystemet. Vi vill inte stillatigande bevittna ur sydafrikansk polis och militär med hundar, batonger och piskor sätts in mot motståndare till det rasistiska systemet. Vi kan inte ställa oss vid sidan, när oskyldiga män, kvinnor och barn deporteras, arresteras, torteras och dödas när de kräver sina självklara mänskliga och medborgerliga rättigheter.”**
 
-En av bedrifterna med galan är att sammanföra totalt diametrala musikprofiler. Mainstream med progg. Thomas Ledin med Thåström och Imperiet. En annan är att fåihop tio miljoner i stöd till ANC. Av dessa skjuter regeringen (Palme) till fem i samband med galan. Konserterna ses av 24.000 människor. En dubbel-lp från evenemanget släpps lite senare.
+En av bedrifterna med galan är att sammanföra totalt diametrala musikprofiler. Mainstream med progg. Thomas Ledin med Thåström och Imperiet. En annan är att få ihop tio miljoner i stöd till ANC. Av dessa skjuter regeringen (Palme) till fem i samband med galan. Konserterna ses av 24.000 människor. En dubbel-lp från evenemanget släpps lite senare.
 ::: indent
-Sorg i flashback: Palme är personligen pågalan, umgås med oss artister, glöder för ANC - fyra månader senare mördas han.
+Sorg i flashback: Palme är personligen på galan, umgås med oss artister, glöder för ANC - fyra månader senare mördas han.
 :::
 <!-- PAGE 169 END -->
 
 <!-- PAGE 170 START -->
-Feedback 1: Jag är i Kapstaden 2005 i samband med inspelningen av ”*Kocken*”. Jag vill se Nelson Mandelas cell på Robben Island. Han satt där i 18 år. Cellen är deprimerande, som jag antar att alla cellerär. Upplevelsen tillför inte så mycket. På väg därifrån, i den fullsatta bussen, säger den svarta guiden plötsligt:
+Feedback 1: Jag är i Kapstaden 2005 i samband med inspelningen av ”*Kocken*”. Jag vill se Nelson Mandelas cell på Robben Island. Han satt där i 18 år. Cellen är deprimerande, som jag antar att alla celler är. Upplevelsen tillför inte så mycket. På väg därifrån, i den fullsatta bussen, säger den svarta guiden plötsligt:
 ::: indent
-– Jag vet att vi har ett par personer med här från Sverige (det är jag och Kjelle Bergqvist), och jag vill passa på att tacka för det stöd vi fick från er under dom hårdaåren. Det betydde mycket. Vi hade alltid Sverige bakom oss. Tack.
+– Jag vet att vi har ett par personer med här från Sverige (det är jag och Kjelle Bergqvist), och jag vill passa på att tacka för det stöd vi fick från er under dom hårda åren. Det betydde mycket. Vi hade alltid Sverige bakom oss. Tack.
 :::
 
 ::: indent
@@ -234,29 +234,29 @@ Mollstämda pukor.
 ::: part
 :::
 
-Gösta har länge gått och ruvat på en långfilm. Påatt ta steget ut och regissera en egen film. Hans pappa Hasse Ekman harägnat hela livetåt det, framgångsrikt, hans bror Mikael likaså. Gösta är sugen på att försöka. ”*Jag vill ha det gjort*.”Han har fyllt ett antal anteckningsböcker (dock inte bruna) med idéer och tankar. Nu känner han att det är dags. Vi börjar prata. Påtelefon, först, Gösta bor kvar på Mallorca. Det slutar med en resa ner för min del.
+Gösta har länge gått och ruvat på en långfilm. På att ta steget ut och regissera en egen film. Hans pappa Hasse Ekman har ägnat hela livet åt det, framgångsrikt, hans bror Mikael likaså. Gösta är sugen på att försöka. ”*Jag vill ha det gjort*.” Han har fyllt ett antal anteckningsböcker (dock inte bruna) med idéer och tankar. Nu känner han att det är dags. Vi börjar prata. På telefon, först, Gösta bor kvar på Mallorca. Det slutar med en resa ner för min del.
 ::: indent
 Inte helt ovilligt.
 :::
 
 ::: indent
-Väl där börjar vi, som jag nämnt tidigare, promenera och prata och vice versa. I bergen, med glödande sol och fallande får (jag missuppfattar skyltar på vägen som varnar för fallande stenar, det ser ut som småfår med ben). Jag bor själv i den uråldriga byn Fornalutx, Gösta bor i en så kallad”finca”på en bergssluttning strax intill med sin kvinna Pia. Hon är lite fjär och inte såinvolverad i verkligheten.
+Väl där börjar vi, som jag nämnt tidigare, promenera och prata och vice versa. I bergen, med glödande sol och fallande får (jag missuppfattar skyltar på vägen som varnar för fallande stenar, det ser ut som små får med ben). Jag bor själv i den uråldriga byn Fornalutx, Gösta bor i en så kallad ”finca” på en bergssluttning strax intill med sin kvinna Pia. Hon är lite fjär och inte så involverad i verkligheten.
 :::
 
 ::: indent
-Solsting 1: Efter en av Göstas och mina oändliga promenader vaknar jag mitt i natten, huvudet är på väg att sprängas, jag kräks, ligger påkalla klinkers ganska länge tills jag inser vad det handlar om: solsting. Hjärnan har värmts upp som en dallrande aladåb och slagit ut kroppens termostater. Inte kul, men fullt över komligt (om man skippar tanken på den halvkokande hjärnsubstansen).
+Solsting 1: Efter en av Göstas och mina oändliga promenader vaknar jag mitt i natten, huvudet är på väg att sprängas, jag kräks, ligger på kalla klinkers ganska länge tills jag inser vad det handlar om: solsting. Hjärnan har värmts upp som en dallrande aladåb och slagit ut kroppens termostater. Inte kul, men fullt överkomligt (om man skippar tanken på den halvkokande hjärnsubstansen).
 :::
 
 ::: indent
-Solsting 2: Jag och min son Nick gör en båttur på Nilen. Vi avslutar den med en kamelritt vid pyramiderna, en ritt som är mycket nära att mosa mina pungkulor och göra mig steril. Barbacka kamelritt avrådes. Vi tar oss vidare till Konungarnas Dal. Fantastiska gravar och 40 grader i solen. Jag släcker törsten med ett antal cocacola utan att veta att det är drivande, torkar ut. Tillbaka påhotellrummet segnar jag ner på golvet. Nick får tag i en läkare påtelefon som reagerar akut:
+Solsting 2: Jag och min son Nick gör en båttur på Nilen. Vi avslutar den med en kamelritt vid pyramiderna, en ritt som är mycket nära att mosa mina pungkulor och göra mig steril. Barbacka kamelritt avrådes. Vi tar oss vidare till Konungarnas Dal. Fantastiska gravar och 40 grader i solen. Jag släcker törsten med ett antal cocacola utan att veta att det är drivande, torkar ut. Tillbaka på hotellrummet segnar jag ner på golvet. Nick får tag i en läkare på telefon som reagerar akut:
 :::
 
 ::: indent
-– Kläav din pappa och fåupp honom på sängen! Ta alla lakan du kan komma över och blöt dom i kallt vatten, svep in din pappas kropp i lakanen från huvudet till fötterna, jag kommer direkt!
+– Klä av din pappa och få upp honom på sängen! Ta alla lakan du kan komma över och blöt dom i kallt vatten, svep in din pappas kropp i lakanen från huvudet till fötterna, jag kommer direkt!
 :::
 
 ::: indent
-Nick gör som han blir tillsagd och en stund senare ligger det en vit, blöt mumie i hotellsängen (inte så långt från mycketäldre mumier). Läkaren kommer och kör in en tvåmeter lång hästspruta i rumpköttet. På kvällen är jag påbenen.
+Nick gör som han blir tillsagd och en stund senare ligger det en vit, blöt mumie i hotellsängen (inte så långt från mycket äldre mumier). Läkaren kommer och kör in en två meter lång hästspruta i rumpköttet. På kvällen är jag på benen.
 :::
 
 Åter till Mallorca: Skådespelerskan Lena Nyman gör ett kort besök hos oss i Fornalutx, det är tänkt att hon ska spela en av rollerna i filmen. Hon är cool och inte såintresserad av sol. Jag tycker mycket om henne, vi har delvis samma dialektiska ursprung, trakterna runt Björns Trädgård på Söder. Vår kontakt är enkel och rak och när jag sexår senare ber henne ingåi redaktionen för ett avantgardistiskt tv-program,”*Sista Skriket*”, ställer hon upp direkt. Såhär gestaltar hon en text jag skriver till henne:
@@ -280,7 +280,7 @@ Minne från Mallorca: Dagen efter jag har anlänt föreslår Gösta att vi gör 
 :::
 
 ::: indent
-Jag tittar runt, vi är ensamma i rummet. Gösta börjar dra ut ett par smålådor. Jag ställer mig intill och drar ut ett par själv. Alla är tomma utom en. I den ligger det en liten vit lapp. Jag tittar på Gösta, han rycker på axlarna. Jag tar upp lappen och vänder på den. Påbaksidan står det: ”ROLF BÖRJLIND”. Det tar några sekunder, ganska många, innan jag får ihop det. Gösta har varit här nån gång tidigare, han vet att jag ska komma på besök, han har lagt lappen i lådan och ”styrt”mig dit.
+Jag tittar runt, vi är ensamma i rummet. Gösta börjar dra ut ett par små lådor. Jag ställer mig intill och drar ut ett par själv. Alla är tomma utom en. I den ligger det en liten vit lapp. Jag tittar på Gösta, han rycker på axlarna. Jag tar upp lappen och vänder på den. På baksidan står det: ”ROLF BÖRJLIND”. Det tar några sekunder, ganska många, innan jag får ihop det. Gösta har varit här nån gång tidigare, han vet att jag ska komma på besök, han har lagt lappen i lådan och ”styrt” mig dit.
 :::
 
 Gösta har titeln på sin film klar från början:”*Morrhår & Ärtor*”. Uttrycket får sin förklaring i filmen. En liten pojke hatar sin skolvaktmästare. Huvudpersonen Håna (Gösta) ger honom ett tips.
@@ -291,7 +291,7 @@ Gösta har titeln på sin film klar från början:”*Morrhår & Ärtor*”. Utt
 
 När vi är klara med manuset lämnar Gösta det till Tage Danielsson. Den person han har mest respekt för i det här sammanhanget. Tage läser och Gösta är påtagligt nervös inför hans reaktion. Den blir bra. Han tycker mycket om manuset. Lite långt, det är den enda invändningen. Gösta är glad och lättad.
 ::: indent
-Nuär det bara inspelningen kvar.
+Nu är det bara inspelningen kvar.
 :::
 
 ::: indent
@@ -345,7 +345,7 @@ När inspelningen är klar har vi slutfest underäppelträden i Toves och min tr
 **Av Frederico Garcia de Lorca.**
 :::
 
-Privat brottas jag fortfarande varenda ledig natt med mitt romanprojekt. I ett försök att komma vidare döper jag om det från ”*Legenden om Baronessan Borelli*”till”*Xipe Totec - den flådde guden*” (minne från Mexico). Han var dödens och återfödelsens gudom i aztekernas mytologi. Det hjälper inte mycket, så jag går tillbaka till den gamla titeln och sjunker ner i textmassan igen:
+Privat brottas jag fortfarande varenda ledig natt med mitt romanprojekt. I ett försök att komma vidare döper jag om det från ”*Legenden om Baronessan Borelli*” till ”*Xipe Totec - den flådde guden*” (minne från Mexico). Han var dödens och återfödelsens gudom i aztekernas mytologi. Det hjälper inte mycket, så jag går tillbaka till den gamla titeln och sjunker ner i textmassan igen:
 <!-- PAGE 172 END -->
 
 <!-- PAGE 173 START -->
@@ -409,7 +409,7 @@ Och så blir det.
 :::
 
 ::: indent
-I samarbete med Tove skriver jag musikalen “*Skål*”. Sketcher och sånger. Den har premi är på Maxim och går för fulla salonger hela hösten. Författare till föreställningen är “*Lars Amble*, *Magnus Härenstam & Brasse Brännström*”. De båda senare är mycket obekväma med den lösningen, men accepterar.
+I samarbete med Tove skriver jag musikalen “*Skål*”. Sketcher och sånger. Den har premiär på Maxim och går för fulla salonger hela hösten. Författare till föreställningen är “*Lars Amble*, *Magnus Härenstam & Brasse Brännström*”. De båda senare är mycket obekväma med den lösningen, men accepterar.
 :::
 
 ::: part
@@ -417,7 +417,7 @@ I samarbete med Tove skriver jag musikalen “*Skål*”. Sketcher och sånger. 
 <!-- PAGE 173 END -->
 
 <!-- PAGE 174 START -->
-När jag är klar med ”*Skål*”ägnar jag lite tidåt ett hjärteprojekt. Jag har ett antal pärmar i arbetsrummet fyllda med uppslag till texter, filmer, böcker osv. I en av dom har jag sparat ett par artiklar från en kubansk tidning som handlar om dom sista dagarna innan diktatorn Batista flydde och Castro kom. Med utgångspunkt från artiklarna har jag börjat skriva en kärlekshistoria som utspelar sig dom dygnen, just innan en korrumperad makt faller, allt är i upplösning, en ny tid är på väg, drömmar, oro och våld. Jag har döpt den till *”From dusk till dawn”*.
+När jag är klar med ”*Skål*” ägnar jag lite tid åt ett hjärteprojekt. Jag har ett antal pärmar i arbetsrummet fyllda med uppslag till texter, filmer, böcker osv. I en av dom har jag sparat ett par artiklar från en kubansk tidning som handlar om dom sista dagarna innan diktatorn Batista flydde och Castro kom. Med utgångspunkt från artiklarna har jag börjat skriva en kärlekshistoria som utspelar sig dom dygnen, just innan en korrumperad makt faller, allt är i upplösning, en ny tid är på väg, drömmar, oro och våld. Jag har döpt den till *”From dusk till dawn”*.
 ::: indent
 Av nån anledning fullföljer jag aldrig historien.
 :::
@@ -454,7 +454,7 @@ Mordet på Palme är tveklöst det som tar längst tid att processa när det hä
 
 <!-- PAGE 175 START -->
 ::: indent
-Han är naturligtvis ingen närstående, ingen jag har en personlig relation till. Men han är en symbol, pågott och ont. En röst som jag alltid harälskat att höra. Sättet att formulera sig, brutaliteten när det ville sig, modet, hans retoriska briljans, hettan. Otto, min pappa, stängde alltid av tv-n när Palme kom i bild. Han avskydde honom, antagligen för samma saker som jag uppskattade. Nånstans i botten tror jag det låg i Palmes engagemang, hans förmåga att verbalt gestalta orättvisor och lidanden som om han verkligen var personligt berörd.
+Han är naturligtvis ingen närstående, ingen jag har en personlig relation till. Men han är en symbol, på gott och ont. En röst som jag alltid har älskat att höra. Sättet att formulera sig, brutaliteten när det ville sig, modet, hans retoriska briljans, hettan. Otto, min pappa, stängde alltid av tv-n när Palme kom i bild. Han avskydde honom, antagligen för samma saker som jag uppskattade. Nånstans i botten tror jag det låg i Palmes engagemang, hans förmåga att verbalt gestalta orättvisor och lidanden som om han verkligen var personligt berörd.
 :::
 
 ::: indent
@@ -462,7 +462,7 @@ Han var en lysande agitator.
 :::
 
 ::: indent
-Andra sidan av myntet: Han var helgjuten socialdemokrat, med allt vad det inneb är av maktbeg är och skygglappar. Han agerade som ett svin både i IB-affären och Geijerträsket. Till exempel.
+Andra sidan av myntet: Han var helgjuten socialdemokrat, med allt vad det innebär av maktbegär och skygglappar. Han agerade som ett svin både i IB-affären och Geijerträsket. Till exempel.
 :::
 
 ::: indent
@@ -475,7 +475,7 @@ Det är svårt att ta in.
 
 Fackeltåget på Sergels Torg hjälper till att härbärgera det som hänt, emotionellt. När jag läser min dikt i mörkret, ser utöver alla eldarna, upplever den totala tystnaden, den sorgens kollektiva tystnad som bara ett trauma på den här nivån kan åstadkomma, blir jag en del av nåt större. Jag har aldrig riktigt upplevt det tidigare.
 ::: indent
-Samma sak när Fryshuset ordnar en minneskonsert för Olof Palme. Janne Schaffer, J-son Lind, Wiehe, Afzelius. Jag framför ”*Nyttiga Idioter*”igen. Stark och stämningsfull konsert.
+Samma sak när Fryshuset ordnar en minneskonsert för Olof Palme. Janne Schaffer, J-son Lind, Wiehe, Afzelius. Jag framför ”*Nyttiga Idioter*” igen. Stark och stämningsfull konsert.
 :::
 
 ::: indent
@@ -499,7 +499,7 @@ Minne från mordet på Palme: Jag står uppe på Fåfängan på Söder och titta
 ::: part
 :::
 
-*Back to Baronessan Borelli*: Vid det här laget har min privata Titanic svällt ut till många hundra sidor text. Jag inser att jag måste välja: antingen acceptera ett haveri eller”knyta ihop säcken” och fåett avslut. Jag har ingen som helst distans till materialet, kan inte zooma ut och se vad det egentligen är för verbal kvicksand jag har drunknat i.
+*Back to Baronessan Borelli*: Vid det här laget har min privata Titanic svällt ut till många hundra sidor text. Jag inser att jag måste välja: antingen acceptera ett haveri eller ”knyta ihop säcken” och få ett avslut. Jag har ingen som helst distans till materialet, kan inte zooma ut och se vad det egentligen är för verbal kvicksand jag har drunknat i.
 ::: indent
 Jag bestämmer mig för att lämna manuset till fyra personer som jag har tillräckligt privat förtroende för: Carsten, Sten Ljunggren, Bruno K och Gösta. Alla får en påfrestande fet pärm att läsa. Till min relativa förvåning tar sig allihop igenom materialet (påstår dom). Sten och Bruno träffar jag för att höra derasåsikter. Carsten formulerar sig i ett långt brev, han skriver bland annat:
 :::
@@ -518,7 +518,7 @@ Där går Titanic på ett fett isberg och sjunker.
 :::
 
 ::: indent
-Reflektion: Jag är inte speciellt förvånad när refuseringsbrevet kommer (jag har fåttåtskilliga genomåren). Det är snarare som om en verbal puckel lossnar från ryggen och får mig att stårak igen.
+Reflektion: Jag är inte speciellt förvånad när refuseringsbrevet kommer (jag har fått åtskilliga genom åren). Det är snarare som om en verbal puckel lossnar från ryggen och får mig att stå rak igen.
 :::
 
 ::: indent
@@ -526,7 +526,7 @@ I det här läget.
 :::
 
 ::: indent
-Senare ska jag söka upp den där puckeln, med pannlampa mitt i natten, hitta den i en månstråle och skära upp den. Vad var det jag skrev? Vad var det jag ägnade alla dessa besatta nätter på 80-taletåt? Vad var det jag inte fick ihop?
+Senare ska jag söka upp den där puckeln, med pannlampa mitt i natten, hitta den i en månstråle och skära upp den. Vad var det jag skrev? Vad var det jag ägnade alla dessa besatta nätter på 80-talet åt? Vad var det jag inte fick ihop?
 :::
 
 ::: indent
@@ -538,13 +538,13 @@ Varför?
 ::: part
 :::
 
-Den här sommaren läser jag ”*Tåbb med manifestet*”för första gången, Lars Ahlins omskrivna debutbok från 1943. Det mest anmärkningsvärda med boken, förutom det inkännande porträttet av en ung mans våndor med sin politiska tro och Ahlins språkbehandling, är dess spridning. Enligt uppgift köptes och lästes den avöver 100.000 personer, företrädesvis arbetare och mindre bemedlade människor. Det är inte många böcker som når den upplagan, speciellt inte med ett ganska krävande innehåll.
+Den här sommaren läser jag ”*Tåbb med manifestet*” för första gången, Lars Ahlins omskrivna debutbok från 1943. Det mest anmärkningsvärda med boken, förutom det inkännande porträttet av en ung mans våndor med sin politiska tro och Ahlins språkbehandling, är dess spridning. Enligt uppgift köptes och lästes den av över 100.000 personer, företrädesvis arbetare och mindre bemedlade människor. Det är inte många böcker som når den upplagan, speciellt inte med ett ganska krävande innehåll.
 ::: indent
-Jag låter senare en av karaktärerna i våra deckare, antikvariatsägaren Ronny Redlös, läsa ur”*Tåbb med manifestet*”för en skara hemlösa och utslagna, han vill inviga dom i”omistlig litteratur”. Jag tror Ahlin hade gillat den scenen.
+Jag låter senare en av karaktärerna i våra deckare, antikvariatsägaren Ronny Redlös, läsa ur ”*Tåbb med manifestet*” för en skara hemlösa och utslagna, han vill inviga dom i ”omistlig litteratur”. Jag tror Ahlin hade gillat den scenen.
 :::
 
 ::: indent
-Minne av Ahlin: Jag ser ett tv-program som har stannat kvar genomåren. Det är Ahlin och Ulf Linde som sitter intill varann i tvåfåtöljer och diskuterar religion och socialism. I en timme! Oavbrutet fängslande. Mycket går över mitt huvud, men bara njutningen av att se tvåintellektuella personer diskutera komplicerade frågeställningar utan att bli avbrutna är en lyx som är ytterst sällsynt i svensk tv (i Frankrike kan du se det ofta). Själv är jag inte intellektuell. Hyfsat intelligent, men inte bildad i intellektuell bemärkelse.
+Minne av Ahlin: Jag ser ett tv-program som har stannat kvar genom åren. Det är Ahlin och Ulf Linde som sitter intill varann i två fåtöljer och diskuterar religion och socialism. I en timme! Oavbrutet fängslande. Mycket går över mitt huvud, men bara njutningen av att se två intellektuella personer diskutera komplicerade frågeställningar utan att bli avbrutna är en lyx som är ytterst sällsynt i svensk tv (i Frankrike kan du se det ofta). Själv är jag inte intellektuell. Hyfsat intelligent, men inte bildad i intellektuell bemärkelse.
 :::
 
 ::: indent
@@ -558,14 +558,14 @@ Jag tar mig fram på andra stigar.
 ::: part
 :::
 
-Såtilldelas jag Årets Klappa av Föreningen Sveriges Spelfilmsregissörer, för att ”*i ett decennium skickligt och hängivet ha arbetat med filmens grundförutsättning, manuskriptet*”. Ett decennium är att ta i, jag skrev mitt första filmmanus 1980. Det här sker 1986.
+Så tilldelas jag Årets Klappa av Föreningen Sveriges Spelfilmsregissörer, för att ”*i ett decennium skickligt och hängivet ha arbetat med filmens grundförutsättning, manuskriptet*”. Ett decennium är att ta i, jag skrev mitt första filmmanus 1980. Det här sker 1986.
 ::: indent
 Men lite uppskattning är alltid välkommet.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/289.png)
 
-Samtidigt har Carsten en utställning på Boibrino Gallery i Stockholm. En av målningarna heter ”*Gobelängjungfrun*”(enligt Carsten ett transformerat minne av tapisserisviten”*Damen med enhörningen*”i medeltidsmuseet i Cluny):
+Samtidigt har Carsten en utställning på Boibrino Gallery i Stockholm. En av målningarna heter ”*Gobelängjungfrun*” (enligt Carsten ett transformerat minne av tapisserisviten ”*Damen med enhörningen*” i medeltidsmuseet i Cluny):
 
 ![Gobelängjungfrun.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/202.png)
 <!-- PAGE 176 END -->
@@ -580,7 +580,7 @@ Själv föredrar jag pendangen till den målningen:
 
 Livet och skrivandet går vidare.
 ::: indent
-Jag kontaktas av tvågrävande journalister som jag har stor respekt för, Tomas Dillén och Björn Anderberg. SVT har beställt en tv-serie i tre delar som ska handla om ekonomisk brottslighet, närmare bestämt den som kan ringas in i”*Den gyllene triangeln*”. Det handlar inte opium i dom thailändska bergen, utan om grov kriminalitet baserad runt Norrmalmstorg i Stockholm. Tomas vill ha hjälp att skriva manuset. Jag tänder påidén och läser in mig på ett digert material. Manuset blir klart ett par månader senare och presenteras för SVT. Såhär lyder introduktionen:
+Jag kontaktas av två grävande journalister som jag har stor respekt för, Tomas Dillén och Björn Anderberg. SVT har beställt en tv-serie i tre delar som ska handla om ekonomisk brottslighet, närmare bestämt den som kan ringas in i ”*Den gyllene triangeln*”. Det handlar inte opium i dom thailändska bergen, utan om grov kriminalitet baserad runt Norrmalmstorg i Stockholm. Tomas vill ha hjälp att skriva manuset. Jag tänder på idén och läser in mig på ett digert material. Manuset blir klart ett par månader senare och presenteras för SVT. Så här lyder introduktionen:
 :::
 
 **”Erik Penser tar tåget tomhänt till Stockholm för att bli Sveriges rikaste man. Anders Wall slänger Handelshögskolans kurslitteratur för att sälja kaniner och nå finanstoppen. Gabriel Urwitz spionerar på PK-banken med kikare och tränger sig in i banketablissemanget. Historierna valsas om och om igen i finansvärldens tummelplats, den Gyllene Triangeln runt Norrmalmstorg. Vår berättelse handlar om några pojkar, förförda av 80-talets exempellösa framgångsmyter, som frågar sig:**
@@ -597,7 +597,7 @@ Jag kontaktas av tvågrävande journalister som jag har stor respekt för, Tomas
 
 **     - Pengar är pengar, var dom än kommer ifrån.”**
 
-SVT:s jurister stoppar serien. Dom anser att risken för en stämning från några av dom inblandade är över hängande och är inte beredda att ta den striden.
+SVT:s jurister stoppar serien. Dom anser att risken för en stämning från några av dom inblandade är överhängande och är inte beredda att ta den striden.
 ::: indent
 Mycket jobb down the drain.
 :::
@@ -607,13 +607,13 @@ Istället skriver jag manus till ett poesi- och musikprogram för SR i samarbete
 ::: part
 :::
 
-Roligt händer nästaår: Minäldste son Joakim har en av huvudrollerna i en tv-serie som heter ”*Xerxes*”. Peter Schildt regisserar. Jag är imponerad av Jockes prestation, han har en naturlig trovärdighet som inte är såvanlig (även om det är extremt svårt att se en sånärstånde människa gestalta en annan människa, svårt att filtrera bort Joakim).
+Roligt händer nästa år: Min äldste son Joakim har en av huvudrollerna i en tv-serie som heter ”*Xerxes*”. Peter Schildt regisserar. Jag är imponerad av Jockes prestation, han har en naturlig trovärdighet som inte är så vanlig (även om det är extremt svårt att se en så närstående människa gestalta en annan människa, svårt att filtrera bort Joakim).
 
 ![Ynglingen längst till höger.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/247.png)
 <!-- PAGE 177 END -->
 
 <!-- PAGE 178 START -->
-Mindre roligt händer också. Det bildas ett nytt parti som kallar sig Sverigedemokraterna. Det är ett nationalistiskt och socialkonservativt parti som grundas av veteraner inom svensk nazism och fascism. Flera av dom har tidigare varit medlemmar i Nordiska Rikspartiet och Bevara Sverige Svenskt. Deras ungdoms för bund bildas 1992 och leds av nazisten Robert Wennerstedt (Vesterlund). Tvåår senare blir JimmieÅkesson partipolitiskt aktiv i förbundet. Han är då 16 år.
+Mindre roligt händer också. Det bildas ett nytt parti som kallar sig Sverigedemokraterna. Det är ett nationalistiskt och socialkonservativt parti som grundas av veteraner inom svensk nazism och fascism. Flera av dom har tidigare varit medlemmar i Nordiska Rikspartiet och Bevara Sverige Svenskt. Deras ungdomsförbund bildas 1992 och leds av nazisten Robert Wennerstedt (Vesterlund). Två år senare blir Jimmie Åkesson partipolitiskt aktiv i förbundet. Han är då 16 år.
 ::: indent
 Det förflutna ljuger inte.
 :::
@@ -637,7 +637,7 @@ Det blir inte påbättre humör av att skriva ”*Jönssonligan på Mallorca*”
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/256.png)
 
-Däremot inneb är nästa projekt en viss stimulans.
+Däremot innebär nästa projekt en viss stimulans.
 ::: indent
 Carsten och jag kontaktas av sångaren Peter Lemarc. Han vill arrangera en stödgala för Escuela Pina Palmera, en skola för mentalt och fysiskt handikappade barn i södra Mexico. Skolan startades av en svensk kvinna, Anna Johansson, och amerikanen Frank Douglas. Tanken är att göra en akustisk konsert i Skeppsholmskyrkan. Ett antal prominenta musiker ställer upp gratis, däribland Mauro Scocco, Mikael Rickfors, Plura, Fläskkvartetten, Kajsa & Malena.
 :::
@@ -740,7 +740,7 @@ Kommunistregimen består.
 :::
 
 ::: indent
-I Tyskland går det bättre för frihetskämparna. Där lyckas manäntligen riva Berlinmuren utan större blodspillan. En symbolhandling som får hela ”järnridån”att krackelera och över tid leder till ett åter för enat Tyskland.
+I Tyskland går det bättre för frihetskämparna. Där lyckas man äntligen riva Berlinmuren utan större blodspillan. En symbolhandling som får hela ”järnridån” att krackelera och över tid leder till ett återförenat Tyskland.
 :::
 
 ::: indent
@@ -751,7 +751,7 @@ Tragedier och triumfer.
 Allt ska samsas i samma värld.
 :::
 
-Här hemma har Carsten en utställning på Sveavägen tillsammans med tre outsiders i konstvärlden: Curre Hillfon, Kjartan Slettermark (den rosa pudelmannen) och Leif Tjerned. Dom kallar utställningen för”*Cadavre Exquis* - *Utsökta kroppar*”, inspirerade av surrealisternas lek med ”vikgubbar”.
+Här hemma har Carsten en utställning på Sveavägen tillsammans med tre outsiders i konstvärlden: Curre Hillfon, Kjartan Slettermark (den rosa pudelmannen) och Leif Tjerned. Dom kallar utställningen för ”*Cadavre Exquis* - *Utsökta kroppar*”, inspirerade av surrealisternas lek med ”vikgubbar”.
 
 ![Skiss till Cadavre Exquis.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/204.png)
 

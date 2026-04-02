@@ -7,7 +7,7 @@
 
 Vi kör mot Big Sur. Det visar sig vara en skog. Vi kör rakt igenom. Det är vackert. Vi stannar vid en strand. Klockan är sex på kvällen. Vi går längst bort påbeachen, går ut i våra kalsonger i Stilla Oceanen för det första doppet. Det är varmt. Alldeles för varmt. Orent, i bemärkelsen grötigt, oklart vatten. Det är palmer längs hela stranden.
 
-Vi kör igenom Los Angeles. En vidrig stad. Vi kör i drygt en timmes tid och är fortfarande kvar i Los Angeles. Föroreningarna ligger som moln, som en gul dimma över hela stan. Det är ett slags omänsklig, okommunikativöken. Vi knäpper på”Street Legal”och låter Dylan guida oss ut ur betonghelvetet.
+Vi kör igenom Los Angeles. En vidrig stad. Vi kör i drygt en timmes tid och är fortfarande kvar i Los Angeles. Föroreningarna ligger som moln, som en gul dimma över hela stan. Det är ett slags omänsklig, okommunikativ öken. Vi knäpper på ”Street Legal” och låter Dylan guida oss ut ur betonghelvetet.
 
 Vi stannar i San Bernadino för natten. Det är otroligt hett. Äter på en mexrestaurang och lägger oss på motellet. Sätter påfärg-tv. Dricker tequila. Reklam reklam reklam. Vi har hört det i bilradion hela dan, vi hör det i tv-n igen. Positiv, glad, utåtriktad, energisk, förföriskt lockande reklam om glada friska människor, positiva människor, kreativa människor, lyckliga människor:”Sätt dig på vår toalettstol såmår du som en prinsessa!”Samma vidriga tävlingsprogram. Unga färgade kvinnor som vinner fantasisummor, som bryter ihop på scenen, som svimmar, som gråter, och den förhärdade programledaren, en vit gentleman i 50-årsåldern med ansiktet fullt av välrepeterad avsmak, ler mot dom offer som bjuds ut i tv-apparaten. Det här är vår tids gladiatorspel. Det här är 1000 gånger brutalare, mer cyniskt, mer avskyvärtän tjurfäktning nånsin kan vara. Det är en sån total mänsklig förnedring.
 ::: indent
@@ -69,7 +69,7 @@ Han tystnar och läppjar påvad jag antar är en öl, rapar lätt och tittar fö
 :::
 
 ::: indent
-– Min fru slogs ihjäl med ett baseballträ, jag var inte hemma, hon slogs ihjäl för sin skönhets skull. Vi hade just köpt en stuga vid havet. Nuär jag här och försöker glömma. Okej?
+– Min fru slogs ihjäl med ett baseballträ, jag var inte hemma, hon slogs ihjäl för sin skönhets skull. Vi hade just köpt en stuga vid havet. Nu är jag här och försöker glömma. Okej?
 :::
 
 ::: indent
@@ -148,7 +148,7 @@ Det är en märklig känsla när vi glider fram pådenödeökenvägen och vet at
 
 Sonorita klockan tio på kvällen. Vi tar in på ett motell som har swimmingpool utomhus. Rum nummer 5. Det är ett enkelt rum. Varsin säng. Dusch. En kille ställer in en hink med isvatten. Vi byter om, duschar. Går ut och käkar. Bruno får knivar i magen av maten. Han stönar och vrider sig. Vi går ut i byn för att hitta en kantina där vi kan dricka tequila. Vi hittar den enda i byn och går in. Det är sent på kvällen. Denär fullproppad med lokalbor. Vi är dom enda utlänningarna. ”Kan vi fåtvåtequila, tack.”Barflickan ler, en storväxt, blank mexikanska. Hon upplyser att dom bara serveraröl.”Cerveza! Comprende?”
 ::: indent
-Vi går därifrån. Eller jag går, Bruno vacklar. Knivarna har nått honom till halsen nu, skär genom bröstkorgen. Han är över tygad om att han ska dö. Vi går förbi en nattöppen butik som säljer sprit och köper med oss en flaska tequila till rummet.
+Vi går därifrån. Eller jag går, Bruno vacklar. Knivarna har nått honom till halsen nu, skär genom bröstkorgen. Han är övertygad om att han ska dö. Vi går förbi en nattöppen butik som säljer sprit och köper med oss en flaska tequila till rummet.
 :::
 
 ::: indent
@@ -195,7 +195,7 @@ Jag vet att man inte ska tänka så.
 :::
 
 ::: indent
-Så vi dricker våra öl och pratar med tjänstemännen. Dom är påfallande trevliga. Berättar vad dom vet om Mexico, är lite nyfikna på Sverige. Till slut säger jag att vi nog måste sticka nu. Vi har långt att köra. Frågar om dom kan fixa undersökningen av bilen.”Det behövs inte”säger dom.”Ni är bra grabbar. Ni dricker öl.”Så sätter dom på en stor gul turistlapp på rutan.”Nu behöver ni inte ha några problem mer i Mexico”säger dom. Och vi vinkar och kör iväg.
+Så vi dricker våra öl och pratar med tjänstemännen. Dom är påfallande trevliga. Berättar vad dom vet om Mexico, är lite nyfikna på Sverige. Till slut säger jag att vi nog måste sticka nu. Vi har långt att köra. Frågar om dom kan fixa undersökningen av bilen. ”Det behövs inte”, säger dom. ”Ni är bra grabbar. Ni dricker öl.” Så sätter dom på en stor gul turistlapp på rutan. ”Nu behöver ni inte ha några problem mer i Mexico”, säger dom. Och vi vinkar och kör iväg.
 :::
 
 ::: indent
@@ -585,7 +585,7 @@ Han har lagt ett patronbälte på disken.
 Utanför passerar en likvagn i guld och silver, regnet sköljer över motorhuven.
 :::
 
-Näråskan har lagt sig går vi till O. K. Corral. Lite spända. Det är platsen för den beryktade duellen mellan Wyatt Earp, hans bröder Virgil och Morgan, Doc Holliday och bröderna Clanton. Vi har sett scenen i ett antal filmversioner genomåren, bra och mindre bra, alltid dramatiska. Vi kommer fram till platsen, går in pågården där skjutningenägde rum, står där duellen faktiskt utspelade sig, i gryningen den 26 oktober 1881, har samma mark under fötterna.
+När åskan har lagt sig går vi till O. K. Corral. Lite spända. Det är platsen för den beryktade duellen mellan Wyatt Earp, hans bröder Virgil och Morgan, Doc Holliday och bröderna Clanton. Vi har sett scenen i ett antal filmversioner genom åren, bra och mindre bra, alltid dramatiska. Vi kommer fram till platsen, går in på gården där skjutningen ägde rum, står där duellen faktiskt utspelade sig, i gryningen den 26 oktober 1881, har samma mark under fötterna.
 ::: indent
 Jaha?
 :::
@@ -634,7 +634,7 @@ för någon annan än oss
 
 Vi lämnar Crystal Palace och bestämmer oss för att besöka Boot Hill. Den mytiska kyrkogården. Den ligger en bit utanför stan. Vi promenerar. Det hinner mörkna en del innan vi kommer fram. På avstånd skäller präriehundar.
 ::: indent
-Vi går längs gravarna i dunklet, läser påstenarna. ”Hung by mistake”står det på många,”Killed by accident”på andra. På en står det:”HERE LIES LESTER MOORE/FOUR SLUGS FROM A FORTYFOUR/NO LESS NO MORE”.
+Vi går längs gravarna i dunklet, läser på stenarna. ”Hung by mistake” står det på många, ”Killed by accident” på andra. På en står det: ”HERE LIES LESTER MOORE/FOUR SLUGS FROM A FORTYFOUR/NO LESS NO MORE”.
 :::
 
 ::: indent
@@ -717,7 +717,7 @@ Vi kör till Whiteriver och Fort Apache. Fortet är ointressant, bara gamla tege
 :::
 
 ::: indent
-Stannar i Show Low, efter att ha dundrat igenom Geronimo Pass i skymningen. Hittar ett skabbigt motell. Som vanligt svarta kräldjur under lakanen, spindeldelar på tvålen, fyra bastanta killar med gev är tar in i rummet intill. Vi håller oss vakna till gryningen. När vi lämnar rummet sticker jag mig ordentligt påbusken utanför metalldörren. Blodvite.
+Stannar i Show Low, efter att ha dundrat igenom Geronimo Pass i skymningen. Hittar ett skabbigt motell. Som vanligt svarta kräldjur under lakanen, spindeldelar på tvålen, fyra bastanta killar med gevär tar in i rummet intill. Vi håller oss vakna till gryningen. När vi lämnar rummet sticker jag mig ordentligt på busken utanför metalldörren. Blodvite.
 :::
 
 ::: indent
@@ -743,7 +743,7 @@ Efter ovädret:ångan stiger som trollslöjor från dom asfalterade vägarna, st
 
 Kör vidare igenom Petrified Forest. Den förstenade skogen. Ett slags amerikanska fornlämningar, deras runstenar. Skogen sjönk i havet för 20.000 år sen, höjdes igen, resterna ligger som svarta, tunga, döda monument påslätten ... eller är det förstenade bufflar?
 
-Den kallas för ”Death Road”och går mellan Tombstone och Cochise Stronghold. Smal, oerhört gropig, sandig. I fjärran Dragoon Mountains. Vi är på väg mot Fort Bowie. Överallt sköldpaddor, harar, jordekorrar och enorma rullande buskar.
+Den kallas för ”Death Road” och går mellan Tombstone och Cochise Stronghold. Smal, oerhört gropig, sandig. I fjärran Dragoon Mountains. Vi är på väg mot Fort Bowie. Överallt sköldpaddor, harar, jordekorrar och enorma rullande buskar.
 <!-- PAGE 106 END -->
 
 <!-- PAGE 107 START -->
@@ -1054,7 +1054,7 @@ Vi kör och börjar bli utsvultna. Till slut dyker det upp en vägrestaurang. St
 
 Vi kommer fram till Cimarron: Tvåmotell, en restaurang, en postskrubb, en bensinmack, en spritbutik och en bastu. Två mil till närmaste bio. Vi stannar till vid restaurangen. Vill checka av om vi ska stanna här.
 ::: indent
-Bra atmosf är när vi kliver in. Creedence i högtalarna, på disken en modell av loket i ravinen vi sett tidigare, en Kennedystatyett i brons och ett akvarium fullt med humrar. Vi går fram till disken och ber om tvåglas vitt vin.
+Bra atmosfär när vi kliver in. Creedence i högtalarna, på disken en modell av loket i ravinen vi sett tidigare, en Kennedystatyett i brons och ett akvarium fullt med humrar. Vi går fram till disken och ber om två glas vitt vin.
 :::
 
 ::: indent

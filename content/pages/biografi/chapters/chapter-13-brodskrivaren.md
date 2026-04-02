@@ -6,13 +6,13 @@ Det är filmproducenten Bosse Jonsson som ringer. Mitt manus till ”*Kocken*”
 – Var?
 :::
 
-Vi ses på hans kontor på Kungsgatan. Litet, några affischer på väggarna, en skrubb för en sekretarerare. Inte vad jag har föreställt mig hur ett filmbolag ska se ut (Bosse blir senare den mest framgångsrika filmproducenten i Sverige, via sina filmer med LasseÅberg, utan att byta lokal).
+Vi ses på hans kontor på Kungsgatan. Litet, några affischer på väggarna, en skrubb för en sekreterare. Inte vad jag har föreställt mig hur ett filmbolag ska se ut (Bosse blir senare den mest framgångsrika filmproducenten i Sverige, via sina filmer med Lasse Åberg, utan att byta lokal).
 ::: indent
-Han bjuder påkaffe.
+Han bjuder på kaffe.
 :::
 
 ::: indent
-– Jag vill göra en tv-serie påjournalisten Olle Högstrands bok”*Skulden*”, säger Bosse.
+– Jag vill göra en tv-serie på journalisten Olle Högstrands bok ”*Skulden*”, säger Bosse.
 :::
 
 ::: indent
@@ -74,7 +74,7 @@ Vladimir Majakovskij: “***Ett moln i byxor.***”
 John Kennedy Tool: “***Dumskallarnas sammansvärjning.***”
 Robert Musil: “***Mannen utan egenskaper***.”
 
-Egen titel jag gillar: Min och Cilla Börjlinds första deckare ”***Varför saknade ingen Adelita Rivera?***”(senare omdöpt till”*Springfloden*”). Jag är också för tjust i titeln på ett av våra första boksynops: ”***Det förtvivlade mordet på Angel Björk.***”
+Egen titel jag gillar: Min och Cilla Börjlinds första deckare ”***Varför saknade ingen Adelita Rivera?***” (senare omdöpt till ”*Springfloden*”). Jag är också förtjust i titeln på ett av våra första boksynops: ”***Det förtvivlade mordet på Angel Björk.***”
 
 Den historien börjar så här:
 
@@ -123,14 +123,14 @@ Det är, visar det sig, en mycket sorglig historia.
 ::: part
 :::
 
-Carsten och jag bjuds in av Svenska Filminstitutet att medverka i deras kortfilmsserie ”*S80*”(varför vet jag inte riktigt). Vi ska producera en film som handlar om”läget i Sverige”, alltsåett samtidsdokument.
+Carsten och jag bjuds in av Svenska Filminstitutet att medverka i deras kortfilmsserie ”*S80*” (varför vet jag inte riktigt). Vi ska producera en film som handlar om ”läget i Sverige”, alltså ett samtidsdokument.
 ::: indent
-Vi har just bildat en multimusikgrupp som heter Gateway, tillsammans med den suveräne rockgitarristen Mats ”Malla”Ronander och Stefan Nilsson (vi har ett par andra namn pågruppen först, Flying Toasters och Gentlemen Junkies, men fastnar för Gateway).
+Vi har just bildat en multimusikgrupp som heter Gateway, tillsammans med den suveräne rockgitarristen Mats ”Malla” Ronander och Stefan Nilsson (vi har ett par andra namn på gruppen först, Flying Toasters och Gentlemen Junkies, men fastnar för Gateway).
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/174.png)
 
-Vi bestämmer oss för att vårt bidrag till”*S80*”ska skapas av Gateway och utformas som en musikvideo med titeln”*Konst är dyrbarare än korv*”-återigen ett Picabia-uttryck.
+Vi bestämmer oss för att vårt bidrag till ”*S80*” ska skapas av Gateway och utformas som en musikvideo med titeln ”*Konst är dyrbarare än korv*” - återigen ett Picabia-uttryck.
 ::: indent
 Dada.
 :::
@@ -140,7 +140,7 @@ Allt som är omöjligt är möjligt.
 :::
 
 ::: indent
-Ronander/Nilsson skriver musiken, jag skriver texten och Carsten bildsätter filmen i collageform. Själva låten sjungs in av Tommy Körberg, Marie Bergman och Malla. Denär tolv minuter lång och betecknas tyvärr i ett långt brev från ledningsgruppen för”*S80*”som”ett politiskt svek”.
+Ronander/Nilsson skriver musiken, jag skriver texten och Carsten bildsätter filmen i collageform. Själva låten sjungs in av Tommy Körberg, Marie Bergman och Malla. Den är tolv minuter lång och betecknas tyvärr i ett långt brev från ledningsgruppen för ”*S80*” som ”ett politiskt svek”.
 :::
 
 ::: indent
@@ -160,7 +160,7 @@ Såsker.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/173.jpg)
 
-Omslaget är en parafras på Beatles ”*Sgt Pepper*”(eller för den delen Frank Zappas mycket roligare”*We are only in it for the money*”).
+Omslaget är en parafras på Beatles ”*Sgt Pepper*” (eller för den delen Frank Zappas mycket roligare ”*We are only in it for the money*”).
 ::: indent
 Påbaksidan av singeln läser jag en egen text, ackompanjerad av Stefan Nilsson. Den heter ”*Between you and me and the gateway*”.
 :::
@@ -195,7 +195,7 @@ Varför vet jag inte.
 :::
 
 ::: indent
-Anthony Burgess njuter jag av, men han är speciell. Jag märker att jag mer och mer tröttnar på”tjocka böcker”, mer och mer tröttnar på att ge mig in i en fet fiktiv värld, som om tålamodet och isbjörnsbeteendet börjar slåsig påläsandet. Jag vill ha snabba kickar, vilket är förödande när det gäller tung litteratur.
+Anthony Burgess njuter jag av, men han är speciell. Jag märker att jag mer och mer tröttnar på ”tjocka böcker”, mer och mer tröttnar på att ge mig in i en fet fiktiv värld, som om tålamodet och isbjörnsbeteendet börjar slå sig på läsandet. Jag vill ha snabba kickar, vilket är förödande när det gäller tung litteratur.
 :::
 
 ::: indent
@@ -254,7 +254,7 @@ Reflektion: Har jag verkligen skrivit den här texten?
 
 St Marks Church Poetry Project startar 1966 i Bowery på Manhattan - en scen för ny och experimentell poesi, med workshops, readings och ett regelbundet nyhetsbrev. Projektet drivs enbart av poeter. Över tid har författare som Allen Ginsberg, Frank O ´ Hara, W. H. Auden och Anne Waldman framträtt i kyrkan.
 ::: indent
-Nuär det vi som är inbjudna - jag, Bruno och Stefan Nilsson.
+Nu är det vi som är inbjudna - jag, Bruno och Stefan Nilsson.
 :::
 
 ::: indent
@@ -289,7 +289,7 @@ Poeten och aktivisten Bob Holman beskriver framträdandet såh är i projektets 
 
 Hemma igen.
 ::: indent
-Ljus förmiddag, jag sitter i skrivarstugan på ön och kurerar natten (kampen med min”roman”). Gösta Ekman ringer och vill prata ”*Jönssonligan*”. Eller rättare sagt ”*Olsenbanden*”. Gösta har blivit förtjust i några danska filmer om ett antal udda smågangstrar och vill göra en svensk variant. Jag har ingen aning om vad han pratar om.
+Ljus förmiddag, jag sitter i skrivarstugan på ön och kurerar natten (kampen med min ”roman”). Gösta Ekman ringer och vill prata ”*Jönssonligan*”. Eller rättare sagt ”*Olsenbanden*”. Gösta har blivit förtjust i några danska filmer om ett antal udda smågangstrar och vill göra en svensk variant. Jag har ingen aning om vad han pratar om.
 :::
 
 ::: indent
@@ -339,11 +339,11 @@ Kan jag skriva komedi? För film?
 
 <!-- PAGE 145 START -->
 ::: indent
-– Tillsammans kan vi fixa det, säger Gösta. Jag pratar, du pratar, sen skriver du och jag läser. Dom får fixa över några ”*Olsenbanden*”såser du vad det handlar om.
+– Tillsammans kan vi fixa det, säger Gösta. Jag pratar, du pratar, sen skriver du och jag läser. Dom får fixa över några ”*Olsenbanden*” så ser du vad det handlar om.
 :::
 
 ::: indent
-Ungef är som när Mats Arehn skulle”fixa över”ett manus inför”*Kocken*”.
+Ungefär som när Mats Arehn skulle ”fixa över” ett manus inför ”*Kocken*”.
 :::
 
 ::: indent
@@ -360,7 +360,7 @@ Jag tycker det är kul.
 :::
 
 ::: indent
-Båda tycker att namnet”Vanheden”är kul. Gösta vill att han ska spelas av Ulf Brunnberg.
+Båda tycker att namnet ”Vanheden” är kul. Gösta vill att han ska spelas av Ulf Brunnberg.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/600.JPG)
@@ -370,7 +370,7 @@ Själv föreslår jag att Sickans antagonist, ”storskurken”, ska heta Wall-E
 Vi går vidare, garvar och känner oss inspirerade. Jag fattar att Gösta verkligen vill göra den här filmen och jag vill verkligen hjälpa honom med det.
 :::
 
-På tal om att ”gåoch prata”: det blir en arbetsmetod som Gösta och jag utvecklar nästan in absurdum under åren framöver, speciellt när vi senare gör ”*Morrhår & Ärtor*”och jag får solsting på Mallorca under en evighetslång promenad.
+På tal om att ”gå och prata”: det blir en arbetsmetod som Gösta och jag utvecklar nästan in absurdum under åren framöver, speciellt när vi senare gör ”*Morrhår & Ärtor*” och jag får solsting på Mallorca under en evighetslång promenad.
 ::: indent
 Men gång stimulerar tänkandet, blir min erfarenhet av arbetet med Gösta (plus en del annat).
 :::
@@ -403,7 +403,7 @@ Släktmiddagar t.ex?
 <!-- PAGE 145 END -->
 
 <!-- PAGE 146 START -->
-Tillbaka från arbetet med ”*Jönssonligan*”blir jag erbjuden att skriva en text i den höglitterära tidskriften Artes, grundad av (håll i er nu): Kungliga Musikaliska Akademien, Konstakademien och Svenska Akademien samt Samfundet De Nio.
+Tillbaka från arbetet med ”*Jönssonligan*” blir jag erbjuden att skriva en text i den höglitterära tidskriften Artes, grundad av (håll i er nu): Kungliga Musikaliska Akademien, Konstakademien och Svenska Akademien samt Samfundet De Nio.
 ::: indent
 Tämligen långt från Vargen och Guru Papers.
 :::
@@ -633,7 +633,7 @@ Jag har vandrat runt ett tag nu i andra utmarker, mer befrämjande för det som 
 
 <!-- PAGE 148 START -->
 ::: indent
-Programmet får namnet”*Klockan klämtar för dig*”, är en framtidsvision och skrivs i samarbete med Lars-Ragnar Forssberg. Direkt efter sändningen, en fredagskväll, utbryter en våldsam ”folkstorm”. Skälet är huvudsakligen ett inslag om Marcus Wallenberg. Vi har skildrat hans likvaka i ett av SE-bankens marmorvalv:
+Programmet får namnet ”*Klockan klämtar för dig*”, är en framtidsvision och skrivs i samarbete med Lars-Ragnar Forssberg. Direkt efter sändningen, en fredagskväll, utbryter en våldsam ”folkstorm”. Skälet är huvudsakligen ett inslag om Marcus Wallenberg. Vi har skildrat hans likvaka i ett av SE-bankens marmorvalv:
 :::
 
 **”Massmedia, politiker och finansmän står uppradade längs väggarna, åtta inhyrda gråterskor från Rhodos får fart på sorgen, en underhuggare berättar saligt hur han gick in Marcus Wallenbergs skor, låg lik för att få passform i kistan och använde bankdirektörens direktimporterade taiwanesiska kondomer för att ta bort statisk elektricitet i doktorns lem.”**
@@ -645,7 +645,7 @@ Dagen efter stoppas reprissändningen. Radions programdirektör Torsten Byggdal 
 
 **”Jag ingrep av etiska skäl. Det var väl magstarkt att sända ett så närgånget inslag som en likvaka över en nu levande människa.”**
 
-Formell censur av”etiska skäl”? Vems etik? Programdirektörens? Eller hans frus?
+Formell censur av ”etiska skäl”? Vems etik? Programdirektörens? Eller hans frus?
 ::: indent
 Programmet fälls naturligtvis i Radionämnden:
 :::
@@ -664,7 +664,7 @@ Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sv
 ::: part
 :::
 
-Det häråret, 1981, utkommer en bok som heter ”*Prostitution i Sverige*”. Denär resultatet av en utredning som staten tillsatte 1977. Sakkunnig i utredningen är Sven-Axel Månsson. En av deltagarna är kriminologen Leif GW Persson.
+Det här året, 1981, utkommer en bok som heter ”*Prostitution i Sverige*”. Den är resultatet av en utredning som staten tillsatte 1977. Sakkunnig i utredningen är Sven-Axel Månsson. En av deltagarna är kriminologen Leif GW Persson.
 ::: indent
 Under arbetets gång kommer utredarna fram till insikten att  ”*prostitutionen är ett uttryck för grundläggande skillnader och orättvisor mellan könen i samhället*”. En insikt som är lite för radikal för den moderata hovrättsjuristen Inger Lindqvist, som är ordförande i utredningen. Alla inblandade, utom GW Persson, sparkas. Lindqvist vägrar att offentliggöra utredningsmaterialet. Trots det publiceras det som en departementspromemoria 1980 och kommer ut i bokformåret efter.
 :::
@@ -680,7 +680,7 @@ Själv råkar jag känna den sakkunnige Sven-Axel Månsson via en dambekant på 
 
 <!-- PAGE 149 START -->
 ::: indent
-Jag känner att det finns en större berättelse i materialet som måste skrivas. Jag vill skriva den. Kanske i pjäsform. Jag kontaktar Sten Ljunggren, en man som jag har stor respekt för vid det här laget - hans briljanta intellekt, djupa humanism och tunga gestaltnings för måga (många år senare föreslår jag honom i rollen som Martin Beck när vi ska börja vår Beck-serie, men valet faller på Peter Haber, Sten anses inte tillräckligt ”bankable”). Sten tänder påidén med en pjäs. Jag föreslår att vi skaåka Transsibiriska Järnvägen och ta med boken, en bandspelare och ett ordentligt förråd med ljudkassetter. Under resan ska vi bryta ner den oerhört omfattande utredningen till en helaftonspjäs (vilket sker, den kommer så småningom att fånamnet ”*Rödluvan - och på golvet dansar ett slaktdjur*”och sättas upp på Norrbottensteatern).
+Jag känner att det finns en större berättelse i materialet som måste skrivas. Jag vill skriva den. Kanske i pjäsform. Jag kontaktar Sten Ljunggren, en man som jag har stor respekt för vid det här laget - hans briljanta intellekt, djupa humanism och tunga gestaltningsförmåga (många år senare föreslår jag honom i rollen som Martin Beck när vi ska börja vår Beck-serie, men valet faller på Peter Haber, Sten anses inte tillräckligt ”bankable”). Sten tänder på idén med en pjäs. Jag föreslår att vi ska åka Transsibiriska Järnvägen och ta med boken, en bandspelare och ett ordentligt förråd med ljudkassetter. Under resan ska vi bryta ner den oerhört omfattande utredningen till en helaftonspjäs (vilket sker, den kommer så småningom att få namnet ”*Rödluvan - och på golvet dansar ett slaktdjur*” och sättas upp på Norrbottensteatern).
 :::
 
 ::: indent
@@ -704,7 +704,7 @@ Vi åker i en gemensam förstaklasskupémed uppfällbara sängar, hyfsat rymligt
 :::
 
 ::: indent
-Minne från Transsibiriska 1: Sten och jag köper en kortlek i Helsingfors. Vi inser att det kan behövas avkoppling ute påtundran. När vi kommer till gränsen mot Sovjet beordras alla passagerare ur vagnarna. Sovjetisk milit är går igenom allt bagage. Vi är lätt nervösa. Bandspelare och kassetter. Inte så bra. Men vi vinkas ombord och tåget startar. Nån timme senare vill Sten lägga patiens (han är mycket förtjust i det och i korsord). Men kortleken är borta. Det är det enda militärpolisen har konfiskerat.
+Minne från Transsibiriska 1: Sten och jag köper en kortlek i Helsingfors. Vi inser att det kan behövas avkoppling ute på tundran. När vi kommer till gränsen mot Sovjet beordras alla passagerare ur vagnarna. Sovjetisk militär går igenom allt bagage. Vi är lätt nervösa. Bandspelare och kassetter. Inte så bra. Men vi vinkas ombord och tåget startar. Nån timme senare vill Sten lägga patiens (han är mycket förtjust i det och i korsord). Men kortleken är borta. Det är det enda militärpolisen har konfiskerat.
 :::
 
 ::: indent
@@ -782,7 +782,7 @@ Jag har tryckt ner två stycken i min resväska. En tulltjänsteman upptäcker d
 Men det var värt försöket.
 :::
 
-Tillbaka i Sverige börjar jag påpjäsen. För att bottna ordentligt i det jag vill beskriva läser jag också GW Perssons böcker”*Horor, hallickar och torskar*”och”*Profitörerna*”, Sven-Axel Månssons långa skrift “*Könshandelns främjare och profitörer*”samt konstnären Stig Danielsons magiska konstbok”*Ömhetens kaniner*”- teckningar och texter av och om dom prostituerade han umgåtts med under flera år.
+Tillbaka i Sverige börjar jag på pjäsen. För att bottna ordentligt i det jag vill beskriva läser jag också GW Perssons böcker ”*Horor, hallickar och torskar*” och ”*Profitörerna*”, Sven-Axel Månssons långa skrift “*Könshandelns främjare och profitörer*” samt konstnären Stig Danielsons magiska konstbok ”*Ömhetens kaniner*” - teckningar och texter av och om dom prostituerade han umgåtts med under flera år.
 
 ![Ömhetens kaniner (beskuren).](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/192.png)
 
@@ -795,7 +795,7 @@ Vår ambition är att skildra förnedringen och urholkningen av människovärdet
 Utan att skriva på näsan.
 :::
 
-Reaktionerna påpjäsen blir starka. Vi lyckas klyva betraktarna”*i minst två tätt intill varandra dallrande geléklumpar*”som en djupt berörd recensent skriver.”*Pjäsen går som en rakkniv, från hårfästet till stortånageln.*”
+Reaktionerna på pjäsen blir starka. Vi lyckas klyva betraktarna ”*i minst två tätt intill varandra dallrande geléklumpar*” som en djupt berörd recensent skriver. ”*Pjäsen går som en rakkniv, från hårfästet till stortånageln.*”
 ::: indent
 Eller en annan variant:
 :::
@@ -844,7 +844,7 @@ Det vore otroligt kul och blev otroligt kul när scenen spelades in strax efter.
 
 Fotnot: Det gjordes en pendang till den här scenen, där Papphammar går i vattnet längs en strand med naken över kropp, kliver upp och har byxor påunderkroppen och en portfölj i handen. Den blev inte speciellt rolig och visades aldrig.
 
-Minne från Sälshög 2: Gösta vill göra en meteorolog som har problem med läderveken. Dessutom ska han ha en fluga krypande i ansiktet under hela inslaget. För att få en fluga att göra det (vid den här ”primitiva”tekniska tidpunkten) måste flugan sakna vingar. Det blir Mats Arehns delikata uppgift att fånga in ett antal flugor och befria dom från vingarna (märk väl:”geniet”Andrej Tarkovskij tände eld på en levande ko när han spelade in”*Offret*”) . Arehn samlar några stycken vinglösa flugor i en burk (det kan ju bli omtagningar) och scenen blir väldigt dråplig.
+Minne från Sälshög 2: Gösta vill göra en meteorolog som har problem med läderveken. Dessutom ska han ha en fluga krypande i ansiktet under hela inslaget. För att få en fluga att göra det (vid den här ”primitiva” tekniska tidpunkten) måste flugan sakna vingar. Det blir Mats Arehns delikata uppgift att fånga in ett antal flugor och befria dom från vingarna (märk väl: ”geniet” Andrej Tarkovskij tände eld på en levande ko när han spelade in ”*Offret*”). Arehn samlar några stycken vinglösa flugor i en burk (det kan ju bli omtagningar) och scenen blir väldigt dråplig.
 ::: indent
 Minne från Sälshög 3: Jag och Tove vill gifta oss. Vi har varit ihop iåttaår. Vigseln blir borglig och äger rum på Göstas gård i Sälshög. Den lokale prästen är påtagligt nervös när han ska genomföra akten (Gösta har den påverkan påganska många). Dagen efter knackar det pådörren i gryningen. Det är en mycket svettig präst (han har cyklat, förmodligen fort). Med darrande hand räcker han över vigselbeviset till Gösta. Han har glömt att lämna det kvällen innan.
 :::
@@ -865,12 +865,12 @@ Papphammarsketcherna klipps senare ihop till en långfilm och visas på biograf.
 
 I backspegeln: Papphammar var i vissa avseenden Göstas alter ego. Mannen som gör vad som faller honom in (i en linje från Kolingen, Rit-Ola, Storm P och framför allt Buster Keaton). Dessutom var karaktären hans egen, Hasse & Tage var inte inblandade. Under många år kreerade Gösta gestalter under deras paraply. Papphammar bröt ut honom ur den hegemonin.
 
- “*Morrhår & Ärtor*”fullföljde utbrytningen.
+ “*Morrhår & Ärtor*” fullföljde utbrytningen.
 
 ::: part
 :::
 
-Under arbetet med Papphammar har Carsten haft en separatutställning i Västtyskland med namnet”*Kunst Is Wertvoller Als Wurst*”. Det borde ha varit ”*Als Bratwurst*”. Strax efter har han sin tredje separatutställning på Moderna Museet. Den heter ”*Vargens Öga*”.
+Under arbetet med Papphammar har Carsten haft en separatutställning i Västtyskland med namnet ”*Kunst Is Wertvoller Als Wurst*”. Det borde ha varit ”*Als Bratwurst*”. Strax efter har han sin tredje separatutställning på Moderna Museet. Den heter ”*Vargens Öga*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/189.png)
 
@@ -887,13 +887,13 @@ I katalogen citerar Carsten en bit av feelgoodprofeten Celine:
 
 **”Dom saker som man var mest fäst vid beslutar man en vacker dag att tala allt mindre om och det är med en ansträngning man gör det när man blir tvungen. Man är utled på att höra sig själv snacka i ett ... Man skär ner ... Man ger upp ... Man har hållit på och pratat i trettio år ... Man är inte länge så mån om att ha rätt. Man tappar till och med lusten att bevara den lilla plats man hade sparat åt sej bland livets nöjen ... Man får avsmak för sig själv ... ”**
 
-I samband med utställningen gör vi en multimedia för eställning på Moderna Museet med namnet ”*Gateway*”.
+I samband med utställningen gör vi en multimediaföreställning på Moderna Museet med namnet ”*Gateway*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/191.png)
 
 Det är första gången vi framträder med gruppen. Tidigare har vi gjort den långa Korvlåten, nu ska vi göra ett scenframträdande.
 ::: indent
-Historik: Jag har köpt en jacka i New York med namnet ”Gateway”broderat på baksidan. Det är under långt tid min favoritjacka, enbart på grund av utseendet. När jag kollar upp vad ordet”Gateway”har för olika betydelser blir det spännande. Det finns ett amerikanskt uttryck som lyder”*Between you and me and the gateway*”och betyder”i all förtrolighet”. Det tar vi som utgångspunkt för föreställningen.
+Historik: Jag har köpt en jacka i New York med namnet ”Gateway” broderat på baksidan. Det är under lång tid min favoritjacka, enbart på grund av utseendet. När jag kollar upp vad ordet ”Gateway” har för olika betydelser blir det spännande. Det finns ett amerikanskt uttryck som lyder ”*Between you and me and the gateway*” och betyder ”i all förtrolighet”. Det tar vi som utgångspunkt för föreställningen.
 :::
 
 ::: indent
@@ -929,7 +929,7 @@ Fotnot: Det finns varelser på andra sidan jorden som ocksågillar Gateway:
 ::: part
 :::
 
-Under den här perioden skriver jag ocksåtre filmtreatment påuppdrag av olika producenter. Det första baseras på”*Lustans professor*”av Philip Roth. Rätt snabbt slås jag av hur gubbsjuk berättelsenär. Eller hur sunkig blicken påkvinnorär. Samma sak när jag skriver nästa, baserat på”*Skratt i mörkret*”av Nabokov. Jag ifrågasätter inte dom”litterära”kvaliteterna, men när man bryter ner en bok i treatmentform är det mycket som avslöjas. Av både dramaturgiska håligheter och en del lätt misogyna drag (som när jag försökte läsa Houellebecqs senaste roman”*Serotonin*”, en extremt gubbsjuk berättelse formulerad i ett ospänstigt språk).
+Under den här perioden skriver jag också tre filmtreatment på uppdrag av olika producenter. Det första baseras på ”*Lustans professor*” av Philip Roth. Rätt snabbt slås jag av hur gubbsjuk berättelsen är. Eller hur sunkig blicken på kvinnor är. Samma sak när jag skriver nästa, baserat på ”*Skratt i mörkret*” av Nabokov. Jag ifrågasätter inte dom ”litterära” kvaliteterna, men när man bryter ner en bok i treatmentform är det mycket som avslöjas. Av både dramaturgiska håligheter och en del lätt misogyna drag (som när jag försökte läsa Houellebecqs senaste roman ”*Serotonin*”, en extremt gubbsjuk berättelse formulerad i ett ospänstigt språk).
 ::: indent
 Inget av dessa tvåtreatment vidareutvecklas till manus, eventuellt beroende på min reaktion påböckerna.
 :::

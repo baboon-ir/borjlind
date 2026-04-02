@@ -79,22 +79,22 @@ Corner in wheat - av DW Griffith.
 Regen - av Joris Ives.
 Den analusiska hunden - av Bunuel/Dali.
 
-I biosalongen framför jag solo för eställningen ”*TAKE OFF - att publicera hjärnklostret*”.  Där har vi också en föreställning som heter ”*VESUVIO LEVER - SAMHÄLLET DÖR*”, med mig själv, Per-Eric Söder, Bruno KÖijer och Leif Elggren.
+I biosalongen framför jag solo föreställningen ”*TAKE OFF - att publicera hjärnklostret*”. Där har vi också en föreställning som heter ”*VESUVIO LEVER - SAMHÄLLET DÖR*”, med mig själv, Per-Eric Söder, Bruno KÖijer och Leif Elggren.
 
 Såser totalprojektet *”Persona Non Grata”* ut.
 
-Och såh är skriver DN:s konstrecensent Leif Nylén om utställningen (och utställningskatalogen/boken). Artikeln är intressant, eftersom Nylénär en av dom människor som i många år starkt vurmat för ”politiskt engagerad konst”, det jag och Carsten alltid har värjt oss emot:
+Och så här skriver DN:s konstrecensent Leif Nylén om utställningen (och utställningskatalogen/boken). Artikeln är intressant, eftersom Nylén är en av dom människor som i många år starkt vurmat för ”politiskt engagerad konst”, det jag och Carsten alltid har värjt oss emot:
 <!-- PAGE 72 END -->
 
 <!-- PAGE 73 START -->
-**”I ”Persona Non Grata” låter Rolf Börjlind sin vision av tillvaron explodera rätt i ansiktet på betraktaren, samtidigt som han bemödar sig om att blockera alla upplevelsemässiga reservationer eller nödutgångar. Så nöjer han sig inte heller med bara en teknik eller ett enda material - ****”Persona Non Grata”rymmer både en utställning, en bok och en grammofonskiva, plus videoband, film, teater. Det är en estetisk manifestation vars ursinniga totalitet knappast liknar något annat i den svenska samtidskulturen utom möjligen Öyvind Fahlström.**
+**”I ”Persona Non Grata” låter Rolf Börjlind sin vision av tillvaron explodera rätt i ansiktet på betraktaren, samtidigt som han bemödar sig om att blockera alla upplevelsemässiga reservationer eller nödutgångar. Så nöjer han sig inte heller med bara en teknik eller ett enda material - ”Persona Non Grata” rymmer både en utställning, en bok och en grammofonskiva, plus videoband, film, teater. Det är en estetisk manifestation vars ursinniga totalitet knappast liknar något annat i den svenska samtidskulturen utom möjligen Öyvind Fahlström.**
 
-**     Utställningen finns på Skeppsholmen, i ett annex till Moderna Museet. I dess mörklagda inre har Rolf Börjlind byggt upp”fem psykiska och fysiska miljöer”****, deras teatrala chockverkan och erotiskt-sadistiska metaforer har mer gemensamt med historiska surrealistutställningar än med 70-talets utstuderat torftiga ”enviroments”****.**
+**     Utställningen finns på Skeppsholmen, i ett annex till Moderna Museet. I dess mörklagda inre har Rolf Börjlind byggt upp ”fem psykiska och fysiska miljöer”, deras teatrala chockverkan och erotiskt-sadistiska metaforer har mer gemensamt med historiska surrealistutställningar än med 70-talets utstuderat torftiga ”enviroments”.**
 
 ::: accordion
 Hans bok med samma namn har undertiteln “romanen som process”, fast det snarare rör sig om en enda lång dikt, hallucinatorisk, bländande och bitter.
 
-Boken har ett motto från Artaud och en inledning av Bruno K Öijer - dess föregångare finns bland diktare som Rimbaud och Tzara, dess samtida allierade i den anarkistiska “nysurrealism”som representeras av grupperingar som Vesuvio och Vargen.
+Boken har ett motto från Artaud och en inledning av Bruno K Öijer - dess föregångare finns bland diktare som Rimbaud och Tzara, dess samtida allierade i den anarkistiska “nysurrealism” som representeras av grupperingar som Vesuvio och Vargen.
 
 Men “Persona Non Grata” är ändå snarare produkten av ett temperament och en livshållning än av en litterär tradition. Textens paradoxala bildflöde förlorar aldrig i ett slags grundläggande trovärdighet, en självständig auktoritet. Den surrealistiska metoden utnyttjas för att frigöra erfarenheter, fantasin söker otåligt efter fågelvägen mellan tillvarons poler, den metaforiska uppfinningsrikedomen utgår hela tiden från ett material av konkreta iakttagelser, sinnliga, psykologiska, sociala. I Rolf Börjlinds fall blir surrealismen knappast en fråga om tom och trasgrann retorik. På sin egen mark och på sina egna villkor är Börjlind i det närmaste oslagbar. Med språket som svetslåga skär han upp det vardagliga förtryckets och den invanda förnedringens pansarhud - för att mobilisera en rasande här av förnekad extas, förvanskad sinnlighet, exploaterade mänskliga resurser. Hans anarkism är lika mycket en moralisk som en estetisk angelägenhet. Och han talar både i egen sak och för alla plundrade och överkörda, med en vrede som pendlar mellan privata uppgörelser och visionär apokalyps.
 :::
@@ -102,13 +102,13 @@ Men “Persona Non Grata” är ändå snarare produkten av ett temperament och 
 ::: part
 :::
 
-Facit:”*Persona Non Grata*”blir mitt konstnärliga credo. Testamentet över det som började med en hängd konstnär på en dansk strand och jagade mig hudlös genom dadaismens och anarkismens gränder in i nutidens makabraångest.
+Facit: ”*Persona Non Grata*” blir mitt konstnärliga credo. Testamentet över det som började med en hängd konstnär på en dansk strand och jagade mig hudlös genom dadaismens och anarkismens gränder in i nutidens makabra ångest.
 ::: indent
-Nuär jag vid vägsände.
+Nu är jag vid vägs ände.
 :::
 
 ::: indent
-Nuär jag tvungen att pausa, kroppen säger ifrån igen, hjärnan är tömd, hjärtat är urlakat.
+Nu är jag tvungen att pausa, kroppen säger ifrån igen, hjärnan är tömd, hjärtat är urlakat.
 :::
 
 ::: indent
@@ -127,7 +127,7 @@ Pausen blir tyvärr inte sålång. Jag bjuds pålunch av journalisten Staffan He
 
 <!-- PAGE 74 START -->
 ::: indent
-Själv kommer jag direkt från ett lantligt bastumöte med ledningen för Sveriges kärnkraftsindustri. Dom har bjudit in mig och Lars-Ragnar Forssberg. Anledningen är den kommande multi för eställningen på Dramaten som går under namnet”*Stormen*”. Forssberg och jag ska skriva en del av föreställningen, som avser att vara kärnkraftskritisk. Bastumötet syftar till att påverka oss i en annan riktning. Mat, sprit och hetånga ska fåoss vänligare inställd till kärnkraft.
+Själv kommer jag direkt från ett lantligt bastumöte med ledningen för Sveriges kärnkraftsindustri. Dom har bjudit in mig och Lars-Ragnar Forssberg. Anledningen är den kommande multiföreställningen på Dramaten som går under namnet ”*Stormen*”. Forssberg och jag ska skriva en del av föreställningen, som avser att vara kärnkraftskritisk. Bastumötet syftar till att påverka oss i en annan riktning. Mat, sprit och hetånga ska få oss vänligare inställd till kärnkraft.
 :::
 
 ::: indent
@@ -148,7 +148,7 @@ Och Forssberg och jag skriver vår antikärnkraftspjäs till Dramaten: ”*Död 
 
 Carsten och jag tackar ja till Heimersson och Aftonbladet. Satirserien döps till ”*STRUPTAGET - **ÖPPEN SIDAS NYA SERIE LIVSÖDEN*”.
 ::: indent
-Men elva helsidor hinner bara bliåtta, sen bryts vårt kontrakt. Orsaken är en fingerad intervju med statsministern Thorbjörn Fälldin.
+Men elva helsidor hinner bara bli åtta, sen bryts vårt kontrakt. Orsaken är en fingerad intervju med statsministern Thorbjörn Fälldin.
 :::
 
 ::: indent
@@ -165,7 +165,7 @@ Rolig info: PåVolvos bilfabrik i Göteborg klistras intervjun med Gyllenhammar 
 
 ![Kerstin Thorvall.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/121.png)
 
-Den fingerade intervju med Kerstin Thorvall kretsar kring hennes självutlämnande böcker. Intervjun, som alla dom andra, väcker bestörtning i vissa kretsar. Främst för att Thorvall själv säger att intervjun fått henne att sluta vilja skriva och flytta utomlands (jag har underårens lopp fått ”försvara”just den intervjun i högre utsträckningän dom andra). I en debattartikel i DN går tre kvinnor till rasande attack mot intervjun och mig under rubriken”*Varför angripa en försvarslös?*”. Enligt kvinnorna ”*tyder satiren på att kvinnoförtrycket hårdnat och att kvinnokampen går in i ett nytt skede*”.
+Den fingerade intervju med Kerstin Thorvall kretsar kring hennes självutlämnande böcker. Intervjun, som alla dom andra, väcker bestörtning i vissa kretsar. Främst för att Thorvall själv säger att intervjun fått henne att sluta vilja skriva och flytta utomlands (jag har under årens lopp fått ”försvara” just den intervjun i högre utsträckning än dom andra). I en debattartikel i DN går tre kvinnor till rasande attack mot intervjun och mig under rubriken ”*Varför angripa en försvarslös?*”. Enligt kvinnorna ”*tyder satiren på att kvinnoförtrycket hårdnat och att kvinnokampen går in i ett nytt skede*”.
 ::: indent
 DN:s kulturchef Jörgen Eriksson står upp för satiren på ett förtjänstfullt sätt, kommenterar kvinnornas utfall och konstaterar helt sonika: ”*Det är till att ha sinne för proportioner*.”
 :::
@@ -192,7 +192,7 @@ Såtrycks den beryktade intervjun med statsminister Thorbjörn Fälldin.
 
 **     Jag harklar mig. Thorbjörn rätar upp sitt huvud, får syn på mitt presskort. Som en primalreflex dras munnen isär och ett skevt leende förkunnar:”****  ...  en röst på centern är en röst på framtiden!”Han sjunker ihop i en rullstol. Han skakar, knäskålarna smattrar mot varann.**
 
-**     Jag tittar på läkaren som diskret har skjutit sprutan i Thorbjörns axel.”Nu blir han sig själv om en stund”säger läkaren. Under tiden rullar vi bort till Thorbjörns rum. Det är litet, men smakfullt madrasserat från golv till tak. Genom panoramafönstrets diskreta plexigaller ser Thorbjörn ut över en vacker slänt. På slänten har kliniken låtit bygga upp en exakt kopia av gården hemma i Ramvik. På helgerna klär personalen ut sig till Solveig och Grannarna och Thorbjörn sitter framför plexigallret och kör traktor i fantasin, brummar och skäller.**
+**     Jag tittar på läkaren som diskret har skjutit sprutan i Thorbjörns axel. ”Nu blir han sig själv om en stund”, säger läkaren. Under tiden rullar vi bort till Thorbjörns rum. Det är litet, men smakfullt madrasserat från golv till tak. Genom panoramafönstrets diskreta plexigaller ser Thorbjörn ut över en vacker slänt. På slänten har kliniken låtit bygga upp en exakt kopia av gården hemma i Ramvik. På helgerna klär personalen ut sig till Solveig och Grannarna och Thorbjörn sitter framför plexigallret och kör traktor i fantasin, brummar och skäller.**
 <!-- PAGE 75 END -->
 
 <!-- PAGE 76 START -->
@@ -209,29 +209,29 @@ Svaret kommer oväntat rappt. Blicken gnistrar till av liv. Nästan omärkligt s
 
 Arbmans? Reklambyrån?
 
-– Visst. Suveräna påmarknads för ing. Politik eller pilsner. Krabba eller cancer. Spelar ingen roll. Arbman och Jonnergård!
+– Visst. Suveräna på marknadsföring. Politik eller pilsner. Krabba eller cancer. Spelar ingen roll. Arbman och Jonnergård!
 
 Men hur gick det till? (Thorbjörn börjar få lite färg på ögonpåsarna. Han famlar efter pipan och får ett rappt slag över handen av läkaren. En av sköterskorna halar fram ett paket cigaretter. “Ett led i kampen för att bryta ner skenrollen” säger läkaren)
 
-– Hur det gick till? Jo, vi samlades för ett parår sen, inre cirkeln - Jonnergård, Åsling, jag och ett par till. Tillsammans med Leon Nordin och några brainstormare från Arbmans ... och tänkte till.
+– Hur det gick till? Jo, vi samlades för ett par år sen, inre cirkeln - Jonnergård, Åsling, jag och ett par till. Tillsammans med Leon Nordin och några brainstormare från Arbmans ... och tänkte till.
 
 Vad gällde det?
 
-– Att störta 44 års socialdemokratiskt vanstyre! Det var målsättningen. Och vi hade en given huvudmoståndare: Olof Palme! Huggormen från Hässelby! Knäcks Palme såsjunker sossarna. Det visste vi.
+– Att störta 44 års socialdemokratiskt vanstyre! Det var målsättningen. Och vi hade en given huvudmotståndare: Olof Palme! Huggormen från Hässelby! Knäcks Palme så sjunker sossarna. Det visste vi.
 
 Men hur?
 
-– Vi la upp en strategi! Vi kunde ju inte ta Palme på Palmes villkor. Alltsåfick vi gåandra vägen. Möta Palme med Palmes raka motsats!
+– Vi la upp en strategi! Vi kunde ju inte ta Palme på Palmes villkor. Alltså fick vi gå andra vägen. Möta Palme med Palmes raka motsats!
 
 Och vad var det?
 
-– Det var jag! Eller det jag skulle bli efter Arbmans marknads för ing och Jonnergårds ... hjärntvättning. Jag skulle lanseras som Palmes raka motpol. Marknadsföras med en unik image för svensk politik! Internt arbetade vi utifrån 2 slogans: dum-men-ärlig och trög-men-hederlig. Det var den bilden vi skulle skapa hos svenska folket!
+– Det var jag! Eller det jag skulle bli efter Arbmans marknadsföring och Jonnergårds ... hjärntvättning. Jag skulle lanseras som Palmes raka motpol. Marknadsföras med en unik image för svensk politik! Internt arbetade vi utifrån 2 slogans: dum-men-ärlig och trög-men-hederlig. Det var den bilden vi skulle skapa hos svenska folket!
 
 Nu har Thorbjörn fått upp ångan. Han sparkar upp dörren med ett tjut och börjar rulla som besatt, fram och tillbaka i korridoren. Orden sprutar ur munnen, händerna smattrar mot låren, han kedjeröker och skrattar hysteriskt. Jag är förstummad.
 
 Vem är denne man? Är personlighetsklyvningar av den här graden verkligen möjliga? “Betänk att hans släkt härstammar från 100-talet” viskar läkaren, “och att samtliga i släkten gift sig och levt inom 2 mils radie i Ramvik - inavel och degenerering ger mycket märkliga utslag på en människas psyke.” Jag bromsar Thorbjörn rakt framför mig och frågar: Kampanjen lyckades?
 
-– Över förväntan! Men det satt långt inne. Det var svårt att spela Palmes motsats. Det gällde att neutralisera hans djävulska debatteknik. Att fåfram ett språk som stoppade upp hans maniska flöde, som drog ner tempot hela tiden, som trevade sig fram. Jag fick lära mig att prata långsamt, omständligt, med knappt ordförråd. Prata enkelt men hederligt, till synes rakt på sak. Såungefär var det tänkt. Och sågällde att hitta en valfråga där vi verkligen kunde spela på dom sliskigaste strängarna. En fråga som skar rakt igenom befolkningen: Kärnkraften! Arbman såg till att folk omedelbart började koppla kärnkraft till Hiroshima, till brinnande barn och städer i ruin. Fint som fan för oss. Perfekt! Och sågick jag ut med mina stora uppsvällda nävar, knöt dom långsamt så att dom skitiga naglarna trängde ut genom tv-rutorna, hov upp min välrepeterat grötiga röst och sa: “Nej! Över min döda kropp! Inte ett kärnkraftverk till kommer att laddas!” Sågick det som det gick. Som smort! Jag kommer fortfarande ihåg hur vi garvade den där natten när Jonnergård av en slump hade kommit på uttrycket “jag nådde inteända fram” ... va! Som om armarna var för korta!
+– Över förväntan! Men det satt långt inne. Det var svårt att spela Palmes motsats. Det gällde att neutralisera hans djävulska debatteknik. Att få fram ett språk som stoppade upp hans maniska flöde, som drog ner tempot hela tiden, som trevade sig fram. Jag fick lära mig att prata långsamt, omständligt, med knappt ordförråd. Prata enkelt men hederligt, till synes rakt på sak. Så ungefär var det tänkt. Och så gällde att hitta en valfråga där vi verkligen kunde spela på dom sliskigaste strängarna. En fråga som skar rakt igenom befolkningen: Kärnkraften! Arbman såg till att folk omedelbart började koppla kärnkraft till Hiroshima, till brinnande barn och städer i ruin. Fint som fan för oss. Perfekt! Och så gick jag ut med mina stora uppsvällda nävar, knöt dom långsamt så att dom skitiga naglarna trängde ut genom tv-rutorna, hov upp min välrepeterat grötiga röst och sa: “Nej! Över min döda kropp! Inte ett kärnkraftverk till kommer att laddas!” Så gick det som det gick. Som smort! Jag kommer fortfarande ihåg hur vi garvade den där natten när Jonnergård av en slump hade kommit på uttrycket “jag nådde inte ända fram” ... va! Som om armarna var för korta!
 
 Men var det en svår omställning för dig personligen? (Thorbjörn studsar upp ur rullstolen, grabbar tag i en silverkrycka och börjar fäktas med läkaren. “Han är som ett gammalt ringvrak” säger en av sköterskorna. “Nerslagningarna kommer tätare och tätare, förnuftet blir dimmigare och dimmigare, men han måste in i ringen igen. Publiken kräver det. Vi får svårare och svårare härute att få tillbaka honom i offentligt skick. Hans sammanbrott kommer slag i slag.”)
 
@@ -339,7 +339,7 @@ Den giftige skribenten Stig Ahlgren skriver:
 
 ”*Ett svart raseris skrivarglädje*”...varför inte? För att skriva dräpande satir bör man inte vara belastad med empati. Inte hellerödmjukhet är en tillgång.
 ::: indent
-Snabbt myntas i media uttrycket ”s.k. satir”. Under för stått: inte ”riktig”satir, utan en depraverad variant (min samlingsvolym 1983 får namnet”*s.k. satir*”).
+Snabbt myntas i media uttrycket ”s.k. satir”. Underförstått: inte ”riktig” satir, utan en depraverad variant (min samlingsvolym 1983 får namnet ”*s.k. satir*”).
 :::
 
 ::: indent
@@ -347,7 +347,7 @@ Själv omnämns jag allt oftare som ”den herostratiskt ryktbare Rolf Börjlind
 :::
 
 ::: indent
-Det genererar ocksåandra lustiga effekter. Tidskriften Den Svenska Marknaden listar 393 personer som är viktiga opinionsledare i Sverige det häråret. Högst uppåterfinns den hårdföre industrimannen Curt Nicolin. På plats tre står”*Rolf Börjlind, han med satiren*.”  G ü nter Wallraff placeras på plats 6.
+Det genererar också andra lustiga effekter. Tidskriften Den Svenska Marknaden listar 393 personer som är viktiga opinionsledare i Sverige det här året. Högst upp återfinns den hårdföre industrimannen Curt Nicolin. På plats tre står ”*Rolf Börjlind, han med satiren*.”  G ü nter Wallraff placeras på plats 6.
 :::
 
 ::: indent
@@ -359,10 +359,10 @@ Förbryllande.
 :::
 
 ::: indent
-Vad tror dom att ”den där”ska göra?
+Vad tror dom att ”den där” ska göra?
 :::
 
- Mer skoj: Ett stort antal”kulturpersonligheter” börjar göra egna fingerade intervjuer med mig i olika publikationer. Förmodligen i ett försök att visa hur nedrigt mitt stilgreppär, jag ska fåsmaka på min egen medicin. Lars Forsell gör ett halvpatetiskt försök i Expressen. Roligast är nästan DN:s legendariske tecknare Ströyer:
+ Mer skoj: Ett stort antal ”kulturpersonligheter” börjar göra egna fingerade intervjuer med mig i olika publikationer. Förmodligen i ett försök att visa hur nedrigt mitt stilgrepp är, jag ska få smaka på min egen medicin. Lars Forsell gör ett halvpatetiskt försök i Expressen. Roligast är nästan DN:s legendariske tecknare Ströyer:
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/133.png)
 
@@ -385,7 +385,7 @@ Däremot reagerar jag när det kommer till skarpt läge. När Thorbjörn Fälldi
 Bland annat:
 :::
 
-**”****... Det är korrekt att gå till domstol. Talet om att Du som statsminister av taktiska skäl inte bör åtala är nys. Det är domstolens - juryns - sak att avväga hur mycket mer Du och andra offentliga personer ska behöva tåla av personangrepp. Såvitt jag förstår kan man i allmänhet säga att Du är ”ohederlig”utan risk för efterräkningar liksom man om mig kan skriva att jag är en”skitstövel”****. Någonstans strax därbortom går gränsen. Med vänliga hälsningar. Jan Myrdal, Fagervik.”**
+**”... Det är korrekt att gå till domstol. Talet om att Du som statsminister av taktiska skäl inte bör åtala är nys. Det är domstolens - juryns - sak att avväga hur mycket mer Du och andra offentliga personer ska behöva tåla av personangrepp. Såvitt jag förstår kan man i allmänhet säga att Du är ”ohederlig” utan risk för efterräkningar liksom man om mig kan skriva att jag är en ”skitstövel”. Någonstans strax därbortom går gränsen. Med vänliga hälsningar. Jan Myrdal, Fagervik.”**
 
 Även Jan Gehlin (ordförande i Svenska Författar för bundet) stämmer in i fördömandet av min text.
 ::: indent
@@ -407,7 +407,7 @@ Undran: Gäller det för Jonathan Swifts anspråkslösa förslag också? Var han
 Jag tvivlar.
 :::
 
-Egen reflektion över mina satirers brutala effekt: Jag använder namns nämnande. Satir har förekommit genom hela historien, såocksåi vårt land. Strindbergs ”*Svarta Fanor*”är ett lysande exempel. Men den satiren har nästan undantagslöst byggt på att man satiriserar karaktärer som ”alla”vet vilka domär, men som inte nämns med namn. Jag nämner namnen. Effekten blir råare, utpekandet allvarligare. Men satirens avsikt är inte att linda in. Den arbetar med det plumpa och över drivna, det skoningslösa, i avsikt att demaskera ett eller annat. Har alltid gjort. Den utmanar naturligtvis”den goda smaken”, men också den anständiga samtalstonen. Satir handlar ofta om att ”gåför långt”. När nån går för långt vågar andra följer efter halva vägen och då är den gamla gränsen bruten.
+Egen reflektion över mina satirers brutala effekt: Jag använder namns nämnande. Satir har förekommit genom hela historien, så också i vårt land. Strindbergs ”*Svarta Fanor*” är ett lysande exempel. Men den satiren har nästan undantagslöst byggt på att man satiriserar karaktärer som ”alla” vet vilka dom är, men som inte nämns med namn. Jag nämner namnen. Effekten blir råare, utpekandet allvarligare. Men satirens avsikt är inte att linda in. Den arbetar med det plumpa och överdrivna, det skoningslösa, i avsikt att demaskera ett eller annat. Har alltid gjort. Den utmanar naturligtvis ”den goda smaken”, men också den anständiga samtalstonen. Satir handlar ofta om att ”gå för långt”. När nån går för långt vågar andra följa efter halva vägen och då är den gamla gränsen bruten.
 ::: indent
 Eller som redan Seneca d.y. visste:
 :::
@@ -420,7 +420,7 @@ och en som går efter och klagar på att det inte uträttas på ett annat sätt.
 <!-- PAGE 79 END -->
 
 <!-- PAGE 80 START -->
-Dikt till min dotter Sari det häråret:
+Dikt till min dotter Sari det här året:
 
 ::: poem
 
@@ -537,7 +537,7 @@ Kabarén går mycket bra, beläggningen är över 90%.
 ::: part
 :::
 
-Strax efter kabarén ber Expressen mig att recensera en fotoutställning av stillbildsfotografen Hans Gedda - porträtt av makthavare, politiker, biskopar. Gedda har stort renommé. Utställningen tar plats i ett antal mondäna källarvalv i Gamla Stan. Min text får rubriken”*Sataniskt - om rasen kändisar*” och inleds så här:
+Strax efter kabarén ber Expressen mig att recensera en fotoutställning av stillbildsfotografen Hans Gedda - porträtt av makthavare, politiker, biskopar. Gedda har stort renommé. Utställningen tar plats i ett antal mondäna källarvalv i Gamla Stan. Min text får rubriken ”*Sataniskt - om rasen kändisar*” och inleds så här:
 
 **”I den första halvtrappan ner hänger en silverskimrande helbild av Alice Timander, premiärneurotikernas galjonskropp - jag småskrattar, porträttet avslöjar hur lätt kändisjournalistik övergår i lyteskomik, förmodligen helt omedvetet.”**
 <!-- PAGE 82 END -->
@@ -573,7 +573,7 @@ Resultat 2: Varje morgon vi kommer ner till bageriet bjuds vi också på ett gla
 
 Tips från en irländsk bartender: skummet på en Guinness måste vara såfast att du kan sätta en tändsticka rakt upp och ner i det.
 ::: indent
-Vi bor i en liten by som heter Lahinch. En dag får vi för oss att skriva en limerick om vår by och skicka till Gösta Ekman. Problemet är att ”Lahinch”inte är helt lättrimmat. Med benägen hjälp av nationaldrycken lyckas vi till slut pränta ner följande på ett vykort:
+Vi bor i en liten by som heter Lahinch. En dag får vi för oss att skriva en limerick om vår by och skicka till Gösta Ekman. Problemet är att ”Lahinch” inte är helt lättrimmat. Med benägen hjälp av nationaldrycken lyckas vi till slut pränta ner följande på ett vykort:
 :::
 
 ::: poem

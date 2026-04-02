@@ -6,7 +6,7 @@ Suzanne Reuter får också en bagge för bästa kvinnliga skådespelare. Det är
 ::: part
 :::
 
-Påsensommaren det häråret tilldelas jag Rydöpriset: ”*För den fria tanken - till Olof Palmes minne*”. Tidigare pristagare är Jan Myrdal, Ivar-Lo och Maria-Pia Boethius. Priset delas ut av den tidigare kulturministern Bengt Göransson och motiveringen är en orgie i självslick:
+På sensommaren det här året tilldelas jag Rydöpriset: ”*För den fria tanken - till Olof Palmes minne*”. Tidigare pristagare är Jan Myrdal, Ivar-Lo och Maria-Pia Boethius. Priset delas ut av den tidigare kulturministern Bengt Göransson och motiveringen är en orgie i självslick:
 
 **”Rolf Börjlind tilldelas Rydöpriset för sin manusproduktion till film, radio och tv. I underhållningsprogram som Kabaret Öppen Kanal, Lorry, Jönssonligan och Sista Skriket har Börjlind med sina texter på ett enastående sätt gisslat makthavare, fördomar och företeelser i vårt samhälle.**
 
@@ -36,7 +36,7 @@ Bra fråga.
 **det jag har förlorat**
 :::
 
-Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framför en text jag har skrivit (långt tidigare, till en kabarépå Zum Alten Brunnen). Den heter”*Varför försvann vi?*”:
+Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framför en text jag har skrivit (långt tidigare, till en kabaré på Zum Alten Brunnen). Den heter ”*Varför försvann vi?*”:
 
 **”Jag har rymt ... från framtiden. Jag har rymt tillbaka, hit, för att få träffa människor igen. Er. Riktiga människor. Framtiden har berövat mig min mänsklighet. Framtiden är inte grym, den är bara logisk och osentimental. När den upptäckte att jag såg det jag inte borde se, stack den ut mina ögon. När den upptäckte att jag lyssnade för noga, spräckte den mina trumhinnor. Nu är den ute efter mitt språk. Språket är den sista mänskliga rest jag har kvar. Det är därför ni måste lyssna. Det började ju redan på er tid.**
 <!-- PAGE 211 END -->
@@ -75,9 +75,9 @@ Texten trycks i Expressen en vecka efter prisutdelningen.
 Bra spridning, gratis.
 :::
 
-Klargörande 4: Jag har aldrig deltagit i ”det offentliga samtalet”. Jag har aldrig haft behov av att ”göra min röst hörd”i det för dagen”stekheta”, att oavbrutet ha en privatåsikt (som sagt: man bör bytaåsikter som man byter skjortor). Vid ett fåtal tillfällen (två, tror jag) under 55 år har jag reagerat och gett offentligt uttryckåt en privat upprördhet, senast som svar på en intervjufråga:
+Klargörande 4: Jag har aldrig deltagit i ”det offentliga samtalet”. Jag har aldrig haft behov av att ”göra min röst hörd” i det för dagen ”stekheta”, att oavbrutet ha en privat åsikt (som sagt: man bör byta åsikter som man byter skjortor). Vid ett fåtal tillfällen (två, tror jag) under 55 år har jag reagerat och gett offentligt uttryck åt en privat upprördhet, senast som svar på en intervjufråga:
 ::: indent
-– Vadönskar du mest av allt just nu?
+– Vad önskar du mest av allt just nu?
 :::
 
 ::: indent
@@ -91,12 +91,12 @@ Resten har jag kanaliserat i min konstnärliga verksamhet.
 ::: part
 :::
 
-Mina föräldrar dör på 90-talet, med någraårs mellanrum. Svea i cancer, Otto av utslitet hjärta. Arvet består huvudsakligen av en del vackra möbler och föremål, tillverkade av intarsiaspecialisten och rumlaren Nils, farfar. Det pekuniära utfallet är magert, men vi behöver inte göda kistkrämarna i onödan. Båda föräldrarna är noga med att deras kremerade kroppar ska strös för vinden. Inga privata minnesplatser. Inget konkret som ska minna om deras liv. En sekul är attityd som jag kan sympatisera med.
+Mina föräldrar dör på 90-talet, med några års mellanrum. Svea i cancer, Otto av utslitet hjärta. Arvet består huvudsakligen av en del vackra möbler och föremål, tillverkade av intarsiaspecialisten och rumlaren Nils, farfar. Det pekuniära utfallet är magert, men vi behöver inte göda kistkrämarna i onödan. Båda föräldrarna är noga med att deras kremerade kroppar ska strös för vinden. Inga privata minnesplatser. Inget konkret som ska minna om deras liv. En sekulär attityd som jag kan sympatisera med.
 <!-- PAGE 212 END -->
 
 <!-- PAGE 213 START -->
 ::: indent
-Privata reflektioner efter deras frånfälle: Tvåföräldrar som saknar verktyg. Unga. Svea är 22 när hon får mig. Vadär hon utrustad med? Otto, son till en alkoholiserad bohem. Vad får han med sig? Vad sänker dom ner i mig? Varför sörjer jag inte deras död? Blev deras fysiska över grepp i ungaår en bumerang? Stängde jag bara av dom? Kan man göra det som barn?
+Privata reflektioner efter deras frånfälle: Två föräldrar som saknar verktyg. Unga. Svea är 22 när hon får mig. Vad är hon utrustad med? Otto, son till en alkoholiserad bohem. Vad får han med sig? Vad sänker dom ner i mig? Varför sörjer jag inte deras död? Blev deras fysiska övergrepp i unga år en bumerang? Stängde jag bara av dom? Kan man göra det som barn?
 :::
 
 ::: indent
@@ -104,7 +104,7 @@ Får man det?
 :::
 
 ::: indent
-När Gösta och jag ska göra ”*Morrhår och Ärto* r”finns det en central fråga som han ofta tar upp:”*Måste man älska sin mamma?*” Han kommer fram till att det måste man nog, trots allt. Själv har jag svårt att applicera det begreppet på mina föräldrar. Älska hur? Kvinnor har jag älskat, mina barn och barnbarnälskar jag, min syster, men mina föräldrar?
+När Gösta och jag ska göra ”*Morrhår och Ärtor*” finns det en central fråga som han ofta tar upp: ”*Måste man älska sin mamma?*” Han kommer fram till att det måste man nog, trots allt. Själv har jag svårt att applicera det begreppet på mina föräldrar. Älska hur? Kvinnor har jag älskat, mina barn och barnbarn älskar jag, min syster, men mina föräldrar?
 :::
 
 ::: indent
@@ -156,7 +156,7 @@ Hon lägger på.
 :::
 
 ::: indent
-Minne av Otto: Han ger aldrig ifrån sig några kommentarer om allt jag åstadkommer genomåren. Inte ett ord.
+Minne av Otto: Han ger aldrig ifrån sig några kommentarer om allt jag åstadkommer genom åren. Inte ett ord.
 :::
 
 ::: indent
@@ -232,7 +232,7 @@ Ungefär.
 ::: part
 :::
 
-Det är en sen eftermiddag och jag är på väg över Mosebacke Torg. Träden är avlövade, Södra Teatern är stängd, ute påterassen skymtar vattnet i fjärran. En gång stod en arg ung man därute och betraktade stadens inlopp, min studentuppsats i svenska handlade om honom. Arvid Falk. Nuär det tomt därute. Själv är jag på väg till en lägenhet intill teatern.
+Det är en sen eftermiddag och jag är på väg över Mosebacke Torg. Träden är avlövade, Södra Teatern är stängd, ute på terassen skymtar vattnet i fjärran. En gång stod en arg ung man där ute och betraktade stadens inlopp, min studentuppsats i svenska handlade om honom. Arvid Falk. Nu är det tomt där ute. Själv är jag på väg till en lägenhet intill teatern.
 
 Bakgrund: 1971 utförs en av Sveriges mest spektakulära kassaskåpskupper. Denäger rum vid Vattenfalls kraftverksbygge i Vietas, en vattenrallarby vid Luleälven. Det är en omvänd rififikupp - rånarnaålar sig in under en barack mitt i natten, sågar upp ett golv och svetsar upp kassaskåpets botten. Bytet blir 541.000 kronor (drygt tre miljoner i dagens penningvärde). Vid den här tidpunkten är det Sveriges största kontantrån genom tiderna och förblir olöst tills det preskriberas (kriminologen Jenny Rogneby gör 2020 en true crime-pod om rånet).
 <!-- PAGE 214 END -->
@@ -259,9 +259,9 @@ Han ser redanöppningsscenen framför sig: en stor, vid bild på en liten buss s
 Jag suger i mig alltihop.
 :::
 
-Tillsammansåker vi upp till Stora Sjöfallet för att göra research.
+Tillsammans åker vi upp till Stora Sjöfallet för att göra research.
 ::: indent
-Jag får en chock när jag ser effekterna av dammregleringen. Hela det gigantiska vattenfallet är torrlagt. Enorma, vackra klippblock ligger nakna och blottade, det känns som ett vidrigt över grepp pånaturen. Som flugfiskare kan jag lätt föreställa mig hur det en gång har sett ut här, när vattnet forsade ner och slungade sig runt klipporna och gav näring och lyåt vildaädelfiskar. Nuär allt torrt, dött och grått.
+Jag får en chock när jag ser effekterna av dammregleringen. Hela det gigantiska vattenfallet är torrlagt. Enorma, vackra klippblock ligger nakna och blottade, det känns som ett vidrigt övergrepp på naturen. Som flugfiskare kan jag lätt föreställa mig hur det en gång har sett ut här, när vattnet forsade ner och slungade sig runt klipporna och gav näring och ly åt vilda ädelfiskar. Nu är allt torrt, dött och grått.
 :::
 
 ::: indent
@@ -327,7 +327,7 @@ På tal om vår lägenhet på Bondegatan: Vi bor granne med en person som ett pa
 Han är mycket excentrisk.
 :::
 
-Men nu backar jag lite:Året innan har jag fått ett samtal från Gunnar Bergdahl, en av cheferna för Göteborgs Filmfestival. Dom har startat en stafettfilmserie som kallas ”*90 minuter 90-tal*”. Ett antal filmmakare ska göra var sin tio minuter lång kortfilm under tioårs tid, som ska skildra 90-talet. Resultatet ska klippas ihop till en långfilm när decenniet är slut.
+Men nu backar jag lite: Året innan har jag fått ett samtal från Gunnar Bergdahl, en av cheferna för Göteborgs Filmfestival. Dom har startat en stafettfilmserie som kallas ”*90 minuter 90-tal*”. Ett antal filmmakare ska göra var sin tio minuter lång kortfilm under tio års tid, som ska skildra 90-talet. Resultatet ska klippas ihop till en långfilm när decenniet är slut.
 ::: indent
 Flummig idé.
 :::
@@ -356,7 +356,7 @@ Jag skriver den.
 :::
 
 ::: indent
-Filmen heter ”*Betraktelse*”och Hjelms monolog blir som följer:
+Filmen heter ”*Betraktelse*” och Hjelms monolog blir som följer:
 :::
 <!-- PAGE 216 END -->
 
@@ -516,7 +516,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     - På mitt ansikte.**
 
-**     Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få****, om ens någon, som tänkte på****: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter”och försvunnit?**
+**     Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få, om ens någon, som tänkte på: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter” och försvunnit?**
 
 **     Brunnshuset tömdes mycket snabbt. En svärm svarta skalbaggar kilade mellan byns gränder, knastrande, alla i samma riktning. Till och med Vattenkvinnan följde med, en bit bakom, med en kraftig tygbit över huvudet. Ingen vände sig om, alla var på väg till den enda i byn som inte hade varit i brunnshuset: Enögda Bierté****, annalisten. Den enda kvinnan i byn som kunde skriva. För övrigt den enda kvinna som hade sett en man tidigare.**
 
@@ -534,7 +534,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     - Han har sett Vattenkvinnans ansikte ... kröp det upp ur hopen.**
 
-**     - Och sagt”katter”till henne ...**
+**     - Och sagt ”katter” till henne ...**
 
 **     - Jag vet.**
 
@@ -625,7 +625,7 @@ Jag skickar texten. Mannen från resemagasinet hör av sig, han gillar historien
 :::
 
 ::: indent
-Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så jag sätter mig och skriver en kort fortsättning påhistorien, ur ett helt annat perspektiv. Jag kallar den *”Just när fundamentet brister”*:
+Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så jag sätter mig och skriver en kort fortsättning på historien, ur ett helt annat perspektiv. Jag kallar den *”Just när fundamentet brister”*:
 :::
 <!-- PAGE 219 END -->
 

@@ -332,7 +332,7 @@ Lustfyllt, men kanske inte det vi har störst behov av.
 
 <!-- PAGE 63 START -->
 ::: indent
-Vill jag så kan jag skylla på mina gener, dom från mödernet. Sveaälskar att spendera pengar, att sätta”guldkant påtillvaron”(varje nyårsaftonäts det lunch hos Lisa Elmqvist i Östermalmshallen).
+Vill jag så kan jag skylla på mina gener, dom från mödernet. Svea älskar att spendera pengar, att sätta ”guldkant på tillvaron” (varje nyårsafton åts det lunch hos Lisa Elmqvist i Östermalmshallen).
 :::
 
  Otto vänder på alla slantar han kan vända på.
@@ -345,13 +345,13 @@ Ansvarslöst, men fläckvis rätt kul.
 ::: part
 :::
 
-Det häråret startar ett samhällskritiskt underhållningsprogram i Sveriges Radio som heter KabaréÖppen Kanal. Det går påfredagar och är en avslutning pådenövriga veckansÖppen Kanal-program. Jag kontaktas av en av redaktörerna påkanalen, Lisa Söderberg, som ber mig skriva några sketcher till programmet. I satirisk form. En genre jag inte harägnat mig åt tidigare.
+Det här året startar ett samhällskritiskt underhållningsprogram i Sveriges Radio som heter Kabaré Öppen Kanal. Det går på fredagar och är en avslutning på den övriga veckans Öppen Kanal-program. Jag kontaktas av en av redaktörerna på kanalen, Lisa Söderberg, som ber mig skriva några sketcher till programmet. I satirisk form. En genre jag inte har ägnat mig åt tidigare.
 ::: indent
 Det lockar mig (plus att man får betalt).
 :::
 
 ::: indent
-Jag skriver några sketcher som framförs av Lena Söderblom och Gösta Ekman. En av dem handlar om tvånyinstiftade Nobelpris. Det första handlar om den välkände kriminelle man som i media omtalas som”Mr X” - Leif Stenberg:
+Jag skriver några sketcher som framförs av Lena Söderblom och Gösta Ekman. En av dem handlar om två nyinstiftade Nobelpris. Det första handlar om den välkände kriminelle man som i media omtalas som ”Mr X” - Leif Stenberg:
 :::
 
 **”Det nyinstiftade nobelpriset i Affärsstrategi har tilldelats pseudonymen Mr X. Juristhusets juryombud advokat Bengt A Eriksson har följande motivering till priset:**
@@ -375,7 +375,7 @@ Föga anar jag effekterna av det här slumpartade uppdraget.
 
 <!-- PAGE 64 START -->
 ::: indent
-Effekt 1: Jag bjuds in på en fest hos Birgitta Andersson och Carl Zetterström (en av författarna till KabaréÖppen Kanal, en mycket sympatisk man). Festenäger rum i derasöstermamslägenhet. Jag kommer dit med en flaska hembränt (egenproduktion). Lägenheten är imposant, vackra tavlor, varma mattor, fylld av kulturpersonligheter, vänner till värdparet, Hasse Alfredsson och Tage Danielsson och neråt. Min paranoia slår omedelbart till: fel snubbe påfel plats. Varför är jag här? Som vanligt i såna här sammanhang blir jag obekväm och över driven. Jag vet inte vem jag ska föreställa, så jag förställer mig, utnyttjar min sprit och hamnar så småningom i en fåtölj där Birgitta Andersson med en mycket vänlig röst viskar: ”Du ska nog gåhem nu”.
+Effekt 1: Jag bjuds in på en fest hos Birgitta Andersson och Carl Zetterström (en av författarna till Kabaré Öppen Kanal, en mycket sympatisk man). Festen äger rum i deras östermalmslägenhet. Jag kommer dit med en flaska hembränt (egenproduktion). Lägenheten är imposant, vackra tavlor, varma mattor, fylld av kulturpersonligheter, vänner till värdparet, Hasse Alfredsson och Tage Danielsson och neråt. Min paranoia slår omedelbart till: fel snubbe på fel plats. Varför är jag här? Som vanligt i såna här sammanhang blir jag obekväm och överdriven. Jag vet inte vem jag ska föreställa, så jag förställer mig, utnyttjar min sprit och hamnar så småningom i en fåtölj där Birgitta Andersson med en mycket vänlig röst viskar: ”Du ska nog gå hem nu”.
 :::
 
 ::: indent
@@ -383,7 +383,7 @@ Effekt 2: Mitt satirskrivande flödar igång och kulminerar i ett åtal av stats
 :::
 
 ::: indent
-Effekt 3: Jag inleder ett intimt samarbete med Gösta Ekman som ska pågåi över ett decennium.
+Effekt 3: Jag inleder ett intimt samarbete med Gösta Ekman som ska pågå i över ett decennium.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/102.png)
@@ -393,7 +393,7 @@ Effekt 3: Jag inleder ett intimt samarbete med Gösta Ekman som ska pågåi öve
 
 Året avslutas med ytterligare en utställning på Galleri Sellem i Lund. Carsten och jag döper den till ”*HARD RAIN - en mefitisk dokumentation av smädandets liturgi*”.
 ::: indent
-Själv uppträder jag som intellektuell charlatan påvernissaget.
+Själv uppträder jag som intellektuell charlatan på vernissaget.
 :::
 
 ::: indent
@@ -495,7 +495,7 @@ Däremellan bidrar jag personligen med en del avtryck. Det första är en dikt s
 <!-- PAGE 66 START -->
 ---
 
-Diktens utsagor förebådar innehållet i romanen och separatutställningen ”*Persona Non Grata*”på Moderna Museet senare iår.
+Diktens utsagor förebådar innehållet i romanen och separatutställningen ”*Persona Non Grata*” på Moderna Museet senare i år.
 ::: indent
 Nackskruven.
 :::
@@ -510,15 +510,15 @@ Med nationell spridning, dessutom.
 :::
 
 ::: indent
-Fasta skådespelare blir Sten Ljunggren och Liz Nilheim. Sporadiska författare blir bland annat PO Enqvist, Anders Ehnmark och Lars Ardelius (Bruno K skriver en”sketch”omÖB som hamnar pålöpsedlarna).
+Fasta skådespelare blir Sten Ljunggren och Liz Nilheim. Sporadiska författare blir bland annat PO Enqvist, Anders Ehnmark och Lars Ardelius (Bruno K skriver en ”sketch” om ÖB som hamnar på löpsedlarna).
 :::
 
 ::: indent
-Redaktionen vill ocksåha ett nyskrivet musikaliskt inslag i varje program. Jag kontaktar Mikael Wiehe. Vi känner varandra sen arbetet med”*Nya Tider Nya Änglar*”. Han tänder påidén och bildar Kabaréorkestern - en musikalisk fullträff, som bland annat levererar sången ”*Titanic*”till ett av våra program.
+Redaktionen vill också ha ett nyskrivet musikaliskt inslag i varje program. Jag kontaktar Mikael Wiehe. Vi känner varandra sen arbetet med ”*Nya Tider Nya Änglar*”. Han tänder på idén och bildar Kabaréorkestern - en musikalisk fullträff, som bland annat levererar sången ”*Titanic*” till ett av våra program.
 :::
 
 ::: indent
-Ett stående inslag i varje program är tvågestalter som rätt och slätt kallas”*de svarta*”. Jag är fortfarande förtjust i deras ständigaöppningsreplik:
+Ett stående inslag i varje program är två gestalter som rätt och slätt kallas ”*de svarta*”. Jag är fortfarande förtjust i deras ständiga öppningsreplik:
 :::
 
 ::: indent
@@ -552,7 +552,7 @@ Satiren har rullat igång. Min talang när det gäller förlöjligandetsädla ko
 
 ![Och nu över till vädret.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/167.png)
 
-Eller för att vi presenterar en kunglig oäkting som kräver att bli regent före Victoria, Knut Bengtsson från Tranås,”*Kung Knut*”kallad.
+Eller för att vi presenterar en kunglig oäkting som kräver att bli regent före Victoria, Knut Bengtsson från Tranås, ”*Kung Knut*” kallad.
 
 ![Kung Knut.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/168.png)
 
@@ -564,11 +564,11 @@ Hur som helst blir folk obegripligt upprörda. Producenten för programmet får 
 Fotnot: Detta är decennier innan nättrollen har kravlat fram ur sina hålor, träskmänniskorna har långa anor.
 
 ::: indent
-Samma sak händer med nästa tv-engagemang, ett program som heter”*Kvällsöppet*”. Där stoppas vi efter tvåprogram på grund av ”*alltför stötande inslag*”.
+Samma sak händer med nästa tv-engagemang, ett program som heter ”*Kvällsöppet*”. Där stoppas vi efter två program på grund av ”*alltför stötande inslag*”.
 :::
 
 ::: indent
-Uppenbarligen är det lätt att stöta sig med det svenska folket, eller delar av det. Vilket ska visa sig med brutal tydlighet lite senare det häråret.
+Uppenbarligen är det lätt att stöta sig med det svenska folket, eller delar av det. Vilket ska visa sig med brutal tydlighet lite senare det här året.
 :::
 
 Men innan dess skriver jag min tredje bok, en experimentell bildtextroman med titeln *”Persona Non Grata”*.  Undertiteln är “*Romanen som process*”.
@@ -620,7 +620,7 @@ En avsikts för klaring:
 ::: part
 :::
 
-Boken är en enda lång, manisk uttömning, en febrig semantisk syndaflod. Uttryck staplade på varann, avbrutna, korsfästa, verbala snitt ur hjärnbarken. Förmodligen en korrekt version av mitt tillstånd vid den här tidpunkten. Jag vet inte vad jag har skrivit, det har forsat ur mig under en räcka sömnlösa dygn i vindsvåningen på Skeppargatan. KlasÖstergren, den tidigare nabon, beskriver förmodligen flödet hyfsat korrekt i sin recension i DN:
+Boken är en enda lång, manisk uttömning, en febrig semantisk syndaflod. Uttryck staplade på varann, avbrutna, korsfästa, verbala snitt ur hjärnbarken. Förmodligen en korrekt version av mitt tillstånd vid den här tidpunkten. Jag vet inte vad jag har skrivit, det har forsat ur mig under en räcka sömnlösa dygn i vindsvåningen på Skeppargatan. Klas Östergren, den tidigare nabon, beskriver förmodligen flödet hyfsat korrekt i sin recension i DN:
 
 **”Texten är som om författaren matat en atombomb med essensen från modernistiska hjärnor och låtit den krevera i en självskrivande dator - associationerna tar aldrig slut, reaktionerna löper fram över sidorna i ett språk som förintar, utplånar sig själv. Läsaren är helt utlämnad. På en enda sida hinner Börjlind riva ner alla begrepp och normer som man överhuvudtaget orkat bygga upp: ”Jag orkar inte hålla fast allt det jag benämner.” Som blåste man ut väggarna i ett hus: där står en och duschar, en annan sitter på dass,  en tredje ligger på sängen och masturberar och en liten flicka gråter ner i läxboken. Konfrontationen blir total. I boken finns också en vacker bild på Friedrich Nietzsches dödsmask. **
 
@@ -628,7 +628,7 @@ Boken är en enda lång, manisk uttömning, en febrig semantisk syndaflod. Uttry
 
 **Nietzsche gick loss på Västerlandets hela system av moral och försökte riva ner det så gott han kunde med sin filosofiska slägga och lyckades väl ganska bra med det. Börjlind i sin tur går omkring i dom rykande ruinerna efter tysken, på gott och ont. Han hittar bland spillrorna ett trasigt och misshandlat begrepp här och ett där och han plockar upp dom för en granskning. Sen samlar han ihop bråten i en hög, häller bensin på hela rasket och tänder på****. Hela hans textmassa är ett referat från anarkisternas krigsdans runt detta moraliska bål.”**
 
-Det finns andra omdömen: ”*En verbal diarréav sällan skådat slag*”är ett av dom.
+Det finns andra omdömen: ”*En verbal diarré av sällan skådat slag*” är ett av dom.
 <!-- PAGE 68 END -->
 
 <!-- PAGE 69 START -->
@@ -667,7 +667,7 @@ Droppvis kommer gåtfulla syner:
 
 ![I varje regnbåge pekar jag ut svart.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/104.png)
 
-Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken som en enda lång herointripp:”*Det mest uppenbara beviset är Börjlinds egna ögon! Sjuka ögon!*”Sanningen är att en begåvad tv-maskör, Elisabeth Ekman, har målat”ögon “på mina slutnaögonlock. Vi ser det vi vill se och blundar oss in i glömskan.
+Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken som en enda lång herointripp: ”*Det mest uppenbara beviset är Börjlinds egna ögon! Sjuka ögon!*” Sanningen är att en begåvad tv-maskör, Elisabeth Ekman, har målat ”ögon“ på mina slutna ögonlock. Vi ser det vi vill se och blundar oss in i glömskan.
 
 ![det är inte dom utslagna som ska in i samhället det är dom inslagna som ska ut](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/156.png)
 
@@ -681,7 +681,7 @@ Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken s
 
 <!-- PAGE 70 START -->
 ::: indent
-Det är en kvinna som säger det. Hon heter Monica Nieckels och är intendent på Moderna Museet. Vi sitter i hennes rum och diskuterar min kommande separatutställning”*Persona Non Grata*”. Hon är curator för den, en sval och begåvad vän.
+Det är en kvinna som säger det. Hon heter Monica Nieckels och är intendent på Moderna Museet. Vi sitter i hennes rum och diskuterar min kommande separatutställning ”*Persona Non Grata*”. Hon är curator för den, en sval och begåvad vän.
 :::
 
 ::: indent
@@ -702,7 +702,7 @@ Utställningen blir min slutgiltiga och fullständiga manifestation av allt jag 
 – Jag vet inte hur vägen till en bättre värld ser ut, jag kan bara beskriva vad som händer om vi inte hittar den vägen.
 :::
 
-Direkt innanför dörrarna till utställningen finns en stor vit vägg. Där har jag målat i svart: ”*J´accuse!*”. Emile Zolas berömda ”*Jag anklagar!*”När konstnären Carl-Fredrik Reuterswärd besöker utställningen viskar han till mig att det hade varit intrikatare om jag hade skrivit”*Jag beklagar!*”.
+Direkt innanför dörrarna till utställningen finns en stor vit vägg. Där har jag målat i svart: ”*J´accuse!*”. Emile Zolas berömda ”*Jag anklagar!*” När konstnären Carl-Fredrik Reuterswärd besöker utställningen viskar han till mig att det hade varit intrikatare om jag hade skrivit ”*Jag beklagar!*”.
 ::: indent
 Helt rätt.
 :::
