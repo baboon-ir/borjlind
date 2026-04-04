@@ -18,6 +18,15 @@ mainClass: "h-full"
         document.removeEventListener('touchstart', once);
       });
     });
+
+    var btn = document.querySelector('[data-video-toggle]');
+    if (btn) {
+      btn.addEventListener('click', function () {
+        var active = document.body.classList.toggle('rb-video-active');
+        v.muted = !active;
+        btn.innerHTML = active ? 'TILLBAKA' : '&#9654; BONGO!';
+      });
+    }
   });
 </script>
 <div class="rb-hub-overlay"></div>
@@ -33,5 +42,7 @@ mainClass: "h-full"
     </div>
   </div>
 </section>
+
+<button class="rb-video-toggle" data-video-toggle aria-label="Visa video">&#9654; BONGO!</button>
 
 {% include "site-nav.njk" %}

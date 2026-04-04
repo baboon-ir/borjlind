@@ -114,9 +114,21 @@
     });
 
     // Close on link click (actual <a> links, not drill buttons)
+    // For year-anchor links on the biography page, scroll to the element directly
     siteNav.querySelectorAll('a').forEach((a) => {
-      a.addEventListener('click', () => {
+      a.addEventListener('click', (e) => {
         closeSiteNav();
+        const href = a.getAttribute('href') || '';
+        const hashIdx = href.indexOf('#');
+        if (hashIdx !== -1 && document.body.dataset.biography) {
+          const rawId = decodeURIComponent(href.slice(hashIdx + 1));
+          const target = document.getElementById(rawId);
+          if (target) {
+            e.preventDefault();
+            history.replaceState(null, '', '#' + encodeURIComponent(rawId));
+            setTimeout(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }), 360);
+          }
+        }
       });
     });
 

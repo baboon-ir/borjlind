@@ -368,7 +368,9 @@ Jag börjar skriva.
 <!-- PAGE 13 END -->
 
 <!-- PAGE 14 START -->
-Först en diktsamling, ”*Som från själ till själ en stråle*”:
+<span id=”år-1960” class=”rb-year-anchor” data-year-range=”1960–1970”></span>
+
+Först en diktsamling, “*Som från själ till själ en stråle*”:
 
 ::: poem
 **Telefonnummer funna på några av våra vanligaste toaletter:**

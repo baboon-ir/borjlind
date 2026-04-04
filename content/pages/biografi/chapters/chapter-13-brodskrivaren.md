@@ -287,6 +287,8 @@ Poeten och aktivisten Bob Holman beskriver framträdandet såh är i projektets 
 ::: part
 :::
 
+<span id="år-1980" class="rb-year-anchor" data-year-range="1980–1990"></span>
+
 Hemma igen.
 ::: indent
 Ljus förmiddag, jag sitter i skrivarstugan på ön och kurerar natten (kampen med min ”roman”). Gösta Ekman ringer och vill prata ”*Jönssonligan*”. Eller rättare sagt ”*Olsenbanden*”. Gösta har blivit förtjust i några danska filmer om ett antal udda smågangstrar och vill göra en svensk variant. Jag har ingen aning om vad han pratar om.

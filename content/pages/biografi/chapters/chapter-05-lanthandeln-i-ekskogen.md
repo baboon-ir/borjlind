@@ -231,6 +231,8 @@ Carsten har också sin första separatutställning på Moderna Museet. Den heter
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/146.png)
 
+<span id="år-1970" class="rb-year-anchor" data-year-range="1970–1980"></span>
+
 Klargörande 1 (inför det som komma skall):
 ::: indent
 Jag har aldrig varit en del av den finkulturella sfären i Sverige, alltid varit obekväm på dom avlutade planken i salongerna. Det sjaskiga är min domän. Det plumpa och puerila. Övermodet och det distanslösa. Den storvulna extasen. Artaud, igen. Jag har svårt för det finstilta. Välformulerade människor gör mig nervös och överdriven, det belevade gör mig osäker och snar till alkohol. Jag lider gravt av misto (ett av mindervärdighetskomplex underminerat storhetsvansinne), slår ständigt mellan självförakt och hybris och sugs till det aparta.

@@ -105,8 +105,10 @@
   const restorePosition = () => {
     // Priority 1: URL hash
     const hash = window.location.hash;
-    if (hash && hash.startsWith('#p-')) {
-      const target = document.getElementById(hash.slice(1));
+    if (hash && (hash.startsWith('#p-') || hash.startsWith('#%C3%A5r-') || hash.startsWith('#år-'))) {
+      // Decode URI-encoded hash (browsers encode å as %C3%A5)
+      const decoded = decodeURIComponent(hash.slice(1));
+      const target = document.getElementById(decoded);
       if (target) {
         target.scrollIntoView({ behavior: 'instant', block: 'start' });
         return;

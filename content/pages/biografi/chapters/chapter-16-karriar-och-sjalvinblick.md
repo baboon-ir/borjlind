@@ -226,6 +226,8 @@ Det skulle fåkomplicerade effekter.
 ::: part
 :::
 
+<span id="år-1990" class="rb-year-anchor" data-year-range="1990–2000"></span>
+
 Lorry nomineras till Guldrosen, Europas finaste tv-pris. Det ska delas ut i Montreaux och delar av Lorrygängetåker dit. Inklusive jag själv. Vi vinner inte, allaåker hem utom jag som fortsätter till Venedig. Ensam. Senast jag var där gjorde jag en dokumentärfilm för Moderna Museet, nu har jag ingen annan avsikt med besöketän att fly. Jag är djupt förvirrad och har mist fotfästet. Orsaken är min nyblivna förälskelse i Cilla Gemvall.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/2000.jpeg)

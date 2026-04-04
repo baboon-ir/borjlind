@@ -597,6 +597,8 @@ Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samli
 
 [yt-video][https://www.youtube.com/watch?v=nrtW_CplfeQ]
 
+<span id="år-2010" class="rb-year-anchor" data-year-range="2010–2021"></span>
+
 101010 - ett brutalt enkelt datum. Det datum när Ove Enervald dör. Ytterligare en i raden av täta vänner från det förflutna som försvinner ur sammanhanget. Han har varit svårt sjuk en tid, vistats på ett hospis i närheten av vår bostad i Nacka, insett att det utmätta är utmätt. Vi besöker honom en solig eftermiddag. När vi ska gåtittar han på Cilla och säger:
 ::: indent
 – So long, baby.

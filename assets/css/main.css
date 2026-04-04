@@ -184,6 +184,58 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   pointer-events: none;
 }
 
+/* ── Video toggle button ── */
+
+.rb-video-toggle {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 50;
+  background: transparent;
+  border: 1px solid rgba(253, 249, 240, 0.3);
+  border-radius: 4px;
+  color: rgba(253, 249, 240, 0.5);
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  transition: color 0.3s, border-color 0.3s;
+}
+
+.rb-video-toggle:hover,
+.rb-video-toggle:focus-visible {
+  color: rgba(253, 249, 240, 0.9);
+  border-color: rgba(253, 249, 240, 0.6);
+}
+
+/* ── Video-active state: fade out everything except video + button ── */
+
+.rb-hub-overlay,
+.rb-hub-pattern,
+.rb-hero,
+.rb-header-outer {
+  transition: opacity 0.7s ease;
+}
+
+.rb-video-active .rb-hub-overlay {
+  opacity: 0;
+}
+
+.rb-video-active .rb-hub-pattern {
+  opacity: 0;
+}
+
+.rb-video-active .rb-hero {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.rb-video-active .rb-header-outer {
+  opacity: 0;
+  pointer-events: none;
+}
+
 /* ============================================================
    Section 5 — Navigation
    ============================================================ */

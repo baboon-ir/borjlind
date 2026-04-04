@@ -656,6 +656,8 @@ Jag vill också pröva ett speciellt grepp i filmen för att se hur det fungerar
 Jag drar också nytta av Persbrandts förflutna som dansare:
 :::
 
+[yt-video][https://www.youtube.com/watch?v=8uLpNrASGW4]
+
 Filmen spelas in digitalt, den första långfilmen i Sverige som använder den tekniken. Mycket material, mycket i klippbordet, men relativt lättredigerat jämfört med konventionell film.
 
 Parentes på tal om klippningen: Cilla och jag har hanterat det faktum att jag som regissör kommer att vara tämligen frånvarande under hela inspelningsperioden, både fysiskt och mentalt. Hon har själv varit med på flera inspelningar och vet hur det fungerar. Vad vi inte riktigt har sett komma är fasen efter inspelningen - klippningen. Som fortsätter att involvera mig nästan lika mycket som inspelning, över långt tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
@@ -1164,6 +1166,8 @@ Kanske lockar vi ut honom igen och skriver om manuset till en roman, i sinom.
 
 ::: part
 :::
+
+<span id="år-2000" class="rb-year-anchor" data-year-range="2000–2010"></span>
 
 Efter att ha skrivit dom förstaåtta filmerna om Martin Beck är jag klar med den världen. Det är inte produktionsbolaget Filmlance, finansiärerna och fram för allt inte publiken. Filmerna har blivit en formidabel tittarsuccéoch alla vill ha mer.
 ::: indent
