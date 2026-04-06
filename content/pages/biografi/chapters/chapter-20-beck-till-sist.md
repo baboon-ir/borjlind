@@ -236,112 +236,112 @@ Det är sent på kvällen, Cilla har somnat, jag har just läst en kort skrift o
 
 **”Det är natten till de dödas dag och tre människor befinner sig i ladan - en man av enkelt ursprung och hans unga kvinna, på knä intill en mycket gammal människa med en grön medaljong på bröstet.**
 
-**     Den unga kvinnan väntar barn.**
+**Den unga kvinnan väntar barn.**
 
-**     - Hörde du ... ?**
+**- Hörde du ... ?**
 
-**     Mannens viskning får en märklig resonans i mörkret, kvinnan trycker sig mot hans kropp. Så lyssnar hennes blick förbi hans fråga, hon försöker se det båda hör.**
+**Mannens viskning får en märklig resonans i mörkret, kvinnan trycker sig mot hans kropp. Så lyssnar hennes blick förbi hans fråga, hon försöker se det båda hör.**
 
-**     - Där ...**
+**- Där ...**
 
-**     Nu syns det lilla djuret mycket tydligt, halvvägs ut på den gamla människans panna, vaggande mot andra tinningen, mörkblå på den vita släta huden.**
+**Nu syns det lilla djuret mycket tydligt, halvvägs ut på den gamla människans panna, vaggande mot andra tinningen, mörkblå på den vita släta huden.**
 
-**     - Där är den ...**
+**- Där är den ...**
 
-**     Och så är den försvunnen, nerför tinningen och in i dunklet bakom örat på den gamla människan. Hon ligger naken på ett halmtäckt golv i ladans bortre hälft: då återkommer ljudet, ett rytmiskt knäppande från väggen, som om en klocka tickade.**
+**Och så är den försvunnen, nerför tinningen och in i dunklet bakom örat på den gamla människan. Hon ligger naken på ett halmtäckt golv i ladans bortre hälft: då återkommer ljudet, ett rytmiskt knäppande från väggen, som om en klocka tickade.**
 
-**     - Hörde du?**
+**- Hörde du?**
 
-**     - Som om en klocka tickade ...**
+**- Som om en klocka tickade ...**
 
-**     Den unga kvinnans blick försöker följa ljudet, mannen fryser, vinden driver rakt igenom ladan, en förfallen katedral av grova plank. Sönderbruten, genomsprungen av ett rasande kavalleri: månen trycker silvernålar genom taket.**
+**Den unga kvinnans blick försöker följa ljudet, mannen fryser, vinden driver rakt igenom ladan, en förfallen katedral av grova plank. Sönderbruten, genomsprungen av ett rasande kavalleri: månen trycker silvernålar genom taket.**
 
-**     - ... det tickar högre nu.**
+**- ... det tickar högre nu.**
 <!-- PAGE 252 END -->
 
 <!-- PAGE 253 START -->
 ::: accordion
 **Så glider månen undan och en av springorna i taket drar ett långsamt ärr snett över bröstet på den mycket gamla människans kropp; ett av många tusen andra ärr. Svärd och skärvor, hennes kropp har styckats upp och sytts ihop igen, hål av tysta kulor, hennes kropp är täckt av svarta små förhårdnader. Hennes hud, hon har trampats av så många hästar, hennes hud har smekts och stenats. Hon är en mycket gammal människa, galningar har ätit hennes hjärna, väringar har vaktat hennes blygd. Ingenstans har hon fått vila, det syns på hennes hår, det har för länge sedan vuxit fast i tiden.**
 
-**     Hon har ett mycket vackert ansikte.**
+**Hon har ett mycket vackert ansikte.**
 
-**     - Och hennes ögon?**
+**- Och hennes ögon?**
 
-**     Hennes ögon ligger dolda under tunga ögonlock, hennes ögonfransar brann på bål.**
+**Hennes ögon ligger dolda under tunga ögonlock, hennes ögonfransar brann på bål.**
 
-**     Av detta ser den enkle mannen och hans unga kvinna ingenting. Dom sörjer, men dom ser inte: tårar skymmer deras insikt. Nu lutar sig mannen fram och sträcker handen mot medaljongen på den mycket gamla människans bröst.**
+**Av detta ser den enkle mannen och hans unga kvinna ingenting. Dom sörjer, men dom ser inte: tårar skymmer deras insikt. Nu lutar sig mannen fram och sträcker handen mot medaljongen på den mycket gamla människans bröst.**
 
-**     Men är hon död?**
+**Men är hon död?**
 
-**     - Är hon död? viskar kvinnan och känner hur det lilla fostret börjar sparka.**
+**- Är hon död? viskar kvinnan och känner hur det lilla fostret börjar sparka.**
 
-**     Då rycker mannen till: den mycket gamla människans ögonlock har öppnat sig och ett par ljusa, lugna ögon formulerar hennes blick.**
+**Då rycker mannen till: den mycket gamla människans ögonlock har öppnat sig och ett par ljusa, lugna ögon formulerar hennes blick.**
 
-**     - Hör ni?**
+**- Hör ni?**
 
-**     - Ja.**
+**- Ja.**
 
-**     Den lilla skalbaggen på väggen tickar högre, strax ovanför den mycket gamla människans huvudgärd. Den unga kvinnan sluter handen hårt om mannens handled, han lutar sig ner mot bädden för att uppfatta den svaga rösten.**
+**Den lilla skalbaggen på väggen tickar högre, strax ovanför den mycket gamla människans huvudgärd. Den unga kvinnan sluter handen hårt om mannens handled, han lutar sig ner mot bädden för att uppfatta den svaga rösten.**
 
-**     - Hör ni?**
+**- Hör ni?**
 
-**     - Ja, vi hör.**
+**- Ja, vi hör.**
 
-**     - Den vita armen tickar.**
+**- Den vita armen tickar.**
 
-**     Kvinnan känner hur det lilla fostret slutar sparka, den gamla kvinnan har en egendomlig närvaro i rösten. Hon viker blicken ner åt sidan, i halmen intill bädden står ett litet glas, till hälften fyllt av grumlig vätska: spadet från en nykokt vitorm. Mannen lyfter glaset mot den mycket gamla människans mun, vätskan rinner in i korta klunkar, glaset töms, mannen ställer ner det där det stod. Den mycket gamla människan sluter ögonen igen.**
+**Kvinnan känner hur det lilla fostret slutar sparka, den gamla kvinnan har en egendomlig närvaro i rösten. Hon viker blicken ner åt sidan, i halmen intill bädden står ett litet glas, till hälften fyllt av grumlig vätska: spadet från en nykokt vitorm. Mannen lyfter glaset mot den mycket gamla människans mun, vätskan rinner in i korta klunkar, glaset töms, mannen ställer ner det där det stod. Den mycket gamla människan sluter ögonen igen.**
 
-**     - ... nu ser jag klart, viskar hon.**
+**- ... nu ser jag klart, viskar hon.**
 
-**     Så håller vinden andan, den unga kvinnan lägger omedvetet vänster hand på magen, mannen knäpper sina händer: hans blick söker sig till medaljongen.**
+**Så håller vinden andan, den unga kvinnan lägger omedvetet vänster hand på magen, mannen knäpper sina händer: hans blick söker sig till medaljongen.**
 
-**     Det är tyst i ladan när den mycket gamla människan särar munnen.**
+**Det är tyst i ladan när den mycket gamla människan särar munnen.**
 
-**     - ... ahhh ... jag byggde ett smäckert segelfartyg i en flaska av handblåst glas. Jag tillslöt halsen med en enkel kork och släppte flaskan i havet. Den seglade åt två håll. Det var den första gåtan.**
+**- ... ahhh ... jag byggde ett smäckert segelfartyg i en flaska av handblåst glas. Jag tillslöt halsen med en enkel kork och släppte flaskan i havet. Den seglade åt två håll. Det var den första gåtan.**
 
-**     Den unga kvinnan håller båda händerna runt mannens ena underarm, hans blick har fastnat, den mycket gamla människan spänner halsen.**
+**Den unga kvinnan håller båda händerna runt mannens ena underarm, hans blick har fastnat, den mycket gamla människan spänner halsen.**
 
-**     - ... så byggde jag en vacker ask av ljust och torkat cederträ. Jag gav den till en liten barfotagosse från öknen. När han öppnade locket såg han askan av sig själv.**
+**- ... så byggde jag en vacker ask av ljust och torkat cederträ. Jag gav den till en liten barfotagosse från öknen. När han öppnade locket såg han askan av sig själv.**
 
-**     Mannen rätar på sig, den unga kvinnan håller händerna för öronen, den mycket gamla människans röst har tunnats ut.**
+**Mannen rätar på sig, den unga kvinnan håller händerna för öronen, den mycket gamla människans röst har tunnats ut.**
 
-**     - Det var den andra gåtan ...**
+**- Det var den andra gåtan ...**
 
-**     Månen går i moln.**
+**Månen går i moln.**
 
-**     Den mycket gamla människans huvud faller lätt åt sidan, mannen tittar snabbt på kvinnan, det rinner tårar nerför hennes kinder. Han torkar hennes ansikte. Hon nickar.**
+**Den mycket gamla människans huvud faller lätt åt sidan, mannen tittar snabbt på kvinnan, det rinner tårar nerför hennes kinder. Han torkar hennes ansikte. Hon nickar.**
 
-**     - Det är vinden nu ... viskar hon.**
+**- Det är vinden nu ... viskar hon.**
 
-**    Och fostrets rörelser i magen. Hon slutar gråta. Mannen öppnar bröstfickan, för ner en hand, drar upp den, försiktigt lägger han en ljusblå nyckel på den mycket gamla människans strupe. Som prydnad, eller för att tysta hjärtats skvaller. Då trycks en rossling upp ur strupen, en kall hinna sänker sig och sluter ögonlocken, medaljongen faller mjukt i halmen.**
+**Och fostrets rörelser i magen. Hon slutar gråta. Mannen öppnar bröstfickan, för ner en hand, drar upp den, försiktigt lägger han en ljusblå nyckel på den mycket gamla människans strupe. Som prydnad, eller för att tysta hjärtats skvaller. Då trycks en rossling upp ur strupen, en kall hinna sänker sig och sluter ögonlocken, medaljongen faller mjukt i halmen.**
 
-**     Så tystnar uret.**
+**Så tystnar uret.**
 
-**     Länge sitter mannen stilla, kvinnan vid hans sida rör sig av och an: ingen av dom vågar titta.**
+**Länge sitter mannen stilla, kvinnan vid hans sida rör sig av och an: ingen av dom vågar titta.**
 
-**     Så glider månen ut ur molnen, trycker ner sitt ljus igen. Då vågar mannen viska.**
+**Så glider månen ut ur molnen, trycker ner sitt ljus igen. Då vågar mannen viska.**
 
-**     - Dödsuret har tystnat ...**
+**- Dödsuret har tystnat ...**
 
-**     - Ja.**
+**- Ja.**
 
-**     - Vad gör vi om hon ...**
+**- Vad gör vi om hon ...**
 
-**     - Medaljongen, säger kvinnan.**
+**- Medaljongen, säger kvinnan.**
 
-**     Och tittar lugnt på honom, på medaljongen där i halmen. Han tvekar först, då ler hon, då böjer han sig snabbt mot halmen.**
+**Och tittar lugnt på honom, på medaljongen där i halmen. Han tvekar först, då ler hon, då böjer han sig snabbt mot halmen.**
 
-**     - Titta.**
+**- Titta.**
 
-**     Ur medaljongen sticker fram ett starkt gulnat fotografi. Mannen lyfter upp det, håller in det i en stråle månljus, kvinnan sitter tätt intill, båda stirrar ner på bilden av en stor familj.**
+**Ur medaljongen sticker fram ett starkt gulnat fotografi. Mannen lyfter upp det, håller in det i en stråle månljus, kvinnan sitter tätt intill, båda stirrar ner på bilden av en stor familj.**
 
-**     Familjen befinner sig utomhus, som på en sandslätt, inneslutna i en kupol av bärnsten. Mannen och kvinnan stirrar på fotografiet, som om dom försökte förstå vad dom ser.**
+**Familjen befinner sig utomhus, som på en sandslätt, inneslutna i en kupol av bärnsten. Mannen och kvinnan stirrar på fotografiet, som om dom försökte förstå vad dom ser.**
 
-**     - Hela familjen tycks avvakta, säger kvinnan lågmält.**
+**- Hela familjen tycks avvakta, säger kvinnan lågmält.**
 
-**     - Ja, viskar mannen ... men vad väntar dom på?**
+**- Ja, viskar mannen ... men vad väntar dom på?**
 
-**     Ankomsten.”**
+**Ankomsten.”**
 :::
 
 Skulle jag skicka texten till ett resemagasin skulle dom förmodligen anse att *”slutet känns så, jag vet inte, öppet, man blir lite hängande i luften”*.
@@ -355,7 +355,7 @@ Istället återanvänder jag skarabén i vår deckare *”Kallbrand”*:
 
 **”Veronica satt i soffan och iakttog en mycket stor mörk skalbagge som kröp fram över trägolvet, en skarabé. Hon visste vad den förebådade. I vissa religioner var den en symbol för liv och återfödelse, själens odödlighet, i andra kallades den för dödsuret. För henne var idén om själens odödlighet ett motbjudande självbedrägeri, hon föredrog att tolka skalbaggens knäppande som ett tickande mot döden. Allt är utmätt, tänkte hon och tittade på sitt ginglas.**
 
-**     Det var tomt.”**
+**Det var tomt.”**
 
 ::: part
 :::
@@ -579,17 +579,17 @@ Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samli
 ::: accordion
 **Satir är inte en underhållningsform. Den som tar satiren i anspråk ska vara medveten om redskapets funktion - satiren är ett rått instrument, utan ironins eleganta undertext eller driftens lättköpta poänger. Swift snarare än Wilde. Den främsta funktionen är inte att roa, utan att beröra och uppröra: att åstadkomma en djupare reaktion. Använd på allvar, är satiren ett anarkistiskt redskap för samhällskritik. Ett vapen, inte en försörjning. Den använder sig av namns nämnande och faktiska företeelser. Av tydlighet - Strindbergs Svarta Fanor, men utan täcknamn.**
 
-**     Satir skrivs ur en privat upprördhet, en personlig reaktion på en offentlig svinaktighet - den blir ointressant när syftet primärt är kollektiv underhållning. Att skriva satir är ett uppdrag under ansvar - angreppet måste vara personligt förankrat och emotionellt försvarbart.**
+**Satir skrivs ur en privat upprördhet, en personlig reaktion på en offentlig svinaktighet - den blir ointressant när syftet primärt är kollektiv underhållning. Att skriva satir är ett uppdrag under ansvar - angreppet måste vara personligt förankrat och emotionellt försvarbart.**
 
-**     Satir arbetar utan medkänsla. Den kan vara frånstötande, smaklös och depraverad, allt för att få vissa saker sagda som inte kan uttryckas på annat sätt.**
+**Satir arbetar utan medkänsla. Den kan vara frånstötande, smaklös och depraverad, allt för att få vissa saker sagda som inte kan uttryckas på annat sätt.**
 
-**     All effektiv satir förutsätter formsäkerhet - språket måste behandlas med klinisk briljans. Det är lätt att skriva plumpt, men föga effektivt. Ju exaktare gestaltning desto infamare.**
+**All effektiv satir förutsätter formsäkerhet - språket måste behandlas med klinisk briljans. Det är lätt att skriva plumpt, men föga effektivt. Ju exaktare gestaltning desto infamare.**
 
-**     Samhällskritisk satir är också en färskvara - ju närmare källan desto effektivare. När avståndet ökar i tid och rum avtar den satiriska kraften.**
+**Samhällskritisk satir är också en färskvara - ju närmare källan desto effektivare. När avståndet ökar i tid och rum avtar den satiriska kraften.**
 
-**     Slutligen. Att skriva sann satir förutsätter följande insikt: det finns inga “gränser”. Gränser är normativa överenskommelser inom ramen för det rådande samhällsklimatet. All sann satir måste vara trogen sitt emotionella ursprung: upprördheten, och uttrycka den, oavsett normativa ”gränser” - den som går för långt banar väg för efterföljare att gå längre än förut.**
+**Slutligen. Att skriva sann satir förutsätter följande insikt: det finns inga “gränser”. Gränser är normativa överenskommelser inom ramen för det rådande samhällsklimatet. All sann satir måste vara trogen sitt emotionella ursprung: upprördheten, och uttrycka den, oavsett normativa ”gränser” - den som går för långt banar väg för efterföljare att gå längre än förut.**
 
-**     God smak mjölkar ur testiklarna.”**
+**God smak mjölkar ur testiklarna.”**
 :::
 
 ::: part
@@ -893,53 +893,53 @@ Att våra ställningstaganden i böckerna väcker läsarreaktioner är både beg
 
 **”Mårten hade tillbringat ett antal timmar nere i källaren i natt, i musikrummet, med extremt hög puls. Orsaken var mörkret. Det mörker som enligt honom sänkte sig över den här nationen just nu. Bush Thor hade fraterniserat med Jimmie Åkesson. Ätit lunch, som omskrivningen var. Sverigedemokraterna var på väg att bli lika stora som sossarna, förtroendet för Åkesson var högst bland alla partiledare.**
 
-**     Mörker.**
+**Mörker.**
 
-**     Han hade vridit upp både en vinkork och en Gram Parson-låt och försökt förstå vad som höll på att hända. Höll det otänkbara på att bli tänkbart? Till och med bli normalt? För honom var det både obegripligt och skrämmande.**
+**Han hade vridit upp både en vinkork och en Gram Parson-låt och försökt förstå vad som höll på att hända. Höll det otänkbara på att bli tänkbart? Till och med bli normalt? För honom var det både obegripligt och skrämmande.**
 
-**     Han hade röjt väg genom hjärnan med rödvin och tagit fram sin laptop. Han tänkte skriva en insändare till DN. Det hade han gjort en gång förut i sitt liv, när kommunen ville skära ner anslagen till Skå-Edeby för att satsa på en bingohall. Han hade med emfas förklarat behovet av att vårda och förändra störda unga människors liv, en investering i framtiden. Insändaren hade fått effekt och Skå-Edeby fick behålla sin budget.**
+**Han hade röjt väg genom hjärnan med rödvin och tagit fram sin laptop. Han tänkte skriva en insändare till DN. Det hade han gjort en gång förut i sitt liv, när kommunen ville skära ner anslagen till Skå-Edeby för att satsa på en bingohall. Han hade med emfas förklarat behovet av att vårda och förändra störda unga människors liv, en investering i framtiden. Insändaren hade fått effekt och Skå-Edeby fick behålla sin budget.**
 
-**     Nu handlade det om något annat.**
+**Nu handlade det om något annat.**
 
-**     Nationen.**
+**Nationen.**
 
-**     Han började skriva:**
+**Han började skriva:**
 
-***     ”På medeltiden kom en brun råtta med pesten till Europa. Nära hälften av befolkningen utplånades. Men vi tog oss igenom krisen. Nu är den här igen. För femton år sen råkade dörren till demokratin stå på glänt och en ny brun råtta smet in genom springan. Idag är råttan fet och glad och äter lunch med brunbrända vänner och hans trollungar viner med svansarna över landet. Pesten kryper på.”***
+***”På medeltiden kom en brun råtta med pesten till Europa. Nära hälften av befolkningen utplånades. Men vi tog oss igenom krisen. Nu är den här igen. För femton år sen råkade dörren till demokratin stå på glänt och en ny brun råtta smet in genom springan. Idag är råttan fet och glad och äter lunch med brunbrända vänner och hans trollungar viner med svansarna över landet. Pesten kryper på.”***
 
-**      – Vad gör du?**
+**– Vad gör du?**
 
-**      Det var Mette som avbröt Mårten. Hon satte sig i fåtöljen intill honom och sneglade på skärmen i hans knä.**
+**Det var Mette som avbröt Mårten. Hon satte sig i fåtöljen intill honom och sneglade på skärmen i hans knä.**
 
-**     Och läste.**
+**Och läste.**
 
-**     Och förstod.**
+**Och förstod.**
 
-**     Hon kände sin man, hon visste vilken värld han hade drömt om, hon förstod vad han såg krackelera inför sina ögon, bit för bit, dag för dag. Hon förstod hans ursinne.**
+**Hon kände sin man, hon visste vilken värld han hade drömt om, hon förstod vad han såg krackelera inför sina ögon, bit för bit, dag för dag. Hon förstod hans ursinne.**
 
-**     – Tänker du skicka det där? sa hon.**
+**– Tänker du skicka det där? sa hon.**
 
-**     – Ja. Hurså?**
+**– Ja. Hurså?**
 
-**     – Det är skrivet i affekt.**
+**– Det är skrivet i affekt.**
 
-**     – Jag är i affekt.**
+**– Jag är i affekt.**
 
-**     – Väldigt många i det här landet sympatiserar med Sverigedemokraterna.**
+**– Väldigt många i det här landet sympatiserar med Sverigedemokraterna.**
 
-**     – Vet du varför? För att dom har en slipad partiledare med morgonstubb och pigg fru. Men när du går en meter bakom det? Vilka är det som gillar honom? Det är Gula Blend-tanter med mumsmums i huvudet och deras medelålders vita män som runkar upp sig på fredagskvällen med lite hatmys på nätet. Råttsvansarna. Snart äter han väl lunch med Kristersson också.**
+**– Vet du varför? För att dom har en slipad partiledare med morgonstubb och pigg fru. Men när du går en meter bakom det? Vilka är det som gillar honom? Det är Gula Blend-tanter med mumsmums i huvudet och deras medelålders vita män som runkar upp sig på fredagskvällen med lite hatmys på nätet. Råttsvansarna. Snart äter han väl lunch med Kristersson också.**
 <!-- PAGE 262 END -->
 
 <!-- PAGE 263 START -->
-**     Mette noterade att hennes man inte var nyansernas mästare just nu, att han till och med var ganska fördomsfull. Men hans utsaga om Kristersson kunde han ha fog för. Själv hade hon varit rätt förtjust i Reinfeldt, han var rak och tydlig, just nu leddes hans parti av en patetisk vindflöjel.**
+**Mette noterade att hennes man inte var nyansernas mästare just nu, att han till och med var ganska fördomsfull. Men hans utsaga om Kristersson kunde han ha fog för. Själv hade hon varit rätt förtjust i Reinfeldt, han var rak och tydlig, just nu leddes hans parti av en patetisk vindflöjel.**
 
-**     Tyckte hon.**
+**Tyckte hon.**
 
-**     Men hon ville inte spä på Mårtens affekt så hon kysste honom på kinden och sa:**
+**Men hon ville inte spä på Mårtens affekt så hon kysste honom på kinden och sa:**
 
-**     - Glöm inte att dra ut soptunnan, det är tömning i morgon.**
+**- Glöm inte att dra ut soptunnan, det är tömning i morgon.**
 
-**     När hon hade gått fällde Mårten ner skärmen och slöt ögonen, länge, långsamt gled affekten över i förtvivlan.”**
+**När hon hade gått fällde Mårten ner skärmen och slöt ögonen, länge, långsamt gled affekten över i förtvivlan.”**
 
 Skriva på näsor är inte helt oangenämt.
 
@@ -1122,11 +1122,11 @@ Den inleds så här:
 
 **”Än hade han tid att stega rummet, den enkla och utmätta yta som var hans hem. Ett ord han aldrig använde. För honom var det en yta, inte en rymd. Han hade ställt in en soffa och ett bord och hade en balsamodell av the Dakota House i fönstret. Golvet saknade matta och den smala spegeln vid köksdörren hängde för lågt. Det var inte han som hade hängt dit den. När han ville se hur munnen såg ut fick han böja sig ner; det enda han såg var dött kött. Han hade ingen relation till sitt ansikte, hans ögon såg in i en främlings blick och han undrade varför näsan var krökt.**
 
-**     Sitt hår tyckte han om.**
+**Sitt hår tyckte han om.**
 
-**     Det var det enda han erkände som sitt. Brunt, och relativt lockigt, det påminde honom om hans  mor, kvinnan som saknade händer. Hennes hår hade varit brunt och lockigt och skrattet som kom när hon fick beskedet var det enda han mindes av hennes röst. Men det fick tiden att gå.**
+**Det var det enda han erkände som sitt. Brunt, och relativt lockigt, det påminde honom om hans  mor, kvinnan som saknade händer. Hennes hår hade varit brunt och lockigt och skrattet som kom när hon fick beskedet var det enda han mindes av hennes röst. Men det fick tiden att gå.**
 
-**     Det, och stegandet.”**
+**Det, och stegandet.”**
 
 Novellen publiceras senareäven i den svenska antologin ”*Svart Lucia*” och ges ocksåut i bokform av Bokfabriken i Malmö.
 
@@ -1569,105 +1569,105 @@ Jag kanske skriver en liten fabel, helt enkelt: *”Hycklarnas Afton - sagan om 
 
 Den kunde börja så här:
 
-***”Vindflöjeln och den lilla Hackspetten satt på taknocken och tittade ut över nejden. Det började skymma och båda var lite missnöjda. ***
+***”Vindflöjeln och den lilla Hackspetten satt på taknocken och tittade ut över nejden. Det började skymma och båda var lite missnöjda.***
 
-***     - Varför får vi inte sitta på det högsta huset? undrade den lilla Hackspetten. ***
+***- Varför får vi inte sitta på det högsta huset? undrade den lilla Hackspetten.***
 
-***     - För att vi bara är du och jag.***
+***- För att vi bara är du och jag.***
 
-***     - Men jag vill sitta där?***
+***- Men jag vill sitta där?***
 
-***     - Jag med, men vad ska vi göra? Det är ju som det är. ***
+***- Jag med, men vad ska vi göra? Det är ju som det är.***
 
-***     - Men kan vi inte ...***
+***- Men kan vi inte ...***
 
-***     - Tjafsa inte nu! ***
+***- Tjafsa inte nu!***
 <!-- PAGE 272 END -->
 
 <!-- PAGE 273 START -->
-***     Den lilla Hackspetten tystnade och började putsa sina fjädrar. Ingen av dem såg herr Kackerlacka som kom krälande en bit bort, tegelpanna för tegelpanna. När han nådde nocken stannade han och gav ifrån sig ett väsande ljud. Vindflöjeln fick syn på honom. ***
+***Den lilla Hackspetten tystnade och började putsa sina fjädrar. Ingen av dem såg herr Kackerlacka som kom krälande en bit bort, tegelpanna för tegelpanna. När han nådde nocken stannade han och gav ifrån sig ett väsande ljud. Vindflöjeln fick syn på honom.***
 
-***     - Nu är han här igen, viskade han till den lilla Hackspetten.  ***
+***- Nu är han här igen, viskade han till den lilla Hackspetten.***
 
-***     - Vem?***
+***- Vem?***
 
-***     - Han som jag berättade om.***
+***- Han som jag berättade om.***
 
-***     - Som vi inte fick ...***
+***- Som vi inte fick ...***
 
-***     - Ja. ***
+***- Ja.***
 
-***     Den lilla Hackspetten vred sig om och fick syn på herr Kackerlacka. ***
+***Den lilla Hackspetten vred sig om och fick syn på herr Kackerlacka.***
 
-***     - Du får prata med honom först, viskade Vindflöjeln.***
+***- Du får prata med honom först, viskade Vindflöjeln.***
 
-***     - Varför det?***
+***- Varför det?***
 
-***     - Du är minst. Jag måste hålla koll på vindarna, det kan blåsa upp.***
+***- Du är minst. Jag måste hålla koll på vindarna, det kan blåsa upp.***
 
-***     Den lilla Hackspetten tittade på herr Kackerlacka igen. Den sjunkande solen gnistrade till i hans blanka bruna skal. Den lilla Hackspetten tyckte han såg farlig och spännande ut, det pirrade till i bröstet när hon trippade lite närmare.***
+***Den lilla Hackspetten tittade på herr Kackerlacka igen. Den sjunkande solen gnistrade till i hans blanka bruna skal. Den lilla Hackspetten tyckte han såg farlig och spännande ut, det pirrade till i bröstet när hon trippade lite närmare.***
 
-***     - Hej, sa hon. Var kommer du ifrån?***
+***- Hej, sa hon. Var kommer du ifrån?***
 
-***     - Källaren.***
+***- Källaren.***
 
-***     - Oj! ... har du krupit ända upp hit?***
+***- Oj! ... har du krupit ända upp hit?***
 
-***     - Ja.***
+***- Ja.***
 
-***     Vilken vacker röst han har, tänkte den lilla Hackspetten och putsade näbben, diskret.***
+***Vilken vacker röst han har, tänkte den lilla Hackspetten och putsade näbben, diskret.***
 
-***     - Vad vill du då? sa hon. ***
+***- Vad vill du då? sa hon.***
 
-***     - Äta upp dig.***
+***- Äta upp dig.***
 
-***     Den lilla Hackspetten ryckte till. Hennes små vingar började darra. Äta upp henne? Var herr Kackerlacka farlig på riktigt? Hon vände sig mot Vindflöjeln.***
+***Den lilla Hackspetten ryckte till. Hennes små vingar började darra. Äta upp henne? Var herr Kackerlacka farlig på riktigt? Hon vände sig mot Vindflöjeln.***
 
-***     - Herr Kackerlacka säger att han vill äta upp mig? Varför det?***
+***- Herr Kackerlacka säger att han vill äta upp mig? Varför det?***
 
-***     - För att du är så söt, min vän, som en liten bakelse.***
+***- För att du är så söt, min vän, som en liten bakelse.***
 
-***     - Men jag vill inte bli uppäten?***
+***- Men jag vill inte bli uppäten?***
 
-***     Vindflöjeln tittade ut över nejden och märkte att vindarna hade mojnat. Bra.***
+***Vindflöjeln tittade ut över nejden och märkte att vindarna hade mojnat. Bra.***
 
-***     - Jag ska prata med honom, sa han och vred sig mot herr Kackerlacka. ***
+***- Jag ska prata med honom, sa han och vred sig mot herr Kackerlacka.***
 
-***     Han var lite osäker på hur han skulle börja, det var viktigt att han tog kommandot. Han sträckte på sig för att nå upp till huvudet. ***
+***Han var lite osäker på hur han skulle börja, det var viktigt att han tog kommandot. Han sträckte på sig för att nå upp till huvudet.***
 
-***     - Här på nocken är det jag som är vuxen, sa han. Ba så du vet!***
+***- Här på nocken är det jag som är vuxen, sa han. Ba så du vet!***
 
-***     Herr Kackerlacka svarade inte. Han krälade närmare den lilla Hackspetten och bredde ut sitt blanka skal. ***
+***Herr Kackerlacka svarade inte. Han krälade närmare den lilla Hackspetten och bredde ut sitt blanka skal.***
 
-***     - Ska vi äta lunch i morgon, viskade han med sin vackra röst. Jag bjuder.***
+***- Ska vi äta lunch i morgon, viskade han med sin vackra röst. Jag bjuder.***
 
-***     - Så du tänker inte äta upp mig då?  ***
+***- Så du tänker inte äta upp mig då?***
 
-***     - Nej, jag tänker ligga med dig.***
+***- Nej, jag tänker ligga med dig.***
 
-***     - Ligga?***
+***- Ligga?***
 
-***     - Du är ju söt som en liten bakelse.***
+***- Du är ju söt som en liten bakelse.***
 
-***     Den lilla Hackspetten kände hur det pirrade till igen, lite längre ner nu. Hon sneglade på Vindflöjeln. Var det okej?***
+***Den lilla Hackspetten kände hur det pirrade till igen, lite längre ner nu. Hon sneglade på Vindflöjeln. Var det okej?***
 
-***     - Han vill ligga med mig, viskade hon.***
+***- Han vill ligga med mig, viskade hon.***
 
-***     - Har du legat med en kackerlacka förut?***
+***- Har du legat med en kackerlacka förut?***
 
-***     - Nej ... eller jag kanske har drömt om det, men nej. Vad tycker du?***
+***- Nej ... eller jag kanske har drömt om det, men nej. Vad tycker du?***
 
-***     - Jag tycker vad jag tycker och sen blåser det upp och då tycker jag vad jag tycker fast tvärtom. Ligg med honom du.***
+***- Jag tycker vad jag tycker och sen blåser det upp och då tycker jag vad jag tycker fast tvärtom. Ligg med honom du.***
 
-***     - Men hur ligger man med herr Kackerlacka?***
+***- Men hur ligger man med herr Kackerlacka?***
 
-***     - Det vet väl du, som är söt som en bakelse.***
+***- Det vet väl du, som är söt som en bakelse.***
 
-***     Så när herr Kackerlacka började kravla tillbaka, tegelpanna för tegelpanna, trippade den lilla Hackspetten efter, både en aning skrämd men också upphetsad. Ligga med herr Kackerlacka?***
+***Så när herr Kackerlacka började kravla tillbaka, tegelpanna för tegelpanna, trippade den lilla Hackspetten efter, både en aning skrämd men också upphetsad. Ligga med herr Kackerlacka?***
 
-***     Vindflöjeln tittade efter dom och höll tummarna. Gick det bra kanske det var han som åt lunch med herr Kackerlacka nästa gång. Han vred sig om och tittade ut över nejden, kanske skulle han  få sitta på den högsta taknocken ändå? ***
+***Vindflöjeln tittade efter dom och höll tummarna. Gick det bra kanske det var han som åt lunch med herr Kackerlacka nästa gång. Han vred sig om och tittade ut över nejden, kanske skulle han  få sitta på den högsta taknocken ändå?***
 
-***     Det gällde bara att parera vindarna.”   ***
+***Det gällde bara att parera vindarna.”***
 
 Fotnot: Efter jag skrev den här lilla fabeln har även Vindflöjeln krupit ner i sängen till herr Kackerlacka. Nu ligger dom där, tätt intill varandra, och drömmer om den högsta nocken, alla tre.
 ::: indent

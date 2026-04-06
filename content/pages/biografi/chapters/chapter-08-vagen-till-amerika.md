@@ -89,7 +89,7 @@ Och så här skriver DN:s konstrecensent Leif Nylén om utställningen (och utst
 <!-- PAGE 73 START -->
 **”I ”Persona Non Grata” låter Rolf Börjlind sin vision av tillvaron explodera rätt i ansiktet på betraktaren, samtidigt som han bemödar sig om att blockera alla upplevelsemässiga reservationer eller nödutgångar. Så nöjer han sig inte heller med bara en teknik eller ett enda material - ”Persona Non Grata” rymmer både en utställning, en bok och en grammofonskiva, plus videoband, film, teater. Det är en estetisk manifestation vars ursinniga totalitet knappast liknar något annat i den svenska samtidskulturen utom möjligen Öyvind Fahlström.**
 
-**     Utställningen finns på Skeppsholmen, i ett annex till Moderna Museet. I dess mörklagda inre har Rolf Börjlind byggt upp ”fem psykiska och fysiska miljöer”, deras teatrala chockverkan och erotiskt-sadistiska metaforer har mer gemensamt med historiska surrealistutställningar än med 70-talets utstuderat torftiga ”enviroments”.**
+**Utställningen finns på Skeppsholmen, i ett annex till Moderna Museet. I dess mörklagda inre har Rolf Börjlind byggt upp ”fem psykiska och fysiska miljöer”, deras teatrala chockverkan och erotiskt-sadistiska metaforer har mer gemensamt med historiska surrealistutställningar än med 70-talets utstuderat torftiga ”enviroments”.**
 
 ::: accordion
 Hans bok med samma namn har undertiteln “romanen som process”, fast det snarare rör sig om en enda lång dikt, hallucinatorisk, bländande och bitter.
@@ -180,19 +180,19 @@ Så trycks den beryktade intervjun med statsminister Thorbjörn Fälldin.
 <!-- PAGE 75 START -->
 **”Vem är han? Egentligen? Vet vi det? Hur roterar hans inre? Är han en reklamprodukt? Ett massmediaoffer? En människa som slaktats på politikens altare? Vad tänker han på? Tänker han? Egentligen?**
 
-**     Frågor som studsar i mitt huvud när jag svänger ner mot det tysta grå huset. Jag är vid Marielund - den beryktade privatkliniken, djupt inne i Sörmlands mörka skogar. Huset är slitet, fasaden har flagnat. Bakom små fönster skymtar skrämda ansikten som försvinner när jag närmar mig. Jag går in genom den trötta porten, tittar upp på den nötta devisen: ”Hit, men inte längre!” Miljön är deprimerande. Blommor av blå plast. Halvskumma korridorer. Här och där varelser som hastar in i skuggan.**
+**Frågor som studsar i mitt huvud när jag svänger ner mot det tysta grå huset. Jag är vid Marielund - den beryktade privatkliniken, djupt inne i Sörmlands mörka skogar. Huset är slitet, fasaden har flagnat. Bakom små fönster skymtar skrämda ansikten som försvinner när jag närmar mig. Jag går in genom den trötta porten, tittar upp på den nötta devisen: ”Hit, men inte längre!” Miljön är deprimerande. Blommor av blå plast. Halvskumma korridorer. Här och där varelser som hastar in i skuggan.**
 
-**     Plötsligt ser jag en grupp människor sakta röra sig mot mig. Jag stannar upp. I det svaga ljuset från ett avlägset takfönster kan jag urskilja deras ansikten. Längst bak går en läkare med en spruta i handen. Han verkar orolig.**
+**Plötsligt ser jag en grupp människor sakta röra sig mot mig. Jag stannar upp. I det svaga ljuset från ett avlägset takfönster kan jag urskilja deras ansikten. Längst bak går en läkare med en spruta i handen. Han verkar orolig.**
 
-**     Två stabila sköterskor flankerar en böjd, stapplande figur. Jag stelnar ofrivilligt. Jag tittar på figurens spenatgröna tvångströja. Jag tvingar mig att tänka klart: detta är alltså mannen som skulle detronisera socialdemokratin. Som skulle vinna folkets förtroende. Driva Palme till vansinne. Och centern till makten. Detta är alltså mannen som skulle åstadkomma vad ingen åstadkommit på 44 år. Mannen som lyckades!**
+**Två stabila sköterskor flankerar en böjd, stapplande figur. Jag stelnar ofrivilligt. Jag tittar på figurens spenatgröna tvångströja. Jag tvingar mig att tänka klart: detta är alltså mannen som skulle detronisera socialdemokratin. Som skulle vinna folkets förtroende. Driva Palme till vansinne. Och centern till makten. Detta är alltså mannen som skulle åstadkomma vad ingen åstadkommit på 44 år. Mannen som lyckades!**
 
-**     Nu sitter han på en avlägsen, isolerad privatklinik. Hans liv är en ruin. Han har genomgått ett otal identitetskriser. Hans kropp skakas av elchocker. Hans schizofreni skakar regeringen. Det som absolut inte fick inträffa har inträffat: Han har blivit den han skulle spela - Thorbjörn Fälldin.**
+**Nu sitter han på en avlägsen, isolerad privatklinik. Hans liv är en ruin. Han har genomgått ett otal identitetskriser. Hans kropp skakas av elchocker. Hans schizofreni skakar regeringen. Det som absolut inte fick inträffa har inträffat: Han har blivit den han skulle spela - Thorbjörn Fälldin.**
 
-**     Jag går fram till gruppen. Hans ansikte är bekant och ändå obekant. Han är nergången, slut. Läkaren förklarar att natten varit upprivande. Energikommissionens majoritetsbeslut har härjat hans mardrömmar. Hans krafter är på upphällningen. Han behöver vila. Det dröjer ett par veckor, minst, innan han är tillbaka igen, förklarar läkaren.**
+**Jag går fram till gruppen. Hans ansikte är bekant och ändå obekant. Han är nergången, slut. Läkaren förklarar att natten varit upprivande. Energikommissionens majoritetsbeslut har härjat hans mardrömmar. Hans krafter är på upphällningen. Han behöver vila. Det dröjer ett par veckor, minst, innan han är tillbaka igen, förklarar läkaren.**
 
-**     Jag harklar mig. Thorbjörn rätar upp sitt huvud, får syn på mitt presskort. Som en primalreflex dras munnen isär och ett skevt leende förkunnar:”  ...  en röst på centern är en röst på framtiden!”Han sjunker ihop i en rullstol. Han skakar, knäskålarna smattrar mot varann.**
+**Jag harklar mig. Thorbjörn rätar upp sitt huvud, får syn på mitt presskort. Som en primalreflex dras munnen isär och ett skevt leende förkunnar:”  ...  en röst på centern är en röst på framtiden!”Han sjunker ihop i en rullstol. Han skakar, knäskålarna smattrar mot varann.**
 
-**     Jag tittar på läkaren som diskret har skjutit sprutan i Thorbjörns axel. ”Nu blir han sig själv om en stund”, säger läkaren. Under tiden rullar vi bort till Thorbjörns rum. Det är litet, men smakfullt madrasserat från golv till tak. Genom panoramafönstrets diskreta plexigaller ser Thorbjörn ut över en vacker slänt. På slänten har kliniken låtit bygga upp en exakt kopia av gården hemma i Ramvik. På helgerna klär personalen ut sig till Solveig och Grannarna och Thorbjörn sitter framför plexigallret och kör traktor i fantasin, brummar och skäller.**
+**Jag tittar på läkaren som diskret har skjutit sprutan i Thorbjörns axel. ”Nu blir han sig själv om en stund”, säger läkaren. Under tiden rullar vi bort till Thorbjörns rum. Det är litet, men smakfullt madrasserat från golv till tak. Genom panoramafönstrets diskreta plexigaller ser Thorbjörn ut över en vacker slänt. På slänten har kliniken låtit bygga upp en exakt kopia av gården hemma i Ramvik. På helgerna klär personalen ut sig till Solveig och Grannarna och Thorbjörn sitter framför plexigallret och kör traktor i fantasin, brummar och skäller.**
 <!-- PAGE 75 END -->
 
 <!-- PAGE 76 START -->
@@ -285,7 +285,7 @@ Den inleds så här:
 <!-- PAGE 76 END -->
 
 <!-- PAGE 77 START -->
-**     Jag sitter nersjunken i en hjärtformad sammetsalkov, belyst av havsgröna snäckor. På det låga marmorbordet tronar ett stearinljus i form av en brudklädd fallos. Till vänster om mig den extatiska orkestern, till höger ett lysande akvarium med elektriska ålar. Mitt emot mig - Storfursten! Järnhanden! Diktatorn! Pampen med stort P - Hans Ericson!**
+**Jag sitter nersjunken i en hjärtformad sammetsalkov, belyst av havsgröna snäckor. På det låga marmorbordet tronar ett stearinljus i form av en brudklädd fallos. Till vänster om mig den extatiska orkestern, till höger ett lysande akvarium med elektriska ålar. Mitt emot mig - Storfursten! Järnhanden! Diktatorn! Pampen med stort P - Hans Ericson!**
 ::: indent
 – Kalla mig Dolores, det gör dom andra flickorna!
 :::

@@ -10,9 +10,9 @@ På sensommaren det här året tilldelas jag Rydöpriset: ”*För den fria tank
 
 **”Rolf Börjlind tilldelas Rydöpriset för sin manusproduktion till film, radio och tv. I underhållningsprogram som Kabaret Öppen Kanal, Lorry, Jönssonligan och Sista Skriket har Börjlind med sina texter på ett enastående sätt gisslat makthavare, fördomar och företeelser i vårt samhälle.**
 
-**     Det hans vassa penna format har klivit in i våra vardagsrum och biosalonger och fått oss att besinna ett djupt allvar bakom det vi lockas att skratta åt.**
+**Det hans vassa penna format har klivit in i våra vardagsrum och biosalonger och fått oss att besinna ett djupt allvar bakom det vi lockas att skratta åt.**
 
-**    Rolf Börjlind är nyskapande som samhällskritiker. Han har gång på gång sökt nya former och vägar för sitt engagemang och sitt skrivande. Genom detta har han också banat sig en särpräglad och värdefull plats i samtidsdebatten.”**
+**Rolf Börjlind är nyskapande som samhällskritiker. Han har gång på gång sökt nya former och vägar för sitt engagemang och sitt skrivande. Genom detta har han också banat sig en särpräglad och värdefull plats i samtidsdebatten.”**
 
 Vad hände med ikonoklasten och folkhemsterroristen? Hädelsens härförare?
 ::: indent
@@ -47,27 +47,27 @@ Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framf�
 
 **Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år.**
 
-**     Själva satt vi i en rävsax.**
+**Själva satt vi i en rävsax.**
 
-**     Vi tvingades uppfostra våra barn med metoder som vi själva inte hade upplevt, till ett samhälle som vi inte kände till. Så vi lärde dom självkontroll. Ett annat ord för anpassning. Lärde dom att uppträda civiliserat i en ociviliserad tillvaro. En tillvaro som berövade dom varje möjlighet till ett värdigt liv.**
+**Vi tvingades uppfostra våra barn med metoder som vi själva inte hade upplevt, till ett samhälle som vi inte kände till. Så vi lärde dom självkontroll. Ett annat ord för anpassning. Lärde dom att uppträda civiliserat i en ociviliserad tillvaro. En tillvaro som berövade dom varje möjlighet till ett värdigt liv.**
 
-**     Och vi visste inte vad vi skulle göra.**
+**Och vi visste inte vad vi skulle göra.**
 
-**     Vart vi vände oss föll det bestående sönder. Levnadssätt och livsstilar förbrukades hänsynslöst. Känslan av osamtidighet spred sig. Vi blev främmande för vårt eget samhälle. Främlingar för varann. Våra erfarenheter hade inget nyttovärde. Vår samlade kunskap var värdelös i en tillvaro med helt nya spelregler. Det blev experternas tidevarv, där den största förtjänsten var bristen på erfarenhet. Det förflutna blev ett fängelse. Friheten fanns i framtiden.**
+**Vart vi vände oss föll det bestående sönder. Levnadssätt och livsstilar förbrukades hänsynslöst. Känslan av osamtidighet spred sig. Vi blev främmande för vårt eget samhälle. Främlingar för varann. Våra erfarenheter hade inget nyttovärde. Vår samlade kunskap var värdelös i en tillvaro med helt nya spelregler. Det blev experternas tidevarv, där den största förtjänsten var bristen på erfarenhet. Det förflutna blev ett fängelse. Friheten fanns i framtiden.**
 
-**     Och vi kunde inte orientera oss länge.**
+**Och vi kunde inte orientera oss länge.**
 
-**     Vi gick vilse i oss själva. Solidaritetsytorna mellan oss minskade. Dom sociala avbrotten ökade. Kvinna skildes från man. Föräldrar skildes från barn. Vänner kom och försvann. Lärare byttes ut. Arbeten växlade. Sociala kontakter knöts och kapades. Rötterna slets sönder. Svalget mellan människan och människans ort ökade. Vi hade ingen jord längre. Ingen tillhörighet. Vi hade inget bruk att fylkas runt, ingen by att känna förankring i. Vi hade inget gemensamt arv längre - vi hade gjort oss urarva.**
+**Vi gick vilse i oss själva. Solidaritetsytorna mellan oss minskade. Dom sociala avbrotten ökade. Kvinna skildes från man. Föräldrar skildes från barn. Vänner kom och försvann. Lärare byttes ut. Arbeten växlade. Sociala kontakter knöts och kapades. Rötterna slets sönder. Svalget mellan människan och människans ort ökade. Vi hade ingen jord längre. Ingen tillhörighet. Vi hade inget bruk att fylkas runt, ingen by att känna förankring i. Vi hade inget gemensamt arv längre - vi hade gjort oss urarva.**
 
-**     Så vi vigde oss åt konsumtionskult och duglighetsdyrkan.**
+**Så vi vigde oss åt konsumtionskult och duglighetsdyrkan.**
 
-**     Vi blev socialt disciplinerade. Lojala. Plikttrogna ... och utbytbara. Stansade ur samma mall. Måttskurna för ett samhälle utan annan destination än sitt eget långsiktiga sönderfall. Vi blev kuggar bland kuggar på ett drev som snurrade snabbare än våra hjärnor orkade registrera. Vår förmåga att kommunicera och artikulera oss bröt samman. Vi visste inte vilka vi var, visste inte varför vi levde. Villrådigheten blev kronisk. Vi hade ingen egen själ längre, eller ens ett gemensamt öde. Utom det, att vara statistiska slaktdjur åt planerarnas prognoser.**
+**Vi blev socialt disciplinerade. Lojala. Plikttrogna ... och utbytbara. Stansade ur samma mall. Måttskurna för ett samhälle utan annan destination än sitt eget långsiktiga sönderfall. Vi blev kuggar bland kuggar på ett drev som snurrade snabbare än våra hjärnor orkade registrera. Vår förmåga att kommunicera och artikulera oss bröt samman. Vi visste inte vilka vi var, visste inte varför vi levde. Villrådigheten blev kronisk. Vi hade ingen egen själ längre, eller ens ett gemensamt öde. Utom det, att vara statistiska slaktdjur åt planerarnas prognoser.**
 
-**     Så varför bjöd vi inte motstånd?**
+**Så varför bjöd vi inte motstånd?**
 
-**    Varför fogade vi oss och lät oss förstummas? Varför höjde vi inte vår röst? Varför lät vi vår värdighet besudlas, rakt framför ögonen på oss ... varför lät vi oss förvandlas till en motståndslös kameleontmänniska? Hade vi inget civilkurage längre? Vågade vi inte ställa oss utanför? Hade vår ryggrad förtvinat? Vad hände med oss?**
+**Varför fogade vi oss och lät oss förstummas? Varför höjde vi inte vår röst? Varför lät vi vår värdighet besudlas, rakt framför ögonen på oss ... varför lät vi oss förvandlas till en motståndslös kameleontmänniska? Hade vi inget civilkurage längre? Vågade vi inte ställa oss utanför? Hade vår ryggrad förtvinat? Vad hände med oss?**
 
-**     Varför försvann vi?”**
+**Varför försvann vi?”**
 :::
 
 Texten trycks i Expressen en vecka efter prisutdelningen.
@@ -477,15 +477,15 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **Ingen visste vem han var, han var inte från trakten, ingen hade sett honom komma. Han bara stod där en dag, en brun skugga med ett långsmalt gevär under armen.**
 
-**     - Si senor?**
+**- Si senor?**
 
-**     Hade Rosalita i baren frågat, när han plötsligt stod utanför.**
+**Hade Rosalita i baren frågat, när han plötsligt stod utanför.**
 
-**     - Nåt att dämpa törsten med? ... jag heter Rosalita.**
+**- Nåt att dämpa törsten med? ... jag heter Rosalita.**
 
-**     Han hade bara vänt sig om, rättat till ryggsäcken och gått. I riktning mot brunnshuset. Rosalita hörde aldrig hans röst. Ingen annan heller, nästan. Mannen sa överhuvudtaget bara ett enda ord under sin korta vistelse i byn. Det sa han som svar till Vattenkvinnan i brunnshuset när hon frågade vad han var ute efter.**
+**Han hade bara vänt sig om, rättat till ryggsäcken och gått. I riktning mot brunnshuset. Rosalita hörde aldrig hans röst. Ingen annan heller, nästan. Mannen sa överhuvudtaget bara ett enda ord under sin korta vistelse i byn. Det sa han som svar till Vattenkvinnan i brunnshuset när hon frågade vad han var ute efter.**
 
-**     - Katter.**
+**- Katter.**
 <!-- PAGE 218 END -->
 
 <!-- PAGE 219 START -->
@@ -494,125 +494,125 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
 
-**     - Sa han bara ”katter”?**
+**- Sa han bara ”katter”?**
 
-**     Frågan var riktad till Vattenkvinnan, som satt inkrupen i ett mörkt hålrum i husets ena vägg, ett slags uråldrig krypta där hon tillbringade dygnets ljusa timmar. Hon var mycket tystlåten. Ingen i byn hade ställt frågor till henne på mycket länge, rörande annat än vattnet, och då nästan alltid i anklagande form: hon tillhörde en lägre sort. I brunnshuset fyllde man sitt krus och försvann.**
+**Frågan var riktad till Vattenkvinnan, som satt inkrupen i ett mörkt hålrum i husets ena vägg, ett slags uråldrig krypta där hon tillbringade dygnets ljusa timmar. Hon var mycket tystlåten. Ingen i byn hade ställt frågor till henne på mycket länge, rörande annat än vattnet, och då nästan alltid i anklagande form: hon tillhörde en lägre sort. I brunnshuset fyllde man sitt krus och försvann.**
 
-**     Vanligtvis.**
+**Vanligtvis.**
 
-**     Nu fyllde man utrymmet runt vattenhålet med reptilsnabb nyfikenhet.**
+**Nu fyllde man utrymmet runt vattenhålet med reptilsnabb nyfikenhet.**
 
-**     - Sa han verkligen bara ”katter”?**
+**- Sa han verkligen bara ”katter”?**
 
-**     - Katter, så sa han ... fast vackrare, viskade Vattenkvinnan från kryptan. Så satte hans ögon punkt.**
+**- Katter, så sa han ... fast vackrare, viskade Vattenkvinnan från kryptan. Så satte hans ögon punkt.**
 
-**     Samtliga stirrade mot hålrummet i väggen.**
+**Samtliga stirrade mot hålrummet i väggen.**
 
-**     - Hur vet du det?**
+**- Hur vet du det?**
 
-**     - Han tittade på mig.**
+**- Han tittade på mig.**
 
-**     - På dig?**
+**- På dig?**
 
-**     - På mitt ansikte.**
+**- På mitt ansikte.**
 
-**     Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få, om ens någon, som tänkte på: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter” och försvunnit?**
+**Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få, om ens någon, som tänkte på: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter” och försvunnit?**
 
-**     Brunnshuset tömdes mycket snabbt. En svärm svarta skalbaggar kilade mellan byns gränder, knastrande, alla i samma riktning. Till och med Vattenkvinnan följde med, en bit bakom, med en kraftig tygbit över huvudet. Ingen vände sig om, alla var på väg till den enda i byn som inte hade varit i brunnshuset: Enögda Bierté, annalisten. Den enda kvinnan i byn som kunde skriva. För övrigt den enda kvinna som hade sett en man tidigare.**
+**Brunnshuset tömdes mycket snabbt. En svärm svarta skalbaggar kilade mellan byns gränder, knastrande, alla i samma riktning. Till och med Vattenkvinnan följde med, en bit bakom, med en kraftig tygbit över huvudet. Ingen vände sig om, alla var på väg till den enda i byn som inte hade varit i brunnshuset: Enögda Bierté, annalisten. Den enda kvinnan i byn som kunde skriva. För övrigt den enda kvinna som hade sett en man tidigare.**
 
-**     En riktig man.**
+**En riktig man.**
 
 **Enögda Biertéhade två friska ögon och en blick som kunde paralysera en jaktfalk i flykten: hon såg mycket bra, speciellt i mörker. Sitt öknamn hade hon aldrig ifrågasatt. Ingen annan heller. Enögda Biertéifrågasatte man inte. På sin höjd bytte man rykten bakom hennes rygg, små rykten, ofarliga, som aldrig skulle våga sig in i Biertés tillvaro.**
 
-**     Till Enögda Biertérasslade samtliga byns kvinnor den eftermiddagen.**
+**Till Enögda Biertérasslade samtliga byns kvinnor den eftermiddagen.**
 
 **- Jag har sett honom.**
 
-**     Enögda Biertéstod i dörröppningen till sitt dova stenhus, hennes röst nådde ut över hela svärmen.**
+**Enögda Biertéstod i dörröppningen till sitt dova stenhus, hennes röst nådde ut över hela svärmen.**
 
-**     Så tystnade hon.**
+**Så tystnade hon.**
 
-**     - Han har sett Vattenkvinnans ansikte ... kröp det upp ur hopen.**
+**- Han har sett Vattenkvinnans ansikte ... kröp det upp ur hopen.**
 
-**     - Och sagt ”katter” till henne ...**
+**- Och sagt ”katter” till henne ...**
 
-**     - Jag vet.**
+**- Jag vet.**
 
-**     Enögda Biertévisste. Naturligtvis. Ingen hade väntat sig annat. Hennes makt byggde på det. Hon hade redan försvunnit in i huset och lämnat ytterdörren på glänt. Svärmen tog det som en blandning av befallning och invit.**
+**Enögda Biertévisste. Naturligtvis. Ingen hade väntat sig annat. Hennes makt byggde på det. Hon hade redan försvunnit in i huset och lämnat ytterdörren på glänt. Svärmen tog det som en blandning av befallning och invit.**
 
 **I Enögda Biertés hus fanns det gott om plats, för alla, även om Vattenkvinnan föredrog att hejda sig vid dörrposten, där hon diskret drog av sin huva.**
 
-**     - Det handlar om den gyllene grenen! började Bierté.**
+**- Det handlar om den gyllene grenen! började Bierté.**
 
-**     Hennes klogula pekfinger hade landat på en tunn bunt dammiga papper mitt på hennes välpolerade träbord. Nu drog hon en krökt nagel längs översta arket och hostade till. Hela svärmen sjönk ner på golvet, alla utom Vattenkvinnan.**
+**Hennes klogula pekfinger hade landat på en tunn bunt dammiga papper mitt på hennes välpolerade träbord. Nu drog hon en krökt nagel längs översta arket och hostade till. Hela svärmen sjönk ner på golvet, alla utom Vattenkvinnan.**
 
-**     - Allt står skrivet, för mycket länge sedan, och nu ska ni få höra vad det handlar om.**
+**- Allt står skrivet, för mycket länge sedan, och nu ska ni få höra vad det handlar om.**
 
-**     Så lyfte Biertéförsiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.**
+**Så lyfte Biertéförsiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.**
 
-**     - ...”En dag ska en man komma till Änkornas By, på andra sidan det öde landskapet. Ingen ska se honom komma, ingen ska veta vem han är. Plötsligt ska han stå där, utanför byns enda bar, en brun skugga med ett långsmalt gevär under armen ... ”**
+**- ...”En dag ska en man komma till Änkornas By, på andra sidan det öde landskapet. Ingen ska se honom komma, ingen ska veta vem han är. Plötsligt ska han stå där, utanför byns enda bar, en brun skugga med ett långsmalt gevär under armen ... ”**
 
-**     - Och en ryggsäck!**
+**- Och en ryggsäck!**
 
-**     Rosalita kröp snabbt ihop igen.**
+**Rosalita kröp snabbt ihop igen.**
 
-**     - ... ”Han ska komma till byn för att skjuta samtliga katter utom en, som han levande ska trä upp på en kraftig ståltråd och hänga ut i byns enda lyktstolpe för att markera sin avfärd.” ...**
+**- ... ”Han ska komma till byn för att skjuta samtliga katter utom en, som han levande ska trä upp på en kraftig ståltråd och hänga ut i byns enda lyktstolpe för att markera sin avfärd.” ...**
 
-**     Vem som i det ögonblicket kvävde ett ljud märktes inte, men det hördes.**
+**Vem som i det ögonblicket kvävde ett ljud märktes inte, men det hördes.**
 
-**     - ... ”Han ska börja sitt skjutande i skymningen och när morgonen kommer ska två personer ha lämnat byn. Mannen är en av dom. Av honom återstår bara kattlik och en gnyende hundvalp som han släppt ut i skydd av mörkret.” ...**
+**- ... ”Han ska börja sitt skjutande i skymningen och när morgonen kommer ska två personer ha lämnat byn. Mannen är en av dom. Av honom återstår bara kattlik och en gnyende hundvalp som han släppt ut i skydd av mörkret.” ...**
 
-**     Enögda Biertésänkte pappret en aning, hon visste redan vad som skulle komma.**
+**Enögda Biertésänkte pappret en aning, hon visste redan vad som skulle komma.**
 
-**     - Vem mer ska försvinna ur byn?**
+**- Vem mer ska försvinna ur byn?**
 
-**     Det var inte Vattenkvinnan som frågade. Det var en röst vilken som helst ur svärmen på golvet, och Biertédrog in luft. Hennes blick släppte pappret, för första gången, och hon talade utan facit.**
+**Det var inte Vattenkvinnan som frågade. Det var en röst vilken som helst ur svärmen på golvet, och Biertédrog in luft. Hennes blick släppte pappret, för första gången, och hon talade utan facit.**
 
-**     - Den enda i byn som känner igen en man.**
+**- Den enda i byn som känner igen en man.**
 
-**     - En riktig man, menar du.**
+**- En riktig man, menar du.**
 
-**     Nu var det Vattenkvinnans röst. Att hon överhuvudtaget yttrade sig spred en viss oro på golvet. Att hon dessutom hade en helt ny klang i rösten var det nog bara Enögda Biertésom uppfattade.**
+**Nu var det Vattenkvinnans röst. Att hon överhuvudtaget yttrade sig spred en viss oro på golvet. Att hon dessutom hade en helt ny klang i rösten var det nog bara Enögda Biertésom uppfattade.**
 
-**     - Just det, kära du, en riktig ... man.**
+**- Just det, kära du, en riktig ... man.**
 
-**     Biertés sätt att uttala ordet ”man” lämnade ingen tvekan hos dom övriga kvinnorna. Anonyma suckar blandades med mer svårtydda läten, torra läppar drogs isär över glest belägna tänder. I den allmänna upphetsningen var det ingen som märkte Enögda Biertés blick när den landade i Vattenkvinnans ögon ... där låg den ett par sekunder innan den självmant drog sig tillbaka: hennes ansikte var fullt återställt när kvinnan vid hennes fötter oroligt frågade.**
+**Biertés sätt att uttala ordet ”man” lämnade ingen tvekan hos dom övriga kvinnorna. Anonyma suckar blandades med mer svårtydda läten, torra läppar drogs isär över glest belägna tänder. I den allmänna upphetsningen var det ingen som märkte Enögda Biertés blick när den landade i Vattenkvinnans ögon ... där låg den ett par sekunder innan den självmant drog sig tillbaka: hennes ansikte var fullt återställt när kvinnan vid hennes fötter oroligt frågade.**
 
-**     - Vems katt ska han börja med?**
+**- Vems katt ska han börja med?**
 
-**     Det var Kvinnan utan sorg som frågade och i hennes inandning slog ekot av det första skottet in i rummet. Enögda Bierténästan viskade sitt svar till kvinnan.**
+**Det var Kvinnan utan sorg som frågade och i hennes inandning slog ekot av det första skottet in i rummet. Enögda Bierténästan viskade sitt svar till kvinnan.**
 
-**     - Din.**
+**- Din.**
 
-**     Mer blev inte sagt hos Bierté, mer behövde inte sägas. Vattenkvinnan försvann först, ljudlöst, svärmen lämnade huset dröjande, rasslade mellan gränderna och kröp in i sina släckta grottor.**
+**Mer blev inte sagt hos Bierté, mer behövde inte sägas. Vattenkvinnan försvann först, ljudlöst, svärmen lämnade huset dröjande, rasslade mellan gränderna och kröp in i sina släckta grottor.**
 
 **Den natten sov ingen i byn. Inte kvinnorna, som för varje nytt skott ökade antalet korstecken. Inte den bruna skuggan, som målmedvetet uppfyllde sin profetia, eko för eko. Inte Vattenkvinnan, som mycket omsorgsfullt tvättade sitt vackra ansikte i kallt klart vatten och inte heller den mörka skepnad som med stora svårigheter krängde in sin kropp i en smäcker rosenröd klänning: bara det kraftiga tygstycket föll lätt på plats över huvudet.**
 
-**     Inte ens när inga skott mer föll, somnade byn.**
+**Inte ens när inga skott mer föll, somnade byn.**
 
 **Och först när gryningen hade övergått i spröd värme, vågade sig kvinnorna ut ur sina grottor, hopkurade, utvakade, tassande längs dom bleka solstrålarna. Fler och fler, sammanklumpade, alla rasslande i samma riktning en gång till, kryssande mellan sönderskjutna kadaver: kattlik, överallt, en del redan invaderade av namnlösa kräldjur, andra på väg att bli fågelfrukost.**
 
-**     Sakta drog svärmen genom Änkornas By, genom gränderna och ut över det lilla torget, där den hejdade sig, stirrade, och släppte upp ett besviket sus mot den tomma lyktstolpen.**
+**Sakta drog svärmen genom Änkornas By, genom gränderna och ut över det lilla torget, där den hejdade sig, stirrade, och släppte upp ett besviket sus mot den tomma lyktstolpen.**
 
-**     - Så var det inte skrivet, viskade Rosalita.**
+**- Så var det inte skrivet, viskade Rosalita.**
 
-**     Och fick ljudlöst bifall av den övriga svärmen - så var det inte skrivet. Oroligt rörde sig alla vidare, målet var Enögda Biertés hus, där redan på långt håll den tunga dörren syntes stängd och järnbommen pålagd utifrån.**
+**Och fick ljudlöst bifall av den övriga svärmen - så var det inte skrivet. Oroligt rörde sig alla vidare, målet var Enögda Biertés hus, där redan på långt håll den tunga dörren syntes stängd och järnbommen pålagd utifrån.**
 
-**     Svärmen andades ut.**
+**Svärmen andades ut.**
 
-**     - På den punkten läste hon rätt, sa Kvinnan utan sorg, halvhögt.**
+**- På den punkten läste hon rätt, sa Kvinnan utan sorg, halvhögt.**
 
-**     Och sedan återvände man till sitt.**
+**Och sedan återvände man till sitt.**
 
 **Rosalita var den första som behövde vatten den dagen, till blommorna på sin mors grav. Hon gläntade på Vattenkvinnans dörr och stack in sitt krus. Ingen hand tog emot på andra sidan.**
 
-**     - Vakna! nästan skrek hon in mot kryptan.**
+**- Vakna! nästan skrek hon in mot kryptan.**
 
-**     Men ingen vaknade därinne. Allra minst Enögda Bierté, som hängde naken från vägg till vägg i det trånga brunnsrummet, uppträdd på en kraftig stålwire, in genom hennes gapande mun och ut ur den blödande buken. Hennes enda kvarvarande öga ryckte fortfarande, annars var allt stilla. Det enda som hördes var ett svagt gnyende valpljud från ett kraftigt tygstycke inne i kryptan.**
+**Men ingen vaknade därinne. Allra minst Enögda Bierté, som hängde naken från vägg till vägg i det trånga brunnsrummet, uppträdd på en kraftig stålwire, in genom hennes gapande mun och ut ur den blödande buken. Hennes enda kvarvarande öga ryckte fortfarande, annars var allt stilla. Det enda som hördes var ett svagt gnyende valpljud från ett kraftigt tygstycke inne i kryptan.**
 
-**     Att Vattenkvinnan hade försvunnit med den bruna skuggan tog alla för givet, även om det bar emot, vilket gjorde att ingen i byn på ett bra tag märkte den egendomliga bismak vattnet hade börjat få. Då hade Kvinnan utan sorg redan flyttat till en bensinmack i Turkey Flat, halvvägs mellan Tombstone och Dallas, där hon ett halvår senare tog sig namnet Magdalena.**
+**Att Vattenkvinnan hade försvunnit med den bruna skuggan tog alla för givet, även om det bar emot, vilket gjorde att ingen i byn på ett bra tag märkte den egendomliga bismak vattnet hade börjat få. Då hade Kvinnan utan sorg redan flyttat till en bensinmack i Turkey Flat, halvvägs mellan Tombstone och Dallas, där hon ett halvår senare tog sig namnet Magdalena.**
 
-**     Föga anade hon vem som skulle dyka upp.**
+**Föga anade hon vem som skulle dyka upp.**
 :::
 
 Jag skickar texten. Mannen från resemagasinet hör av sig, han gillar historien, men är tveksam till slutet.
@@ -632,29 +632,29 @@ Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så j
 <!-- PAGE 220 START -->
 **Jag är en ensam man med vingklippta vanor. Min lägenhet är trång. Jag har slitna gardiner, målade med måsar i brunt, på väggen hänger ett gammalt långsmalt gevär, taklampan har marmorerad kupa. Jag har en smal och välfylld bokhylla utan överraskningar, ***”Samlagets ställningar”*** samlar damm på översta raden. Mitt akvarium har rent vatten och en ljusgrön docka på botten, inga fiskar, på mitt nattduksbord ligger ett tummat exemplar av ***”Såsom käril ur skeppen”***... ganska spaciös posei, jag föredrar det. Jag har en tunn skivbunt, med Scarlatti som favorit. Det är en mycket enkel lägenhet med en gedigen lukt, komponerad av ensamhet och hygien och ett svagt stråk Anticimex. Jag trivs, i bemärkelsen sover gott. Jag har vad jag behöver, då och då en kvinna som rinner in och ut. Jag tänker aldrig på det som ett hem. Jag har bott här i sex år utan telefon.**
 
-**     Jag har en mycket vacker katt.**
+**Jag har en mycket vacker katt.**
 
-**     Män kommer upp till mig ibland och dricker ur min konjak, talar ivrigt om allt som måste utföras, skrattar, går och lämnar kall rök i lakanen.**
+**Män kommer upp till mig ibland och dricker ur min konjak, talar ivrigt om allt som måste utföras, skrattar, går och lämnar kall rök i lakanen.**
 
-**     Jag har lämnat allt det där.**
+**Jag har lämnat allt det där.**
 
-**     På söndagarna funderar jag på andliga ting, annars lägger jag mest patience och vattnar mina stenar med osläckt kalk. En gång var jag mycket nära en stor kärlek.**
+**På söndagarna funderar jag på andliga ting, annars lägger jag mest patience och vattnar mina stenar med osläckt kalk. En gång var jag mycket nära en stor kärlek.**
 
-**     Det var på den tiden jag såg mig om i världen, reste överallt, tog påhugg där det fanns, överlevde, lärde mig språk och människor... ett tag jobbade jag för en distriktsförvaltning i Mexico och hade till uppgift att skjuta av katter på landsbygden.**
+**Det var på den tiden jag såg mig om i världen, reste överallt, tog påhugg där det fanns, överlevde, lärde mig språk och människor... ett tag jobbade jag för en distriktsförvaltning i Mexico och hade till uppgift att skjuta av katter på landsbygden.**
 
 Kommen så långt känner jag att jag villåt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
 
 **Mannen som satt vid det skitiga barfönstret var brunbränd och mager, inte tärd, men mager. Ett långsmalt gevär stod lutat mot träväggen intill honom, på bordet stod en flaska Wild Turkey. Han hällde upp ett glas av den bruna drycken och undrade om macken var uppkallad efter whiskyn. Turkey Flat. Förmodligen inte. Ute vid pumpen stod en rostig ambulans, ett par hundar rörde sig längs oljefaten, värmen dallrade över asfalten.**
 
-**     Klockan var strax efter ett.**
+**Klockan var strax efter ett.**
 
-**     - Vill du ha nåt från menyn?**
+**- Vill du ha nåt från menyn?**
 
-**     Det var servitrisen som frågade. På hennes namnbricka stod ”Magdalena”. Hon hade grå jeans och en vit kortärmad blus på sig, hennes bruna lockar nådde ner till axlarna.**
+**Det var servitrisen som frågade. På hennes namnbricka stod ”Magdalena”. Hon hade grå jeans och en vit kortärmad blus på sig, hennes bruna lockar nådde ner till axlarna.**
 
-**     - Nej, det är bra, sa mannen.**
+**- Nej, det är bra, sa mannen.**
 
-**     Han log till och såg hur en svart fågel landade en bit innanför dörren. Magdalena följde hans blick.**
+**Han log till och såg hur en svart fågel landade en bit innanför dörren. Magdalena följde hans blick.**
 
-**     - En magpie, sa hon. Klyver man tungan på den kan man lära den att prata.**
+**- En magpie, sa hon. Klyver man tungan på den kan man lära den att prata.**
 <!-- PAGE 220 END -->

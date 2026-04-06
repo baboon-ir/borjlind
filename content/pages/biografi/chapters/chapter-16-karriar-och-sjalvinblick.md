@@ -280,35 +280,35 @@ Jag skriver en text till katalogen som jag döper efter ett lysande uttryck av C
 
 **”... sitter han stilla, inuti en vandringsstav av elfenben: han finns inte, överallt. Han har sett ett okänt land, han såg: prinsessans far höll ut sin beryktade hand, tio människor försökte tyda hans gest. Ingen återvände.**
 
-**     Men världen är vacker.**
+**Men världen är vacker.**
 <!-- PAGE 185 END -->
 
 <!-- PAGE 186 START -->
-**     Carsten är vacker. Amis är vacker. Adam och Lilith? Kanske, som flisan i Dagens Öga ... hon som sköts för sin skönhets skull.**
+**Carsten är vacker. Amis är vacker. Adam och Lilith? Kanske, som flisan i Dagens Öga ... hon som sköts för sin skönhets skull.**
 
-**     Och var finns?**
+**Och var finns?**
 
-**     Skuggan av Big C ... varje timme rinner ett språk genom smärtan, som besvärjelse, neonskelett, och en röst som viskar ur gränden:**
+**Skuggan av Big C ... varje timme rinner ett språk genom smärtan, som besvärjelse, neonskelett, och en röst som viskar ur gränden:**
 
-**     - Galen är han ... se! Högt strålar Guds ljus ur flickans slida ...**
+**- Galen är han ... se! Högt strålar Guds ljus ur flickans slida ...**
 
-**     Och målningarna gråter ... söndag, onsdag, släpar ett stup över duken, en portkod till evigheten? Nej, handen är svart, tecknet är svart, handen sveper sin signatur genom ljuset och barnet somnar med avföringen som huvudkudde.**
+**Och målningarna gråter ... söndag, onsdag, släpar ett stup över duken, en portkod till evigheten? Nej, handen är svart, tecknet är svart, handen sveper sin signatur genom ljuset och barnet somnar med avföringen som huvudkudde.**
 
-**     Men världen är vacker, och var finns?**
+**Men världen är vacker, och var finns?**
 
 **Inuti har han rett sig en fristad, tecknet som järtecken: öga, nyckel, mun ... han säger att jag är en tjuv och han är en clown och vi ska aldrig mer kunna älska.**
 
-**     Och ändå?**
+**Och ändå?**
 
-**     Vem vet ... gåtans tjusning ligger inte i svaret, han minns vad jag minns:”kriget vaggade fram och tillbaka, gammalt i går´n” ... och vi var dom enda som fattade varför den Blinda Kvinnan var så mån om sin legend: i sista ordet låg hennes blick, och ordet var.**
+**Vem vet ... gåtans tjusning ligger inte i svaret, han minns vad jag minns:”kriget vaggade fram och tillbaka, gammalt i går´n” ... och vi var dom enda som fattade varför den Blinda Kvinnan var så mån om sin legend: i sista ordet låg hennes blick, och ordet var.**
 
-**     Så.**
+**Så.**
 
-**     Ingen annan väntar, eller erbjuder ens en flik av motsvarighet, så jag kan bara vittna om detta: sin tid, som är min tid, som är vår stund på jorden, sin tid har han målat in i ett ohyggligt ultimatum.**
+**Ingen annan väntar, eller erbjuder ens en flik av motsvarighet, så jag kan bara vittna om detta: sin tid, som är min tid, som är vår stund på jorden, sin tid har han målat in i ett ohyggligt ultimatum.**
 
-**     - Älskar ni mig!**
+**- Älskar ni mig!**
 
-**     Som om världen var vacker, och var fanns ... medan natten obönhörligen faller.”**
+**Som om världen var vacker, och var fanns ... medan natten obönhörligen faller.”**
 
 ::: part
 :::
@@ -391,27 +391,27 @@ På uppdrag av Filmfestivalen i Göteborg skriver jag en text till tidningen ”
 
 **”Som tortyr.**
 
-**     Att se min text gestaltad på duk sker alltid i ett tillstånd av motbjudande upphetsning: jag vet på förhand att gestaltningen aldrig kommer att vara vad jag en gång upplevde - den kan vara bättre eller sämre, men den är aldrig exakt så som den föddes i min fantasi. Replikerna har aldrig exakt den över- eller underton som jag hörde, aldrig exakt den melodi eller pausering som viskade i mig.**
+**Att se min text gestaltad på duk sker alltid i ett tillstånd av motbjudande upphetsning: jag vet på förhand att gestaltningen aldrig kommer att vara vad jag en gång upplevde - den kan vara bättre eller sämre, men den är aldrig exakt så som den föddes i min fantasi. Replikerna har aldrig exakt den över- eller underton som jag hörde, aldrig exakt den melodi eller pausering som viskade i mig.**
 
-**     Självklart.**
+**Självklart.**
 
-**     För det första är det en omöjlighet att vid överföringen från inre gestaltning till yttre text kalkera den exakta upplevelsen - språket har inte det registret (i bästa fall kan texten, genom att ladda det uteslutna, ge skådespelaren en chans att hitta in i en egen gestaltning som ligger emotionellt nära den jag en gång upplevde - men fallen är sällsynta).**
+**För det första är det en omöjlighet att vid överföringen från inre gestaltning till yttre text kalkera den exakta upplevelsen - språket har inte det registret (i bästa fall kan texten, genom att ladda det uteslutna, ge skådespelaren en chans att hitta in i en egen gestaltning som ligger emotionellt nära den jag en gång upplevde - men fallen är sällsynta).**
 <!-- PAGE 187 END -->
 
 <!-- PAGE 188 START -->
-**     För det andra har min text vandrat genom ett antal andra människors medvetande, människor med mer eller mindre legitim rätt att förvandla texten till sin: producenter, regissörer och skådespelare. I många fall har dessutom ekonomiska moguler haft synpunkter på texten: “***Måste det vara arton arabiska fullblod i den korta scenen? Och varför måste sex av dom ha avskurna öron? Nej, två gotlandsruss och min dotters ridhäst får räcka. Öronen kan ni väl tejpa bort?***”**
+**För det andra har min text vandrat genom ett antal andra människors medvetande, människor med mer eller mindre legitim rätt att förvandla texten till sin: producenter, regissörer och skådespelare. I många fall har dessutom ekonomiska moguler haft synpunkter på texten: “***Måste det vara arton arabiska fullblod i den korta scenen? Och varför måste sex av dom ha avskurna öron? Nej, två gotlandsruss och min dotters ridhäst får räcka. Öronen kan ni väl tejpa bort?***”**
 
 **Att lotsa en text (och hålla den trogen sin ursprungliga innebörd) genom den oerhört komplicerade process som en filmproduktion innebär, skulle av manusförfattaren kräva en ständig fysisk närvaro, ett djupt personligt förtroende för regissören och ett stänk av förakt för dom ekonomiska betingelserna. Samt - en hart när transcendental dialog med dom människor som ska träda in i texten och göra den till “sin”.**
 
-**     Så ser filmskapandet sällan ut.**
+**Så ser filmskapandet sällan ut.**
 
-**     Därför är det, nästan, alltid samma sak: att se ”min” egen text på duk blir en frustrerande form av masochism som jag då och då utsätter mig för.**
+**Därför är det, nästan, alltid samma sak: att se ”min” egen text på duk blir en frustrerande form av masochism som jag då och då utsätter mig för.**
 
-**     Chansen finns ju.**
+**Chansen finns ju.**
 
-**     Chansen att det plötsligt händer: att en gestaltning tränger förbi och in. Det kan vara en enstaka sekvens, kanske bara en blick mellan två ord, eller en fullständigt ”fel” pausering - något som plötsligt lyfter undan hantverket och öppnar ett bråddjup in i mig själv: det var detta jag en gång kände! Det var detta jag avsåg - att se det osedda!**
+**Chansen att det plötsligt händer: att en gestaltning tränger förbi och in. Det kan vara en enstaka sekvens, kanske bara en blick mellan två ord, eller en fullständigt ”fel” pausering - något som plötsligt lyfter undan hantverket och öppnar ett bråddjup in i mig själv: det var detta jag en gång kände! Det var detta jag avsåg - att se det osedda!**
 
-**     Och så länge den chansen finns, sitter jag där ensam i mörkret och torteras.”**
+**Och så länge den chansen finns, sitter jag där ensam i mörkret och torteras.”**
 
 ::: part
 :::

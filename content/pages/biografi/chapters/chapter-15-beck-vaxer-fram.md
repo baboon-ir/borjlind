@@ -54,15 +54,15 @@ Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket 
 <!-- PAGE 167 START -->
 **”Det är påskafton 1970. Lars Wellström är 42 år, han är ättling till Karl XIII, skriver poesi och försörjer sig som socialassistent. Han kliver in genom en port i Aspudden. Porten leder till tatueraren Doc Forests ateljé - inklämd mellan en tobaksaffär och en konsumbutik. Lars har aldrig tidigare träffat tatueraren. Han skakar hand med Doc Forest och säger:**
 
-**     - Du får hela min kropp.**
+**- Du får hela min kropp.**
 
-**     Det är upptakten till ett mycket märkligt människoöde. Doc Forest påbörjar ett konstnärligt arbete utan motstycke i världen. Under 13 år täcker han den överlämnade kroppen med en serie unika gamla japanska motiv. Lars blir den enda människan i världen med en hel kroppstatuering utförd av samma tatuerare.**
+**Det är upptakten till ett mycket märkligt människoöde. Doc Forest påbörjar ett konstnärligt arbete utan motstycke i världen. Under 13 år täcker han den överlämnade kroppen med en serie unika gamla japanska motiv. Lars blir den enda människan i världen med en hel kroppstatuering utförd av samma tatuerare.**
 
-**     Dom blir också ett par.**
+**Dom blir också ett par.**
 
-**     På en fråga från en reporter om hur det känns att gå på en överfull badstrand svarar Wellström:**
+**På en fråga från en reporter om hur det känns att gå på en överfull badstrand svarar Wellström:**
 
-**     - Som en Rolls-Royce bland tusen folkvagnar.**
+**- Som en Rolls-Royce bland tusen folkvagnar.**
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/198.png)
 
@@ -440,11 +440,11 @@ Vid det här stadiet i en kriminalroman, efter drygt tvåtredjedelar av boken, b
 
 **”Klockan är strax efter elva på kvällen. Det är fem minusgrader ute. Folk huttrar sig fram längs husfasaderna, alla vill in i värmen. Offret, en man, är på väg hem från en bioföreställning. Han har hustrun vid sin sida och har ingen aning om att han ska vara död om drygt tio minuter. Ingen hör vad paret viskar till varandra. Neonljusen från en skyltreklam slår blågröna strimmor över snön på trottoaren, en avlägsen biltuta hörs, musik från en krog tränger ut, en berusad man korsar gatan med en varmkorv i handen. Inne på kyrkogården sneddar en prostituerad mellan två gravstenar av svart diabas, en korp landar i en hängränna sex våningar upp i Skandiahuset, tre våningar ner släcks en kontorslampa. Offret passerar en mörk port och närmar sig dödsögonblicket, vinden drar kyla genom hans kläder, hustrun huttrar till, de går tätt intill varandra.**
 
-**     Strax bakom paret går gärningsmannen.**
+**Strax bakom paret går gärningsmannen.**
 
-**     Han har inte så långt fram, hans rörelser är målmedvetna och tysta. Det är vinter och vind och sporadisk biltrafik, ingen hör hans steg. Nu är han ikapp. Han höjer vapnet, klockan är 23.21.30, knappt en decimeter från offrets kropp avlossar han två skott. Det första går rakt in i offrets rygg, högt upp, det andra snuddar ena skuldran och träffar offrets hustru. Offret faller, hustrun skriker och gärningsmannen försvinner in på en trång, mörk gata ... för alltid.**
+**Han har inte så långt fram, hans rörelser är målmedvetna och tysta. Det är vinter och vind och sporadisk biltrafik, ingen hör hans steg. Nu är han ikapp. Han höjer vapnet, klockan är 23.21.30, knappt en decimeter från offrets kropp avlossar han två skott. Det första går rakt in i offrets rygg, högt upp, det andra snuddar ena skuldran och träffar offrets hustru. Offret faller, hustrun skriker och gärningsmannen försvinner in på en trång, mörk gata ... för alltid.**
 
-**     00.06 dödförklaras offret på Sabbatsberg.”**
+**00.06 dödförklaras offret på Sabbatsberg.”**
 
 Sann kliché: Du vet exakt var du befann dig när Kennedy och Palme mördades och när World Trade Center rasade ihop, om du är tillräckligt gammal (kanske också när Buddy Holly dog i en flygplanskrasch 1959, om du är riktigt gammal). Jag vet exakt var jag befann mig vid alla fyra tillfällena. Inomhus. Ett besked kom via radio, tre via tv.
 ::: indent
@@ -585,17 +585,17 @@ Jag kontaktas av två grävande journalister som jag har stor respekt för, Toma
 
 **”Erik Penser tar tåget tomhänt till Stockholm för att bli Sveriges rikaste man. Anders Wall slänger Handelshögskolans kurslitteratur för att sälja kaniner och nå finanstoppen. Gabriel Urwitz spionerar på PK-banken med kikare och tränger sig in i banketablissemanget. Historierna valsas om och om igen i finansvärldens tummelplats, den Gyllene Triangeln runt Norrmalmstorg. Vår berättelse handlar om några pojkar, förförda av 80-talets exempellösa framgångsmyter, som frågar sig:**
 
-**     - Varför kan inte vi göra som andra gör?**
+**- Varför kan inte vi göra som andra gör?**
 
-**     I augusti 1986 avslöjades den största banksvindeln i svensk historia. Bakom tv-inslag och feta rubriker om huvudmän i Köpenhamn och Hongkong skymtade två unga svenska banktjänstemän i 20-årsåldern.**
+**I augusti 1986 avslöjades den största banksvindeln i svensk historia. Bakom tv-inslag och feta rubriker om huvudmän i Köpenhamn och Hongkong skymtade två unga svenska banktjänstemän i 20-årsåldern.**
 
-**     Några månader tidigare stod en notis i kvällspressen om två ynglingar i finansvärlden och deras premieobligationsaffärer i miljonklassen.**
+**Några månader tidigare stod en notis i kvällspressen om två ynglingar i finansvärlden och deras premieobligationsaffärer i miljonklassen.**
 
-**     Händelser till synes utan samband mellan olika inblandade.**
+**Händelser till synes utan samband mellan olika inblandade.**
 
-**     Det här manuset är resultatet av en detaljerad kartläggning av den så kallade NBC-svindeln och det lilla, men framgångsrika bolaget Bengtsson och Bengtsson Finans AB. Vi etablerar ett oavvisligt samband mellan bolaget och svindeln, och följer förgreningar in i den absoluta toppen av knarkhanteringen i Sverige. Vi bygger vår redogörelse på känt och okänt material, delvis unikt, och kommer i NCB-härvan fram till delvis andra slutsatser än åklagarmyndigheten. Vi konfronteras med polisens maktlöshet inför knarkkungarnas undanmanövrer och upprörs över statliga myndigheters bristande intresse att komma till rätta med finansvärldens yrkeskodex:**
+**Det här manuset är resultatet av en detaljerad kartläggning av den så kallade NBC-svindeln och det lilla, men framgångsrika bolaget Bengtsson och Bengtsson Finans AB. Vi etablerar ett oavvisligt samband mellan bolaget och svindeln, och följer förgreningar in i den absoluta toppen av knarkhanteringen i Sverige. Vi bygger vår redogörelse på känt och okänt material, delvis unikt, och kommer i NCB-härvan fram till delvis andra slutsatser än åklagarmyndigheten. Vi konfronteras med polisens maktlöshet inför knarkkungarnas undanmanövrer och upprörs över statliga myndigheters bristande intresse att komma till rätta med finansvärldens yrkeskodex:**
 
-**     - Pengar är pengar, var dom än kommer ifrån.”**
+**- Pengar är pengar, var dom än kommer ifrån.”**
 
 SVT:s jurister stoppar serien. Dom anser att risken för en stämning från några av dom inblandade är överhängande och är inte beredda att ta den striden.
 ::: indent
@@ -761,9 +761,9 @@ Jag skriver en text till deras katalog:
 
 **Vi bröt oss in i samtiden för att bekräfta det obefintliga. Ormar i frack cirklade runt vår krater, saxen klippte i bakgrunden, det låg femton stillbilder av människor vid våra fötter: Vi älskar er, viskade dom. Mannen i bakgrunden nådde knappt ner till sina händer, han var sjuk, kvinnan till vänster höll en otäck flaska i sin hand, hon hade bråttom. Det var dag och natt, spelet pågick oavbrutet och vi frågade oss: hur länge orkar vi leta efter nåt som aldrig har försvunnit?**
 
-**     Så länge det behövs.**
+**Så länge det behövs.**
 
-**     Så vi lärde oss att se det alla andra blundar för, det djupt förrådda. Vi lärde oss leva, inte överleva. Älska, i kraft av oändlig utsatthet: vi lärde oss tassa på tundror av övergiven innerlighet. Långt därute, där sårbarheten är den enda trygghet som finns. Nu står vi hudlösa inför trevande generationer och berättar hur ärren kom till; hur sanningen ser ut när ingenting annat återstår. Utom det som tigger om tystnad. Det normala, uppfött på grisfett och cement. Det som ingenting äger, utom skuggan av en växande skam. Nu står vi med nakna ådror och berättar historien om mannen som bränns på bål: två gånger försöker han stoppa sin egen aska i munnen för att påskynda sin död. Det är mycket vackert. Den tredje gången avstår han. Vad gör han då? Något mycket värre. Han ler.**
+**Så vi lärde oss att se det alla andra blundar för, det djupt förrådda. Vi lärde oss leva, inte överleva. Älska, i kraft av oändlig utsatthet: vi lärde oss tassa på tundror av övergiven innerlighet. Långt därute, där sårbarheten är den enda trygghet som finns. Nu står vi hudlösa inför trevande generationer och berättar hur ärren kom till; hur sanningen ser ut när ingenting annat återstår. Utom det som tigger om tystnad. Det normala, uppfött på grisfett och cement. Det som ingenting äger, utom skuggan av en växande skam. Nu står vi med nakna ådror och berättar historien om mannen som bränns på bål: två gånger försöker han stoppa sin egen aska i munnen för att påskynda sin död. Det är mycket vackert. Den tredje gången avstår han. Vad gör han då? Något mycket värre. Han ler.**
 
-**     Det är så det ser ut”**
+**Det är så det ser ut”**
 <!-- PAGE 180 END -->

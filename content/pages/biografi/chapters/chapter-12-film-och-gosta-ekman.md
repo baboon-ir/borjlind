@@ -1227,7 +1227,7 @@ Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett
 
 **”Förmågan att skapa och reagera för symboler innebär en väsentlig skillnad mellan människans värld och djurens. Utan symboler skulle människans liv vara ett liv av omedelbara begär, omedelbara sensationer: hon skulle vara bunden till ett förflutet som var kortare än hennes egen livstid, utlämnad åt en framtid som hon varken kunde förutse eller bereda sig på. I en sådan värld skulle det som var utom hörhåll aldrig kunna nås, och bortom synhåll skulle betyda borta ur sinnet. Med hjälp av symbolerna bygger människan en sammanhängande värld av iakttagna fakta och glimtar av individuell erfarenhet.**
 
-**    Oförmågan att förstå symbolikens roll i människolivet har vållat ett svårt missförstånd ifråga om människans natur. Eftersom symbolerna är subjektiva till sin uppkomst och inte existerar i naturen utanför människan, tror många att de är overkliga och skadliga eller att en sundare existens skulle vara möjlig om man tog bort alla symboler utom de som kan reduceras till kvantiteter eller till uppenbar verksamhet. De som förfäktar denna åskådning saknar förståelse för människans verkliga väsen och anlag.”**
+**Oförmågan att förstå symbolikens roll i människolivet har vållat ett svårt missförstånd ifråga om människans natur. Eftersom symbolerna är subjektiva till sin uppkomst och inte existerar i naturen utanför människan, tror många att de är overkliga och skadliga eller att en sundare existens skulle vara möjlig om man tog bort alla symboler utom de som kan reduceras till kvantiteter eller till uppenbar verksamhet. De som förfäktar denna åskådning saknar förståelse för människans verkliga väsen och anlag.”**
 
 ::: part
 :::

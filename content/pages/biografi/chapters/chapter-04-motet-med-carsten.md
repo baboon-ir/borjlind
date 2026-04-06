@@ -200,7 +200,7 @@ Det här året, 1967, avrättas också en revolution är legend.
 Che Guevara skjuts ihjäl i Bolivia och förvandlas till ett av västvärldens mest exploaterade varumärken. En kaffekopp? En t-shirt? En slips? Eller kanske ett Che-citat till drinken?
 
 ::: quote
-”**Jag har svurit inför en bild av den gamle och sörjde Kamrat Stalin att jag inte ska vila innan jag sett dessa kapitalistiska bläckfiskar utplånas.”
+**”Jag har svurit inför en bild av den gamle och sörjde Kamrat Stalin att jag inte ska vila innan jag sett dessa kapitalistiska bläckfiskar utplånas.”**
 ***Che Guevara***.
 :::
 

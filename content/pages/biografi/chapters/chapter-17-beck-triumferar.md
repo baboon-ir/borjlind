@@ -21,13 +21,13 @@ Det är riksdagsval i antågande och SVT:s ”*Aktuellt*” ber mig och Sauk att
 
 **”Hej! Jag är politiker! Rösta på mig! Varför? Ja, jag anser att skattetrycket bör inflationsskyddas för att vårdnadsglidningen ska ligga i linje med vår neutralitet: en offensiv allemansrätt ger våra mest utsatta grupper en tryggare Öresundsbro ***utan*** att handikapphyran sänks!**
 
-**     Jag vill också skära ner den ofantliga sektorn genom att mervärdespröva ungdomarnas bytesbalans och skapa 300.000 nya inkomstbortfall via en oparlamentarisk arbetslöshet: invandrarnas kostnadskänslighet får ***aldrig*** dagtinga med regeringens tillväxttakt!**
+**Jag vill också skära ner den ofantliga sektorn genom att mervärdespröva ungdomarnas bytesbalans och skapa 300.000 nya inkomstbortfall via en oparlamentarisk arbetslöshet: invandrarnas kostnadskänslighet får ***aldrig*** dagtinga med regeringens tillväxttakt!**
 
-**     Vidare behövs en solidarisk lågkonjunktur för att miljön ska kunna devalveras inom ramen för tredje världens kärnkraftsutveckling. Det är tufft, men det går!**
+**Vidare behövs en solidarisk lågkonjunktur för att miljön ska kunna devalveras inom ramen för tredje världens kärnkraftsutveckling. Det är tufft, men det går!**
 
-**    Och till sist en hjärtefråga: sänkt moms på aborter! Vilket stärker freden och ger full återbäring på pensionärer, barn, grodmän och småföretagare.**
+**Och till sist en hjärtefråga: sänkt moms på aborter! Vilket stärker freden och ger full återbäring på pensionärer, barn, grodmän och småföretagare.**
 
-**     För övrigt anser jag att vi bör bygga en bro till Baltikum och släppa reklamen fri på Göta Kanal. En röst på mig är en röst på dig!”**
+**För övrigt anser jag att vi bör bygga en bro till Baltikum och släppa reklamen fri på Göta Kanal. En röst på mig är en röst på dig!”**
 
 ::: part
 :::
@@ -676,11 +676,11 @@ På tal om resor: Tidskriften ”*Resguide*” hör av sig igen och vill ha en t
 <!-- PAGE 207 START -->
 **”Jag klev in i en liten handelsbod på en ö i Grekland i akt och mening att köpa benunderkläder. I en svensk butik skulle jag kort och enkelt ha sagt: “***Ett par kalsonger, tack***.” I den lilla handelsboden stod jag framför en skrumpen men vänlig dam från förra seklet som tilltalade med mig obegripliga ord. “***Kalsonger***” sa jag. Det händer att mitt eget språk fungerar även utomlands, speciellt om jag upprepar orden. Inte den här gången. Gumman vindade en aning med ögonen och jag upprepade “***Kalsonger ... underwears.***” Då vände hon sig om och plockade fram en vacker visp i trä. Jag skakade på huvudet. Det förstod hon. Så markerade jag med händerna runt bålen vad jag sökte. Då nickade hon mycket vänligt, gick bakom disken och kom fram med en plasthink. Jag skakade åter på huvudet och gumman log. Jag insåg att vi inte förstod varandra. Hade jag inte drabbats av en lokal bakterie som med explosionsartad hastighet tömt mitt maginnehåll i de kalsonger jag medfört hemifrån, skulle jag omedelbart ha lämnat butiken. Nu var kalsonger ett måste, det sista paret kunde när som helst drabbas av samma häftiga utflöde. Nödd och tvungen tog jag ett steg mot den gamla kvinnan, lossade min livrem, drog ner mina byxor och pekade på kalsongerna.**
 
-**     Då klev han in.**
+**Då klev han in.**
 
-**     Hennes son, en ytterligt välväxt fiskare, brun, frisk och stenhård. Hans blick var mycket tydlig. När han tog ett steg fram försvann jag stapplande ut ur butiken inom tre sekunder. Fem sekunder senare slog bakterien till.**
+**Hennes son, en ytterligt välväxt fiskare, brun, frisk och stenhård. Hans blick var mycket tydlig. När han tog ett steg fram försvann jag stapplande ut ur butiken inom tre sekunder. Fem sekunder senare slog bakterien till.**
 
-**     Jag hatar att resa.”**
+**Jag hatar att resa.”**
 
 Jag kunde ha skildrat ett betydligt mer dramatiskt trauma från samma resa, sammaö. Jag har hyrt en lägenhet i ett vitt hus vid en blåvik. Ensam. Tanken är att jag äntligen ska fågrepp om min kaotiska textmassa, betitlad Baronessan Borelli.
 ::: indent
@@ -726,15 +726,15 @@ Det häråret får jag ett brev från redaktionen för Bra Böckers stora förfa
 
 **”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift.**
 
-**     Av två skäl.**
+**Av två skäl.**
 <!-- PAGE 207 END -->
 
 <!-- PAGE 208 START -->
-**     För det första för att nedtecknandet i sig kan ge sken av att nämnda författarskap de facto har ett lexikalt värde, vilket alla som överhuvudtaget öppnat en bok vet att det inte har.**
+**För det första för att nedtecknandet i sig kan ge sken av att nämnda författarskap de facto har ett lexikalt värde, vilket alla som överhuvudtaget öppnat en bok vet att det inte har.**
 
-**     För det andra för att processen i sig kräver att vissa av upphovsmannens texter måste läsas på nytt - en i vissa avseenden direkt kväljande uppgift.**
+**För det andra för att processen i sig kräver att vissa av upphovsmannens texter måste läsas på nytt - en i vissa avseenden direkt kväljande uppgift.**
 
-**     Det är alltså med stor tveksamhet, för att inte säga olust, denna text ändå kommit på pränt. Av en enda orsak: det vore ännu värre om den inte gjorde det. Vetskapen om Börjlinds infama knep att hänsynslöst utnyttja sitt utanförskap skulle ofelbart ha lett till en besinningslös smädeskampanj mot såväl bokförlaget Bra Böcker, dess utomordentligt kompetenta redaktörer (låt mig här bara nämna Bo Heurling), Sveriges Författarförbund och i slutändan såväl Nobelpriskommittén som Antonia A:son Johnson. Denna text bör därför läsas genom strikt profylaktiska linser. Vilket inte hindrar att innehållet i sig kan ha en sanitär effekt på de läsare som till äventyrs inte har genomskådat den bubbla av förment extas som alltid genomsyrat Börjlinds maniska försök till självförverkligande.**
+**Det är alltså med stor tveksamhet, för att inte säga olust, denna text ändå kommit på pränt. Av en enda orsak: det vore ännu värre om den inte gjorde det. Vetskapen om Börjlinds infama knep att hänsynslöst utnyttja sitt utanförskap skulle ofelbart ha lett till en besinningslös smädeskampanj mot såväl bokförlaget Bra Böcker, dess utomordentligt kompetenta redaktörer (låt mig här bara nämna Bo Heurling), Sveriges Författarförbund och i slutändan såväl Nobelpriskommittén som Antonia A:son Johnson. Denna text bör därför läsas genom strikt profylaktiska linser. Vilket inte hindrar att innehållet i sig kan ha en sanitär effekt på de läsare som till äventyrs inte har genomskådat den bubbla av förment extas som alltid genomsyrat Börjlinds maniska försök till självförverkligande.**
 
 ::: accordion
 **Låt mig från början slå fast: mannen är en epigon. En pimpinett autodidakt som ogenerat iklätt sig subversivt allmängods från ledans estrader.**

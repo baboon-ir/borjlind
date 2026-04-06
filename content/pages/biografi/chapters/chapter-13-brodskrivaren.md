@@ -217,7 +217,7 @@ I mars bjuds jag in till New York för att uppträda i St Marks Church Poetry Pr
 
 **”Gråt inte, Eric, nu när vi äntligen har lärt glömma varann, njut istället: ett gott förlöjligande stärker självförtroendet och en rejäl driftkucku kan inte skattas i pengar. Framsteg från arvsynden vars sexuella kärlek medger: bredare myt! samverkande impulser! döm om min förvåning!**
 
-**    Utan överloppsenergi kan du böja tummen mot pekfingret och följaktligen förbise ekonomiska behov eller tekniska lösningar - produktionskraften är lika meningslös som blotta berättigandet i prestationen. Lär dig att använda verkligheten och inte symbolerna. Tvinna språket till en brutal piska och smiska in sanningarna där dom svider som mest: tydlighet är dynamit.**
+**Utan överloppsenergi kan du böja tummen mot pekfingret och följaktligen förbise ekonomiska behov eller tekniska lösningar - produktionskraften är lika meningslös som blotta berättigandet i prestationen. Lär dig att använda verkligheten och inte symbolerna. Tvinna språket till en brutal piska och smiska in sanningarna där dom svider som mest: tydlighet är dynamit.**
 <!-- PAGE 142 END -->
 
 <!-- PAGE 143 START -->

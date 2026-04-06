@@ -6,121 +6,121 @@
 
 **Men eftersom han var den ende gästen i baren just nu hängde hon sig kvar vid bordet, tillräckligt länge för att mannen skulle göra en gest mot stolen mittemot. Hon satte sig och rättade till sina lockar med en snabb gest. Mannen noterade det.**
 
-**     - Du är inte från trakten? sa hon.**
+**- Du är inte från trakten? sa hon.**
 
-**     Mannen dröjde några sekunder med svaret.**
+**Mannen dröjde några sekunder med svaret.**
 
-**     - Nej.**
+**- Nej.**
 
-**     Så hur har du hamnat här? tänkte Magdalena, medveten om att ingen stannade till vid macken i Turkey Flat om man inte behövde bensin. Och den här mannen hade ingen bil. Han hade plötsligt bara stått i dörren, i motljus, klivit in och satt sig utan ett ljud.**
+**Så hur har du hamnat här? tänkte Magdalena, medveten om att ingen stannade till vid macken i Turkey Flat om man inte behövde bensin. Och den här mannen hade ingen bil. Han hade plötsligt bara stått i dörren, i motljus, klivit in och satt sig utan ett ljud.**
 
-**     Men det var inte hennes sak. Hon var servitris och hade till uppgift att servera och efter gottfinnande konversera.**
+**Men det var inte hennes sak. Hon var servitris och hade till uppgift att servera och efter gottfinnande konversera.**
 
-**     Som nu.**
+**Som nu.**
 
-**     - Du ser inte så glad ut, sa hon försiktigt.**
+**- Du ser inte så glad ut, sa hon försiktigt.**
 
-**     - Inte?**
+**- Inte?**
 
-**     - Nej.**
+**- Nej.**
 
-**     Mannen fyllde på sitt glas igen, långsamt, som om han övervägde. När han ställde ner flaskan igen hade han bestämt sig.**
+**Mannen fyllde på sitt glas igen, långsamt, som om han övervägde. När han ställde ner flaskan igen hade han bestämt sig.**
 
-**     Eller hans behov hade det.**
+**Eller hans behov hade det.**
 
-**     - ... för ett halvår sen var jag mycket nära en stor kärlek ...**
+**- ... för ett halvår sen var jag mycket nära en stor kärlek ...**
 
-**     Han sa det lågt, ner mot bordet, hans röst var blästrad av sand.**
+**Han sa det lågt, ner mot bordet, hans röst var blästrad av sand.**
 
-**     Magdalena rörde sig inte, fågeln i dörren var försvunnen, allt som hördes var det gnisslande ljudet från den tunga, tröga takfläkten. Hon visste inte om mannen tänkte fortsätta prata, eller om hon skulle våga fråga vad som hade hänt. Då harklade han sig, torkade bort en obefintlig droppe från överläppen och sa:**
+**Magdalena rörde sig inte, fågeln i dörren var försvunnen, allt som hördes var det gnisslande ljudet från den tunga, tröga takfläkten. Hon visste inte om mannen tänkte fortsätta prata, eller om hon skulle våga fråga vad som hade hänt. Då harklade han sig, torkade bort en obefintlig droppe från överläppen och sa:**
 
-**     - Jag jobbade för distriktsförvaltningen i det här området ... min uppgift var att skjuta av katter ute i glesbygden ... man var rädd för ett sorts virus som kanske spreds via dom ...**
+**- Jag jobbade för distriktsförvaltningen i det här området ... min uppgift var att skjuta av katter ute i glesbygden ... man var rädd för ett sorts virus som kanske spreds via dom ...**
 
-**     - Jaha?**
+**- Jaha?**
 
-**     - ... så jag tog mig från by till by och sköt av rubbet ...**
+**- ... så jag tog mig från by till by och sköt av rubbet ...**
 
-**     Mannen andades in, som om han tog sats, hans blick tittade förbi Magdalena, han berättade inte för henne, egentligen.**
+**Mannen andades in, som om han tog sats, hans blick tittade förbi Magdalena, han berättade inte för henne, egentligen.**
 
-**      - Då, för ett halvår sen, kom jag till en by nästan längst ut i mitt distrikt, Cooper Canyon ... jag hade aldrig varit där förut, Änkornas by tror jag den hette, eller kallades, männen hade dragit upp i rebellbergen och gått åt allihop ... nu bodde det bara kvinnor där och en jävla massa katter ... jag kom dit med mitt gevär och min ryggsäck ... jag brukar alltid ha en hundvalp med mig i ryggsäcken, nåt vill man ju ersätta med ... dessutom är det lite sällskap, jag är inte speciellt pratsam av mig, går mest i egna tankar, man har en uppgift och man utför den, thats it.**
+**- Då, för ett halvår sen, kom jag till en by nästan längst ut i mitt distrikt, Cooper Canyon ... jag hade aldrig varit där förut, Änkornas by tror jag den hette, eller kallades, männen hade dragit upp i rebellbergen och gått åt allihop ... nu bodde det bara kvinnor där och en jävla massa katter ... jag kom dit med mitt gevär och min ryggsäck ... jag brukar alltid ha en hundvalp med mig i ryggsäcken, nåt vill man ju ersätta med ... dessutom är det lite sällskap, jag är inte speciellt pratsam av mig, går mest i egna tankar, man har en uppgift och man utför den, thats it.**
 
-**     Nu tittade mannen på Magdalena och hon nickade och hoppades att hennes ansikte inte skulle avslöja vad som sköljde igenom henne.**
+**Nu tittade mannen på Magdalena och hon nickade och hoppades att hennes ansikte inte skulle avslöja vad som sköljde igenom henne.**
 
-**     Hon visste vem mannen var.**
+**Hon visste vem mannen var.**
 
-**     Det var han som hade sett Vattenkvinnans ansikte.**
+**Det var han som hade sett Vattenkvinnans ansikte.**
 
-**     - Så jag klev in i den där byn och var rätt törstig, det var hett, det låg en bar där men jag dricker aldrig när jag jobbar så jag gick vidare till brunnshuset ... det finns alltid ett sånt nånstans mitt i byarna. Det var mörkt därinne, så jag höll fram min vattensäck för att få den påfylld och det var då jag såg henne ... hon som var mycket nära att bli en stor kärlek.**
+**- Så jag klev in i den där byn och var rätt törstig, det var hett, det låg en bar där men jag dricker aldrig när jag jobbar så jag gick vidare till brunnshuset ... det finns alltid ett sånt nånstans mitt i byarna. Det var mörkt därinne, så jag höll fram min vattensäck för att få den påfylld och det var då jag såg henne ... hon som var mycket nära att bli en stor kärlek.**
 
-**     Mannen förde glaset till munnen, men drack ingenting, höll det bara tryckt mot läpparna, när han sänkte det märkte Magdalena hur handen skälvde till.**
+**Mannen förde glaset till munnen, men drack ingenting, höll det bara tryckt mot läpparna, när han sänkte det märkte Magdalena hur handen skälvde till.**
 
-**     Hon knöt sina egna händer under bordet för att inte skälva själv.**
+**Hon knöt sina egna händer under bordet för att inte skälva själv.**
 
-**     - Hon kom fram ur nåt hålrum som hon satt i och hade nåt slags tygstycke över huvudet som hon drog av och jag stod med säcken i handen och vi bara stirrade på varandra ... för mig var hon den vackraste kvinnan jag nånsin hade sett, jag blev alldeles underlig inuti ...**
+**- Hon kom fram ur nåt hålrum som hon satt i och hade nåt slags tygstycke över huvudet som hon drog av och jag stod med säcken i handen och vi bara stirrade på varandra ... för mig var hon den vackraste kvinnan jag nånsin hade sett, jag blev alldeles underlig inuti ...**
 
-**     Vattenkvinnan, tänkte Magdalena, som aldrig hade reflekterat över hennes utseende. Var hon så vacker?**
+**Vattenkvinnan, tänkte Magdalena, som aldrig hade reflekterat över hennes utseende. Var hon så vacker?**
 
-**     Men hon sa ingenting, hon ville inte bryta mannens flöde.**
+**Men hon sa ingenting, hon ville inte bryta mannens flöde.**
 
-**     - ... och tydligen slog jag an nån liknande klang hos henne, vi bara stod där och stirrade på varandra ... hur länge vet jag inte ... plötsligt frågade hon vad jag var ute efter. Katter, sa jag, det var liksom det första som dök upp, av sig själv. Då tog hon säcken och började fylla den med vatten och jag försökte hitta på nåt att säga. Jag är bara kvar över natten, fick jag fram, sen måste jag vidare. Hon nickade och tog god tid på sig med säcken, det märkte jag, små skvättar i taget, så jag sa att jag skulle komma tillbaka när jobbet var klart, nån gång framåt vargtimmen och hämta henne. Mer sa jag inte, tror jag ... hon räckte över säcken och nickade igen och jag såg hennes ansikte en gång till, på riktigt nära håll ... hade jag bara kysst henne då ...**
+**- ... och tydligen slog jag an nån liknande klang hos henne, vi bara stod där och stirrade på varandra ... hur länge vet jag inte ... plötsligt frågade hon vad jag var ute efter. Katter, sa jag, det var liksom det första som dök upp, av sig själv. Då tog hon säcken och började fylla den med vatten och jag försökte hitta på nåt att säga. Jag är bara kvar över natten, fick jag fram, sen måste jag vidare. Hon nickade och tog god tid på sig med säcken, det märkte jag, små skvättar i taget, så jag sa att jag skulle komma tillbaka när jobbet var klart, nån gång framåt vargtimmen och hämta henne. Mer sa jag inte, tror jag ... hon räckte över säcken och nickade igen och jag såg hennes ansikte en gång till, på riktigt nära håll ... hade jag bara kysst henne då ...**
 
-**     Nu förde mannen glaset till munnen och drack, en djup klunk, Magdalena såg hur han knappast njöt av smaken, det skulle bara ner.**
+**Nu förde mannen glaset till munnen och drack, en djup klunk, Magdalena såg hur han knappast njöt av smaken, det skulle bara ner.**
 
-**     Hon hade gärna tagit lite själv.**
+**Hon hade gärna tagit lite själv.**
 
-**     - ... det var sista gången jag såg hennes ansikte.**
+**- ... det var sista gången jag såg hennes ansikte.**
 
-**     Mannen tystnade och gned den ena bruna handen över den andra. Magdalena var förbryllad. Hade han inte försvunnit med Vattenkvinnan? Det hade ju alla utgått ifrån? Var hade hon tagit vägen? Till slut vågade hon fråga:**
+**Mannen tystnade och gned den ena bruna handen över den andra. Magdalena var förbryllad. Hade han inte försvunnit med Vattenkvinnan? Det hade ju alla utgått ifrån? Var hade hon tagit vägen? Till slut vågade hon fråga:**
 
-**     - Gick du tillbaka till brunnshuset?**
+**- Gick du tillbaka till brunnshuset?**
 
-**     - Ja ... vilket jag inte borde ha gjort ... hade jag inte gjort det, utan fortsatt, som vanligt, som jag brukar göra när jag var klar, dunstat i gryningen för att slippa allt jämmer, hade jag bara gjort det hade jag fortfarande kunnat skylla på nånting och trott att hon fanns kvar.**
+**- Ja ... vilket jag inte borde ha gjort ... hade jag inte gjort det, utan fortsatt, som vanligt, som jag brukar göra när jag var klar, dunstat i gryningen för att slippa allt jämmer, hade jag bara gjort det hade jag fortfarande kunnat skylla på nånting och trott att hon fanns kvar.**
 
-**     - Men du gick dit?**
+**- Men du gick dit?**
 
-**     - Jag gick tillbaka när jag var klar, nästan sprang, öppnade dörren till brunnshuset och klev in och där stod hon, klar, i en röd klänning, och hade satt på sig det där tygskynket för att kunna smita iväg ... jag tog henne i armen och skulle just kliva ut när jag hörde ett svagt jamande från det där hålrummet hon höll till i. Finns det en katt därinne? frågade jag och hon bara skakade på skynket och ville iväg. Men man är som man är, har man tagit på sig ett uppdrag vill man slutföra det, så jag tog ett steg mot det där jamandet och då störtade det fram en hårlös katt och kastade sig upp på väggen och gjorde ett språng tvärs genom rummet och landade på hennes huvud och satte klorna i det där tygstycket och slet av det på väg ner mot golvet. Då såg jag hennes ansikte och det var inte hon. Det var en ful gammal kärring med gula ögon och blodfläckar i ansiktet som skrek tills jag fick handen över hennes mun.**
+**- Jag gick tillbaka när jag var klar, nästan sprang, öppnade dörren till brunnshuset och klev in och där stod hon, klar, i en röd klänning, och hade satt på sig det där tygskynket för att kunna smita iväg ... jag tog henne i armen och skulle just kliva ut när jag hörde ett svagt jamande från det där hålrummet hon höll till i. Finns det en katt därinne? frågade jag och hon bara skakade på skynket och ville iväg. Men man är som man är, har man tagit på sig ett uppdrag vill man slutföra det, så jag tog ett steg mot det där jamandet och då störtade det fram en hårlös katt och kastade sig upp på väggen och gjorde ett språng tvärs genom rummet och landade på hennes huvud och satte klorna i det där tygstycket och slet av det på väg ner mot golvet. Då såg jag hennes ansikte och det var inte hon. Det var en ful gammal kärring med gula ögon och blodfläckar i ansiktet som skrek tills jag fick handen över hennes mun.**
 
-**     Enögda Bierté, annalisten. Magdalena visste direkt vem den fula kärringen var och fick svårare och svårare att hålla ansiktet neutralt.**
+**Enögda Bierté, annalisten. Magdalena visste direkt vem den fula kärringen var och fick svårare och svårare att hålla ansiktet neutralt.**
 
-**     - Det var då jag såg kniven, fortsatte mannen, den låg alldeles bakom vattenbrunnen, en stor böjd dolk, alldeles smetig av blod och jag tittade ner i brunnen och då ... ja ... jag vet inte riktigt vad som kom över mig, men när jag stack därifrån en bra stund senare var kärringen kvar.**
+**- Det var då jag såg kniven, fortsatte mannen, den låg alldeles bakom vattenbrunnen, en stor böjd dolk, alldeles smetig av blod och jag tittade ner i brunnen och då ... ja ... jag vet inte riktigt vad som kom över mig, men när jag stack därifrån en bra stund senare var kärringen kvar.**
 
-**     Inte bara kvar, tänkte Magdalena, hon hängde i rummet med en stålwire genom kroppen.**
+**Inte bara kvar, tänkte Magdalena, hon hängde i rummet med en stålwire genom kroppen.**
 
-**     - Vad hände med Vattenkvinnan? sa hon.**
+**- Vad hände med Vattenkvinnan? sa hon.**
 
-**     - Vattenkvinnan?**
+**- Vattenkvinnan?**
 
-**     Namnet hade slunkit ur Magdalenas mun utan förvarning, hon hann aldrig hejda det.**
+**Namnet hade slunkit ur Magdalenas mun utan förvarning, hon hann aldrig hejda det.**
 
-**     - Jag menar, hon som bodde i det där brunnshuset, hon med vattnet?**
+**- Jag menar, hon som bodde i det där brunnshuset, hon med vattnet?**
 
-**     Mannen snurrade sitt glas mellan händerna, ganska länge, innan  han tittade upp på Magdalena igen. Plötsligt var den insjunkna blicken fokuserad, rakt på henne. Hon gjorde en ofrivillig rörelse mot lockarna igen.**
+**Mannen snurrade sitt glas mellan händerna, ganska länge, innan  han tittade upp på Magdalena igen. Plötsligt var den insjunkna blicken fokuserad, rakt på henne. Hon gjorde en ofrivillig rörelse mot lockarna igen.**
 
-**     - ”Vattenkvinnan” hade fått halsen avskuren, sa mannen.**
+**- ”Vattenkvinnan” hade fått halsen avskuren, sa mannen.**
 
-**    Magdalena slet upp en hand för munnen och mannen tittade ut genom det skitiga fönstret: en magpie hade landat på trästaketet vid parkeringen, hundarna var försvunna, borta vid pumpen satt tre japanska turister och sög på en fårkropp.**
+**Magdalena slet upp en hand för munnen och mannen tittade ut genom det skitiga fönstret: en magpie hade landat på trästaketet vid parkeringen, hundarna var försvunna, borta vid pumpen satt tre japanska turister och sög på en fårkropp.**
 
-**     Vinden svepte torra kvistbollar över asfalten.**
+**Vinden svepte torra kvistbollar över asfalten.**
 
-**     - ... vilken tragisk historia, fick Magdalena fram till slut.**
+**- ... vilken tragisk historia, fick Magdalena fram till slut.**
 
-**     - Ja. Men du vet ju inte om den är sann.**
+**- Ja. Men du vet ju inte om den är sann.**
 
-**     - ... hur menar du?**
+**- ... hur menar du?**
 
-**     - Tror du på allt dina berusade gäster berättar?**
+**- Tror du på allt dina berusade gäster berättar?**
 
-**     - Nej.**
+**- Nej.**
 
-**     Mannen reste sig, tog sitt gevär, la några sedlar på bordet och log mot Magdalena.**
+**Mannen reste sig, tog sitt gevär, la några sedlar på bordet och log mot Magdalena.**
 
-**     - Och vad gör du när du inte jobbar här? sa han.**
+**- Och vad gör du när du inte jobbar här? sa han.**
 
-**     - Letar efter en sjunken film, huvudrollen spelas av Rosalita, hon driver en bar i utkanten av Änkornas by.**
+**- Letar efter en sjunken film, huvudrollen spelas av Rosalita, hon driver en bar i utkanten av Änkornas by.**
 
-**     Det kan han gott ha, tänkte Magdalena, när hon såg mannens förbryllade min.**
+**Det kan han gott ha, tänkte Magdalena, när hon såg mannens förbryllade min.**
 
-**     - Vill du ha skjuts nånstans? sa hon.**
+**- Vill du ha skjuts nånstans? sa hon.**
 :::
 
 Nu blir det inte så mycket ”hängande i luften” tycker jag. Inte mannen från resemagasinet heller.
@@ -238,33 +238,33 @@ Det stora Beck-projektet närmar sig. Men innan dess gör jag ett entimmes progr
 
 **”Den morgonen öppnar Maria sitt fönster, sju våningar upp, och håller ut sin lilla dotter ett par minuter innan hon släpper taget och stänger fönstret igen. När dom får henne att tala, två dygn senare, ber hon att få tala med fängelsets präst.**
 
-**     - Det finns ingen präst här, Maria, säger dom.**
+**- Det finns ingen präst här, Maria, säger dom.**
 
-**     Då tystnar Maria igen. Sen hjälper det inte att dom hämtar både en präst och en nära anförvant, eller låter henne sova ensam. Hon förblir stum i nio år. Då är hon 27 och stiger av ett tåg vid kusten.**
+**Då tystnar Maria igen. Sen hjälper det inte att dom hämtar både en präst och en nära anförvant, eller låter henne sova ensam. Hon förblir stum i nio år. Då är hon 27 och stiger av ett tåg vid kusten.**
 
-**     - Så vackert, säger hon och nickar ut mot havet.**
+**- Så vackert, säger hon och nickar ut mot havet.**
 
-**     - Ja, svarar kvinnan som har rest i samma kupé. Det är lika vackert varje gång.**
+**- Ja, svarar kvinnan som har rest i samma kupé. Det är lika vackert varje gång.**
 
-**     Maria går åt sitt håll, mot ett hotell, och kvinnan tittar åt andra hållet. Hon vet ingenting om Maria, annat än hennes reaktion på havet.**
+**Maria går åt sitt håll, mot ett hotell, och kvinnan tittar åt andra hållet. Hon vet ingenting om Maria, annat än hennes reaktion på havet.**
 
-**     - Havet är vackert, säger Maria.**
+**- Havet är vackert, säger Maria.**
 
-**     Portiern på hotellet nickar utan att lyssna. Havet har han inte sett på ett par decennier, eller han har sett det alldeles för länge.**
+**Portiern på hotellet nickar utan att lyssna. Havet har han inte sett på ett par decennier, eller han har sett det alldeles för länge.**
 
-**     - Över natten? frågar han.**
+**- Över natten? frågar han.**
 <!-- PAGE 223 END -->
 
 <!-- PAGE 224 START -->
-**     Maria ler och nickar.**
+**Maria ler och nickar.**
 
-**     - Tänk, här sover dom, viskar hon.**
+**- Tänk, här sover dom, viskar hon.**
 
-**     - Vilka ?**
+**- Vilka ?**
 
-**     Maria ler igen.**
+**Maria ler igen.**
 
-**     - Alla dom som vaknar som om ingenting har hänt.”**
+**- Alla dom som vaknar som om ingenting har hänt.”**
 
 Musiken jag har valt till texten är Mari Boines ”*Örnebror*”.
 
@@ -540,20 +540,20 @@ Så här skriver Linde om Carsten i inbjudan till utställningen:
 
 **”Han kom från ett annat håll, en främling som bara dök upp i konstlivet - helt fri från omgivningens   jargong. Det var på sextitalet, och även om hans målningar var ”samhällskritiska” liknade de inga andras; de var desperat kvicka, djupt ytliga - på en gång smaklösa och smakliga.**
 
-**     En desillusionerad dandy på ovanligt gott humör - ungefär så upplevde man Carsten Regild. En narr, en joker, med blåsyra i sin raffräschör, en Picabia som sa NON till allt med en ironisk diktion lånad från pladdriga reklamfilmer.**
+**En desillusionerad dandy på ovanligt gott humör - ungefär så upplevde man Carsten Regild. En narr, en joker, med blåsyra i sin raffräschör, en Picabia som sa NON till allt med en ironisk diktion lånad från pladdriga reklamfilmer.**
 
-**     Och absolut inget patos; vilket var mycket ovanligt vid den tiden.**
+**Och absolut inget patos; vilket var mycket ovanligt vid den tiden.**
 <!-- PAGE 228 END -->
 
 <!-- PAGE 229 START -->
 ::: accordion
 **Och ändå något sprött, ömtåligt och nervigt, som om det funnits en Pierrot bakom den tuffa masken, en viskning som hördes tvärs genom tingeltanglet och gjorde det ännu tingeltangligare, en öm gest - och sedan de pinglande narrbjällrorna.**
 
-**    VARGEN - hans alter ego - var en ensamvarg som skydde flocken. Han passade inte in på samlingsutställningar; där verkade hans målningar som gälla ylanden utanför en ladugård. Men egendomligt nog märker man ingen gäll ton i en sal med bara hans egna målningar, som om han varit ett bråkigt barn som genast slutade bråka i ensamheten och lekte tyst.**
+**VARGEN - hans alter ego - var en ensamvarg som skydde flocken. Han passade inte in på samlingsutställningar; där verkade hans målningar som gälla ylanden utanför en ladugård. Men egendomligt nog märker man ingen gäll ton i en sal med bara hans egna målningar, som om han varit ett bråkigt barn som genast slutade bråka i ensamheten och lekte tyst.**
 
-**     För Carsten Regild lekte, och man frågar inte vad barn menat med sina lekar. Det vore bara dumt att fråga sig varför han målade som han gjorde; hade han vetat det hade han genast slutat och räckt lång näsa åt sig själv i spegeln.**
+**För Carsten Regild lekte, och man frågar inte vad barn menat med sina lekar. Det vore bara dumt att fråga sig varför han målade som han gjorde; hade han vetat det hade han genast slutat och räckt lång näsa åt sig själv i spegeln.**
 
-**     Ändå ... - kanske skulle han ha sagt att han helt enkelt ville göra något vackert.”**
+**Ändå ... - kanske skulle han ha sagt att han helt enkelt ville göra något vackert.”**
 :::
 
 ::: part
@@ -1256,37 +1256,37 @@ Istället skriver jag en text till julnumret av tidningen ”*Situation Stockhol
 
 **Och han tyckte om att lägga en kopparpeng i julgransfoten, för sakens skull. Han tyckte om det röda och gröna, kulorna och barren och blänket i en silvertråd. Han tyckte om dofterna, av nejlikan i mandarinen och det droppande stearinet.**
 
-**     Och han visste om allt det andra.**
+**Och han visste om allt det andra.**
 
-**     Han tyckte om att tända levande ljus i sitt hus och att skapa skuggor av värme. Han tyckte om det utskurna, en gång om året. Han tyckte om att duka ett julbord och att äta det och lämna det. Han tyckte om den stillsamma musiken och han visste om allt det andra.**
+**Han tyckte om att tända levande ljus i sitt hus och att skapa skuggor av värme. Han tyckte om det utskurna, en gång om året. Han tyckte om att duka ett julbord och att äta det och lämna det. Han tyckte om den stillsamma musiken och han visste om allt det andra.**
 <!-- PAGE 240 END -->
 
 <!-- PAGE 241 START -->
 **Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev då sig ro. Han tyckte om när det var över.**
 
-**     Då brukade han lämna huset, i ottan, när alla andra sov, och gå den långa vägen ner till sjön. Där tog han sig ut till den bortre udden, dit ingen brukade gå. Där ställde han sig vid uddens kant, i gryningens starka motljus och började skrika. Han skrek hårt och länge, ofta tills det värkte i bröstet, och så gick han hem.**
+**Då brukade han lämna huset, i ottan, när alla andra sov, och gå den långa vägen ner till sjön. Där tog han sig ut till den bortre udden, dit ingen brukade gå. Där ställde han sig vid uddens kant, i gryningens starka motljus och började skrika. Han skrek hårt och länge, ofta tills det värkte i bröstet, och så gick han hem.**
 
-**     I alla år, tills i år.**
+**I alla år, tills i år.**
 
  **I år gick han ner till udden och ut på den, som han alltid brukade, och började skrika, tills han märkte att han inte var ensam. Han märkte att det fanns något strax intill och han slutade tvärt att skrika. När han vände sig om stod en flicka inne bland träden, bara några meter bort. Hon var liten och mager och utan skor och han tänkte: hur? Hur har hon orkat ända ut hit, ända ut till uddens kant?**
 
-**     Men det hade hon och hon tittade tyst på hans stora kropp.**
+**Men det hade hon och hon tittade tyst på hans stora kropp.**
 
-**     - Varför skriker du?**
+**- Varför skriker du?**
 
-**     Han såg att hon frös och att ögonen skvallrade om allt det andra. Han sjönk ner på en stubbe och sträckte ut sin hand. Flickan tittade på honom och rörde sig inte.**
+**Han såg att hon frös och att ögonen skvallrade om allt det andra. Han sjönk ner på en stubbe och sträckte ut sin hand. Flickan tittade på honom och rörde sig inte.**
 
-**     - Varför stod du där och bara skrek?**
+**- Varför stod du där och bara skrek?**
 
-**     Han kunde inte svara på det. Han höll handen utsträckt tills hon tog den. Tillsammans återvände dom från udden och gick den långa vägen till villaområdet. När dom passerade hans tysta och sovande hus nickade flickan på huvudet.**
+**Han kunde inte svara på det. Han höll handen utsträckt tills hon tog den. Tillsammans återvände dom från udden och gick den långa vägen till villaområdet. När dom passerade hans tysta och sovande hus nickade flickan på huvudet.**
 
-**     - Vem bor där?**
+**- Vem bor där?**
 
-**     Han tittade till, en kort sekund.**
+**Han tittade till, en kort sekund.**
 
-**     - Det vet jag inte.**
+**- Det vet jag inte.**
 
-**     Och fortsatte, hand i hand med flickan, ut i allt det andra.”**
+**Och fortsatte, hand i hand med flickan, ut i allt det andra.”**
 :::
 
 ::: part
@@ -1317,32 +1317,32 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno K. Öijer i Li
 
 **vi har skrivit några brev till varandra, till och från genom årens lopp, från olika hålrum i hjärnan. Här kommer ett från mig till dig. Det handlar om det vi diskuterade på en kyrkogård i Boulder: konsten att hålla sig ren, och utanför, att aldrig stympas av delaktighet ... och att våga gå så djupt in i påfrestelsen att illusionen av en befrielse kan ta gestalt.**
 
-**     För mig har du lyckats med det.**
+**För mig har du lyckats med det.**
 <!-- PAGE 241 END -->
 
 <!-- PAGE 242 START -->
 ::: accordion
 **Till vilket pris vet jag inte riktigt, förmodligen är priset en del av befrielsen: ditt språk vittnar om en del underbara nederlag.**
 
-**     Du har alltid haft en enorm tro på ditt språk, eller den revansch som språket har möjliggjort: i dikten har du ord för ord bevingat hämnden och ditt ansikte har avspeglat sig i varenda rad. Du har aldrig dolt dig bakom texten, som merparten av den övriga parnassen, du har oavbrutet gjort dig synlig - dvs tillgänglig, och i begreppets djupare mening användbar.**
+**Du har alltid haft en enorm tro på ditt språk, eller den revansch som språket har möjliggjort: i dikten har du ord för ord bevingat hämnden och ditt ansikte har avspeglat sig i varenda rad. Du har aldrig dolt dig bakom texten, som merparten av den övriga parnassen, du har oavbrutet gjort dig synlig - dvs tillgänglig, och i begreppets djupare mening användbar.**
 
-**     Din viskande lie har varit en moralisk måttstock.**
+**Din viskande lie har varit en moralisk måttstock.**
 
-**     Och du har älskat själva processen. Arbetet, den ofantligt ensamma vandringen ut i det dom blinda kallar mörker, timmarna av väntan, lindad i vitt vin, den långsamt växande komprimeringen i blodkärl efter blodkärl, vakandet, bidandet efter den utskurenhet som till sist lägrar sig i kroppen och utesluter allt slagg ... och så belöningen, detta enkla och mycket exakta språk, denna avläsbara avgrund, utan återvändo.**
+**Och du har älskat själva processen. Arbetet, den ofantligt ensamma vandringen ut i det dom blinda kallar mörker, timmarna av väntan, lindad i vitt vin, den långsamt växande komprimeringen i blodkärl efter blodkärl, vakandet, bidandet efter den utskurenhet som till sist lägrar sig i kroppen och utesluter allt slagg ... och så belöningen, detta enkla och mycket exakta språk, denna avläsbara avgrund, utan återvändo.**
 
-**     För eftervärlden att begrunda.**
+**För eftervärlden att begrunda.**
 
-**     Carsten kritiserades många gånger för att hans målningar var obegripliga, abstrakta, eller åtminstone extremt svårtolkade. Till mig sa han: jag målar dagböcker, allt på duken har jag sett, allt har hänt och allt går att läsa.**
+**Carsten kritiserades många gånger för att hans målningar var obegripliga, abstrakta, eller åtminstone extremt svårtolkade. Till mig sa han: jag målar dagböcker, allt på duken har jag sett, allt har hänt och allt går att läsa.**
 
-**    Så tolkar jag dina dikter. Det som står är det som hänt. Det är inte surrealistiska metaforer eller mytiska strofer som svävar runt i det poetiska världsalltet: det är rudimentära mänskliga insikter, kristalliserade ur hat och förtvivlan ... sparsmakat utformade erfarenheter, genomlysta av en mycket saklig smärta, på en gång obarmhärtig och extremt renande.**
+**Så tolkar jag dina dikter. Det som står är det som hänt. Det är inte surrealistiska metaforer eller mytiska strofer som svävar runt i det poetiska världsalltet: det är rudimentära mänskliga insikter, kristalliserade ur hat och förtvivlan ... sparsmakat utformade erfarenheter, genomlysta av en mycket saklig smärta, på en gång obarmhärtig och extremt renande.**
 
-**     Det finns ingenting obegripligt eller svårtolkat i dina dikter, för den som vågar.**
+**Det finns ingenting obegripligt eller svårtolkat i dina dikter, för den som vågar.**
 
-**     Mycket tidigt slog du fast: det finns ingenting i det här samhället som är värt att bevara. Allt ska brinna, och återfödas, för att brinna igen. Din stora Shiva-dikt handlar om det. Om utplåning och återfödelse. Om hur allt som är korrumperat och förljuget måste brinna, om en total apokalyptisk rening, en civilisationseld ... ditt eget verk är en del av den elden.**
+**Mycket tidigt slog du fast: det finns ingenting i det här samhället som är värt att bevara. Allt ska brinna, och återfödas, för att brinna igen. Din stora Shiva-dikt handlar om det. Om utplåning och återfödelse. Om hur allt som är korrumperat och förljuget måste brinna, om en total apokalyptisk rening, en civilisationseld ... ditt eget verk är en del av den elden.**
 
-**     Som jag upplever det.**
+**Som jag upplever det.**
 
-**     Ditt språk har förändrats, givetvis, genom årens lopp, stråk av sorgsen innerlighet har svept in över obönhörliga slutsatser ... som om du närmade dig det allra djupaste såret med allt mjukare nål ... och en tråd spunnen av mognad. Jag hoppas du lyckas sy ihop såret. Du är en väldigt ljus människa, Bruno, för mig, och tydlig, en människa som läcker ur ett mycket vackert hål.**
+**Ditt språk har förändrats, givetvis, genom årens lopp, stråk av sorgsen innerlighet har svept in över obönhörliga slutsatser ... som om du närmade dig det allra djupaste såret med allt mjukare nål ... och en tråd spunnen av mognad. Jag hoppas du lyckas sy ihop såret. Du är en väldigt ljus människa, Bruno, för mig, och tydlig, en människa som läcker ur ett mycket vackert hål.**
 
 **Roffe.”**
 :::
@@ -1685,27 +1685,27 @@ Det är inte helt angenämt.
 Så småningom, hemkomna, hinner vi ikapp och tar del av allt det alla andra tar del av. Scenerna från stränderna, dom söndergråtna ögonen, närstående vänner som med nöd och näppe har hunnit rädda sig upp i träd eller högland, bortsvepta byar, bortsvepta liv. Vi ger röst åt en ung flickas upplevelse i vår bok *”Den tredje rösten”*, hon berättar för Olivia Rönning:
 :::
 
-***     - Ska jag berätta om mamma?***
+***- Ska jag berätta om mamma?***
 
-***      Sandra sa det utan att titta upp från bordet, med en kort återhållen röst. ***
+***Sandra sa det utan att titta upp från bordet, med en kort återhållen röst.***
 
-***     - Om du vill.***
+***- Om du vill.***
 
-***     Det kanske var därför hon kom hit, tänkte Olivia. Hon kanske behöver prata om det, om sin mamma, som jag pratade om min mamma? ***
+***Det kanske var därför hon kom hit, tänkte Olivia. Hon kanske behöver prata om det, om sin mamma, som jag pratade om min mamma?***
 
-***     - Vi skulle rida på elefanter, pappa hade bokat det på hotellet och jag tyckte det skulle bli jätteroligt, men mamma var inte sugen, hon ville gå en långpromenad på stranden istället, så hon kramade mig och sen åkte vi iväg själva. Sen kom den där tsunamin, när vi höll på att rida. Pappa fick höra det när vi kom tillbaka med elefanten och vi åkte ner till hotellet, men då kunde vi inte komma fram, det var bara människor överallt som sprang och skrek och inga bilar fick komma fram och pappa blev alldeles galen och försökte springa ner mot hotellet men det fanns ju inget hotell kvar, allting var förstört, överallt, jag stod bakom bilen och fattade ingenting mer än att det var hemskt, allting var hemskt, alla skrek och grät och jag ville bara att mamma skulle komma …***
+***- Vi skulle rida på elefanter, pappa hade bokat det på hotellet och jag tyckte det skulle bli jätteroligt, men mamma var inte sugen, hon ville gå en långpromenad på stranden istället, så hon kramade mig och sen åkte vi iväg själva. Sen kom den där tsunamin, när vi höll på att rida. Pappa fick höra det när vi kom tillbaka med elefanten och vi åkte ner till hotellet, men då kunde vi inte komma fram, det var bara människor överallt som sprang och skrek och inga bilar fick komma fram och pappa blev alldeles galen och försökte springa ner mot hotellet men det fanns ju inget hotell kvar, allting var förstört, överallt, jag stod bakom bilen och fattade ingenting mer än att det var hemskt, allting var hemskt, alla skrek och grät och jag ville bara att mamma skulle komma …***
 
-***     Sandra tystnade och lyfte sin tekopp. Hon höll den en stund i handen och ställde ner den igen. Olivia höll om henne med ena armen.***
+***Sandra tystnade och lyfte sin tekopp. Hon höll den en stund i handen och ställde ner den igen. Olivia höll om henne med ena armen.***
 
-***     - Men hon kom inte?***
+***- Men hon kom inte?***
 
-***     - Nej.***
+***- Nej.***
 
-***     Olivia såg den lilla åttaåriga flickan framför sig, mitt i det fruktansvärda kaoset, utan möjlighet att begripa vad det var som hände, utom att det var hemskt och att hennes mamma inte kom.  ***
+***Olivia såg den lilla åttaåriga flickan framför sig, mitt i det fruktansvärda kaoset, utan möjlighet att begripa vad det var som hände, utom att det var hemskt och att hennes mamma inte kom.***
 
-***     - Hittades din mamma?***
+***- Hittades din mamma?***
 
-***     - Nej. Hon är kvar i havet … Och nu är pappa i himlen ... Och jag är kvar här och vet inte hur jag ska orka utan dom.***
+***- Nej. Hon är kvar i havet … Och nu är pappa i himlen ... Och jag är kvar här och vet inte hur jag ska orka utan dom.***
 <!-- PAGE 246 END -->
 
 <!-- PAGE 247 START -->

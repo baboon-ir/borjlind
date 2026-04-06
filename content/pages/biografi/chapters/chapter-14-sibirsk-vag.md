@@ -415,11 +415,11 @@ SVT kontaktar mig och vill att jag skriver en text som ska framföras på årets
 
 **”Filminstitutet har just lyckats övertala ingen mindre än Ingmar Bergman att göra ytterligare en långfilm - en dramadokumentär om Nya Testamentet i modern tappning.**
 
-**     Rollen som Jesus anses vikt för Lasse Åberg och Bergman har krävt att få Åsa Bodén som Heliga Maria och Harry Schein som Josef.**
+**Rollen som Jesus anses vikt för Lasse Åberg och Bergman har krävt att få Åsa Bodén som Heliga Maria och Harry Schein som Josef.**
 
-**     Ullsten, Fälldin och Adelsohn spelar dom tre vise männen, med Jan-Erik Wikström som åsna. Statsminister Olof Palme har tackat ja till rollen som Moses under förutsättning att Sten Andersson får singla ut dom tio budorden från Kaknästornet.**
+**Ullsten, Fälldin och Adelsohn spelar dom tre vise männen, med Jan-Erik Wikström som åsna. Statsminister Olof Palme har tackat ja till rollen som Moses under förutsättning att Sten Andersson får singla ut dom tio budorden från Kaknästornet.**
 
-**     E4 döps tillfälligt om till Via Dolorosa och Golgata placeras på Arlanda, där Barkaby flygflottilj har lovat att formera ett kors av Viggenplan på himlen under själva korsfästelsen. Jesus flankeras på korset av dom två rövarna Pehr Gyllenhammar och Anders Wall ... osv ...”**
+**E4 döps tillfälligt om till Via Dolorosa och Golgata placeras på Arlanda, där Barkaby flygflottilj har lovat att formera ett kors av Viggenplan på himlen under själva korsfästelsen. Jesus flankeras på korset av dom två rövarna Pehr Gyllenhammar och Anders Wall ... osv ...”**
 
 Texten stoppas av tv-ledningen, men trycks senare i tidningen Arbetaren.
 
