@@ -58,21 +58,21 @@ Jag tillbringar mycket tid här. Under flera år sitter jag på nätterna och f�
 **genomskinligt att det når en hallucinatorisk effekt. ”**
 :::
 
-En mening jag kan citera oväckt. Tyvärr hjälper det mig inte så mycket i arbetet med min egen bok (jag skaåterkomma till den).
+En mening jag kan citera oväckt. Tyvärr hjälper det mig inte så mycket i arbetet med min egen bok (jag ska återkomma till den).
 ::: indent
-På tal om titlar: Jag har alltid varit intresserad av boktitlar. En av dom bästa är antifascisten Arthur Koestlers storverk ”***Natt klockan tolv på dagen***”. Härär några andra titlar jag gärna hade varit upphovsman till:
+På tal om titlar: Jag har alltid varit intresserad av boktitlar. En av dom bästa är antifascisten Arthur Koestlers storverk ”***Natt klockan tolv på dagen***”. Här är några andra titlar jag gärna hade varit upphovsman till:
 :::
 <!-- PAGE 139 END -->
 
 <!-- PAGE 140 START -->
 Tristan Tzara: “***Vithåriga revolvrar.***”
 Stig Claesson: “***Henrietta ska du också glömma.***”
-Bruno KÖijer: “***Underjordens leende.***”
+Bruno K. Öijer: “***Underjordens leende.***”
 Mickey Spillane: “***Natt utan nåd.***”
-Lars Ahlin: *”***De sotarna! De sotarna!***”*
+Lars Ahlin: “***De sotarna! De sotarna!***”
 Vladimir Majakovskij: “***Ett moln i byxor.***”
 John Kennedy Tool: “***Dumskallarnas sammansvärjning.***”
-Robert Musil: “***Mannen utan egenskaper***.”
+Robert Musil: “***Mannen utan egenskaper.***”
 
 Egen titel jag gillar: Min och Cilla Börjlinds första deckare ”***Varför saknade ingen Adelita Rivera?***” (senare omdöpt till ”*Springfloden*”). Jag är också förtjust i titeln på ett av våra första boksynops: ”***Det förtvivlade mordet på Angel Björk.***”
 
@@ -165,9 +165,9 @@ Omslaget är en parafras på Beatles ”*Sgt Pepper*” (eller för den delen Fr
 Påbaksidan av singeln läser jag en egen text, ackompanjerad av Stefan Nilsson. Den heter ”*Between you and me and the gateway*”.
 :::
 
-Föga anade vi att skivan 38 år senare skulle beskrivas såh är av musikrecensenten Håkan Pettersson:
+Föga anade vi att skivan 38 år senare skulle beskrivas så här av musikrecensenten Håkan Pettersson:
 
-”**Den här skivan är på flera sätt historiskt nyskapande, även internationellt sett. För det första var maxisingel 1980 ett relativt nytt revolutionerande format. På den svenska marknaden var Gateways”** ***Konst är dyrbarare än korv*** **” en oerhört banbrytande skiva. Skivan lanserades med en synnerligen annorlunda videofilm. Musikvideo var ett nytt och okänt begrepp 1980. Den rena musikvideon introducerades först 1981 av MTV i USA och nådde Europa först 1987, så den här tolv minuter långa filmen var verkligen före sin tid.”**
+”**Den här skivan är på flera sätt historiskt nyskapande, även internationellt sett. För det första var maxisingel 1980 ett relativt nytt revolutionerande format. På den svenska marknaden var Gateways“***Konst är dyrbarare än korv***” en oerhört banbrytande skiva. Skivan lanserades med en synnerligen annorlunda videofilm. Musikvideo var ett nytt och okänt begrepp 1980. Den rena musikvideon introducerades först 1981 av MTV i USA och nådde Europa först 1987, så den här tolv minuter långa filmen var verkligen före sin tid.”**
 <!-- PAGE 141 END -->
 
 <!-- PAGE 142 START -->
@@ -187,7 +187,7 @@ Men jag lessnar, succesivt.
 :::
 
 ::: indent
-Jag försöker mig påamerikanarna, John Irving,”*Garp och hans värld*”, det är ingenting som fäster.
+Jag försöker mig på amerikanarna, John Irving,”*Garp och hans värld*”, det är ingenting som fäster.
 :::
 
 ::: indent
@@ -213,11 +213,11 @@ Tyvärr ett beteende som eskalerar över åren (idag näst intill beundrar jag m
 ::: part
 :::
 
-I mars bjuds jag in till New York för att uppträda i St Marks Church Poetry Project tillsammans med Bruno K och Stefan Nilsson, men innan dess skriver jag en lång text till tidskriften Janus - en ambitiös utgåva som leds av poeten Eric Fylkeson. En mycket besynnerlig text som jag (såh är i eftertankens blanka blekhet)är mycket förbrylladöver. Den heter ”*Trumma malen ur sjön*”:
+I mars bjuds jag in till New York för att uppträda i St Marks Church Poetry Project tillsammans med Bruno K och Stefan Nilsson, men innan dess skriver jag en lång text till tidskriften Janus - en ambitiös utgåva som leds av poeten Eric Fylkeson. En mycket besynnerlig text som jag (så här i eftertankens blanka blekhet) är mycket förbryllad över. Den heter ”*Trumma malen ur sjön*”:
 
 **”Gråt inte, Eric, nu när vi äntligen har lärt glömma varann, njut istället: ett gott förlöjligande stärker självförtroendet och en rejäl driftkucku kan inte skattas i pengar. Framsteg från arvsynden vars sexuella kärlek medger: bredare myt! samverkande impulser! döm om min förvåning!**
 
-**    Utan överloppsenergi kan du böja tummen mot pekfingret och följaktligen förbise ekonomiska behov eller tekniska lösningar - produktionskraften är lika meningslös som blotta berättigandet i prestationen. Lär dig att använda verkligheten och inte symbolerna. Tvinna språket till en brutal piska och smiska in sanningarna där dom svider som mest: tydlighet är dynamit. **
+**    Utan överloppsenergi kan du böja tummen mot pekfingret och följaktligen förbise ekonomiska behov eller tekniska lösningar - produktionskraften är lika meningslös som blotta berättigandet i prestationen. Lär dig att använda verkligheten och inte symbolerna. Tvinna språket till en brutal piska och smiska in sanningarna där dom svider som mest: tydlighet är dynamit.**
 <!-- PAGE 142 END -->
 
 <!-- PAGE 143 START -->
@@ -244,7 +244,7 @@ Det handlar om mod och feghet, Eric. Att ställa ut sig själv i ljuset. Det tar
 
 Eric, kliv ut på scenen, elektrifiera stringensen och slit huden av strandraggarna.
 
-Gråt inte, Eric, utan fråga dig dagligen: Är det biljetter till fotbollsmatcher? Bilar? Hattar? Hus och Ull? Hur skapades dessa villkor? Hur inträffade detta? Vem kan man vända sig till? Varför är rosor så viktiga? Hur kan man veta det? Varför finns det så mycket? Sambandet mellan den politiska och litterära situationen uppfattar jag så här? I romanens form vill jag framföra en socialistisk grundsyn? För egen del ser jag det som en uppgift? Någon fattigmanskultur existerar inte i det här hårt kommersialiserade landet? Med stor sorg i hjärtat har jag under de senaste tvååren gjort den grymma erfarenheten att förfäktandet numer enbart handlar om billiga floskler? Är våldtäkt en viktig uppgift genom sitt visionära barbari? Skildrar Mao sanningen om den namnlösa kinesens situation? Skriver Norman Mailer? Ligger tyngdpunkten under bältet? Finns det gott om?
+Gråt inte, Eric, utan fråga dig dagligen: Är det biljetter till fotbollsmatcher? Bilar? Hattar? Hus och Ull? Hur skapades dessa villkor? Hur inträffade detta? Vem kan man vända sig till? Varför är rosor så viktiga? Hur kan man veta det? Varför finns det så mycket? Sambandet mellan den politiska och litterära situationen uppfattar jag så här? I romanens form vill jag framföra en socialistisk grundsyn? För egen del ser jag det som en uppgift? Någon fattigmanskultur existerar inte i det här hårt kommersialiserade landet? Med stor sorg i hjärtat har jag under de senaste två åren gjort den grymma erfarenheten att förfäktandet numer enbart handlar om billiga floskler? Är våldtäkt en viktig uppgift genom sitt visionära barbari? Skildrar Mao sanningen om den namnlösa kinesens situation? Skriver Norman Mailer? Ligger tyngdpunkten under bältet? Finns det gott om?
 :::
 
 Reflektion: Har jag verkligen skrivit den här texten?
@@ -252,7 +252,7 @@ Reflektion: Har jag verkligen skrivit den här texten?
 ::: part
 :::
 
-St Marks Church Poetry Project startar 1966 i Bowery på Manhattan - en scen för ny och experimentell poesi, med workshops, readings och ett regelbundet nyhetsbrev. Projektet drivs enbart av poeter. Över tid har författare som Allen Ginsberg, Frank O ´ Hara, W. H. Auden och Anne Waldman framträtt i kyrkan.
+St Marks Church Poetry Project startar 1966 i Bowery på Manhattan - en scen för ny och experimentell poesi, med workshops, readings och ett regelbundet nyhetsbrev. Projektet drivs enbart av poeter. Över tid har författare som Allen Ginsberg, Frank O'Hara, W. H. Auden och Anne Waldman framträtt i kyrkan.
 ::: indent
 Nu är det vi som är inbjudna - jag, Bruno och Stefan Nilsson.
 :::
@@ -269,7 +269,7 @@ Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 45
 
 [yt-video][https://www.youtube.com/watch?v=f6-X_PTxQW0]
 
-Sågör Stefan ett hommage till Chopin:
+Så gör Stefan ett hommage till Chopin:
 
 [yt-video][https://www.youtube.com/watch?v=zik2fXpWm6M]
 
@@ -277,9 +277,9 @@ Sen tar Bruno vid:
 
 [yt-video][https://www.youtube.com/watch?v=dhYZOjG3W6Q]
 
-Det blir en magisk natt, utskurna svenskar i hjärtat av Bowery. Poesi, kroppar och röster, ord, orgel, andäktig tystnad, smådarrande fåglar uppkrupna påförstenade kristusgestalter, svag ringlande rökelse genom luften.
+Det blir en magisk natt, utskurna svenskar i hjärtat av Bowery. Poesi, kroppar och röster, ord, orgel, andäktig tystnad, smådarrande fåglar uppkrupna på förstenade kristusgestalter, svag ringlande rökelse genom luften.
 ::: indent
-Poeten och aktivisten Bob Holman beskriver framträdandet såh är i projektets nyhetsbrev:
+Poeten och aktivisten Bob Holman beskriver framträdandet så här i projektets nyhetsbrev:
 :::
 
 **”On Monday, March 10, the St. Marks Poetry Project was invaded by three Swedes who gave a poetry performance that invigorated and enriched not only the audience but the art of poetry event as well. Rolf Borjlind´s epic poem pushed the limits of poetry to the depths of the oceans. Bruno Oijer´s poems bit into the apple of New York´s eye to the painful core. Stefan Nilsson´s keyboards held the world together atom by atom, note by note. For almost three hours the audience barely moved, but were all moved by the performance - transported to a place no postcard can depict. Wish you were there.”**
@@ -367,7 +367,7 @@ Båda tycker att namnet ”Vanheden” är kul. Gösta vill att han ska spelas a
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/600.JPG)
 
-Själv föreslår jag att Sickans antagonist, ”storskurken”, ska heta Wall-Enberg, alluderande påfinansmännen Anders Wall och bröderna Wallenberg. Gösta köper det.
+Själv föreslår jag att Sickans antagonist, ”storskurken”, ska heta Wall-Enberg, alluderande på finansmännen Anders Wall och bröderna Wallenberg. Gösta köper det.
 ::: indent
 Vi går vidare, garvar och känner oss inspirerade. Jag fattar att Gösta verkligen vill göra den här filmen och jag vill verkligen hjälpa honom med det.
 :::
@@ -451,7 +451,7 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Ur din empiriska smälthärd.**
 **Dina skåror väcker kopplarna.**
 **Dina alternativ är tidlösa**
-**Och få****:**
+**Och få:**
 **Att sterilisera myerna.**
 **Att komprimera redskapen.**
 **Att mejsla milstolparna ur massgravarna.**
@@ -516,7 +516,7 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Men varje enskild handling**
 **Redovisar en brutal giltighet.**
 **En ursinnig metodik.**
-**Ett annat - långt vackrare, men vidrigare - **
+**Ett annat - långt vackrare, men vidrigare -**
 **Sätt att belönas:**
 
 **Att befrukta det kollektiva tomrummet**
@@ -528,7 +528,7 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Lägga mörk rörlig jord**
 **I deras munhåla.**
 
-**(handlar det om cynisk exploatering eller fatalistisk symbios ... eller är det bara naken obönhörlig parasitism ...”räkna dom lyckliga stunderna blott”****... och alla andra dagar på alla andra platser ... förbrukningar, genomkorsningar för alla andra, jakten på svindlande förtätning, det patafysiska gapskrattet, den astrala orgasmen ... )**
+**(handlar det om cynisk exploatering eller fatalistisk symbios ... eller är det bara naken obönhörlig parasitism ...“räkna dom lyckliga stunderna blott”... och alla andra dagar på alla andra platser ... förbrukningar, genomkorsningar för alla andra, jakten på svindlande förtätning, det patafysiska gapskrattet, den astrala orgasmen ... )**
 **Detta att sluta tala.**
 **Att inbegripa upplösningen.**
 **Att återvända till resurserna.**
@@ -593,7 +593,7 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Du ska befria mig**
 **Från möjligheten att kapitulera.**
 **Jag ska binda dig vid dina resurser:**
-**Trumpetstötarna **
+**Trumpetstötarna**
 **Över det återkallade vattnet.**
 **Vi ska piska uppsåtet,**
 **Över teorierna, upp**
@@ -654,12 +654,12 @@ Programmet fälls naturligtvis i Radionämnden:
 
 **”Enligt nämndens mening inrymde rubricerade inslag avsnitt som måste uppfattas som så tarvliga och klart stötande att inslaget strider mot kravet på god underhållning.”**
 
-Etiska skäl har fått ge vika för ”kravet pågod underhållning”, det tarvliga och stötande ska näpsas.
+Etiska skäl har fått ge vika för ”kravet på god underhållning”, det tarvliga och stötande ska näpsas.
 ::: indent
 Patetiskt.
 :::
 
-Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sveriges Radio. Vi döper det till “*Caligula says it´s ok*”. Manuset består av en dialog mellan tvåpersoner och framförs av Claire Wikholm och Sten Ljunggren. Dialogen är uppbyggd av fritt urklippta meningar och ord ur alla Vargtidningarna (enligt dada-modell). Hela fram för andet ackompanjeras av elektronmusikern Sten Hanssons ljudslingor.
+Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sveriges Radio. Vi döper det till “*Caligula says it´s ok*”. Manuset består av en dialog mellan två personer och framförs av Claire Wikholm och Sten Ljunggren. Dialogen är uppbyggd av fritt urklippta meningar och ord ur alla Vargtidningarna (enligt dada-modell). Hela framförandet ackompanjeras av elektronmusikern Sten Hanssons ljudslingor.
 
 ![Caligula says it´s ok.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/171.png)
 
@@ -672,7 +672,7 @@ Under arbetets gång kommer utredarna fram till insikten att  ”*prostitutionen
 :::
 
 ::: indent
-En bok som kommer att förändra samhällets syn påkönshandel och bland annat kriminalisera torskarna.
+En bok som kommer att förändra samhällets syn på könshandel och bland annat kriminalisera torskarna.
 :::
 
 ::: indent
@@ -694,7 +694,7 @@ Tanken visar sig merän rätt. Större delen av resan slipper vi distraheras av 
 :::
 
 ::: indent
-Men som sagt, vi sitter inte påtåget för att njuta av utsikten, vi har annat att ägna ossåt. I drygt sju dygn.
+Men som sagt, vi sitter inte på tåget för att njuta av utsikten, vi har annat att ägna oss åt. I drygt sju dygn.
 :::
 
 ::: indent
@@ -710,7 +710,7 @@ Minne från Transsibiriska 1: Sten och jag köper en kortlek i Helsingfors. Vi i
 :::
 
 ::: indent
-Förklaringen är enkel: mycket lättklädda flickor prydde baksidorna påkorten.
+Förklaringen är enkel: mycket lättklädda flickor prydde baksidorna på korten.
 :::
 
 ::: indent
@@ -726,7 +726,7 @@ Restaurangvagnen.
 :::
 
 ::: indent
-Utanåthävor säljer tågpersonalen den medhavda maten påperrongen (förmodligen en givande biinkomst). Resultatet blir, efter några stationer, att tågets matförråd i princip är tömt. Det mesta stryks pårestaurangmenyn. Kvar blir ljummet ungerskt vitt vin, svart kaviar och nån form av köttstuvning (en intressant kombo för valfritt Masterchefprogram). I och för sig hade finansmagnaten Jan Stenbeck en förkärlek för att, sent på natten, vispa ner försvarliga mängder svart kaviar i potatismos, menändå.
+Utan åthävor säljer tågpersonalen den medhavda maten på perrongen (förmodligen en givande biinkomst). Resultatet blir, efter några stationer, att tågets matförråd i princip är tömt. Det mesta stryks på restaurangmenyn. Kvar blir ljummet ungerskt vitt vin, svart kaviar och nån form av köttstuvning (en intressant kombo för valfritt Masterchefprogram). I och för sig hade finansmagnaten Jan Stenbeck en förkärlek för att, sent på natten, vispa ner försvarliga mängder svart kaviar i potatismos, men ändå.
 :::
 
 ::: indent
@@ -734,7 +734,7 @@ Middagarna blir lite enahanda.
 :::
 
 ::: indent
-Minne 3: Vi kommer till Irkutsk, vid Bajkalsjön. Tåget ska göra stopp ett antal timmar. Vi lämnar tåget för att gåin i stan. Så fort vi kliver av perrongen kommer tvådiskret klädda män fram. Dom erbjuder sig att visa oss runt. Vi är inte intresserade och går vidare. Männen följer efter oss, tre steg bakom. Rätt snabbt inser vi att det handlar om bevakning. Vad tror dom att vi ska göra? Störta sovjetriket?
+Minne 3: Vi kommer till Irkutsk, vid Bajkalsjön. Tåget ska göra stopp ett antal timmar. Vi lämnar tåget för att gå in i stan. Så fort vi kliver av perrongen kommer två diskret klädda män fram. Dom erbjuder sig att visa oss runt. Vi är inte intresserade och går vidare. Männen följer efter oss, tre steg bakom. Rätt snabbt inser vi att det handlar om bevakning. Vad tror dom att vi ska göra? Störta sovjetriket?
 :::
 
 ::: indent
@@ -777,7 +777,7 @@ Respekt.
 
 Tebehållarna, ja.
 ::: indent
-Jag har tryckt ner två stycken i min resväska. En tulltjänsteman upptäcker dom. Jag förklarar att jag har köpt dom i en antikbod. Han vänder på en av dom och visar Transsibiriska Järnvägens stämpel påundersidan. Sten drar sig diskret åt sidan. Det hela slutar med att föremålen konfiskeras och vi hinner med planet.
+Jag har tryckt ner två stycken i min resväska. En tulltjänsteman upptäcker dom. Jag förklarar att jag har köpt dom i en antikbod. Han vänder på en av dom och visar Transsibiriska Järnvägens stämpel på undersidan. Sten drar sig diskret åt sidan. Det hela slutar med att föremålen konfiskeras och vi hinner med planet.
 :::
 
 ::: indent
@@ -817,7 +817,7 @@ Jagåker ner.
 :::
 
 ::: indent
-Gösta har redan ett stort antal scener helt klara, han vet precis vad han vill göra med sin figur (den är en utlöpare från ett barnprogram, ”*Mumlan*”, där han och Lena Söderblom spelade herr och fru Papphammar). Idén till kortfilmerna har han fått från pausprogrammen i tv. Oftast enormt tråkiga pauser med akvarium och drogade fiskar som simmar runt. Gösta vill lägga in korta sekvenser med Papphammar istället. Han har ställt ett enda krav på SVT: dom korta filmerna får absolut inte tablåläggas! Ingen ska veta när dom plötsligt dyker upp (ett krav som jag tror Gösta är den ende som kan fåigenom vid det här tillfället).
+Gösta har redan ett stort antal scener helt klara, han vet precis vad han vill göra med sin figur (den är en utlöpare från ett barnprogram, ”*Mumlan*”, där han och Lena Söderblom spelade herr och fru Papphammar). Idén till kortfilmerna har han fått från pausprogrammen i tv. Oftast enormt tråkiga pauser med akvarium och drogade fiskar som simmar runt. Gösta vill lägga in korta sekvenser med Papphammar istället. Han har ställt ett enda krav på SVT: dom korta filmerna får absolut inte tablåläggas! Ingen ska veta när dom plötsligt dyker upp (ett krav som jag tror Gösta är den ende som kan få igenom vid det här tillfället).
 :::
 
 ::: indent
@@ -825,11 +825,11 @@ SVT accepterar.
 :::
 
 ::: indent
-Mitt bidrag blir att stämma av, att få Gösta att känna vad som fungerar och inte (i filmernas eftertexter står jag krediterad som ”sparring”, en ovanlig yrkesbeteckning i dessa sammanhang). Jag skriver ocksånågra sketcher som innehåller dialog (Gösta har, trots att han är en extremt beläst och ytterst välformulerad människa, en enorm respekt för skrivandet) och utspelar sig på en restaurang.
+Mitt bidrag blir att stämma av, att få Gösta att känna vad som fungerar och inte (i filmernas eftertexter står jag krediterad som ”sparring”, en ovanlig yrkesbeteckning i dessa sammanhang). Jag skriver också några sketcher som innehåller dialog (Gösta har, trots att han är en extremt beläst och ytterst välformulerad människa, en enorm respekt för skrivandet) och utspelar sig på en restaurang.
 :::
 
 ::: indent
-Filmerna spelas in i och omkring Sälshög med en mycket låg budget. Mats regisserar och spelar med i ett antal sketcher. Dom flesta är ordlösa, enbart Papphammar som utför olika plastiska manövrar, en del förbluffande skickligt genomförda - till exempel hur man med hjälp av ett par rullskridskor påfötterna lyckas demolera ett helt vardagsrum utan att ge ifrån sig ett ljud.
+Filmerna spelas in i och omkring Sälshög med en mycket låg budget. Mats regisserar och spelar med i ett antal sketcher. Dom flesta är ordlösa, enbart Papphammar som utför olika plastiska manövrar, en del förbluffande skickligt genomförda - till exempel hur man med hjälp av ett par rullskridskor på fötterna lyckas demolera ett helt vardagsrum utan att ge ifrån sig ett ljud.
 :::
 
 ::: indent
@@ -837,18 +837,18 @@ Minne från Sälshög 1: Gösta och jag sitter i ett vackert vitt annex på hans
 :::
 
 ::: indent
-– Tänk om Papphammar kom gående genom det där fältet, bara över kroppen syns, hatt och rock, och såkorsar han plötsligt en väg och är naken påunderkroppen, sen försvinner han in i fältet på andra sidan? Vore inte det kul?
+– Tänk om Papphammar kom gående genom det där fältet, bara överkroppen syns, hatt och rock, och så korsar han plötsligt en väg och är naken på underkroppen, sen försvinner han in i fältet på andra sidan? Vore inte det kul?
 :::
 
 ::: indent
 Det vore otroligt kul och blev otroligt kul när scenen spelades in strax efter.
 :::
 
-Fotnot: Det gjordes en pendang till den här scenen, där Papphammar går i vattnet längs en strand med naken över kropp, kliver upp och har byxor påunderkroppen och en portfölj i handen. Den blev inte speciellt rolig och visades aldrig.
+Fotnot: Det gjordes en pendang till den här scenen, där Papphammar går i vattnet längs en strand med naken överkropp, kliver upp och har byxor på underkroppen och en portfölj i handen. Den blev inte speciellt rolig och visades aldrig.
 
 Minne från Sälshög 2: Gösta vill göra en meteorolog som har problem med läderveken. Dessutom ska han ha en fluga krypande i ansiktet under hela inslaget. För att få en fluga att göra det (vid den här ”primitiva” tekniska tidpunkten) måste flugan sakna vingar. Det blir Mats Arehns delikata uppgift att fånga in ett antal flugor och befria dom från vingarna (märk väl: ”geniet” Andrej Tarkovskij tände eld på en levande ko när han spelade in ”*Offret*”). Arehn samlar några stycken vinglösa flugor i en burk (det kan ju bli omtagningar) och scenen blir väldigt dråplig.
 ::: indent
-Minne från Sälshög 3: Jag och Tove vill gifta oss. Vi har varit ihop iåttaår. Vigseln blir borglig och äger rum på Göstas gård i Sälshög. Den lokale prästen är påtagligt nervös när han ska genomföra akten (Gösta har den påverkan påganska många). Dagen efter knackar det pådörren i gryningen. Det är en mycket svettig präst (han har cyklat, förmodligen fort). Med darrande hand räcker han över vigselbeviset till Gösta. Han har glömt att lämna det kvällen innan.
+Minne från Sälshög 3: Jag och Tove vill gifta oss. Vi har varit ihop i åtta år. Vigseln blir borglig och äger rum på Göstas gård i Sälshög. Den lokale prästen är påtagligt nervös när han ska genomföra akten (Gösta har den påverkan på ganska många). Dagen efter knackar det på dörren i gryningen. Det är en mycket svettig präst (han har cyklat, förmodligen fort). Med darrande hand räcker han över vigselbeviset till Gösta. Han har glömt att lämna det kvällen innan.
 :::
 
 ::: indent
@@ -913,18 +913,18 @@ Medverkande är Carsten, jag själv, Stefan Nilsson och Malla. I föreställning
 *(och på golvet dansar ett slaktdjur)*
 :::
 
-**”Vi söker ett namn på världen. Vi som föddes åtta trappor ner, där Gud aldrig han tända. Vi som lever på fallna änglar och våt poesi. På neonskratt och mjuk befruktning. Åtta trappor ner, där natten är en oskriven dikt av Artaud. Där dyrbart glasflis fraktas under huden. **
+**”Vi söker ett namn på världen. Vi som föddes åtta trappor ner, där Gud aldrig han tända. Vi som lever på fallna änglar och våt poesi. På neonskratt och mjuk befruktning. Åtta trappor ner, där natten är en oskriven dikt av Artaud. Där dyrbart glasflis fraktas under huden.**
 
 ::: accordion
 **Där vi håller ett leende i handen och en varm fågelunge i munnen. Vi lever i ett land av längtan. Vi är rotlösa reflexer av ett samhälle som hatar sitt eget öga.**
 
-**Ett samhälle som förnekar sina visioner och fruktar det bedragna ansiktet. Ett samhälle som förnedrar sin själ och spottar på sitt samvete. Vi lever i ett reservat för slaktdjur. Den dunkande jordskorpan håller oss medvetna. Vi lyssnar uppgivet på dom urskrapade magmunnarnas sjungande testamente. Hur långt kan det gå****? Hur mycket tål vi? Hur mycket orkar våra plågade drömmar? Och vad händer när hjärnan lossnar ur fästet och faller som en glödande granat mot hjärtat? Vad händer när vi står där med aska och trasiga tegelstenar i händerna och måste bygga världens högsta skrik? Vad händer med ett samhälle där människovärdet hängs på slaktkrok och släpas genom elektriskt vatten?”**
+**Ett samhälle som förnekar sina visioner och fruktar det bedragna ansiktet. Ett samhälle som förnedrar sin själ och spottar på sitt samvete. Vi lever i ett reservat för slaktdjur. Den dunkande jordskorpan håller oss medvetna. Vi lyssnar uppgivet på dom urskrapade magmunnarnas sjungande testamente. Hur långt kan det gå? Hur mycket tål vi? Hur mycket orkar våra plågade drömmar? Och vad händer när hjärnan lossnar ur fästet och faller som en glödande granat mot hjärtat? Vad händer när vi står där med aska och trasiga tegelstenar i händerna och måste bygga världens högsta skrik? Vad händer med ett samhälle där människovärdet hängs på slaktkrok och släpas genom elektriskt vatten?”**
 :::
 
 ::: part
 :::
 
-Fotnot: Det finns varelser på andra sidan jorden som ocksågillar Gateway:
+Fotnot: Det finns varelser på andra sidan jorden som också gillar Gateway:
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/239.jpeg)
 
@@ -933,7 +933,7 @@ Fotnot: Det finns varelser på andra sidan jorden som ocksågillar Gateway:
 
 Under den här perioden skriver jag också tre filmtreatment på uppdrag av olika producenter. Det första baseras på ”*Lustans professor*” av Philip Roth. Rätt snabbt slås jag av hur gubbsjuk berättelsen är. Eller hur sunkig blicken på kvinnor är. Samma sak när jag skriver nästa, baserat på ”*Skratt i mörkret*” av Nabokov. Jag ifrågasätter inte dom ”litterära” kvaliteterna, men när man bryter ner en bok i treatmentform är det mycket som avslöjas. Av både dramaturgiska håligheter och en del lätt misogyna drag (som när jag försökte läsa Houellebecqs senaste roman ”*Serotonin*”, en extremt gubbsjuk berättelse formulerad i ett ospänstigt språk).
 ::: indent
-Inget av dessa tvåtreatment vidareutvecklas till manus, eventuellt beroende på min reaktion påböckerna.
+Inget av dessa två treatment vidareutvecklas till manus, eventuellt beroende på min reaktion på böckerna.
 :::
 
 ::: indent

@@ -29,7 +29,7 @@ Ingången handlar alltid om graden av gåta (Greene), eller komplexiteten i situ
 Jag lider dessutom av den för författare tämligen vanliga åkomman att anslaget måste sitta, anklangen. Är inte ingången där låser det sig lätt. Jag antar att det är som att komponera, det är svårt att börja några takter in. Tonen måste vara där.” *Det var en mörk och stormig natt*.” Skitbra inledning, egentligen. På min första sida står det än så länge så här:
 :::
 
-**”Han var en oansenlig**** man med två stora hundar.”**
+**”Han var en oansenlig man med två stora hundar.”**
 
 Sen är det vitt och blankt.
 ::: indent
@@ -58,7 +58,7 @@ Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket 
 
 **     Det är upptakten till ett mycket märkligt människoöde. Doc Forest påbörjar ett konstnärligt arbete utan motstycke i världen. Under 13 år täcker han den överlämnade kroppen med en serie unika gamla japanska motiv. Lars blir den enda människan i världen med en hel kroppstatuering utförd av samma tatuerare.**
 
-**     Dom blir också ett par. **
+**     Dom blir också ett par.**
 
 **     På en fråga från en reporter om hur det känns att gå på en överfull badstrand svarar Wellström:**
 
@@ -88,17 +88,17 @@ I samband med den här inspelningen börjar jag diskutera en helt annan sorts fi
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/199.png)
 
-Intrigen är enkel. Tvåkillar vaknar upp, otroligt bakfulla, i soffan ligger en död kvinna. Ingen av männen kommer ihåg vad som har hänt på natten. Ringa polisen? Dåblir det ingen film, som Hitchcock alltid påpekade. Såhur ska dom lösa situationen?
+Intrigen är enkel. Två killar vaknar upp, otroligt bakfulla, i soffan ligger en död kvinna. Ingen av männen kommer ihåg vad som har hänt på natten. Ringa polisen? Då blir det ingen film, som Hitchcock alltid påpekade. Så hur ska dom lösa situationen?
 ::: indent
 Delvis dråplikt, kan jag avslöja.
 :::
 
 ::: indent
-Filmen spelas in på plats i en lägenhet på Östermalm. Jag är där så ofta jag hinner, mest nyfiken på Gösta och Sten. Tvåpersoner som jag har samarbetat med mycket, båda påtagligt intellektuella, båda med respekt för varandra.
+Filmen spelas in på plats i en lägenhet på Östermalm. Jag är där så ofta jag hinner, mest nyfiken på Gösta och Sten. Två personer som jag har samarbetat med mycket, båda påtagligt intellektuella, båda med respekt för varandra.
 :::
 
 ::: indent
-Och såolika!
+Och så olika!
 :::
 <!-- PAGE 167 END -->
 
@@ -116,7 +116,7 @@ Filmen beskrivs så här:
 ::: part
 :::
 
-Själv viker jag över till lättare brödmark igen och skriver ett entimmes underhållningsprogram till sångerskan Anna-Lotta Larsson (hon visar sig vara en fulländad komedienne). Det sänds i SVT och blir kanalens Montreauxbidrag. Själv får jag en nära och varm kontakt med Anna-Lotta -över tid kommer jag att skriva många sångtexter till henne (hon är fenomenal på att kula, en uråldrig vildsint lockropsteknik som kan fåupp vem som helst ur rullstolen).
+Själv viker jag över till lättare brödmark igen och skriver ett entimmes underhållningsprogram till sångerskan Anna-Lotta Larsson (hon visar sig vara en fulländad komedienne). Det sänds i SVT och blir kanalens Montreauxbidrag. Själv får jag en nära och varm kontakt med Anna-Lotta -över tid kommer jag att skriva många sångtexter till henne (hon är fenomenal på att kula, en uråldrig vildsint lockropsteknik som kan få upp vem som helst ur rullstolen).
 
 Samtidigt har Carsten en separatutställning på Galleri Engström som han kallar ”*SHOWDOWN*”. För en gångs skull skriver jag ingen text till hans katalog, istället väljer han ett citat av den franske symbolisten Marcel Schwob:
 
@@ -133,7 +133,7 @@ Samtidigt har Carsten en separatutställning på Galleri Engström som han kalla
 **för blod.**
 :::
 
-Klockan är förmiddag, vi har rivit ett antal tegelpannor påhuset, samlat dom i svarta plastsäckar och beställt en container. Jag lyfter säckarna, ganska tunga, vrider mig och kastar dom över kanten påcontainern. Det borde jag inte ha gjort. Smärtorna i ryggslutet kommer krypande kort efteråt. Jag tvingas ligga i kökssoffan med en pall under smalbenen för att dra ut ryggraden en aning och dämpa huggen.
+Klockan är förmiddag, vi har rivit ett antal tegelpannor på huset, samlat dom i svarta plastsäckar och beställt en container. Jag lyfter säckarna, ganska tunga, vrider mig och kastar dom över kanten på containern. Det borde jag inte ha gjort. Smärtorna i ryggslutet kommer krypande kort efteråt. Jag tvingas ligga i kökssoffan med en pall under smalbenen för att dra ut ryggraden en aning och dämpa huggen.
 ::: indent
 Ingen höjdarställning.
 :::
@@ -146,7 +146,7 @@ Det blir sjukhus och en läkare som snabbt konstaterar att det rör sig om ett a
 Omedelbar operation.
 :::
 
-Minne före operationen: Jag är mycket munter och talför påbåren i hissen upp till operationsrummet, livet känns lätt och upprymt. Sköterskan är vänligt leende. Hon är förmodligen van vid morfinstinna patienter.
+Minne före operationen: Jag är mycket munter och talför på båren i hissen upp till operationsrummet, livet känns lätt och upprymt. Sköterskan är vänligt leende. Hon är förmodligen van vid morfinstinna patienter.
 <!-- PAGE 168 END -->
 
 <!-- PAGE 169 START -->
@@ -259,13 +259,13 @@ Solsting 2: Jag och min son Nick gör en båttur på Nilen. Vi avslutar den med 
 Nick gör som han blir tillsagd och en stund senare ligger det en vit, blöt mumie i hotellsängen (inte så långt från mycket äldre mumier). Läkaren kommer och kör in en två meter lång hästspruta i rumpköttet. På kvällen är jag på benen.
 :::
 
-Åter till Mallorca: Skådespelerskan Lena Nyman gör ett kort besök hos oss i Fornalutx, det är tänkt att hon ska spela en av rollerna i filmen. Hon är cool och inte såintresserad av sol. Jag tycker mycket om henne, vi har delvis samma dialektiska ursprung, trakterna runt Björns Trädgård på Söder. Vår kontakt är enkel och rak och när jag sexår senare ber henne ingåi redaktionen för ett avantgardistiskt tv-program,”*Sista Skriket*”, ställer hon upp direkt. Såhär gestaltar hon en text jag skriver till henne:
+Åter till Mallorca: Skådespelerskan Lena Nyman gör ett kort besök hos oss i Fornalutx, det är tänkt att hon ska spela en av rollerna i filmen. Hon är cool och inte så intresserad av sol. Jag tycker mycket om henne, vi har delvis samma dialektiska ursprung, trakterna runt Björns Trädgård på Söder. Vår kontakt är enkel och rak och när jag sex år senare ber henne ingå i redaktionen för ett avantgardistiskt tv-program,”*Sista Skriket*”, ställer hon upp direkt. Så här gestaltar hon en text jag skriver till henne:
 
 [yt-video][https://www.youtube.com/watch?v=1HbH_hpwGi4]
 <!-- PAGE 170 END -->
 
 <!-- PAGE 171 START -->
-Proceduren runt manuset blir som den brukar med Gösta och mig. Dagenägnasåt prat (och för min del memorering), kvällarna och nätternaåt att fästa ner och redigera allt som har sagts (och umgås med Lena). Jag bor i ett mycket vackert litet rum, eller det är väl tvåi lägenheten, men det jag sitter iär vitkalkat, ett par väggar är strösslade med småikoner, förmodligen föreställande religiösa mysterier, utsikt genom ett blåramat fönster mot en stenbelagd gångväg, vackra blomkrukor.
+Proceduren runt manuset blir som den brukar med Gösta och mig. Dagen ägnas åt prat (och för min del memorering), kvällarna och nätterna åt att fästa ner och redigera allt som har sagts (och umgås med Lena). Jag bor i ett mycket vackert litet rum, eller det är väl två i lägenheten, men det jag sitter i är vitkalkat, ett par väggar är strösslade med små ikoner, förmodligen föreställande religiösa mysterier, utsikt genom ett blåramat fönster mot en stenbelagd gångväg, vackra blomkrukor.
 ::: indent
 Och en bra skrivmaskin.
 :::
@@ -274,7 +274,7 @@ Och en bra skrivmaskin.
 Och gott vitt vin.
 :::
 
-Minne från Mallorca: Dagen efter jag har anlänt föreslår Gösta att vi gör en biltur upp i bergen, han vill visa ett vackert gammalt kloster. Vi åker dit och går in (klostretäröppet för allmänheten vissa tidpunkter). Stora tomma salar, här och där skymtar en diskret munk. Vi kommer in ett fönsterlöst rum som domineras av en väldig skänk i mörk ek, full med smålådor. Gösta blir nyfiken och går fram.
+Minne från Mallorca: Dagen efter jag har anlänt föreslår Gösta att vi gör en biltur upp i bergen, han vill visa ett vackert gammalt kloster. Vi åker dit och går in (klostret är öppet för allmänheten vissa tidpunkter). Stora tomma salar, här och där skymtar en diskret munk. Vi kommer in ett fönsterlöst rum som domineras av en väldig skänk i mörk ek, full med smålådor. Gösta blir nyfiken och går fram.
 ::: indent
 – Det finns säkert smålönnfack i en sån här ...
 :::
@@ -285,7 +285,7 @@ Jag tittar runt, vi är ensamma i rummet. Gösta börjar dra ut ett par små lå
 
 Gösta har titeln på sin film klar från början:”*Morrhår & Ärtor*”. Uttrycket får sin förklaring i filmen. En liten pojke hatar sin skolvaktmästare. Huvudpersonen Håna (Gösta) ger honom ett tips.
 
-**     - **Du klipper av morrhåren på en katt, sticker in dom i grönaärtor, klipper avändarna och bjuder på ärtsoppa. Dom småmorrhåren går genom magen, ut i blodet och rakt upp hjärtat, som en propp, sen dör man. Pang!
+**- Du klipper av morrhåren på en katt, sticker in dom i gröna ärtor, klipper av ändarna och bjuder på ärtsoppa. Dom små morrhåren går genom magen, ut i blodet och rakt upp hjärtat, som en propp, sen dör man. Pang!**
 
 ![Logotype.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/201.png)
 
@@ -303,7 +303,7 @@ Det blir en minnesvärd upplevelse.
 :::
 
 ::: indent
-Bland annat blir jag fullt på det klara med varför regissörer undviker djur. Vi ska ha med en hund i filmen, Tiffin, en liten sort. Vi har två, för säkerhets skull. Tagningarna med hunden blir ett litet helvete, helt enkelt för att hundar (i det fall dom inte är drogade)är tämligen ointresserade av regi. Det tär ordentligt påinspelningsteamet.
+Bland annat blir jag fullt på det klara med varför regissörer undviker djur. Vi ska ha med en hund i filmen, Tiffin, en liten sort. Vi har två, för säkerhets skull. Tagningarna med hunden blir ett litet helvete, helt enkelt för att hundar (i det fall dom inte är drogade) är tämligen ointresserade av regi. Det tär ordentligt på inspelningsteamet.
 :::
 
 ::: indent
@@ -315,7 +315,7 @@ Plågsamt minne från inspelningen: En central scen i filmen handlar om Hånas (
 :::
 
 ::: indent
-Det är fotografen som har upptäckt att rullen i kameran är slut. Krook fattar först inte vad som händer, hon är kvar inne i rollen, Gösta tror inte sinaöron. Alla som kan slinker snabbt ut ur rummet. Det tar en lång stund innan Krook kommer ur chocken, inte såglad.
+Det är fotografen som har upptäckt att rullen i kameran är slut. Krook fattar först inte vad som händer, hon är kvar inne i rollen, Gösta tror inte sina öron. Alla som kan slinker snabbt ut ur rummet. Det tar en lång stund innan Krook kommer ur chocken, inte så glad.
 :::
 <!-- PAGE 171 END -->
 
@@ -335,7 +335,7 @@ Sagt och gjort. Gösta kontaktar en whiskyimportör, gör en deal som renderar o
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/200.png)
 
-När inspelningen är klar har vi slutfest underäppelträden i Toves och min trädgård på Skarpö. Uppsluppet. Mitt i maten klingar Kent Andersson i sitt glas, reser sig och deklamerar en limerick han suttit och plitat ihop:
+När inspelningen är klar har vi slutfest under äppelträden i Toves och min trädgård på Skarpö. Uppsluppet. Mitt i maten klingar Kent Andersson i sitt glas, reser sig och deklamerar en limerick han suttit och plitat ihop:
 
 ::: poem
 **Det var en fascist på Mallorca**
@@ -353,7 +353,7 @@ Privat brottas jag fortfarande varenda ledig natt med mitt romanprojekt. I ett f
 **San Quentin, Kalifornien.**
 
 **Runt vinden bygger hon ett tegelhus, snart faller dom sista löven.**
-**Hon skriver till honom som snart ska dö****,**
+**Hon skriver till honom som snart ska dö,**
 **hon spelar,**
 **hennes händer rör sig över klaviaturen,**
 **hon spelar för bruna remmar.**
@@ -371,14 +371,14 @@ Privat brottas jag fortfarande varenda ledig natt med mitt romanprojekt. I ett f
 
 Jag kommer inte vidare.
 ::: indent
-Eller det gör jag, baxar ett berg av texter mot en imaginärättestupa, där jag ska se svindlande uttryck blandas med slocknadeåldringar och förlupna renar och allt ska störta över kanten med samma brusande glädje som när man klipper av ett pärlhalsband.
+Eller det gör jag, baxar ett berg av texter mot en imaginär ättestupa, där jag ska se svindlande uttryck blandas med slocknade åldringar och förlupna renar och allt ska störta över kanten med samma brusande glädje som när man klipper av ett pärlhalsband.
 :::
 
 ::: indent
 Vi får se.
 :::
 
-För att skaka av mig romanmonstret skriver jag fyra sångtexter till Anna-Lotta Larssons lp *”Natt efter Natt”*  och en till Mats Ronanders lp *”Tokig”**.*
+För att skaka av mig romanmonstret skriver jag fyra sångtexter till Anna-Lotta Larssons lp *”Natt efter Natt”*  och en till Mats Ronanders lp *”Tokig”*.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/512.jpg)
 
@@ -387,7 +387,7 @@ För att skaka av mig romanmonstret skriver jag fyra sångtexter till Anna-Lotta
 ::: part
 :::
 
-Off the record: Jag får en förfrågan från Limabrall, ett produktionsbolag som drivs av Lill Lindfors, Magnus Härenstam, Brasse Brännström och teaterproducenten Aller Johansson. Lars Amble ska sätta upp en musikal påteater Maxim i Stockholm. Han har föreslagit att jag ska skriva den.
+Off the record: Jag får en förfrågan från Limabrall, ett produktionsbolag som drivs av Lill Lindfors, Magnus Härenstam, Brasse Brännström och teaterproducenten Aller Johansson. Lars Amble ska sätta upp en musikal på teater Maxim i Stockholm. Han har föreslagit att jag ska skriva den.
 ::: indent
 Musikal?
 :::
@@ -397,11 +397,11 @@ Jag är mitt inne i ett långfilmsmanus för SF och en tv-serie för SVT. Jag tr
 :::
 
 ::: indent
-– Att skriva en storskalig musikal lockar mig, det är obruten skrivmark, men jag haråtaganden där uppdragsgivarna kan ta anstöt om jag engagerar mig i fler projekt.
+– Att skriva en storskalig musikal lockar mig, det är obruten skrivmark, men jag har åtaganden där uppdragsgivarna kan ta anstöt om jag engagerar mig i fler projekt.
 :::
 
 ::: indent
-– Pseudonym, säger Amble (som sagt, alltid lätt påfoten).
+– Pseudonym, säger Amble (som sagt, alltid lätt på foten).
 :::
 
 ::: indent
@@ -428,7 +428,7 @@ Fortfarande är det en rolig kvartett att skriva om.
 :::
 
 ::: indent
-Fortfarande är figurernaälskade.
+Fortfarande är figurerna älskade.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/255.png)
@@ -438,15 +438,15 @@ Fortfarande är figurernaälskade.
 
 Vid det här stadiet i en kriminalroman, efter drygt tvåtredjedelar av boken, brukar man lägga in ett mord för att trissa upp framåtrörelsen. Det här mordet sker på öppen gata:
 
-**”Klockan är strax efter elva på kvällen. Det är fem minusgrader ute. Folk huttrar sig fram längs husfasaderna, alla vill in i värmen. Offret, en man, är på väg hem från en bioföreställning. Han har hustrun vid sin sida och har ingen aning om att han ska vara död om drygt tio minuter. Ingen hör vad paret viskar till varandra. Neonljusen från en skyltreklam slår blågröna strimmor över snön på trottoaren, en avlägsen biltuta hörs, musik från en krog tränger ut, en berusad man korsar gatan med en varmkorv i handen. Inne på kyrkogården sneddar en prostituerad mellan två gravstenar av svart diabas, en korp landar i en hängränna sex våningar upp i Skandiahuset, tre våningar ner släcks en kontorslampa. Offret passerar en mörk port och närmar sig dödsögonblicket, vinden drar kyla genom hans kläder, hustrun huttrar till, de går tätt intill varandra. **
+**”Klockan är strax efter elva på kvällen. Det är fem minusgrader ute. Folk huttrar sig fram längs husfasaderna, alla vill in i värmen. Offret, en man, är på väg hem från en bioföreställning. Han har hustrun vid sin sida och har ingen aning om att han ska vara död om drygt tio minuter. Ingen hör vad paret viskar till varandra. Neonljusen från en skyltreklam slår blågröna strimmor över snön på trottoaren, en avlägsen biltuta hörs, musik från en krog tränger ut, en berusad man korsar gatan med en varmkorv i handen. Inne på kyrkogården sneddar en prostituerad mellan två gravstenar av svart diabas, en korp landar i en hängränna sex våningar upp i Skandiahuset, tre våningar ner släcks en kontorslampa. Offret passerar en mörk port och närmar sig dödsögonblicket, vinden drar kyla genom hans kläder, hustrun huttrar till, de går tätt intill varandra.**
 
-**     Strax bakom paret går gärningsmannen. **
+**     Strax bakom paret går gärningsmannen.**
 
 **     Han har inte så långt fram, hans rörelser är målmedvetna och tysta. Det är vinter och vind och sporadisk biltrafik, ingen hör hans steg. Nu är han ikapp. Han höjer vapnet, klockan är 23.21.30, knappt en decimeter från offrets kropp avlossar han två skott. Det första går rakt in i offrets rygg, högt upp, det andra snuddar ena skuldran och träffar offrets hustru. Offret faller, hustrun skriker och gärningsmannen försvinner in på en trång, mörk gata ... för alltid.**
 
 **     00.06 dödförklaras offret på Sabbatsberg.”**
 
-Sann kliché: Du vet exakt var du befann dig när Kennedy och Palme mördades och när World Trade Center rasade ihop, om duär tillräckligt gammal (kanske ocksån är Buddy Holly dog i en flygplanskrasch 1959, om duär riktigt gammal). Jag vet exakt var jag befann mig vid alla fyra tillfällena. Inomhus. Ett besked kom via radio, tre via tv.
+Sann kliché: Du vet exakt var du befann dig när Kennedy och Palme mördades och när World Trade Center rasade ihop, om du är tillräckligt gammal (kanske också när Buddy Holly dog i en flygplanskrasch 1959, om du är riktigt gammal). Jag vet exakt var jag befann mig vid alla fyra tillfällena. Inomhus. Ett besked kom via radio, tre via tv.
 ::: indent
 Mordet på Palme är tveklöst det som tar längst tid att processa när det händer, mentalt. Sanningen är iskall, han är död, men mördad? PåSveavägen? Det är, som jag nämnt, bara fyra månader sen han satt med oss artister i Göteborg och var djupt engagerad i stödet till ANC. Nu ligger han skjuten på Sabbatsberg?
 :::
@@ -479,7 +479,7 @@ Samma sak när Fryshuset ordnar en minneskonsert för Olof Palme. Janne Schaffer
 :::
 
 ::: indent
-Efteråt tänker jag: Vad handlar det här om? Egentligen? Chocken över mordet? Ett sätt att bearbeta individuellångest? Att använda musiken för att sörja? Ett gig?
+Efteråt tänker jag: Vad handlar det här om? Egentligen? Chocken över mordet? Ett sätt att bearbeta individuell ångest? Att använda musiken för att sörja? Ett gig?
 :::
 
 ::: indent
@@ -494,14 +494,14 @@ Jag blir ombedd några fler gånger att framträda och läsa texter i relation t
 Jag vet inte.
 :::
 
-Minne från mordet på Palme: Jag står uppe på Fåfängan på Söder och tittar bort mot Kungsholmen. Det är lördagen den 15 mars. Palmes vita kista är på väg från Stadshuset till Adolf Fredriks kyrka. Katafalkvagnen dras av sex svartklädda män. Hela city har tystnat, dovaödesmättade trummor mullrar utöver vattnet, all trafik står stilla. Det är mäktigt och sorgligt.
+Minne från mordet på Palme: Jag står uppe på Fåfängan på Söder och tittar bort mot Kungsholmen. Det är lördagen den 15 mars. Palmes vita kista är på väg från Stadshuset till Adolf Fredriks kyrka. Katafalkvagnen dras av sex svartklädda män. Hela city har tystnat, dova ödesmättade trummor mullrar utöver vattnet, all trafik står stilla. Det är mäktigt och sorgligt.
 
 ::: part
 :::
 
 *Back to Baronessan Borelli*: Vid det här laget har min privata Titanic svällt ut till många hundra sidor text. Jag inser att jag måste välja: antingen acceptera ett haveri eller ”knyta ihop säcken” och få ett avslut. Jag har ingen som helst distans till materialet, kan inte zooma ut och se vad det egentligen är för verbal kvicksand jag har drunknat i.
 ::: indent
-Jag bestämmer mig för att lämna manuset till fyra personer som jag har tillräckligt privat förtroende för: Carsten, Sten Ljunggren, Bruno K och Gösta. Alla får en påfrestande fet pärm att läsa. Till min relativa förvåning tar sig allihop igenom materialet (påstår dom). Sten och Bruno träffar jag för att höra derasåsikter. Carsten formulerar sig i ett långt brev, han skriver bland annat:
+Jag bestämmer mig för att lämna manuset till fyra personer som jag har tillräckligt privat förtroende för: Carsten, Sten Ljunggren, Bruno K och Gösta. Alla får en påfrestande fet pärm att läsa. Till min relativa förvåning tar sig allihop igenom materialet (påstår dom). Sten och Bruno träffar jag för att höra deras åsikter. Carsten formulerar sig i ett långt brev, han skriver bland annat:
 :::
 
 **”Barndomens tomhet är trovärdig - jag vet att du alltid har talat om din minnesförlust - men att tränga in i det kommer inte att föda några progressiva tankar - det verkar vara ett förbannat trassel som vi ensamma måste reda ut - och som ingen annan egentligen är speciellt intresserad av. Mammor har aldrig haft några händer - horor har. Pappor har alltid varit suddiga spöken - dom riktiga papporna talar till en i natten. Och du som har så stora öron hör säkert vad dom säger.”**
@@ -587,7 +587,7 @@ Jag kontaktas av två grävande journalister som jag har stor respekt för, Toma
 
 **     - Varför kan inte vi göra som andra gör?**
 
-**     I augusti 1986 avslöjades den största banksvindeln i svensk historia. Bakom tv-inslag och feta rubriker om huvudmän i Köpenhamn och Hongkong skymtade två unga svenska banktjänstemän i 20-****årsåldern. **
+**     I augusti 1986 avslöjades den största banksvindeln i svensk historia. Bakom tv-inslag och feta rubriker om huvudmän i Köpenhamn och Hongkong skymtade två unga svenska banktjänstemän i 20-årsåldern.**
 
 **     Några månader tidigare stod en notis i kvällspressen om två ynglingar i finansvärlden och deras premieobligationsaffärer i miljonklassen.**
 
@@ -759,11 +759,11 @@ Jag skriver en text till deras katalog:
 
 **”En smutsig hammare, en spräckt fjäril ... vad som helst: våra kroppar är våra, vårt ansikte är vårt. Vår röst har slunkit omvägar över våldets glaciärer och hittat tillbaka till vår mun: vi är i ordet, som är uttrycket. Vi vet vad vi talar om. Vår bild är vi. Det i oss som växer i alla: det hårda språkets hopp, den förtvivlade kyssen. Odaldjuret, skallat ner i den förstföddes skål. Vi vet varför.**
 
-**Vi bröt oss in i samtiden för att bekräfta det obefintliga. Ormar i frack cirklade runt vår krater, saxen klippte i bakgrunden, det låg femton stillbilder av människor vid våra fötter: Vi älskar er, viskade dom. Mannen i bakgrunden nådde knappt ner till sina händer, han var sjuk, kvinnan till vänster höll en otäck flaska i sin hand, hon hade bråttom. Det var dag och natt, spelet pågick oavbrutet och vi frågade oss: hur länge orkar vi leta efter nåt som aldrig har försvunnit? **
+**Vi bröt oss in i samtiden för att bekräfta det obefintliga. Ormar i frack cirklade runt vår krater, saxen klippte i bakgrunden, det låg femton stillbilder av människor vid våra fötter: Vi älskar er, viskade dom. Mannen i bakgrunden nådde knappt ner till sina händer, han var sjuk, kvinnan till vänster höll en otäck flaska i sin hand, hon hade bråttom. Det var dag och natt, spelet pågick oavbrutet och vi frågade oss: hur länge orkar vi leta efter nåt som aldrig har försvunnit?**
 
-**     Så länge det behövs. **
+**     Så länge det behövs.**
 
-**     Så vi lärde oss att se det alla andra blundar för, det djupt förrådda. Vi lärde oss leva, inte överleva. Älska, i kraft av oändlig utsatthet: vi lärde oss tassa på tundror av övergiven innerlighet. Långt därute, där sårbarheten är den enda trygghet som finns. Nu står vi hudlösa inför trevande generationer och berättar hur ärren kom till; hur sanningen ser ut när ingenting annat återstår. Utom det som tigger om tystnad. Det normala, uppfött på grisfett och cement. Det som ingenting äger, utom skuggan av en växande skam. Nu står vi med nakna ådror och berättar historien om mannen som bränns på bål: två gånger försöker han stoppa sin egen aska i munnen för att påskynda sin död. Det är mycket vackert. Den tredje gången avstår han. Vad gör han då****? Något mycket värre. Han ler.**
+**     Så vi lärde oss att se det alla andra blundar för, det djupt förrådda. Vi lärde oss leva, inte överleva. Älska, i kraft av oändlig utsatthet: vi lärde oss tassa på tundror av övergiven innerlighet. Långt därute, där sårbarheten är den enda trygghet som finns. Nu står vi hudlösa inför trevande generationer och berättar hur ärren kom till; hur sanningen ser ut när ingenting annat återstår. Utom det som tigger om tystnad. Det normala, uppfött på grisfett och cement. Det som ingenting äger, utom skuggan av en växande skam. Nu står vi med nakna ådror och berättar historien om mannen som bränns på bål: två gånger försöker han stoppa sin egen aska i munnen för att påskynda sin död. Det är mycket vackert. Den tredje gången avstår han. Vad gör han då? Något mycket värre. Han ler.**
 
 **     Det är så det ser ut”**
 <!-- PAGE 180 END -->

@@ -6,7 +6,7 @@ Stannar vid ett ställe med en enda stor neonskylt: ”FOOD”. En lite mindre s
 :::
 
 ::: indent
-Tvåkaffe och en tragisk macka och såpåmed schackljuset. Bruno har ett visst psykologiskt över tag inför nya serien. Inklämda mellan skithuset och nödutgången börjar vi spela.
+Två kaffe och en tragisk macka och så på med schackljuset. Bruno har ett visst psykologiskt övertag inför nya serien. Inklämda mellan skithuset och nödutgången börjar vi spela.
 :::
 
 ::: indent
@@ -15,7 +15,7 @@ Damöppning.
 
 Omaha sex på morgonen. 1-1 i schack. Fett lager av ingrodd svett och skit, en blank stinkande hinna över kroppen. Sparkas ur bussen för två timmar i  Omaha.
 ::: indent
-Terminalrestaurangen: det skabbigaste vi sett såh är långt, en svinsylta, skulle få Skrubba soptipp att framståsom Wallenbergs cocktailberså... kaffe, chicken salad, vi tar oss ut i stan, letar efter en bar, allt är stängt.
+Terminalrestaurangen: det skabbigaste vi sett så här långt, en svinsylta, skulle få Skrubba soptipp att framstå som Wallenbergs cocktailberså... kaffe, chicken salad, vi tar oss ut i stan, letar efter en bar, allt är stängt.
 :::
 
 ::: indent
@@ -39,11 +39,11 @@ Står utanför detta bidande bårhus och tittar upp på en jättelik skyskrapa m
 :::
 
 ::: indent
-Tillbaka till restaurangen. Jättekötill disken. När Brunoäntligen kommer fram pajar kassaapparaten. Mumien bakom disken ställer sig och kontrollräknar 2000 bronsmynt. Jag ser att Brunoåldras oroväckande snabbt. För att späpåstämningen vrålar en högtalare ut ”Thanks for going Greyhound!”
+Tillbaka till restaurangen. Jättekö till disken. När Bruno äntligen kommer fram pajar kassaapparaten. Mumien bakom disken ställer sig och kontrollräknar 2000 bronsmynt. Jag ser att Bruno åldras oroväckande snabbt. För att spä på stämningen vrålar en högtalare ut ”Thanks for going Greyhound!”
 :::
 
 ::: indent
-Vi sätter oss vid ett perstorpsbord, typ. Bruno petar i en dime i bordsjukeboxen bara för att upptäcka att ljudet kommer ut i alla boxar utom vår. Prostituerade börjar flockas utanför fönstren. Såhär tidigt? Smådjur flockas runt tallriken. En fullständigt förkrossande söt liten flicka sitter och skriver på sin orörda frukostbricka, skjuter den ifrån sig, en blank tår rinner nerför den vita kinden.
+Vi sätter oss vid ett perstorpsbord, typ. Bruno petar i en dime i bordsjukeboxen bara för att upptäcka att ljudet kommer ut i alla boxar utom vår. Prostituerade börjar flockas utanför fönstren. Så här tidigt? Smådjur flockas runt tallriken. En fullständigt förkrossande söt liten flicka sitter och skriver på sin orörda frukostbricka, skjuter den ifrån sig, en blank tår rinner nerför den vita kinden.
 :::
 
 ::: indent
@@ -119,14 +119,14 @@ Vi går ut i Des Moines. Det enda vi ser är en äcklig skalbagge på en bänk o
 :::
 
 ::: indent
-Gul brandpost, vackra taxibilar, röda och vita. Vi är i fransk-kanadensiska områden. Fina villor, påhörnet en neonskylt: ”GO FOR THE GOAL!”
+Gul brandpost, vackra taxibilar, röda och vita. Vi är i fransk-kanadensiska områden. Fina villor, på hörnet en neonskylt: ”GO FOR THE GOAL!”
 :::
 
 ::: indent
 Dom förnekar sig aldrig.
 :::
 
-Korsar Mississippi. Schacket fram, allöldrickning förbjuden påbussen, inga kassettbandspelare till åtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett parår senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
+Korsar Mississippi. Schacket fram, all öldrickning förbjuden på bussen, inga kassettbandspelare till åtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett par år senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
 ::: indent
 En vit, rödhårig benget löper längs Mississippifloden, några killar står på en flodbåt och skjuter på ett sjunket bilvrak.
 :::
@@ -148,18 +148,18 @@ Varför stannar vi inte här?
 Varför måste vi in i den där vidriga plåtburken igen?
 :::
 
-Chicago. Vi kliver av bussen, huden flagnar från kroppen, Bruno är såslut att han över väger att äta kött.
+Chicago. Vi kliver av bussen, huden flagnar från kroppen, Bruno är så slut att han överväger att äta kött.
 ::: indent
-I kön till bussen: ett par militärer. Medaljerna hänger som nackskott påuniformen. Högröda ansikten. Såna som använder hjärnskålar som vinbål, tänker jag.
+I kön till bussen: ett par militärer. Medaljerna hänger som nackskott på uniformen. Högröda ansikten. Såna som använder hjärnskålar som vinbål, tänker jag.
 :::
 
 ::: indent
-Motell klockan ett på natten. Klyver en joint för att somna i askkoppen. Dricker tvåcola.
+Motell klockan ett på natten. Klyver en joint för att somna i askkoppen. Dricker två cola.
 :::
 
 Inne i Toledo, Ohio.
 ::: indent
-Nya passagerare, rakt in i tortyrkammaren. En fransman med lång svart hästsvans, inte olik Dali, en svart sångerska och tvåpundare som inte vetåt vilket håll vi är på väg. Detta är dagens påsläpp. Greyhound är verkligen fruktansvärt och långsamt.
+Nya passagerare, rakt in i tortyrkammaren. En fransman med lång svart hästsvans, inte olik Dali, en svart sångerska och två pundare som inte vet åt vilket håll vi är på väg. Detta är dagens påsläpp. Greyhound är verkligen fruktansvärt och långsamt.
 :::
 
 Pennsylvania. Frukost i Pittsburg. Kaffe, juice, napp på telefonen. Pratar med Tove, äntligen. En röst av värme och längtan.
@@ -196,10 +196,10 @@ Blandskog, landsväg med samma låga, kraftiga järnräck som på svenska motorv
 
 Fyra timmar från New York. Skumpar fram på en stålhäst, guppig väg, hitintills inte en enda trafikolycka eller spåren av en trafikolycka (jämfört med hur det var senast jag åkte genom Tyskland). 55 miles i timmen kanske är vettigt?
 ::: indent
-Alla vi mött påbussen har talat om New York med avsmak.
+Alla vi mött på bussen har talat om New York med avsmak.
 :::
 
-12-filig highway in till New Jersey Turnpike. Hårt schackparti pågång. Gigantiska industriområden, rör, elnät, skorstenar, rök. Stannar till i Newark, uppsluppen stämning i bussen, en av pundarna tror att han är i San Francisco.
+12-filig highway in till New Jersey Turnpike. Hårt schackparti på gång. Gigantiska industriområden, rör, elnät, skorstenar, rök. Stannar till i Newark, uppsluppen stämning i bussen, en av pundarna tror att han är i San Francisco.
 ::: indent
 Tunnel under Hudsonfloden till Manhattan, kommer upp. Bilkö. Tutor. Stressade människor. Den välkända profilen höljd i dimma och avgaser. Empire, Chrysler, World Trade.
 :::
@@ -214,7 +214,7 @@ Menändå.
 
 Äntligen ut ur Gråhunden för gott!
 ::: indent
-Direkt till ett vattenhål: Oyster Bar. Slår oss ner, beställer två Jack Daniels, straight. Bjuds påutmärkta friterade köttbullar avägaren, smakar som salta raggmunkar ungefär. Dom hesa bourbondropparna sitter som stulna.
+Direkt till ett vattenhål: Oyster Bar. Slår oss ner, beställer två Jack Daniels, straight. Bjuds på utmärkta friterade köttbullar av ägaren, smakar som salta raggmunkar ungefär. Dom hesa bourbondropparna sitter som stulna.
 :::
 
 ::: indent
@@ -239,9 +239,9 @@ Och Jack Daniels.
 <!-- PAGE 123 END -->
 
 <!-- PAGE 124 START -->
-Vi träffar Marianne och hennes kille, John Douglas, en framgångsrik dokumentärfotograf. Platsen är en mörk bar, det är sent på kvällen. Vi pratar i timmar. Jag berättar om mitt förra besök i New York, om mötet med Emilie d ´ Antonio. John känner Emilie väl. Han har hört om det stulna kungaporträttet och vill att jag verifierar historien. Snabbt gjort. John säger att han har en oöppnad Wild Turkey hemma påloftet om vi är intresserade. Vi drar dit, det ligger i Chinatown, röker, dricker, somnar, vaknar. John erbjuder oss att bo påloftet hur länge vi vill, själv ska han upp och fotvandra i bergen i Montana.
+Vi träffar Marianne och hennes kille, John Douglas, en framgångsrik dokumentärfotograf. Platsen är en mörk bar, det är sent på kvällen. Vi pratar i timmar. Jag berättar om mitt förra besök i New York, om mötet med Emilie d'Antonio. John känner Emilie väl. Han har hört om det stulna kungaporträttet och vill att jag verifierar historien. Snabbt gjort. John säger att han har en oöppnad Wild Turkey hemma på loftet om vi är intresserade. Vi drar dit, det ligger i Chinatown, röker, dricker, somnar, vaknar. John erbjuder oss att bo på loftet hur länge vi vill, själv ska han upp och fotvandra i bergen i Montana.
 ::: indent
-Ett magiskt loft, fullt med växter och palmer och ett tält inne i ett grönt rum och ett badkar dolt av klängväxter och en stor vinge av en örn på väggen. John samlar påvingar. Har fyra stora. På andra väggen en stor målning där Maria håller Jesusbarnet som räcker över en handgranat till Josef. Påköksbordet står en stor kruka, som ett Höganäskrus, fullt med marijuanaplantor.
+Ett magiskt loft, fullt med växter och palmer och ett tält inne i ett grönt rum och ett badkar dolt av klängväxter och en stor vinge av en örn på väggen. John samlar på vingar. Har fyra stora. På andra väggen en stor målning där Maria håller Jesusbarnet som räcker över en handgranat till Josef. På köksbordet står en stor kruka, som ett Höganäskrus, fullt med marijuanaplantor.
 :::
 
 ::: indent
@@ -260,9 +260,9 @@ Vi får nycklarna för att göra dubletter. ”No problem.”
 Fantastisk kille, John.
 :::
 
-Den närmaste tiden hänger vi runt på Manhattan, påbarer i Village, påfester kors och tvärs, träffar poeter, filmare och musiker och letar efter en ledtråd.
+Den närmaste tiden hänger vi runt på Manhattan, på barer i Village, på fester kors och tvärs, träffar poeter, filmare och musiker och letar efter en ledtråd.
 ::: indent
-Såhär ser ett par dygn ut ur ett dagboksperspektiv:
+Så här ser ett par dygn ut ur ett dagboksperspektiv:
 :::
 
 *Vaknar ensam på loftet. Bruno och Marianne har dragit. Klockan är vid lunch. Jag trycker i mig ett par ägg och en ostmacka, går ner på stan.*
@@ -460,7 +460,7 @@ Serien spelas in på plats under tre veckor. Medverkar gör bl.a gatuteatergrupp
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/131.png)
 
-Minne från inspelningen 1: Vi ska besöka en klinik där man behandlar drogberoende. Kliniken ligger på en mörk bakgata i Bronx. Viöppnar dörren och kommer in ett svagt upplyst rum, det luktar instängt. Närögonen har vant sig ser vi ett antal storvuxna män sittande pålåga bänkar runt väggarna med nakna över kroppar. Alla är svarta. Alla har höga, svajande nålar i svålen. Rakt upp ur huvudet. Det är fullkomligt tyst. Det är en mycket bisarr scen. Det tar en stund innan vi får klart för oss att drogbehandlingen innefattar akupunktur.
+Minne från inspelningen 1: Vi ska besöka en klinik där man behandlar drogberoende. Kliniken ligger på en mörk bakgata i Bronx. Vi öppnar dörren och kommer in ett svagt upplyst rum, det luktar instängt. När ögonen har vant sig ser vi ett antal storvuxna män sittande på låga bänkar runt väggarna med nakna överkroppar. Alla är svarta. Alla har höga, svajande nålar i svålen. Rakt upp ur huvudet. Det är fullkomligt tyst. Det är en mycket bisarr scen. Det tar en stund innan vi får klart för oss att drogbehandlingen innefattar akupunktur.
 
 Minne från inspelningen 2: Jag provar kokain för första gången (djävulstrippen i San Francisco handlade om helt andra substanser). En vänlig musiker instruerar mig vid ett glasbord i en lägenhet fylld med människor, svenskar och amerikaner. Hög musik, skratt och dans. Jag drar en vit lina, sjunker tillbaka i en mjuk soffa och inväntar effekten. Den kommer inte. Jag börjar prata med en kvinnlig ljudtekniker.
 <!-- PAGE 126 END -->
@@ -523,7 +523,7 @@ Sari börjar på ett dagis i Spiltan (på min ungdomstid känt för den så kall
 
 <!-- PAGE 128 START -->
 ::: indent
-Självägnar jag oförsvarligt många nätteråt att försöka skriva en fortsättning pålitteraturens mest slitna inledning: ”*Det var en mörk och stormig natt*”.
+Själv ägnar jag oförsvarligt många nätter åt att försöka skriva en fortsättning på litteraturens mest slitna inledning: ”*Det var en mörk och stormig natt*”.
 :::
 
 ::: indent
@@ -546,7 +546,7 @@ Jag börjar i en annanände.
 
 :::
 
-Minne från Grev Magnigatan: Tvärs över gården från mitt skrivrum bor en mycket märklig kvinna. Hon står ofta i sitt fönster i en tunn, rosa morgonrock. Hennes långa vita hår faller ner över axlarna. Dåoch dåskrapar hon på fönsterblecket med naglarna och strax efter landar ett antal kråkor påblecket.
+Minne från Grev Magnigatan: Tvärs över gården från mitt skrivrum bor en mycket märklig kvinna. Hon står ofta i sitt fönster i en tunn, rosa morgonrock. Hennes långa vita hår faller ner över axlarna. Då och då skrapar hon på fönsterblecket med naglarna och strax efter landar ett antal kråkor på blecket.
 ::: indent
 En dag går jag upp till henne och ringer på. Hon släpper in mig utan ett ord, som om hon väntade att jag skulle komma. Jag går efter henne in. Hela lägenheten är belamrad med tidningstravar, från väggarna i hallen och in i resten av rummen. I köket står ett stort antal småglasburkar uppställda på diskbänken. I varje burk har hon samlat olikfärgade snörstumpar. Hon tittar länge på mig när jag kommer in. Till slut säger hon:
 :::
@@ -668,7 +668,7 @@ Körberg kläs under scenen om från en gråkommunalpolitiker till en fullödig 
 **Nu nalkas uppgörelsens natt.**
 **Vi öppnade våra gränser.**
 **Vi ställde våra dörrar på glänt.**
-**Vi gjorde vad världen krävde av oss, som medmännisk 0 r.**
+**Vi gjorde vad världen krävde av oss, som medmänniskor.**
 **Nu stundar andra tider.**
 **Nu kräver svensken vad svensken tillhör.**
 **Här och nu!**
@@ -717,7 +717,7 @@ Mystisk metafor.
 ::: part
 :::
 
-Så är det dags för min första produktion på Norrbottensteatern i Luleå(det ska bli en till, tvåår senare, av betydligt tyngre kaliber). Den här gången är det en helaftonskabaré. Initiativet till föreställningen kommer från Sten Ljunggren, som ska regissera den. Vi döper den till ”*Sockerkorven*”. Titeln förklaras i en sketch i kabarén (en kemisk reaktion framkallar en växande brun korv). På scenen finns Sara Arnia, Eva Munther, Gustav Levin och Carl Magnus Dellow.
+Så är det dags för min första produktion på Norrbottensteatern i Luleå (det ska bli en till, två år senare, av betydligt tyngre kaliber). Den här gången är det en helaftonskabaré. Initiativet till föreställningen kommer från Sten Ljunggren, som ska regissera den. Vi döper den till ”*Sockerkorven*”. Titeln förklaras i en sketch i kabarén (en kemisk reaktion framkallar en växande brun korv). På scenen finns Sara Arnia, Eva Munther, Gustav Levin och Carl Magnus Dellow.
 ::: indent
 DN:s kritiker Bengt Jahnson (han som fick en propp av Ingmar Bergman), är både nykter och vaken under hela föreställningen och anser att ”*texterna blandar fränhet med solidaritet, joddlande fjällturister med desillusionism, uppsluppna köttslamsor med ärlig vrede... med ”Sockerkorven” har man skapat ett alldeles nytt begrepp inom revyvärlden som tillåter sig full frihet inom groteskeriets skinn.”*
 :::
@@ -791,7 +791,7 @@ Hela diktcykeln är skriven strax efter hans hustru Sylvia Plaths självmord. De
 :::
 
 ::: indent
-Såhär börjar den:
+Så här börjar den:
 :::
 
 ::: poem
@@ -818,7 +818,7 @@ Arbetet sker tillsammans med Lars Ragnar Forssberg och Stefan Nilsson. Vi bryter
 
 ![Truth Kills Everybody.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/138.png)
 
-Och tvåskisser till huvudrollen:
+Och två skisser till huvudrollen:
 
 ![Kråka.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/145.png)
 <!-- PAGE 132 END -->
@@ -936,7 +936,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **spyflugan på gräddtårtan.**
 **Sakta kliver svarta män ur bilvraken,**
 **bildar halvcirkel,**
-**rör sig mot marvattnet, **
+**rör sig mot marvattnet,**
 **över Manhattans himmel**
 **skriver flygplanet STOMATOL ...**
 **två krabbskal krossas under mina fötter**
@@ -964,7 +964,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **Tecknen av trasorna runt den gamle mannens**
 **bröstkorg**
 **talar sitt språk.**
-**Den alltför unga kvinnan **
+**Den alltför unga kvinnan**
 **som lindar barnet i söndagsbilagan**
 **talar sitt språk.**
 **Tecknen i dom svarta männens målmedvetna**
@@ -1008,7 +1008,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **med likgiltig rastlöshet,**
 **som drar in sina offer mellan bilvraken,**
 **misshandlar, rånar och våldtar**
-**medan tvättstrecken vajar **
+**medan tvättstrecken vajar**
 **över deras bestialiska desperation ...**
 **ungdomsligorna på Lower Manhattan**
 **som kanaliserar sin identitetslösa förnedring**
@@ -1018,7 +1018,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **alla dessa söner och döttrar av plundrade**
 **folkslag,**
 **söner och döttrar till mödrar och fäder**
-**som målmedvetet förtrycks, skändas och **
+**som målmedvetet förtrycks, skändas och**
 **exploateras**
 **av den vita kulturen, mitt på Manhattan,**
 **mitt i New York ...**
@@ -1028,7 +1028,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **fångna i slutna, föraktade och förfallna**
 **betongöknar ...**
 **söner och döttrar av plågade folkslag,**
-**etniskt förfölja, socialt utstötta, rasistiskt **
+**etniskt förfölja, socialt utstötta, rasistiskt**
 **hatade,**
 **fångna i den fria konkurrensen ekonomiska**
 **koncentrationsläger ...**
@@ -1111,7 +1111,7 @@ En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva 
 :::
 
 ::: indent
-Och såvidare.
+Och så vidare.
 :::
 
 ::: indent
@@ -1132,7 +1132,7 @@ Långt skott.
 :::
 
 ::: indent
-Följande förmiddag ringer de Niro. Han har förbluffande nog läst hela manuset och vill göra rollen. *”Han är heltänd”* som Arehn uttrycker det. Dom pratas vid ett par gånger till. De Niro skickar manuset till sina agenter i USA. Strax efteråker Arehn och den tilltänkte producenten Peter Kropenin till Los Angeles och träffar de Niros *”folk”*. Dom ställer tvåultimatum: Kropenin får inte producera filmen. Arehn får inte regissera den. Däremot vill dom köpa manuset. En deal som Arehn tackar nej till.
+Följande förmiddag ringer de Niro. Han har förbluffande nog läst hela manuset och vill göra rollen. *”Han är heltänd”* som Arehn uttrycker det. Dom pratas vid ett par gånger till. De Niro skickar manuset till sina agenter i USA. Strax efter åker Arehn och den tilltänkte producenten Peter Kropenin till Los Angeles och träffar de Niros *”folk”*. Dom ställer två ultimatum: Kropenin får inte producera filmen. Arehn får inte regissera den. Däremot vill dom köpa manuset. En deal som Arehn tackar nej till.
 :::
 
 ::: indent
@@ -1193,13 +1193,13 @@ Carsten börjar det här året, 1980, med att ge ut en konstbok, ”*LUPUS ULTRA
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/170.png)
 
-Det är en översikt av hans konstnärliga verksamhet såh är långt. En generös och mäktig bok i mycket stort format, garnerad med vackra målningar.
+Det är en översikt av hans konstnärliga verksamhet så här långt. En generös och mäktig bok i mycket stort format, garnerad med vackra målningar.
 
 ![The End.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/188A.png)
 
 Konstintendenten Ulf Linde skriver ett intressant förord med rubriken ”*Det Omognas Strategi*”:
 
-**”Dessa förvändheter åt alla håll, dessa ** ***polymorfa perversiteter***** - för att använda Freuds berömda karakteristik av det infantila psyket - kan givetvis avfärdas som en barnslig taktik att väcka uppmärksamhet. Man utsätts för ett äcklets komik av påträngande omogenhet, något som - visserligen under hyssjanden - kan tolereras hos barn, men som inte anses legitimt bland vuxna. Allra minst i en tid som tagit mogenheten på en ganska lönsam entreprenad under slagordet ”medvetenhet”; jag har också stött på åtskilliga ”medvetna” av olika schatteringar som funnit Carsten Regild alltför oklar och subjektiv. Han manifesterar ** ***sitt eget***** trots, medan de ”medvetna” i regel uppmanar ** ***de andra***** till ett trots enligt ”medvetenhetens” redan fastställda ordning. Regilds trots tycks framför allt ta sig uttryck i en serie spasmer, avvärjande ryckningar som förhindrar att det outvecklade hos honom själv ingår i utvecklingen, med allt vad ordet utveckling kan tänkas stå för. Men det är också klart att själva det faktum att han ** ***uttrycker***** sitt trots gör det på en gång subjektivt och objektivt, dvs det är här för vem som helst att ta del av och göra till sitt eget - han värnar med andra ord inte bara om sin egen omogenhet, utan om omogenheten i allmänhet: förmågan att äcklas och njuta på fel ställen, den odisciplinerade och otämjda, djupt ** ***infantila***** klarsyn som H. C. Andersen hyllat i sagan om kejsarens nya kläder, förmågan att blixtsnabbt tänka på annat när de mogna påkallar uppmärksamhet därför att ”saken” för dem tagit en så allvarlig vändning, insikten om det subversiva i all djup distraktion osv ... det omogna, det non-konforma - med hänsyn till dem som känner livet i kulturfastrarnas fångenskap - som Witold Gombrowics så utomordentligt formulerat det.”**
+**”Dessa förvändheter åt alla håll, dessa ***polymorfa perversiteter*** - för att använda Freuds berömda karakteristik av det infantila psyket - kan givetvis avfärdas som en barnslig taktik att väcka uppmärksamhet. Man utsätts för ett äcklets komik av påträngande omogenhet, något som - visserligen under hyssjanden - kan tolereras hos barn, men som inte anses legitimt bland vuxna. Allra minst i en tid som tagit mogenheten på en ganska lönsam entreprenad under slagordet “medvetenhet”; jag har också stött på åtskilliga “medvetna” av olika schatteringar som funnit Carsten Regild alltför oklar och subjektiv. Han manifesterar ***sitt eget*** trots, medan de “medvetna” i regel uppmanar ***de andra*** till ett trots enligt “medvetenhetens” redan fastställda ordning. Regilds trots tycks framför allt ta sig uttryck i en serie spasmer, avvärjande ryckningar som förhindrar att det outvecklade hos honom själv ingår i utvecklingen, med allt vad ordet utveckling kan tänkas stå för. Men det är också klart att själva det faktum att han ***uttrycker*** sitt trots gör det på en gång subjektivt och objektivt, dvs det är här för vem som helst att ta del av och göra till sitt eget - han värnar med andra ord inte bara om sin egen omogenhet, utan om omogenheten i allmänhet: förmågan att äcklas och njuta på fel ställen, den odisciplinerade och otämjda, djupt ***infantila*** klarsyn som H. C. Andersen hyllat i sagan om kejsarens nya kläder, förmågan att blixtsnabbt tänka på annat när de mogna påkallar uppmärksamhet därför att ”saken” för dem tagit en så allvarlig vändning, insikten om det subversiva i all djup distraktion osv ... det omogna, det non-konforma - med hänsyn till dem som känner livet i kulturfastrarnas fångenskap - som Witold Gombrowics så utomordentligt formulerat det.”**
 
 Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci:
 <!-- PAGE 137 END -->
@@ -1223,7 +1223,7 @@ Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci
 ::: part
 :::
 
-Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett myller av symboler, bygger upp ett eget språk, en visuell rebus, med hjälp avåterkommande markörer. Varghatten, Nefertite, en Assanyckel, den svarta glödlampan, ögat, siffrorna 333, en kvinna i högklackade skor, en livmoder osv ... jag kan tolka en del av symbolerna, andra inte, men jag vet att varenda detalj i hans målningar ingår i en större berättelse. Om honom själv, om oss, om den tillvaro vi lever i. Den amerikanske filosofen och sociologen Lewis Mumford har skrivit några tänkvärda rader om symbolernas betydelse i sin bok ”*Människans villkor*”:
+Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett myller av symboler, bygger upp ett eget språk, en visuell rebus, med hjälp av återkommande markörer. Varghatten, Nefertite, en Assanyckel, den svarta glödlampan, ögat, siffrorna 333, en kvinna i högklackade skor, en livmoder osv ... jag kan tolka en del av symbolerna, andra inte, men jag vet att varenda detalj i hans målningar ingår i en större berättelse. Om honom själv, om oss, om den tillvaro vi lever i. Den amerikanske filosofen och sociologen Lewis Mumford har skrivit några tänkvärda rader om symbolernas betydelse i sin bok ”*Människans villkor*”:
 
 **”Förmågan att skapa och reagera för symboler innebär en väsentlig skillnad mellan människans värld och djurens. Utan symboler skulle människans liv vara ett liv av omedelbara begär, omedelbara sensationer: hon skulle vara bunden till ett förflutet som var kortare än hennes egen livstid, utlämnad åt en framtid som hon varken kunde förutse eller bereda sig på. I en sådan värld skulle det som var utom hörhåll aldrig kunna nås, och bortom synhåll skulle betyda borta ur sinnet. Med hjälp av symbolerna bygger människan en sammanhängande värld av iakttagna fakta och glimtar av individuell erfarenhet.**
 

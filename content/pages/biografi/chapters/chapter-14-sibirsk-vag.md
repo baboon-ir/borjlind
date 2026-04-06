@@ -3,7 +3,7 @@
 <!-- PAGE 154 START -->
 Privatlivet på ön är ljust och fungerande vid den här tidpunkten, även om vi tvingas ta några fighter med trångsynta skolrepresentanter. Jag och Tove väver en borg av kärlek mot omvärlden. Min extrema rastlöshet (epitetet ”isbjörnen” alluderar inte på min fysiska förmåga att uthärda omänskliga förhållanden utan på mitt ständiga behov av att vanka runt var jag än befinner mig) såväl som mitt mentala högvarv saktar ner dom här åren, en aning, behovet av att bränna ut språket i näst intill extatiska silhuetter avtar, mojnar, jag försöker mer och mer närma mig ett avklarnat förhållande till mina uttryck, att vila i den nakna men exakta formuleringen.
 ::: indent
-Bruno K har på ett, enligt mig, mästerligt sätt tämjt sin poesi till en befriande enkelhet, lyckats hitta en väg där det utskurna och vackra ordet säger tusenfalt merän det blödande såret, lyckats såmystik och sorg i det till synes vardagliga - det är stor konst:
+Bruno K har på ett, enligt mig, mästerligt sätt tämjt sin poesi till en befriande enkelhet, lyckats hitta en väg där det utskurna och vackra ordet säger tusenfalt mer än det blödande såret, lyckats så mystik och sorg i det till synes vardagliga - det är stor konst:
 :::
 
 ::: poem
@@ -14,17 +14,17 @@ Bruno K har på ett, enligt mig, mästerligt sätt tämjt sin poesi till en befr
 **till hennes rum**
 :::
 
-Jag börjar ocksåodla tvåhobbies på ön, tämligen väsensskilda. Det ena är hembränning. Jag skaffar en näst intill professionell utrustning, riggar den i källaren, ägnar mig åt minutiös över vakning av den illegala processen , från förbränningen i den stora stålcisternen, genom det höga röret med aktivt kol, fram till dropparna som faller ner i flaskan. Resultatet smaksätter vi med olika ingredienser. Mest utsökt blir plommonbrännvinet, som efter några månaders lagring smakar delikat.
+Jag börjar också odla två hobbies på ön, tämligen väsensskilda. Det ena är hembränning. Jag skaffar en näst intill professionell utrustning, riggar den i källaren, ägnar mig åt minutiös övervakning av den illegala processen, från förbränningen i den stora stålcisternen, genom det höga röret med aktivt kol, fram till dropparna som faller ner i flaskan. Resultatet smaksätter vi med olika ingredienser. Mest utsökt blir plommonbrännvinet, som efter några månaders lagring smakar delikat.
 ::: indent
 Källarhyllorna fylls med flaskor.
 :::
 
 ::: indent
-Det andra jag ägnar mig åtärålfiske. Jag köper ett antalålryssjor och placerar ut dom runt stränderna på ön (det här är långt innanålen rödlistades). Ryssjorna läggs en bit ut i vattnet, med ett smalt nät som följer botten in till stranden. Närålarna möter nätet följer dom det tills dom simmar in i ryssjan och hamnar iänden av den.
+Det andra jag ägnar mig åt är ålfiske. Jag köper ett antal ålryssjor och placerar ut dom runt stränderna på ön (det här är långt innan ålen rödlistades). Ryssjorna läggs en bit ut i vattnet, med ett smalt nät som följer botten in till stranden. När ålarna möter nätet följer dom det tills dom simmar in i ryssjan och hamnar i änden av den.
 :::
 
 ::: indent
-Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att döda en ål).  En stor grön plasttunna fylls med salt på botten, ålen läggs ner, saltet torkar ut fettlagret runt skinnet och ålen dör (jag och min dotter Molly återger detta i vår ljudbok ”*Mörkret oss emellan*”). Jag levererar dom döda ålarna till ett rökeri på Kungsholmen, får tillbaka dom och förser umgängeskretsen med rökt ål under några år. Det är då jag får epitetet ”Ålkungen ”.
+Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att döda en ål).  En stor grön plasttunna fylls med salt på botten, ålen läggs ner, saltet torkar ut fettlagret runt skinnet och ålen dör (jag och min dotter Molly återger detta i vår ljudbok ”*Mörkret oss emellan*”). Jag levererar dom döda ålarna till ett rökeri på Kungsholmen, får tillbaka dom och förser umgängeskretsen med rökt ål under några år. Det är då jag får epitetet “Ålkungen”.
 :::
 
 ::: indent
@@ -47,7 +47,7 @@ Musik, poesi, film, drama, gestaltning.
 <!-- PAGE 154 END -->
 
 <!-- PAGE 155 START -->
-Föreställningenöppnar med en prolog av den heltatuerade kroppspoeten Lars Wellström, endast iförd stringtrosor:
+Föreställningen öppnar med en prolog av den heltatuerade kroppspoeten Lars Wellström, endast iförd stringtrosor:
 
 ::: poem
 **NI SKA VARA HJÄRTLIGT VÄLKOMNA ALLIHOP**
@@ -110,7 +110,7 @@ Själv framför jag dikten ”*rent & rått*”- mitt i en fras lämnar jag plö
 ::: poem
 **vi ser en flaska som guppar i dyningen**
 **med ett brev av blod och skinn**
-**fråm en av dom som stannade**
+**från en av dom som stannade**
 **när lösenordet hette ”försvinn”**
 
 **vi ser en duva som sväljer en kula**
@@ -153,7 +153,7 @@ Föreställningen spelas in och sänds senare på SVT.
 <!-- PAGE 156 END -->
 
 <!-- PAGE 157 START -->
-Tidig morgon på ön. Jag vaknar i en hängmatta i trädgården, gryningsljuset har väckt mig. Jag lämnar tomten och går längs en ödslig, smal grusväg, bara för att gå. Efter en stund når jag fram till en stor hage. I hagen finns en ensam häst, långt borta vid ett trästaket. Jag stannar. Hästen ser mig. Daggen gnistrar mellan oss, svag solrök stiger över gräset. Jag vet inte hur länge jag står där innan hästen rör sig. Långsamt, mot mig. Några måsar skriker i fjärran. Jag avvaktar. När hästen är nästan framme stannar den. Jag sträcker in en hand över staketet. Hästen tar ett par steg fram. Jag rör försiktigt handen längs det bruna huvudet, den vänstra kinden, känner värmen som går in i handen. En fysisk beröring med ett stort varmblodigt djur. Jag vet inte hur länge vi står där, tysta, jag smekande och hästen stilla, jag vet fram för allt inte vad hästen upplever.
+Tidig morgon på ön. Jag vaknar i en hängmatta i trädgården, gryningsljuset har väckt mig. Jag lämnar tomten och går längs en ödslig, smal grusväg, bara för att gå. Efter en stund når jag fram till en stor hage. I hagen finns en ensam häst, långt borta vid ett trästaket. Jag stannar. Hästen ser mig. Daggen gnistrar mellan oss, svag solrök stiger över gräset. Jag vet inte hur länge jag står där innan hästen rör sig. Långsamt, mot mig. Några måsar skriker i fjärran. Jag avvaktar. När hästen är nästan framme stannar den. Jag sträcker in en hand över staketet. Hästen tar ett par steg fram. Jag rör försiktigt handen längs det bruna huvudet, den vänstra kinden, känner värmen som går in i handen. En fysisk beröring med ett stort varmblodigt djur. Jag vet inte hur länge vi står där, tysta, jag smekande och hästen stilla, jag vet framför allt inte vad hästen upplever.
 ::: indent
 När jag går tillbaka börjar det regna.
 :::
@@ -176,11 +176,11 @@ Och jag minns:
 **än idag**
 :::
 
-Samtidigt har Carsten en utställning på Galleri Engström i Stockholm: ” *333/207”**. *
+Samtidigt har Carsten en utställning på Galleri Engström i Stockholm: *”333/207”*.
 
 ![Jorum Njetta.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/194.png)
 
-Jag skriver en text till katalogen som handlar om Carstens och min privata resa (såh är långt):
+Jag skriver en text till katalogen som handlar om Carstens och min privata resa (så här långt):
 
 **”Vad hade vi med oss? Inte mycket ... en skalpell i handen och ett flyglarm på tungan. Du hade dina svarta spindlar, jag hade mitt spräckta timglas ... ditt hjärta var en slagruta, min hjärna var ett rött segel. Vi korsade våra gatlopp, skar blod mot blod och klöv ridån. Ville vi dansa? Kanske ... men det fanns ingen musik. Ville vi bygga ett monument? Knappast ... snarare gå på lina åt två håll samtidigt, att verkligen sväva mellan liv och död.**
 <!-- PAGE 157 END -->
@@ -267,7 +267,7 @@ Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sa
 ::: poem
 **1973 skrev Heinrich Böll**
 **en artikel som handlade om**
-**”dom nyttiga idioterna”****.**
+**“dom nyttiga idioterna”.**
 
 **Alla dom som håller fanan högt.**
 **Alla dom nyttiga idioterna,**
@@ -413,7 +413,7 @@ Kanske är det som finnen sa som slickade på en uranstav:
 
 SVT kontaktar mig och vill att jag skriver en text som ska framföras på årets Guldbaggegala. Återigen ett tillfälle att nå lite längre ut. Jag skriver ett ”kungörande” från Svenska Filminstitutet:
 
-**”Filminstitutet har just lyckats övertala ingen mindre än Ingmar Bergman att göra ytterligare en långfilm - en dramadokumentär om Nya Testamentet i modern tappning. **
+**”Filminstitutet har just lyckats övertala ingen mindre än Ingmar Bergman att göra ytterligare en långfilm - en dramadokumentär om Nya Testamentet i modern tappning.**
 
 **     Rollen som Jesus anses vikt för Lasse Åberg och Bergman har krävt att få Åsa Bodén som Heliga Maria och Harry Schein som Josef.**
 
@@ -542,7 +542,7 @@ Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok me
 
 Jag skriver ett kort förord:
 
-**”Gud sjunger ohörd. I december 1976 skrev jag mina första satiriska texter - 4 nya nobelpris, framförda av Gösta Ekman i radions Kabaré Öppen Kanal. Till dags dato är antalet texter 172. Denna bok innehåller ett representativt urval, ägnade att belysa relationen mellan form och innehåll i min speciella satirteknik. Jag har också bifogat en del dokument, för att erinra om de mer spektakulära effekterna av min satirverksamhet ... och för att ge en fingervisning om ´gränserna´****.”  **
+**”Gud sjunger ohörd. I december 1976 skrev jag mina första satiriska texter - 4 nya nobelpris, framförda av Gösta Ekman i radions Kabaré Öppen Kanal. Till dags dato är antalet texter 172. Denna bok innehåller ett representativt urval, ägnade att belysa relationen mellan form och innehåll i min speciella satirteknik. Jag har också bifogat en del dokument, för att erinra om de mer spektakulära effekterna av min satirverksamhet ... och för att ge en fingervisning om ´gränserna´.”**
 
 Till exempel chefredaktören Olof Lagercrantz brev till Staffan Heimersson på Aftonbladet, sen denne försvarat mina satirer i tidningen:
 
@@ -581,7 +581,7 @@ Upplägget kittlar mig. Jag får en idé till en filmhistoria som jag döper til
 :::
 
 ::: indent
-Summa summarum: Det slutar inte bra för Landell. Han förförs, luras till spionage och mister fotfästet totalt. Till slut lägger han tvåstora dunkar bensin i bakluckan och kör rakt in i en bergvägg.
+Summa summarum: Det slutar inte bra för Landell. Han förförs, luras till spionage och mister fotfästet totalt. Till slut lägger han två stora dunkar bensin i bakluckan och kör rakt in i en bergvägg.
 :::
 
 ::: indent
@@ -608,7 +608,7 @@ Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, h
 :::
 
 ::: indent
-Hellströms sommarhus var en tid ett häng för Greta Garbo och andra ur den tidens kulturliv, senare blev det granne till ett annat och ännu mer spektakulärt hus, den danske resebaronen Simon Spies rymdskepp (från källarplanet byggde han en räls ner till vattnet, såhan kunde fraktas rakt ner i badet utan knotiga mellansteg). När han dog blev hans stenrikaänka Jannie kvar i huset. Vilket inte undgick grannen och charmören Hellström, som inledde en relation med henne.
+Hellströms sommarhus var en tid ett häng för Greta Garbo och andra ur den tidens kulturliv, senare blev det granne till ett annat och ännu mer spektakulärt hus, den danske resebaronen Simon Spies rymdskepp (från källarplanet byggde han en räls ner till vattnet, så han kunde fraktas rakt ner i badet utan knotiga mellansteg). När han dog blev hans stenrika änka Jannie kvar i huset. Vilket inte undgick grannen och charmören Hellström, som inledde en relation med henne.
 :::
 
 ::: indent
@@ -639,7 +639,7 @@ Vårt treatment är ingenting som fäster hos några tv-producenter (det dröjer
 ::: part
 :::
 
-Resten av året skriver jag mängder av texter: dikter, jubileumskantater, program förslag, sketcher, artiklar, satirer, sångtexter (för kalenderbitaren finns allt “extramaterial” redovisat under APPENDIX).
+Resten av året skriver jag mängder av texter: dikter, jubileumskantater, programförslag, sketcher, artiklar, satirer, sångtexter (för kalenderbitaren finns allt “extramaterial” redovisat under APPENDIX).
 <!-- PAGE 164 END -->
 
 <!-- PAGE 165 START -->

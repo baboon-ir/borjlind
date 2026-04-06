@@ -113,7 +113,7 @@ Hav och horisonter älskar jag.
 <!-- PAGE 30 START -->
 Vad som till syvende och sist styr mig igenom mitt privata kaos är besattheten. Att skapa. Att skriva. Att uttrycka mig. Jag fyller oändliga mängder böcker med ord, text, uttryck - småbruna böcker med ett pennfack i ryggen (SL:s arbetsböcker). Jag har alltid en bok med mig, dygnet runt, året om, på krogar, vindar, i parker och t-banor. Det mesta är fullständigt obegripligt vid en efterläsning, men med en uppfriskande energi. Här är ett slumpvis utsnitt ur nån bok:
 
-**”När varje lampa släcks, till minne av mörkret. Hitta en struktur. Edda. Popol Vuh. Asaläran. Än en gång besegrat det ofattbaras frestelse. Strålande smärta. Ju mer jag äger nånting desto mer ökar min lust att förstöra det. Ägandets nackskruv. Inferno. Åh Gud, det smittar också****! Hög på förhoppningens droger. Nätterna när du band mig vid bäckenet för att dölja din utplånade mun. Ingenting avslutas. Svarta fötter marscherar över nerverna.”**
+**”När varje lampa släcks, till minne av mörkret. Hitta en struktur. Edda. Popol Vuh. Asaläran. Än en gång besegrat det ofattbaras frestelse. Strålande smärta. Ju mer jag äger nånting desto mer ökar min lust att förstöra det. Ägandets nackskruv. Inferno. Åh Gud, det smittar också! Hög på förhoppningens droger. Nätterna när du band mig vid bäckenet för att dölja din utplånade mun. Ingenting avslutas. Svarta fötter marscherar över nerverna.”**
 
 Sådär håller det på. Sida upp och sida ner, bok efter bok, år efter år. Introverta och obegripliga övningar. Och ändå: jag förbereder mig, omedvetet eller undermedvetet, på det enda val jag har.
 ::: indent
@@ -200,7 +200,7 @@ Det här året, 1967, avrättas också en revolution är legend.
 Che Guevara skjuts ihjäl i Bolivia och förvandlas till ett av västvärldens mest exploaterade varumärken. En kaffekopp? En t-shirt? En slips? Eller kanske ett Che-citat till drinken?
 
 ::: quote
-”**Jag har svurit inför en bild av den gamle och sörjde Kamrat Stalin att jag inte ska vila innan jag sett dessa kapitalistiska bläckfiskar utplånas**. ”
+”**Jag har svurit inför en bild av den gamle och sörjde Kamrat Stalin att jag inte ska vila innan jag sett dessa kapitalistiska bläckfiskar utplånas.”
 ***Che Guevara***.
 :::
 
@@ -241,7 +241,7 @@ Det är första gången jag är med om det. Jag är övertygad om att det är de
 :::
 Vår nästa utställning på Galleri Maxim tar avstamp i omvärldens konformistiska syn på konst. Vi kallar den ”*Kort Visning*”. Den följer upp och fördjupar våra idéer runt ett integrerat språk och experimenterar med avvikande uttrycksformer - världen kan tolkas på många sätt. DN-kritikern Leif Zern formulerar sig så här:
 
-**”Det finns många tecken som tyder på att konsten är på väg mot vad man kan kalla en opersonlighet. Det förefaller som om det enda utvecklingsdugliga alternativet till det borgerliga samhällets romantiska konstnärsideologi kommer inte främst från konstnärer som på politiska grunder vill ge konsten en politisk uppgift, utan från konstnärer som vill ersätta den gamla modellen med en helt ny strategi, nya strukturer.” **
+**”Det finns många tecken som tyder på att konsten är på väg mot vad man kan kalla en opersonlighet. Det förefaller som om det enda utvecklingsdugliga alternativet till det borgerliga samhällets romantiska konstnärsideologi kommer inte främst från konstnärer som på politiska grunder vill ge konsten en politisk uppgift, utan från konstnärer som vill ersätta den gamla modellen med en helt ny strategi, nya strukturer.”**
 
 Vi väljer att ställa ut sex meterhöga, till hälften uppblåsta plastdjur, hopsjunkna och skamsna, samt 36 studier i akvarell av en pressad Kalle Anka.
 
@@ -333,7 +333,7 @@ Dikt om ett av mina förhållanden:
 
 ::: part
 :::
-Jag tillbringar mycket tid ute hos Carsten och hans familj. Dom bor i ett mindre hus i Hägersten. I källaren har Carsten sin ateljé. I en av sprickorna i grunden bor en stor, svart källarspindel. Den gör honom sällskap under nätterna. Jag låter senare en av huvudkaraktärerna i våra kriminalromaner, Mårten Olsäter, ha en källarspindel som sällskap. Mårten har döpt den till Kerouac och upptäckt att den tycker om contryartisten Gram Parson s. Jag minns inte att Carsten har nåt namn på sin spindel.
+Jag tillbringar mycket tid ute hos Carsten och hans familj. Dom bor i ett mindre hus i Hägersten. I källaren har Carsten sin ateljé. I en av sprickorna i grunden bor en stor, svart källarspindel. Den gör honom sällskap under nätterna. Jag låter senare en av huvudkaraktärerna i våra kriminalromaner, Mårten Olsäter, ha en källarspindel som sällskap. Mårten har döpt den till Kerouac och upptäckt att den tycker om countryartisten Gram Parsons. Jag minns inte att Carsten har nåt namn på sin spindel.
 ::: indent
 Den dör en dramatisk död.
 :::
@@ -386,7 +386,7 @@ Alla deltagare på biennalen får utforma ett eget vykort som inbjudan till utst
 
 Med en text på baksidan:
 
-**”Om vi hade behövt tid, hade vi behövt dagar, kvällar, timmar, om vi hade behövt morgnarna hade vi hämtat dom. Därute står natten och hoppar, vi betraktar den från balkongen och garvar. Tid är sience fiction.**
+**”Om vi hade behövt tid, hade vi behövt dagar, kvällar, timmar, om vi hade behövt morgnarna hade vi hämtat dom. Därute står natten och hoppar, vi betraktar den från balkongen och garvar. Tid är science fiction.**
 <!-- PAGE 35 END -->
 
 <!-- PAGE 36 START -->
@@ -409,7 +409,7 @@ Med en text på baksidan:
 
 **- har du sett stavhopparna?**
 
-**- nä****?**
+**- nä?**
 
 **Pfut, 200 x 500.**
 

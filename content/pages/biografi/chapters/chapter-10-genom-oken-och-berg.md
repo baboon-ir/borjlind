@@ -2,21 +2,21 @@
 
 <!-- PAGE 96 START -->
 ::: indent
-– När som helst, vid vilken tid pådygnet som helst, ring oss, eller knacka påhos oss, vårt husäröppet för poeter från hela världen.
+– När som helst, vid vilken tid på dygnet som helst, ring oss, eller knacka på hos oss, vårt hus är öppet för poeter från hela världen.
 :::
 
-Vi kör mot Big Sur. Det visar sig vara en skog. Vi kör rakt igenom. Det är vackert. Vi stannar vid en strand. Klockan är sex på kvällen. Vi går längst bort påbeachen, går ut i våra kalsonger i Stilla Oceanen för det första doppet. Det är varmt. Alldeles för varmt. Orent, i bemärkelsen grötigt, oklart vatten. Det är palmer längs hela stranden.
+Vi kör mot Big Sur. Det visar sig vara en skog. Vi kör rakt igenom. Det är vackert. Vi stannar vid en strand. Klockan är sex på kvällen. Vi går längst bort på beachen, går ut i våra kalsonger i Stilla Oceanen för det första doppet. Det är varmt. Alldeles för varmt. Orent, i bemärkelsen grötigt, oklart vatten. Det är palmer längs hela stranden.
 
 Vi kör igenom Los Angeles. En vidrig stad. Vi kör i drygt en timmes tid och är fortfarande kvar i Los Angeles. Föroreningarna ligger som moln, som en gul dimma över hela stan. Det är ett slags omänsklig, okommunikativ öken. Vi knäpper på ”Street Legal” och låter Dylan guida oss ut ur betonghelvetet.
 
-Vi stannar i San Bernadino för natten. Det är otroligt hett. Äter på en mexrestaurang och lägger oss på motellet. Sätter påfärg-tv. Dricker tequila. Reklam reklam reklam. Vi har hört det i bilradion hela dan, vi hör det i tv-n igen. Positiv, glad, utåtriktad, energisk, förföriskt lockande reklam om glada friska människor, positiva människor, kreativa människor, lyckliga människor:”Sätt dig på vår toalettstol såmår du som en prinsessa!”Samma vidriga tävlingsprogram. Unga färgade kvinnor som vinner fantasisummor, som bryter ihop på scenen, som svimmar, som gråter, och den förhärdade programledaren, en vit gentleman i 50-årsåldern med ansiktet fullt av välrepeterad avsmak, ler mot dom offer som bjuds ut i tv-apparaten. Det här är vår tids gladiatorspel. Det här är 1000 gånger brutalare, mer cyniskt, mer avskyvärtän tjurfäktning nånsin kan vara. Det är en sån total mänsklig förnedring.
+Vi stannar i San Bernadino för natten. Det är otroligt hett. Äter på en mexrestaurang och lägger oss på motellet. Sätter på färg-tv. Dricker tequila. Reklam reklam reklam. Vi har hört det i bilradion hela dan, vi hör det i tv-n igen. Positiv, glad, utåtriktad, energisk, förföriskt lockande reklam om glada friska människor, positiva människor, kreativa människor, lyckliga människor:”Sätt dig på vår toalettstol så mår du som en prinsessa!”Samma vidriga tävlingsprogram. Unga färgade kvinnor som vinner fantasisummor, som bryter ihop på scenen, som svimmar, som gråter, och den förhärdade programledaren, en vit gentleman i 50-årsåldern med ansiktet fullt av välrepeterad avsmak, ler mot dom offer som bjuds ut i tv-apparaten. Det här är vår tids gladiatorspel. Det här är 1000 gånger brutalare, mer cyniskt, mer avskyvärt än tjurfäktning nånsin kan vara. Det är en sån total mänsklig förnedring.
 ::: indent
-Bruno går ut på natten till ett dansställe. Jag skriver på rummet. När han kommer tillbaka till motellet sitter en flicka påtrappan mittemot vår och röker. Bruno sätter sig på vår trappa och röker. Sitter mittemot varann och röker. En kvart, tjugo minuter. Hon snyftar lite, verkar helt förtvivlad, ensam. Bruno reser sig för att prata med henne. Han går emot henne. Dårusar hon upp med ett skrik, kastar sig mot en av motelldörrarna, får upp en nyckel, just när hon ska kasta sig in genom dörren vrålar Bruno:”Yes! I am a criminal!”Hon slår igen dörren. Bruno går upp och knäpper på tv-n, dricker ur tequilan och somnar.
+Bruno går ut på natten till ett dansställe. Jag skriver på rummet. När han kommer tillbaka till motellet sitter en flicka på trappan mittemot vår och röker. Bruno sätter sig på vår trappa och röker. Sitter mittemot varann och röker. En kvart, tjugo minuter. Hon snyftar lite, verkar helt förtvivlad, ensam. Bruno reser sig för att prata med henne. Han går emot henne. Då rusar hon upp med ett skrik, kastar sig mot en av motelldörrarna, får upp en nyckel, just när hon ska kasta sig in genom dörren vrålar Bruno:”Yes! I am a criminal!”Hon slår igen dörren. Bruno går upp och knäpper på tv-n, dricker ur tequilan och somnar.
 :::
 
-Efter San Bernadino: första kontakten med öken. Kaktusar. Dallrande torr, gul sand. Glödande värme. Men det berör oss inte. Silverkungen har strålande luftkonditionering. Uteär det 45-50 grader, solen står rakt ovanför oss, inuti bilen är det svalt som i ett bårrum. Det är en härlig känsla. Över landsvägen cirklar hela tiden gamar. Och hökar. Dom tar reda på dom ormar, ökenråttor, fåglar, kräldjur, som massakreras av dom förbirusande bilarna.
+Efter San Bernadino: första kontakten med öken. Kaktusar. Dallrande torr, gul sand. Glödande värme. Men det berör oss inte. Silverkungen har strålande luftkonditionering. Ute är det 45-50 grader, solen står rakt ovanför oss, inuti bilen är det svalt som i ett bårrum. Det är en härlig känsla. Över landsvägen cirklar hela tiden gamar. Och hökar. Dom tar reda på dom ormar, ökenråttor, fåglar, kräldjur, som massakreras av dom förbirusande bilarna.
 ::: indent
-Mot kvällen stannar vi mitt iöknen och går rakt ut. Långt ut. Det är tyst, ödsligt, ett blått, kallt släpljus sveper över det enorma landskapet. Vi sätter oss vid foten av en gigantisk kaktus och tittar mot horisonten. Ingenting rör sig, allt är stilla.
+Mot kvällen stannar vi mitt i öknen och går rakt ut. Långt ut. Det är tyst, ödsligt, ett blått, kallt släpljus sveper över det enorma landskapet. Vi sätter oss vid foten av en gigantisk kaktus och tittar mot horisonten. Ingenting rör sig, allt är stilla.
 :::
 
 ::: indent
@@ -25,15 +25,15 @@ Vi sitter länge.
 <!-- PAGE 96 END -->
 
 <!-- PAGE 97 START -->
-Vi åker igenom Palm Springs. Indio. Svänger av vid Desert Shores, ner mot Salton Sea. En insjöi Kalifornien. Kör längs en fullständigt förtorkad, ödslig väg, ner till stranden. Går ur. Längst stranden står några slitna, permanenta husbilar intill en liten bar - Helenas Bar. Vi svimmar nästan av värmen, marken går inte att gåpåutan skor. Vi går ner till vattnet och sticker ner fötterna - det är som att sticka ner dom i kokande kastrullvatten. Längs hela kanten ligger döda fiskar och vaggar i marvattnet, stanken är påfrestande. Vi går upp till Helenas Bar. Ett slags ombyggt skjul. Inne i baren är det mörkt, flaskor, en jukebox, en stor kraftig kvinna som förmodligen är Helena. Vi beställer varsin coke. Det sitter tre män i baren och stirrar rakt fram.
+Vi åker igenom Palm Springs. Indio. Svänger av vid Desert Shores, ner mot Salton Sea. En insjö i Kalifornien. Kör längs en fullständigt förtorkad, ödslig väg, ner till stranden. Går ur. Längst stranden står några slitna, permanenta husbilar intill en liten bar - Helenas Bar. Vi svimmar nästan av värmen, marken går inte att gå på utan skor. Vi går ner till vattnet och sticker ner fötterna - det är som att sticka ner dom i kokande kastrullvatten. Längs hela kanten ligger döda fiskar och vaggar i marvattnet, stanken är påfrestande. Vi går upp till Helenas Bar. Ett slags ombyggt skjul. Inne i baren är det mörkt, flaskor, en jukebox, en stor kraftig kvinna som förmodligen är Helena. Vi beställer varsin coke. Det sitter tre män i baren och stirrar rakt fram.
 ::: indent
-Jag tänker: Det verkar inte klokt, det verkar otroligt, dom här människorna bor alltsåh är nere vid Desert Shores? Vid den härökenstranden, i denna hetta och fiskstank? Plötsligt reser sig en av dom och säger:”*Jag måste sova nu, det är fest ikväll.*”Dom andra rör sig inte, stirrar rakt fram. Mannen går ut. Bruno går fram till jukeboxen, lägger på Kenny Rogers:”*Lucille*”. Vi smäller i oss den smäktande texten: ”You picked a fine time to leave me, Lucille, with four hungry children and a crop in the field ... I ´ ve had some bad times, lived through some sad times, but this time your hurting won ´ t heal, you picked a fine time to leave me Lucille.”
+Jag tänker: Det verkar inte klokt, det verkar otroligt, dom här människorna bor alltså här nere vid Desert Shores? Vid den här ökenstranden, i denna hetta och fiskstank? Plötsligt reser sig en av dom och säger:”*Jag måste sova nu, det är fest ikväll.*”Dom andra rör sig inte, stirrar rakt fram. Mannen går ut. Bruno går fram till jukeboxen, lägger på Kenny Rogers:”*Lucille*”. Vi smäller i oss den smäktande texten: ”You picked a fine time to leave me, Lucille, with four hungry children and a crop in the field ... I've had some bad times, lived through some sad times, but this time your hurting won't heal, you picked a fine time to leave me Lucille.”
 :::
 <!-- PAGE 97 END -->
 
 <!-- PAGE 98 START -->
 ::: indent
-Jag försöker ta kontakt med en av männen vid disken, frågar vad han sysslar med. Det går trevande. Han verkar ha tappat sinaögonlock, ögonen fyller hela hålan. Plötsligt säger han, mer till diskenän mig:
+Jag försöker ta kontakt med en av männen vid disken, frågar vad han sysslar med. Det går trevande. Han verkar ha tappat sina ögonlock, ögonen fyller hela hålan. Plötsligt säger han, mer till disken än mig:
 :::
 
 ::: indent
@@ -61,11 +61,11 @@ Jag försöker ta kontakt med en av männen vid disken, frågar vad han sysslar 
 :::
 
 ::: indent
-– Det finns inga hav iöknen.
+– Det finns inga hav i öknen.
 :::
 
 ::: indent
-Han tystnar och läppjar påvad jag antar är en öl, rapar lätt och tittar för första gången på mig.
+Han tystnar och läppjar på vad jag antar är en öl, rapar lätt och tittar för första gången på mig.
 :::
 
 ::: indent
@@ -77,7 +77,7 @@ Bruno och jag dricker ur, går ut i den fruktansvärda värmevallen, tar oss bor
 :::
 
 ::: indent
-Salton Seaär ett av dom dödaste ställen jag sett.
+Salton Sea är ett av dom dödaste ställen jag sett.
 :::
 
 Vi närmar oss mexikanska gränsen, genom Rawly, El Centro, ner till Calexico. Vi har hört mycket om våldet i Mexico.
@@ -86,7 +86,7 @@ Stölderna.
 :::
 
 ::: indent
-Vid gränsen går vi in påamerikanska emigrationskontoret. Får bekräftat att våra visum släpper in oss i USA igen när vi återkommer. Vi köper sex batterier till kassettbandspelaren och en försäkring till bilen som täcker stöld, brand och kollision. Det är en nödvändighet i Mexico, säger dom. Där stjäl dom ur alla bilar.
+Vid gränsen går vi in på amerikanska emigrationskontoret. Får bekräftat att våra visum släpper in oss i USA igen när vi återkommer. Vi köper sex batterier till kassettbandspelaren och en försäkring till bilen som täcker stöld, brand och kollision. Det är en nödvändighet i Mexico, säger dom. Där stjäl dom ur alla bilar.
 :::
 
 ::: indent
@@ -99,7 +99,7 @@ Vi rullar över gränsen och stoppas av en tulltjänsteman.
 :::
 
 ::: indent
-Vi kör av vägen till höger och tas in i ett av dessa småskjul där det sitter en tjänsteman som aldrig har varit annatän tjänsteman. Som levt sitt liv genom papper och stämplar.
+Vi kör av vägen till höger och tas in i ett av dessa småskjul där det sitter en tjänsteman som aldrig har varit annat än tjänsteman. Som levt sitt liv genom papper och stämplar.
 :::
 
 ::: indent
@@ -107,11 +107,11 @@ Det är köhärinne.
 :::
 
 ::: indent
-Här ska alla lugnt och metodiskt berätta för tjänstemannen varför dom ska till Mexico. Vad dom har här att göra. Vart dom ska. Hela bagen. Sen skriver han påsmåpapper. Såstämplar han. Såkvitterar han. Såriver han. Såfår man signera. Såskriver han nya papper. Sådrar han ur kalkerpapper. Så sätter han det i skrivmaskinen. Såknattrar han med ett finger. Såstämplar han igen. Såklipper han och river och häftar.
+Här ska alla lugnt och metodiskt berätta för tjänstemannen varför dom ska till Mexico. Vad dom har här att göra. Vart dom ska. Hela bagen. Sen skriver han på småpapper. Så stämplar han. Så kvitterar han. Så river han. Så får man signera. Så skriver han nya papper. Så drar han ur kalkerpapper. Så sätter han det i skrivmaskinen. Så knattrar han med ett finger. Så stämplar han igen. Så klipper han och river och häftar.
 :::
 
 ::: indent
-Könär lång och vi är sist. Det tar tvåoch en halv timme innan det är vår tur. När vi kommer fram till honom visar vi våra turistvisum som vi fått påmexikanska ambassaden i San Francisco. Han ler.
+Kön är lång och vi är sist. Det tar två och en halv timme innan det är vår tur. När vi kommer fram till honom visar vi våra turistvisum som vi fått på mexikanska ambassaden i San Francisco. Han ler.
 :::
 
 ::: indent
@@ -127,26 +127,26 @@ Könär lång och vi är sist. Det tar tvåoch en halv timme innan det är vår 
 :::
 
 ::: indent
-Såstämplar han. Vi får gå. Tar en halv minut.
+Så stämplar han. Vi får gå. Tar en halv minut.
 :::
 <!-- PAGE 98 END -->
 
 <!-- PAGE 99 START -->
-Vi befinner oss i Mexicali, den mexikanska gränsstaden. En fruktansvärd håla. Fabriker, damm, skit, fattigdom utan like, stank. Människorna bor som hundar i hoplappade träskjul utefter vägen. Vore det inte för klädtrasorna som hänger påsnören utanför skulle man tro att det var sopstationer. Men det bor faktiskt människor därinne. Vi har sett det förut. Vi har sett det påbilder. Vi har sett det på tv. Vi vet att det ser ut så här. Nu ser vi det på plats och det är fruktansvärt. Det sitter kvinnor påomkullvräkta bensinfat och sprängda däck och ammar småbebisar, det sitter halvnakna män med korslagda ben på marken, deras huvuden hänger ner mot brösten, det står totalt utmärglade getter och lapar gyttjigt lervatten. Själva sitter vi i Silverkungen och lyssnar påglada amerikanska reklamröster som säljer en ny slags moped som kan gå 240 mil påbara 4 gallon bensin. Fantastiskt!
+Vi befinner oss i Mexicali, den mexikanska gränsstaden. En fruktansvärd håla. Fabriker, damm, skit, fattigdom utan like, stank. Människorna bor som hundar i hoplappade träskjul utefter vägen. Vore det inte för klädtrasorna som hänger på snören utanför skulle man tro att det var sopstationer. Men det bor faktiskt människor därinne. Vi har sett det förut. Vi har sett det på bilder. Vi har sett det på tv. Vi vet att det ser ut så här. Nu ser vi det på plats och det är fruktansvärt. Det sitter kvinnor på omkullvräkta bensinfat och sprängda däck och ammar småbebisar, det sitter halvnakna män med korslagda ben på marken, deras huvuden hänger ner mot brösten, det står totalt utmärglade getter och lapar gyttjigt lervatten. Själva sitter vi i Silverkungen och lyssnar på glada amerikanska reklamröster som säljer en ny slags moped som kan gå 240 mil på bara 4 gallon bensin. Fantastiskt!
 ::: indent
 Vi förvinner ut ur Mexicali så fort vi kan.
 :::
 
 På väg mot San Luis, Sonorita, Kaborca och Santa Ana ...ända ner till Guyamas vid Skohornsbukten.
 ::: indent
-Det är en märklig känsla när vi glider fram pådenödeökenvägen och vet att detta är Mexico. ”My name is Zapata. Emiliano Zapata.”Vi kör fort. Vi har bestämt oss för att nåfram till Sonorita innan det blir mörkt. Jag vill inte köra i mörkret. Jag har varnats för det av George Hitchcock. Han sa:”Never drive at night in Mexico.”
+Det är en märklig känsla när vi glider fram på den öde ökenvägen och vet att detta är Mexico. ”My name is Zapata. Emiliano Zapata.”Vi kör fort. Vi har bestämt oss för att nå fram till Sonorita innan det blir mörkt. Jag vill inte köra i mörkret. Jag har varnats för det av George Hitchcock. Han sa:”Never drive at night in Mexico.”
 :::
 
 ::: indent
-Även det visar sig naturligtvis vara en myt. Enöverdrift, eller en vänlig varning, som egentligen inte betyder nånting. Vi hinner inte fram till Sonorita utan får köra i mörkret ett par timmar. Det är som att köra mellan Norrköping och Stockholm.
+Även det visar sig naturligtvis vara en myt. En överdrift, eller en vänlig varning, som egentligen inte betyder nånting. Vi hinner inte fram till Sonorita utan får köra i mörkret ett par timmar. Det är som att köra mellan Norrköping och Stockholm.
 :::
 
-Sonorita klockan tio på kvällen. Vi tar in på ett motell som har swimmingpool utomhus. Rum nummer 5. Det är ett enkelt rum. Varsin säng. Dusch. En kille ställer in en hink med isvatten. Vi byter om, duschar. Går ut och käkar. Bruno får knivar i magen av maten. Han stönar och vrider sig. Vi går ut i byn för att hitta en kantina där vi kan dricka tequila. Vi hittar den enda i byn och går in. Det är sent på kvällen. Denär fullproppad med lokalbor. Vi är dom enda utlänningarna. ”Kan vi fåtvåtequila, tack.”Barflickan ler, en storväxt, blank mexikanska. Hon upplyser att dom bara serveraröl.”Cerveza! Comprende?”
+Sonorita klockan tio på kvällen. Vi tar in på ett motell som har swimmingpool utomhus. Rum nummer 5. Det är ett enkelt rum. Varsin säng. Dusch. En kille ställer in en hink med isvatten. Vi byter om, duschar. Går ut och käkar. Bruno får knivar i magen av maten. Han stönar och vrider sig. Vi går ut i byn för att hitta en kantina där vi kan dricka tequila. Vi hittar den enda i byn och går in. Det är sent på kvällen. Den är fullproppad med lokalbor. Vi är dom enda utlänningarna. ”Kan vi få två tequila, tack.”Barflickan ler, en storväxt, blank mexikanska. Hon upplyser att dom bara serverar öl.”Cerveza! Comprende?”
 ::: indent
 Vi går därifrån. Eller jag går, Bruno vacklar. Knivarna har nått honom till halsen nu, skär genom bröstkorgen. Han är övertygad om att han ska dö. Vi går förbi en nattöppen butik som säljer sprit och köper med oss en flaska tequila till rummet.
 :::
@@ -161,7 +161,7 @@ Han verkar dålig.
 
 Nästa morgon drar vi iväg tidigt, i gryningssolen, mot Herioca Caborca.
 ::: indent
-Mexicoäröken och kulissberg. Fantastiska kulissberg, ständigt förändrade av ljuset, mäktiga. Vi åker i ett antal timmar. Plötsligt kommer vi till en tull mitt ute iöknen. Röda stoppmärken på vägen tvingar in oss mot ett tullhus där det står några bilar. En tjänsteman med stor träcoltpistol kommer ut och vinkar in oss mot ett skjul. Det rör sig om ett slags bilkontroll. Det är tydligen vanligt att man tar sig över gränsen från Arizona, som ligger strax ovanför, illegalt. Den väg vi åker på är den enda väg som leder in i Mexico. Finns inga andra vägar ner, bara den här. Därav tullen. Enda sättet att komma ner utan att passera den här tullen är via häst eller helikopter.
+Mexico är öken och kulissberg. Fantastiska kulissberg, ständigt förändrade av ljuset, mäktiga. Vi åker i ett antal timmar. Plötsligt kommer vi till en tull mitt ute i öknen. Röda stoppmärken på vägen tvingar in oss mot ett tullhus där det står några bilar. En tjänsteman med stor träcoltpistol kommer ut och vinkar in oss mot ett skjul. Det rör sig om ett slags bilkontroll. Det är tydligen vanligt att man tar sig över gränsen från Arizona, som ligger strax ovanför, illegalt. Den väg vi åker på är den enda väg som leder in i Mexico. Finns inga andra vägar ner, bara den här. Därav tullen. Enda sättet att komma ner utan att passera den här tullen är via häst eller helikopter.
 :::
 
 ::: indent
@@ -187,7 +187,7 @@ Si, con ice, svarar vi. Mucho ice, mucho frio.
 :::
 
 ::: indent
-Han ler och stämplar våra pass. Stämplar våra turistvisa. Säger att han tyvärr måste gå igenom bilen. Vi kör in den i skjulet. Där står några killar i uniformer 0 ch pistoler. Alla dricker öl. Jag tittar på ölen. Jag är törstig. En av dom frågar om jag vill ha en öl. Jag nickar. Vi får varsin öl. En efter en av tullkillarna kommer fram med sina öl och sina pistoler. En av dom börjar sjunga. Vi står en halvtimme, blir bjudna på ny öl. Jag kan inte skaka av mig misstanken att dom bjuder oss på öl för att suga oss för rattfylla två mil längre bort.
+Han ler och stämplar våra pass. Stämplar våra turistvisa. Säger att han tyvärr måste gå igenom bilen. Vi kör in den i skjulet. Där står några killar i uniformer och pistoler. Alla dricker öl. Jag tittar på ölen. Jag är törstig. En av dom frågar om jag vill ha en öl. Jag nickar. Vi får varsin öl. En efter en av tullkillarna kommer fram med sina öl och sina pistoler. En av dom börjar sjunga. Vi står en halvtimme, blir bjudna på ny öl. Jag kan inte skaka av mig misstanken att dom bjuder oss på öl för att suga oss för rattfylla två mil längre bort.
 :::
 
 ::: indent
@@ -260,7 +260,7 @@ Jag letar upp en kantina full med mexikanare, halvmörkt, en syrlig doft i lufte
 
 <!-- PAGE 101 START -->
 ::: indent
-Jag har trängt mig in mellan några män i baren och försökt se bortkastad ut. Jag misslyckas. Dom här männen har sadlat påresignationen ett parårtionden innan jag dök upp.
+Jag har trängt mig in mellan några män i baren och försökt se bortkastad ut. Jag misslyckas. Dom här männen har sadlat på resignationen ett par årtionden innan jag dök upp.
 :::
 
 ::: indent
@@ -268,11 +268,11 @@ Jag har trängt mig in mellan några män i baren och försökt se bortkastad ut
 :::
 
 ::: indent
-En man med halvslutnaögon betraktade mig via spegelglaset bakom flaskorna.
+En man med halvslutna ögon betraktade mig via spegelglaset bakom flaskorna.
 :::
 
 ::: indent
-– Och vad har fört dig till dessa såogästvänliga trakter?
+– Och vad har fört dig till dessa så ogästvänliga trakter?
 :::
 
 ::: indent
@@ -292,23 +292,23 @@ Mannen krossar flugorna mot låret.
 :::
 
 ::: indent
-Jag går innanölen kommer fram, jag orkar inte vara kvar i det här spelet. Bruno är på väg ut ur parken.
+Jag går innan ölen kommer fram, jag orkar inte vara kvar i det här spelet. Bruno är på väg ut ur parken.
 :::
 
 ::: indent
-Vi kör tillbaka ut till Leos Inn, köper fyra flaskor spanskt vin, Balleredondo, och sätter oss påstrandterrassen till vårt hotell. Det är becksvart ute. Vi sitter under palmerna. Det fläktar. Rakt framför oss har vi en gigantisk lagun, rakt ut i den kaliforniska golfen. Ett enormtåskväder härjar precis bakom oss. Hela bukten och alla klipporna och allt vattnet och alla bergåsarna lyses upp varann sekund av dånande blåblixtar. Vi sitter i en timme och dricker ett par flaskor vin, enstaka människor rör sig ute i vattnet, bilar rullar längs stranden.
+Vi kör tillbaka ut till Leos Inn, köper fyra flaskor spanskt vin, Balleredondo, och sätter oss på strandterrassen till vårt hotell. Det är becksvart ute. Vi sitter under palmerna. Det fläktar. Rakt framför oss har vi en gigantisk lagun, rakt ut i den kaliforniska golfen. Ett enormt åskväder härjar precis bakom oss. Hela bukten och alla klipporna och allt vattnet och alla bergåsarna lyses upp varann sekund av dånande blåblixtar. Vi sitter i en timme och dricker ett par flaskor vin, enstaka människor rör sig ute i vattnet, bilar rullar längs stranden.
 :::
 
 ::: indent
-Ibland, när det kommer en tät följd av blixtar, är vattnet och himlen fullständigt klara. Det är ljust som mitt pådan och vi ser varenda detalj i synfältet. Black Diamond Bay, pratar vi om, det är naturligtvis här.
+Ibland, när det kommer en tät följd av blixtar, är vattnet och himlen fullständigt klara. Det är ljust som mitt på dan och vi ser varenda detalj i synfältet. Black Diamond Bay, pratar vi om, det är naturligtvis här.
 :::
 
 ::: indent
-Själv drar jag upp strategin för en novell i huvudet, ett lustmord som utspelas just i den här bukten, just den här kvällen, med just det häråskvädret ... tvåmän som sitter påterrassen med en flaska vin och planerar ett mord i det vita huset på andra sidan bukten, där det lyser och brinner en eld i trädgården. I det huset kommer en ung kvinna att lustmördas i natt.
+Själv drar jag upp strategin för en novell i huvudet, ett lustmord som utspelas just i den här bukten, just den här kvällen, med just det här åskvädret ... två män som sitter på terrassen med en flaska vin och planerar ett mord i det vita huset på andra sidan bukten, där det lyser och brinner en eld i trädgården. I det huset kommer en ung kvinna att lustmördas i natt.
 :::
 
 ::: indent
-Vi går in i vårt rum, tänder ljuset, låser dörren. Jag sätter mig på min säng, lyfter påkudden: där ligger en brun, decimeterlång kackerlacka. Ungef är en sekund tar det såhar den försvunnit bakom sängen.
+Vi går in i vårt rum, tänder ljuset, låser dörren. Jag sätter mig på min säng, lyfter på kudden: där ligger en brun, decimeterlång kackerlacka. Ungefär en sekund tar det så har den försvunnit bakom sängen.
 :::
 
 ::: indent
@@ -316,24 +316,24 @@ Jag hatar den typen av sängar.
 :::
 
 ::: indent
-Bruno vänder på sin kudde. Där ligger en lika stor. Dåvet vi vad det handlar om. Den här natten ska det mördas på riktigt. Jag tar mina sandaler, lyfter undan sängen, får in en av insekterna i ett hörn och krossar kroppen med ett fruktansvärt slag. Den vitgråkroppsmassan skvätter över halva tapeten. En stund senare har jag krossat Brunos också. När vi ska lägga oss ser vi ytterligare en lika stor insekt kravla mot dörren. Den dör som ett krossatäggskal mot kakelgolvet.
+Bruno vänder på sin kudde. Där ligger en lika stor. Dåvet vi vad det handlar om. Den här natten ska det mördas på riktigt. Jag tar mina sandaler, lyfter undan sängen, får in en av insekterna i ett hörn och krossar kroppen med ett fruktansvärt slag. Den vitgrå kroppsmassan skvätter över halva tapeten. En stund senare har jag krossat Brunos också. När vi ska lägga oss ser vi ytterligare en lika stor insekt kravla mot dörren. Den dör som ett krossatäggskal mot kakelgolvet.
 :::
 
 ::: indent
-Detäckligaste är stänket av dom.
+Det äckligaste är stänket av dom.
 :::
 
 ::: indent
-Jag anstränger mig några minuter för att kolla igenom rummet. Jag hittar en till. Senär det tomt. Nästa morgon ser vi att det sitter en stor bakom gardinen också. Bruno tar sin stora galosch och mördar djuret. Rummet är fullständigt nersölat med krossade och utskvätta kackerlackor. Det är rätt motbjudande, men sex dollar ...
+Jag anstränger mig några minuter för att kolla igenom rummet. Jag hittar en till. Sen är det tomt. Nästa morgon ser vi att det sitter en stor bakom gardinen också. Bruno tar sin stora galosch och mördar djuret. Rummet är fullständigt nersölat med krossade och utskvätta kackerlackor. Det är rätt motbjudande, men sex dollar ...
 :::
 
 ::: indent
 Vi stannar ytterligare ett dygn och dricker upp vinet.
 :::
 
-Kvällen innan vi åker sitter vi på en strandrestaurang. En man kommer fram till mig och ber om tändstickor, vill bjuda påenöl, blinkar med ögonen, frågar om jag vill hänga med in till Guyamas, häller salt påhandens utsida, pressar en citron i munnen, slickar i sig saltet och drar ner den kalla tequilan och blinkar oupphörligt mot mig, tar mig i hand, släpper inte handen, lägger armen hårt runt mina axlar och säger adjö, smyger ut påmuggen, kikar runt hörnet ett par gånger, gör en spydig grimas och försvinner ut till en taxi.
+Kvällen innan vi åker sitter vi på en strandrestaurang. En man kommer fram till mig och ber om tändstickor, vill bjuda på en öl, blinkar med ögonen, frågar om jag vill hänga med in till Guyamas, häller salt på handens utsida, pressar en citron i munnen, slickar i sig saltet och drar ner den kalla tequilan och blinkar oupphörligt mot mig, tar mig i hand, släpper inte handen, lägger armen hårt runt mina axlar och säger adjö, smyger ut på muggen, kikar runt hörnet ett par gånger, gör en spydig grimas och försvinner ut till en taxi.
 ::: indent
-Viäter stillsamt vår friterade fisk och dricker vår kalla mexikanskaöl under luftkonditioneringens svala propellrar.
+Vi äter stillsamt vår friterade fisk och dricker vår kalla mexikanska öl under luftkonditioneringens svala propellrar.
 :::
 <!-- PAGE 101 END -->
 
@@ -343,7 +343,7 @@ Jag längtar härifrån.
 :::
 
 ::: indent
-– Hur långt ut iöknen måste man innan man hittar hem? säger jag, bara för att säga nåt.
+– Hur långt ut i öknen måste man innan man hittar hem? säger jag, bara för att säga nåt.
 :::
 
 ::: indent
@@ -370,7 +370,7 @@ Jag längtar härifrån.
 Inte mycket till tröst. För mig känns resan just nu som ständiga förflyttningar mellan Poste Restante och Kvicksand.
 :::
 
-Vi lämnar Guyamas, kör mot norr, mot gränsen till Arizona, kör i timmar. En avbruten träskylt dyker upp, med handskrivna bokstäver: El Oasis. Vi åker av mot byn, behöver bensin. Inga hus, ingen rök, inga rörelser på vägen dit. Såvidgar den sig lite, gruset kryper upp mot asfalten, mitt i gruset en bensinpump och en blind hund. Bakom gruset en kaktushäck och en svacka, i svackan ett lågt stenhus, vitkalkat, intill huset ett trekantigt kapell i trä, stort som en bättre hundkoja.
+Vi lämnar Guyamas, kör mot norr, mot gränsen till Arizona, kör i timmar. En avbruten träskylt dyker upp, med handskrivna bokstäver: El Oasis. Vi åker av mot byn, behöver bensin. Inga hus, ingen rök, inga rörelser på vägen dit. Så vidgar den sig lite, gruset kryper upp mot asfalten, mitt i gruset en bensinpump och en blind hund. Bakom gruset en kaktushäck och en svacka, i svackan ett lågt stenhus, vitkalkat, intill huset ett trekantigt kapell i trä, stort som en bättre hundkoja.
 ::: indent
 – Buenos dias.
 :::
@@ -384,7 +384,7 @@ Dörren in i huset är ett öppet hål i väggen, kanterna är klädda med snäc
 :::
 
 ::: indent
-När jag öppnar nätet till köket lyfter en svart matta av flugor och Rosalita pekar pålokomotivet.
+När jag öppnar nätet till köket lyfter en svart matta av flugor och Rosalita pekar på lokomotivet.
 :::
 
 ::: indent
@@ -401,7 +401,7 @@ Vi åker när det mörknar.
 
 Nattkörning i bilen.
 ::: indent
-Tidig gryning, på väg mot Arizona, stannar till vid ett över givet järnvägsspår, nödiga, går ur, en ensam skabbig get står vid ett trästaket, en grind leder in till en smal sandväg som ringlar bort mot en osynlig ranch. Ur getensögon rullar stora tårar.
+Tidig gryning, på väg mot Arizona, stannar till vid ett övergivet järnvägsspår, nödiga, går ur, en ensam skabbig get står vid ett trästaket, en grind leder in till en smal sandväg som ringlar bort mot en osynlig ranch. Ur getensögon rullar stora tårar.
 :::
 
 ::: indent
@@ -417,11 +417,11 @@ Skymning nedanför dom mexikanska bergen, Cerro Pinacate, vi kör i det rödblå
 
 <!-- PAGE 103 START -->
 ::: indent
-Vi stannar Silverkungen, tar på oss långbyxor för ormarnas skull, glider nerför järnkorset vid vägkanten, plastblommor markerar en ung mans snabba död. Vi kliver ut i den röda sanden, ut mot kaktusarna, Saguaros, dessa väldiga, mörkgröna, svullna kaktusar med fågelbon i stammarna och tre decimeter långa, stenhårda taggar påarmarna. Vi strosar runt iöknen, länge, går längs en uttorkad flodbädd, sparkar på dom torra vita stenarna, rör upp samma damm som så många hästar tidigare har satt i rörelse. Det är alldeles tyst i dalen, inga fåglar, inga cikador, inga bilar, inga människor. Vi gräver några gropar, pissar på en död buske, känner den ljumma vinden rulla ner från bergen, utöver marken, på avstånd börjar det mullra.
+Vi stannar Silverkungen, tar på oss långbyxor för ormarnas skull, glider nerför järnkorset vid vägkanten, plastblommor markerar en ung mans snabba död. Vi kliver ut i den röda sanden, ut mot kaktusarna, Saguaros, dessa väldiga, mörkgröna, svullna kaktusar med fågelbon i stammarna och tre decimeter långa, stenhårda taggar på armarna. Vi strosar runt i öknen, länge, går längs en uttorkad flodbädd, sparkar på dom torra vita stenarna, rör upp samma damm som så många hästar tidigare har satt i rörelse. Det är alldeles tyst i dalen, inga fåglar, inga cikador, inga bilar, inga människor. Vi gräver några gropar, pissar på en död buske, känner den ljumma vinden rulla ner från bergen, utöver marken, på avstånd börjar det mullra.
 :::
 
 ::: indent
-Vi hastar tillbaka i våra egna torra fotspår, skär en skåra i en sex meter hög kaktus, stannar vid vägkanten, stirrar hypnotiserade ut i detta såannorlunda, stirrar för att verkligen bränna in synen i hjärnbarken.
+Vi hastar tillbaka i våra egna torra fotspår, skär en skåra i en sex meter hög kaktus, stannar vid vägkanten, stirrar hypnotiserade ut i detta så annorlunda, stirrar för att verkligen bränna in synen i hjärnbarken.
 :::
 
 ::: indent
@@ -440,7 +440,7 @@ Spelar ett parti schack.
 Remi.
 :::
 
-Nästa dag når vi tullstationen i Nogales, pågränsen till Arizona. Stekhett, solen i zenit. Hoppas att det inte ska krångla med våra inresevisum. Det gör det inte.
+Nästa dag når vi tullstationen i Nogales, på gränsen till Arizona. Stekhett, solen i zenit. Hoppas att det inte ska krångla med våra inresevisum. Det gör det inte.
 ::: indent
 Det är annat som krånglar.
 :::
@@ -514,11 +514,11 @@ Polisen kliver ur bilen med kniven i handen, tittar på oss.
 :::
 
 ::: indent
-Jag undviker att påpeka att vem som helst i USA kan gåin var som helst och köpa på sig fjorton bazookas utan problem. Det här en liten kniv. Men problemet är tydligen att vi har försökt korsa gränsen med den.
+Jag undviker att påpeka att vem som helst i USA kan gå in var som helst och köpa på sig fjorton bazookas utan problem. Det här en liten kniv. Men problemet är tydligen att vi har försökt korsa gränsen med den.
 :::
 
 ::: indent
-Polisen håller upp kniven i luften, visar den för resten av dom sysslolösa uniformerna, några skakar på huvudet, andra ler för första gången. Solen bränner i ansiktet och jag känner att det här kan sluta jävligt illa. Dom här killarna har inte haft kul påganska länge, äntligen har dom fått nåt att leka med.
+Polisen håller upp kniven i luften, visar den för resten av dom sysslolösa uniformerna, några skakar på huvudet, andra ler för första gången. Solen bränner i ansiktet och jag känner att det här kan sluta jävligt illa. Dom här killarna har inte haft kul på ganska länge, äntligen har dom fått nåt att leka med.
 :::
 <!-- PAGE 103 END -->
 
@@ -547,7 +547,7 @@ Tydligen finns det stipulerade bladlängder i den amerikanska lagen som avgör o
 Vi sätter oss i bilen och rullar iväg. Jag lyckas köra över apelsinen när vi svänger ut på vägen.
 :::
 
-Sent påeftermiddagen rullar vi in i ett av våra måsten påresan: Tombstone. Den mytomhuldade westernstan, plats för otaliga revolveruppgörelser, fiktiva och verkliga. ”The town to tough to die”. En guldgruva för filmare och författare.
+Sent på eftermiddagen rullar vi in i ett av våra måsten på resan: Tombstone. Den mytomhuldade westernstan, plats för otaliga revolveruppgörelser, fiktiva och verkliga. ”The town to tough to die”. En guldgruva för filmare och författare.
 ::: indent
 Stan har klassats som kulturminnesmärke för längesen, allt är bevarat som det såg ut 1870. Samma salooner, samma hotell, samma dammiga gator och snirkliga, vackra trähus med gungande loftgångar. Silver Nugget Saloon. Bird Cage Theatre. Crystal Palace Saloon. Wells Fargo Office. O. K. Corral: ”Walk where they fell.”
 :::
@@ -564,13 +564,13 @@ Det är naturligtvis en turistmagnet på många sätt, men med lite poesifantasi
 Vi dricker en del whisky i den baren.
 :::
 
-Nästa morgon besöker vi det omskrivna fängelset i Tombstone. The Jailhouse, som det står ovanför dörren. Påfängelsegården står en tvåmans-galge med 13 trappsteg upp och en enorm fallucka. Vi går långsamt uppför trappan, som om det var oss det gällde. Just när vi står påluckan och tittar upp pågalgarna och föreställer oss repen och kropparna som dinglade där börjaråskan mullra, himlenöppnar sig, regnet vräker plötsligt ner, vi snubblar utför trapporna och springer genom kulregnet över gården, blixtarna står som feta, blåledningar mellan himmel och helvete.
+Nästa morgon besöker vi det omskrivna fängelset i Tombstone. The Jailhouse, som det står ovanför dörren. På fängelsegården står en tvåmans-galge med 13 trappsteg upp och en enorm fallucka. Vi går långsamt uppför trappan, som om det var oss det gällde. Just när vi står på luckan och tittar upp på galgarna och föreställer oss repen och kropparna som dinglade där börjar åskan mullra, himlen öppnar sig, regnet vräker plötsligt ner, vi snubblar utför trapporna och springer genom kulregnet över gården, blixtarna står som feta, blåledningar mellan himmel och helvete.
 ::: indent
 Vi söker skydd på Silver Nugget på Fremont St.
 :::
 
 ::: indent
-I baren står en man i boots och cowboyhatt och tvåguldtänder, påstår att han är dollarmiljonär, bjuder påwhiskey med en utslängd bunt sedlar på disken:
+I baren står en man i boots och cowboyhatt och två guldtänder, påstår att han är dollarmiljonär, bjuder på whiskey med en utslängd bunt sedlar på disken:
 :::
 
 ::: indent
@@ -591,7 +591,7 @@ Jaha?
 :::
 
 ::: indent
-Det är några plank, några skjul, några skotthål, that ´ s it.
+Det är några plank, några skjul, några skotthål, that's it.
 :::
 
 ::: indent
@@ -606,7 +606,7 @@ Kan vi bocka av det.
 <!-- PAGE 104 END -->
 
 <!-- PAGE 105 START -->
-På väg tillbaka passerar vi Bird Cage Theatre. Påväggen sitter en gammal klassisk affisch som upplyser om att den berömda magdansösen Little Egypt ska uppträda här ikväll. Vi fortsätter till baren på Allen St, Crystal Palace, och blir kvar ganska länge.
+På väg tillbaka passerar vi Bird Cage Theatre. På väggen sitter en gammal klassisk affisch som upplyser om att den berömda magdansösen Little Egypt ska uppträda här ikväll. Vi fortsätter till baren på Allen St, Crystal Palace, och blir kvar ganska länge.
 
 ::: part
 :::
@@ -658,18 +658,18 @@ På väg tillbaka hinner det bli beckmörkt, fullmånen är uppe, hundarna ylar.
 :::
 
 ::: indent
-– Tittade pågravstenar.
+– Tittade på gravstenar.
 :::
 
 ::: indent
-Dom skakar lite på huvudet och sägeråt oss att hålla oss inomhus. Tvåmördare har just rymt från Sonora Jail och kan dyka upp var som helst. Vi hastar längs Allen St in mot vårt hotell.
+Dom skakar lite på huvudet och säger åt oss att hålla oss inomhus. Två mördare har just rymt från Sonora Jail och kan dyka upp var som helst. Vi hastar längs Allen St in mot vårt hotell.
 :::
 
 ::: indent
 Jag somnar direkt och drömmer om Wyatt Earps vackra, tredje fru, Josephine Earp.
 :::
 
-Det sista vi gör i Tombstone är att ta ett fotografi. På riktigt. Vi går in i en fotoateljépå Allen St och tar en porträttbild.
+Det sista vi gör i Tombstone är att ta ett fotografi. På riktigt. Vi går in i en fotoateljé på Allen St och tar en porträttbild.
 
 ![We were so much older then
 We are younger than that now.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/311.png)
@@ -680,7 +680,7 @@ På grund av en incident med två Navajos i ett reservat längre fram är detta 
 
 Vi fortsätter upp genom Arizona. Åker genom Alpin, oändliga skogar, täta, mörka, närmar oss indianreservatet Fort Apache. Kommer ut ur skogarna, ute på vidderna strövar flockar av vilda präriehästar omkring. Vackert!
 ::: indent
-Vi måste förbi en sjöinnan vi når reservatet. Det går inte. En jättelik, blixtfälld trädstam blockerar vägen. Vi sätter oss påstammen, tar två Budweiser, äter ett paräpplen.
+Vi måste förbi en sjö innan vi når reservatet. Det går inte. En jättelik, blixtfälld trädstam blockerar vägen. Vi sätter oss på stammen, tar två Budweiser, äter ett par äpplen.
 :::
 
 ::: indent
@@ -708,7 +708,7 @@ Får.
 :::
 
 ::: indent
-Såfruktansvärt förödmjukande, i hjärtat av Geronimos stolta landskap, som han försvarade med sitt släktes dyrköpta blod, sina barn och sina kvinnor. Detta landskap är nu befolkat avättlingar som vaktar får.
+Så fruktansvärt förödmjukande, i hjärtat av Geronimos stolta landskap, som han försvarade med sitt släktes dyrköpta blod, sina barn och sina kvinnor. Detta landskap är nu befolkat av ättlingar som vaktar får.
 :::
 
 Vi kör till Whiteriver och Fort Apache. Fortet är ointressant, bara gamla tegelbyggnader och logilokaler, ombyggt till skola.
@@ -734,14 +734,14 @@ Snarare dom jaguarer som fortfarande strövar runt här (idag är dom utrotade).
 :::
 
 ::: indent
-Fastnar i ett flodregn på en bergstopp. Vägen dränks i skyfall. Vi stannar Silverkungen, rullar av en bit, står högst upp på toppen och betraktar ett fullständigt ursinnigt världskrig mellan himmel och jord. Blixtarna krackelerar över topparna och exploderar i våra trumhinnor, rullar ut mellan apachebergen som elektriska vätebomber, bilen skakar när marken mullrar under oss, träden sliter med sina kämpande rötter, atmosfären är svart, vi känner ossäntligen små.
+Fastnar i ett flodregn på en bergstopp. Vägen dränks i skyfall. Vi stannar Silverkungen, rullar av en bit, står högst upp på toppen och betraktar ett fullständigt ursinnigt världskrig mellan himmel och jord. Blixtarna krackelerar över topparna och exploderar i våra trumhinnor, rullar ut mellan apachebergen som elektriska vätebomber, bilen skakar när marken mullrar under oss, träden sliter med sina kämpande rötter, atmosfären är svart, vi känner oss äntligen små.
 :::
 
 ::: indent
 Efter ovädret:ångan stiger som trollslöjor från dom asfalterade vägarna, stiger som ringlande förförisk rökelse, vilan, helningen efter stormen.
 :::
 
-Kör vidare igenom Petrified Forest. Den förstenade skogen. Ett slags amerikanska fornlämningar, deras runstenar. Skogen sjönk i havet för 20.000 år sen, höjdes igen, resterna ligger som svarta, tunga, döda monument påslätten ... eller är det förstenade bufflar?
+Kör vidare igenom Petrified Forest. Den förstenade skogen. Ett slags amerikanska fornlämningar, deras runstenar. Skogen sjönk i havet för 20.000 år sen, höjdes igen, resterna ligger som svarta, tunga, döda monument på slätten ... eller är det förstenade bufflar?
 
 Den kallas för ”Death Road” och går mellan Tombstone och Cochise Stronghold. Smal, oerhört gropig, sandig. I fjärran Dragoon Mountains. Vi är på väg mot Fort Bowie. Överallt sköldpaddor, harar, jordekorrar och enorma rullande buskar.
 <!-- PAGE 106 END -->
@@ -772,14 +772,14 @@ Det var upptakten till Cochise oresonliga vrede (jag har inte så svårt att rel
 :::
 
 ::: indent
-När Bruno är klar tittar vi utöver platsen igen. Det är alldeles tyst, knappt ensökenvinden gör sig påmind.
+När Bruno är klar tittar vi utöver platsen igen. Det är alldeles tyst, knappt ens ökenvinden gör sig påmind.
 :::
 
 ::: indent
 Sakralt.
 :::
 
-Vi åker vidare. Vägen smalnar, solen steker, jag ser ormen först: lång, svart, ett tiotal meter framför oss, mitt i vägbanan. Vi stannar, sänker ner vindrutorna, det är dödstyst utanför. En skallerorm? Såser vi hur ormen höjer svansen, hör det höga skallrande ljudet från plattorna som vibrerar, ser den kluvna spelande tungan, hör väsandet. Vi kör lite närmare. Den flyttar inte på sig. Köra över den eller gåur? Ingen av oss är såpigg på att gåur, inte köra över den heller. Bruno tar fram en liten ask från en fotorulle, häver sig ut genom vindrutan, kastar asken mot skallerormen för att se om den reagerar. Det gör den. Smidigt ringlar den liteåt sidan, mot kanten av vägen, utan att ge avkall påskallrandet. Jag glider framåt med bilen, ormen ligger kvar i diket och spelar med tungan, den är vacker, med sina utspända käkar. Bruno tar en bild på den. Jag kör vidare.
+Vi åker vidare. Vägen smalnar, solen steker, jag ser ormen först: lång, svart, ett tiotal meter framför oss, mitt i vägbanan. Vi stannar, sänker ner vindrutorna, det är dödstyst utanför. En skallerorm? Så ser vi hur ormen höjer svansen, hör det höga skallrande ljudet från plattorna som vibrerar, ser den kluvna spelande tungan, hör väsandet. Vi kör lite närmare. Den flyttar inte på sig. Köra över den eller gå ur? Ingen av oss är så pigg på att gå ur, inte köra över den heller. Bruno tar fram en liten ask från en fotorulle, häver sig ut genom vindrutan, kastar asken mot skallerormen för att se om den reagerar. Det gör den. Smidigt ringlar den lite åt sidan, mot kanten av vägen, utan att ge avkall på skallrandet. Jag glider framåt med bilen, ormen ligger kvar i diket och spelar med tungan, den är vacker, med sina utspända käkar. Bruno tar en bild på den. Jag kör vidare.
 
 Två Navajos med långt svart hår och tunna jackor står och liftar. Dom är luggslitna. Vi plockar upp dom, förstår att dom ska till en by en bit bort i reservatet. Dom sätter sig i baksätet. Vi försöker konversera, fråga, Bruno är nyfiken, dom är fåordiga. Vi kommer fram och släpper av dom.
 ::: indent
@@ -787,7 +787,7 @@ En halvgod gärning.
 :::
 
 ::: indent
-Några mil senare ska Bruno fotografera en ravin. Han vänder sig mot baksätet efter kameran. Denär borta. Den finns numera i en by i ett reservat långt bakom oss.
+Några mil senare ska Bruno fotografera en ravin. Han vänder sig mot baksätet efter kameran. Den är borta. Den finns numera i en by i ett reservat långt bakom oss.
 :::
 
 ::: indent
@@ -800,11 +800,11 @@ Vi får förlita oss på det inre bildarkivet.
 
 Vi närmar oss dom väldiga Dragoon Mountain, dom tornar upp sig som en vägg av mörkbrun massa mot himlen.
 ::: indent
-Innan dess: Röd, bränd torka så långtögat når, ända fram till bergen. En träskylt dyker upp, vi stannar. Vi är i utkanten av Cochise Stronghold. Apacheledarens tillhåll. Hans fästning i bergen. Gamarna cirklar över dom gigantiska klipporna. Vi åker in. En lång, slingrigödslig väg, mellan uttorkade bäckar, omkullfallna trädstammar, inte en människa, inte en bil. Vi kommer in i vad som var ser ut som en offerlund, svala skuggade ytor under höga träd, precis i knät av klippdalen. Vi stannar och går ut, tittar upp. Ser direkt kulspår i bergväggarna.
+Innan dess: Röd, bränd torka så långt ögat når, ända fram till bergen. En träskylt dyker upp, vi stannar. Vi är i utkanten av Cochise Stronghold. Apacheledarens tillhåll. Hans fästning i bergen. Gamarna cirklar över dom gigantiska klipporna. Vi åker in. En lång, slingrig ödslig väg, mellan uttorkade bäckar, omkullfallna trädstammar, inte en människa, inte en bil. Vi kommer in i vad som var ser ut som en offerlund, svala skuggade ytor under höga träd, precis i knät av klippdalen. Vi stannar och går ut, tittar upp. Ser direkt kulspår i bergväggarna.
 :::
 
 ::: indent
-Det var inne bland dom här klippbergen allt utspelade sig. Den slutgiltiga, grymma uppgörelsen mellan invandrarna och Cochise. Mellan kavallerister och urbefolkning. Vi klättrar upp i klipplandskapet, utsprång för utsprång. Pumabergen. Vi är vaksamma. Vet vad som har utspelats här. Anar att apachernas döda själar vakar över dom blodstänkta klipporna. Får en känsla avögon, vakandeögon. Sätter oss i en klippskreva, försöker ta in.
+Det var inne bland dom här klippbergen allt utspelade sig. Den slutgiltiga, grymma uppgörelsen mellan invandrarna och Cochise. Mellan kavallerister och urbefolkning. Vi klättrar upp i klipplandskapet, utsprång för utsprång. Pumabergen. Vi är vaksamma. Vet vad som har utspelats här. Anar att apachernas döda själar vakar över dom blodstänkta klipporna. Får en känsla av ögon, vakande ögon. Sätter oss i en klippskreva, försöker ta in.
 :::
 <!-- PAGE 107 END -->
 
@@ -826,28 +826,28 @@ Nedanför klipporna står ett förtorkat träd med ett kvisthål i. Kikar man ge
 :::
 
 ::: indent
-Vi tittar upp, gamarna cirklar fortfarande däruppe. Vi klämmer lite tequila, lägger oss på marken, lyssnar till dom obefintliga ljuden och kan långsamt rekapitulera ett anfall från dom vita, ännu ett lönlöst försök att tränga uppför dom branta kantiga bergssidorna för att försöka fåtag i den stolthet som äger detta land. Vi kan, i den sjunkande eftermiddagssolen, med tequila i handen och gamarna i skyn, liggande utsträckta påtorra löv nere i grytan av Cochise Stronghold, långsamt förflytta oss tillbaka till 1860-talet och uppleva den råa dramatik som var den tidens kännetecken, hästarnas stampande, kulorna, pilarna, skriken, vatten påsarna, svetten, mansskriken, dom snabba indianfötterna med dom mjuka mockasinerna mot dom stenhårda klipporna, smidiga som bergsgetter, hela tiden nya positioner, nya vita offer med vinande pilar genom struparna, stupande in genom fortet för att dö... vi har inte svårt att föreställa oss vad som utspelades här.
+Vi tittar upp, gamarna cirklar fortfarande däruppe. Vi klämmer lite tequila, lägger oss på marken, lyssnar till dom obefintliga ljuden och kan långsamt rekapitulera ett anfall från dom vita, ännu ett lönlöst försök att tränga uppför dom branta kantiga bergssidorna för att försöka få tag i den stolthet som äger detta land. Vi kan, i den sjunkande eftermiddagssolen, med tequila i handen och gamarna i skyn, liggande utsträckta på torra löv nere i grytan av Cochise Stronghold, långsamt förflytta oss tillbaka till 1860-talet och uppleva den råa dramatik som var den tidens kännetecken, hästarnas stampande, kulorna, pilarna, skriken, vatten påsarna, svetten, mansskriken, dom snabba indianfötterna med dom mjuka mockasinerna mot dom stenhårda klipporna, smidiga som bergsgetter, hela tiden nya positioner, nya vita offer med vinande pilar genom struparna, stupande in genom fortet för att dö... vi har inte svårt att föreställa oss vad som utspelades här.
 :::
 
 ::: indent
 Gamarna har försvunnit.
 :::
 
-Info: Efter tolvårs desperata försök från kavalleriet att knäcka Cochise i hans klippfästning kommer man till slut fram till, tack vare en klok president, en separat freds över enskommelse 1872. C0 chise får igenom alla sina omfattande krav, inte minst ett stort reservat för sitt folk.
+Info: Efter tolvårs desperata försök från kavalleriet att knäcka Cochise i hans klippfästning kommer man till slut fram till, tack vare en klok president, en separat freds över enskommelse 1872. Cochise får igenom alla sina omfattande krav, inte minst ett stort reservat för sitt folk.
 ::: indent
-Tvåår senare dör Cochise. Hans grav göms i bergen. Denär fortfarande inte lokaliserad. Född här, död här, försvunnen här.
+Två år senare dör Cochise. Hans grav göms i bergen. Den är fortfarande inte lokaliserad. Född här, död här, försvunnen här.
 :::
 
 ::: indent
 Svårt att matcha den gravstenen.
 :::
 
-Nästa stopp är en bar i Navajoreservatet. Tre natives i cowboykläder sitter vid disken och dricker cocacola. Vi tänker på dom vilda, hårda klipporna i Cochise Stronghold. Kampen där. Här sitterätteläggen i cowboykläder och dricker coke.
+Nästa stopp är en bar i Navajoreservatet. Tre natives i cowboykläder sitter vid disken och dricker cocacola. Vi tänker på dom vilda, hårda klipporna i Cochise Stronghold. Kampen där. Här sitter ätteläggen i cowboykläder och dricker coke.
 ::: indent
 Rätt beklämmande.
 :::
 
-Vi passerar dom stora platåerna. First Mesa, Second Mesa. Urgamla byar hukar påklipporna, fortfarande befolkade. Stenhus, med utsikt över hela stäppen. Bruno sliter med en dikt. Han löser första meningen när vi bromsar in för en svart tjur på vägen.
+Vi passerar dom stora platåerna. First Mesa, Second Mesa. Urgamla byar hukar på klipporna, fortfarande befolkade. Stenhus, med utsikt över hela stäppen. Bruno sliter med en dikt. Han löser första meningen när vi bromsar in för en svart tjur på vägen.
 ::: indent
 – Äntligen! Inledningen är knäckt! Lyssna: ”Pariserhjulet repar floden, där du hyr ett skjul, med fruset gin som tak”... vilken lättnad!
 :::
@@ -908,11 +908,11 @@ det blev början till deras fall
 
 Rum nummer 10 i Dry Town. Ett billigt motell. Bruno mår inte bra. Jag drar upp ett smutsigt lakan över huvudet, han vankar runt.
 ::: indent
-– Roligareän såh är blir det inte, säger han. Lägga sig till vila med en flaska tequila.
+– Roligare än så här blir det inte, säger han. Lägga sig till vila med en flaska tequila.
 :::
 
 ::: indent
-Han rimmaråtminstone. Han är nära gränsen. Naken, med en blöt handduk som turban. Han lägger en vit tygservett över mina kycklingrester, bläddrar mellan tv-kanalerna, fram och tillbaka.
+Han rimmar åtminstone. Han är nära gränsen. Naken, med en blöt handduk som turban. Han lägger en vit tygservett över mina kycklingrester, bläddrar mellan tv-kanalerna, fram och tillbaka.
 :::
 
 ::: indent
@@ -936,7 +936,7 @@ Han sliter upp innerdörren, stirrar förtvivlat ut genom nätet, mot cikadornas
 :::
 
 ::: indent
-Han knäpper påkassettbandspelaren, kör fram och tillbaka, går in på toaletten.
+Han knäpper på kassettbandspelaren, kör fram och tillbaka, går in på toaletten.
 :::
 
 ::: indent
@@ -993,9 +993,9 @@ Hans vackra van Gogh-skor hänger med remmarna neråt. Den svarta västen, med d
 – Spansk krage ...
 :::
 
-Vi passerar gränsen till Utah, på väg mot Colorado, stannar till i en mindre stad. Vi har kört genomöken och hetta i timmar, är svintörstiga. Går in på en bar, sjunker ner vid disken. Äntligen!
+Vi passerar gränsen till Utah, på väg mot Colorado, stannar till i en mindre stad. Vi har kört genom öken och hetta i timmar, är svintörstiga. Går in på en bar, sjunker ner vid disken. Äntligen!
 ::: indent
-– Tvåöl, tack!
+– Två öl, tack!
 :::
 
 ::: indent
@@ -1028,11 +1028,11 @@ Vi sjunker ihop i Silverkungen.
 
 Vi kör rätt fort mot Colorado. Mot Klippiga Bergen. Klättrar längs bergsvägar, kommer upp på en platå, stannar till, går ut, tittar bort mot en jättelik dalgång, hör ett avlägset ljud: långt borta ser vi en stor buffelhjord, en svart massa av bisonoxar på väg genom det höga gräset, tusentals, raggigt skinn hänger nerför kropparna, rör sig långsamt i solnedgången, som för hundraår sen.
 ::: indent
-Det är såvackert och vi blir lite förbluffade. Finns det såstora hjordar av vilda bufflar kvar?
+Det är så vackert och vi blir lite förbluffade. Finns det så stora hjordar av vilda bufflar kvar?
 :::
 
 ::: indent
-Några minuter senare blir vi nästan lika förbluffade. Vi kommer runt ett hörn högt upp i bergen, nedanför oss är en djup ravin, mitt i ravinen står en gigantiskt hög rauk, smal, urholkad av flodvatten, högst upp pårauken står ett stort svart lok. Ett järnvägslok. Balanserande påraukens topp.
+Några minuter senare blir vi nästan lika förbluffade. Vi kommer runt ett hörn högt upp i bergen, nedanför oss är en djup ravin, mitt i ravinen står en gigantiskt hög rauk, smal, urholkad av flodvatten, högst upp på rauken står ett stort svart lok. Ett järnvägslok. Balanserande på raukens topp.
 :::
 
 ::: indent

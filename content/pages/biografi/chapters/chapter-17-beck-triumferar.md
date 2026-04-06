@@ -1,13 +1,13 @@
 # Beck triumferar
 
 <!-- PAGE 194 START -->
-Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam påotaliga scener och framfört egna texter med högt själv för troende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
+Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam påotaliga scener och framfört egna texter med högt självförtroende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
 
 Jag sköljer ner den obehagliga upplevelsen av Dylan-inspelningen med att skriva ett handfast manus till en tv-serie som heter ”*Läckan*”. Den bygger på en bok av ekonomen Klas Eklund (numera pappa till en poddare och en stjärnmäklare) och handlar om en korruptionsskandal i ”maktens korridorer”. Mord och spänning, med viss igenkänningsfaktor för en del i korridorerna. Mikael Ekman regisserar och Anders Ahlbom gör, förtjänstfullt, en omplacerad polis som ger sig in det politiska träsket.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/290.jpg)
 
-Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannar påskrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde att berätta kriminalhistorier. Därär vi ikapp med råge. Nästa steg är att komma ikapp deras sätt att skildra maktvärlden.
+Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannar påskrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde att berätta kriminalhistorier. Där är vi ikapp med råge. Nästa steg är att komma ikapp deras sätt att skildra maktvärlden.
 ::: indent
 Relationsdramer är vi bra på.
 :::
@@ -19,9 +19,9 @@ Ord om Mikael Ekman, en nära vän: Lillebror till Gösta, en av den kvartett �
 
 Det är riksdagsval i antågande och SVT:s ”*Aktuellt*” ber mig och Sauk att göra 5 satiriska inslag i samband med det. Vi kallar dom för ”*Tillfälligt Valbrott*”. Så här gestaltar Sauk en Politiker:
 
-**”Hej! Jag är politiker! Rösta på mig! Varför? Ja, jag anser att skattetrycket bör inflationsskyddas för att vårdnadsglidningen ska ligga i linje med vår neutralitet: en offensiv allemansrätt ger våra mest utsatta grupper en tryggare Öresundsbro ** ***utan***** att handikapphyran sänks! **
+**”Hej! Jag är politiker! Rösta på mig! Varför? Ja, jag anser att skattetrycket bör inflationsskyddas för att vårdnadsglidningen ska ligga i linje med vår neutralitet: en offensiv allemansrätt ger våra mest utsatta grupper en tryggare Öresundsbro ***utan*** att handikapphyran sänks!**
 
-**     Jag vill också skära ner den ofantliga sektorn genom att mervärdespröva ungdomarnas bytesbalans och skapa 300.000 nya inkomstbortfall via en oparlamentarisk arbetslöshet: invandrarnas kostnadskänslighet får ** ***aldrig***** dagtinga med regeringens tillväxttakt!**
+**     Jag vill också skära ner den ofantliga sektorn genom att mervärdespröva ungdomarnas bytesbalans och skapa 300.000 nya inkomstbortfall via en oparlamentarisk arbetslöshet: invandrarnas kostnadskänslighet får ***aldrig*** dagtinga med regeringens tillväxttakt!**
 
 **     Vidare behövs en solidarisk lågkonjunktur för att miljön ska kunna devalveras inom ramen för tredje världens kärnkraftsutveckling. Det är tufft, men det går!**
 
@@ -95,9 +95,9 @@ Jag hjälper också till och bearbetar några manus till en tv-serie som heter �
 Jag tycker inte det är en bra idé.
 :::
 
-En mycket bättre idékommer från musikern Göran Fristorp. Han ringer och frågar om jag har några texter han kan tonsätta till en ny skiva. Han får en pärm med dikter, väljer utåtta stycken och spelar in skivan *”Amabile”*.
+En mycket bättre idé kommer från musikern Göran Fristorp. Han ringer och frågar om jag har några texter han kan tonsätta till en ny skiva. Han får en pärm med dikter, väljer utåtta stycken och spelar in skivan *”Amabile”*.
 
-Den mest intressanta texten är *”Där dom blinda barnen bor”**.*
+Den mest intressanta texten är *”Där dom blinda barnen bor”*.
 
 ::: poem
 **Långt från havet, inåt landet**
@@ -193,7 +193,7 @@ Arbetet har kört fast.
 
 <!-- PAGE 198 START -->
 ::: indent
-Efter fjärde versionen av manuset föreslår Alfredsson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys påsex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredsson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett erbjudande han inte vill tacka nej till - som chef för Skansen. Jag får för mig att han har använt min analys som en förevändning att hoppa av. Kanske helt fel, men det känns halvkul för mig.
+Efter fjärde versionen av manuset föreslår Alfredsson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys på sex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredsson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett erbjudande han inte vill tacka nej till - som chef för Skansen. Jag får för mig att han har använt min analys som en förevändning att hoppa av. Kanske helt fel, men det känns halvkul för mig.
 :::
 
 ::: indent
@@ -201,7 +201,7 @@ Men bra för Skansen.
 :::
 
 ::: indent
-Jag blir ombedd att fortsätta utveckla tv-serien, med utgångspunkt från min analys. Jag har ingenting emot det, historien om Kreuger är på alla plan fascinerande. Jag kontaktar författaren Stig Larsson och föreslår att vi skriver manuset tillsammans. Vi ses påettölkafépå Ringvägen (en miljösom klär oss väl) och diskuterar projektet. Larsson har läst min analys och är intresserad. Det är inte huvudfinansiären Svensk Filmindustri och projektet rinner ut i sanden.
+Jag blir ombedd att fortsätta utveckla tv-serien, med utgångspunkt från min analys. Jag har ingenting emot det, historien om Kreuger är på alla plan fascinerande. Jag kontaktar författaren Stig Larsson och föreslår att vi skriver manuset tillsammans. Vi ses på ett ölkafé på Ringvägen (en miljö som klär oss väl) och diskuterar projektet. Larsson har läst min analys och är intresserad. Det är inte huvudfinansiären Svensk Filmindustri och projektet rinner ut i sanden.
 :::
 
 ::: indent
@@ -211,25 +211,25 @@ Jag blir ombedd att fortsätta utveckla tv-serien, med utgångspunkt från min a
 ::: part
 :::
 
-Sårämnar Sovjetunionen, äntligen. Storstaten spräcks upp i ett antal mindre länder, mycket som en följd av Michail Gorbatjovs olika reformer, det som kallas ”glasnost”. Omvärldens förhoppning är ett öppnare ryskt samhälle, en avspänning politiskt och en större frihet för befolkningen.
+Så rämnar Sovjetunionen, äntligen. Storstaten spräcks upp i ett antal mindre länder, mycket som en följd av Michail Gorbatjovs olika reformer, det som kallas ”glasnost”. Omvärldens förhoppning är ett öppnare ryskt samhälle, en avspänning politiskt och en större frihet för befolkningen.
 ::: indent
 Riktigt så blir det inte, sett över tid.
 :::
 
 ::: indent
-Corny detalj i mina anteckningar: Det häråret skickas världens första sms. En tämligen värdelös notering.
+Corny detalj i mina anteckningar: Det här året skickas världens första sms. En tämligen värdelös notering.
 :::
 
 ::: part
 :::
 
-Dags för mitt yngstaättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”*Min store tjocke far*” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningenäger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig) .
+Dags för mitt yngstaättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”*Min store tjocke far*” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningen äger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig).
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/325.jpeg)
 
 Filmen blir Lassgårds genombrott som skådespelare och renderar honom en Guldbagge. Välförtjänt.
 ::: indent
-På tal om Guldbaggar: Jag sitter med i Baggejuryn ett år och tvingas genomlida ett stort antal utomordentligt meningslösa filmer. Ett fåtal utmärkta, förvisso, men rätt sådeprimerande över lag. Det får mig att fundera igen: Vadär det som är fel? Manus? Regi? Produktion? Varför produceras så många filmer som saknar riktning, avsikt, vilja? Somär såoprofessionellt genomförda? Som uppblåsta skolfilmer? Utan humor, utan anslag? Ofta med plågsamt dålig dialog. Saknar vi en övergripande konsensus om svensk film? Eller är det den som avspeglar sig i det medelmåttiga?
+På tal om Guldbaggar: Jag sitter med i Baggejuryn ett år och tvingas genomlida ett stort antal utomordentligt meningslösa filmer. Ett fåtal utmärkta, förvisso, men rätt så deprimerande över lag. Det får mig att fundera igen: Vad är det som är fel? Manus? Regi? Produktion? Varför produceras så många filmer som saknar riktning, avsikt, vilja? Som är så oprofessionellt genomförda? Som uppblåsta skolfilmer? Utan humor, utan anslag? Ofta med plågsamt dålig dialog. Saknar vi en övergripande konsensus om svensk film? Eller är det den som avspeglar sig i det medelmåttiga?
 :::
 
 ::: indent
@@ -241,7 +241,7 @@ En rubrik som mekaniskt upprepas vid snart sagt varje debatt eller seminarium oc
 :::
 
 ::: indent
-”Ska vi satsa påauteurer eller hantverkare?”
+”Ska vi satsa på auteurer eller hantverkare?”
 :::
 
 ::: indent
@@ -285,7 +285,7 @@ Carsten ligger på Radiumhemmet, ändstationen, klockan tickar ner. Han är oän
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/232.png)
 
-Den märkligaste skissen är den här, ett betongfundament med ett kritvitt träd i, pågrenarna hänger svarta glödlampor som frukter (jag använder senare idén i min kortfilm ”*Fatimas tredje hemlighet*”):
+Den märkligaste skissen är den här, ett betongfundament med ett kritvitt träd i, på grenarna hänger svarta glödlampor som frukter (jag använder senare idén i min kortfilm ”*Fatimas tredje hemlighet*”):
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/233.png)
 
@@ -547,13 +547,13 @@ Det blir en egendomlig liten serie.
 :::
 
 ::: indent
-Stefan och jag går också vidare från ”*Tillfällgt Avbrot* t” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han  bemöter det mesta i tillvaron med sitt specialuttryck ”*Aaahhh ... jag är skeptisk!*” Även det ett uttryck som fäster långt utanför tv-rutan.
+Stefan och jag går också vidare från ”*Tillfällgt Avbrot* t” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han bemöter det mesta i tillvaron med sitt specialuttryck ”*Aaahhh ... jag är skeptisk!*” Även det ett uttryck som fäster långt utanför tv-rutan.
 :::
 
 ::: part
 :::
 
-Tidigare på året har jag och Stefan skrivit en helaftonspjäs till Scen Offside, en nystartad teater i kvarteren bakom LO-borgen. Pjäsen heter ”*Smutsiga Ögon*”,  en enmansföreställning.
+Tidigare på året har jag och Stefan skrivit en helaftonspjäs till Scen Offside, en nystartad teater i kvarteren bakom LO-borgen. Pjäsen heter “*Smutsiga Ögon*”, en enmansföreställning.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/291.jpeg)
 
@@ -562,11 +562,11 @@ Stefan spelar en brusten reklamman som har sökt sig till en ödslig lokal för 
 I programbladet skriver jag en liten text till föreställningen:
 :::
 
-**”****... det finns en stillhet i oss, ibland ... inte ofta, men ibland ... vissa ögonblick när allting faller på plats och det blir avklarnat och skarpt ... som eggen på en mycket vacker kniv, eller ett samurajsvärd ... stunder när vi ser det vi kanske aldrig borde ha sett, för vår egen skull, och minns det vi helst borde ha glömt ... det är en farlig stillhet, om man fastnar där, i det kusligt uteslutna ...det som aldrig mer tar mark ... man går från den ena väggen till den andra, fast det finns inga väggar, men man går som om det fanns, utan att röra sig ur fläcken ... tiden upphör, ljuset stryps och ingenting blir kvar ... det är en farlig stillhet ... när blicken plötsligt bryter igenom och allting blir ohyggligt enkelt ... och skrämmande klart ...”**
+**”... det finns en stillhet i oss, ibland ... inte ofta, men ibland ... vissa ögonblick när allting faller på plats och det blir avklarnat och skarpt ... som eggen på en mycket vacker kniv, eller ett samurajsvärd ... stunder när vi ser det vi kanske aldrig borde ha sett, för vår egen skull, och minns det vi helst borde ha glömt ... det är en farlig stillhet, om man fastnar där, i det kusligt uteslutna ...det som aldrig mer tar mark ... man går från den ena väggen till den andra, fast det finns inga väggar, men man går som om det fanns, utan att röra sig ur fläcken ... tiden upphör, ljuset stryps och ingenting blir kvar ... det är en farlig stillhet ... när blicken plötsligt bryter igenom och allting blir ohyggligt enkelt ... och skrämmande klart ...”**
 
 Spinoff: Regissören Mikael Håfström gör en tv-film av pjäsen för SVT, med Stefan i huvudrollen.
 ::: indent
-Pjäsen sätts ocksåupp på Boulevardteatern våren 2011 och hösten 2020 spelas den på Teater Vestvolden i Köpenhamn. Där heter den *”Käre Far - ett sidste farvel”*.
+Pjäsen sätts också upp på Boulevardteatern våren 2011 och hösten 2020 spelas den på Teater Vestvolden i Köpenhamn. Där heter den *”Käre Far - ett sidste farvel”*.
 :::
 
 Äntligen är jag framme vid en av mina kommandeälsklingsflykter: flugfiske. Cilla har flugfiskat i många år, jag har nöjt mig med spinnfiske. När hon tar med mig upp i fjällen, högt ovanför Arjeplog, till en liten fiskecamp vid Piteälvens upprinnelse blir jag helt såld.
@@ -635,7 +635,7 @@ Samtidigt ringer Gabriel till restaurangägaren och säger att vi har lite fisk 
 :::
 
 ::: indent
-Restaurangägaren är där påfem minuter, med en skåpbil. Han ser fisken, gapar, skakar på huvudet och ringer in extrapersonal till köket. Under tiden har båtägarna ringt till nån europeisk fiskeri för ening och registrerat fångsten, det är tydligen ett rekord pågång för just den här arten.
+Restaurangägaren är där påfem minuter, med en skåpbil. Han ser fisken, gapar, skakar på huvudet och ringer in extrapersonal till köket. Under tiden har båtägarna ringt till nån europeisk fiskeriförening och registrerat fångsten, det är tydligen ett rekord pågång för just den här arten.
 :::
 
 ::: indent
@@ -674,11 +674,11 @@ På tal om resor: Tidskriften ”*Resguide*” hör av sig igen och vill ha en t
 <!-- PAGE 206 END -->
 
 <!-- PAGE 207 START -->
-**”Jag klev in i en liten handelsbod på en ö i Grekland i akt och mening att köpa benunderkläder. I en svensk butik skulle jag kort och enkelt ha sagt: ”** ***Ett par kalsonger, tack*****.”I den lilla handelsboden stod jag framför en skrumpen men vänlig dam från förra seklet som tilltalade med mig obegripliga ord.”** ***Kalsonger*** **”sa jag. Det händer att mitt eget språk fungerar även utomlands, speciellt om jag upprepar orden. Inte den här gången. Gumman vindade en aning med ögonen och jag upprepade”** ***Kalsonger ... underwears.*** **” Då vände hon sig om och plockade fram en vacker visp i trä****. Jag skakade på huvudet. Det förstod hon. Så markerade jag med händerna runt bålen vad jag sökte. Då nickade hon mycket vänligt, gick bakom disken och kom fram med en plasthink. Jag skakade åter på huvudet och gumman log. Jag insåg att vi inte förstod varandra. Hade jag inte drabbats av en lokal bakterie som med explosionsartad hastighet tömt mitt maginnehåll i de kalsonger jag medfört hemifrån, skulle jag omedelbart ha lämnat butiken. Nu var kalsonger ett måste, det sista paret kunde när som helst drabbas av samma häftiga utflöde. Nödd och tvungen tog jag ett steg mot den gamla kvinnan, lossade min livrem, drog ner mina byxor och pekade på kalsongerna.**
+**”Jag klev in i en liten handelsbod på en ö i Grekland i akt och mening att köpa benunderkläder. I en svensk butik skulle jag kort och enkelt ha sagt: “***Ett par kalsonger, tack***.” I den lilla handelsboden stod jag framför en skrumpen men vänlig dam från förra seklet som tilltalade med mig obegripliga ord. “***Kalsonger***” sa jag. Det händer att mitt eget språk fungerar även utomlands, speciellt om jag upprepar orden. Inte den här gången. Gumman vindade en aning med ögonen och jag upprepade “***Kalsonger ... underwears.***” Då vände hon sig om och plockade fram en vacker visp i trä. Jag skakade på huvudet. Det förstod hon. Så markerade jag med händerna runt bålen vad jag sökte. Då nickade hon mycket vänligt, gick bakom disken och kom fram med en plasthink. Jag skakade åter på huvudet och gumman log. Jag insåg att vi inte förstod varandra. Hade jag inte drabbats av en lokal bakterie som med explosionsartad hastighet tömt mitt maginnehåll i de kalsonger jag medfört hemifrån, skulle jag omedelbart ha lämnat butiken. Nu var kalsonger ett måste, det sista paret kunde när som helst drabbas av samma häftiga utflöde. Nödd och tvungen tog jag ett steg mot den gamla kvinnan, lossade min livrem, drog ner mina byxor och pekade på kalsongerna.**
 
-**     Då klev han in. **
+**     Då klev han in.**
 
-**     Hennes son, en ytterligt välväxt fiskare, brun, frisk och stenhård. Hans blick var mycket tydlig. När han tog ett steg fram försvann jag stapplande ut ur butiken inom tre sekunder. Fem sekunder senare slog bakterien till.     **
+**     Hennes son, en ytterligt välväxt fiskare, brun, frisk och stenhård. Hans blick var mycket tydlig. När han tog ett steg fram försvann jag stapplande ut ur butiken inom tre sekunder. Fem sekunder senare slog bakterien till.**
 
 **     Jag hatar att resa.”**
 
@@ -724,17 +724,17 @@ Elleråtminstone förlängde det.
 
 Det häråret får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill att ha med mig, för första gången. Det får dom. Såhär lyder texten om mig i boken:
 
-**”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift. **
+**”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift.**
 
-**     Av två skäl. **
+**     Av två skäl.**
 <!-- PAGE 207 END -->
 
 <!-- PAGE 208 START -->
-**     För det första för att nedtecknandet i sig kan ge sken av att nämnda författarskap de facto har ett lexikalt värde, vilket alla som överhuvudtaget öppnat en bok vet att det inte har. **
+**     För det första för att nedtecknandet i sig kan ge sken av att nämnda författarskap de facto har ett lexikalt värde, vilket alla som överhuvudtaget öppnat en bok vet att det inte har.**
 
 **     För det andra för att processen i sig kräver att vissa av upphovsmannens texter måste läsas på nytt - en i vissa avseenden direkt kväljande uppgift.**
 
-**     Det är alltså med stor tveksamhet, för att inte säga olust, denna text ändå kommit på pränt. Av en enda orsak: det vore ännu värre om den inte gjorde det. Vetskapen om Börjlinds infama knep att hänsynslöst utnyttja sitt utanförskap skulle ofelbart ha lett till en besinningslös smädeskampanj mot såväl bokförlaget Bra Böcker, dess utomordentligt kompetenta redaktörer (låt mig här bara nämna Bo Heurling), Sveriges Författarförbund och i slutändan såväl Nobelpriskommittén som Antonia A:son Johnson. Denna text bör därför läsas genom strikt profylaktiska linser. Vilket inte hindrar att innehållet i sig kan ha en sanitär effekt på de läsare som till äventyrs inte har genomskådat den bubbla av förment extas som alltid genomsyrat Börjlinds maniska försök till självförverkligande. **
+**     Det är alltså med stor tveksamhet, för att inte säga olust, denna text ändå kommit på pränt. Av en enda orsak: det vore ännu värre om den inte gjorde det. Vetskapen om Börjlinds infama knep att hänsynslöst utnyttja sitt utanförskap skulle ofelbart ha lett till en besinningslös smädeskampanj mot såväl bokförlaget Bra Böcker, dess utomordentligt kompetenta redaktörer (låt mig här bara nämna Bo Heurling), Sveriges Författarförbund och i slutändan såväl Nobelpriskommittén som Antonia A:son Johnson. Denna text bör därför läsas genom strikt profylaktiska linser. Vilket inte hindrar att innehållet i sig kan ha en sanitär effekt på de läsare som till äventyrs inte har genomskådat den bubbla av förment extas som alltid genomsyrat Börjlinds maniska försök till självförverkligande.**
 
 ::: accordion
 **Låt mig från början slå fast: mannen är en epigon. En pimpinett autodidakt som ogenerat iklätt sig subversivt allmängods från ledans estrader.**

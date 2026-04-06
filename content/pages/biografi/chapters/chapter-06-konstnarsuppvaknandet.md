@@ -8,7 +8,7 @@
 
 Jag skriver en text till katalogen: “*Jag är vackrast när jag drömmer*.”
 
-**”Samhället är en överbefruktad centifug. Som slungar sina foster mot livets utkanter. Filtrerade genom ångest och myter. Utskvätta som plasma på plexiglas. Tömda och skakande. Tandlöst mumlande retoriska psalmer. Handikappade långt in i ryggmärgen. Och där - där börjar Han.**
+**”Samhället är en överbefruktad centrifug. Som slungar sina foster mot livets utkanter. Filtrerade genom ångest och myter. Utskvätta som plasma på plexiglas. Tömda och skakande. Tandlöst mumlande retoriska psalmer. Handikappade långt in i ryggmärgen. Och där - där börjar Han.**
 
 ::: accordion
 Sakta sätter Han sig i rörelse, i vida cirklar. Med en finmaskig håv längs utkanterna. Svepande i oteoretiska rörelser. Runt i dom yttre skikten. Med påtänd pannlampa jagar Han i mörkret. Sovrar sin fångst noga. Väljer ut sina symboler och anträder trängre cirklar.

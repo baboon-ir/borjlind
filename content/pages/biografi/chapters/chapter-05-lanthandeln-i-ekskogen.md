@@ -41,7 +41,7 @@ https://youtu.be/drqYgCuWU_k
 :::
 För att klara av mitt förhållande till musik:
 
- Jag är tretton år när Elvis släpper ”*Blue Suede shoes*”, nitton när Dylan släpper ”*Freewheeling*” och tjugo när Beatles och Stones slår igenom. Jag impregneras med rockmusik under hela 60-talet. Den blir i viss utsträckning min världskarta och inre kompass. Även dom udda grupperna. En av mina polare, Skånska Lasse, får mig att lyssna på The Fugs - en säregen, magisk amerikansk grupp som ger ut anarkistiska och satiriska skivor med stimulerande texter. Ed Sanders och Tuli Kupferberg är två av medlemmarna, båda viktiga personer i USA:s vänsterrörelse.
+Jag är tretton år när Elvis släpper ”*Blue Suede shoes*”, nitton när Dylan släpper ”*Freewheeling*” och tjugo när Beatles och Stones slår igenom. Jag impregneras med rockmusik under hela 60-talet. Den blir i viss utsträckning min världskarta och inre kompass. Även dom udda grupperna. En av mina polare, Skånska Lasse, får mig att lyssna på The Fugs - en säregen, magisk amerikansk grupp som ger ut anarkistiska och satiriska skivor med stimulerande texter. Ed Sanders och Tuli Kupferberg är två av medlemmarna, båda viktiga personer i USA:s vänsterrörelse.
 ::: indent
 Minne av Skånska Lasse: efter en natt med musik och godis hittar jag honom sovande på golvet med en pingisboll som huvudkudde (jag använder situationen i en tv-serie många år senare).
 :::
@@ -221,7 +221,7 @@ En av de följande affischerna har texten ”GUD ÄR INTE ALLS FÖDD PÅ EN TORS
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/141.png)
 
-När han i oktober sätter upp en affisch med en lösnäsa och texten ”VI HAR TA ME ´ FAN DOM POLITIKER VI FÖRTJÄNAR” plockas den ner klockan halvtvå på natten och kontraktet bryts. SL:s chef är rädd för att nån kan tro att det är politisk propaganda och sånt får inte förekomma i t-banan.
+När han i oktober sätter upp en affisch med en lösnäsa och texten “VI HAR TA ME' FAN DOM POLITIKER VI FÖRTJÄNAR” plockas den ner klockan halvtvå på natten och kontraktet bryts. SL:s chef är rädd för att nån kan tro att det är politisk propaganda och sånt får inte förekomma i t-banan.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/51.png)
 
@@ -618,7 +618,7 @@ Vargens dynamik etableras snabbt. Långt senare beskriver Olle Granath tidskrift
 <!-- PAGE 51 END -->
 
 <!-- PAGE 52 START -->
-Han kunde ha lagt till ett annat axplock: Marie-Louise Ekman, Bruno KÖijer, Öyvind Fahlström och Ulf Lundell. Eller Ivan Agueli och Bengt Emil Johnson. Eller Pugh Rogefeldt. Den kulturella spännvidden är imponerande.
+Han kunde ha lagt till ett annat axplock: Marie-Louise Ekman, Bruno K. Öijer, Öyvind Fahlström och Ulf Lundell. Eller Ivan Agueli och Bengt Emil Johnson. Eller Pugh Rogefeldt. Den kulturella spännvidden är imponerande.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/77.png)
 
@@ -666,7 +666,7 @@ Nummer 4 vidgar vyerna. Det är ett manifest i form av ett avrivbart kedjebrev, 
 ::: accordion
 Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och
 
-**Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och förödmjukande underkastelse, vi ser den mentala klaustrofobin brinna i hennes vilda, blågula ögon, vi känner ensamhetens kalla vindar svepa över landet.   **
+**Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och förödmjukande underkastelse, vi ser den mentala klaustrofobin brinna i hennes vilda, blågula ögon, vi känner ensamhetens kalla vindar svepa över landet.**
 
 **     Vi ser hur dessa biologiska tragedier stirrar in i sin mänskliga devalvering med ett uttryck av dövstum beundran - husse har slängt åt dom ett gott stycke kött i år och piskan har förvandlats till ett trollspö. Vi kan se den statiska människan dompteras flockvis via förföriska folkrörelser och förment trygghet, om nätterna hör vi ekot av hennes självmord - mänsklig gemenskap är den död dröm.**
 
@@ -674,7 +674,7 @@ Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi e
 
 **      Den undermedvetet förankrade förnimmelseförmåga, den genuina sensibilitet och ofläckade klarsyn som är barnets unika och oersättliga kapital, plundras blint. Självförverkligande ersätts med neurotisk konkurrenshysteri och förnedrande karriärideal. Det är strebrarnas och rövslickarnas gyllene tidevarv. Det är dom känsligas undergång för dom neutralas succé.**
 
-**     Det finns individer som har modet, kraften och oerhördheten att försöka bevara sig själva och sin respekt för livet; finns individer som försöker röra sig oprogrammerat, försöker sätta sig själva på spel till gagn för andra; det finns individer som tror på människan; individer som snabbt sätts i strypkoppel och isoleras genom raffinerade metoder: svinen behärskar avväpnandets instrument via repressiv snöpning och totalitärt våld - kulturhus och mentalsjukhus, i demokratier som diktaturer, är välkända historiska symboler för en välkalkylerad desarmering av potentiella revolutionärer. Mänskligheten betalar ett högt pris för sin mentala invalidisering och kreativa stagnation: förlusten av utvidgade, fruktbara människor ersätts av gravt **
+**     Det finns individer som har modet, kraften och oerhördheten att försöka bevara sig själva och sin respekt för livet; finns individer som försöker röra sig oprogrammerat, försöker sätta sig själva på spel till gagn för andra; det finns individer som tror på människan; individer som snabbt sätts i strypkoppel och isoleras genom raffinerade metoder: svinen behärskar avväpnandets instrument via repressiv snöpning och totalitärt våld - kulturhus och mentalsjukhus, i demokratier som diktaturer, är välkända historiska symboler för en välkalkylerad desarmering av potentiella revolutionärer. Mänskligheten betalar ett högt pris för sin mentala invalidisering och kreativa stagnation: förlusten av utvidgade, fruktbara människor ersätts av gravt**
 
 **degenererade kopior, impotenta ögontjänare, utklädda apor för vilka endast det onda är gott nog - den mänskliga utvecklingen är en långsam färd över våldets glaciärer mot en vansinnig skymning.**
 
@@ -782,7 +782,7 @@ Landad i Sverige dyker jag in i den verklighet som är min. Jag sammanställer e
 
 ![Carstens svarta glödlampa.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/79.png)
 
-Den innehåller djupt personliga och mycket utlämnande intervjuer med fyra poeter: Eric Fylkeson, Bruno KÖijer, Per Lindgren och Margareta Renberg. Samt två musiker: Mikael Wiehe och Bernt Staf.
+Den innehåller djupt personliga och mycket utlämnande intervjuer med fyra poeter: Eric Fylkeson, Bruno K. Öijer, Per Lindgren och Margareta Renberg. Samt två musiker: Mikael Wiehe och Bernt Staf.
 ::: indent
 Mitt urval styrs dels av nyfikenhet på de poeter/sångare jag valt, dels känslan av att fånga nåt i flykten och försöka bevara en del av det till eftervärlden. Ett tidsdokument om sex unga människor, fångade i sin formulering av samtiden, sex individer utan inbördes relationer, utan gemensam ideologi, utan gemensamt poetiskt språk.
 :::

@@ -45,11 +45,11 @@ Vid prisutdelningen dyker Sauk upp, helt oannonserat (även för mig) och framf�
 ::: accordion
 **Verkligheten hårdnade. Människor betraktades inte länge som människor, eller ens som individer, människor reducerades till en konjunkturanpassad tillverkningsresurs.**
 
-**Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år. **
+**Det var produktionsbehoven som styrde, det var avnämarna som bestämde. Barnen sattes i skola tidigare och tidigare och tvingades välja social inriktning innan dom var 12 år.**
 
 **     Själva satt vi i en rävsax.**
 
-**     Vi tvingades uppfostra våra barn med metoder som vi själva inte hade upplevt, till ett samhälle som vi inte kände till. Så vi lärde dom självkontroll. Ett annat ord för anpassning. Lärde dom att uppträda civiliserat i en ociviliserad tillvaro. En tillvaro som berövade dom varje möjlighet till ett värdigt liv. **
+**     Vi tvingades uppfostra våra barn med metoder som vi själva inte hade upplevt, till ett samhälle som vi inte kände till. Så vi lärde dom självkontroll. Ett annat ord för anpassning. Lärde dom att uppträda civiliserat i en ociviliserad tillvaro. En tillvaro som berövade dom varje möjlighet till ett värdigt liv.**
 
 **     Och vi visste inte vad vi skulle göra.**
 
@@ -124,11 +124,11 @@ Jag vet inte.
 :::
 
 ::: indent
-Men att inte kunnaälska är inte detsamma som att hata.
+Men att inte kunna älska är inte detsamma som att hata.
 :::
 
 ::: indent
-Långt därifrån, och kanskeännu mer tragiskt. Att vara likgiltig.
+Långt därifrån, och kanske ännu mer tragiskt. Att vara likgiltig.
 :::
 
 ::: indent
@@ -140,7 +140,7 @@ Kanske.
 :::
 
 ::: indent
-Eller såsaknar han verktyg, han också.
+Eller så saknar han verktyg, han också.
 :::
 
 ::: indent
@@ -148,7 +148,7 @@ Minne av Svea: Jag har intervjuats i en tidning och fått en del frågor om min 
 :::
 
 ::: indent
-– Men det är ju sant? Han körde ju spårvagn? Vadär det med det?
+– Men det är ju sant? Han körde ju spårvagn? Vad är det med det?
 :::
 
 ::: indent
@@ -172,16 +172,16 @@ Hur knuten kan man bli?
 :::
 
 ::: indent
-Ändå, i slutet av deras liv: Enömhet. Åldrade käril, tvåsammanväxta stammar utan grenar ... ingen av dom la märke till ett par rotlösaättelägg i utkanten av skogen.
+Ändå, i slutet av deras liv: En ömhet. Åldrade käril, två sammanväxta stammar utan grenar ... ingen av dom la märke till ett par rotlösa ättelägg i utkanten av skogen.
 :::
 
 ::: indent
-Måsåvara.
+Må så vara.
 :::
 
-Parentes: När jag skriver detta har jag just hittat en tjock pärm påvinden fylld med brev, dom flesta från mina föräldrar. Läsningen av dom gör mig väldigt förbryllad.
+Parentes: När jag skriver detta har jag just hittat en tjock pärm på vinden fylld med brev, dom flesta från mina föräldrar. Läsningen av dom gör mig väldigt förbryllad.
 ::: indent
-Jagåterkommer till det när jag är framme vid 2020.
+Jag återkommer till det när jag är framme vid 2020.
 :::
 
 På tal om söner och fäder.
@@ -191,9 +191,9 @@ På tal om söner och fäder.
 <!-- PAGE 213 END -->
 
 <!-- PAGE 214 START -->
-Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ”*Vita lögner*”, ett uttryck pappan använde för att ursäkta sina småoch stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonensögon (Mats).
+Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ”*Vita lögner*”, ett uttryck pappan använde för att ursäkta sina små och stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonens ögon (Mats).
 ::: indent
-Jag tycker historien är fantasifull och djupt mänsklig. Och dråplig. Vid ett tillfälle köper pappan på sig ett antal stora vinfat i trä(för familjens besparingar). Han tänker starta en stugby i Frankrike. När dom nermonterade vinfaten anländer är dom omöjliga att montera ihop. Ännu en dröm spricker.
+Jag tycker historien är fantasifull och djupt mänsklig. Och dråplig. Vid ett tillfälle köper pappan på sig ett antal stora vinfat i trä (för familjens besparingar). Han tänker starta en stugby i Frankrike. När dom nermonterade vinfaten anländer är dom omöjliga att montera ihop. Ännu en dröm spricker.
 :::
 
 ::: indent
@@ -212,9 +212,9 @@ Själv går jag vidare och skriver en ny pjäs till Scen Offside. Den heter ”*
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/515.png)
 
-Tvåmän träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånskäppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
+Två män träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånskäppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
 ::: indent
-Ett par gånger före premiären samlas vi hemma hos mig och Cilla för att provlaga hela menyn, stämma av tider och repliker för att fåmåltiden att ticka in rätt på scenen. En av replikerna minns jag:
+Ett par gånger före premiären samlas vi hemma hos mig och Cilla för att provlaga hela menyn, stämma av tider och repliker för att få måltiden att ticka in rätt på scenen. En av replikerna minns jag:
 :::
 
 ::: indent
@@ -234,7 +234,7 @@ Ungefär.
 
 Det är en sen eftermiddag och jag är på väg över Mosebacke Torg. Träden är avlövade, Södra Teatern är stängd, ute på terassen skymtar vattnet i fjärran. En gång stod en arg ung man där ute och betraktade stadens inlopp, min studentuppsats i svenska handlade om honom. Arvid Falk. Nu är det tomt där ute. Själv är jag på väg till en lägenhet intill teatern.
 
-Bakgrund: 1971 utförs en av Sveriges mest spektakulära kassaskåpskupper. Denäger rum vid Vattenfalls kraftverksbygge i Vietas, en vattenrallarby vid Luleälven. Det är en omvänd rififikupp - rånarnaålar sig in under en barack mitt i natten, sågar upp ett golv och svetsar upp kassaskåpets botten. Bytet blir 541.000 kronor (drygt tre miljoner i dagens penningvärde). Vid den här tidpunkten är det Sveriges största kontantrån genom tiderna och förblir olöst tills det preskriberas (kriminologen Jenny Rogneby gör 2020 en true crime-pod om rånet).
+Bakgrund: 1971 utförs en av Sveriges mest spektakulära kassaskåpskupper. Den äger rum vid Vattenfalls kraftverksbygge i Vietas, en vattenrallarby vid Luleälven. Det är en omvänd rififikupp - rånarna ålar sig in under en barack mitt i natten, sågar upp ett golv och svetsar upp kassaskåpets botten. Bytet blir 541.000 kronor (drygt tre miljoner i dagens penningvärde). Vid den här tidpunkten är det Sveriges största kontantrån genom tiderna och förblir olöst tills det preskriberas (kriminologen Jenny Rogneby gör 2020 en true crime-pod om rånet).
 <!-- PAGE 214 END -->
 
 <!-- PAGE 215 START -->
@@ -252,7 +252,7 @@ Vi sätter oss i djupa, sköna fåtöljer, föser undan en hund och börjar prat
 :::
 
 ::: indent
-Han ser redanöppningsscenen framför sig: en stor, vid bild på en liten buss som klättrar längs en dramatisk fjällkant, inåkning mot bussen, in i bussen, den är fylld av karga vattenrallare på väg till jobbet, nån drar ett dåligt skämt.
+Han ser redan öppningsscenen framför sig: en stor, vid bild på en liten buss som klättrar längs en dramatisk fjällkant, inåkning mot bussen, in i bussen, den är fylld av karga vattenrallare på väg till jobbet, nån drar ett dåligt skämt.
 :::
 
 ::: indent
@@ -269,11 +269,11 @@ Det är beklämmande och skrämmande.
 :::
 
 ::: indent
-Vi samlar in så mycket information vi kan fåpå plats, om rånet, om teorierna om eventuella gärningsmän (som pendlar mellan samer och rallare och långväga rånare), tar bilder, inspekterar baracken där rånetägde rum och pratar med gamla kriminalare som var med i utredningen.
+Vi samlar in så mycket information vi kan få på plats, om rånet, om teorierna om eventuella gärningsmän (som pendlar mellan samer och rallare och långväga rånare), tar bilder, inspekterar baracken där rånet ägde rum och pratar med gamla kriminalare som var med i utredningen.
 :::
 
 ::: indent
-Påkvällarnaäter vi lamm och dricker rödvin i en stor, tom restaurang i byn.
+På kvällarna äter vi lamm och dricker rödvin i en stor, tom restaurang i byn.
 :::
 
 Hemkommen skriver jag manuset, diskuterar med John, skriver om och landar så småningom i en omfångsrik och dramatisk berättelse med många bottnar.
@@ -292,13 +292,13 @@ Men bilderna av det skändade vattenfallet glömmer jag aldrig.
 ::: part
 :::
 
-Ett nyttälskat barn kommer till världen: Cillas och min dotter Molly. Hon föds mitt under brinnande fotbolls-VM i USA. Jag sitter i ett tomt rum på Södersjukhuset med en liten vägg-tv och följer delar av den svenska bronsbragden. Utan att kunna explodera. Ljummet vatten, kexchoklad från en automat och ett stråk av desinficeringsmedel genom luften.
+Ett nytt älskat barn kommer till världen: Cillas och min dotter Molly. Hon föds mitt under brinnande fotbolls-VM i USA. Jag sitter i ett tomt rum på Södersjukhuset med en liten vägg-tv och följer delar av den svenska bronsbragden. Utan att kunna explodera. Ljummet vatten, kexchoklad från en automat och ett stråk av desinficeringsmedel genom luften.
 ::: indent
 Hårt.
 :::
 
 ::: indent
-Om Molly: hon är det första av mina barn som jag ser iögonen innan det ser sin mamma. Hon är förlöst med ett oplanerat kejsarsnitt. Jag får en stund med henne helt för mig själv.
+Om Molly: hon är det första av mina barn som jag ser i ögonen innan det ser sin mamma. Hon är förlöst med ett oplanerat kejsarsnitt. Jag får en stund med henne helt för mig själv.
 :::
 
 ::: indent
@@ -320,7 +320,7 @@ Kan jag raljera, jag har suttit där själv flera gånger, orunkad.
 :::
 
 ::: indent
-På tal om vår lägenhet på Bondegatan: Vi bor granne med en person som ett parår senare blir inspiration till en kultfigur i tv-sammanhang utan att ha en aning om det.
+På tal om vår lägenhet på Bondegatan: Vi bor granne med en person som ett par år senare blir inspiration till en kultfigur i tv-sammanhang utan att ha en aning om det.
 :::
 
 ::: indent
@@ -345,7 +345,7 @@ Lindblom och jag har samarbetat tidigare, i Kråka-projektet, och fått bra kont
 :::
 
 ::: indent
-Eftersom jag och Cilla just befinner oss djupt inne i en mörk skog påjakt efter svamp, ett av våra tunga intressen, såber jag att fååterkomma. Så fort jag stöter på en liten porcini, en späd stensopp med utsökt smak, vet jag vad jag ska svara.
+Eftersom jag och Cilla just befinner oss djupt inne i en mörk skog på jakt efter svamp, ett av våra tunga intressen, så ber jag att få återkomma. Så fort jag stöter på en liten porcini, en späd stensopp med utsökt smak, vet jag vad jag ska svara.
 :::
 
 ![Lindblom & Börjlind](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
@@ -381,7 +381,7 @@ Filmen heter ”*Betraktelse*” och Hjelms monolog blir som följer:
 **om vi hade väjt i tid.**
 
 **Vi utrotar lugnt det vi skulle förvalta,**
-**och det finns ingenting vi kan skylla på****,**
+**och det finns ingenting vi kan skylla på,**
 **den tiden är förbi.**
 **Vi förvandlar vår värld**
 **till en avbild av det vi fruktade,**
@@ -405,7 +405,7 @@ Filmen heter ”*Betraktelse*” och Hjelms monolog blir som följer:
 
 **Och solen skall falna genom trädens löv,**
 **och vattnet skall stillna**
-**och vinden dö****.**
+**och vinden dö.**
 **Vi skall sitta i skuggan av en växande skuld,**
 **och se barnen formulera vår skam,**
 **och det skall bli skymning.**
@@ -413,13 +413,13 @@ Filmen heter ”*Betraktelse*” och Hjelms monolog blir som följer:
 **Det är märkligt.**
 :::
 
-Möte med Keve Hjelm: Han är en stark gestalt för mig, ända sen han medverkade i filmen som utspelade sig påfarmor och farfars bakgård,”*Kvarteret Korpen*”. Jag känner också till hans status i skådespelarkretsar och hans närmast devota beundrare inom en viss typ av gestaltningskonst. Stanislavskij. Hämta det inte från huvudet eller bröstet, inte från fötterna heller, hämta det fem meter under golvet du står på.
+Möte med Keve Hjelm: Han är en stark gestalt för mig, ända sen han medverkade i filmen som utspelade sig på farmor och farfars bakgård,”*Kvarteret Korpen*”. Jag känner också till hans status i skådespelarkretsar och hans närmast devota beundrare inom en viss typ av gestaltningskonst. Stanislavskij. Hämta det inte från huvudet eller bröstet, inte från fötterna heller, hämta det fem meter under golvet du står på.
 ::: indent
 Vi möts på en liten järnvägsperrong, han har en finsk träningsoverall på sig och är nykter. Och mycket seriös. Lindblom och Hjelm diskuterar monologen. Hjelm har inga invändningar, han är mest intresserad av gestaltningen. Jag är mest iakttagare. Jag har arbetat tätt intill ett antal begåvade skådespelare vid det här laget, Hjelm är annorlunda. Jag får inte grepp om honom. Kanske är han sorgsen? Vi får ingen djupare kontakt.
 :::
 
 ::: indent
-Ur filmen: Det finns en scen när Hjelm häller upp en sup i ett gnistrande snapsglas, för det till munnen och sveper supen, andas ut och tittar på sin katt med sorgsnaögon. Han gör det lysande, han är helt och fullt iögonblicket, ingenting finns i omvärlden. Jag förstår hans beundrare.
+Ur filmen: Det finns en scen när Hjelm häller upp en sup i ett gnistrande snapsglas, för det till munnen och sveper supen, andas ut och tittar på sin katt med sorgsna ögon. Han gör det lysande, han är helt och fullt i ögonblicket, ingenting finns i omvärlden. Jag förstår hans beundrare.
 :::
 
 [yt-video][https://www.youtube.com/watch?v=nCgClwmrHYk]
@@ -429,20 +429,20 @@ Ur filmen: Det finns en scen när Hjelm häller upp en sup i ett gnistrande snap
 <!-- PAGE 217 END -->
 
 <!-- PAGE 218 START -->
-Lite skojigt mellanjobb: Gösta ska uppträda med manskören Orphei Drängar i Uppsala. Oannonserad. Detälskar han.
+Lite skojigt mellanjobb: Gösta ska uppträda med manskören Orphei Drängar i Uppsala. Oannonserad. Det älskar han.
 ::: indent
-Han gör entréinför en fullsatt salong påtypiskt Gösta-manér - mitt i en maffig sång knuffar han sig bryskt ner mellan körmedlemmarna, iklädd sin Papphammarmundering. Det tar ett tag innan publiken fattar vem det är som stökar sig fram genom kören. Väl på scenen framför Gösta tvåsånger som vi har skrivit tillsammans, den ena heter ”*Hotellet i Kalmar*”, den andra är en parafras på en av Karl Gerhards succéer, ”*Jazzgossen*”, där Gösta gör en rätt hård satir på sin morfinmissbrukande farfar, den ”store” Gösta Ekman.
+Han gör entré inför en fullsatt salong på typiskt Gösta-manér - mitt i en maffig sång knuffar han sig bryskt ner mellan körmedlemmarna, iklädd sin Papphammarmundering. Det tar ett tag innan publiken fattar vem det är som stökar sig fram genom kören. Väl på scenen framför Gösta två sånger som vi har skrivit tillsammans, den ena heter ”*Hotellet i Kalmar*”, den andra är en parafras på en av Karl Gerhards succéer, ”*Jazzgossen*”, där Gösta gör en rätt hård satir på sin morfinmissbrukande farfar, den ”store” Gösta Ekman.
 :::
 
 ::: indent
-Anekdot om Gösta denäldre (från hästens mun): Ekman ansåg att han borde ha mer betalt för en teaterrollän han hade. En kväll kom han inte ut på scenen. Teaterdirektören tillkallades. Ekman satt på golvet i sin loge med ett antal småminiatyrelefanter framför sig.
+Anekdot om Gösta den äldre (från hästens mun): Ekman ansåg att han borde ha mer betalt för en teaterroll än han hade. En kväll kom han inte ut på scenen. Teaterdirektören tillkallades. Ekman satt på golvet i sin loge med ett antal små miniatyrelefanter framför sig.
 :::
 
 ::: indent
-– Titta sålessna elefanternaär, sa han. Så åålessna.
+– Titta så lessna elefanterna är, sa han. Så åålessna.
 :::
 
- Teaterdirektören fattade rätt snabbt vad det handlade om och föreslog en rejäl höjning av Ekmans gage varvid Ekman pekade påelefanterna.
+Teaterdirektören fattade rätt snabbt vad det handlade om och föreslog en rejäl höjning av Ekmans gage varvid Ekman pekade på elefanterna.
 ::: indent
 – Titta! Nu blev elefanterna glada igen!
 :::
@@ -454,7 +454,7 @@ Sen gick han in på scenen.
 ::: part
 :::
 
-Vid den här tidpunkten blir jag ocksåtillfrågad av ett resemagasin i Malmöom jag kan bidra med en text till ett kommande helgnummer.
+Vid den här tidpunkten blir jag också tillfrågad av ett resemagasin i Malmö om jag kan bidra med en text till ett kommande helgnummer.
 ::: indent
 – Tyvärr, jag har inte tid just nu.
 :::
@@ -477,7 +477,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **Ingen visste vem han var, han var inte från trakten, ingen hade sett honom komma. Han bara stod där en dag, en brun skugga med ett långsmalt gevär under armen.**
 
-**     - Si senor? **
+**     - Si senor?**
 
 **     Hade Rosalita i baren frågat, när han plötsligt stod utanför.**
 
@@ -494,15 +494,15 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **Av någon egendomlig anledning ville alla fylla på sitt vatten samtidigt och trängseln i det lilla rummet blev besvärande. Dom som hamnade utanför tryckte öronlapparna mot lerväggen.**
 
-**     - Sa han bara ”katter”****?**
+**     - Sa han bara ”katter”?**
 
-**     Frågan var riktad till Vattenkvinnan, som satt inkrupen i ett mörkt hålrum i husets ena vägg, ett slags uråldrig krypta där hon tillbringade dygnets ljusa timmar. Hon var mycket tystlåten. Ingen i byn hade ställt frågor till henne på mycket länge, rörande annat än vattnet, och då nästan alltid i anklagande form: hon tillhörde en lägre sort. I brunnshuset fyllde man sitt krus och försvann. **
+**     Frågan var riktad till Vattenkvinnan, som satt inkrupen i ett mörkt hålrum i husets ena vägg, ett slags uråldrig krypta där hon tillbringade dygnets ljusa timmar. Hon var mycket tystlåten. Ingen i byn hade ställt frågor till henne på mycket länge, rörande annat än vattnet, och då nästan alltid i anklagande form: hon tillhörde en lägre sort. I brunnshuset fyllde man sitt krus och försvann.**
 
-**     Vanligtvis. **
+**     Vanligtvis.**
 
 **     Nu fyllde man utrymmet runt vattenhålet med reptilsnabb nyfikenhet.**
 
-**     - Sa han verkligen bara ”katter”****?**
+**     - Sa han verkligen bara ”katter”?**
 
 **     - Katter, så sa han ... fast vackrare, viskade Vattenkvinnan från kryptan. Så satte hans ögon punkt.**
 
@@ -518,9 +518,9 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     Det redan trånga rummet trycktes ihop av obekväm tystnad. Vatten var det väldigt få, om ens någon, som tänkte på: den bruna skuggan hade sett Vattenkvinnans ansikte? Vad betydde det? Och så hade hans sagt ”katter” och försvunnit?**
 
-**     Brunnshuset tömdes mycket snabbt. En svärm svarta skalbaggar kilade mellan byns gränder, knastrande, alla i samma riktning. Till och med Vattenkvinnan följde med, en bit bakom, med en kraftig tygbit över huvudet. Ingen vände sig om, alla var på väg till den enda i byn som inte hade varit i brunnshuset: Enögda Bierté****, annalisten. Den enda kvinnan i byn som kunde skriva. För övrigt den enda kvinna som hade sett en man tidigare.**
+**     Brunnshuset tömdes mycket snabbt. En svärm svarta skalbaggar kilade mellan byns gränder, knastrande, alla i samma riktning. Till och med Vattenkvinnan följde med, en bit bakom, med en kraftig tygbit över huvudet. Ingen vände sig om, alla var på väg till den enda i byn som inte hade varit i brunnshuset: Enögda Bierté, annalisten. Den enda kvinnan i byn som kunde skriva. För övrigt den enda kvinna som hade sett en man tidigare.**
 
-**     En riktig man. **
+**     En riktig man.**
 
 **Enögda Biertéhade två friska ögon och en blick som kunde paralysera en jaktfalk i flykten: hon såg mycket bra, speciellt i mörker. Sitt öknamn hade hon aldrig ifrågasatt. Ingen annan heller. Enögda Biertéifrågasatte man inte. På sin höjd bytte man rykten bakom hennes rygg, små rykten, ofarliga, som aldrig skulle våga sig in i Biertés tillvaro.**
 
@@ -542,7 +542,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **I Enögda Biertés hus fanns det gott om plats, för alla, även om Vattenkvinnan föredrog att hejda sig vid dörrposten, där hon diskret drog av sin huva.**
 
-**     - Det handlar om den gyllene grenen! började Bierté****.**
+**     - Det handlar om den gyllene grenen! började Bierté.**
 
 **     Hennes klogula pekfinger hade landat på en tunn bunt dammiga papper mitt på hennes välpolerade träbord. Nu drog hon en krökt nagel längs översta arket och hostade till. Hela svärmen sjönk ner på golvet, alla utom Vattenkvinnan.**
 
@@ -556,11 +556,11 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     Rosalita kröp snabbt ihop igen.**
 
-**     - ... ”Han ska komma till byn för att skjuta samtliga katter utom en, som han levande ska trä upp på en kraftig ståltråd och hänga ut i byns enda lyktstolpe för att markera sin avfärd.”**** ...**
+**     - ... ”Han ska komma till byn för att skjuta samtliga katter utom en, som han levande ska trä upp på en kraftig ståltråd och hänga ut i byns enda lyktstolpe för att markera sin avfärd.” ...**
 
 **     Vem som i det ögonblicket kvävde ett ljud märktes inte, men det hördes.**
 
-**     - ... ”Han ska börja sitt skjutande i skymningen och när morgonen kommer ska två personer ha lämnat byn. Mannen är en av dom. Av honom återstår bara kattlik och en gnyende hundvalp som han släppt ut i skydd av mörkret.”**** ...**
+**     - ... ”Han ska börja sitt skjutande i skymningen och när morgonen kommer ska två personer ha lämnat byn. Mannen är en av dom. Av honom återstår bara kattlik och en gnyende hundvalp som han släppt ut i skydd av mörkret.” ...**
 
 **     Enögda Biertésänkte pappret en aning, hon visste redan vad som skulle komma.**
 
@@ -584,7 +584,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     - Din.**
 
-**     Mer blev inte sagt hos Bierté****, mer behövde inte sägas. Vattenkvinnan försvann först, ljudlöst, svärmen lämnade huset dröjande, rasslade mellan gränderna och kröp in i sina släckta grottor.**
+**     Mer blev inte sagt hos Bierté, mer behövde inte sägas. Vattenkvinnan försvann först, ljudlöst, svärmen lämnade huset dröjande, rasslade mellan gränderna och kröp in i sina släckta grottor.**
 
 **Den natten sov ingen i byn. Inte kvinnorna, som för varje nytt skott ökade antalet korstecken. Inte den bruna skuggan, som målmedvetet uppfyllde sin profetia, eko för eko. Inte Vattenkvinnan, som mycket omsorgsfullt tvättade sitt vackra ansikte i kallt klart vatten och inte heller den mörka skepnad som med stora svårigheter krängde in sin kropp i en smäcker rosenröd klänning: bara det kraftiga tygstycket föll lätt på plats över huvudet.**
 
@@ -608,9 +608,9 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **     - Vakna! nästan skrek hon in mot kryptan.**
 
-**     Men ingen vaknade därinne. Allra minst Enögda Bierté****, som hängde naken från vägg till vägg i det trånga brunnsrummet, uppträdd på en kraftig stålwire, in genom hennes gapande mun och ut ur den blödande buken. Hennes enda kvarvarande öga ryckte fortfarande, annars var allt stilla. Det enda som hördes var ett svagt gnyende valpljud från ett kraftigt tygstycke inne i kryptan.**
+**     Men ingen vaknade därinne. Allra minst Enögda Bierté, som hängde naken från vägg till vägg i det trånga brunnsrummet, uppträdd på en kraftig stålwire, in genom hennes gapande mun och ut ur den blödande buken. Hennes enda kvarvarande öga ryckte fortfarande, annars var allt stilla. Det enda som hördes var ett svagt gnyende valpljud från ett kraftigt tygstycke inne i kryptan.**
 
-**     Att Vattenkvinnan hade försvunnit med den bruna skuggan tog alla för givet, även om det bar emot, vilket gjorde att ingen i byn på ett bra tag märkte den egendomliga bismak vattnet hade börjat få****. Då hade Kvinnan utan sorg redan flyttat till en bensinmack i Turkey Flat, halvvägs mellan Tombstone och Dallas, där hon ett halvår senare tog sig namnet Magdalena.**
+**     Att Vattenkvinnan hade försvunnit med den bruna skuggan tog alla för givet, även om det bar emot, vilket gjorde att ingen i byn på ett bra tag märkte den egendomliga bismak vattnet hade börjat få. Då hade Kvinnan utan sorg redan flyttat till en bensinmack i Turkey Flat, halvvägs mellan Tombstone och Dallas, där hon ett halvår senare tog sig namnet Magdalena.**
 
 **     Föga anade hon vem som skulle dyka upp.**
 :::
@@ -630,7 +630,7 @@ Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så j
 <!-- PAGE 219 END -->
 
 <!-- PAGE 220 START -->
-**Jag är en ensam man med vingklippta vanor. Min lägenhet är trång. Jag har slitna gardiner, målade med måsar i brunt, på väggen hänger ett gammalt långsmalt gevär, taklampan har marmorerad kupa. Jag har en smal och välfylld bokhylla utan överraskningar, ** ***”Samlagets ställningar”***** samlar damm på översta raden. Mitt akvarium har rent vatten och en ljusgrön docka på botten, inga fiskar, på mitt nattduksbord ligger ett tummat exemplar av ** ***”Såsom käril ur skeppen”*****... ganska spaciös posei, jag föredrar det. Jag har en tunn skivbunt, med Scarlatti som favorit. Det är en mycket enkel lägenhet med en gedigen lukt, komponerad av ensamhet och hygien och ett svagt stråk Anticimex. Jag trivs, i bemärkelsen sover gott. Jag har vad jag behöver, då och då en kvinna som rinner in och ut. Jag tänker aldrig på det som ett hem. Jag har bott här i sex år utan telefon. **
+**Jag är en ensam man med vingklippta vanor. Min lägenhet är trång. Jag har slitna gardiner, målade med måsar i brunt, på väggen hänger ett gammalt långsmalt gevär, taklampan har marmorerad kupa. Jag har en smal och välfylld bokhylla utan överraskningar, ***”Samlagets ställningar”*** samlar damm på översta raden. Mitt akvarium har rent vatten och en ljusgrön docka på botten, inga fiskar, på mitt nattduksbord ligger ett tummat exemplar av ***”Såsom käril ur skeppen”***... ganska spaciös posei, jag föredrar det. Jag har en tunn skivbunt, med Scarlatti som favorit. Det är en mycket enkel lägenhet med en gedigen lukt, komponerad av ensamhet och hygien och ett svagt stråk Anticimex. Jag trivs, i bemärkelsen sover gott. Jag har vad jag behöver, då och då en kvinna som rinner in och ut. Jag tänker aldrig på det som ett hem. Jag har bott här i sex år utan telefon.**
 
 **     Jag har en mycket vacker katt.**
 
@@ -638,7 +638,7 @@ Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så j
 
 **     Jag har lämnat allt det där.**
 
-**     På söndagarna funderar jag på andliga ting, annars lägger jag mest patience och vattnar mina stenar med osläckt kalk. En gång var jag mycket nära en stor kärlek. **
+**     På söndagarna funderar jag på andliga ting, annars lägger jag mest patience och vattnar mina stenar med osläckt kalk. En gång var jag mycket nära en stor kärlek.**
 
 **     Det var på den tiden jag såg mig om i världen, reste överallt, tog påhugg där det fanns, överlevde, lärde mig språk och människor... ett tag jobbade jag för en distriktsförvaltning i Mexico och hade till uppgift att skjuta av katter på landsbygden.**
 
@@ -650,7 +650,7 @@ Kommen så långt känner jag att jag villåt en annan ingång, mer analog med u
 
 **     - Vill du ha nåt från menyn?**
 
-**     Det var servitrisen som frågade. På hennes namnbricka stod ”Magdalena”****. Hon hade grå jeans och en vit kortärmad blus på sig, hennes bruna lockar nådde ner till axlarna.**
+**     Det var servitrisen som frågade. På hennes namnbricka stod ”Magdalena”. Hon hade grå jeans och en vit kortärmad blus på sig, hennes bruna lockar nådde ner till axlarna.**
 
 **     - Nej, det är bra, sa mannen.**
 

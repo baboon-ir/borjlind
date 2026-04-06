@@ -17,7 +17,7 @@ Det är förtröstansfullt.
 :::
 
 ::: indent
-Snart börjar vi på vår sjunde deckare, ”*Den barmhärtige Samarite* n”.
+Snart börjar vi på vår sjunde deckare, “*Den barmhärtige Samariten*”.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/800.png)
@@ -41,5 +41,5 @@ Hela tiden.
 
 *Fotnot: Så långt möjligt har tillstånd inhämtats för publicerat material i Självbiografin.*
 
-*Slutligen: ett stort och varmt tack till Ludvig Börjlind, Håkan-Filip Swahn Suazo**, Dennis Dufbäck och Sebastian Lindfors** för bygget av den här hemsidan.*
+*Slutligen: ett stort och varmt tack till Ludvig Börjlind, Håkan-Filip Swahn Suazo, Dennis Dufbäck och Sebastian Lindfors för bygget av den här hemsidan.*
 <!-- PAGE 276 END -->

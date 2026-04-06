@@ -1,7 +1,7 @@
 # J'accuse! Moderna Museet
 
 <!-- PAGE 56 START -->
-Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck “*Sjukdom är till salu*”. Under en balett föreställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
+Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck “*Sjukdom är till salu*”. Under en balettföreställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
 
 ![Formen är budskapet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/83.png)
 
@@ -27,7 +27,7 @@ Samtidigt laddar Carsten och jag för vår stora utställning till återinvignin
 :::
 
 ::: indent
-Såhär långt.
+Så här långt.
 :::
 
 ::: indent
@@ -123,7 +123,7 @@ För att nämna ett axplock.
 :::
 
 ::: indent
-I den första kabarén uppträder bland annat jag själv, Carsten, pianisten Stefan Nilsson och poeten Bruno KÖijer.
+I den första kabarén uppträder bland annat jag själv, Carsten, pianisten Stefan Nilsson och poeten Bruno K. Öijer.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/94.png)
@@ -158,7 +158,7 @@ Som sagt, mycket är vunnet när fusket blir skrattretande. Som ett eko genom ko
 
 Senare samma år har Carsten och jag vår första utställning på Galleri S:t Petri i Lund. Galleriägaren och fransmannen Jean Sellem beskriver galleriet som ”*Archive of experimental and marginal art - ett rum för internationellt idébaserad konst*”. Vi ger följande instruktioner till Sellem:
 
-**”Måla upp bifogade kondoleanskort ”** ***Sjukdom är till salu*** **” i formatet 3 x 2 meter på den vänstra väggen. Fyll bifogade svarta plastsäckar (mer eller mindre) med valfritt innehåll. Placera ut efter gottfinnande (se skiss).”**
+**”Måla upp bifogade kondoleanskort”** ***Sjukdom är till salu*** **” i formatet 3 x 2 meter på den vänstra väggen. Fyll bifogade svarta plastsäckar (mer eller mindre) med valfritt innehåll. Placera ut efter gottfinnande (se skiss).”**
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/243.png)
 
@@ -185,7 +185,7 @@ Parallellt med inspelningen skriver jag en text till stenciltidskriften Guru Pap
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/162.png)
 
-Det nummer jag medverkar i är utarbetat av poeterna Per-Erik Söder och Bruno KÖijer och inleds med: “*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
+Det nummer jag medverkar i är utarbetat av poeterna Per-Erik Söder och Bruno K. Öijer och inleds med: “*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
 
 “Dessa människor som tvingar mig att resignera. Dessa hyndor och kackerlackor som tvingar mig att ligga sömnlös och kallsvettig på en bågnande sarkofag av sorg. Dessa morbida monster som knallar gator upp och gator ner med djupfrysta ögon och brallorna fulla av förluster. Dessa hallucinationer som dom kallar vardag.
 
@@ -335,9 +335,9 @@ Lustfyllt, men kanske inte det vi har störst behov av.
 Vill jag så kan jag skylla på mina gener, dom från mödernet. Svea älskar att spendera pengar, att sätta ”guldkant på tillvaron” (varje nyårsafton åts det lunch hos Lisa Elmqvist i Östermalmshallen).
 :::
 
- Otto vänder på alla slantar han kan vända på.
+Otto vänder på alla slantar han kan vända på.
 
-Parentes: Jag har ett mycket vårdslöst förhållande till pengar. Jag använder dom när jag får dom. När jag inte har dom skaffar jag nya. Pekuni är fram för hållning ingår inte i min vokabulär.
+Parentes: Jag har ett mycket vårdslöst förhållande till pengar. Jag använder dom när jag får dom. När jag inte har dom skaffar jag nya. Pekuniär framförhållning ingår inte i min vokabulär.
 ::: indent
 Ansvarslöst, men fläckvis rätt kul.
 :::
@@ -413,7 +413,7 @@ Däremellan bidrar jag personligen med en del avtryck. Det första är en dikt s
 :::
 
 ::: poem
-**Nekrolog **
+**Nekrolog**
 
 **Sverige.**
 **Sverige är inte Sverige.**
@@ -500,9 +500,9 @@ Diktens utsagor förebådar innehållet i romanen och separatutställningen ”*
 Nackskruven.
 :::
 
-Men innan dess kontaktas jag av Sveriges Radio. Dom vill projektanställa mig som huvud författare till programmet KabaréÖppen Kanal under våren (trots min blackout hos paret Zetterström/Andersson, eller kanske just därför?). Mina satirtexteråret innan har gett mersmak.
+Men innan dess kontaktas jag av Sveriges Radio. Dom vill projektanställa mig som huvudförfattare till programmet Kabaré Öppen Kanal under våren (trots min blackout hos paret Zetterström/Andersson, eller kanske just därför?). Mina satirtexteråret innan har gett mersmak.
 ::: indent
-Jag skriver ett avtal på 14 program. Den satiriska formen känns utmanande och lockande. Ett annat sätt att attackera och gissla det jag alltid har föraktat. En smidigare väg att kommaåt maktens stupiditet.
+Jag skriver ett avtal på 14 program. Den satiriska formen känns utmanande och lockande. Ett annat sätt att attackera och gissla det jag alltid har föraktat. En smidigare väg att komma åt maktens stupiditet.
 :::
 
 ::: indent
@@ -526,12 +526,12 @@ Ett stående inslag i varje program är två gestalter som rätt och slätt kall
 :::
 
 ::: indent
-KabaréÖppen Kanal läggs ner av Sveriges Radio i slutet på våren.
+Kabaré Öppen Kanal läggs ner av Sveriges Radio i slutet på våren.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/301.png)
 
-Förmodligen har mängden radioanmälningar (27 stycken) tärt påtålamodet. Kanske har brev som det här från högerpolitikern och riksdagsmannen Anders Björck till radiochefen Otto Nordensköld bidragit till beslutet:
+Förmodligen har mängden radioanmälningar (27 stycken) tärt på tålamodet. Kanske har brev som det här från högerpolitikern och riksdagsmannen Anders Björck till radiochefen Otto Nordensköld bidragit till beslutet:
 
 **”Visserligen finns det numera knappast några gränser för tarvligheterna i vissa program, men jag undrar ändå om Du lyssnat på detta inslag om mig och om Du anser det vara i överensstämmelse med de programregler som gäller. Jag avvaktar ett svar från Dig innan jag beslutar mig för eventuella åtgärder.”**
 
@@ -548,7 +548,7 @@ Kanske skulle Björcks egna ord till Carl Lidbom i konstitutionsutskottet klinga
 <!-- PAGE 66 END -->
 
 <!-- PAGE 67 START -->
-Satiren har rullat igång. Min talang när det gäller förlöjligandetsädla konst (en gåva från dadaisterna) sprider sig. Jag kontaktas av SVT för att tillsammans med reportern och författaren Lars-Ragnar Forssberg skriva texter till fem satirprogram som ska heta “*Kabaré Öppen Final*”(inte speciellt originellt, menänd å). Vi får göra tre av programmen innan vårt kontrakt bryts. Anledningen kan vara flera. Kanske för att vi visar den nyfödda prinsessan Victorias dop upp och ner? Kanske för att vi visar brösten som ammar den nyfödda? Kanske för att vi tittar in i framtiden och låter Sten Ljunggren uppträda som drottning Victoria, lyckligt gift med en shejk sen hon nobbat en svart man som Palme utsett som gemål? Eller för att jag själv uppträder som tv-presentatör med tvåblågula flaggor utstickande uröronen?
+Satiren har rullat igång. Min talang när det gäller förlöjligandets ädla konst (en gåva från dadaisterna) sprider sig. Jag kontaktas av SVT för att tillsammans med reportern och författaren Lars-Ragnar Forssberg skriva texter till fem satirprogram som ska heta “*Kabaré Öppen Final*”(inte speciellt originellt, men ändå). Vi får göra tre av programmen innan vårt kontrakt bryts. Anledningen kan vara flera. Kanske för att vi visar den nyfödda prinsessan Victorias dop upp och ner? Kanske för att vi visar brösten som ammar den nyfödda? Kanske för att vi tittar in i framtiden och låter Sten Ljunggren uppträda som drottning Victoria, lyckligt gift med en shejk sen hon nobbat en svart man som Palme utsett som gemål? Eller för att jag själv uppträder som tv-presentatör med två blågula flaggor utstickande ur öronen?
 
 ![Och nu över till vädret.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/167.png)
 
@@ -579,7 +579,7 @@ Boken är i lp-format (efter modell från vår Londonbok). Påsista insidan ligg
 
 Boken blir ocksåkatalog till min separatutställning på Moderna Museet. Den ges ut på Bo Cavefors Förlag i samarbete med museet.
 ::: indent
-En avsikts för klaring:
+En avsiktsförklaring:
 :::
 <!-- PAGE 67 END -->
 
@@ -622,11 +622,11 @@ En avsikts för klaring:
 
 Boken är en enda lång, manisk uttömning, en febrig semantisk syndaflod. Uttryck staplade på varann, avbrutna, korsfästa, verbala snitt ur hjärnbarken. Förmodligen en korrekt version av mitt tillstånd vid den här tidpunkten. Jag vet inte vad jag har skrivit, det har forsat ur mig under en räcka sömnlösa dygn i vindsvåningen på Skeppargatan. Klas Östergren, den tidigare nabon, beskriver förmodligen flödet hyfsat korrekt i sin recension i DN:
 
-**”Texten är som om författaren matat en atombomb med essensen från modernistiska hjärnor och låtit den krevera i en självskrivande dator - associationerna tar aldrig slut, reaktionerna löper fram över sidorna i ett språk som förintar, utplånar sig själv. Läsaren är helt utlämnad. På en enda sida hinner Börjlind riva ner alla begrepp och normer som man överhuvudtaget orkat bygga upp: ”Jag orkar inte hålla fast allt det jag benämner.” Som blåste man ut väggarna i ett hus: där står en och duschar, en annan sitter på dass,  en tredje ligger på sängen och masturberar och en liten flicka gråter ner i läxboken. Konfrontationen blir total. I boken finns också en vacker bild på Friedrich Nietzsches dödsmask. **
+**”Texten är som om författaren matat en atombomb med essensen från modernistiska hjärnor och låtit den krevera i en självskrivande dator - associationerna tar aldrig slut, reaktionerna löper fram över sidorna i ett språk som förintar, utplånar sig själv. Läsaren är helt utlämnad. På en enda sida hinner Börjlind riva ner alla begrepp och normer som man överhuvudtaget orkat bygga upp: ”Jag orkar inte hålla fast allt det jag benämner.” Som blåste man ut väggarna i ett hus: där står en och duschar, en annan sitter på dass,  en tredje ligger på sängen och masturberar och en liten flicka gråter ner i läxboken. Konfrontationen blir total. I boken finns också en vacker bild på Friedrich Nietzsches dödsmask.**
 
 ![Sjukdom är till salu.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/132.png)
 
-**Nietzsche gick loss på Västerlandets hela system av moral och försökte riva ner det så gott han kunde med sin filosofiska slägga och lyckades väl ganska bra med det. Börjlind i sin tur går omkring i dom rykande ruinerna efter tysken, på gott och ont. Han hittar bland spillrorna ett trasigt och misshandlat begrepp här och ett där och han plockar upp dom för en granskning. Sen samlar han ihop bråten i en hög, häller bensin på hela rasket och tänder på****. Hela hans textmassa är ett referat från anarkisternas krigsdans runt detta moraliska bål.”**
+**Nietzsche gick loss på Västerlandets hela system av moral och försökte riva ner det så gott han kunde med sin filosofiska slägga och lyckades väl ganska bra med det. Börjlind i sin tur går omkring i dom rykande ruinerna efter tysken, på gott och ont. Han hittar bland spillrorna ett trasigt och misshandlat begrepp här och ett där och han plockar upp dom för en granskning. Sen samlar han ihop bråten i en hög, häller bensin på hela rasket och tänder på. Hela hans textmassa är ett referat från anarkisternas krigsdans runt detta moraliska bål.”**
 
 Det finns andra omdömen: ”*En verbal diarré av sällan skådat slag*” är ett av dom.
 <!-- PAGE 68 END -->
@@ -663,7 +663,7 @@ På andra ställen i boken är språket sorgset och sökande:
 
 Droppvis kommer gåtfulla syner:
 
-**”****... ur sitt glittrande strupformade svarta hål väver spindeln sina grymma logaritmer, tråd för tråd till ett åderverk av bestialiska uppdrag ... med en obekymrad sekund kvar av ett fritt liv svävar insekten in i slakthuset ... sakta gungar spindeln fram mot den feta uppsvällda nattfjärilen, trådarna vaggar rytmiskt i takt med vingarnas sjungande dödsångest, målmedvetet griper det krälande djuret sitt pulserande offer och punkterar buken med sina välslipade knivar, ljudlöst äter sig den ludna hungern in i kroppen ... några få färglösa droppar slår i golvet som helgmålsringningar ...”**
+**”... ur sitt glittrande strupformade svarta hål väver spindeln sina grymma logaritmer, tråd för tråd till ett åderverk av bestialiska uppdrag ... med en obekymrad sekund kvar av ett fritt liv svävar insekten in i slakthuset ... sakta gungar spindeln fram mot den feta uppsvällda nattfjärilen, trådarna vaggar rytmiskt i takt med vingarnas sjungande dödsångest, målmedvetet griper det krälande djuret sitt pulserande offer och punkterar buken med sina välslipade knivar, ljudlöst äter sig den ludna hungern in i kroppen ... några få färglösa droppar slår i golvet som helgmålsringningar ...”**
 
 ![I varje regnbåge pekar jag ut svart.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/104.png)
 
@@ -685,7 +685,7 @@ Det är en kvinna som säger det. Hon heter Monica Nieckels och är intendent p�
 :::
 
 ::: indent
-Den 15 oktober är det vernissage. Utställningen är delvis inspirerad av amerikanen Edward Kienholtz makabra miljöinstallationer. Jag har till ägnat den ”*byfånarna, som fyller förväntningarna med fisk*”.
+Den 15 oktober är det vernissage. Utställningen är delvis inspirerad av amerikanen Edward Kienholtz makabra miljöinstallationer. Jag har tillägnat den ”*byfånarna, som fyller förväntningarna med fisk*”.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/186.jpg)

@@ -77,7 +77,7 @@ En rast håller några elever fast mig vid ett träd medan andra dansar runt och
 Orättvisan, inte över våldet, etsar sig fast.
 :::
 
-Ljusare minne från Malmö: Min första förälskelse heter Carin. Vi är båda nioår. Hon har fräknar och långa ljusa flätor. Hennes pappa är tandläkare. På kvällarna står jag ofta på Gustav Adolfs Torg och tittar bort mot hennes fina port.
+Ljusare minne från Malmö: Min första förälskelse heter Carin. Vi är båda nio år. Hon har fräknar och långa ljusa flätor. Hennes pappa är tandläkare. På kvällarna står jag ofta på Gustav Adolfs Torg och tittar bort mot hennes fina port.
 ::: indent
 Ibland får jag syn på henne.
 :::
@@ -112,7 +112,7 @@ Eller helt enkelt förnedrad utan att ha en aning om det, ett kränkt barn som b
 På ett BVC-möte för ett av mina egna barn, Molly, uppmanas vi föräldrar att rita ett barndomsminne som har fastnat. Jag ritar ett barn som är bundet med ett kraftigt rep runt benet och fäst vid en sandlåda. När jag förklarar att mina föräldrar band mig för att gå och bada på stranden i Falsterbo blir det tryckt i rummet. Jag försäkrar att jag inte har för avsikt att binda Molly.
 ::: indent
 
-Minne från barndomen: Jag blir utesluten ur Vargungarna, en ideell scout för ening som kräver att man ska sitta still när dom läser långtråkiga sagor om djungelbarn och djur som kan tala. ”*Han är för orolig, han stör alla andra.*”
+Minne från barndomen: Jag blir utesluten ur Vargungarna, en ideell scoutförening som kräver att man ska sitta still när dom läser långtråkiga sagor om djungelbarn och djur som kan tala. ”*Han är för orolig, han stör alla andra.*”
 :::
 
 ::: indent
@@ -174,7 +174,7 @@ Minne från barndomen i förhöjd form:
 **han börjar bygga brosk runt nålen**
 :::
 
-Vid elvaårsålder flyttar vi till Kärrtorp utanför Stockholm. Jag pratar bred skånska, har utståendeöron och snagg och försöker över leva. Vi bor högst upp i ett av tvånybyggda höghus. Kvällarna domineras av inlåsning.
+Vid elvaårsålder flyttar vi till Kärrtorp utanför Stockholm. Jag pratar bred skånska, har utstående öron och snagg och försöker över leva. Vi bor högst upp i ett av två nybyggda höghus. Kvällarna domineras av inlåsning.
 <!-- PAGE 9 END -->
 
 <!-- PAGE 10 START -->
@@ -256,7 +256,7 @@ Det är en stundtals stökig omgivning jag bor i, Björnsan är ett tillhåll f�
 :::
 
 ::: indent
-Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som ”*Goda viner under femman!*”), kompisar som ligger under byggfuttar med snuttefiltar indränkta i ammoniak, utslagna som sitter på bänkarna och filtrerar t-sprit genom brödlimpor, fnask och torskar som försvinner in och ut ur buskagen,  allt några meter utanför min port.
+Det är alkisar som halsar ljummen Beyaz (som Systembolaget marknadsför som ”*Goda viner under femman!*”), kompisar som ligger under byggfuttar med snuttefiltar indränkta i ammoniak, utslagna som sitter på bänkarna och filtrerar t-sprit genom brödlimpor, fnask och torskar som försvinner in och ut ur buskagen, allt några meter utanför min port.
 :::
 
 ::: indent
@@ -435,7 +435,7 @@ En man utgör ett undantag.
 :::
 
 ::: indent
-Han kallas ”Greven”, förmodligen har han adlig härkomst. Mager, kanske runt femtio, med ett snällt och frånvarande uttryck i ansiktet. Varje matpaus (vi har tvåvarje natt), sätter han sig vid ett piano i denödsliga matsalen och börjar spela. Klassisk musik, ofta Vivaldi. Han är duktig, kanske har han ett förflutet som konsertpianist. Han sitter vid pianot hela matpausen, äter ingenting själv, försvinner in i musiken. Alla andra sitter böjda över sina tallrikar i halvmörkret, lyssnar påklangerna som studsar mellan väggarna, sneglar då och då på ”Greven”. När pausen är slut reser sig alla utom ”Greven”. Han sitter kvar ett par minuter för sig själv, utan att spela, låter blicken glida runt i den stora salen som om han letade efter dom försvunna tonerna.
+Han kallas ”Greven”, förmodligen har han adlig härkomst. Mager, kanske runt femtio, med ett snällt och frånvarande uttryck i ansiktet. Varje matpaus (vi har två varje natt), sätter han sig vid ett piano i den ödsliga matsalen och börjar spela. Klassisk musik, ofta Vivaldi. Han är duktig, kanske har han ett förflutet som konsertpianist. Han sitter vid pianot hela matpausen, äter ingenting själv, försvinner in i musiken. Alla andra sitter böjda över sina tallrikar i halvmörkret, lyssnar på klangerna som studsar mellan väggarna, sneglar då och då på ”Greven”. När pausen är slut reser sig alla utom ”Greven”. Han sitter kvar ett par minuter för sig själv, utan att spela, låter blicken glida runt i den stora salen som om han letade efter dom försvunna tonerna.
 :::
 
 ::: indent
@@ -471,7 +471,7 @@ Där det tar stopp. Tills jag säger:
 :::
 
 ::: indent
-Då, äntligen, tittar han upp på mig. Det är första gången jag ser hans ögon på nära håll. Blå, med lite gulnadeögonvitor, inramade av ett par vackra mörkaögonbryn.
+Då, äntligen, tittar han upp på mig. Det är första gången jag ser hans ögon på nära håll. Blå, med lite gulnade ögonvitor, inramade av ett par vackra mörka ögonbryn.
 :::
 
 ::: indent
@@ -591,17 +591,17 @@ Svea öppnar den, försiktigt.
 – Dom har skjutit Kennedy.
 :::
 
- Hela familjen samlas framför tv-möbeln, tysta, plötsligt fångade i en och samma chock. Det skapar en utskuren samhörighet, för en stund.
+Hela familjen samlas framför tv-möbeln, tysta, plötsligt fångade i en och samma chock. Det skapar en utskuren samhörighet, för en stund.
 
 ::: part
 :::
-Hemingway krossar den svåra tiden. Mannen med det kliniska språket, kirurgen som befriar varenda mening från onödigt späck. Jag slukar dom böcker jag kommer över och påverkas starkt av hans generationsroman ”*Och solen har sin gång*”. Baskern ersätts av en röd bandana, pipan ersätts av en njurformad säck i getskinn fylld med billigt rödvin, poeten St John Perse ersätts av matadoren El Cordobés. Tjäreborgs danska charterbussar tar mig spikrakt från Helsingborg till Barcelona för 200 kronor, det inhemska tåget tar mig upp till Pamplona och San Fermin-festivalen. Somrarna blir en tjurrusning fyraår i rad. En rusning ut ur hemmet, det trånga tonårsskinnet, ut ur föräldrarnas räckvidd.
+Hemingway krossar den svåra tiden. Mannen med det kliniska språket, kirurgen som befriar varenda mening från onödigt späck. Jag slukar dom böcker jag kommer över och påverkas starkt av hans generationsroman ”*Och solen har sin gång*”. Baskern ersätts av en röd bandana, pipan ersätts av en njurformad säck i getskinn fylld med billigt rödvin, poeten St John Perse ersätts av matadoren El Cordobés. Tjäreborgs danska charterbussar tar mig spikrakt från Helsingborg till Barcelona för 200 kronor, det inhemska tåget tar mig upp till Pamplona och San Fermin-festivalen. Somrarna blir en tjurrusning fyra år i rad. En rusning ut ur hemmet, det trånga tonårsskinnet, ut ur föräldrarnas räckvidd.
 ::: indent
 Ut!
 :::
 
 ::: indent
-Kufiskt look-a-like-minne från Pamplo n a: På det lilla charmiga torget i centrum flockas varje kväll ett antal människor runt ett bord där det sitter en amerikan som är påfallande lik Hemingway, samma gråskägg, samma väderbitna hy. Alla vet naturligtvis att det inte är han, ändåhänger man vid bordet och skålar med mannen och spelar med i ett besynnerligt rollspel.
+Kufiskt look-a-like-minne från Pamplo n a: På det lilla charmiga torget i centrum flockas varje kväll ett antal människor runt ett bord där det sitter en amerikan som är påfallande lik Hemingway, samma gråskägg, samma väderbitna hy. Alla vet naturligtvis att det inte är han, ändå hänger man vid bordet och skålar med mannen och spelar med i ett besynnerligt rollspel.
 :::
 
 ::: indent
@@ -617,7 +617,7 @@ Men framför allt: Den vita hjärnan fylls med massiva intryck av nya språk, ny
 :::
 
 ::: indent
-Minne från Saint-Jean de Luz: En lummig park, ett mjukt regn. Jag försöker somna i en sovsäck på en bänk. Det regnar, vätan tränger igenom tyget och håller mig vaken, lukten är påfrestande. En bit bort, vid gatan intill parken, ser jag råttor stora som hundar som gräver i svarta plast påsar. Ljuset från en gatlykta reflekteras i säckarna. En mörkklädd man ramlar omkull en bit från råttorna och slår skallen i rännstenskanten. Jag vrider mig om och blundar. Jag är nästan på väg att somna när jag känner ett lätt tryck på benet. Jag kastar mig runt och spärrar upp ögonen. Det sitter en gammal kvinna på huk intill bänken med en hand runt min vad. Hon har ett djur intill sig, i ett rep. Jag ser inte vad det är för djur. Hennes grepp runt mitt ben hårdnar. Plötsligt ler hon och jag ser hur vackra tänder hon har. Vita och breda. Sen släpper hon vaden, reser sig och går därifrån (scenen har jag återgett nästan ordagrant i min och min yngsta dotter Mollys ljudboksthriller ”*Mörkret oss emellan*”).
+Minne från Saint-Jean de Luz: En lummig park, ett mjukt regn. Jag försöker somna i en sovsäck på en bänk. Det regnar, vätan tränger igenom tyget och håller mig vaken, lukten är påfrestande. En bit bort, vid gatan intill parken, ser jag råttor stora som hundar som gräver i svarta plastpåsar. Ljuset från en gatlykta reflekteras i säckarna. En mörkklädd man ramlar omkull en bit från råttorna och slår skallen i rännstenskanten. Jag vrider mig om och blundar. Jag är nästan på väg att somna när jag känner ett lätt tryck på benet. Jag kastar mig runt och spärrar upp ögonen. Det sitter en gammal kvinna på huk intill bänken med en hand runt min vad. Hon har ett djur intill sig, i ett rep. Jag ser inte vad det är för djur. Hennes grepp runt mitt ben hårdnar. Plötsligt ler hon och jag ser hur vackra tänder hon har. Vita och breda. Sen släpper hon vaden, reser sig och går därifrån (scenen har jag återgett nästan ordagrant i min och min yngsta dotter Mollys ljudboksthriller ”*Mörkret oss emellan*”).
 :::
 <!-- PAGE 17 END -->
 
@@ -630,25 +630,25 @@ Minne från Barcelona: Jag sitter på en uteservering på det vackra innertorget
 Från vissa uteserveringar hörs applåder.
 :::
 
-Jag köper mina första läderboots i en specialbutik under tjurfäktningsarenan i  Salamanca och allt är en fest. Bland mina spanska vänner kallas jag ”treinta y ocho” - jag går alltid klädd i en gul amerikansk rugbytröja med 38 på. Den är av ett mycket slitstarkt material.
+Jag köper mina första läderboots i en specialbutik under tjurfäktningsarenan i Salamanca och allt är en fest. Bland mina spanska vänner kallas jag ”treinta y ocho” - jag går alltid klädd i en gul amerikansk rugbytröja med 38 på. Den är av ett mycket slitstarkt material.
 ::: indent
-Minne från Malaga: Jag är svårt uppslukad av tjurfäktning och betraktar mig, lite över maga, som en aficionado. Under ett parår besöker jag ett stort antal arenor runt om i landet. En eftermiddag, på en tjurfäktningsarena i Malaga, händer nåt märkligt.
+Minne från Malaga: Jag är svårt uppslukad av tjurfäktning och betraktar mig, lite över maga, som en aficionado. Under ett par år besöker jag ett stort antal arenor runt om i landet. En eftermiddag, på en tjurfäktningsarena i Malaga, händer nåt märkligt.
 :::
 
 ::: indent
-Kvällen innan har jag gått ner till Playa del Malagueta, en lång strand med vit, finkornig sand, i enaänden av stranden står ett antal tältvagnar uppställda i en cirkel. Jag söker mig dit. Småbarn leker med nötta kastanjetter, män trummar påhårt spända tamburiner, havet sköljer in i jämna rytmer. Jag slår mig ner i utkanten av vagnarna. Några kvinnor, kanske fem, dansar runt en eld. En smidig kvinna lindar av sin sidensjal, sveper den tätt över lågorna tills sjalen börjar brinna, gör en båge genom luften ner i sanden, trampar påsjalen och tar fram en kortlek. Försiktigt föser hon upp askan av sjalen på ett kort. Jag hasar lite närmare i skuggan av en vagn. Männen slutar slåpåtamburinerna, en av dom tittaråt mitt håll. Jag sitter orörlig. Från andra sidan närmar sig en liten fet man i leopardkalsonger. Han fryser, det syns. Han har ett blått paraply i handen. Kvinnan med kortet vänder sig mot mannen och håller upp kortet. Barnen lägger ner kastanjetterna. Mannen slickar sig om munnen. Kvinnan blåser sakta askan från kortet mot mannens ansikte, flagorna vaggar genom luften och fastnar på hans fuktiga läppar. Några män tittaråt mitt håll igen och jag hasar undan, drar mig upp längs sanden, in i skuggan, hittar en skyddad sandgrop som jag kan somna i.
+Kvällen innan har jag gått ner till Playa del Malagueta, en lång strand med vit, finkornig sand, i ena änden av stranden står ett antal tältvagnar uppställda i en cirkel. Jag söker mig dit. Småbarn leker med nötta kastanjetter, män trummar på hårt spända tamburiner, havet sköljer in i jämna rytmer. Jag slår mig ner i utkanten av vagnarna. Några kvinnor, kanske fem, dansar runt en eld. En smidig kvinna lindar av sin sidensjal, sveper den tätt över lågorna tills sjalen börjar brinna, gör en båge genom luften ner i sanden, trampar på sjalen och tar fram en kortlek. Försiktigt föser hon upp askan av sjalen på ett kort. Jag hasar lite närmare i skuggan av en vagn. Männen slutar slå på tamburinerna, en av dom tittar åt mitt håll. Jag sitter orörlig. Från andra sidan närmar sig en liten fet man i leopardkalsonger. Han fryser, det syns. Han har ett blått paraply i handen. Kvinnan med kortet vänder sig mot mannen och håller upp kortet. Barnen lägger ner kastanjetterna. Mannen slickar sig om munnen. Kvinnan blåser sakta askan från kortet mot mannens ansikte, flagorna vaggar genom luften och fastnar på hans fuktiga läppar. Några män tittar åt mitt håll igen och jag hasar undan, drar mig upp längs sanden, in i skuggan, hittar en skyddad sandgrop som jag kan somna i.
 :::
 
 ::: indent
-Nu sitter jag påsol-y-sombre-sektionen på Malagas vackra tjurfäktningsarena och väntar på att eftermiddagens fjärde tjur ska springa in. Matadoren innan, Manuel Ortéga, har fått ett avskuretöra från sin fällda tjur, en hygglig utdelning från en svårflörtad publik.
+Nu sitter jag på sol-y-sombre-sektionen på Malagas vackra tjurfäktningsarena och väntar på att eftermiddagens fjärde tjur ska springa in. Matadoren innan, Manuel Ortéga, har fått ett avskuret öra från sin fällda tjur, en hygglig utdelning från en svårflörtad publik.
 :::
 
 ::: indent
-Sårusar tjuren in.
+Så rusar tjuren in.
 :::
 
 ::: indent
-Den är stor, svart, förvirrad. Picadoren trycker ner sin grova spetsiga lans i djurets nacke, syftet är att trasa sönder nackmuskeln för att försvåra för tjuren att höja huvudet eller göra nyckfulla kast med hornen mot matadoren, picadoren hänger över lansen tills publiken börjar bua, det mörka blodet sköljer ner över den svarta blanka kroppen, tjuren vaggar med huvudet och plötsligt får jag nog. Jagäcklas. Jag reser mig, tränger mig ut, lämnar arenan och ser aldrig en tjurfäktning mer.
+Den är stor, svart, förvirrad. Picadoren trycker ner sin grova spetsiga lans i djurets nacke, syftet är att trasa sönder nackmuskeln för att försvåra för tjuren att höja huvudet eller göra nyckfulla kast med hornen mot matadoren, picadoren hänger över lansen tills publiken börjar bua, det mörka blodet sköljer ner över den svarta blanka kroppen, tjuren vaggar med huvudet och plötsligt får jag nog. Jag äcklas. Jag reser mig, tränger mig ut, lämnar arenan och ser aldrig en tjurfäktning mer.
 :::
 
 ::: indent
@@ -674,15 +674,15 @@ Själv bär jag fortfarande spanska boots när det vill sig.
 :::
 
 ::: indent
-Minne från spanska högplatån: Jag ligger fullt nykter påplatån mitt i natten och tittar upp i rymden, otroligt svart, otroligt gnistrande, ljudet från ett dunkande tåg hörs genom mörkret, mitt i ett stjärnfall somnar jag och vaknar i en smal säng innanför ett bageri, solen lyser genom ett runt fönster i taket, bagarsonen påstår att jag kom dit med en äldre man i gryningen och behövde sova.
+Minne från spanska högplatån: Jag ligger fullt nykter på platån mitt i natten och tittar upp i rymden, otroligt svart, otroligt gnistrande, ljudet från ett dunkande tåg hörs genom mörkret, mitt i ett stjärnfall somnar jag och vaknar i en smal säng innanför ett bageri, solen lyser genom ett runt fönster i taket, bagarsonen påstår att jag kom dit med en äldre man i gryningen och behövde sova.
 :::
 
 ::: indent
-Jag tänker: När tvålika långa tåg från motsatt håll passerar varann är ett av tågen osynligt under en försvinnande kort tidsrymd, sett från sidan. Som om det inte fanns. Glider parallella verkligheter förbi varandra på samma sätt? Existerar det korta tidsrymder när jag inte finns? Kan jag gåin i en angränsande verklighet och komma tillbaka?
+Jag tänker: När två lika långa tåg från motsatt håll passerar varann är ett av tågen osynligt under en försvinnande kort tidsrymd, sett från sidan. Som om det inte fanns. Glider parallella verkligheter förbi varandra på samma sätt? Existerar det korta tidsrymder när jag inte finns? Kan jag gå in i en angränsande verklighet och komma tillbaka?
 :::
 
 ::: indent
-Jag köper en sliten ukulele av bagarsonen som tack för bädden, lämnar bageriet och funderar påvem denäldre mannen var.
+Jag köper en sliten ukulele av bagarsonen som tack för bädden, lämnar bageriet och funderar på vem den äldre mannen var.
 :::
 
 ::: indent
@@ -691,17 +691,17 @@ Kanske Dominicus av Landsvägen?
 
 ::: part
 :::
-Min nyvunna törst pålivet avbryts temporärt av en inkallelse till militärtjänst. Jag har valt att göra den längre tjänstgöringen, som är på 15 månader, ett slags förberedande officerstjänst, förmodligen för att imponera på min blivande svärfar som är rektor på Gymnastikhögskolan i Stockholm.
+Min nyvunna törst på livet avbryts temporärt av en inkallelse till militärtjänst. Jag har valt att göra den längre tjänstgöringen, som är på 15 månader, ett slags förberedande officerstjänst, förmodligen för att imponera på min blivande svärfar som är rektor på Gymnastikhögskolan i Stockholm.
 ::: indent
 Ett fett fel val.
 :::
 
 ::: indent
-Jag rycker in på A1 i Linköping. En storödslig kaserngård, grått grus på marken, kanoner här och där. Jag visas in i en brun barack, in i ett rum som jag ska dela med ett antal okända unga män. En välspänd furir förklarar vilka regler som gäller. Dom är omfattande. En av dom handlar om bädden, den smala brits jag ska sova i. Den ska bäddas minutiöst, ett enda osynligt veck kommer att rendera en utskällning. Vad tvåveck skulle innebära framgår inte, förmodligen arkebusering, tänker jag.
+Jag rycker in på A1 i Linköping. En stor ödslig kaserngård, grått grus på marken, kanoner här och där. Jag visas in i en brun barack, in i ett rum som jag ska dela med ett antal okända unga män. En välspänd furir förklarar vilka regler som gäller. Dom är omfattande. En av dom handlar om bädden, den smala brits jag ska sova i. Den ska bäddas minutiöst, ett enda osynligt veck kommer att rendera en utskällning. Vad två veck skulle innebära framgår inte, förmodligen arkebusering, tänker jag.
 :::
 
 ::: indent
-Påkaserngården ska vi ståuppställda påled, axel mot axel, medan en uniformsklädd man inspekterar oss. Pågivna kommandon ska vi utföra simultana rörelser. Den som kommer i otakt får en verbal hårtork rakt i ansiktet.
+På kaserngården ska vi stå uppställda på led, axel mot axel, medan en uniformsklädd man inspekterar oss. På givna kommandon ska vi utföra simultana rörelser. Den som kommer i otakt får en verbal hårtork rakt i ansiktet.
 :::
 
 ::: indent
@@ -713,7 +713,7 @@ Jag ger upp efter en vecka. Gruppbeteende är inte analogt med min karaktär. Ja
 :::
 
 ::: indent
-Frågorna är hypotetiskt ställda, pågränsen till infantila, och jag försöker förklara vad det handlar om.
+Frågorna är hypotetiskt ställda, på gränsen till infantila, och jag försöker förklara vad det handlar om.
 :::
 
 ::: indent
@@ -721,7 +721,7 @@ Frågorna är hypotetiskt ställda, pågränsen till infantila, och jag försök
 :::
 
 ::: indent
-Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fläckarna i Eichmannsögon för henne). Jag får diagnosen ”astenisk” (osjälvständig personlighetsstörning), friskrivs med ”omtestning” om tolv månader och hör aldrig av det militära mer.
+Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fläckarna i Eichmanns ögon för henne). Jag får diagnosen ”astenisk” (osjälvständig personlighetsstörning), friskrivs med ”omtestning” om tolv månader och hör aldrig av det militära mer.
 :::
 
 ::: indent
@@ -732,7 +732,7 @@ Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fl
 <!-- PAGE 20 START -->
 ![När börjar dansen?!](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/9.png)
 
-Jag gör ett kort gästspel som vikarierande lärare i Bodals skola på Lidingö. Långt hår, utsvängda fiskbensmönstrade byxor och boots, tämligen olik dom andra i kollegierummet. Min undervisningsteknik går ut påfrihet under ansvar.
+Jag gör ett kort gästspel som vikarierande lärare i Bodals skola på Lidingö. Långt hår, utsvängda fiskbensmönstrade byxor och boots, tämligen olik dom andra i kollegierummet. Min undervisningsteknik går ut på frihet under ansvar.
 ::: indent
 En värdelös teknik, visar det sig. Rektorn förklarar att det krävs ordning, reda och disciplin. Det är inte mina bästa grenar. Jag slutar och söker till Journalisthögskolan i Stockholm (än så länge med namnet Journalistinstitutet). Det är det närmaste ett skrivande yrke jag kan komma. Jag är inte flygfärdig ännu. Utbildningen tråkar ut mig, men jag får möjlighet att uttrycka saker som berör mig. Poesins framtid, till exempel. I skolans egen tidning Anfangen skriver jag en debattartikel om just detta: ”*Poesins framtid - en skiss i två plan*”. Den avslutas så här:
 :::
@@ -752,7 +752,7 @@ Artikeln illustreras av en bild-ljud-dikt ur poeten Åke Hodells diktsamling ”
 
 Minne från journalistutbildningen: Jag bevakar en presskonferens på Hotell Flamingo i Solna med Bob Dylan. Jag har sett honom kvällen innan på Konserthuset. Presskonferensen är outhärdligt pinsam. Ett antal journalister, ledda av reportern Lennart Swahn, försöker ifrågasätta Dylans roll som ”språkrör för en ny generation”. Dylan själv har aldrig påtagit sig den rollen. Han försöker förklara det:
 ::: indent
-– I ´ m a song and danceman.
+– I'm a song and danceman.
 :::
 
 ::: indent
@@ -782,12 +782,12 @@ Begåvade följeslagare är en ynnest.
 :::
 
 ::: indent
-Första minnet av Dylan: Jag sitter i min kompis Ted Ströms pojkrum på Lidingö. Året är 1963. Jag spelar gitarr och han banjo. Vi har en musikgrupp som sjunger covers på Brothers Four och Kingston Trio,  låtar som ”*Tom Doley*”. Brasmusik. Ted rattar in Radio Luxemburg, ”*The Great 208*”, och plötsligt händer det. Betydligt kraftigareän i en Gevaliareklam. En röst sprakar ut i rummet och trollbinder oss. Det är inte orden, inte ens musiken, det är rösten. Dylans.
+Första minnet av Dylan: Jag sitter i min kompis Ted Ströms pojkrum på Lidingö. Året är 1963. Jag spelar gitarr och han banjo. Vi har en musikgrupp som sjunger covers på Brothers Four och Kingston Trio,  låtar som ”*Tom Doley*”. Brasmusik. Ted rattar in Radio Luxemburg, ”*The Great 208*”, och plötsligt händer det. Betydligt kraftigare än i en Gevaliareklam. En röst sprakar ut i rummet och trollbinder oss. Det är inte orden, inte ens musiken, det är rösten. Dylans.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/324.jpeg)
 
-Han sjunger ”*Blowing in the wind*”, en sång som så småningom förvandlas till just brasmusik. Men nu, i det härögonblicket, låter hans röst som ingenting vi har hört tidigare och åstadkommer nånting som jag inte kan förklara. Som inför ett konstverk som plötsligt drabbar dig utan att du vet varför. När låten är slut tittar jag på Ted och båda inser att vi förmodligen aldrig mer kommer att sjunga ”*Tom Doley*”.
+Han sjunger ”*Blowing in the wind*”, en sång som så småningom förvandlas till just brasmusik. Men nu, i det här ögonblicket, låter hans röst som ingenting vi har hört tidigare och åstadkommer nånting som jag inte kan förklara. Som inför ett konstverk som plötsligt drabbar dig utan att du vet varför. När låten är slut tittar jag på Ted och båda inser att vi förmodligen aldrig mer kommer att sjunga ”*Tom Doley*”.
 ::: indent
 Sett med dagens kunskap är vår reaktion mer begriplig:
 :::
@@ -802,7 +802,7 @@ Vi gifter oss.
 :::
 
 ::: indent
-Men det finns ett problem: Jag är inte bara ung. Jag är ocksåutomordentligt arg. Och omogen. Adrenalinet pumpar. Längst inne iögat sitter Gustave Doréoch graverar en dödsdans i blicken. Jag är oavbrutet på väg utan att veta vart. Min roll som familjemedlem är inte optimal. Jag står påkanten till världen och vill utforska allt.
+Men det finns ett problem: Jag är inte bara ung. Jag är också utomordentligt arg. Och omogen. Adrenalinet pumpar. Längst inne i ögat sitter Gustave Doré och graverar en dödsdans i blicken. Jag är oavbrutet på väg utan att veta vart. Min roll som familjemedlem är inte optimal. Jag står på kanten till världen och vill utforska allt.
 :::
 
 ::: part
@@ -930,7 +930,7 @@ Vi erbjuder boken till Bonniers som tackar nej igen. Långt senare, i samband me
 :::
 Vår avvikande utställning på Galleri Maxim har gett ett visst eko i konstvärlden (den är inte stor, men ändå). Vi blir tillfrågade av redaktören och kritikern Olle Granath om vi vill skriva en text till den etablerade tidskriften Konstrevy. Ämnet får vi välja själva.
 ::: indent
-Det blir vårt första litterära manifest, en form av program för klaring i det rådande kulturläget. Vi kallar artikeln *”Happy days are here again and Santa Claus is back in business”*. Rubriken till artikeln formger vi som en bildsida som illustrerar texten.
+Det blir vårt första litterära manifest, en form av programförklaring i det rådande kulturläget. Vi kallar artikeln *”Happy days are here again and Santa Claus is back in business”*. Rubriken till artikeln formger vi som en bildsida som illustrerar texten.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/24.png)
@@ -939,12 +939,12 @@ Texten avslutas så här:
 <!-- PAGE 24 END -->
 
 <!-- PAGE 25 START -->
-**”Ur enkelheten och ärligheten uppstår en känsla av fullständig frihet gentemot värderingar och normer, förstärks förmågan att ändra uppfattning från den ena dagen till den andra, föds den nödvändiga överlägsenheten gentemot materialet, accentueras avståndet till provinsialismen, fördjupas känslan av internationell egoism. **
+**”Ur enkelheten och ärligheten uppstår en känsla av fullständig frihet gentemot värderingar och normer, förstärks förmågan att ändra uppfattning från den ena dagen till den andra, föds den nödvändiga överlägsenheten gentemot materialet, accentueras avståndet till provinsialismen, fördjupas känslan av internationell egoism.**
 
 ::: accordion
 **Fångad i denna känsla ökar också tvivlet på de nuvarande auktoriteterna, svalnar intresset för deras ståndpunkter, framstår dagens situation som osedvanligt kvalmig och jönsig.**
 
-**Det verkar så svårt att se enkelt, så oerhört svårt att arbeta rent och klart, så lätt att springa runt i labyrinter och tro att näsan är längre än den är, så lätt att ambitiöst arbeta sönder enkla och vackra uttryck. Varför vräka all sin kraft mot ett misshagligt mål istället för att försöka skapa ett förnuftigare och livsdugligare alternativ? Det verkar slöseri med värdefull kraft. Det är trots allt inte alltför många som är nödvändigt lyhörda för den känsla som håller på att födas, eller just har fötts, för den ton som nu tränger ut som ett första barnskri ur en mycket gammal och mycket trött kropp, en ton  som hörs allt tydligare.”**
+**Det verkar så svårt att se enkelt, så oerhört svårt att arbeta rent och klart, så lätt att springa runt i labyrinter och tro att näsan är längre än den är, så lätt att ambitiöst arbeta sönder enkla och vackra uttryck. Varför vräka all sin kraft mot ett misshagligt mål istället för att försöka skapa ett förnuftigare och livsdugligare alternativ? Det verkar slöseri med värdefull kraft. Det är trots allt inte alltför många som är nödvändigt lyhörda för den känsla som håller på att födas, eller just har fötts, för den ton som nu tränger ut som ett första barnskri ur en mycket gammal och mycket trött kropp, en ton som hörs allt tydligare.”**
 :::
 
 Vi gör också ett förslag till tidskriftens omslag, som på ett uppsluppet sätt illustrerar vår text. Vi använder våra barn, sysslingarna, som fotomodeller. Allt är fortfarande en lek på fullt allvar.
@@ -961,7 +961,7 @@ Inget förlag är intresserat. Efter det gör vi vår första konstmapp, en port
 
 ![Assa Assa vad du är vacker.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/29.png)
 
-Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i trä som innehåller 12 blåpapphimlar, 12 uppblåsta plast påsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*” samt 1 ex av vår nya konstmapp ”*Anvisningar*”.
+Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i trä som innehåller 12 blåpapphimlar, 12 uppblåsta plastpåsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*” samt 1 ex av vår nya konstmapp ”*Anvisningar*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/30.png)
 
@@ -982,7 +982,7 @@ Han leder in mig i dadavärlden under dom här åren. Det är jag evigt tacksam 
 ::: quote
 **”De, för vilka vissa ord och vissa levnadssätt har en betydelse, de som skickar sig väl, de som delar in känslorna i klasser och på vilken nivå som helst diskuterar dessa skrattretande klassifikationer, de som ännu tror på ´gränser´, de som ältar ideologier som har fått plats på vår tids rangskala ... de som följer utstakade vägar, de som kommer viftande med namn som får boksidorna att skrika - de är de värsta svinen!”**
 
-** - Antoine Artaud, 1927**
+**- Antoine Artaud, 1927**
 :::
 
 Möjligen kan Artauds skoningslösa attityd ha inspirerat Jan Myrdal till ett litet statement 41 år senare i hans bok ”*Samtida bekännelser av en europeisk intellektuell*”:
@@ -996,7 +996,7 @@ Men tillbaka till dadaismen. Äntligen får jag kontakt med det gränslösa för
 
 ![MAMA CAN ALSO BE DADA](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/175.png)
 
-**”DADA hyllar skandalen som arbetsform. Dom hyr egna turistbussar i Paris och åker runt med dom vettskrämda turisterna och förevisar äckliga bordeller, skrotade järnvägsstationer och övergivna kyrkogårdar. DADA nästlar sig in på politikernas banketter, river dukarna av borden med porslin och kristaller och hädar församlingarna med ursinniga frihetstal. DADA ställer sig i talarstolar, knäpper ner byxorna och pissar på åhörarna. DADA skickar tunga resväskor till officiella konsttävlingar. Resväskorna är fulla av skitiga underkläder och DADA hävdar att det är den enda rena konsten. DADA startar egna kabaréer i storstäderna, ger ut tidningar, skapar konst, poesi, musik, teater. DADA lär världen att världen är DADA. DADA lär världen ett nytt språk och ett nytt sätt att förhålla sig till den västerländska meningslösheten.” **
+**”DADA hyllar skandalen som arbetsform. Dom hyr egna turistbussar i Paris och åker runt med dom vettskrämda turisterna och förevisar äckliga bordeller, skrotade järnvägsstationer och övergivna kyrkogårdar. DADA nästlar sig in på politikernas banketter, river dukarna av borden med porslin och kristaller och hädar församlingarna med ursinniga frihetstal. DADA ställer sig i talarstolar, knäpper ner byxorna och pissar på åhörarna. DADA skickar tunga resväskor till officiella konsttävlingar. Resväskorna är fulla av skitiga underkläder och DADA hävdar att det är den enda rena konsten. DADA startar egna kabaréer i storstäderna, ger ut tidningar, skapar konst, poesi, musik, teater. DADA lär världen att världen är DADA. DADA lär världen ett nytt språk och ett nytt sätt att förhålla sig till den västerländska meningslösheten.”**
 
 Fotnot: Ordet *”DADA”* förekommer första gången i tryck i en liten publikation som ges ut av Hugo Ball 1916.
 <!-- PAGE 26 END -->
@@ -1021,7 +1021,7 @@ DADA lär också ut diktandets svåra konst:
 **men ingenting för vanligt sunt förnuft.**
 :::
 
-Jag använder mig av tekniken 1978 inför en poesiuppläsning på Jack Kerouac School i Boulder, Colorado, tillsammans med Bruno KÖijer och Allen Ginsberg.
+Jag använder mig av tekniken 1978 inför en poesiuppläsning på Jack Kerouac School i Boulder, Colorado, tillsammans med Bruno K. Öijer och Allen Ginsberg.
 ::: indent
 Den fungerar.
 :::
