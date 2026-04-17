@@ -127,7 +127,7 @@ Lorrys framgångar beror på flera olika saker, enligt min uppfattning. Mixen me
 ::: part
 :::
 
-Så här långt, i slutet av 80-talet, är livet fortfarande hanterbart. Dom tioåren på ön har fjärmat mig en hel del från det som gröpte ur tillvaron och slet sönder mig. Jag har landat i ett annat jag. Föga anar jag vad som väntar runt hörnet (vi gör ju sällan det).
+Så här långt, i slutet av 80-talet, är livet fortfarande hanterbart. Dom tio åren på ön har fjärmat mig en hel del från det som gröpte ur tillvaron och slet sönder mig. Jag har landat i ett annat jag. Föga anar jag vad som väntar runt hörnet (vi gör ju sällan det).
 
 Men innan hörnet kommer skriver jag manus till en helaftonspjäs i samarbete med Lars Amble och Brasse Brännström. Manuset bygger på en engelsk förlaga och sätts upp på Maximteatern under namnet ”*Happy End*”.
 ::: indent
@@ -260,7 +260,7 @@ Cilla och jag gifter oss någraår senare. Bröllopsresan går till Venedig. Den
 ::: part
 :::
 
-Småglädjekorn i tillvaron: Nelson Mandela släpps fri. Äntligen. ANC-s kamp har gått i mål och världen kommer att få lära sig ett nytt begrepp: försoning, istället för hämnd. Ett konkret exempel är Robben Island, fängelset där Mandela satt i allaår. Dom vita fångvaktarna anställs efter Mandelas maktövertagande för att sköta fängelsets löpande verksamhet som minnesplats.
+Småglädjekorn i tillvaron: Nelson Mandela släpps fri. Äntligen. ANC-s kamp har gått i mål och världen kommer att få lära sig ett nytt begrepp: försoning, istället för hämnd. Ett konkret exempel är Robben Island, fängelset där Mandela satt i alla år. Dom vita fångvaktarna anställs efter Mandelas maktövertagande för att sköta fängelsets löpande verksamhet som minnesplats.
 ::: indent
 Lite som Castro: när han tog över lät han bli att krossa alla byggnader och palats som ägts av förtryckarna, istället förvandlade han dom till bostäder för hemlösa.
 :::
@@ -562,7 +562,7 @@ Så här kunde en bit ur programmet se ut, med Stefan Sauk, Lena Nyman, Ola Magn
 
 Det kommer fler inslag.
 
-Minne från Lilla Beirut: Inspelningsteamet utgörs av gamla tunga rävar på SVT, män som är vana vid helt andra förutsättningar. Ljus studio, flinka assistenter, stenhårt inspelningsschema. Här ska dom arbeta i ett mörkt kaos, mer eller mindre påuppstuds. Efter första inspelningsdagen ringer en av kameraveteranerna till dramachefen Lars Säfström och säger:
+Minne från Lilla Beirut: Inspelningsteamet utgörs av gamla tunga rävar på SVT, män som är vana vid helt andra förutsättningar. Ljus studio, flinka assistenter, stenhårt inspelningsschema. Här ska dom arbeta i ett mörkt kaos, mer eller mindre på uppstuds. Efter första inspelningsdagen ringer en av kameraveteranerna till dramachefen Lars Säfström och säger:
 ::: indent
 – Det här funkar inte, det är fullständigt jävla kaos, den där Schyffert är helt knäpp, det kommer att gå åt helvete!
 :::

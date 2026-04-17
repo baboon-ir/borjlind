@@ -99,7 +99,7 @@ Vi är båda singlar och roterar i nattlivet. En morgon vaknar jag med Oves huvu
 
 På tal om trånga utrymmen: Jag har en släng av klaustrofobi. Riktigt trånga utrymmen är ingenting som lockar mig. I min och Cilla Börjlinds kriminalroman ”*Springfloden*” försöker en av huvudkaraktärerna, Stilton, åla sig igenom en lång, minimal och helt svart berggång, halvvägs in fastnar han och kommer varken bakåt eller framåt. Det var en mardröm att skriva den scenen, svett och tryck i bröstet.
 ::: indent
-Annan återkommande mardröm: Jag befinner mig i ett helt kalt och fönsterlöst rum, fyrkantigt, låst metalldörr, gråstenväggar, plötsligt märker jag ur taket långsamt sänker sig, centimeter för centimeter. I vissa av drömmarna tar det en evighet innan det når så lågt att jag får börja huka mig. Så småningom ligger jag på knä, sen på mage, till slut känner jag taket börja trycka på ryggen och vaknar med ett mörkt vrål.
+Annan återkommande mardröm: Jag befinner mig i ett helt kalt och fönsterlöst rum, fyrkantigt, låst metalldörr, grå stenväggar, plötsligt märker jag hur taket långsamt sänker sig, centimeter för centimeter. I vissa av drömmarna tar det en evighet innan det når så lågt att jag får börja huka mig. Så småningom ligger jag på knä, sen på mage, till slut känner jag taket börja trycka på ryggen och vaknar med ett mörkt vrål.
 :::
 
 ::: indent
@@ -113,7 +113,7 @@ Hav och horisonter älskar jag.
 <!-- PAGE 30 START -->
 Vad som till syvende och sist styr mig igenom mitt privata kaos är besattheten. Att skapa. Att skriva. Att uttrycka mig. Jag fyller oändliga mängder böcker med ord, text, uttryck - småbruna böcker med ett pennfack i ryggen (SL:s arbetsböcker). Jag har alltid en bok med mig, dygnet runt, året om, på krogar, vindar, i parker och t-banor. Det mesta är fullständigt obegripligt vid en efterläsning, men med en uppfriskande energi. Här är ett slumpvis utsnitt ur nån bok:
 
-**”När varje lampa släcks, till minne av mörkret. Hitta en struktur. Edda. Popol Vuh. Asaläran. Än en gång besegrat det ofattbaras frestelse. Strålande smärta. Ju mer jag äger nånting desto mer ökar min lust att förstöra det. Ägandets nackskruv. Inferno. Åh Gud, det smittar också! Hög på förhoppningens droger. Nätterna när du band mig vid bäckenet för att dölja din utplånade mun. Ingenting avslutas. Svarta fötter marscherar över nerverna.”**
+**”När varje lampa släcks, till minne av mörkret. Hitta en struktur. Edda. Popol Vuh. Asaläran. Än en gång besegrat det ofattbaras frestelse. Strålande smärta. Ju mer jag äger nånting desto mer ökar min lust att förstöra det. Ägandets nackskruv. Inferno. Åh Gud, det smittar också! Hög på förhoppningens droger. Nätterna när du band mig vid bäckenet för att dölja din utlånade mun. Ingenting avslutas. Svarta fötter marscherar över nerverna.”**
 
 Sådär håller det på. Sida upp och sida ner, bok efter bok, år efter år. Introverta och obegripliga övningar. Och ändå: jag förbereder mig, omedvetet eller undermedvetet, på det enda val jag har.
 ::: indent
@@ -193,7 +193,7 @@ https://youtu.be/Fvr8ghtM_WA
 
 Inte så populärt uttalande i USA.
 
-Det här året, 1967, avrättas också en revolution är legend.
+Det här året, 1967, avrättas också en revolutionär legend.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/159.jpg)
 
@@ -386,11 +386,11 @@ Alla deltagare på biennalen får utforma ett eget vykort som inbjudan till utst
 
 Med en text på baksidan:
 
-**”Om vi hade behövt tid, hade vi behövt dagar, kvällar, timmar, om vi hade behövt morgnarna hade vi hämtat dom. Därute står natten och hoppar, vi betraktar den från balkongen och garvar. Tid är science fiction.**
 <!-- PAGE 35 END -->
 
 <!-- PAGE 36 START -->
 ::: accordion
+**”Om vi hade behövt tid, hade vi behövt dagar, kvällar, timmar, om vi hade behövt morgnarna hade vi hämtat dom. Därute står natten och hoppar, vi betraktar den från balkongen och garvar. Tid är science fiction.**
 **Det är ingenting fantastiskt med den här natten, det fantastiska är vi. Vår styrka är den sällsamma och personliga klangen i uttrycken, inte i tanken, inte i erfarenheten, inte i synen på omvärlden, helt och fullt i uttrycken, så oändligt starka, så till den grad fulla av liv att dom verkar kvävande samtidigt som dom har fågelns flykt i anslaget. Uttryck som jagar fram likt rabisdrabbade vinthundar, skurna i sin form men överväldigande i sin hänsynslöshet. Våra uttryck är ärliga. Vi arbetar tätt intill vår betraktare. Vi ställer inte problem under debatt - vi ställer oss själva under debatt. Komna utifrån försöker vi spränga den törnrosadröm, den vaddlindade sötkula så många författare och målare vistas i, spränga det skyddande och slutna kulturskal som så effektivt förhindrar praktiskt taget all meningsfull kommunikation idag. Alltför få inser att dom är inspärrade i ett mycket snålt tilltaget rum där polarna sitter uppradade längs väggarna och applåderar varann. Det är äckligt med halvförmågor, geni är en dussinvara och ingen kropp blir stark för att man hänger en rustning på den. Det är äckligt med småborglig underground, det är äckligt med provinsiell djärvhet. Dra av Sverige brallorna och bit det i pitten!**
 
 **Nånstans upptäcker nån nånting**
@@ -560,7 +560,7 @@ Min polare Ove Enervald, som nu går på Konstakademien, har gjort en stram, vac
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/181.png)
 
-Vi bestämmer oss för att tatuera in en motsvarande stjärna på våra överarmar. I Nyhavn i Köpenhamn, hos den illustre Tattoo Jack. I en second-handbutik på Högbergsgatan köper vi tvåsidlånga svarta rockar, två vackra hawaiislipsar (min ska jag skänka till poeten Allen Ginsberg en frukost i Colorado många år senare) och två tur och returbiljetter. Under tågresan filmar vi rakt ut genom kupéfönstret hela vägen ner (några år innan har Andy Warhol filmat sin sovande älskare Giorno i drygt fem timmar, allt är möjligt). Väl hemma konstaterar vi en flummig natt att tågfilmen förmodligen är världens i särklass tråkigaste rulle.
+Vi bestämmer oss för att tatuera in en motsvarande stjärna på våra överarmar. I Nyhavn i Köpenhamn, hos den berömde Tattoo Jack. I en second-handbutik på Högbergsgatan köper vi två sidlånga svarta rockar, två vackra hawaiislipsar (min ska jag skänka till poeten Allen Ginsberg en frukost i Colorado många år senare) och två tur och returbiljetter. Under tågresan filmar vi rakt ut genom kupéfönstret hela vägen ner (några år innan har Andy Warhol filmat sin sovande älskare Giorno i drygt fem timmar, allt är möjligt). Väl hemma konstaterar vi en flummig natt att tågfilmen förmodligen är världens i särklass tråkigaste rulle.
 ::: indent
 Vi är båda spända inför tatueringen, det är på den här tiden mest förbehållet sjömän och kåkfarare (flera år senare ska jag samarbeta med en heltatuerad man från Dalarna, Lars Wellström, en kroppskonstnär och poet, men just nu är vår lilla stjärna ett stort steg).
 :::
@@ -574,7 +574,7 @@ Vi får börja om nästa dag, rätt bakfulla.
 :::
 
 ::: indent
-Sen dess pryder stjärnan sin plats på min över arm. Oves har gått i graven med honom.
+Sen dess pryder stjärnan sin plats på min överarm. Oves har gått i graven med honom.
 :::
 
 ::: indent

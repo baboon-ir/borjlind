@@ -2,7 +2,7 @@
 
 <!-- PAGE 166 START -->
 ::: indent
-Jag vet hur jag själv fungerar när jag ska läsa en ny bok: första sidan, ofta bara första meningen - vrider det inte till dåorkar jag inte fortsätta (naturligtvis ett idiotiskt sätt att förhålla sig till litteratur, men jag får pungsvett när en bok inleds med tvåsidors uppräkning av alla inblandades namn och yrken, ibland följt av kartor!). Jag vill slukas direkt, vilket gör att jag sällan har fullföljt dom böcker som jag kunde ha haft nytta av, rent litterärt.
+Jag vet hur jag själv fungerar när jag ska läsa en ny bok: första sidan, ofta bara första meningen - vrider det inte till då orkar jag inte fortsätta (naturligtvis ett idiotiskt sätt att förhålla sig till litteratur, men jag får pungsvett när en bok inleds med två sidors uppräkning av alla inblandades namn och yrken, ibland följt av kartor!). Jag vill slukas direkt, vilket gör att jag sällan har fullföljt dom böcker som jag kunde ha haft nytta av, rent litterärt.
 :::
 
 ::: indent
@@ -38,7 +38,7 @@ Och tyst.
 
 ![Mitt i meningslösheten passerar ett spjut av tid.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/283.png)
 
-Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lundqvist. Såhär kul har hans alter ego Klas Katt det:
+Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lundqvist. Så här kul har hans alter ego Klas Katt det:
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/251.png)
 
@@ -47,7 +47,7 @@ Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lund
 
 Jag släpper mitt romanprojekt och träder ut i världen igen.
 ::: indent
-Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket märkliga livshistoria. Tillsammans med filmaren Elisabeth Wennberg skriver vi ett program för slag till SVT med titeln ”*Du får hela min kropp*”. Vi vill göra en dokumentärfilm om och med Wellström. Förslaget börjar så här:
+Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket märkliga livshistoria. Tillsammans med filmaren Elisabeth Wennberg skriver vi ett programförslag till SVT med titeln ”*Du får hela min kropp*”. Vi vill göra en dokumentärfilm om och med Wellström. Förslaget börjar så här:
 :::
 <!-- PAGE 166 END -->
 
@@ -116,7 +116,7 @@ Filmen beskrivs så här:
 ::: part
 :::
 
-Själv viker jag över till lättare brödmark igen och skriver ett entimmes underhållningsprogram till sångerskan Anna-Lotta Larsson (hon visar sig vara en fulländad komedienne). Det sänds i SVT och blir kanalens Montreauxbidrag. Själv får jag en nära och varm kontakt med Anna-Lotta -över tid kommer jag att skriva många sångtexter till henne (hon är fenomenal på att kula, en uråldrig vildsint lockropsteknik som kan få upp vem som helst ur rullstolen).
+Själv viker jag över till lättare brödmark igen och skriver ett entimmes underhållningsprogram till sångerskan Anna-Lotta Larsson (hon visar sig vara en fulländad komedienne). Det sänds i SVT och blir kanalens Montreauxbidrag. Själv får jag en nära och varm kontakt med Anna-Lotta - över tid kommer jag att skriva många sångtexter till henne (hon är fenomenal på att kula, en uråldrig vildsint lockropsteknik som kan få upp vem som helst ur rullstolen).
 
 Samtidigt har Carsten en separatutställning på Galleri Engström som han kallar ”*SHOWDOWN*”. För en gångs skull skriver jag ingen text till hans katalog, istället väljer han ett citat av den franske symbolisten Marcel Schwob:
 
@@ -326,7 +326,7 @@ Det är fotografen som har upptäckt att rullen i kameran är slut. Krook fattar
 
 Fruktbart minne från ”*Morrhår & Ärtor*”: Gösta vill att Lena Nyman ska ta en whisky med honom i en tågkupé.
 ::: indent
-– Man kanske kan fålite sponsring på det? säger han.
+– Man kanske kan få lite sponsring på det? säger han.
 :::
 
 ::: indent
@@ -422,7 +422,7 @@ När jag är klar med ”*Skål*” ägnar jag lite tid åt ett hjärteprojekt. 
 Av nån anledning fullföljer jag aldrig historien.
 :::
 
-Istället dyker Jönssonligan upp igen. Nummer tre (för min del). Den här gången skriver Gösta och jag en originalhistoria, ihop med Mikael Ekman, dom tidigare har delvis byggt på danska förlagor. Vi döper den helt enkelt till ”*Jönssonligan dyker upp igen*.” Konceptet är intakt. Snillet i mitten, omgiven av tvåburleska hantlangare och en bedårande kvinna som sidekick: Doris, kongenialt gestaltad av Birgitta Andersson.
+Istället dyker Jönssonligan upp igen. Nummer tre (för min del). Den här gången skriver Gösta och jag en originalhistoria, ihop med Mikael Ekman, dom tidigare har delvis byggt på danska förlagor. Vi döper den helt enkelt till ”*Jönssonligan dyker upp igen*.” Konceptet är intakt. Snillet i mitten, omgiven av två burleska hantlangare och en bedårande kvinna som sidekick: Doris, kongenialt gestaltad av Birgitta Andersson.
 ::: indent
 Fortfarande är det en rolig kvartett att skriva om.
 :::
@@ -436,7 +436,7 @@ Fortfarande är figurerna älskade.
 ::: part
 :::
 
-Vid det här stadiet i en kriminalroman, efter drygt tvåtredjedelar av boken, brukar man lägga in ett mord för att trissa upp framåtrörelsen. Det här mordet sker på öppen gata:
+Vid det här stadiet i en kriminalroman, efter drygt två tredjedelar av boken, brukar man lägga in ett mord för att trissa upp framåtrörelsen. Det här mordet sker på öppen gata:
 
 **”Klockan är strax efter elva på kvällen. Det är fem minusgrader ute. Folk huttrar sig fram längs husfasaderna, alla vill in i värmen. Offret, en man, är på väg hem från en bioföreställning. Han har hustrun vid sin sida och har ingen aning om att han ska vara död om drygt tio minuter. Ingen hör vad paret viskar till varandra. Neonljusen från en skyltreklam slår blågröna strimmor över snön på trottoaren, en avlägsen biltuta hörs, musik från en krog tränger ut, en berusad man korsar gatan med en varmkorv i handen. Inne på kyrkogården sneddar en prostituerad mellan två gravstenar av svart diabas, en korp landar i en hängränna sex våningar upp i Skandiahuset, tre våningar ner släcks en kontorslampa. Offret passerar en mörk port och närmar sig dödsögonblicket, vinden drar kyla genom hans kläder, hustrun huttrar till, de går tätt intill varandra.**
 
@@ -448,7 +448,7 @@ Vid det här stadiet i en kriminalroman, efter drygt tvåtredjedelar av boken, b
 
 Sann kliché: Du vet exakt var du befann dig när Kennedy och Palme mördades och när World Trade Center rasade ihop, om du är tillräckligt gammal (kanske också när Buddy Holly dog i en flygplanskrasch 1959, om du är riktigt gammal). Jag vet exakt var jag befann mig vid alla fyra tillfällena. Inomhus. Ett besked kom via radio, tre via tv.
 ::: indent
-Mordet på Palme är tveklöst det som tar längst tid att processa när det händer, mentalt. Sanningen är iskall, han är död, men mördad? PåSveavägen? Det är, som jag nämnt, bara fyra månader sen han satt med oss artister i Göteborg och var djupt engagerad i stödet till ANC. Nu ligger han skjuten på Sabbatsberg?
+Mordet på Palme är tveklöst det som tar längst tid att processa när det händer, mentalt. Sanningen är iskall, han är död, men mördad? På Sveavägen? Det är, som jag nämnt, bara fyra månader sen han satt med oss artister i Göteborg och var djupt engagerad i stödet till ANC. Nu ligger han skjuten på Sabbatsberg?
 :::
 <!-- PAGE 174 END -->
 

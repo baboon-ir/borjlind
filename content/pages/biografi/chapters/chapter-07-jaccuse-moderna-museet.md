@@ -5,7 +5,7 @@ Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedri
 
 ![Formen är budskapet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/83.png)
 
-Ett intressant inslag i baletten är ett stort antal sköldpaddor som extremt långsamt rör sig över golvet med småtända lampor på sköldarna.
+Ett intressant inslag i baletten är ett stort antal sköldpaddor som extremt långsamt rör sig över golvet med små tända lampor på sköldarna.
 ::: indent
 Jag har respekt för det.
 :::
@@ -13,7 +13,7 @@ Jag har respekt för det.
 ::: part
 :::
 
-Jag är nu 33 år gammal. Har två barn och en tatuering. Bor fortfarande kvar i övervåningen på lanthandeln i Ekskogen. Med Tove och Sari. På den vita kakelugnen i vardagsrummet har jag målat en stor, svart femuddig stjärna. Dylan har just gett ut ”*Blood on the tracks*”, en sårig skilsmässoskiva. Den ekar i dom stora rummen och över röstar dom nattliga plåtskallren från bönesalen.
+Jag är nu 33 år gammal. Har två barn och en tatuering. Bor fortfarande kvar i övervåningen på lanthandeln i Ekskogen. Med Tove och Sari. På den vita kakelugnen i vardagsrummet har jag målat en stor, svart femuddig stjärna. Dylan har just gett ut ”*Blood on the tracks*”, en sårig skilsmässoskiva. Den ekar i dom stora rummen och överröstar dom nattliga plåtskallren från bönesalen.
 ::: indent
 Det är en vild och lycklig tid.
 :::
@@ -254,7 +254,7 @@ En del reser sig och går ut.
 ::: part
 :::
 
-Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galleri Sellem. Vi kallar den ”*Räkna de lyckliga stunderna blott*”. Vi köper bland annat en grårullgardin och kopierar några svartvita objekt på den.
+Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galleri Sellem. Vi kallar den ”*Räkna de lyckliga stunderna blott*”. Vi köper bland annat en grå rullgardin och kopierar några svartvita objekt på den.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/142.png)
 
@@ -268,7 +268,7 @@ Förbluffande.
 
 Bigorneuer.
 ::: indent
-Mycket småskaldjur som man med hjälp av en minimal nål petar ut ur skalet och äter. En delikatess, om man har tålamod. Första gången jag får snäckorna framför mig är på en uteservering i Venedig, tätt intill Canal Grande (den finns numera även på restaurang Wasahof i Stockholm, snäckan alltså). Jag är här för att göra en dokumentärfilm för Moderna Museet. Konstbiennalen pågår och jag ska filma ett projekt som heter ”*ARARAT - Alternative Research in Architecture, Resources, Art and Technology*”.
+Mycket små skaldjur som man med hjälp av en minimal nål petar ut ur skalet och äter. En delikatess, om man har tålamod. Första gången jag får snäckorna framför mig är på en uteservering i Venedig, tätt intill Canal Grande (den finns numera även på restaurang Wasahof i Stockholm, snäckan alltså). Jag är här för att göra en dokumentärfilm för Moderna Museet. Konstbiennalen pågår och jag ska filma ett projekt som heter ”*ARARAT - Alternative Research in Architecture, Resources, Art and Technology*”.
 :::
 <!-- PAGE 61 END -->
 
@@ -428,11 +428,9 @@ Däremellan bidrar jag personligen med en del avtryck. Det första är en dikt s
 **Sverige är en förljugen moral.**
 **En dyster saga om någonting annat.**
 **En slocknad ambition.**
-:::
 <!-- PAGE 64 END -->
 
 <!-- PAGE 65 START -->
-::: poem
 **Sverige är en falsk bild.**
 **Den sociala nackskruven.**
 **Den proletära misärens dödsdanser.**
@@ -451,9 +449,9 @@ Däremellan bidrar jag personligen med en del avtryck. Det första är en dikt s
 **Sverige är en långsam ångest.**
 **Den kalkylerade effektivitetsfascismen.**
 **Den vårdslösa välfärden.**
-**Unga människor rationella förbrukning.**
-**Gamla människor förkastade resurser.**
-**Många människor kontaktlösa förvirring.**
+**Unga människors rationella förbrukning.**
+**Gamla människors förkastade resurser.**
+**Många människors kontaktlösa förvirring.**
 
 **Sverige vandrar baklänges in i framtiden.**
 **Fördomarna fladdrar som inflammerade skygglappar.**
@@ -575,9 +573,9 @@ Men innan dess skriver jag min tredje bok, en experimentell bildtextroman med ti
 
 ![varför skulle jag förneka det vackra inom mig bara för att det är bestialiskt](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/103.png)
 
-Boken är i lp-format (efter modell från vår Londonbok). Påsista insidan ligger en vinylskiva. Påskivan läser jag en egen text som spelas in i elektronmusikstudion Fylkingen och ackompanjeras av musikern Sten Hansson: ”*Dina fotspår utplånas framför dig*.”
+Boken är i lp-format (efter modell från vår Londonbok). På sista insidan ligger en vinylskiva. På skivan läser jag en egen text som spelas in i elektronmusikstudion Fylkingen och ackompanjeras av musikern Sten Hansson: ”*Dina fotspår utplånas framför dig*.”
 
-Boken blir ocksåkatalog till min separatutställning på Moderna Museet. Den ges ut på Bo Cavefors Förlag i samarbete med museet.
+Boken blir också katalog till min separatutställning på Moderna Museet. Den ges ut på Bo Cavefors Förlag i samarbete med museet.
 ::: indent
 En avsiktsförklaring:
 :::
@@ -675,7 +673,7 @@ Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken s
 :::
 
 ::: indent
-– Du är sågränslös hela tiden.
+– Du är så gränslös hela tiden.
 :::
 <!-- PAGE 69 END -->
 
@@ -697,7 +695,7 @@ Dom borde ha skrivit ”*från framtiden*”.
 
 Jag föreslår att jag vid vernissaget ska grävas ner utanför museets huvudingång med bara huvudet ovanför marken. Istället för en drink. Det funkar inte av ”säkerhetsskäl”.
 
-Utställningen blir min slutgiltiga och fullständiga manifestation av allt jag har lagrat. Vreden, frustrationen, sorgen. Allt väller ut i den enorma Torpedverkstaden. Fyra stora salar och en gigantisk hall fylls med mitt inre kaos. Jag skapar utställningen under starkt fysiskt tryck. Allt görs på plats. Allt är där och nu. På insidan av mitt pannben har jag ristat in den brasilianske dokumentärfilmaren Ruy Guerras svar påvarför han gör så grymma filmer.
+Utställningen blir min slutgiltiga och fullständiga manifestation av allt jag har lagrat. Vreden, frustrationen, sorgen. Allt väller ut i den enorma Torpedverkstaden. Fyra stora salar och en gigantisk hall fylls med mitt inre kaos. Jag skapar utställningen under starkt fysiskt tryck. Allt görs på plats. Allt är där och nu. På insidan av mitt pannben har jag ristat in den brasilianske dokumentärfilmaren Ruy Guerras svar på varför han gör så grymma filmer.
 ::: indent
 – Jag vet inte hur vägen till en bättre värld ser ut, jag kan bara beskriva vad som händer om vi inte hittar den vägen.
 :::
@@ -711,7 +709,7 @@ Helt rätt.
 Längs väggarna ligger ”kroppar” insvepta i svart plast.
 :::
 
-I ett av rummen täcker jag golvet med gnistrande stålskivor lagda påtegelstenar. Påväggarna hänger långa selar med brinnande värmeljus. I högtalare hörs dova hjärtslag. Fyra blåpolissirener sitter i takhörnen. Mitt i rummet placerar jag en kuvös. I kuvösen ligger ett naket spädbarn, ett tickande tidtagarur och en levande liten boaorm som snirklar runt barnet.
+I ett av rummen täcker jag golvet med gnistrande stålskivor lagda på tegelstenar. På väggarna hänger långa selar med brinnande värmeljus. I högtalare hörs dova hjärtslag. Fyra blå polissirener sitter i takhörnen. Mitt i rummet placerar jag en kuvös. I kuvösen ligger ett naket spädbarn, ett tickande tidtagarur och en levande liten boaorm som snirklar runt barnet.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/106.png)
 

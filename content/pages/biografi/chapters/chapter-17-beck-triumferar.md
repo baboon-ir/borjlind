@@ -7,7 +7,7 @@ Jag sköljer ner den obehagliga upplevelsen av Dylan-inspelningen med att skriva
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/290.jpg)
 
-Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannar påskrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde att berätta kriminalhistorier. Där är vi ikapp med råge. Nästa steg är att komma ikapp deras sätt att skildra maktvärlden.
+Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannat på skrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde att berätta kriminalhistorier. Där är vi ikapp med råge. Nästa steg är att komma ikapp deras sätt att skildra maktvärlden.
 ::: indent
 Relationsdramer är vi bra på.
 :::
@@ -95,7 +95,7 @@ Jag hjälper också till och bearbetar några manus till en tv-serie som heter �
 Jag tycker inte det är en bra idé.
 :::
 
-En mycket bättre idé kommer från musikern Göran Fristorp. Han ringer och frågar om jag har några texter han kan tonsätta till en ny skiva. Han får en pärm med dikter, väljer utåtta stycken och spelar in skivan *”Amabile”*.
+En mycket bättre idé kommer från musikern Göran Fristorp. Han ringer och frågar om jag har några texter han kan tonsätta till en ny skiva. Han får en pärm med dikter, väljer ut åtta stycken och spelar in skivan *”Amabile”*.
 
 Den mest intressanta texten är *”Där dom blinda barnen bor”*.
 
@@ -223,7 +223,7 @@ Corny detalj i mina anteckningar: Det här året skickas världens första sms. 
 ::: part
 :::
 
-Dags för mitt yngstaättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”*Min store tjocke far*” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningen äger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig).
+Dags för mitt yngsta ättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”*Min store tjocke far*” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningen äger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig).
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/325.jpeg)
 
@@ -594,7 +594,7 @@ Du blir mycket liten i den här omgivningen, ödmjuk, och påminns brutalt om al
 :::
 
 ::: indent
-Orsak 3 är flugfisket: För den som aldrig har flugfiskat är det svårt att förklara det förtrollande. Det som gör att du tillbringar timmar stående i strida forsar enbart fokuserad påfisket. Hur du rensar huvudet på allt utom det som gäller där du står, hoppet om ett hugg, ett motryck, en tyst kamp med en glittrande muskel som då och dåslungar sig över vattenytan. Ibland får du in den, ibland inte.
+Orsak 3 är flugfisket: För den som aldrig har flugfiskat är det svårt att förklara det förtrollande. Det som gör att du tillbringar timmar stående i strida forsar enbart fokuserad på fisket. Hur du rensar huvudet på allt utom det som gäller där du står, hoppet om ett hugg, ett motryck, en tyst kamp med en glittrande muskel som då och då slungar sig över vattenytan. Ibland får du in den, ibland inte.
 :::
 
 ::: indent
@@ -722,7 +722,7 @@ Elleråtminstone förlängde det.
 ::: part
 :::
 
-Det häråret får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill att ha med mig, för första gången. Det får dom. Såhär lyder texten om mig i boken:
+Det här året får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill att ha med mig, för första gången. Det får dom. Så här lyder texten om mig i boken:
 
 **”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift.**
 
@@ -855,7 +855,7 @@ Varför inte?
 :::
 
 ::: indent
-Peter Dalle och jag börjar bolla idéer. Jag ringer en nära vän och filmproducent, Christer Abrahamsen på Cinema Art, en av fåraka och pålitliga personer på den här nivån, orädd och generös.
+Peter Dalle och jag börjar bolla idéer. Jag ringer en nära vän och filmproducent, Christer Abrahamsen på Cinema Art, en av få raka och pålitliga personer på den här nivån, orädd och generös.
 :::
 
 Fotnot: Vid den här tidpunkten är filmbranschen full av skrupelfria månglare som lurar skjortan av allt och alla över allt: *”Kolla så du har handen kvar när du har hälsat på en producent.”** *

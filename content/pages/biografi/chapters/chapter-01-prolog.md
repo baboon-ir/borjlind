@@ -21,6 +21,8 @@
 :::
 ::: center
 ## prolog
+
+juni 2020
 :::
 
 Jag sitter i mitt arbetshus i skärgården och tittar utöver en liten insjö. Längre ut, i den stora världen, sveper ett virus över jorden. Härinne är det dags att städa.
@@ -73,7 +75,7 @@ Jag vill helt enkelt följa mig själv så tätt det går, *folkhemsterroristen*
 Jag bestämmer mig också för att berättelsen ska inkludera det 33 år långa kulturprojektet Happy Cousins, som en tribut till min kusin Carsten Regild.
 :::
 
-Reflektion: Jag har aldrig blickat bakåt. Nånsin. Aldrig grävt i det passerade. Alltid varit totalt ointresserad av mitt ursprung. Aldrig fascinerats av släktforskning. Nu måste jag drunkna en aning, sjunka ner i det förflutna utan flytväst, ekoloda i det förgångna.
+Reflektion: Jag har aldrig blickat bakåt. Nånsin. Aldrig grävt i det förflutna. Alltid varit totalt ointresserad av mitt ursprung. Aldrig fascinerats av släktforskning. Nu måste jag drunkna en aning, sjunka ner i det förflutna utan flytväst, ekoloda i det förgångna.
 ::: indent  
 Det är inte helt angenämt.
 :::

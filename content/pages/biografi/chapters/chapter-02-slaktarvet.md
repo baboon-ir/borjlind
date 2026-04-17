@@ -46,7 +46,7 @@ Eller enkelt uttryckt: take it or leave it.
 ![CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/52.png)
 
 ::: poem
-**Tre år innan jag föds fäller nazisterna en bomb i Slottsparken i Malmö.**
+**Tre år innan jag föds tappar nazisterna en bomb i Slottsparken i Malmö.**
 
 **Året är 1940 och Sverige hukar.**
 

@@ -73,11 +73,9 @@ Kanske bra på gravstenen? tänker jag och går mot dom gula taxibilarna. Bruno 
 
 ::: indent
 Vi sätter oss i en taxi, åker längs en ångande asfaltsremsa in mot San Francisco,
-:::
-
 tanken är att vi ska hänga några dar här, träffa folk, sen hyra en bil och dra söderut. Bruno har fått fram en del adresser till underground förlag på västkusten.
 ::: indent
-Vi åker direkt till det legendomsusade Vesuvio Café på Columbus Avenue, North Beach. En mycket vacker bar, inpyrd, träinredning, speglar, med småskyltar var Jack Kerouac och Neil Cassady brukade sitta. Det är nästan fullsatt när vi kommer, nästan bara litterärt syre. Namn viner genom luften. Corso, Patchen, Burroughs, Ginsberg, Waldman. City Lights. Vid ett fönsterbord sitter poeten Lawrence Ferlinghetti och spelar schack.
+Vi åker direkt till det legendomsusade Vesuvio Café på Columbus Avenue, North Beach. En mycket vacker bar, inpyrd, träinredning, speglar, med små skyltar där Jack Kerouac och Neil Cassady brukade sitta. Det är nästan fullsatt när vi kommer, nästan bara litterärt syre. Namn viner genom luften. Corso, Patchen, Burroughs, Ginsberg, Waldman. City Lights. Vid ett fönsterbord sitter poeten Lawrence Ferlinghetti och spelar schack.
 :::
 
 ::: indent
@@ -123,7 +121,7 @@ Vad skönt.
 
 Sitter på kinasyltan med Zekeli. Det är dunkelt, tyst, ingen musik, underliga ögon över borden. Bruno dyker inte upp. Zekeli sätter en dollar på att han redan har mördats på Skyway Hotel (det ligger inklämt mellan en spelhall och en bordell).
 ::: indent
-– Det är slarvigt att gåoch mördas just innan vi ska dela hyrbil, det är oekonomiskt, säger han.
+– Det är slarvigt att gå och mördas just innan vi ska dela hyrbil, det är oekonomiskt, säger han.
 :::
 
 ::: indent
@@ -135,10 +133,7 @@ Två timmar senare förlorar han vadet. Bruno kommer. Vi tittar på menyn. Zekel
 :::
 
 ::: indent
-Jag beställer en räkrätt och sätter mig i baren. Börjar prata med den avskalade flickan bakom disken, noterar hennes våldsamma ärr på ena underarmen, hennes tunga är blå. Hon är 25 år, har surfat sen hon var sex, påstår att hon har drunknat
-:::
-
-två gånger. Hon gillar en enda sak: att plocka snäckor på Stilla Havets stränder. ”Min man är alldeles för intelligent. Han säger att jag är korkad. Jag vaknar varje morgon för att bevisa att han har fel.”
+Jag beställer en räkrätt och sätter mig i baren. Börjar prata med den avskalade flickan bakom disken, noterar hennes våldsamma ärr på ena underarmen, hennes tunga är blå. Hon är 25 år, har surfat sen hon var sex, påstår att hon har drunknat två gånger. Hon gillar en enda sak: att plocka snäckor på Stilla Havets stränder. ”Min man är alldeles för intelligent. Han säger att jag är korkad. Jag vaknar varje morgon för att bevisa att han har fel.”
 ::: indent
 Jag sätter mig vid bordet igen. En kinesisk servitris kommer fram. Zekeli frågar henne:
 :::
@@ -182,7 +177,7 @@ En kinesisk servitör dyker upp med mat i händerna. Han ser iskall ut, rör int
 :::
 
 ::: indent
-Vi dricker ur och reser oss. Bruno slänger en servett på golvet för att markera distans, en gråråtta är snabbt framme och hugger smulorna. Tvåkvinnor hoppar upp på dom klassiska barstolarna och skriker konstiga ord. Vi hastar genom vestibulen, ut i Chinatown och skiljsåt. Det sista jag hör är Zekeli som halvskriker: ”Detta är ett sår som saknar skorpa!”
+Vi dricker ur och reser oss. Bruno slänger en servett på golvet för att markera distans, en grå råtta är snabbt framme och hugger smulorna. Två kvinnor hoppar upp på dom klassiska barstolarna och skriker konstiga ord. Vi hastar genom vestibulen, ut i Chinatown och skiljs åt. Det sista jag hör är Zekeli som halvskriker: ”Detta är ett sår som saknar skorpa!”
 :::
 
 ::: indent
@@ -226,7 +221,7 @@ Lilla Eva Lost.
 :::
 
 ::: indent
-Vem tog dig ur barnkroppen i Amsterdam? Vem skändade dina sagor och din mjuka napp? Vem lockade dig till den nya världen, vem dränkte dig i San Francisco? Vem bryr sig om dig och dina billiga tjänster på Savoy? Du längtar till Reymersholme. Spritfabriken är nerlagd, mamma är död, arvet är borta, allt du har kvar är den uppsvälldaångesten och det fanatiskt förgyllda minnet av en enda sommar, på Gräsö.
+Vem tog dig ur barnkroppen i Amsterdam? Vem skändade dina sagor och din mjuka napp? Vem lockade dig till den nya världen, vem dränkte dig i San Francisco? Vem bryr sig om dig och dina billiga tjänster på Savoy? Du längtar till Reymersholme. Spritfabriken är nerlagd, mamma är död, arvet är borta, allt du har kvar är den uppsvällda ångesten och det fanatiskt förgyllda minnet av en enda sommar, på Gräsö.
 :::
 
 ::: indent
@@ -244,7 +239,7 @@ Dina ögon svider när du berättar. En enda sommar i ditt liv, en enda sommar p
 :::
 
 ::: indent
-Ja, Lilla Eva Lost. Visst. Du jobbar på sjukhus, du jobbar på ett av världens största och äldsta sjukhus. Du tar hand om dom verkligt nerstyckade. Du tar hand om dom som staden inte klarar, dom som inte klarar staden. Du tar in dom i ditt trånga tjänsterum och ger dom en paus, den återbäring dom betalat för, du ger dom en sällsynt osentimental vård och hela tiden medan du läker deras rinnande sår tänker du på strandkanten på Gräsöd är du och han kastade dessa platta stenar och skrattade dessa osannolika skratt och höll dessa osargade händer i varann och lekte dessa oskyldiga lekar som så småningom blev ditt yrke.
+Ja, Lilla Eva Lost. Visst. Du jobbar på sjukhus, du jobbar på ett av världens största och äldsta sjukhus. Du tar hand om dom verkligt nerstyckade. Du tar hand om dom som staden inte klarar, dom som inte klarar staden. Du tar in dom i ditt trånga tjänsterum och ger dom en paus, den återbäring dom betalat för, du ger dom en sällsynt osentimental vård och hela tiden medan du läker deras rinnande sår tänker du på strandkanten på Gräsö där du och han kastade dessa platta stenar och skrattade dessa osannolika skratt och höll dessa osargade händer i varann och lekte dessa oskyldiga lekar som så småningom blev ditt yrke.
 :::
 
 ::: indent
@@ -260,7 +255,7 @@ Lilla Eva Lost.
 :::
 
 ::: indent
-Du bryter upp med en viskning, dödar ett leende, trycker en kallsvettig hand mot min över arm, blundar, rusar ut på Columbus, halvspringer med dina otäckta bröst spelande för alla patienter längs Lower Brodway och jag vet vad du tänker på och jag vet att jag ska bevara dig och behålla dig. Jag vet att jag ska återupprätta bilden av ditt Gräsö och kanske nån gång återbörda resterna av dig till strandkanten som drivved, åldrad och förädlad, vacker och fri.
+Du bryter upp med en viskning, dödar ett leende, trycker en kallsvettig hand mot min överarm, blundar, rusar ut på Columbus, halvspringer med dina otäckta bröst spelande för alla patienter längs Lower Brodway och jag vet vad du tänker på och jag vet att jag ska bevara dig och behålla dig. Jag vet att jag ska återupprätta bilden av ditt Gräsö och kanske nån gång återbörda resterna av dig till strandkanten som drivved, åldrad och förädlad, vacker och fri.
 :::
 
 ::: indent
@@ -270,7 +265,7 @@ Lilla Eva Lost.
 ::: part
 :::
 
-Nattbar, klockan är över två, Bruno har försvunnit till hotellet, jag och Zekeli har hamnat här: En jättelik svart bög med långa lackade naglar, tigerskjorta och sidenjacka, mörkröd scarf och guldarmband, kokain i en liten guldboett. En mörk prostituerad kvinna med teatermask till ansikte och det hårda håret virat till en svart, styv piska. Tvåstenade vita offer intill. Det skarpa fotot av en uppstoppad papegoja vid baren, en äldre man som gråter mellan cigaretterna och dunkar en konstgjord arm i ståldisken.
+Nattbar, klockan är över två, Bruno har försvunnit till hotellet, jag och Zekeli har hamnat här: En jättelik svart bög med långa lackade naglar, tigerskjorta och sidenjacka, mörkröd scarf och guldarmband, kokain i en liten guldboett. En mörk prostituerad kvinna med teatermask till ansikte och det hårda håret virat till en svart, styv piska. Två stenade vita offer intill. Det skarpa fotot av en uppstoppad papegoja vid baren, en äldre man som gråter mellan cigaretterna och dunkar en konstgjord arm i ståldisken.
 ::: indent
 En bit bort sitter Zekeli med en brun påse med tequila i, smygsuper, vit muscadet i en annan påse, varvar klunkarna, mumlar underliga saker... ”också maskarna har ett jordeliv, bara vi förser dom med lik”... en klunk tequila, en klunk muscadet ...”kärleken är bara ett genrep för ett mycket större genrep” ...
 :::
@@ -302,15 +297,15 @@ Kommer fram till bron, tittar utöver vattnet. Fyren på Alcatraz blinkar genom 
 :::
 
 ::: indent
-Parentes: För tioår sen, hösten 1969, ockuperades Alcatraz av en grupp natives som utropade en egen stat. Plötsligt förklarades fängelset för nationalpark av myndigheterna, all el och färskvatten stängdes av. Gruppen blev kvar i nära tvåår, tills 20 beväpnade sheriffer landsteg och tvingade dom att ge upp.
+Parentes: För tio år sen, hösten 1969, ockuperades Alcatraz av en grupp natives som utropade en egen stat. Plötsligt förklarades fängelset för nationalpark av myndigheterna, all el och färskvatten stängdes av. Gruppen blev kvar i nära två år, tills 20 beväpnade sheriffer landsteg och tvingade dom att ge upp.
 :::
 
 ::: indent
-Jag går ner till kajen och väntar på en färja, hundratals Friscobor är samlade, lika avskärmade och frustrerade som en systemköföre midsommar. Dom glor på varann genom spräckta, svettiga kikare och gnuggar sina bedövade kroppar mot varann och vrålar inombords som cancersjuka lejonungar och då kommer han plötsligt fram. På den tomma, avspärrade fyrkanten framför båtens avstigningsramp. Vigt kliver han över repen och ställer sig ensam i fyrkanten, sminkar snabbt och rutinerat sitt bruna ansikte rött och vitt, plockar upp en sidenkostym ur tygväskan, sätter på sig en polismössa och börjar hänsynslöst spela upp en blodig pantomim om polisens förhållande till allmänheten.
+Jag går ner till kajen och väntar på en färja, hundratals Friscobor är samlade, lika avskärmade och frustrerade som en systemkö före midsommar. Dom glor på varann genom spräckta, svettiga kikare och gnuggar sina bedövade kroppar mot varann och vrålar inombords som cancersjuka lejonungar och då kommer han plötsligt fram. På den tomma, avspärrade fyrkanten framför båtens avstigningsramp. Vigt kliver han över repen och ställer sig ensam i fyrkanten, sminkar snabbt och rutinerat sitt bruna ansikte rött och vitt, plockar upp en sidenkostym ur tygväskan, sätter på sig en polismössa och börjar hänsynslöst spela upp en blodig pantomim om polisens förhållande till allmänheten.
 :::
 
 ::: indent
-Och sakta, motsträvigt, gnisslande, låser han upp hela nervmassan och lockar och pockar och får enstaka skratt och snabba tillfrisknade blickar från den stumma hopen. Plötsligt har alla börjat titta på varann, som delaktiga i samma liv, plötsligt har alla börjat uppleva värme och flingor av gemenskap. Den lille stumme mannen i den ensamma fyrkanten har genom att bjuda på sig själv tagit över alla deras identiteter, trätt in i deras skamsna kroppar och blivit deras ställ för eträdande känslor - applåderna när båten kommer är ovationsartade. Mannen plockar snabbt ihop sina artiklar, försvinner ut på parkeringsplatsen med sitt vita och röda teaterspel.
+Och sakta, motsträvigt, gnisslande, låser han upp hela nervmassan och lockar och pockar och får enstaka skratt och snabba tillfrisknade blickar från den stumma hopen. Plötsligt har alla börjat titta på varann, som delaktiga i samma liv, plötsligt har alla börjat uppleva värme och flingor av gemenskap. Den lille stumme mannen i den ensamma fyrkanten har genom att bjuda på sig själv tagit över alla deras identiteter, trätt in i deras skamsna kroppar och blivit deras ställföreträdande känslor - applåderna när båten kommer är ovationsartade. Mannen plockar snabbt ihop sina artiklar, försvinner ut på parkeringsplatsen med sitt vita och röda teaterspel.
 :::
 
 ::: indent
@@ -333,7 +328,7 @@ Jag ska hälsa på en kvinnlig bekant till en kvinnlig bekant i Sverige. Mest f�
 
 <!-- PAGE 89 START -->
 ::: indent
-Den vackra träverandan, dom estetiska, välbalanserade tavlorna, dom kliniskt rena fotografierna, kvinnornas trevande, osäkra rörelser, hela detta emotionella koncentrationsläger som fäster mig mot exekutionsväggen direkt när jag kommer in. Deras servila samtal som får mig att svettas av olust. Vad har jag i deras läger att göra? Jag kommer in mitt i en slutuppgörelse, tvåkvinnliga statyer i färd med att slita stenarna ur varann under ömsesidiga smekningar, jag själv som en främmande krockkudde mellan dom ... jag sitter i en designad fåtölj och önskar att det var en katapult, den enda värme som finns i rummet kommer från porslinshunden vid alabasterlampan.
+Den vackra träverandan, dom estetiska, välbalanserade tavlorna, dom kliniskt rena fotografierna, kvinnornas trevande, osäkra rörelser, hela detta emotionella koncentrationsläger som fäster mig mot exekutionsväggen direkt när jag kommer in. Deras servila samtal som får mig att svettas av olust. Vad har jag i deras läger att göra? Jag kommer in mitt i en slutuppgörelse, två kvinnliga statyer i färd med att slita stenarna ur varann under ömsesidiga smekningar, jag själv som en främmande krockkudde mellan dom ... jag sitter i en designad fåtölj och önskar att det var en katapult, den enda värme som finns i rummet kommer från porslinshunden vid alabasterlampan.
 :::
 
 ::: indent
@@ -341,7 +336,7 @@ En av kvinnorna vänder sig mot mig:
 :::
 
 ::: indent
-– President Truman drack en flaska Black Label om dan. Först ville han bli missionär. Dåsa hans lärare: ”Dåmåste du sluta dricka.”Dåbestämde han sig för att bli president.
+– President Truman drack en flaska Black Label om dan. Först ville han bli missionär. Då sa hans lärare: “Då måste du sluta dricka.” Då bestämde han sig för att bli president.
 :::
 
 ::: indent
@@ -349,7 +344,7 @@ Den andra kvinnan rör inte en min. Jag vet inte hur jag ska reagera. Varför be
 :::
 
 ::: indent
-Den mörka, lummiga bakgården, huset på sina smala träpålar, hela denna organiska labyrint som när som helst ska rasa samman över deras förtvivlade kärlek. Vi röker en joint, tar bilen ner till den berömda loppmarknaden ute vid kajen, går stilla runt bland dessa hav av förbrukade fetischer. Jag köper ett par begagnade jeans för 5 dollar och tvåsilverringar med smågröna stenar, står och betraktar ett nyputsat nazikors, försäljaren börjar titta på mig med irrande pupiller och svettig händer, hans mun får ett underligt snett drag, det rycker i ena kinden, en dold liten muskel börjar slita i ena ögonlocket. Jag släpper korset och köper en bok om antika stolar, en av kvinnorna köper 26 gamla stämplar och en stämpeldyna, hundarna piskas i bakgrunden för skojs skull och vi lämnar dammet och hettan och kör upp till den svala stiltjen igen.
+Den mörka, lummiga bakgården, huset på sina smala träpålar, hela denna organiska labyrint som när som helst ska rasa samman över deras förtvivlade kärlek. Vi röker en joint, tar bilen ner till den berömda loppmarknaden ute vid kajen, går stilla runt bland dessa hav av förbrukade fetischer. Jag köper ett par begagnade jeans för 5 dollar och två silverringar med små gröna stenar, står och betraktar ett nyputsat nazikors, försäljaren börjar titta på mig med irrande pupiller och svettig händer, hans mun får ett underligt snett drag, det rycker i ena kinden, en dold liten muskel börjar slita i ena ögonlocket. Jag släpper korset och köper en bok om antika stolar, en av kvinnorna köper 26 gamla stämplar och en stämpeldyna, hundarna piskas i bakgrunden för skojs skull och vi lämnar dammet och hettan och kör upp till den svala stiltjen igen.
 :::
 
 ::: indent
@@ -384,11 +379,11 @@ Så lite behövs det, en påtänd chaffis.
 <!-- PAGE 90 START -->
 Vi bjuds på ostronparty hemma hos en kulturell dignitet, en poet och affärsman. “What I can buy doesn't interest me.”Vi kommer in i en stor, äldre våning. Jag tittar mig omkring. Trendsatt miljö, allt fel på rätt plats, speglar slår sönder alla perspektiv, palmer och modellflygplan, sorl, välrepeterad stämning: art deco!
 ::: indent
-Jag är redan trött och får en drink i en silverkupa, en mycket liten drink som luktar tvål. Jag dricker försiktigt, byter namn med tvåchica flickor: den ena tror påkot för skjutning, den andra försvinner direkt.
+Jag är redan trött och får en drink i en silverkupa, en mycket liten drink som luktar tvål. Jag dricker försiktigt, byter namn med två chica flickor: den ena tror på kotförskjutning, den andra försvinner direkt.
 :::
 
 ::: indent
-Kvällens värd är brunbränd och pastellklädd, glider runt på erotiska kullager med småsmäckra guldringar i bröstvårtorna. Han utstrålar en mycket flexibel leda och serverar småhandrullade cigaretter från ett välputsat glasfat: det är ingen vanlig sätesbjudning. Jag ser att Bruno ser, våra ögonkast håller hårt om varandra. Vi tänder varsin cigarett (vad vi inte anar är att dom smågiftpinnarna har doppats i en eller annan mycket illegal kemisk substans, det ska snart bli uppenbart för mig).
+Kvällens värd är brunbränd och pastellklädd, glider runt på erotiska kullager med små smäckra guldringar i bröstvårtorna. Han utstrålar en mycket flexibel leda och serverar småhandrullade cigaretter från ett välputsat glasfat: det är ingen vanlig sätesbjudning. Jag ser att Bruno ser, våra ögonkast håller hårt om varandra. Vi tänder varsin cigarett (vad vi inte anar är att dom smågiftpinnarna har doppats i en eller annan mycket illegal kemisk substans, det ska snart bli uppenbart för mig).
 :::
 
 ::: indent
@@ -396,7 +391,7 @@ Jag röker, långsamt ... Bruno röker. Alla röker, utom en äldre bastant kvin
 :::
 
 ::: indent
-Plötsligt drar snaran till, svålen torkar ihop, omgivningen stansas ut, varelserna glider in i ett rosa vaxkabinett, mekaniska dockor rör sig genom dimma, rösterna tunnas ut, ljuden rymmer in i högtalarna, överspända fåglar dånar genom rummet … och jag börjar ana. Mjuka, smidiga djur tränger ut mellan bambupelarna, kvällens värd citerar klassiska floskler om nödvändigheten av en dialog, småblodiga grodor samlas i hans händer.
+Plötsligt drar snaran till, svålen torkar ihop, omgivningen stansas ut, varelserna glider in i ett rosa vaxkabinett, mekaniska dockor rör sig genom dimma, rösterna tunnas ut, ljuden rymmer in i högtalarna, överspända fåglar dånar genom rummet … och jag börjar ana. Mjuka, smidiga djur tränger ut mellan bambupelarna, kvällens värd citerar klassiska floskler om nödvändigheten av en dialog, små blodiga grodor samlas i hans händer.
 :::
 
 ::: indent
@@ -408,17 +403,17 @@ Kristallvasen mellan mina ben vidgar sig, rummet exploderar, mellan flisorna ser
 :::
 
 ::: indent
-Jag låser toalettdörren, sätter mig på en porslinskant, skruvar på vattnet. Ur kranen rinner brunt hår med småfragment av skal i. Jag börjar förstå. Jag borde ha förstått från början. Från första handpåläggningen. Deras mycket vänliga sätt, deras onormala intresse, deras smidiga komplimanger om min betydelse för den allmänna vanvården, uppgiften om sjön där dom påstod sig kunna locka upp vita kräftor vid fullmåne. Jag borde ha reagerat. Allt var planerat, allt var steg i en uppgjord rit: jag är gäst hos en sekt. Jag är utsedd. Deras Gud heter Ostron. Deras slaktoffer är jag, en kropp med två småhuvuden, vända från varann. Svaga metalljud börjar tränga in. Jag försöker andas, försöker räkna lungornas rörelser. Därute byggs ett altare av vrakdelarna från en störtad polishelikopter, en katafalk av skottsäker backelit. Det är på den jag ska färdas genom kulverten, förbi deras dreglande hundar, rakt ner i deras berömda sarkofag. Jag lyfter på huvudet. Jag har bestämt mig för att se. Jag blundar. Jag vet att mitt ansikte är i höjd med badrumsspegeln. Jag öppnar ögonen och tittar rakt fram. Grålera rinner över spegelglaset, två ögon i leran, på väg åt olika håll. Jag söker munnen, lyfter höger hand för att röra vid läpparna. Jag känner vassa klor som kratsar över kinden, jag upprepar mitt namn, högt. Jag börjar nynna på en nordisk folkvisa. Jag tänker på fosterlandet, på mentalvårdare som knullar efterblivna i munnen. Det enda som oroar mig är min svarta stjärntatuering på höger över arm: den är borta.
+Jag låser toalettdörren, sätter mig på en porslinskant, skruvar på vattnet. Ur kranen rinner brunt hår med småfragment av skal i. Jag börjar förstå. Jag borde ha förstått från början. Från första handpåläggningen. Deras mycket vänliga sätt, deras onormala intresse, deras smidiga komplimanger om min betydelse för den allmänna vanvården, uppgiften om sjön där dom påstod sig kunna locka upp vita kräftor vid fullmåne. Jag borde ha reagerat. Allt var planerat, allt var steg i en uppgjord rit: jag är gäst hos en sekt. Jag är utsedd. Deras Gud heter Ostron. Deras slaktoffer är jag, en kropp med två småhuvuden, vända från varann. Svaga metalljud börjar tränga in. Jag försöker andas, försöker räkna lungornas rörelser. Därute byggs ett altare av vrakdelarna från en störtad polishelikopter, en katafalk av skottsäker backelit. Det är på den jag ska färdas genom kulverten, förbi deras dreglande hundar, rakt ner i deras berömda sarkofag. Jag lyfter på huvudet. Jag har bestämt mig för att se. Jag blundar. Jag vet att mitt ansikte är i höjd med badrumsspegeln. Jag öppnar ögonen och tittar rakt fram. Grå lera rinner över spegelglaset, två ögon i leran, på väg åt olika håll. Jag söker munnen, lyfter höger hand för att röra vid läpparna. Jag känner vassa klor som kratsar över kinden, jag upprepar mitt namn, högt. Jag börjar nynna på en nordisk folkvisa. Jag tänker på fosterlandet, på mentalvårdare som knullar efterblivna i munnen. Det enda som oroar mig är min svarta stjärntatuering på höger överarm: den är borta.
 :::
 <!-- PAGE 90 END -->
 
 <!-- PAGE 91 START -->
 ::: indent
-Jagöppnar dörren. Ska jag slaktas vill jag veta vad som händer med Bruno. Är han ocksåinvigd? Har han ställt upp som lockfågel? Är hela denna tillställning planerad utifrån? I förväg? Av alla som vill plantera en iskniv mellan mina skulderblad? Har Bruno hatat mig hela tiden? Men vår lilla hemlighet då?
+Jag öppnar dörren. Ska jag slaktas vill jag veta vad som händer med Bruno. Är han också invigd? Har han ställt upp som lockfågel? Är hela denna tillställning planerad utifrån? I förväg? Av alla som vill plantera en iskniv mellan mina skulderblad? Har Bruno hatat mig hela tiden? Men vår lilla hemlighet då?
 :::
 
 ::: indent
-Bruno ler när jag kliver in i rummet. Alla ler. Jag ler, och känner hur ett par hudbitar viker sig över framtänderna. Alla skrattar, skickligt, ingenting har lämnatsåt slumpen. Detta är bara början, inser jag.
+Bruno ler när jag kliver in i rummet. Alla ler. Jag ler, och känner hur ett par hudbitar viker sig över framtänderna. Alla skrattar, skickligt, ingenting har lämnats åt slumpen. Detta är bara början, inser jag.
 :::
 
 ::: indent
@@ -434,11 +429,11 @@ Jag ser mycket frågande ut.
 :::
 
 ::: indent
-– ... den sjunde draken vände sig till sin hustru och sa, i det han borstade bort ett moln ur hennes hår: Om du tror att såd är lite kol ska räcka för vintern, såborde du låta ruta om dina fjäll!
+– ... den sjunde draken vände sig till sin hustru och sa, i det han borstade bort ett moln ur hennes hår: Om du tror att så där lite kol ska räcka för vintern, så borde du låta ruta om dina fjäll!
 :::
 
 ::: indent
-Jag ser fortfarande mycket frågande ut. Kvinnan skrattar högt. Alla skrattar. Hennes våta tunga jagar en ström för ande injektionsnål genom min hjärnbark, lukten av svedda celler svävar utöver ostronbordet. Jag skrattar.
+Jag ser fortfarande mycket frågande ut. Kvinnan skrattar högt. Alla skrattar. Hennes våta tunga jagar en strömförande injektionsnål genom min hjärnbark, lukten av svedda celler svävar utöver ostronbordet. Jag skrattar.
 :::
 
 ::: indent
@@ -458,7 +453,7 @@ Jag behöver vatten, reser mig, går mot hallen igen. Plötsligt står den kvinn
 :::
 
 ::: indent
-Jag ler. Hon kysser mig. Hennes läppar är frusna fiskar som skrapar mot mitt tandkött. Honöppnar en dörr bakom sig, drar in mig, stänger dörren. Jag hör en ambulans genom fönstret, eller är det ett flyglarm? Försent, tänker jag. Påväggen sitter ett par korslagda lårpipor. Kvinnan vänder sig mot fönstret, lutar sig mot det, hennes kjol glider upp över skinkorna. Hon har inga trosor, hon är vit, har ljust krulligt hår i rännan.
+Jag ler. Hon kysser mig. Hennes läppar är frusna fiskar som skrapar mot mitt tandkött. Hon öppnar en dörr bakom sig, drar in mig, stänger dörren. Jag hör en ambulans genom fönstret, eller är det ett flyglarm? Försent, tänker jag. På väggen sitter ett par korslagda lårpipor. Kvinnan vänder sig mot fönstret, lutar sig mot det, hennes kjol glider upp över skinkorna. Hon har inga trosor, hon är vit, har ljust krulligt hår i rännan.
 :::
 
 ::: indent
@@ -468,7 +463,7 @@ Jag ler. Hon kysser mig. Hennes läppar är frusna fiskar som skrapar mot mitt t
 
 <!-- PAGE 92 START -->
 ::: indent
-Jag svarar inte. Hon vänder sig om, för sin hand längs ett av sina lår. Jag sneglar mot benpiporna på väggen och inser hur skickligt dom har lagt upp det. Hon är onekligen läcker, fast byst, klara kåta ögon, angelägen, på det där över åriga sättet. Hon ställer sig med ansiktet mot väggen igen, trycker ut underlivet, smackar lite. Hon borde skriva poesi, tänker jag, skriva om en grå bläckfisk på lakanet. Hennes underliv viks ut ytterligare, hon särar en decimeter på benen, två, en halvmeter.
+Jag svarar inte. Hon vänder sig om, för sin hand längs ett av sina lår. Jag sneglar mot benpiporna på väggen och inser hur skickligt dom har lagt upp det. Hon är onekligen läcker, fast byst, klara kåta ögon, angelägen, på det där överåriga sättet. Hon ställer sig med ansiktet mot väggen igen, trycker ut underlivet, smackar lite. Hon borde skriva poesi, tänker jag, skriva om en grå bläckfisk på lakanet. Hennes underliv viks ut ytterligare, hon särar en decimeter på benen, två, en halvmeter.
 :::
 
 ::: indent
@@ -488,7 +483,7 @@ Jag knäpper igen byxorna och går mot dörren. Kvinnan rätar på sig och säge
 :::
 
 ::: indent
-– Innan du går måste jag fåtala om för dig, vilken märkligt vacker röst du har. Var kommer du ifrån?
+– Innan du går måste jag få tala om för dig, vilken märkligt vacker röst du har. Var kommer du ifrån?
 :::
 
 ::: indent
@@ -499,7 +494,7 @@ Jag knäpper igen byxorna och går mot dörren. Kvinnan rätar på sig och säge
 Bruno tittar på mig.
 :::
 
-Vi skiljs vid St Pauls. Jag tar mig upp på rummet, in i badrummet, spolar på varmvattnet och ser det slurpa ner i hålet med ett gurglande grin, den gula toalettsitsen skrattar mot mina röda ögon. Jag vägrar att öppna den blådelen av min arm. Jag lägger ett antal små, vita, fyrkantiga handdukar på golvet, som ett hemligt spel av sidenmosaik och börjar dansa, tyst, hela natten.
+Vi skiljs vid St Pauls. Jag tar mig upp på rummet, in i badrummet, spolar på varmvattnet och ser det slurpa ner i hålet med ett gurglande grin, den gula toalettsitsen skrattar mot mina röda ögon. Jag vägrar att öppna den blå delen av min arm. Jag lägger ett antal små, vita, fyrkantiga handdukar på golvet, som ett hemligt spel av sidenmosaik och börjar dansa, tyst, hela natten.
 
 När jag vaknar på badrumsgolvet ser jag taket och duschen. Och en tvål på golvet som jag känner igen. Den är blå. Dörren ser helt normal ut. Jag reser mig. Ansiktet i spegeln är mitt. Härjat, men mitt. Jag är tillbaka.
 ::: indent
@@ -517,7 +512,7 @@ Men jag minns varenda detalj.
 ::: part
 :::
 
-Bruno och jag spelar schack på Vesuvio Café. Vi är ganska jämna (många år senare är Bruno totalt över lägsen ... vad hände?). En flicka med svullnaörsnibbar kommer fram till bordet:
+Bruno och jag spelar schack på Vesuvio Café. Vi är ganska jämna (många år senare är Bruno totalt överlägsen ... vad hände?). En flicka med svullna örsnibbar kommer fram till bordet:
 ::: indent
 – Ni ska ut på en resa, hörde jag. Vart ska ni?
 :::
@@ -535,7 +530,7 @@ Hon pratar hänfört och tonlöst.
 :::
 
 ::: indent
-– Bara ruiner och torkade svampar och alla mexare är bögar, det är toppenkul! Härär det hemskt. Ni vet väl vad Barry Goldwater sa: ”Kvinnan har rätt till samma lön som mannen för samma jobb, så länge hon hinner hem och laga middag.”
+– Bara ruiner och torkade svampar och alla mexare är bögar, det är toppenkul! Här är det hemskt. Ni vet väl vad Barry Goldwater sa: ”Kvinnan har rätt till samma lön som mannen för samma jobb, så länge hon hinner hem och laga middag.”
 :::
 
 ::: indent
@@ -550,9 +545,9 @@ Sen går hon därifrån. Vi tittar på varann.
 <!-- PAGE 93 START -->
 ---
 
-Sista natten på St Pauls: Genom väggen dör en svart man av lungsot. Dom skrikande strupljuden tränger genom plankorna och veckar hotelltapeten till en blommig servett. Ljuden av en kropp i sin sista kamp, med upphostade blaffor över hela bröstet och tvåensamma händer slagna som klor runt sängstolparna och en aldrig rengjord persienn sänkt för ljuset och en lukt som tränger genom springorna och hålen och blandar sig i luften som strimmor av kadaverstank.
+Sista natten på St Pauls: Genom väggen dör en svart man av lungsot. Dom skrikande strupljuden tränger genom plankorna och veckar hotelltapeten till en blommig servett. Ljuden av en kropp i sin sista kamp, med upphostade blaffor över hela bröstet och två ensamma händer slagna som klor runt sängstolparna och en aldrig rengjord persienn sänkt för ljuset och en lukt som tränger genom springorna och hålen och blandar sig i luften som strimmor av kadaverstank.
 ::: indent
-Jag försöker vända mig och somna om. Jag skruvar upp den tecknade serien och dricker tequila och vräker upp Springsteen iöronen och allt jag hör och allt jag ser och allt jag känner är mannen och mannens sista pumpande sekunder en meter ifrån mig med en brädtunn evighet mellan oss.
+Jag försöker vända mig och somna om. Jag skruvar upp den tecknade serien och dricker tequila och vräker upp Springsteen i öronen och allt jag hör och allt jag ser och allt jag känner är mannen och mannens sista pumpande sekunder en meter ifrån mig med en brädtunn evighet mellan oss.
 :::
 
 ::: indent
@@ -596,7 +591,7 @@ Silverkungen har servostyrning, servobroms, automatväxel. Jag sitter med tummen
 
 <!-- PAGE 94 START -->
 ::: indent
-Vi kommer fram till Santa Cruz när det är mörkt. Bruno har fått en adress till poeten George Hitchcock. Ocean View Aveny 325. Slår upp hans telefonnummer på en bensinmack. Ringer honom. Han ber oss kommaöver. Bor i en fantastisk, stor trävilla i en grönskande trädgård. Han är stor. Han är gammal. Han är vänlig. Han bjuder in oss i det stora huset. Där sitter en man i 35-årsåldern, John Paul, med svart hår i en lång hästsvans. Han saknar ben och spelar på ett hemmagjort dragspel.
+Vi kommer fram till Santa Cruz när det är mörkt. Bruno har fått en adress till poeten George Hitchcock. Ocean View Aveny 325. Slår upp hans telefonnummer på en bensinmack. Ringer honom. Han ber oss komma över. Bor i en fantastisk, stor trävilla i en grönskande trädgård. Han är stor. Han är gammal. Han är vänlig. Han bjuder in oss i det stora huset. Där sitter en man i 35-årsåldern, John Paul, med svart hår i en lång hästsvans. Han saknar ben och spelar på ett hemmagjort dragspel.
 :::
 
 ::: indent
@@ -620,11 +615,11 @@ Han har hört en skiva på 30-talet med Jularbo. Han är musiker och bor i ett k
 :::
 
 ::: indent
-George visar oss en massa poesi. Böcker. Tidskrifter. Hans fru kommer, Kvinnan med det okända namnet, hon har varit nere på stranden för att plocka frukter. Hon är trött. Hon hälsar lite slött och går och lägger sig. I taket hänger en fågelbur av trämed en död fågel i. Dagen innan har fiskarna i trädgårdsdammen dött.”Algerna tog dom.” Nu har dom anställt en arbetslös student för att rensa dammen och sätta dit nya fiskar.
+George visar oss en massa poesi. Böcker. Tidskrifter. Hans fru kommer, Kvinnan med det okända namnet, hon har varit nere på stranden för att plocka frukter. Hon är trött. Hon hälsar lite slött och går och lägger sig. I taket hänger en fågelbur av trä med en död fågel i. Dagen innan har fiskarna i trädgårdsdammen dött.”Algerna tog dom.” Nu har dom anställt en arbetslös student för att rensa dammen och sätta dit nya fiskar.
 :::
 
 ::: indent
-George frågar om vi vill sovaöver.
+George frågar om vi vill sova över.
 :::
 
 ::: indent
@@ -632,7 +627,7 @@ George frågar om vi vill sovaöver.
 :::
 
 ::: indent
-Han bjuder påost. Vi hämtar in vår tequila. Han dricker inte. Han är trött. Han har tvågolvur som slår klockan 12 med fantastiska slag, inställda så att det ena uret tar vid när det andra slutar. I hans vardagsrum står en sorteringsmaskin. Exakt en likadan som den vi hade när vi gjorde Kulturmagasinet Vargen. Jag berättar om Vargen och säger att vi slutade efter tvåår.
+Han bjuder på ost. Vi hämtar in vår tequila. Han dricker inte. Han är trött. Han har två golvur som slår klockan 12 med fantastiska slag, inställda så att det ena uret tar vid när det andra slutar. I hans vardagsrum står en sorteringsmaskin. Exakt en likadan som den vi hade när vi gjorde Kulturmagasinet Vargen. Jag berättar om Vargen och säger att vi slutade efter två år.
 :::
 
 ::: indent
@@ -652,7 +647,7 @@ Han har startat ett eget förlag som heter Kayak och har en tidskrift med samma 
 :::
 
 ::: indent
-– Det är tur att det är såfåsom läser poesi, på det sättet hålls poesin ren och ursprunglig.
+– Det är tur att det är så få som läser poesi, på det sättet hålls poesin ren och ursprunglig.
 :::
 
 ::: indent
@@ -664,7 +659,7 @@ En av hans favoriter är en poet som flyttade till Alaska. Bodde ensam i 17 år 
 :::
 
 ::: indent
-Han ger oss ett antal böcker. Vi säger att vi ska skicka böcker från Sverige. Den ende svenske poet han känner till ordentligt är Tomas Tranströmer. Han är flitigt översatt i USA. Harry Martinsson känner han till. En del andra till namnet. Inga yngre poeter. Han har ett spänt förhållande till Ferlinghetti. Till beat-poesin, till Black Mountain-poesin, till New York-skolan. Det finns en underton av bitterhet mot vad han tycker är kommersialisering, popularitetens degenererande effekter. Allen Ginsberg har han en viss respekt för, men mer som entertainerän som poet.
+Han ger oss ett antal böcker. Vi säger att vi ska skicka böcker från Sverige. Den ende svenske poet han känner till ordentligt är Tomas Tranströmer. Han är flitigt översatt i USA. Harry Martinsson känner han till. En del andra till namnet. Inga yngre poeter. Han har ett spänt förhållande till Ferlinghetti. Till beat-poesin, till Black Mountain-poesin, till New York-skolan. Det finns en underton av bitterhet mot vad han tycker är kommersialisering, popularitetens degenererande effekter. Allen Ginsberg har han en viss respekt för, men mer som entertainer än som poet.
 :::
 
 ::: indent
@@ -672,7 +667,7 @@ En ung, vacker, tysk och solbränd yngling kommer in och tar oss alla i hand och
 :::
 
 ::: indent
-Jag sover i Kvinnan med det okända namnets säng. Jag har en elektrisk filt över mig, tygdjur intill och tvåstora feta flugor i fönstret. Det knarrar i rummet intill och jag undrar om George och Kvinnan med det okända namnet knullar. Vid denåldern.
+Jag sover i Kvinnan med det okända namnets säng. Jag har en elektrisk filt över mig, tygdjur intill och två stora feta flugor i fönstret. Det knarrar i rummet intill och jag undrar om George och Kvinnan med det okända namnet knullar. Vid den åldern.
 :::
 
 ::: indent
@@ -681,9 +676,9 @@ Förmodligen gör dom det.
 <!-- PAGE 94 END -->
 
 <!-- PAGE 95 START -->
-George väcker ossåtta. Hanåker till universitetet. Han undervisar i vad som för tillfället faller honom in. Den här terminen är det teater. Kvinnan med det okända namnet gör kaffe. Värmer småfranska i ugnen. Jordgubbssylt, ost. Vi sätter oss. Hon är oerhört trevlig och utsövd, charmerande och tilldragande. Vi sitter i ett stort rum med en tänd brasa. Poesin ger oss värme, säger Kvinnan med det okända namnet. Vi ler lite frågande.
+George väcker oss åtta. Han åker till universitetet. Han undervisar i vad som för tillfället faller honom in. Den här terminen är det teater. Kvinnan med det okända namnet gör kaffe. Värmer småfranska i ugnen. Jordgubbssylt, ost. Vi sätter oss. Hon är oerhört trevlig och utsövd, charmerande och tilldragande. Vi sitter i ett stort rum med en tänd brasa. Poesin ger oss värme, säger Kvinnan med det okända namnet. Vi ler lite frågande.
 ::: indent
-– Det är så här, säger hon. Vi får tio-femton brev varje dag med tjocka diktsamlingar från poeter som vill bli publicerade i Kayak. 99 procent av materialet lägger vi i brasan här och sen har vi värme till kvällen. Det finns fler poeterän läsare i det här landet, det är det som urholkar kvalitén.
+– Det är så här, säger hon. Vi får tio-femton brev varje dag med tjocka diktsamlingar från poeter som vill bli publicerade i Kayak. 99 procent av materialet lägger vi i brasan här och sen har vi värme till kvällen. Det finns fler poeter än läsare i det här landet, det är det som urholkar kvalitén.
 :::
 
 ::: indent
@@ -719,11 +714,11 @@ Vi frågar om Abbie Hoffman.
 :::
 
 ::: indent
-En av hennes förklaringar är att Vietnamkriget tog såoerhört mycket kraft och energi av vänsterrörelsen att det inte fanns plats för nånting annat, att det inte fanns plats för den kulturella sidan (vi ska senare få en helt annan förklaring av Allen Ginsberg). Nu har alla splittrats, alla håller påi sina egna fraktioner, kvinnofraktioner, energifraktioner etc. Det finns inte längre nån stor samlande rörelse. Det finns inte längre nån stor samlande fråga. En av dom grundläggande orsakerna till vänsterns utplåning var våldet 1968. Våldet i Berkley och det allmänna polisvåldet, den allmänna mentaliteten i Chicago, skrämde sönder vänsterrörelsen, enligt hennes uppfattning. Studenterna blev chockade, dom blev märkta, dom drog sig in i systemet igen. Med motiveringen att det enda sättet att förändra nånting är att arbeta inifrån.
+En av hennes förklaringar är att Vietnamkriget tog så oerhört mycket kraft och energi av vänsterrörelsen att det inte fanns plats för nånting annat, att det inte fanns plats för den kulturella sidan (vi ska senare få en helt annan förklaring av Allen Ginsberg). Nu har alla splittrats, alla håller på i sina egna fraktioner, kvinnofraktioner, energifraktioner etc. Det finns inte längre nån stor samlande rörelse. Det finns inte längre nån stor samlande fråga. En av dom grundläggande orsakerna till vänsterns utplåning var våldet 1968. Våldet i Berkley och det allmänna polisvåldet, den allmänna mentaliteten i Chicago, skrämde sönder vänsterrörelsen, enligt hennes uppfattning. Studenterna blev chockade, dom blev märkta, dom drog sig in i systemet igen. Med motiveringen att det enda sättet att förändra nånting är att arbeta inifrån.
 :::
 
 ::: indent
-– Det finns inga undergroundtidningar längre, säger hon. Dom som fanns, Village Voice, Rolling Stones, är lika etablerade som dom stora magasinen, Esquire, Playboy. Påuniversiteten har dom kurser i The History of Concioussness ... Medvetenhetens historia. Man kan ta poäng, man kan ta betyg i att ta reda påhur det var att vara medveten.
+– Det finns inga undergroundtidningar längre, säger hon. Dom som fanns, Village Voice, Rolling Stones, är lika etablerade som dom stora magasinen, Esquire, Playboy. På universiteten har dom kurser i The History of Concioussness ... Medvetenhetens historia. Man kan ta poäng, man kan ta betyg i att ta reda på hur det var att vara medveten.
 :::
 
 ::: indent
@@ -731,7 +726,7 @@ Det är absurt, för att inte säga sorgligt, att höra.
 :::
 
 ::: indent
-Frukosten gör oss fästa vid varann. Påbordet ligger en LP där Robert Lowell läser egen poesi. Vi lyssnar en stund på honom, sen går vi ut. Bruno glömmer sin pipa i köket.
+Frukosten gör oss fästa vid varann. På bordet ligger en LP där Robert Lowell läser egen poesi. Vi lyssnar en stund på honom, sen går vi ut. Bruno glömmer sin pipa i köket.
 :::
 
 ::: indent

@@ -74,7 +74,7 @@ En rast håller några elever fast mig vid ett träd medan andra dansar runt och
 :::
 
 ::: indent
-Orättvisan, inte över våldet, etsar sig fast.
+Orättvisan, inte övervåldet, etsar sig fast.
 :::
 
 Ljusare minne från Malmö: Min första förälskelse heter Carin. Vi är båda nio år. Hon har fräknar och långa ljusa flätor. Hennes pappa är tandläkare. På kvällarna står jag ofta på Gustav Adolfs Torg och tittar bort mot hennes fina port.
@@ -174,7 +174,7 @@ Minne från barndomen i förhöjd form:
 **han börjar bygga brosk runt nålen**
 :::
 
-Vid elvaårsålder flyttar vi till Kärrtorp utanför Stockholm. Jag pratar bred skånska, har utstående öron och snagg och försöker över leva. Vi bor högst upp i ett av två nybyggda höghus. Kvällarna domineras av inlåsning.
+Vid elva års ålder flyttar vi till Kärrtorp utanför Stockholm. Jag pratar bred skånska, har utstående öron och snagg och försöker överleva. Vi bor högst upp i ett av två nybyggda höghus. Kvällarna domineras av inlåsning.
 <!-- PAGE 9 END -->
 
 <!-- PAGE 10 START -->
@@ -182,9 +182,8 @@ Vid elvaårsålder flyttar vi till Kärrtorp utanför Stockholm. Jag pratar bred
 Under dom här åren har jag en mycket speciell kompis, dygnet runt. Jag kallar honom Den Osynlige. En imaginär lekkamrat som alltid finns där när jag behöver honom. Jag kan sitta i timtal på golvet, prata med honom och köra små plasttåg fram och tillbaka (dom tillhandahålls i Kalaspuffspaket). Jag inbillar mig att umgänget med Den Osynlige befrämjar min fantasi:
 :::
 
-**Han är en mycket liten varelse, bunden vid ett tunt träd. Långt borta: skrynkliga män i vita kläder rullar nötta krocketklot längs sandbankarna. Alla drömmer om bärnstensfynd, om osänkbara fartyg. Det är vit sommar. Vita kalkstenshus, vit sand, vita fåglar, vitt ljus, vita kvinnor som gömmer sina skratt i torkad ljung. Han försöker ropa till människorna. Ingen hejdar sig, ingen vänder sig om. Han försöker komma loss. Ingen reagerar.**
-
 ::: accordion
+**Han är en mycket liten varelse, bunden vid ett tunt träd. Långt borta: skrynkliga män i vita kläder rullar nötta krocketklot längs sandbankarna. Alla drömmer om bärnstensfynd, om osänkbara fartyg. Det är vit sommar. Vita kalkstenshus, vit sand, vita fåglar, vitt ljus, vita kvinnor som gömmer sina skratt i torkad ljung. Han försöker ropa till människorna. Ingen hejdar sig, ingen vänder sig om. Han försöker komma loss. Ingen reagerar.**
 Tiden går, solen slocknar, alla häller skymning i glasen, dricker sprit, någon lossar pojken från trädet, kalla blanka läppar tröstar sig mot hans nakna skuldror: det är mycket genant. Pojken blundar. Han håller en gummidolk i handen. Han ska växa och detta ska dö ut.
 
 ”Här är gudagott att vara...” sjunger dom, tjocka glada människor med vårtor i ansiktet. En av dom ska få hjärtslag i hönshuset, resten ska måla sina ägg ”i glada färger, mitt barn, i glada färger!” Pojken vet ingenting om deras tillvaro. Han umgås med ålarna, tången, pressar fingeravtryck i ljummen beck, smeker snäckskal, lär sig lukten av rutten plattfisk: han växer delvis upp vid havet. Han rymmer, gång på gång, för att se vem som saknar honom först, vem som vågar krackelera. ”Att han aldrig tröttnar!” säger dom. ”Vem?”
@@ -601,7 +600,7 @@ Ut!
 :::
 
 ::: indent
-Kufiskt look-a-like-minne från Pamplo n a: På det lilla charmiga torget i centrum flockas varje kväll ett antal människor runt ett bord där det sitter en amerikan som är påfallande lik Hemingway, samma gråskägg, samma väderbitna hy. Alla vet naturligtvis att det inte är han, ändå hänger man vid bordet och skålar med mannen och spelar med i ett besynnerligt rollspel.
+Kufiskt look-a-like-minne från Pamplona: På det lilla charmiga torget i centrum flockas varje kväll ett antal människor runt ett bord där det sitter en amerikan som är påfallande lik Hemingway, samma gråskägg, samma väderbitna hy. Alla vet naturligtvis att det inte är han, ändå hänger man vid bordet och skålar med mannen och spelar med i ett besynnerligt rollspel.
 :::
 
 ::: indent
@@ -632,7 +631,7 @@ Från vissa uteserveringar hörs applåder.
 
 Jag köper mina första läderboots i en specialbutik under tjurfäktningsarenan i Salamanca och allt är en fest. Bland mina spanska vänner kallas jag ”treinta y ocho” - jag går alltid klädd i en gul amerikansk rugbytröja med 38 på. Den är av ett mycket slitstarkt material.
 ::: indent
-Minne från Malaga: Jag är svårt uppslukad av tjurfäktning och betraktar mig, lite över maga, som en aficionado. Under ett par år besöker jag ett stort antal arenor runt om i landet. En eftermiddag, på en tjurfäktningsarena i Malaga, händer nåt märkligt.
+Minne från Malaga: Jag är svårt uppslukad av tjurfäktning och betraktar mig, lite övermaga, som en aficionado. Under ett par år besöker jag ett stort antal arenor runt om i landet. En eftermiddag, på en tjurfäktningsarena i Malaga, händer nåt märkligt.
 :::
 
 ::: indent
@@ -840,9 +839,8 @@ Vi är båda berusade av inspiration. Den som flödar mellan oss och den som fra
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/13.png)
 
-**”Det är egentligen inte själva partiklarna som bygger upp honom, jämför helgonen, utan det faktum att han aldrig har vridit sig på ett kors, dvs hängt över deras dubbelsängar och utsatts för körens himmelska hyllning. Medveten om detta har han också kunnat skapa en värld där han osökt kan fälla ut sina vingar; en värld utan partiklar och helgon.**
-
 ::: accordion
+**”Det är egentligen inte själva partiklarna som bygger upp honom, jämför helgonen, utan det faktum att han aldrig har vridit sig på ett kors, dvs hängt över deras dubbelsängar och utsatts för körens himmelska hyllning. Medveten om detta har han också kunnat skapa en värld där han osökt kan fälla ut sina vingar; en värld utan partiklar och helgon.**
 Förut levde han ensam. Nu hämtar han sina offer nästan dagligen (det är en upplevelse att ligga på hans mjuka vingar). Han fyller sin värld med bevis, eller som han kallar dem: läppar. Det är meningslöst att smyga dig in i kören, eftersom han kan alla stämmorna, och lika hopplöst, för att inte säga dumdristigt, att klä av dig naken och försöka spela främling. En dag fryser du och då hämtar han dig.
 
 Kanske verkar det skrämmande att fråntas partiklarna? Kanske än mer att upphöra som helgon? Ändå är det ögonblick då du känner hans vingar stilla svepa dig ett sällsamt och fascinerande ögonblick.
@@ -961,11 +959,9 @@ Inget förlag är intresserat. Efter det gör vi vår första konstmapp, en port
 
 ![Assa Assa vad du är vacker.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/29.png)
 
-Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i trä som innehåller 12 blåpapphimlar, 12 uppblåsta plastpåsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*” samt 1 ex av vår nya konstmapp ”*Anvisningar*”.
+Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i trä som innehåller 12 blå papphimlar, 12 uppblåsta plastpåsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*” samt 1 ex av vår nya konstmapp ”*Anvisningar*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/30.png)
-
-![Format: 32 x 26 cm.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/221.png)
 
 Ansökan avslås.
 <!-- PAGE 25 END -->

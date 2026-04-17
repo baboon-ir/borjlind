@@ -201,7 +201,7 @@ Ljuvliga tanke.
 :::
 
 ::: indent
-En formidabel chans att nåut till alla instängda.
+En formidabel chans att nå ut till alla instängda.
 :::
 
 ::: indent
@@ -239,7 +239,7 @@ Samtidigt med inspelningen medverkar Gösta i Hasse & Tages revy ”*Fröken Fle
 :::
 
 ::: indent
-– Det är en jävla tur att det är snoppen och inteöronen som är våra könsorgan, tänk dig att gåpå stan, se en snygg tjej och plötsligt ståröronen rakt ut, illröda.
+– Det är en jävla tur att det är snoppen och inte öronen som är våra könsorgan, tänk dig att gå på stan, se en snygg tjej och plötsligt står öronen rakt ut, illröda.
 :::
 
 Filmen blir en rejäl flopp. En kalkon. Orsakerna är flera, själv får jag min beskärda släng av sleven. En kritiker skriver:”*Manuset ryms på baksidan av ett frimärke.*”
@@ -352,7 +352,7 @@ Klar med manuset till kalkonen skriver jag en dikt som får bärighet i flera sa
 **För ett liv värt att leva.**
 :::
 
-Jan-Olof Strandberg framför dikten i SVT påföljandeår, själv läser jag den på den stora ANC-galan i Göteborg 1985. Jag framför den också året efter vid en mäktig och sorgsen manifestation på Sergels Torg till minne av Olof Palme.
+Jan-Olof Strandberg framför dikten i SVT påföljande år, själv läser jag den på den stora ANC-galan i Göteborg 1985. Jag framför den också året efter vid en mäktig och sorgsen manifestation på Sergels Torg till minne av Olof Palme.
 ::: indent
 Facklor, gråt, mörker.
 :::
@@ -375,7 +375,7 @@ Så hur upprörda blir ”vi”?
 :::
 
 ::: indent
-Klädsamt upprörda över bristen påsen information om haveriet.
+Klädsamt upprörda över bristen på sen information om haveriet.
 :::
 
 ::: indent
@@ -436,7 +436,7 @@ En förkortning som jag egentligen tycker är fruktansvärt banal, en ansiktskr�
 :::
 
 ::: indent
-Strax innan skriver jag en krogshow till Lars Amble. Showen bär hans eget namn och sätts upp på Bacchi Wapen i Gamla Stan. Jag har arbetat med Amble ett antal gånger, i radio- och revysammanhang. Han har en utomordentlig diktion och väjer aldrig för provocerande material. Dessutom är han snabb och rörlig i vindsvåningen och ofta lätt påfoten.
+Strax innan skriver jag en krogshow till Lars Amble. Showen bär hans eget namn och sätts upp på Bacchi Wapen i Gamla Stan. Jag har arbetat med Amble ett antal gånger, i radio- och revysammanhang. Han har en utomordentlig diktion och väjer aldrig för provocerande material. Dessutom är han snabb och rörlig i vindsvåningen och ofta lätt på foten.
 :::
 
 ::: indent
@@ -455,13 +455,13 @@ Fotnot: Det här året, 1982, bildar jag ett bolag. Deadline HB. Det existerar f
 ::: part
 :::
 
-Vissa dagar sitter jag stilla vid mitt spröjsade fönster och tittar ut påingenting, eller det som är ingenting när man inte har kontakt med omvärlden. Jag kunde ha sett gröna träd och ett staket och ett rullandeäpple på marken, men jag ser ingenting.
+Vissa dagar sitter jag stilla vid mitt spröjsade fönster och tittar ut på ingenting, eller det som är ingenting när man inte har kontakt med omvärlden. Jag kunde ha sett gröna träd och ett staket och ett rullande äpple på marken, men jag ser ingenting.
 ::: indent
 Jag är inte där.
 :::
 
 ::: indent
-Andra dagar ligger jag raklång på golvet och lyssnar påingenting, i stereo: jag försöker höra tystnaden. Det är svårt, ljud ger inte upp så lätt, det tar tid. Så småningom tar det inre brusetöver, ett avlägset rymdepos anas, djupt inne i hjärnan. Ligger jag tillräckligt länge kan jag urskilja slingor därinne, stråk av ljusår som drar förbi, ibland mörka mystiska ljud, som från okända oceanbottnar.
+Andra dagar ligger jag raklång på golvet och lyssnar på ingenting, i stereo: jag försöker höra tystnaden. Det är svårt, ljud ger inte upp så lätt, det tar tid. Så småningom tar det inre bruset över, ett avlägset rymdepos anas, djupt inne i hjärnan. Ligger jag tillräckligt länge kan jag urskilja slingor därinne, stråk av ljusår som drar förbi, ibland mörka mystiska ljud, som från okända oceanbottnar.
 :::
 
 ::: indent
@@ -475,15 +475,15 @@ Men dom flesta dagar både ser och hör jag väldigt tydligt. Det är dom dagarn
 
 <!-- PAGE 162 START -->
 ::: indent
-Ibland, i sällsynta fall, skriver jag utan att tänka. Händerna och tangentbordet är bara transportmedel för ett inre flöde som vill fram till det vita arket så snabbt som möjligt. Utan att bromsas av mitt medvetande. Då är det alltid spännande efteråt, att läsa vad det var som for förbi. Ofta är det en text som jag aldrig kunde ha skrivit om jag hade tänkt skriva den. Denär en gåva från mitt undermedvetna.
+Ibland, i sällsynta fall, skriver jag utan att tänka. Händerna och tangentbordet är bara transportmedel för ett inre flöde som vill fram till det vita arket så snabbt som möjligt. Utan att bromsas av mitt medvetande. Då är det alltid spännande efteråt, att läsa vad det var som for förbi. Ofta är det en text som jag aldrig kunde ha skrivit om jag hade tänkt skriva den. Den är en gåva från mitt undermedvetna.
 :::
 
 ::: indent
-En gång hamnade jag i det tillståndet, en eftermiddag på en glasveranda med ett glas kallt, vitt vin intill mig. Plötsligt började jag skriva utan att tänka påvad jag skrev, jag försökte bara hinna med. I en dryg halvtimme skrev jag utan att ha en aning om vad jag skrev, det bara forsade ur mig.
+En gång hamnade jag i det tillståndet, en eftermiddag på en glasveranda med ett glas kallt, vitt vin intill mig. Plötsligt började jag skriva utan att tänka på vad jag skrev, jag försökte bara hinna med. I en dryg halvtimme skrev jag utan att ha en aning om vad jag skrev, det bara forsade ur mig.
 :::
 
 ::: indent
-Såtog det slut.
+Så tog det slut.
 :::
 
 ::: indent
@@ -515,7 +515,7 @@ Kontaktade experter, fick hjälp - texten var försvunnen.
 :::
 
 ::: indent
-Ochär så än idag.
+Och är så än idag.
 :::
 
  Kanske, men bara kanske, skrev jag aldrig texten.
@@ -524,7 +524,7 @@ Ochär så än idag.
 :::
 
 ::: indent
-– Vi vill ha en bild av Fälldin påomslaget, den med plåstret.
+– Vi vill ha en bild av Fälldin på omslaget, den med plåstret.
 :::
 ::: indent
 – Carstens?
@@ -535,7 +535,7 @@ Ochär så än idag.
 :::
 
 ::: indent
-Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sju åren och få namnet ”*s.k. satir*”. Påförekommen anledning.
+Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sju åren och få namnet ”*s.k. satir*”. På förekommen anledning.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/196.png)
@@ -556,7 +556,7 @@ Ord och inga visor.
 <!-- PAGE 162 END -->
 
 <!-- PAGE 163 START -->
-Såhar Carsten en ny utställning på Galleri Engström. Den heter “*Nofretete*”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på 70-talet. Carsten trivs med honom.
+Så har Carsten en ny utställning på Galleri Engström. Den heter “*Nofretete*”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på 70-talet. Carsten trivs med honom.
 
 ![Vargens hjärta.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/197.png)
 
@@ -575,7 +575,7 @@ Nu kan Ni spetsa fåglar på taggtråd och mala tinningar till benmjöl och han 
 ::: part
 :::
 
-Ett par nyhetsartiklar fångar min uppmärksamhet. Dom handlar om hur vackra kvinnor frånöstländer kontaktar svenska tjänstemän påmellannivåoch förleder dom att börjaägna sigåt industrispionage. Via erotiskt umgänge. Kontakterna tas på olika mässor runt om i Europa.
+Ett par nyhetsartiklar fångar min uppmärksamhet. Dom handlar om hur vackra kvinnor från östländer kontaktar svenska tjänstemän på mellannivå och förleder dom att börja ägna sig åt industrispionage. Via erotiskt umgänge. Kontakterna tas på olika mässor runt om i Europa.
 ::: indent
 Upplägget kittlar mig. Jag får en idé till en filmhistoria som jag döper till ”*Fallet Landell*”. Den handlar om den okomplicerade systemutvecklaren Johan Landell. Han besöker datamässan ”Analytics” i Munchen och fascineras av en dator som används vid balettakademin i Chicago för att mäta ballerinornas stressnivå. På Trelleborgsfärjan hem kontaktas han av Anna, en attraktiv kvinna med lätt brytning. Hon presenterar sig som italiensk kulturjournalist på väg till Sverige för ett reportage. Erotisk laddning uppstår.
 :::
@@ -604,7 +604,7 @@ Plums igen.
 <!-- PAGE 164 START -->
 Nytt märkligt projekt: Radioproducenten Kjell Dabrowski sammanför mig med charmören och ... charlatanen, höll jag på att säga, men det är orättvist ... Gunnar Hellström. En på sin tid mycket välkänd och erkänd skådespelare, med en aura av bedagad Hollywoodparfym runt sig. Anledningen är sångerskan Agnetha Fältskog i ABBA. Det ska göras ett tv-program med henne, en 50-minuters show som går under arbetsnamnet ”*Nun of your business*”. Jag ska skriva texter, Hellström ska regissera, Fältskog ska agera. Konstellationen av människor fascinerar mig.
 ::: indent
-Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, hon är mycket sympatisk, vacker och avspänd. Efter det åker jag och Dabrowski till Hellströms sommarhus på Torö- en ösom har sin egen skvallernivå.
+Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, hon är mycket sympatisk, vacker och avspänd. Efter det åker jag och Dabrowski till Hellströms sommarhus på Torö - en ö som har sin egen skvallernivå.
 :::
 
 ::: indent
@@ -631,7 +631,7 @@ Multimediagruppen Gateway skriver tillsammans ett treatment till en tv-film som 
 **Som förstenade dem med sin blick.**
 :::
 
-Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp påköksbordet till sin fru: ”*va rörigt det blev*”).
+Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp på köksbordet till sin fru: ”*va rörigt det blev*”).
 ::: indent
 Vårt treatment är ingenting som fäster hos några tv-producenter (det dröjer till 1990 innan vi får genomföra idén i SVT, då i 8 halvtimmesprogram under namnet “*Sista Skriket*”).
 :::
@@ -675,9 +675,9 @@ Det är sent om natten, mörker utanför, jag har Ulf Lundell i hörlurarna, “
 
 **”Jag är mycket trygg. Rummet ljusnar, barnet i bortre hörnet vaknar, vänder sig och somnar om. Tredje gången lyfter jag barnet, tar det försiktigt i famnen, stryker lite fukt från ögonlocken, trycker den lilla utslängda kroppen mot mina försvunna behov och börjar tala. Långsamt, enkelt, utan större innebörd ... om en död man hittar en tom sten och gömmer sitt skrik i stenen, om ett litet barn hittar stenen på en strand, lyfter den i handen, mycket varsamt, som ett fågelägg, och plötsligt slungar stenen över vattenytan, ljudlöst, för att inte skrämma vågorna, först då ska skriket tystna, först då ska en död man nå sitt barn, först då ska han förklara: ”När ingenting finns att berätta finns ingenting. Då har inte ens du och jag varann, då är till och med du och jag främlingar.” Jag slutar tala och tittar ner, barnet i min famn har somnat om, med ett okänt djur i munnen.”**
 
-Jag är besatt av ord, av orden i sig, das Wort an sich, oavsett vad dom betyder, vad dom har för mening.”*Genomsprungen, fylld av förlåtelse, närskott, återflykt, inuti den vita sorgen.*” Orden klöser mig i ansiktet, lockar in mig i en ogenomtränglig djungel, får mig att gåvilse i min egen hjärna.
+Jag är besatt av ord, av orden i sig, das Wort an sich, oavsett vad dom betyder, vad dom har för mening.”*Genomsprungen, fylld av förlåtelse, närskott, återflykt, inuti den vita sorgen.*” Orden klöser mig i ansiktet, lockar in mig i en ogenomtränglig djungel, får mig att gå vilse i min egen hjärna.
 ::: indent
-Jag vet inte vad jag villåt.
+Jag vet inte vad jag vill åt.
 :::
 
 ::: indent

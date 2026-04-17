@@ -173,7 +173,7 @@ Vi når Mariehamn.
 :::
 
 ::: indent
-Under den korta vistelsen där lär jag mig två finska ord: Kaksi potkuria. Det betyder ”Tvåpropellrar”. Inget jag har daglig användning av.
+Under den korta vistelsen där lär jag mig två finska ord: Kaksi potkuria. Det betyder “Två propellrar”. Inget jag har daglig användning av.
 :::
 
 Jag har lurat döden ett par gånger till i mitt liv. En gång hyr jag en lätt motorcykel på den grekiska ön Skiathos, missbedömer gravitationskraften i en lätt feldoserad bergskurva, far omkull och flyger iväg över asfalten mot några mötande bilar. Dom hinner sladda undan.
@@ -362,7 +362,7 @@ Många år senare plockar jag upp Janovs primalskriksteorier i en scen i tv-seri
 ::: part
 :::
 
-Det här året startar också en tidskrift som heter ”*Folket i Bild/Kulturfront*”, med ett antal profilerade skribenter. Jan Guillou, Jan Myrdal, Peter Bratt med flera. Tidskriften får ett rejält scoo påret efter med det som kallas ”IB-affären” - man avslöjar att det socialdemokratiska partiet har en egen hemlig underrättelseorganisation som bland annat ägnar sig åt att registrera vänstersympatisörer, främst ”kommunister”. Avslöjandet renderar författarna Guillou och Bratt fängelsestraff.
+Det här året startar också en tidskrift som heter ”*Folket i Bild/Kulturfront*”, med ett antal profilerade skribenter. Jan Guillou, Jan Myrdal, Peter Bratt med flera. Tidskriften får ett rejält scoop året efter med det som kallas ”IB-affären” - man avslöjar att det socialdemokratiska partiet har en egen hemlig underrättelseorganisation som bland annat ägnar sig åt att registrera vänstersympatisörer, främst ”kommunister”. Avslöjandet renderar författarna Guillou och Bratt fängelsestraff.
 <!-- PAGE 46 END -->
 
 <!-- PAGE 47 START -->
@@ -467,7 +467,7 @@ Den 28 maj 1973 (på Mors Dag) avhålls i Gamla Riksdagshuset i Stockholm en ”
 **...**
 :::
 
-![Fri handling. CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/62.png)
+![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/62.png)
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/63.png)
 
@@ -500,7 +500,7 @@ Fylld med kräftor, visar det sig.
 :::
 
 ::: indent
-När tiden är inne smyger vi ut på nätterna och tjuvlägger burar längs en försvarlig del av ån. Det ger god fångst och stärker min uppfattning att stulen frukt smakar bäst. Dessutom finns det en sällsam magi i att röra sig i beckmörker med en smal ljusstråle framför stövlarna, medveten om att det när som helst kan dyka upp en gestalt med ett eller annat vapen, beredd att försvara sina fiskevatten.
+När tiden är inne smyger vi ut på nätterna och tjuvlägger burar längs en försvarlig del av ån. Det ger god fångst och stärker min uppfattning att stulen kräfta smakar bäst. Dessutom finns det en sällsam magi i att röra sig i beckmörker med en smal ljusstråle framför stövlarna, medveten om att det när som helst kan dyka upp en gestalt med ett eller annat vapen, beredd att försvara sina fiskevatten.
 :::
 
 ::: indent
@@ -659,24 +659,21 @@ Nummer 4 vidgar vyerna. Det är ett manifest i form av ett avrivbart kedjebrev, 
 
 **revolutionära individer.**
 
-**Kära vänner världen över, tiden är åter mogen. Utvecklingen har gått ett varv baklänges, bumerangen har återvänt. Dom yttre betingelserna har hunnit ifatt sin förbrukade formulering, takläggarna har mötts vid nocken, näsa mot näsa. Tiden är åter mogen, livet gör nya konstruktiva anspråk.**
 <!-- PAGE 52 END -->
 
 <!-- PAGE 53 START -->
 ::: accordion
-Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och
+**Kära vänner världen över, tiden är åter mogen. Utvecklingen har gått ett varv baklänges, bumerangen har återvänt. Dom yttre betingelserna har hunnit ifatt sin förbrukade formulering, takläggarna har mötts vid nocken, näsa mot näsa. Tiden är åter mogen, livet gör nya konstruktiva anspråk.**
 
 **Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi en smärtsam insikt i den industrialiserade människans succesiva emotionella koagulering. Vi kan på nära håll följa hennes ödsliga gåsmarsch mot individuell utplåning och förödmjukande underkastelse, vi ser den mentala klaustrofobin brinna i hennes vilda, blågula ögon, vi känner ensamhetens kalla vindar svepa över landet.**
 
-**Vi ser hur dessa biologiska tragedier stirrar in i sin mänskliga devalvering med ett uttryck av dövstum beundran - husse har slängt åt dom ett gott stycke kött i år och piskan har förvandlats till ett trollspö. Vi kan se den statiska människan dompteras flockvis via förföriska folkrörelser och förment trygghet, om nätterna hör vi ekot av hennes självmord - mänsklig gemenskap är den död dröm.**
+**Vi ser hur dessa biologiska tragedier stirrar in i sin mänskliga devalvering med ett uttryck av dövstum beundran - husse har slängt åt dom ett gott stycke kött i år och piskan har förvandlats till ett trollspö. Vi kan se den statiska människan dompteras flockvis via förföriska folkrörelser och förment trygghet, om nätterna hör vi ekot av hennes självmord - mänsklig gemenskap är en död dröm.**
 
 **Den statiska människan är ett deprimerande exempel på världens vanvett. Ett hjälplöst offer för en grym och välplanerad prägling, framstansad vid försvarslös ålder och livslångt hämmande. En prägling som målmedvetet utrotar det livsviktiga självförtroendet via enögda centraldikterade utbildningssystem - visionen om kunskap som en väg till mänsklig frigörelse och individuellt självförverkligande missbrukas intensivt. Respekten för den enskilda människans möjligheter och resurser spolieras av ekonomisk cynism och ideologisk korrumption.**
 
 **Den undermedvetet förankrade förnimmelseförmåga, den genuina sensibilitet och ofläckade klarsyn som är barnets unika och oersättliga kapital, plundras blint. Självförverkligande ersätts med neurotisk konkurrenshysteri och förnedrande karriärideal. Det är strebrarnas och rövslickarnas gyllene tidevarv. Det är dom känsligas undergång för dom neutralas succé.**
 
-**Det finns individer som har modet, kraften och oerhördheten att försöka bevara sig själva och sin respekt för livet; finns individer som försöker röra sig oprogrammerat, försöker sätta sig själva på spel till gagn för andra; det finns individer som tror på människan; individer som snabbt sätts i strypkoppel och isoleras genom raffinerade metoder: svinen behärskar avväpnandets instrument via repressiv snöpning och totalitärt våld - kulturhus och mentalsjukhus, i demokratier som diktaturer, är välkända historiska symboler för en välkalkylerad desarmering av potentiella revolutionärer. Mänskligheten betalar ett högt pris för sin mentala invalidisering och kreativa stagnation: förlusten av utvidgade, fruktbara människor ersätts av gravt**
-
-**degenererade kopior, impotenta ögontjänare, utklädda apor för vilka endast det onda är gott nog - den mänskliga utvecklingen är en långsam färd över våldets glaciärer mot en vansinnig skymning.**
+**Det finns individer som har modet, kraften och oerhördheten att försöka bevara sig själva och sin respekt för livet; finns individer som försöker röra sig oprogrammerat, försöker sätta sig själva på spel till gagn för andra; det finns individer som tror på människan; individer som snabbt sätts i strypkoppel och isoleras genom raffinerade metoder: svinen behärskar avväpnandets instrument via repressiv snöpning och totalitärt våld - kulturhus och mentalsjukhus, i demokratier som diktaturer, är välkända historiska symboler för en välkalkylerad desarmering av potentiella revolutionärer. Mänskligheten betalar ett högt pris för sin mentala invalidisering och kreativa stagnation: förlusten av utvidgade, fruktbara människor ersätts av gravt degenererade kopior, impotenta ögontjänare, utklädda apor för vilka endast det onda är gott nog - den mänskliga utvecklingen är en långsam färd över våldets glaciärer mot en vansinnig skymning.**
 
 **Kära vänner världen över, i kampen mot ekonomisk destruktivitet och ideologisk utarmning finns bara ett effektivt vapen; i kampen mot mänskliga parodier, biologiskt serietillverkade, emotionellt handikappade och socialt transplanterade finns bara ett effektivt vapen: den hänsynslöst frigjorda skaparkraften med sin inneboende visionära dynamik och humanistiska energi - extatisk kärlek är trots allt bättre än ingen kärlek alls!**
 
@@ -698,7 +695,7 @@ Som fripassagerare på det välfärdscamouflerade flaggskeppet Sverige, har vi e
 
 Kedjebrevet distribueras via Moderna Museets adressregister till stora delar av världen. Gensvaret blir massivt och finns sammanställt och redovisat i Vargen nummer 6. Ett i ordets sanna bemärkelse internationellt nummer - samtliga bidrag trycks i original rakt av. Från fem kontinenter.
 ::: indent
-Nummer 7 görs helt och hållet av Carsten och mig. Det är utformat som ett projekt för slag till Moderna Museet - vi vill avsluta tidskriften med en utställning på museet (så sker också, i samband med museets nyinvigning 1975).
+Nummer 7 görs helt och hållet av Carsten och mig. Det är utformat som ett projektförslag till Moderna Museet - vi vill avsluta tidskriften med en utställning på museet (så sker också, i samband med museets nyinvigning 1975).
 :::
 
 ::: indent

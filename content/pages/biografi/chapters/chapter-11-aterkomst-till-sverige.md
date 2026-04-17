@@ -240,7 +240,7 @@ Dom försvinner in i skogen.
 Vi går lite vilse och tvingas korsa ett stup, en jättelik fälld granstam ligger tvärs över stupet, vi balanserar över. På andra sidan står ett stort, ljusbrunt rådjur helt stilla och iakttar oss, plötsligt tar det ett skutt rakt upp i luften, kastar sig runt och försvinner in mellan stammarna.
 :::
 
-På kvällen i Cimmaron upptäcker vi att våra bilnycklar är borta. Förmodligen tappade under utflykten till Lost Lake. Ingen idéatt ta sig dit upp igen och leta. Vi tvingas skicka efter nya från Hartman Brothers i San Francisco.
+På kvällen i Cimmaron upptäcker vi att våra bilnycklar är borta. Förmodligen tappade under utflykten till Lost Lake. Ingen idé att ta sig dit upp igen och leta. Vi tvingas skicka efter nya från Hartman Brothers i San Francisco.
 ::: indent
 Vi tvingas också stanna ett par dar längre än vi tänkt i Cimmaron.
 :::
@@ -254,7 +254,7 @@ I vissa viskningar antyds det att vi har tappat nycklarna med flit för att kunn
 :::
 
 ::: indent
-Vi har haft kontakt med ett par tjejer här, Patricia och Chris, pratat, druckit lite vin, umgåtts, fått lite andra historierän dom grabbarna har förmedlat.
+Vi har haft kontakt med ett par tjejer här, Patricia och Chris, pratat, druckit lite vin, umgåtts, fått lite andra historier än dom grabbarna har förmedlat.
 :::
 
 ::: indent
@@ -284,7 +284,7 @@ Strax efter tystnar hunden.
 <!-- PAGE 113 END -->
 
 <!-- PAGE 114 START -->
-På morgonen stannar en Highway Patrol-bil utanför motellet. En polis kliver ur. Vi tittar på honom. En viss anspänning infinner sig, det sitter i ryggmärgen, är det grannen som har larmat? Inte alls. Polispatrullen är där för att överlämna dom nya bilnycklarna. Snygg service. Tyvärr är det fel nycklar, dom funkar inte. Ny snygg service: poliserna fixar ut en låssmed som specialtillverkar en ny nyckel direkt på plats. Påhyrfirmans bekostnad.
+På morgonen stannar en Highway Patrol-bil utanför motellet. En polis kliver ur. Vi tittar på honom. En viss anspänning infinner sig, det sitter i ryggmärgen, är det grannen som har larmat? Inte alls. Polispatrullen är där för att överlämna dom nya bilnycklarna. Snygg service. Tyvärr är det fel nycklar, dom funkar inte. Ny snygg service: poliserna fixar ut en låssmed som specialtillverkar en ny nyckel direkt på plats. På hyrfirmans bekostnad.
 ::: indent
 Man bugar.
 :::
@@ -297,7 +297,7 @@ Passerar Wolf Creek Pass, det brantaste passet i Colorado, ser regnbågen landa 
 
 Nästa dag: Denver. Stan dyker upp väldigt plötsligt, runt en klippa, i skuggan av Klippiga Bergen.
 ::: indent
-Vi kör in en bit, hittar Motel Dead End på Broadway. Påbakgården ligger en jättelik bilmarknad med en pizzabar intill. Vi är hungriga, går dit. Trötta servitriser, tristess, damm, spindelnät i fönstren, helt ok pizza.
+Vi kör in en bit, hittar Motel Dead End på Broadway. På bakgården ligger en jättelik bilmarknad med en pizzabar intill. Vi är hungriga, går dit. Trötta servitriser, tristess, damm, spindelnät i fönstren, helt ok pizza.
 :::
 
 ::: indent
@@ -437,7 +437,7 @@ Bruno avslutar samtalet, ser trött ut.
 :::
 
 ::: indent
-– Varföråker vi inte till fängelset? säger jag. Söker upp Ginsberg?
+– Varför åker vi inte till fängelset? säger jag. Söker upp Ginsberg?
 :::
 
 ::: indent
@@ -465,11 +465,11 @@ Han bygger upp en grundfylla inför kvällens reading. Beställer Machine Gunpep
 :::
 
 ::: indent
-Efter fyra timmar på Old Chicago drar vi oss bort mot kvällens reading på Jack Kerouac School. Fortfarandeåterstår det ett par timmar. Vi lägger oss i gräset mittemot en brandstation, en bit från institutet. Vi har köpt med en flaska Wild Turkey, tar fram schackspelet, det är en ljum kväll, i fjärran mörknar Klippiga Bergens silhuetter.
+Efter fyra timmar på Old Chicago drar vi oss bort mot kvällens reading på Jack Kerouac School. Fortfarande återstår det ett par timmar. Vi lägger oss i gräset mittemot en brandstation, en bit från institutet. Vi har köpt med en flaska Wild Turkey, tar fram schackspelet, det är en ljum kväll, i fjärran mörknar Klippiga Bergens silhuetter.
 :::
 
 ::: indent
-– Titta! Därär den!
+– Titta! Där är den!
 :::
 
 ::: indent
@@ -482,7 +482,7 @@ Han har fått syn på månen.
 
 Vi står i hallen till en gymnastiksal och tittar in. Halvbesatt. Uppe på en låg scen framträder poeten Hawkins, inramad av basketkorgar. Folk sitter på metallstolar. Kallt takljus. Andäktig studentikos stämning. Ingen sprit är tillåten i lokalen. Ingen rökning. Hawkins är nervös när han läser sina dikter ur en bok. Allting verkar spänt, kanske på grund av gårdagens fängslande av gurun himself?
 ::: indent
-Tvåflickor sköter entrén.
+Två flickor sköter entrén.
 :::
 
 ::: indent
@@ -609,7 +609,7 @@ Orlovsky tar fram en banjo och börjar spela. Ny blickar mellan Bruno och mig. D
 :::
 
 ::: indent
-Dåbörjar dom köra mantra.
+Då börjar dom köra mantra.
 :::
 
 ::: indent
@@ -617,7 +617,7 @@ Jag lämnar hallen. Jag hatar den här typen av kändisjönseri, när ”gudarna
 :::
 
 ::: indent
-Bruno kommer fem minuter senare och ser ut som ett vandrandeåskmoln.
+Bruno kommer fem minuter senare och ser ut som ett vandrande åskmoln.
 :::
 
 ::: indent
@@ -644,7 +644,7 @@ Det är Ginsberg som frågar, han har stannat till en sekund.
 :::
 
 ::: indent
-Dom försvinner runt hörnet. Vi är ensamma och månen är fortfarande borta. Plötsligtåtervänder Ginsberg, kommer fram till oss.
+Dom försvinner runt hörnet. Vi är ensamma och månen är fortfarande borta. Plötsligt återvänder Ginsberg, kommer fram till oss.
 :::
 
 ::: indent
@@ -727,7 +727,7 @@ Orlovsky och Ginsberg kommer. Folk flockas runt dom i dansrummet, som runt socke
 :::
 
 ::: indent
-– Nej, dom är hatiska. Poesin är hatetsälskarinna.
+– Nej, dom är hatiska. Poesin är hatets älskarinna.
 :::
 
 ::: indent
@@ -771,7 +771,7 @@ Ginsberg ler igen och smuttar lite på sitt vin.
 :::
 
 ::: indent
-– Jag vet tyvärr inte vad som menas med det, eller vad du menar med ett öppet sinne. Vadär ett öppet sinne?
+– Jag vet tyvärr inte vad som menas med det, eller vad du menar med ett öppet sinne. Vad är ett öppet sinne?
 :::
 
 ::: indent
@@ -795,7 +795,7 @@ Bruno reagerar.
 :::
 
 ::: indent
-– Det enda tillfälle när duär ens i närheten av ett öppet sinne är när du kanar ut på fosterkakan och amputeras från tryggheten. Från det ögonblicket sölas det öppna sinnet ner för varenda fucking sekund du måste försvara dina andetag.
+– Det enda tillfälle när du är ens i närheten av ett öppet sinne är när du kanar ut på fosterkakan och amputeras från tryggheten. Från det ögonblicket sölas det öppna sinnet ner för varenda fucking sekund du måste försvara dina andetag.
 :::
 
 ::: indent
@@ -866,7 +866,7 @@ En kille försöker ta sig in i samtalet: “You know, the media is the message!
 :::
 
 ::: indent
-Vi går ut i köket. Ginsberg sägeråt Orlovsky att hålla folk på lite avstånd. Vi häller upp ett par glas vin.
+Vi går ut i köket. Ginsberg säger åt Orlovsky att hålla folk på lite avstånd. Vi häller upp ett par glas vin.
 :::
 
 ::: indent
@@ -882,7 +882,7 @@ Han är inte helt nykter och pratar med en lätt osynk. Själv är jag rätt ber
 :::
 
 ::: indent
-Ginsberg blir provocerad för första gången, hans läppar stramasåt en aning.
+Ginsberg blir provocerad för första gången, hans läppar stramas åt en aning.
 :::
 
 ::: indent
@@ -914,7 +914,7 @@ Nu är han frustrerad, tömmer sitt glas, det här kan gå åt vilket håll som 
 :::
 
 ::: indent
-– Readingen vi hörde ikväll var ett exempel på allt det som poesi inte ska ståför, anser jag.
+– Readingen vi hörde ikväll var ett exempel på allt det som poesi inte ska stå för, anser jag.
 :::
 
 ::: indent
@@ -926,7 +926,7 @@ Jag berättar hur jag använde språket för att tvinga en statsminister till et
 :::
 
 ::: indent
-– Hanåtalade texten och förlorade.
+– Han åtalade texten och förlorade.
 :::
 
 ::: indent
@@ -970,7 +970,7 @@ Ginsberg nickar, som om han höll med, funderar lite, smuttar på vinet, säger 
 :::
 
 ::: indent
-– ... jag tror att det gäller att skriva på ett sätt som får våra fiender att förståoss, inte hata oss.
+– ... jag tror att det gäller att skriva på ett sätt som får våra fiender att förstå oss, inte hata oss.
 :::
 
 ::: indent
@@ -1002,7 +1002,7 @@ Ginsberg nickar, som om han höll med, funderar lite, smuttar på vinet, säger 
 :::
 
 ::: indent
-– Men dåriskerar du att hamna ute i isoleringen, med omvärlden som fiender och ingen som lyssnar till dig eller dina ord.
+– Men då riskerar du att hamna ute i isoleringen, med omvärlden som fiender och ingen som lyssnar till dig eller dina ord.
 :::
 
 ::: indent
@@ -1026,7 +1026,7 @@ Ginsberg nickar, som om han höll med, funderar lite, smuttar på vinet, säger 
 :::
 
 ::: indent
-– Hatet är ingen trevlig hemvist. Jagönskar att du mediterade.
+– Hatet är ingen trevlig hemvist. Jag önskar att du mediterade.
 :::
 
 ::: indent
@@ -1146,7 +1146,7 @@ Jag får en öl. Vi pratar, hon och jag, stenansiktet i soffan iakttar oss. Jag 
 :::
 
 ::: indent
-– Jag lyckades fålåna den i receptionen, det visade sig att alla tangenterna var sönder.
+– Jag lyckades få låna den i receptionen, det visade sig att alla tangenterna var sönder.
 :::
 
 ::: indent
@@ -1162,7 +1162,7 @@ Det blir tyst. Stentribaden trummar med fingrarna på soffkanten. Jag känner mi
 :::
 
 ::: indent
-Jag reser mig. Waldman stickeråt mig ytterligare några böcker, ett par plattor. På en av dom sitter hon med John Cage, Burroughs, Ginsberg, Ferlinghetti. Jag tror inte hon visar den som en showoff. Hon är inte den typen. Jag går därifrån med repliken:”Anne, you are two steps ahead.”
+Jag reser mig. Waldman sticker åt mig ytterligare några böcker, ett par plattor. På en av dom sitter hon med John Cage, Burroughs, Ginsberg, Ferlinghetti. Jag tror inte hon visar den som en showoff. Hon är inte den typen. Jag går därifrån med repliken:”Anne, you are two steps ahead.”
 :::
 
 ::: indent
@@ -1225,11 +1225,11 @@ Och det tar sin tid.
 :::
 
 ::: indent
-– Vi måste hitta andra vägar än ilska och våld, börjar han. Konstruktiva alternativ. Genom att peace-movement-rörelsen var så aggressiv fick den hela över klassen, hela borgarpacket plus hela arbetarpacket emot sig! Aggressionerna, hatet, utlöste lika starka motaggressioner. Därför anser jag att rörelsen till viss del bidrog till att förlänga Vietnamkriget!
+– Vi måste hitta andra vägar än ilska och våld, börjar han. Konstruktiva alternativ. Genom att peace-movement-rörelsen var så aggressiv fick den hela överklassen, hela borgarpacket plus hela arbetarpacket emot sig! Aggressionerna, hatet, utlöste lika starka motaggressioner. Därför anser jag att rörelsen till viss del bidrog till att förlänga Vietnamkriget!
 :::
 
 ::: indent
-Ginsberg är alert, händerna illustrerar allt han säger, bakrusets över varv. Bruno och jag anar att vi är måltavlor för en inneboende böld som ska skäras upp.
+Ginsberg är alert, händerna illustrerar allt han säger, bakrusets övervarv. Bruno och jag anar att vi är måltavlor för en inneboende böld som ska skäras upp.
 :::
 
 ::: indent
@@ -1237,11 +1237,11 @@ Det känns så där.
 :::
 
 ::: indent
-– I Chicago vägrade alla left-movement-människor, Rubin och dom, att rösta på Humphrey 1964. Man la ner sina röster, en enorm massa ungdomsröster. Vad hände? Vi fick Nixon, som vann med ytterligt fåröster! Kanske dom röster som las ner i Chicago? Vi ville inte ha Humphrey och fick Nixon istället? Som trappade upp Vietnamkriget utan like? Vilket fick till effekt att den gamle stöten Lyndon B framstod som positiv!? Sick!
+– I Chicago vägrade alla left-movement-människor, Rubin och dom, att rösta på Humphrey 1964. Man la ner sina röster, en enorm massa ungdomsröster. Vad hände? Vi fick Nixon, som vann med ytterligt få röster! Kanske dom röster som las ner i Chicago? Vi ville inte ha Humphrey och fick Nixon istället? Som trappade upp Vietnamkriget utan like? Vilket fick till effekt att den gamle stöten Lyndon B framstod som positiv!? Sick!
 :::
 
 ::: indent
-Ginsberg är tydligen tvungen att gå tillbaka till Nixon-kampanjen och Lyndon B J0 hnson för att förklara sin nonaggressiva inställning i sin egen poesi. Han är mycket upphetsad. Orlovsky håller sig i bakgrunden, håller på med en stekpanna vid spisen.
+Ginsberg är tydligen tvungen att gå tillbaka till Nixon-kampanjen och Lyndon B Johnson för att förklara sin nonaggressiva inställning i sin egen poesi. Han är mycket upphetsad. Orlovsky håller sig i bakgrunden, håller på med en stekpanna vid spisen.
 :::
 
 ::: indent
@@ -1261,7 +1261,7 @@ Han reser sig snabbt och tar fram två pärmar proppfulla med dokument som visar
 :::
 
 ::: indent
-– Allt! Kraftiga aggressioner hos människor får mig alltid att misstänka agenter, säger han. Alltför engagerat patos luktar! Vi måste bryta borgarnas uppfattning att vänsterns människor är knarkande hippies med galna idéer. Vi måste bryta myten om poeten som en utanför-isolerad-otillräknelig bohem som borgarna kan skrattaåt helvete när dom vill!
+– Allt! Kraftiga aggressioner hos människor får mig alltid att misstänka agenter, säger han. Alltför engagerat patos luktar! Vi måste bryta borgarnas uppfattning att vänsterns människor är knarkande hippies med galna idéer. Vi måste bryta myten om poeten som en utanför-isolerad-otillräknelig bohem som borgarna kan skratta åt helvete när dom vill!
 :::
 
 ::: indent
@@ -1281,7 +1281,7 @@ Själv har jag ett antal namn som jag skulle vilja veta mer om: Jerry Rubin? Ken
 :::
 
 ::: indent
-– Varär Eldrige Cleaver idag? frågar jag.
+– Var är Eldrige Cleaver idag? frågar jag.
 :::
 
 ::: indent
@@ -1367,7 +1367,7 @@ Både Ginsberg och Orlovsky skrattar högt.
 :::
 
 ::: indent
-När vi ska gåsäger Bruno:
+När vi ska gå säger Bruno:
 :::
 
 ::: indent
@@ -1384,7 +1384,7 @@ När vi ska gåsäger Bruno:
 
 Vi går och lägger oss på en gräsmatta en bit från Ginsbergs hus. Rätt möra efter natten, rätt upprymda över morgondagens reading. Waldman kommer förbi, hand i hand med Margret. I andra handen har hon en påse öl, frågar om vi ska med till poolen vid hennes hus.
 ::: indent
-Bruno byter om i hennes lägenhet. Vi sätter oss vid poolen. Bruno och Margret badar: en likblek, skelettformad man med bermudashorts och en blåknapp under naveln och en svarthårig kvinna som dyker efter mynt.
+Bruno byter om i hennes lägenhet. Vi sätter oss vid poolen. Bruno och Margret badar: en likblek, skelettformad man med bermudashorts och en blå knapp under naveln och en svarthårig kvinna som dyker efter mynt.
 :::
 
 ::: indent
@@ -1449,7 +1449,7 @@ Vi sätter oss i Silverkungen och känner att vi måste ut från Boulder ett tag
 :::
 
 ::: indent
-– Jagälskade henne.
+– Jag älskade henne.
 :::
 
 ::: indent
@@ -1460,7 +1460,7 @@ Vi sätter oss i Silverkungen och känner att vi måste ut från Boulder ett tag
 – Det är det enda skälet.
 :::
 
-Nästa dag rullar vi ner från Klippiga Bergen och in i Boulder igen. Det är sex timmar kvar till vår reading. Vi söker upp ett genuint lugnt ställe för att förbereda oss: kyrkogården på Henley St. Hittar en liten gräsplätt mellan ett par stora gravstenar, en perfekt plats för våra syften. Där börjar Brunoöva på sin dikt. Där skriver jag en egen dikt. Dom dödas själar inspirerar oss.
+Nästa dag rullar vi ner från Klippiga Bergen och in i Boulder igen. Det är sex timmar kvar till vår reading. Vi söker upp ett genuint lugnt ställe för att förbereda oss: kyrkogården på Henley St. Hittar en liten gräsplätt mellan ett par stora gravstenar, en perfekt plats för våra syften. Där börjar Bruno öva på sin dikt. Där skriver jag en egen dikt. Dom dödas själar inspirerar oss.
 ::: indent
 Jag har köpt en sax, lite pappersklister, några A4-ark och tre exemplar av tidskriften The American Poetry Review. I skuggan mellan gravarna skapar jag en dadadikt. Klipper och klistrar.
 :::
@@ -1473,7 +1473,7 @@ Som på dagis.
 Bruno repeterar sin dikt med en spindel på kinden.
 :::
 
-Tiden går långsamt. Vi sitter i Silverkungen i regnet och väntar på att klockan ska bliåtta. Dåvankas det förcocktail.
+Tiden går långsamt. Vi sitter i Silverkungen i regnet och väntar på att klockan ska bli åtta. Då vankas det förcocktail.
 ::: indent
 – Vi kan dra hem till Suzanne så länge, säger Bruno.
 :::
@@ -1488,7 +1488,7 @@ Jag är balanskonstnär.
 
 Reading på Jack Kerouac School. Samma gymnastiksal, samma ljus, samma scen, förmodligen samma publik som senast. Dock fullsatt den här kvällen. Jag ska inleda läsningen, Bruno efter det, sen Waldman, Orlovsky, Ginsberg, Bernstein och Corso.
 ::: indent
-Står det påaffischen.
+Står det på affischen.
 :::
 
 ::: indent
@@ -1618,7 +1618,7 @@ Jag går upp på scenen och säger: ”I wrote a poem today in the graveyard her
 **of my soul.**
 :::
 
-Tystnad, applåder och lätt förundran i salongen, inte den sorts dikt dom är vana att höra. Sågår Bruno fram till micken, fokuserar, får stillhet i salen, tystnad, börjar framföra sin långa *”jeanne d´arc, allting blöder”*, på engelska, utan papper, som alltid. Svetsar ut strof för strof, ord för ord, med maximal intensitet, ända fram till den långa diktens vackra slutrader:
+Tystnad, applåder och lätt förundran i salongen, inte den sorts dikt dom är vana att höra. Så går Bruno fram till micken, fokuserar, får stillhet i salen, tystnad, börjar framföra sin långa *”jeanne d´arc, allting blöder”*, på engelska, utan papper, som alltid. Svetsar ut strof för strof, ord för ord, med maximal intensitet, ända fram till den långa diktens vackra slutrader:
 
 *de kommer att kasta din aska över seine*
 
@@ -1632,7 +1632,7 @@ Eller kanske inte.
 :::
 
 ::: indent
-Hur som helst är det en enorm kontrast mot poeterna som kommer efter. Ginsberg med småtamburiner, ackompanjerad av en gitarrspelare, Orlovsky med sina trädgårdsdikter. Mest intryck på mig gör Waldman. Hon är intensiv, läser med stark röst, från papper, menändå. Jag gillar hur hennes kropp böljar under läsningen, som om den blir ett med texten, förstärker den, vidgar den.
+Hur som helst är det en enorm kontrast mot poeterna som kommer efter. Ginsberg med småtamburiner, ackompanjerad av en gitarrspelare, Orlovsky med sina trädgårdsdikter. Mest intryck på mig gör Waldman. Hon är intensiv, läser med stark röst, från papper, men ändå. Jag gillar hur hennes kropp böljar under läsningen, som om den blir ett med texten, förstärker den, vidgar den.
 :::
 
 ::: indent
@@ -1644,7 +1644,7 @@ Ute i hallen flockas åhörare runt oss. Bruno får skriva massor av autografer 
 :::
 
 ::: indent
-– Vet du att det är Hästensår iår?
+– Vet du att det är Hästens år i år?
 :::
 
 ::: indent
@@ -1680,7 +1680,7 @@ Ginsberg står tillräckligt nära för att höra vad hon säger.
 :::
 
 ::: indent
-Vi har en kort diskussion med en student från Canada som villåka efter till New York för att höra oss där (vi kommer att ha en reading i en kyrka i New York ett tag senare, men det vet vi inte om nu). En tjej kommer fram till Bruno och undrar om han känner till David Bowie.
+Vi har en kort diskussion med en student från Canada som vill åka efter till New York för att höra oss där (vi kommer att ha en reading i en kyrka i New York ett tag senare, men det vet vi inte om nu). En tjej kommer fram till Bruno och undrar om han känner till David Bowie.
 :::
 
 ::: indent
@@ -1688,7 +1688,7 @@ Och så där håller det på ett tag.
 :::
 
 ::: indent
-Orlovsky tränger sig fram och drar mig liteåt sidan.
+Orlovsky tränger sig fram och drar mig lite åt sidan.
 :::
 
 ::: indent
@@ -1704,7 +1704,7 @@ Orlovsky tränger sig fram och drar mig liteåt sidan.
 :::
 
 ::: indent
-– Därför att kyrkogårdar är tysta och lugna, vilken stad duän befinner dig i. Jag söker alltid upp en kyrkogård när jag behöver ro. Det är jag inte ensam om och det var det jag gjorde idag.
+– Därför att kyrkogårdar är tysta och lugna, vilken stad du än befinner dig i. Jag söker alltid upp en kyrkogård när jag behöver ro. Det är jag inte ensam om och det var det jag gjorde idag.
 :::
 
 ::: indent
@@ -1762,7 +1762,7 @@ Ginsberg letar upp oss i utkanten av ett rum. Han är svettig, förmodligen har 
 :::
 
 ::: indent
-– I am sick. Sick of the sky. Sick of you. Sick of me. Sick of poetry. Sick of the whole fucking scene. Jag skaåka till Gary Snyder i september och låsa in mig i en stuga i en månad och bara meditera. Diamond Sutra.
+– I am sick. Sick of the sky. Sick of you. Sick of me. Sick of poetry. Sick of the whole fucking scene. Jag ska åka till Gary Snyder i september och låsa in mig i en stuga i en månad och bara meditera. Diamond Sutra.
 :::
 
 ::: indent
@@ -1782,7 +1782,7 @@ Waldman kommer fram, även hon har dansat, det syns. Hon är glad och vill få u
 :::
 
 ::: indent
-Hon tittar lite klentroget på mig. Dåkommer Ginsberg med ett märkligt förslag.
+Hon tittar lite klentroget på mig. Då kommer Ginsberg med ett märkligt förslag.
 :::
 
 ::: indent
@@ -1823,7 +1823,7 @@ Vi drar till vårt motell i Klippiga Bergen.
 :::
 
 ::: indent
-– Ja. Vadåsjukhus?
+– Ja. Vadå sjukhus?
 :::
 
 ::: indent
@@ -1835,7 +1835,7 @@ En annan servitris kommer fram, presenterar sig som Mari, tackar för uppläsnin
 :::
 
 ::: indent
-Viäter klart och går över till en bokhandel, strosar runt bland hyllorna. En kvinna kommer in, hon har virat papper runt halsen, ser oss, kommer fram.
+Vi äter klart och går över till en bokhandel, strosar runt bland hyllorna. En kvinna kommer in, hon har virat papper runt halsen, ser oss, kommer fram.
 :::
 
 ::: indent
@@ -1868,7 +1868,7 @@ Dags att dra från Boulder.
 
 <!-- PAGE 120 START -->
 ::: indent
-Den vidunderliga känslan när jag sätter mig i Silverkungen, vrider om startnyckeln, Stones dundrar ur högtalarna, fläktarna vräker påkall luft, en lätt kärleksfull smekning av gaspedalen, motorn spinner, ljudlöst lyfter den stora maskinen och flyger fram utan motstånd.
+Den vidunderliga känslan när jag sätter mig i Silverkungen, vrider om startnyckeln, Stones dundrar ur högtalarna, fläktarna vräker på kall luft, en lätt kärleksfull smekning av gaspedalen, motorn spinner, ljudlöst lyfter den stora maskinen och flyger fram utan motstånd.
 :::
 
 ::: indent
@@ -1883,17 +1883,17 @@ Mot Denver.
 Mot New York.
 :::
 
-En kvinna följer efter oss i en egen bil. Hon heter Kristin och har föreslagit att vi ska dela bil till New York. Alltså att vi åker med henne och delar påbensinen.
+En kvinna följer efter oss i en egen bil. Hon heter Kristin och har föreslagit att vi ska dela bil till New York. Alltså att vi åker med henne och delar på bensinen.
 ::: indent
 Fine med oss.
 :::
 
 ::: indent
-Vi lämnar Silverkungen påbiluthyrningen i Denver och packar in oss i Kristins bil. Plötsligt säger hon:
+Vi lämnar Silverkungen på biluthyrningen i Denver och packar in oss i Kristins bil. Plötsligt säger hon:
 :::
 
 ::: indent
-– Jag harändrat mig. Jag kör er till bussterminalen.
+– Jag har ändrat mig. Jag kör er till bussterminalen.
 :::
 
 ::: indent
@@ -1905,7 +1905,7 @@ Hon släpper av oss vid terminalen. Vi köper Greyhoundbiljetter. 75 dollar. Bus
 :::
 
 ::: indent
-Vi kommer ut från terminalen. Kristin står kvar utanför sin bil. Hon harändrat sig igen, vill att vi åker tillsammans, vill att vi lämnar tillbaka biljetterna. Vi tackar nej. Hon bryter ihop och säger:
+Vi kommer ut från terminalen. Kristin står kvar utanför sin bil. Hon har ändrat sig igen, vill att vi åker tillsammans, vill att vi lämnar tillbaka biljetterna. Vi tackar nej. Hon bryter ihop och säger:
 :::
 
 ::: indent
@@ -1917,7 +1917,7 @@ Oklar innebörd.
 :::
 
 ::: indent
-Vi lämnar henne och sätter oss utanför terminalen. Hon fåråtervända till tomheten, dansen och nojan i Boulder.
+Vi lämnar henne och sätter oss utanför terminalen. Hon får återvända till tomheten, dansen och nojan i Boulder.
 :::
 
 Väntan.
@@ -1926,7 +1926,7 @@ Jag hatar dessa väntans tomma timmar när jag tvingas ner i blocket för att sk
 :::
 
 ::: indent
-Dags för avgång. Vi sätter oss i en greyhound, längst bak. Bussen glider ut från Denver, röken efter dom kremerade luffarna sveper fram över järnvägss påren. På väg till New York, 2000 miles, slutmålet.
+Dags för avgång. Vi sätter oss i en greyhound, längst bak. Bussen glider ut från Denver, röken efter dom kremerade luffarna sveper fram över järnvägsspåren. På väg till New York, 2000 miles, slutmålet.
 :::
 
 ::: indent
@@ -1939,7 +1939,7 @@ Långt därifrån.
 
 **”Och natten glider ner från Klippiga Bergen och spriten är slut och schacket är slut och skymningen blockeras av ett svart molnmassiv och urbefolkningen skriker vid den konstgjorda dammen och motellskyltarna fladdrar förbi som sorgsna gravstenar och hungern hugger som en nyfödd skallerorm i magsäcken och drive-in-biografens gigantiska skärm skimrar ut förljugenhet och falsk kärlek och långt i fjärran seglar en vit anakonda in i solen och brinner upp, som en symbol för hela denna sjuka  kultur.”**
 
-En vidrig buss: inga gardiner för solen, het, nött plast påsätena, inga fläktar, ohyggligt trångt, Bruno och jag får skava ner våra anteckningar.
+En vidrig buss: inga gardiner för solen, het, nött plast på sätena, inga fläktar, ohyggligt trångt, Bruno och jag får skava ner våra anteckningar.
 ::: indent
 Häftigt att åka Greyhound genom USA?
 :::
@@ -1948,8 +1948,8 @@ Häftigt att åka Greyhound genom USA?
 Glöm det.
 :::
 
-Såkommer slättlandet, det oändliga slättlandet, långa spikraka rader av telefonstolpar, spikraka asfaltstungor, spikrak tomhet.
+Så kommer slättlandet, det oändliga slättlandet, långa spikraka rader av telefonstolpar, spikraka asfaltstungor, spikrak tomhet.
 ::: indent
-Såmörknar horisonten, åskan mullrar, himlen spräcks upp som en galnings hjärndiagram, en brinnande pegasus vrålar fram över den svarta slätten och slår ner i ett övergivet hem.
+Så mörknar horisonten, åskan mullrar, himlen spräcks upp som en galnings hjärndiagram, en brinnande pegasus vrålar fram över den svarta slätten och slår ner i ett övergivet hem.
 :::
 <!-- PAGE 120 END -->

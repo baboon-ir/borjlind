@@ -16,7 +16,7 @@
 **det är en sammanfattning av sonen i mig**
 :::
 
-I ett annat rum, ett trångt rum, bygger jag ett runkbås. Dofter av tigerbalsam och Paco Rabanne ringlar runt. Betraktarna står framför en galler för sedd tv-monitor mitt i rummet. På en liten hylla står en rulle toalettpapper. På skärmen onanerar en man tills det går för honom. Den inverterade kvinno för nedringen.
+I ett annat rum, ett trångt rum, bygger jag ett runkbås. Dofter av tigerbalsam och Paco Rabanne ringlar runt. Betraktarna står framför en gallerförsedd tv-monitor mitt i rummet. På en liten hylla står en rulle toalettpapper. På skärmen onanerar en man tills det går för honom. Den inverterade kvinnoförnedringen.
 ::: indent
 Onaneringen går på repeat.
 :::
@@ -79,7 +79,7 @@ Corner in wheat - av DW Griffith.
 Regen - av Joris Ives.
 Den analusiska hunden - av Bunuel/Dali.
 
-I biosalongen framför jag solo föreställningen ”*TAKE OFF - att publicera hjärnklostret*”. Där har vi också en föreställning som heter ”*VESUVIO LEVER - SAMHÄLLET DÖR*”, med mig själv, Per-Eric Söder, Bruno K. Öijer och Leif Elggren.
+I biosalongen framför jag soloföreställningen ”*TAKE OFF - att publicera hjärnklostret*”. Där har vi också en föreställning som heter ”*VESUVIO LEVER - SAMHÄLLET DÖR*”, med mig själv, Per-Eric Söder, Bruno K. Öijer och Leif Elggren.
 
 Så ser totalprojektet *”Persona Non Grata”* ut.
 
@@ -239,11 +239,11 @@ Men var det en svår omställning för dig personligen? (Thorbjörn studsar upp 
 
 Men hur kom du att hamna här? (Thorbjörn har rullat in bland madrasserna igen. Han har sjunkit ihop. Orden kommer långsammare. Han verkar punkterad.)
 
-– Identitetskris. Jag tvingades leva mig i i Fälldinrollen oerhört hårt under valkampanjen. Jag började tänka som Jonnergård hade planerat. Jag började föra mig och tala som Arbmans hade kalkylerat. Även privat. Jag blev osäker. Jag började få svårt att skilja på statsministern och skojaren. Jag tog till flaskan. Började se syner på nätterna, där jag drog runt ensam i det ödsliga riksdagshuset, gick in i den mörka plenisalen och vrålade: VEM ÄR JAG? VEM ÄR JAG? Jag bröt samman, försvann, togs in här.
+– Identitetskris. Jag tvingades leva mig in i Fälldinrollen oerhört hårt under valkampanjen. Jag började tänka som Jonnergård hade planerat. Jag började föra mig och tala som Arbmans hade kalkylerat. Även privat. Jag blev osäker. Jag började få svårt att skilja på statsministern och skojaren. Jag tog till flaskan. Började se syner på nätterna, där jag drog runt ensam i det ödsliga riksdagshuset, gick in i den mörka plenisalen och vrålade: VEM ÄR JAG? VEM ÄR JAG? Jag bröt samman, försvann, togs in här.
 
 Men hur klarade partiet det? (Nu får Thorbjörn allt svårare att fästa blicken, hans röst kommer långt bortifrån.)
 
-– Jonnergård, räven med slipstenen. På ett tidigt stadium trimmade han in unge Olof Johansson. Ett praktexemplar, bra typ i tv, välgallrad, snygg, len i käften ... inte mycket som behövdeändras på honom ... påmed nappajackan och ner med polisongerna ... smart policy, men hårt tryck på Olof, naturligtvis.
+– Jonnergård, räven med slipstenen. På ett tidigt stadium trimmade han in unge Olof Johansson. Ett praktexemplar, bra typ i tv, välgallrad, snygg, len i käften ... inte mycket som behövde ändras på honom ... på med nappajackan och ner med polisongerna ... smart policy, men hårt tryck på Olof, naturligtvis.
 
 Hur klarar han det? Han har ju pressats rätt hårt sista tiden? (Thorbjörn fnissar lite, bläddrar förstrött i en tummad Bibel, pekar med tårna mot väggen).
 
@@ -460,9 +460,9 @@ Jag väljer att utforma det som ett privat statement och framför det själv i P
 
 <!-- PAGE 81 START -->
 ::: accordion
-Dubbelmoralisternas piruetter har förlamats och svartsjukans giktbrutna kackerlackor har krälat in i sina förgrämda armhålor. Korthuset har störtat samman, stommen har rämnat, taket har rasat ner. Fantasin som makt och orden som vapen har lekfullt lätt bevisat sin brutala styrka. Marionetterna har dinglat i klarspråkets galge och kommit undan med blotta lögnen. Taskspeleriet blir aldrig vad det var. Fickrunkorna har följsamt sköljt ur den senlutheranska kulturpottan och bonat porslinskalvarna igen.
+Dubbelmoralisternas piruetter har förlamats och svartsjukans giktbrutna kackerlackor har krälat in i sina förgrämda armhålor. Korthuset har störtat samman, stommen har rämnat, taket har rasat ner. Fantasin som makt och orden som vapen har lekfullt lätt bevisat sin brutala styrka. Marionetterna har dinglat i klarspråkets galge och kommit undan med blotta lögnen. Taskspeleriet blir aldrig vad det var. Fickrunkarna har följsamt sköljt ur den senlutheranska kulturpottan och bonat porslinskalvarna igen.
 
-Så har tiden till slut dragit en barmhärtig presenning över ett likgiltigt elände. Sverige har fött sin satiriska milstolpe. Nya generationer har fött sitt stilistiska riktmärke och utlandet har fött sig ett gott skratt.
+Så har tiden till slut dragit en barmhärtig presenning över ett likgiltigt elände. Sverige har fått sin satiriska milstolpe. Nya generationer har fått sitt stilistiska riktmärke och utlandet har fått sig ett gott skratt.
 
 Det finns ingenting att kommentera. Det finns ingenting att sammanfatta. Det finns ingenting att analysera ... utom massgravarnas plågsamma poesi.
 
@@ -491,13 +491,13 @@ Så sätter jag punkt för eländet.
 ::: part
 :::
 
-1978 inleds brutalt. Den kidnappade italienska politikern Aldo Moro mördas av Röda Brigaderna, en italiensk motsvarighet till RAF (Rote Arme Fraktion) i Tyskland - statsterrorister som hoppas att via våld utlösa över våld som i förlängningen ska demaskera polisstaten.
+1978 inleds brutalt. Den kidnappade italienska politikern Aldo Moro mördas av Röda Brigaderna, en italiensk motsvarighet till RAF (Rote Arme Fraktion) i Tyskland - statsterrorister som hoppas att via våld utlösa övervåld som i förlängningen ska demaskera polisstaten.
 ::: indent
 Det är en utsiktslös taktik.
 :::
 
 ::: indent
-Lockande, i sin desperation, sin vägran att delta. Lockande för somliga, som mig själv. Under en period är jag fascinerad av Ulrike Meinhof, en av ledarna för RAF, av hennes obönhörlighet. Jag känner ett samröre. Det släpper när det civila motståndet över går i kalkylerade mord.
+Lockande, i sin desperation, sin vägran att delta. Lockande för somliga, som mig själv. Under en period är jag fascinerad av Ulrike Meinhof, en av ledarna för RAF, av hennes obönhörlighet. Jag känner ett samröre. Det släpper när det civila motståndet övergår i kalkylerade mord.
 :::
 
 ::: indent
@@ -508,7 +508,7 @@ När våldet får ett egenvärde.
 Vi romantiker håller oss gärna undan det.
 :::
 
-Det häråret kommer jag och Bruno K att göra en lång resa genom heta vindpinade sydstater i USA, läsa poesi på Jack Kerouac School i Boulder och hinna med en magisk avstickare till Mexico.
+Det här året kommer jag och Bruno K att göra en lång resa genom heta vindpinade sydstater i USA, läsa poesi på Jack Kerouac School i Boulder och hinna med en magisk avstickare till Mexico.
 ::: indent
 En annan resa går till New York. Jag träffar svarta män med långa svajande nålar i svålen och prövar kokain för första gången, vilket resulterar i att jag slår pianisten Staffan Scheja i schack. Allt en del av en radiodokumentär för Sveriges Radio.
 :::
@@ -519,7 +519,7 @@ Men året börjar med den ärevördiga teatern Dramatens första satiriska kabar
 
 ![Observera min tröja, treinta y ocho, min ärevördiga Pamplonaklassiker. Still going efter 15 år.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/316.png)
 
-Till radioprogrammet Kabaré Öppen Kanal bildade Mikael Wiehe sin Kabaréorkester. Musikerna var bosatta i Malmö. Nu behöver vi en fast stockholmsbaserad orkester. Jag har lyssnat på jazzfusionsgruppen Kornet, unga musiker från Norrland, och känt att det skulle kunna vara ett spännande inslag i ett satirsammanhang. Jag ringer deras trummis Åke Sundqvist och frågar om dom skulle vara intresserade av att vara husband på en kabarépå Dramaten under våren.
+Till radioprogrammet Kabaré Öppen Kanal bildade Mikael Wiehe sin Kabaréorkester. Musikerna var bosatta i Malmö. Nu behöver vi en fast stockholmsbaserad orkester. Jag har lyssnat på jazzfusionsgruppen Kornet, unga musiker från Norrland, och känt att det skulle kunna vara ett spännande inslag i ett satirsammanhang. Jag ringer deras trummis Åke Sundqvist och frågar om dom skulle vara intresserade av att vara husband på en kabaré på Dramaten under våren.
 ::: indent
 Det är dom.
 :::
@@ -562,7 +562,7 @@ Det är inte jag. Den repressiva toleransen är en djupt förädlad del av makts
 
 Tommy Körberg och jag har fått bra kontakt efter kabarén på Dramaten. Vi åker med våra familjer till Irland för lite semester. Tommy har tidigare under året turnerat med en uppsättning irländska sånger i Sverige och är väl bekant med den digra visskatten.
 ::: indent
-Resultat 1: I princip vartenda pubbesök slutar med hänförda lokalbor som andäktigt lyssnar på Tommys märgfulla tolkningar av derasälskade sånger. Vi bjuds oavbrutet på Guinness, till stängningsdags.
+Resultat 1: I princip vartenda pubbesök slutar med hänförda lokalbor som andäktigt lyssnar på Tommys märgfulla tolkningar av deras älskade sånger. Vi bjuds oavbrutet på Guinness, till stängningsdags.
 :::
 
 ::: indent
@@ -571,7 +571,7 @@ Resultat 2: Varje morgon vi kommer ner till bageriet bjuds vi också på ett gla
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/293.png)
 
-Tips från en irländsk bartender: skummet på en Guinness måste vara såfast att du kan sätta en tändsticka rakt upp och ner i det.
+Tips från en irländsk bartender: skummet på en Guinness måste vara så fast att du kan sätta en tändsticka rakt upp och ner i det.
 ::: indent
 Vi bor i en liten by som heter Lahinch. En dag får vi för oss att skriva en limerick om vår by och skicka till Gösta Ekman. Problemet är att ”Lahinch” inte är helt lättrimmat. Med benägen hjälp av nationaldrycken lyckas vi till slut pränta ner följande på ett vykort:
 :::
@@ -591,7 +591,7 @@ Svindlande poesi.
 
 Nu till en mycket lång resa.
 ::: indent
-Bruno K och jag har fått ett resestipendium för att söka upp småunderground för lag på den amerikanska västkusten, förlag som har specialiserat sig på poesiutgivning, på alternativ distribution, på counterculture magazines.
+Bruno K och jag har fått ett resestipendium för att söka upp små undergroundförlag på den amerikanska västkusten, förlag som har specialiserat sig på poesiutgivning, på alternativ distribution, på counterculture magazines.
 :::
 
 ::: indent

@@ -27,7 +27,7 @@ Detta är dom utslagnas avkrok, barn som skriker, ögon som hänger ut som varig
 :::
 
 ::: indent
-Tillbaka till terminalen. Väntstolar med småtv-apparater, flipper, vi känner oss genomskitiga, vi har blivit bussmänniskor, håret hänger som om det dragits genom femton meter osopad rännsten.
+Tillbaka till terminalen. Väntstolar med små tv-apparater, flipper, vi känner oss genomskitiga, vi har blivit bussmänniskor, håret hänger som om det dragits genom femton meter osopad rännsten.
 :::
 
 ::: indent
@@ -35,7 +35,7 @@ Vi går ut igen.
 :::
 
 ::: indent
-Står utanför detta bidande bårhus och tittar upp på en jättelik skyskrapa med en blixtande neonskylt: ”HEALT H LIFE - WORLD INSURANCE”. Kapitalismen skrattar en rakt i ansiktet och sparkar en i skrevet var manän ruttnar.
+Står utanför detta bidande bårhus och tittar upp på en jättelik skyskrapa med en blixtande neonskylt: “HEALTH LIFE - WORLD INSURANCE”. Kapitalismen skrattar en rakt i ansiktet och sparkar en i skrevet var man än ruttnar.
 :::
 
 ::: indent
@@ -75,7 +75,7 @@ Jag hittar en öppen presentshop i terminalen. Köper ett set med skolväska, kr
 :::
 
 ::: indent
-Sålångt hemifrån!
+Så långt hemifrån!
 :::
 
 ::: indent
@@ -170,7 +170,7 @@ Vi börjar anpassa oss till Greyhoundlivet. Terminaler. Hålor. Ökenmänniskor.
 
 <!-- PAGE 123 START -->
 ::: indent
-Tar en lätt joint i Pittsburg vid en vacker sjöoch får en hanterlig och välbehövligt skön flykt: Ett litet vitt hus med röd dörr, runt huset dansar en ring av halvmeterstora chips och en stor mun, plötsligt omformas huset till en jättelik vintunna, genom dörren störtar en stor svart fågel rakt in i tunnan med näbben och ur hålet strömmar en bred stråle vit chablis, jordkällarkall, ner i den dansande munnen.
+Tar en lätt joint i Pittsburg vid en vacker sjö och får en hanterlig och välbehövligt skön flykt: Ett litet vitt hus med röd dörr, runt huset dansar en ring av halvmeterstora chips och en stor mun, plötsligt omformas huset till en jättelik vintunna, genom dörren störtar en stor svart fågel rakt in i tunnan med näbben och ur hålet strömmar en bred stråle vit chablis, jordkällarkall, ner i den dansande munnen.
 :::
 
 ::: indent
@@ -408,7 +408,7 @@ Summan av kardemumman (ett uttryck som språkforskare fortfarande inte kan härl
 :::
 
 ::: indent
-Vi har färdats från ostronpartyn via mäktigaöknar, dammpinade kyrkogårdar och vattenmålande bävrarända upp hit, till den aparta betongkoloss som heter Manhattan.
+Vi har färdats från ostronpartyn via mäktiga öknar, dammpinade kyrkogårdar och vattenmålande bävrar ända upp hit, till den aparta betongkoloss som heter Manhattan.
 :::
 
 ::: indent
@@ -430,7 +430,7 @@ Efterdyningarna av USA-resan lägger sig. Bruno har stannat i New York, jag har 
 :::
 
 ::: indent
-Mycket att berätta, huvudsakligen för Tove. För Sari, som är femår, är jag rätt grannlaga med vad jag utesluter (det får hon läsa nu).
+Mycket att berätta, huvudsakligen för Tove. För Sari, som är fem år, är jag rätt grannlaga med vad jag utesluter (det får hon läsa nu).
 :::
 
 ::: indent
@@ -439,7 +439,7 @@ Vi får en efterlängtad familjetid ihop.
 
 Ett tag.
 ::: indent
-Jag och Lars-Ragnar Forssberg har lagt fram ett program för slag till Sveriges Radio, en dokumentärserie under namnet”*5 x New York*”. Det bygger mycket på det kontaktnät jag har skapat under min roadtrip.
+Jag och Lars-Ragnar Forssberg har lagt fram ett programförslag till Sveriges Radio, en dokumentärserie under namnet “*5 x New York*”. Det bygger mycket på det kontaktnät jag har skapat under min roadtrip.
 :::
 
 ::: indent
@@ -491,7 +491,7 @@ Konstnären Peter Tillberg har gjort en lysande målning som illustrerar var rot
 ::: part
 :::
 
-1979 får jag min andra son. Nick, bror till Sari. Ett hjälplöst knyte med vackraögon och händer som kniper om mitt pekfinger.
+1979 får jag min andra son. Nick, bror till Sari. Ett hjälplöst knyte med vackra ögon och händer som kniper om mitt pekfinger.
 ::: indent
 För mig är den känslan, när ditt nästan nyfödda barn kniper om ett av dina fingrar, nåt av det mest existentiella som finns. En grepp som går rakt igenom tiden och in i ett ursprung som jag inte kan förklara.
 :::
@@ -509,7 +509,7 @@ Jag har nu tre barn, alla utan mellannamn, alla emotionella förankringar för m
 :::
 
 ::: indent
-Viälskar varandra.
+Vi älskar varandra.
 :::
 
 ::: indent
@@ -531,7 +531,7 @@ Det går inte.
 :::
 
 ::: indent
-Jag börjar i en annanände.
+Jag börjar i en annan ände.
 :::
 
 ::: poem
@@ -597,11 +597,11 @@ Den publiceras aldrig.
 
 Starkt biominne den här perioden: Jag bjuds in till en specialvisning i en liten biosalong på Kungsgatan. Vi ska se Stefan Jarls ”*Ett anständigt liv*”.
 ::: indent
-När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda utän när jag klev in. Filmen har skakat om mig. Den har, som Ingmar Bergman senare ska sakna i en av mina egna filmer, nåttända in till smärtpunkten. Jag är våldsamt berörd. Det är en av dom filmer jag alltid nämner när jag tvingas namnge filmer som har påverkat mig.
+När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda ut än när jag klev in. Filmen har skakat om mig. Den har, som Ingmar Bergman senare ska sakna i en av mina egna filmer, nått ända in till smärtpunkten. Jag är våldsamt berörd. Det är en av dom filmer jag alltid nämner när jag tvingas namnge filmer som har påverkat mig.
 :::
 
 ::: indent
-En annan är ” *Krigarens själ”*. Denär regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är tämligen banal, men styrkan som den gestaltas på, råheten, har fäst hos mig (den ligger väldigt långt från min förstaälsklingsfilm, ”*Jules och Jim*”, ett ömsint triangeldrama mellan franska slackers med Jeanne Moreau som kvinnan i mitten ... förmodligen var jag själv lite förälskad i henne, 1962).
+En annan är ” *Krigarens själ”*. Den är regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är tämligen banal, men styrkan som den gestaltas på, råheten, har fäst hos mig (den ligger väldigt långt från min första älsklingsfilm, ”*Jules och Jim*”, ett ömsint triangeldrama mellan franska slackers med Jeanne Moreau som kvinnan i mitten ... förmodligen var jag själv lite förälskad i henne, 1962).
 :::
 
 ::: part
@@ -625,7 +625,7 @@ Huvuddelen av föreställningens texter skrivs av mig själv, Forssberg och Finn
 :::
 
 ::: indent
-– Kabarénär tam. Mina grejer kom inte med.
+– Kabarén är tam. Mina grejer kom inte med.
 :::
 
 ::: indent
@@ -633,7 +633,7 @@ Nåväl.
 :::
 
 ::: indent
-Reflektion: Guillou är redan nu vänsterns mest briljante, hårdföre och muskulärt framträdande skribent, med ett påfallande personligt mod. Parallellt är han en imponerande kännare avårgångsviner och konnässör av utsökt konst.
+Reflektion: Guillou är redan nu vänsterns mest briljante, hårdföre och muskulärt framträdande skribent, med ett påfallande personligt mod. Parallellt är han en imponerande kännare av årgångsviner och konnässör av utsökt konst.
 :::
 <!-- PAGE 129 END -->
 
@@ -654,7 +654,7 @@ Klarspråk.
 :::
 
 ::: indent
-Körberg kläs under scenen om från en gråkommunalpolitiker till en fullödig agitator. Han avslutar sin förvandling med ett tal till publiken:
+Körberg kläs under scenen om från en grå kommunalpolitiker till en fullödig agitator. Han avslutar sin förvandling med ett tal till publiken:
 :::
 
 ::: poem
@@ -677,7 +677,7 @@ Körberg kläs under scenen om från en gråkommunalpolitiker till en fullödig 
 **Sverige åt svenskarna!**
 :::
 
-Dåett uppenbart satiriskt tal, i dagens Sverige finns det ett antal människor som skulle kunna hålla samma tal utan skuggan av satiriska förtecken.
+Då ett uppenbart satiriskt tal, i dagens Sverige finns det ett antal människor som skulle kunna hålla samma tal utan skuggan av satiriska förtecken.
 ::: indent
 Det är där vi har hamnat.
 :::
@@ -729,7 +729,7 @@ DN:s kritiker Bengt Jahnson (han som fick en propp av Ingmar Bergman), är både
 ::: part
 :::
 
-Hemkommen från Luleåskriver jag sex satiriska personporträtt till tidningen Arbetaren. Dom kallas för *”Skarpa Skott”* - en utomordentligt fånig rubricering.
+Hemkommen från Luleå skriver jag sex satiriska personporträtt till tidningen Arbetaren. Dom kallas för *”Skarpa Skott”* - en utomordentligt fånig rubricering.
 ::: indent
 Ett litet avsnitt ur intervjun med folkpartisten och det politiska underbarnet Carl Tham:
 :::
@@ -851,7 +851,7 @@ Levy är ingen obetydlig person. Hela trenden inom New York-televisionen har sv�
 :::
 
 ::: indent
-– Folk nöjer sig inte längre med att se en nyhetsreporter ståframför den utbrända skyskrapan och rapportera. Dom vill se när det brinner och hur folk försöker hoppa ur lågorna, säger Levy.
+– Folk nöjer sig inte längre med att se en nyhetsreporter stå framför den utbrända skyskrapan och rapportera. Dom vill se när det brinner och hur folk försöker hoppa ur lågorna, säger Levy.
 :::
 
 ::: indent
@@ -859,14 +859,14 @@ Forssberg och jag är övertygade om att det faktum att dom stora networken stå
 :::
 
 ::: indent
-Under ett dygn får vi åka med ett av hans filmteam i New York och följa deras arbete pånära håll, när dom jagar mord, våldtäkter och bränder. När vi sätter oss i kamerabilen viskar Levy: ”*Don´t panic until I do*.”
+Under ett dygn får vi åka med ett av hans filmteam i New York och följa deras arbete på nära håll, när dom jagar mord, våldtäkter och bränder. När vi sätter oss i kamerabilen viskar Levy: ”*Don´t panic until I do*.”
 :::
 
 ::: indent
 Det blir en ganska vidrig natt.
 :::
 
-Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i *”Tillfälligt avbrott”*. Denär klart påverkad av det vi upplevde med *”Action Movie News”*:
+Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i *”Tillfälligt avbrott”*. Den är klart påverkad av det vi upplevde med *”Action Movie News”*:
 
 [yt-video][https://www.youtube.com/watch?v=LG5jYI7piBc&t=1s]
 
@@ -890,7 +890,7 @@ Med en mer autistisk läggning kanske jag hade kunnat teckna av hela panoramat.
 :::
 
 ::: indent
-Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsplats i utkanten av Queens. Urblåsta hus nära vattnet. Tysta svarta män i bilvrak. Fel miljöatt vakna i. Fel hudfärg. Fel språk. Fel signaler. Jag skriver senare en lång dikt i Svenska Dagbladet om den morgonen:
+Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsplats i utkanten av Queens. Urblåsta hus nära vattnet. Tysta svarta män i bilvrak. Fel miljö att vakna i. Fel hudfärg. Fel språk. Fel signaler. Jag skriver senare en lång dikt i Svenska Dagbladet om den morgonen:
 :::
 
 ::: poem
@@ -1107,7 +1107,7 @@ Och förmodligen orsaken till att det dröjer ett kvarts sekel innan filmen blir
 :::
 
 ::: indent
-En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva Kocken, som är involverad i nästan alla scener rakt igenom. Manuset vandrar runt i filmsverige och letar sig så småningom utomlands. Det ena märkliga skådespelar för slaget efter det andra virvlar runt. En morgon ringer Arehn och är upphetsad. Donald Sutherlands agent har hört av sig. Sutherland är intresserad av att göra rollen. Nästa samtal kommer från Bob Hoskins i London.
+En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva Kocken, som är involverad i nästan alla scener rakt igenom. Manuset vandrar runt i filmsverige och letar sig så småningom utomlands. Det ena märkliga skådespelarförslaget efter det andra virvlar runt. En morgon ringer Arehn och är upphetsad. Donald Sutherlands agent har hört av sig. Sutherland är intresserad av att göra rollen. Nästa samtal kommer från Bob Hoskins i London.
 :::
 
 ::: indent
@@ -1120,11 +1120,11 @@ Jag börjar få en insikt i filmvärlden (vid den här tidpunkten är branschen 
 
 Minne från cirkusen runt ”*Kocken*”: Arehn har fått ett nytt napp. Den uppburne österrikiske skådespelaren Klaus Maria Brandauer vill göra rollen. Men först vill han ha ett möte. Arehn och jag åker ner till Wien och träffar Brandauer i en elegant hotellbar. Österrikaren pratar oavbrutet om manuset i ett par timmar, har åsikter och förslag, torkar sig ofta över sina sötsura läppar. Jag tar in och antecknar. På natten sitter jag och en flaska kallt vitt vin på hotellrummet och ändrar manuset efter Brandauers idéer. Jag är klar när det ljusnar. Brandauer får det vid lunch. Jag och Arehn åker hem. Kort efteråt erbjuds Brandauer rollen som Beethoven i en storfilm och hoppar av vårt projekt.
 ::: indent
-Exitösterrikaren.
+Exit österrikaren.
 :::
 
 ::: indent
-Men Arehn ger inte upp. Han får höra att de Niro är i Stockholm och bor på Hotel Diplomat. Arehn går dit påvinst och förlust, lämnar en engelsk version av manuset i receptionen med adress de Niro.
+Men Arehn ger inte upp. Han får höra att de Niro är i Stockholm och bor på Hotel Diplomat. Arehn går dit på vinst och förlust, lämnar en engelsk version av manuset i receptionen med adress de Niro.
 :::
 
 ::: indent
@@ -1140,11 +1140,11 @@ Han vill verkligen göra filmen själv.
 :::
 
 ::: indent
-Denär hans baby.
+Den är hans baby.
 :::
 
 ::: indent
-Ett beslut som jag har den största respekt för (jag reagerade likartat när Apple ville koppla bort mig som text författare i London). Däremot hade det naturligtvis varit en viss fjäder i hatten för mig om mitt manus hade blivit film i USA med de Niro i huvudrollen.
+Ett beslut som jag har den största respekt för (jag reagerade likartat när Apple ville koppla bort mig som textförfattare i London). Däremot hade det naturligtvis varit en viss fjäder i hatten för mig om mitt manus hade blivit film i USA med de Niro i huvudrollen.
 :::
 
 ::: indent
@@ -1161,7 +1161,7 @@ Pengarna från mitt påbörjade manusskrivande ger mig själv och min familj en 
 Vi flyttar till Skarpö.
 :::
 
-Jag kommer att tillbringa tio lyckligaår härute, med hyfsad ekonomi, bra fysik, underbar familj, närhet till havet. Och nästan enbart uppåtjobb.
+Jag kommer att tillbringa tio lyckliga år härute, med hyfsad ekonomi, bra fysik, underbar familj, närhet till havet. Och nästan enbart uppåtjobb.
 ::: indent
 Papphammar. Jönssonligan. Morrhår och Ärtor. Lorry.
 :::
@@ -1177,13 +1177,13 @@ Jag försöker skrapa bort mörkret ur hjärnan.
 ::: part
 :::
 
-Skrapandet börjar inte så bra. Sammaår som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett parår sen). Förövaren är inte värd många ord. Lennons död fogas in i ledet av för tidigt försvunna begåvningar, människor som har vidgat andra människor genom sina verk.
+Skrapandet börjar inte så bra. Samma år som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett par år sen). Förövaren är inte värd många ord. Lennons död fogas in i ledet av för tidigt försvunna begåvningar, människor som har vidgat andra människor genom sina verk.
 ::: indent
 Jag sörjer och spelar hans skivor.
 :::
 
 ::: indent
-Om någraår ska en annan begåvad man mördas på öppen gata.
+Om några år ska en annan begåvad man mördas på öppen gata.
 :::
 
 ::: part
@@ -1232,7 +1232,7 @@ Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett
 ::: part
 :::
 
-Carstens visuella uppfinningsrikedom smittar ocksåav sig på hans generationskamrater:
+Carstens visuella uppfinningsrikedom smittar också av sig på hans generationskamrater:
 
 ![Frimärken. Carsten Regild. 1975.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1000.png)
 

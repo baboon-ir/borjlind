@@ -183,7 +183,7 @@ Allt är som om natten
 Om du minns
 Om du minns**
 
-Tommy gör en gripande tolkning påskivan ***”Sjung tills du stupar”***.
+Tommy gör en gripande tolkning på skivan ***”Sjung tills du stupar”***.
 
 ::: part
 :::
@@ -1251,7 +1251,7 @@ Av olika skäl blir det ingen ”*Springfloden 3*”.
 ::: part
 :::
 
-Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. Påbetongpuckeln nedanför Bellmansgatan har någon sprejat: ”*Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.*”. Det är 39 år sen jag skrev det i ”*Persona Non Grata*”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
+Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. På betongpuckeln nedanför Bellmansgatan har någon sprejat: ”*Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.*”. Det är 39 år sen jag skrev det i ”*Persona Non Grata*”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
 ::: indent
 Nån ordning får det vara.
 :::
@@ -1414,7 +1414,7 @@ Civilt motstånd, när det är som bäst.
 ::: part
 :::
 
-Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. Påutställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
+Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. På utställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331.jpeg)
 

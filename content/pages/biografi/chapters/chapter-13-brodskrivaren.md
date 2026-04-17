@@ -23,7 +23,7 @@ Han bjuder på kaffe.
 – Ett spiondrama. Huvudrollen ska göras av Gösta Ekman.
 :::
 
-Jag blir nyfiken, läser boken och skriver ett manus på 3 x 50 minuter (mitt första tv-manus). Det är också för sta gången Gösta och jag samarbetar intimt.
+Jag blir nyfiken, läser boken och skriver ett manus på 3 x 50 minuter (mitt första tv-manus). Det är också första gången Gösta och jag samarbetar intimt.
 
 ![Snillen spekulerar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/172.png)
 
@@ -155,14 +155,14 @@ Den “*fyller förväntningarna med fisk*”?
 
 Andra uppskattar låten desto mer. Skivbolaget Metronome kontaktar oss och vill ge ut låten som en maxisingel.
 ::: indent
-Såsker.
+Så sker.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/173.jpg)
 
 Omslaget är en parafras på Beatles ”*Sgt Pepper*” (eller för den delen Frank Zappas mycket roligare ”*We are only in it for the money*”).
 ::: indent
-Påbaksidan av singeln läser jag en egen text, ackompanjerad av Stefan Nilsson. Den heter ”*Between you and me and the gateway*”.
+På baksidan av singeln läser jag en egen text, ackompanjerad av Stefan Nilsson. Den heter ”*Between you and me and the gateway*”.
 :::
 
 Föga anade vi att skivan 38 år senare skulle beskrivas så här av musikrecensenten Håkan Pettersson:
@@ -173,7 +173,7 @@ Föga anade vi att skivan 38 år senare skulle beskrivas så här av musikrecens
 <!-- PAGE 142 START -->
 Som vanligt: Du är inte medveten om, eller ens intresserad av, det perspektivet när du skapar. Nuet är allt.
 ::: indent
-Låten skaåterbrukas tioår senare, 1990, då en försvarlig del av den svenska musikeliten framför den i tv-programmet “*Sista Skriket*”(jag kommer dit).
+Låten ska återbrukas tio år senare, 1990, då en försvarlig del av den svenska musikeliten framför den i tv-programmet “*Sista Skriket*” (jag kommer dit).
 :::
 
 [yt-video][https://www.youtube.com/watch?v=yduvxW6pa8U]
@@ -181,7 +181,7 @@ Låten skaåterbrukas tioår senare, 1990, då en försvarlig del av den svenska
 ::: part
 :::
 
-Vid den här tiden läser jag fortfarande väldigt mycket böcker (Tove läserännu mer). Jag har fortfarande en hunger efter andras berättelser, andras sätt att formulera sig, andras språk och ordval, andras tankar som jag inte har tänkt själv.
+Vid den här tiden läser jag fortfarande väldigt mycket böcker (Tove läser ännu mer). Jag har fortfarande en hunger efter andras berättelser, andras sätt att formulera sig, andras språk och ordval, andras tankar som jag inte har tänkt själv.
 ::: indent
 Men jag lessnar, succesivt.
 :::
@@ -264,7 +264,7 @@ Kvällen är vikt enkom för oss.
 
 <!-- PAGE 144 START -->
 ::: indent
-Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jagälskarögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett brak som får rosettfönstren att skallra. Jag tittar på Stefan. Han ler. Jag går fram mot scenkanten, bugar och börjar framföra min dikt “*Vem kan tatuera ett telefonnummer över min skräck?*”
+Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jag älskar ögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett brak som får rosettfönstren att skallra. Jag tittar på Stefan. Han ler. Jag går fram mot scenkanten, bugar och börjar framföra min dikt “*Vem kan tatuera ett telefonnummer över min skräck?*”
 :::
 
 [yt-video][https://www.youtube.com/watch?v=f6-X_PTxQW0]
@@ -315,11 +315,11 @@ Ljus förmiddag, jag sitter i skrivarstugan på ön och kurerar natten (kampen m
 :::
 
 ::: indent
-Tvåsaker lockar mig med hans förfrågan. Det ena är att jag vet hur otroligt roligt och inspirerande det är att arbeta tätt med Gösta. Uppfordrande, men vidgande. Det andra är utmaningen. En komedi? Eller familjefilm, som Gösta förklarar det. Han säger också:
+Två saker lockar mig med hans förfrågan. Det ena är att jag vet hur otroligt roligt och inspirerande det är att arbeta tätt med Gösta. Uppfordrande, men vidgande. Det andra är utmaningen. En komedi? Eller familjefilm, som Gösta förklarar det. Han säger också:
 :::
 
 ::: indent
-– Underskatta inte värdet av att fåmänniskor att skratta och måbra. Dåblir du trång.
+– Underskatta inte värdet av att få människor att skratta och må bra. Då blir du trång.
 :::
 
 ::: indent
@@ -352,9 +352,9 @@ Ungefär som när Mats Arehn skulle ”fixa över” ett manus inför ”*Kocken
 Jag ska bli lärling igen.
 :::
 
-Hur som helst: Jag och Mats Arehn (som är tänkt som regissör)åker ner till Mallorca. Gösta bor i en liten by ovanför staden Soller som heter Fornalutx. I ett mycket vackert hus, en finca, med sin fru Pia.
+Hur som helst: Jag och Mats Arehn (som är tänkt som regissör) åker ner till Mallorca. Gösta bor i en liten by ovanför staden Soller som heter Fornalutx. I ett mycket vackert hus, en finca, med sin fru Pia.
 ::: indent
-Vi börjar gåi bergen, prata, gåoch prata, oändliga promenader med prat om allt och ingenting och inemellan matnyttiga saker och svalkande drycker. Gösta vill att huvudpersonen i den svenska varianten ska heta Charles-Ingvar Jönsson och kallas för ”Sickan”(ett hommage till skådespelerskan Sickan Carlsson).
+Vi börjar gå i bergen, prata, gå och prata, oändliga promenader med prat om allt och ingenting och inemellan matnyttiga saker och svalkande drycker. Gösta vill att huvudpersonen i den svenska varianten ska heta Charles-Ingvar Jönsson och kallas för “Sickan” (ett hommage till skådespelerskan Sickan Carlsson).
 :::
 
 ::: indent
@@ -377,13 +377,13 @@ På tal om att ”gå och prata”: det blir en arbetsmetod som Gösta och jag u
 Men gång stimulerar tänkandet, blir min erfarenhet av arbetet med Gösta (plus en del annat).
 :::
 
-Manuset blir klart, filmen spelas in, Jonas Cornell regisserar den (Arehn har hoppat av tidigare, av privata skäl). Publikenälskar filmen,”*Varning för Jönssonligan*”.
+Manuset blir klart, filmen spelas in, Jonas Cornell regisserar den (Arehn har hoppat av tidigare, av privata skäl). Publiken älskar filmen, “*Varning för Jönssonligan*”.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/253.png)
 
-Över en miljon människor går och ser den. Än idag, 40 (!)år senare, visas filmen i olika tv-kanaleråret runt. Vi har uppenbarligen hittat en perfekt formel, en nivåoch attityd som är exakt rätt, med ett komiskt geni i mitten.
+Över en miljon människor går och ser den. Än idag, 40 (!) år senare, visas filmen i olika tv-kanaler året runt. Vi har uppenbarligen hittat en perfekt formel, en nivå och attityd som är exakt rätt, med ett komiskt geni i mitten.
 
-Jag ska komma att skriva ytterligare 4 Jönssonfilmer (när Henrik Dorsin 2016 vill fåmig att skriva ytterligare en tackar jag nej - det är över 20 år sen förra gången).
+Jag ska komma att skriva ytterligare 4 Jönssonfilmer (när Henrik Dorsin 2016 vill få mig att skriva ytterligare en tackar jag nej - det är över 20 år sen förra gången).
 ::: indent
 Minne från första Jönssonligan: Vi sitter hemma hos Jonas Cornell i hans vackra trävilla på Djurgården, jag, Gösta och Cornell. Vi ska gå igenom manuset. Mitt i en diskussion om ett replikutbyte ser jag hur Cornells huvud sjunker ner mot bröstet, sekunder senare snusar han. Jag tittar på Gösta. Han viskar att Cornell lider av en sjukdom som gör att han plötsligt somnar mitt i ett samtal.
 :::
@@ -668,7 +668,7 @@ Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sv
 
 Det här året, 1981, utkommer en bok som heter ”*Prostitution i Sverige*”. Den är resultatet av en utredning som staten tillsatte 1977. Sakkunnig i utredningen är Sven-Axel Månsson. En av deltagarna är kriminologen Leif GW Persson.
 ::: indent
-Under arbetets gång kommer utredarna fram till insikten att  ”*prostitutionen är ett uttryck för grundläggande skillnader och orättvisor mellan könen i samhället*”. En insikt som är lite för radikal för den moderata hovrättsjuristen Inger Lindqvist, som är ordförande i utredningen. Alla inblandade, utom GW Persson, sparkas. Lindqvist vägrar att offentliggöra utredningsmaterialet. Trots det publiceras det som en departementspromemoria 1980 och kommer ut i bokformåret efter.
+Under arbetets gång kommer utredarna fram till insikten att  ”*prostitutionen är ett uttryck för grundläggande skillnader och orättvisor mellan könen i samhället*”. En insikt som är lite för radikal för den moderata hovrättsjuristen Inger Lindqvist, som är ordförande i utredningen. Alla inblandade, utom GW Persson, sparkas. Lindqvist vägrar att offentliggöra utredningsmaterialet. Trots det publiceras det som en departementspromemoria 1980 och kommer ut i bokform året efter.
 :::
 
 ::: indent
@@ -690,7 +690,7 @@ Valet av Transsibiriska Järnvägen är ett hugskott, en tanke om total utskuren
 :::
 
 ::: indent
-Tanken visar sig merän rätt. Större delen av resan slipper vi distraheras av utsikten genom kupéfönstret. Sovjeterna har nämligen planterat täta björkpalissader längs hela banvallen för att skyla fattigdomen utanför. Bara när vi då och dåstannar till vid olika stationer får vi en glimt av landskapet bortom björkarna.
+Tanken visar sig mer än rätt. Större delen av resan slipper vi distraheras av utsikten genom kupéfönstret. Sovjeterna har nämligen planterat täta björkpalissader längs hela banvallen för att skyla fattigdomen utanför. Bara när vi då och då stannar till vid olika stationer får vi en glimt av landskapet bortom björkarna.
 :::
 
 ::: indent
@@ -702,7 +702,7 @@ Te, inte minst (långt ifrån min favoritdryck). Varje vagn har ett eget utrymme
 :::
 
 ::: indent
-Vi åker i en gemensam förstaklasskupémed uppfällbara sängar, hyfsat rymligt, vacker träinredning. Påbordet vid fönstret riggar vi bandspelaren och börjar gå igenom den minst sagt digra utredningsluntan.
+Vi åker i en gemensam förstaklasskupé med uppfällbara sängar, hyfsat rymligt, vacker träinredning. På bordet vid fönstret riggar vi bandspelaren och börjar gå igenom den minst sagt digra utredningsluntan.
 :::
 
 ::: indent
@@ -744,7 +744,7 @@ Den magnifika upplevelsen vid stranden till världens djupaste sjöförtas en an
 
 <!-- PAGE 150 START -->
 ::: indent
-Minne 4: Vi når vår slutdestination, Chabarovsk, och går in på en bar. Påväggen bakom disken sitter ett stort fotografi av det svenska landslaget i bandy. VM har just gått i Chabarovsk och Sovjetunionen har för första gången förlorat finalen - till Sverige.
+Minne 4: Vi når vår slutdestination, Chabarovsk, och går in på en bar. På väggen bakom disken sitter ett stort fotografi av det svenska landslaget i bandy. VM har just gått i Chabarovsk och Sovjetunionen har för första gången förlorat finalen - till Sverige.
 :::
 
 ::: indent
@@ -811,9 +811,9 @@ Den långa resan var uppenbarligen inte förgäves. Björkpalissaderna gjorde jo
 <!-- PAGE 150 END -->
 
 <!-- PAGE 151 START -->
-Men innan dess ringer Gösta Ekman igen. Han undrar om jag vill komma ner till hans lantställe i Sälshög utanför Tomelilla. Han och Mats Arehn har presenterat ett program för slag till SVT, dom vill göra ett antal kortfilmer med Göstas karaktär Papphammar. Nu behöver Gösta ett bollplank, behöver testa sina idéer.
+Men innan dess ringer Gösta Ekman igen. Han undrar om jag vill komma ner till hans lantställe i Sälshög utanför Tomelilla. Han och Mats Arehn har presenterat ett programförslag till SVT, dom vill göra ett antal kortfilmer med Göstas karaktär Papphammar. Nu behöver Gösta ett bollplank, behöver testa sina idéer.
 ::: indent
-Jagåker ner.
+Jag åker ner.
 :::
 
 ::: indent
@@ -852,7 +852,7 @@ Minne från Sälshög 3: Jag och Tove vill gifta oss. Vi har varit ihop i åtta 
 :::
 
 ::: indent
-Såhär i efterhand: Borde vi inte själva ha märkt att vi inte fick nåt vigselbevis?
+Så här i efterhand: Borde vi inte själva ha märkt att vi inte fick nåt vigselbevis?
 :::
 
 ::: indent
@@ -937,7 +937,7 @@ Inget av dessa två treatment vidareutvecklas till manus, eventuellt beroende p�
 :::
 
 ::: indent
-Det tredje boken är betydligt friskare och roligare: “*En småländsk tragedi*” av snillet Frithiof Nilsson Piraten. Den hade jag gärna sett som film. Men det kommer inte heller till skott -över tid kommer jag att skriva ganska många treatment och synopsis som aldrig realiseras, delvis på grund av varierande kvalitépå mitt eget arbete, delvis för att filmbranschen är en gyttjepöl på många sätt, lite som Robert Rauschenbergs Mud Mouse:
+Det tredje boken är betydligt friskare och roligare: “*En småländsk tragedi*” av snillet Frithiof Nilsson Piraten. Den hade jag gärna sett som film. Men det kommer inte heller till skott - över tid kommer jag att skriva ganska många treatment och synopsis som aldrig realiseras, delvis på grund av varierande kvalité på mitt eget arbete, delvis för att filmbranschen är en gyttjepöl på många sätt, lite som Robert Rauschenbergs Mud Mouse:
 :::
 
 [yt-video][https://www.youtube.com/watch?v=YrJanM2GGh4]
