@@ -57,7 +57,7 @@ INFERNO - Manus dramamusikal. I samarbete med Carsten Regild och Ted Ström. Ej 
 
 BOBO - Experimentell kortfilm. I samarbete med Carsten Regild. SVT.
 
-GRAFFITTI - Konstprojekt i Stadsmiljö. I samarbete med Carsten Regild.
+GRAFFITI - Konstprojekt i Stadsmiljö. I samarbete med Carsten Regild.
 
 BOOM BOOM BOOM - Happening på Moderna Museet. I samarbete med Carsten Regild och musikgrupperna Contact och Skäggmanslaget.
 
@@ -365,7 +365,7 @@ PARADISET- Manus tv-serie 3 delar. I samarbete med Gösta Ekman. Ej realiserat.
 
 MIMAREN - Manus tv-film. I samarbete med Henrik Schyffert. Ej realiserat.
 
-DE E MYCKE NU - Text till "Symposium om människor och kommuner". Solbacka, Sörmlädn. 1991.
+DE E MYCKE NU - Text till "Symposium om människor och kommuner". Solbacka, Sörmland. 1991.
 
 ## 1992
 
@@ -564,7 +564,7 @@ CORONA - Manus till videofilm. I samarbete med Stefan Sauk. Youtube.
 
 DEN BARMHÄRTIGE SAMARITEN - Kriminalroman. I samarbete med Cilla Börjlind. Norstedts förlag.
 
-BIT DEN HAND SOM FÖDER DIG - Självbiografi. 2021.
+BIT DEN HAND SOM FÖDER DIG - Biografi/Bokslut. 2021.
 
 ---
 
@@ -614,7 +614,7 @@ FRUSET GULD - Kriminalroman. I samarbete med Cilla Börjlind. Norstedts förlag.
 
 DEN BARMHÄRTIGE SAMARITEN - Kriminalroman. I samarbete med Cilla Börjlind. Norstedts förlag. 2021.
 
-BIT DEN HAND SOM FÖDER DIG - Självbiografi. 2021.
+BIT DEN HAND SOM FÖDER DIG - Biografi/Bokslut. 2021.
 
 ---
 
@@ -636,7 +636,7 @@ PFUT - Konstbidrag till Nordiska Ungdomsbiennalen. I samarbete med Carsten Regil
 
 FYRA TIGRAR - Konstbidrag till Liljevalchs vårutställning. I samarbete med Carsten Regild. 1968.
 
-GRAFFITTI - Konstprojekt i Stadsmiljö. I samarbete med Carsten Regild. 1968.
+GRAFFITI - Konstprojekt i Stadsmiljö. I samarbete med Carsten Regild. 1968.
 
 MAXIMOFF - Konstmapp. I samarbete med Carsten Regild. 1974.
 
@@ -804,19 +804,19 @@ BETRAKTELSE - Manus kortfilm. I samarbete med Gunnel Lindblom. Göteborgs Filmfe
 
 BECK - LOCKPOJKEN - Manus tv-film. TV4. 1997.
 
-BECK - MANNEN UTAN ANSIKTE - Manus tv-film. TV4. 1997.
+BECK - MANNEN MED IKONERNA - Manus tv-film. TV4. 1997.
 
-BECK - DEN VITA RAPPAREN - Manus tv-film. TV4. 1997.
+BECK - VITA NÄTTER - Manus tv-film. TV4. 1997.
 
-BECK - ÖOGA FÖR ÖOGA - Manus tv-film. TV4. 1997.
+BECK - ÖGA FÖR ÖGA - Manus tv-film. TV4. 1997.
 
-BECK - PENSIONAT - Manus tv-film. TV4. 1997.
+BECK - PENSIONAT PÄRLAN - Manus tv-film. TV4. 1997.
 
 BECK - SPÅR I MÖRKER - Manus tv-film. TV4. 1997.
 
 BECK - MONSTRET - Manus tv-film. TV4. 1997.
 
-BECK - SISTA VITTNET - Manus tv-film. TV4. 1997.
+BECK - THE MONEYMAN - Manus tv-film. TV4. 1997.
 
 PANNRUM 2 - Manus tv-serie. SVT. 1997.
 
@@ -841,18 +841,6 @@ BECK - POJKEN I GLASKULAN - Manus tv-film. I samarbete med Cilla Börjlind. TV4.
 GUNNAR GOVIN - EN MAN, EN RÖST, EN RESA - Manus videofilm. I samarbete med Stefan Sauk. Universal Picture. 2001.
 
 BECK - SISTA VITTNET - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
-
-BECK - MANNEN UTAN ANSIKTE - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
-
-BECK - KARTELLEN - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
-
-BECK - ENSLINGEN - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
-
-BECK - OKÄND AVSÄNDARE - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
-
-BECK - ANNONSMANNEN - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
-
-BECK - POJKEN I GLASKULAN - Manus tv-film. I samarbete med Cilla Börjlind. TV4. 2002.
 
 GRAVEN - Manus tv-serie 8 delar. I samarbete med Cilla Börjlind. SVT. 2002.
 
@@ -1208,7 +1196,7 @@ NORTH - Bilddikt. North Information, Danmark. 1977.
 
 SVERIGE - Dikt. DN. 1977.
 
-SNASKIGT! SMAKLÖST! SVINAKTIGT! - Satiriska recensioner. I samarbete med Larts Ragnar Forssberg. Dramatens programtidning. 1978.
+SNASKIGT! SMAKLÖST! SVINAKTIGT! - Satiriska recensioner. I samarbete med Lars Ragnar Forssberg. Dramatens programtidning. 1978.
 
 VANMAKTENS DIKTATUR - Litterärt manifest. City. 1978.
 
@@ -1286,7 +1274,7 @@ PÅP - Reklamkampanj för NK. I samarbete med Carsten Regild. 1967.
 
 BENNY NORDGRENS SISTA DANS - Informationsfilm. Mekano Film&Television. 1989.
 
-DE E MYCKE NU - Text till "Symposium om människor och kommuner". Solbacka, Sörmaldn. 1991.
+DE E MYCKE NU - Text till "Symposium om människor och kommuner". Solbacka, Sörmland. 1991.
 
 PROBLEMORIENTERAT POLISARBETE - Instruktionsfilm. I samarbete med Stefan Sauk. 1993.
 
