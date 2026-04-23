@@ -67,7 +67,7 @@ Servitrisen heter Wilma, vad annars? Vi håller kvar henne, hon börjar berätta
 :::
 
 ::: indent
-Vi lyckas beställa ett parägg av henne, bloody side up.
+Vi lyckas beställa ett par ägg av henne, bloody side up.
 :::
 
 ::: indent
@@ -126,7 +126,7 @@ Gul brandpost, vackra taxibilar, röda och vita. Vi är i fransk-kanadensiska om
 Dom förnekar sig aldrig.
 :::
 
-Korsar Mississippi. Schacket fram, all öldrickning förbjuden på bussen, inga kassettbandspelare till åtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett par år senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
+Korsar Mississippi. Schacket fram, all öldrickning förbjuden på bussen, inga kassettbandspelare tillåtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett par år senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
 ::: indent
 En vit, rödhårig benget löper längs Mississippifloden, några killar står på en flodbåt och skjuter på ett sjunket bilvrak.
 :::
@@ -280,7 +280,7 @@ Så här ser ett par dygn ut ur ett dagboksperspektiv:
 
 *Går in i punkaffären Reverage. Tiltade snubbar i sofforna, förskärare genom dockhuvuden, allt är redan genomkommersialiserat.*
 
-*Tar tunnelbanan. 50 cent. Tåget är fullständigt täckt av graffitti. Folk sitter utefter väggarna med blickarna ner i golvet. Åker mot 8:e, huvudpostkontoret, Poste Restante. Svalt och skitigt i vagnarna. En man som blöder ur munnen, en kvinna med tvåfärgat hår, en dvärg som läser New York Times. Alla sitter tysta. Ett utmärkt ställe att skriva på, omgiven av tuggummifläckar.*
+*Tar tunnelbanan. 50 cent. Tåget är fullständigt täckt av graffiti. Folk sitter utefter väggarna med blickarna ner i golvet. Åker mot 8:e, huvudpostkontoret, Poste Restante. Svalt och skitigt i vagnarna. En man som blöder ur munnen, en kvinna med tvåfärgat hår, en dvärg som läser New York Times. Alla sitter tysta. Ett utmärkt ställe att skriva på, omgiven av tuggummifläckar.*
 
 *Köper ett kilo räkor på 9:e Ave. Fishmarket. Köper ett par flaskor tunn Chablis. Köper en pizzaslice. 50 cent. Och vilken pizza! Hård, tunn botten, starkt kryddad, bästa nånsin.*
 
@@ -587,7 +587,7 @@ Ur innehållet: Jag framför ”*Råttor av glas*” - monologen som nekrolog. C
 <!-- PAGE 129 START -->
 ---
 
-Kort mellanspel: Jag får ett långt brev Expressens kulturchef Arne Ruth. Han beskriver en debattserie han har tänkt sig i tidningen, under namnet ”*Befria Kulturen*”, och ber mig om ett bidrag. Jag klipper upp hans brev i korta ord och meningar, klistrar ihop lapparna slumpvis och presenterar förslaget som en dadadikt - ”*oändligt originell och förtrollande sensibel men ingenting för vanligt sunt förnuft*.”
+Kort mellanspel: Jag får ett långt brev från Expressens kulturchef Arne Ruth. Han beskriver en debattserie han har tänkt sig i tidningen, under namnet ”*Befria Kulturen*”, och ber mig om ett bidrag. Jag klipper upp hans brev i korta ord och meningar, klistrar ihop lapparna slumpvis och presenterar förslaget som en dadadikt - ”*oändligt originell och förtrollande sensibel men ingenting för vanligt sunt förnuft*.”
 ::: indent
 Den publiceras aldrig.
 :::
@@ -903,11 +903,7 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **den våta råa luften sveper upp**
 **från Hudsonfloden**
 **där slamkryparna borrar sig genom liktång.**
-:::
-<!-- PAGE 134 END -->
 
-<!-- PAGE 135 START -->
-::: poem
 **Jag ställer mig avvaktande vid vattnet -**
 **grågrönt, med strimmor av oljefärg,**
 **dekorerat med slafsiga maneter, spräckta kådis,**
@@ -1043,7 +1039,9 @@ Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsp
 **i samhället,**
 **det är dom inslagna som ska ut.**
 :::
+<!-- PAGE 134 END -->
 
+<!-- PAGE 135 START -->
 ::: part
 :::
 

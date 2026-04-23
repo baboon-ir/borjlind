@@ -191,7 +191,7 @@ På tal om söner och fäder.
 <!-- PAGE 213 END -->
 
 <!-- PAGE 214 START -->
-Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ”*Vita lögner*”, ett uttryck pappan använde för att ursäkta sina små och stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonens ögon (Mats).
+Mats Arehn hör av sig. Vi har gjort mycket tillsammans vid det här laget och gillar varandra, även privat. Han är rak, sårbar och bra på att trolla. Dessutom väldigt rolig. Han är också en dedicerad regissör med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originell livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska heta ”*Vita lögner*”, ett uttryck pappan använde för att ursäkta sina små och stora bedrägerier. Vi ska följa en människas uppgång och fall, sedd genom den lille sonens ögon (Mats).
 ::: indent
 Jag tycker historien är fantasifull och djupt mänsklig. Och dråplig. Vid ett tillfälle köper pappan på sig ett antal stora vinfat i trä (för familjens besparingar). Han tänker starta en stugby i Frankrike. När dom nermonterade vinfaten anländer är dom omöjliga att montera ihop. Ännu en dröm spricker.
 :::
@@ -439,7 +439,7 @@ Anekdot om Gösta den äldre (från hästens mun): Ekman ansåg att han borde ha
 :::
 
 ::: indent
-– Titta så lessna elefanterna är, sa han. Så åålessna.
+– Titta så lessna elefanterna är, sa han. Sååå lessna.
 :::
 
 Teaterdirektören fattade rätt snabbt vad det handlade om och föreslog en rejäl höjning av Ekmans gage varvid Ekman pekade på elefanterna.
@@ -522,13 +522,13 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **En riktig man.**
 
-**Enögda Biertéhade två friska ögon och en blick som kunde paralysera en jaktfalk i flykten: hon såg mycket bra, speciellt i mörker. Sitt öknamn hade hon aldrig ifrågasatt. Ingen annan heller. Enögda Biertéifrågasatte man inte. På sin höjd bytte man rykten bakom hennes rygg, små rykten, ofarliga, som aldrig skulle våga sig in i Biertés tillvaro.**
+**Enögda Bierté hade två friska ögon och en blick som kunde paralysera en jaktfalk i flykten: hon såg mycket bra, speciellt i mörker. Sitt öknamn hade hon aldrig ifrågasatt. Ingen annan heller. Enögda Bierté ifrågasatte man inte. På sin höjd bytte man rykten bakom hennes rygg, små rykten, ofarliga, som aldrig skulle våga sig in i Biertés tillvaro.**
 
-**Till Enögda Biertérasslade samtliga byns kvinnor den eftermiddagen.**
+**Till Enögda Bierté rasslade samtliga byns kvinnor den eftermiddagen.**
 
 **- Jag har sett honom.**
 
-**Enögda Biertéstod i dörröppningen till sitt dova stenhus, hennes röst nådde ut över hela svärmen.**
+**Enögda Bierté stod i dörröppningen till sitt dova stenhus, hennes röst nådde ut över hela svärmen.**
 
 **Så tystnade hon.**
 
@@ -538,7 +538,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **- Jag vet.**
 
-**Enögda Biertévisste. Naturligtvis. Ingen hade väntat sig annat. Hennes makt byggde på det. Hon hade redan försvunnit in i huset och lämnat ytterdörren på glänt. Svärmen tog det som en blandning av befallning och invit.**
+**Enögda Bierté visste. Naturligtvis. Ingen hade väntat sig annat. Hennes makt byggde på det. Hon hade redan försvunnit in i huset och lämnat ytterdörren på glänt. Svärmen tog det som en blandning av befallning och invit.**
 
 **I Enögda Biertés hus fanns det gott om plats, för alla, även om Vattenkvinnan föredrog att hejda sig vid dörrposten, där hon diskret drog av sin huva.**
 
@@ -548,7 +548,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **- Allt står skrivet, för mycket länge sedan, och nu ska ni få höra vad det handlar om.**
 
-**Så lyfte Biertéförsiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.**
+**Så lyfte Bierté försiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.**
 
 **- ...”En dag ska en man komma till Änkornas By, på andra sidan det öde landskapet. Ingen ska se honom komma, ingen ska veta vem han är. Plötsligt ska han stå där, utanför byns enda bar, en brun skugga med ett långsmalt gevär under armen ... ”**
 
@@ -562,17 +562,17 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **- ... ”Han ska börja sitt skjutande i skymningen och när morgonen kommer ska två personer ha lämnat byn. Mannen är en av dom. Av honom återstår bara kattlik och en gnyende hundvalp som han släppt ut i skydd av mörkret.” ...**
 
-**Enögda Biertésänkte pappret en aning, hon visste redan vad som skulle komma.**
+**Enögda Bierté sänkte pappret en aning, hon visste redan vad som skulle komma.**
 
 **- Vem mer ska försvinna ur byn?**
 
-**Det var inte Vattenkvinnan som frågade. Det var en röst vilken som helst ur svärmen på golvet, och Biertédrog in luft. Hennes blick släppte pappret, för första gången, och hon talade utan facit.**
+**Det var inte Vattenkvinnan som frågade. Det var en röst vilken som helst ur svärmen på golvet, och Bierté drog in luft. Hennes blick släppte pappret, för första gången, och hon talade utan facit.**
 
 **- Den enda i byn som känner igen en man.**
 
 **- En riktig man, menar du.**
 
-**Nu var det Vattenkvinnans röst. Att hon överhuvudtaget yttrade sig spred en viss oro på golvet. Att hon dessutom hade en helt ny klang i rösten var det nog bara Enögda Biertésom uppfattade.**
+**Nu var det Vattenkvinnans röst. Att hon överhuvudtaget yttrade sig spred en viss oro på golvet. Att hon dessutom hade en helt ny klang i rösten var det nog bara Enögda Bierté som uppfattade.**
 
 **- Just det, kära du, en riktig ... man.**
 
@@ -580,7 +580,7 @@ Det har jag. En text som jag har döpt till *”Änkornas By”*:
 
 **- Vems katt ska han börja med?**
 
-**Det var Kvinnan utan sorg som frågade och i hennes inandning slog ekot av det första skottet in i rummet. Enögda Bierténästan viskade sitt svar till kvinnan.**
+**Det var Kvinnan utan sorg som frågade och i hennes inandning slog ekot av det första skottet in i rummet. Enögda Bierté nästan viskade sitt svar till kvinnan.**
 
 **- Din.**
 
@@ -642,7 +642,7 @@ Egentligen har jag inte tid, men blir lite provocerad. Hängande i luften? Så j
 
 **Det var på den tiden jag såg mig om i världen, reste överallt, tog påhugg där det fanns, överlevde, lärde mig språk och människor... ett tag jobbade jag för en distriktsförvaltning i Mexico och hade till uppgift att skjuta av katter på landsbygden.**
 
-Kommen så långt känner jag att jag villåt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
+Kommen så långt känner jag att jag vill åt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
 
 **Mannen som satt vid det skitiga barfönstret var brunbränd och mager, inte tärd, men mager. Ett långsmalt gevär stod lutat mot träväggen intill honom, på bordet stod en flaska Wild Turkey. Han hällde upp ett glas av den bruna drycken och undrade om macken var uppkallad efter whiskyn. Turkey Flat. Förmodligen inte. Ute vid pumpen stod en rostig ambulans, ett par hundar rörde sig längs oljefaten, värmen dallrade över asfalten.**
 

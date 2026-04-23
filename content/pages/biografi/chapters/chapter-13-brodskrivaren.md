@@ -217,11 +217,12 @@ I mars bjuds jag in till New York för att uppträda i St Marks Church Poetry Pr
 
 **”Gråt inte, Eric, nu när vi äntligen har lärt glömma varann, njut istället: ett gott förlöjligande stärker självförtroendet och en rejäl driftkucku kan inte skattas i pengar. Framsteg från arvsynden vars sexuella kärlek medger: bredare myt! samverkande impulser! döm om min förvåning!**
 
-**Utan överloppsenergi kan du böja tummen mot pekfingret och följaktligen förbise ekonomiska behov eller tekniska lösningar - produktionskraften är lika meningslös som blotta berättigandet i prestationen. Lär dig att använda verkligheten och inte symbolerna. Tvinna språket till en brutal piska och smiska in sanningarna där dom svider som mest: tydlighet är dynamit.**
 <!-- PAGE 142 END -->
 
 <!-- PAGE 143 START -->
 ::: accordion
+**Utan överloppsenergi kan du böja tummen mot pekfingret och följaktligen förbise ekonomiska behov eller tekniska lösningar - produktionskraften är lika meningslös som blotta berättigandet i prestationen. Lär dig att använda verkligheten och inte symbolerna. Tvinna språket till en brutal piska och smiska in sanningarna där dom svider som mest: tydlighet är dynamit.**
+
 Funktion innebär att varje handling har ett djupare jämviktsläge som leder till döden, dess stabilitet och psykiska nödtorft - det faktum att disharmoni förorsakar en lugn inre konstitution befriar effektivt full funktionsduglighet:
 
 vi vill video, sa han och somnade i fallskärmen.
@@ -352,7 +353,7 @@ Ungefär som när Mats Arehn skulle ”fixa över” ett manus inför ”*Kocken
 Jag ska bli lärling igen.
 :::
 
-Hur som helst: Jag och Mats Arehn (som är tänkt som regissör) åker ner till Mallorca. Gösta bor i en liten by ovanför staden Soller som heter Fornalutx. I ett mycket vackert hus, en finca, med sin fru Pia.
+Hur som helst: Jag och Mats Arehn (som är tänkt som regissör) åker ner till Mallorca. Gösta bor i en liten by ovanförstaden Soller som heter Fornalutx. I ett mycket vackert hus, en finca, med sin fru Pia.
 ::: indent
 Vi börjar gå i bergen, prata, gå och prata, oändliga promenader med prat om allt och ingenting och inemellan matnyttiga saker och svalkande drycker. Gösta vill att huvudpersonen i den svenska varianten ska heta Charles-Ingvar Jönsson och kallas för “Sickan” (ett hommage till skådespelerskan Sickan Carlsson).
 :::
@@ -435,11 +436,7 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Du vakar över dina oförrätter**
 **Som en hallick med krossad knäskål.**
 **Din gryning är av ben.**
-:::
-<!-- PAGE 146 END -->
 
-<!-- PAGE 147 START -->
-::: poem
 **Inuti avsmaken, djupt**
 **I det teoretiska snittet,**
 **Dansar skalpellerna på din bröstkorg**
@@ -618,7 +615,9 @@ Jag skriver en lång dikt som ett brev till Carsten:
 **Flimmerhåren påminner dig om kajen.**
 **Om kroppen som torkade.**
 :::
+<!-- PAGE 146 END -->
 
+<!-- PAGE 147 START -->
 ::: part
 :::
 
@@ -887,7 +886,7 @@ Under arbetet med Papphammar har Carsten haft en separatutställning i Västtysk
 
 I katalogen citerar Carsten en bit av feelgoodprofeten Celine:
 
-**”Dom saker som man var mest fäst vid beslutar man en vacker dag att tala allt mindre om och det är med en ansträngning man gör det när man blir tvungen. Man är utled på att höra sig själv snacka i ett ... Man skär ner ... Man ger upp ... Man har hållit på och pratat i trettio år ... Man är inte länge så mån om att ha rätt. Man tappar till och med lusten att bevara den lilla plats man hade sparat åt sej bland livets nöjen ... Man får avsmak för sig själv ... ”**
+**”Dom saker som man var mest fäst vid beslutar man en vacker dag att tala allt mindre om och det är med en ansträngning man gör det när man blir tvungen. Man är utled på att höra sig själv snacka i ett ... Man skär ner ... Man ger upp ... Man har hållit på och pratat i trettio år ... Man är inte längre så mån om att ha rätt. Man tappar till och med lusten att bevara den lilla plats man hade sparat åt sej bland livets nöjen ... Man får avsmak för sig själv ... ”**
 
 I samband med utställningen gör vi en multimediaföreställning på Moderna Museet med namnet ”*Gateway*”.
 

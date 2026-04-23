@@ -636,7 +636,7 @@ På ett eller annat sätt hittar jag tillbaka till orden efter en stund, till de
 :::
 
 ::: indent
-Efteråt går jag ut för att få luft, svalka ner blodet. Och tänker: musik är förödande ... förödande över lägset alla andra emotionella instrument. Det går inte att värja sig. Jag borde ha vetat det, efter att ha varit inbäddad i musik sen tonåren, men det hjälpte inte. Jag åkte iväg på en resa som jag aldrig glömmer.
+Efteråt går jag ut för att få luft, svalka ner blodet. Och tänker: musik är förödande ... förödande överlägset alla andra emotionella instrument. Det går inte att värja sig. Jag borde ha vetat det, efter att ha varit inbäddad i musik sen tonåren, men det hjälpte inte. Jag åkte iväg på en resa som jag aldrig glömmer.
 :::
 <!-- PAGE 257 END -->
 
@@ -1021,11 +1021,11 @@ En replik som jag upprepar ett antal gånger efter det att Cilla och jag är kla
 :::
 
 ::: indent
-Det är så här: När du skriver ett manus, när du går in i en scen med levande människor i en dramatisk konflikt, så lägger du ner dig själv i den konflikten, dina känslor, dina reaktioner, ditt språk. Det är en kreativ förlossning. Du vill inte att det ska sluta i ett missfall. Har det gjort det för många gånger såkänner du att det är vettigare att befrukta andra sammanhang. Där du bestämmer att barnet ska födas och se exakt ut såsom du har beskrivit det. Som i en bok.
+Det är så här: När du skriver ett manus, när du går in i en scen med levande människor i en dramatisk konflikt, så lägger du ner dig själv i den konflikten, dina känslor, dina reaktioner, ditt språk. Det är en kreativ förlossning. Du vill inte att det ska sluta i ett missfall. Har det gjort det för många gånger så känner du att det är vettigare att befrukta andra sammanhang. Där du bestämmer att barnet ska födas och se exakt ut så som du har beskrivit det. Som i en bok.
 :::
 
 ::: indent
-Missfall tär pålusten.
+Missfall tär på lusten.
 :::
 <!-- PAGE 263 END -->
 
@@ -1035,7 +1035,7 @@ Så när Lasse Blomgren får SVT att gå in i en samproduktion om en ny tv-serie
 :::
 
 ::: indent
-– Varför gåöverån efter vatten?
+– Varför gå över ån efter vatten?
 :::
 
 ::: indent
@@ -1128,7 +1128,7 @@ Den inleds så här:
 
 **Det, och stegandet.”**
 
-Novellen publiceras senareäven i den svenska antologin ”*Svart Lucia*” och ges ocksåut i bokform av Bokfabriken i Malmö.
+Novellen publiceras senare även i den svenska antologin ”*Svart Lucia*” och ges också ut i bokform av Bokfabriken i Malmö.
 
 ::: part
 :::
@@ -1147,7 +1147,7 @@ Serien har just den balans mellan absurd humor och brutala konflikter som jag ä
 :::
 
 ::: indent
-Annan tv-serie som alltid rinner upp:”*Den sjungande detektiven*”. En musikalthriller som gick 1986 med sir Michael Gambion i huvudrollen (förmodligen mest känd som Albus Dumbledore i Harry Potter-serien). Denär skriven av tv-geniet Dennis Potter och handlar om författaren Philip Marlowe, specialist pånoir-deckare. Marlow ligger på sjukhus och behandlas för svår psoriasis, i sina yrselanfall ser han sig själv i en fantasivärld där han agerar som deckar författaren Raymond Chandlers huvudperson Philip Marlowe. Ofta brister han ut i sång i sin yrsel.
+Annan tv-serie som alltid rinner upp:”*Den sjungande detektiven*”. En musikalthriller som gick 1986 med sir Michael Gambion i huvudrollen (förmodligen mest känd som Albus Dumbledore i Harry Potter-serien). Den är skriven av tv-geniet Dennis Potter och handlar om författaren Philip Marlowe, specialist på noir-deckare. Marlow ligger på sjukhus och behandlas för svår psoriasis, i sina yrselanfall ser han sig själv i en fantasivärld där han agerar som deckar författaren Raymond Chandlers huvudperson Philip Marlowe. Ofta brister han ut i sång i sin yrsel.
 :::
 
 ::: indent
@@ -1165,7 +1165,7 @@ Donald Trump.
 
 <!-- PAGE 266 START -->
 ::: indent
-En man som snabbt kommer att demontera all värdig kommunikation på alla plan. Dom närmasteåren kommer han att göra världen till en långt farligare platsän innan, enbart genom sin privata stupiditet.
+En man som snabbt kommer att demontera all värdig kommunikation på alla plan. Dom närmaste åren kommer han att göra världen till en långt farligare plats än innan, enbart genom sin privata stupiditet.
 :::
 
 ::: indent
@@ -1251,7 +1251,7 @@ Av olika skäl blir det ingen ”*Springfloden 3*”.
 ::: part
 :::
 
-Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. På betongpuckeln nedanför Bellmansgatan har någon sprejat: ”*Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.*”. Det är 39 år sen jag skrev det i ”*Persona Non Grata*”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
+Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidig höst. På betongpuckeln nedanför Bellmansgatan har någon sprejat: ”*Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.*”. Det är 39 år sen jag skrev det i ”*Persona Non Grata*”. Hur har det hamnat som graffiti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
 ::: indent
 Nån ordning får det vara.
 :::
@@ -1300,7 +1300,7 @@ Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor f
 Såkan ocksåkärlek uttryckas.
 :::
 
-Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest påhänderna. Du ritade med händerna, småskisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var varma, dom gånger du la högerhanden ovan på min vänsterhand och tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var över ens. Det var vi nog, oftast. Dina händer sträckte sig ibland mot böcker, bokryggar, titlar från världens alla hörn och jag fick en bok i knät. Behåll den. Du hade nästan alltid tvåexemplar av alla böcker du gillade. Ett för dina egna marginalanteckningar, ett för mindre vetgiriga vänner. Som jag, som sällan läste. Vi pratade inte så ofta om kvinnor. Eller gjorde vi det? Jo, det gjorde vi nog, kvinnor ur det förflutna och kvinnor som hade förflyttat oss. Närmast varandra kom vi när vi skrattade, när vi sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom däråren? Jag kom från en spårvagns för are i Malmömed ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, tvåinledningsfraser och sålossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. Påtå, det var sådu förhöjde mig. Kanske inte alltid såkomfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka pådina händer, tvåkrabbor av mjuk längtan, det fanns nåt i dina händer som var såsökande. Som var du.
+Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest på händerna. Du ritade med händerna, små skisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var varma, dom gånger du la högerhanden ovan på min vänsterhand och tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var över ens. Det var vi nog, oftast. Dina händer sträckte sig ibland mot böcker, bokryggar, titlar från världens alla hörn och jag fick en bok i knät. Behåll den. Du hade nästan alltid tvåexemplar av alla böcker du gillade. Ett för dina egna marginalanteckningar, ett för mindre vetgiriga vänner. Som jag, som sällan läste. Vi pratade inte så ofta om kvinnor. Eller gjorde vi det? Jo, det gjorde vi nog, kvinnor ur det förflutna och kvinnor som hade förflyttat oss. Närmast varandra kom vi när vi skrattade, när vi sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom däråren? Jag kom från en spårvagns för are i Malmömed ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, tvåinledningsfraser och sålossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. Påtå, det var sådu förhöjde mig. Kanske inte alltid såkomfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka pådina händer, tvåkrabbor av mjuk längtan, det fanns nåt i dina händer som var såsökande. Som var du.
 ::: indent
 Mjukt ljus över  en vän.
 :::
@@ -1376,7 +1376,7 @@ Så har vi riksdagsval i vårt land, en nationell begivenhet, inte minst i massm
 
 Skrämmande.
 
- Jag letar fram min gamla dikt om Sverige från 1977, en par av stroferna lyder:
+ Jag letar fram min gamla dikt om Sverige från 1977, ett par av stroferna lyder:
 <!-- PAGE 269 END -->
 
 <!-- PAGE 270 START -->
@@ -1422,7 +1422,7 @@ Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration 
 
 Jag besöker utställningen. Det är lite märkligt att se Carstens och mitt projekt redovisat i den här miljön, 43 år senare. Det väcker en del känslor. Saknad efter kusinen, efter den vulkaniska optimism vi hade, hur vi trodde att allt var möjligt.
 ::: indent
-Att världen skulle gåatt förädla.
+Att världen skulle gå att förädla.
 :::
 <!-- PAGE 270 END -->
 
@@ -1486,7 +1486,7 @@ Parentes: En av mina favoritböcker på 60-talet, Hemingways klassiker ”*Och s
 <!-- PAGE 271 END -->
 
 <!-- PAGE 272 START -->
-Ibland, nakna gryningar när hjärnan är genomspolad av friskt syre, blir jag sugen påsatirformen igen. Den riktiga, råa, den som inte väjer. Den som nästan inte finns idag.
+Ibland, nakna gryningar när hjärnan är genomspolad av friskt syre, blir jag sugen på satirformen igen. Den riktiga, råa, den som inte väjer. Den som nästan inte finns idag.
 ::: indent
 Varför?
 :::
@@ -1678,7 +1678,7 @@ Beklämmande.
 <!-- PAGE 273 END -->
 
 <!-- PAGE 274 START -->
-2020 blir ett märkligtår.
+2020 blir ett märkligt år.
 ::: indent
 Coronan slår till och lamslår världen. Ordet ”karantän” får en global och fruktansvärd innebörd, det handlar inte om pudelfrakt längre. Hela tillvaron förändras.
 :::
@@ -1768,11 +1768,11 @@ Förmodligen handlar det om den utmätta tiden: ju mindre man har att se fram em
 :::
 
 ::: indent
-Där har det juändåhänt en del.
+Där har det ju ändå hänt en del.
 :::
 
 ::: indent
-Ändåmessade jag till minäldste son nyss: Framtiden tillhör dom som erövrar den!
+Ändå messade jag till min äldste son nyss: Framtiden tillhör dom som erövrar den!
 :::
 
 ::: indent

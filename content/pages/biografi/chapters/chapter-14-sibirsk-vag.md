@@ -28,7 +28,7 @@ Fångsten tas om hand på ett ganska makabert sätt (det är inte helt lätt att
 :::
 
 ::: indent
-Ett tips: färsk, rundröktål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
+Ett tips: färsk, rundrökt ål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
 :::
 
 ::: part
@@ -58,9 +58,7 @@ Föreställningen öppnar med en prolog av den heltatuerade kroppspoeten Lars We
 **OM OSS SJÄLVA ... NI OCH VI**
 **IKVÄLL SKA VI HÅLLA ANDAN EN STUND**
 **FÖR ATT SE VAD SOM HÄNDER INUTI**
-:::
 
-::: poem
 **VI SKA BERÄTTA LITE OM OSS OCH OM ER**
 **OCH OM ALLT DET SOM KALLAS VÅRT**
 **OCH OM DET SOM IBLAND ÄR MYCKET LÄTT**
@@ -105,9 +103,7 @@ Själv framför jag dikten ”*rent & rått*”- mitt i en fras lämnar jag plö
 **tills ryggkotorna krasar**
 **för en liten förgiftad druva**
 **från dom besuttnas klasar**
-:::
 
-::: poem
 **vi ser en flaska som guppar i dyningen**
 **med ett brev av blod och skinn**
 **från en av dom som stannade**
@@ -476,6 +472,8 @@ Men dom flesta dagar både ser och hör jag väldigt tydligt. Det är dom dagarn
 <!-- PAGE 162 START -->
 ::: indent
 Ibland, i sällsynta fall, skriver jag utan att tänka. Händerna och tangentbordet är bara transportmedel för ett inre flöde som vill fram till det vita arket så snabbt som möjligt. Utan att bromsas av mitt medvetande. Då är det alltid spännande efteråt, att läsa vad det var som for förbi. Ofta är det en text som jag aldrig kunde ha skrivit om jag hade tänkt skriva den. Den är en gåva från mitt undermedvetna.
+
+
 :::
 
 ::: indent

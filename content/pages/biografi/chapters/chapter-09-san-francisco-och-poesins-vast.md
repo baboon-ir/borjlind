@@ -566,7 +566,7 @@ En sak värd att minnas från St Pauls Hotel, för sin skönhets skull: Ett stor
 
 Jag köper en liten silvrig kassettbandspelare, min ambition är att löpande prata in det vi är med om. Bruno har anteckningsböcker. Vi kommer över Dylans nysläppta ”*Street Legal*” och hyr en bil.
 ::: indent
-Zekeli ska inte med. Han har åkt till East Bay Terminal för att försöka ta sig till New York och vidare hem. Han orkar inte bära resväskan nerför trappan. ”Jag kan inte äta” säger han. ”Jag kan inte få i mig nån mat.” Under hela SF-vistelsen har han bara ätit stekta ägg och ostron. För övrigt har han levt på Jack Daniels och kaffe, då och då en flaska champagne och B-vitaminer.
+Zekeli ska inte med. Han har åkt till East Bay Terminal för att försöka ta sig till New York och vidare hem. Han orkar inte bära resväskan nerför trappan. ”Jag kan inte äta” säger han. ”Jag kan inte få i mig nån mat. Ostronen är för stora, det känns som att få ett pojkollon i munnen”. Under hela SF-vistelsen har han bara ätit stekta ägg och ostron. För övrigt har han levt på Jack Daniels och kaffe, då och då en flaska champagne och B-vitaminer.
 :::
 
 ::: indent

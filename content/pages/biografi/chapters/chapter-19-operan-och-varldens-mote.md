@@ -147,7 +147,7 @@ Nu vill han att vi jobbar ihop igen.
 
 <!-- PAGE 222 START -->
 ::: indent
-Operan ska handla om Sigurdskvädet, som finns i den gamla Völsungasagan (och är en bärande del i Wagners ”*Niebelungens ring*”). Historien handlar om Sigurd som dräper draken Fafner för att hämnas på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och ska åter förenas med sin älskade Brynhilde.
+Operan ska handla om Sigurdskvädet, som finns i den gamla Völsungasagan (och är en bärande del i Wagners ”*Niebelungens ring*”). Historien handlar om Sigurd som dräper draken Fafner för att hämnas på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och ska återförenas med sin älskade Brynhilde.
 :::
 
 ::: indent
@@ -423,7 +423,7 @@ Direkt corny Grannenminne: Inför en Guldbaggegala får Filminstitutet för sig 
 
 Hej och hå.
 ::: indent
-Till slut går det så långt att tidskriften Cafébasunerar ut: ”Vi måste organisera oss i kampen för ett stänkarfritt Sverige!”
+Till slut går det så långt att tidskriften Café basunerar ut: ”Vi måste organisera oss i kampen för ett stänkarfritt Sverige!”
 :::
 
 Intressant konflikt om upphovsrätt: Cilla och jag avslutar vårt Beckskrivande efter 26 filmer. Filmlance, TV4 och den motsvarande kanalen i Tyskland (ZDF) vill fortsätta serien. Det är fine med oss, även om det känns extremt mjölkigt. Däremot påpekar jag att dom inte kan använda sig av Grannen i en eventuell fortsättning. Den karaktären är min. Det blir upptakten till en segsliten upphovsrättslig konflikt. I första vändan försöker Filmlance få mig att enbart skriva Grannen-scenerna i den tänkta fortsättningen. Jag är helt ointresserad av det. Istället föreslår jag att dom förnyar konceptet, låter en begåvad komedienne, typ Suzanne Reuter, dyka upp som Grannens okända syster. Grannen har dött och hon har tagit över hans lägenhet. Det skulle ge ny komisk energi åt scenerna. Jag får inget gehör för det förslaget. Istället hävdar filmbolaget att hela det fortsatta Beckprojektet skulle gå i stöpet om inte Grannen är med, vilket i sin tur skulle äventyra hela produktionsbolagets existens.
@@ -486,7 +486,7 @@ Och tydligen också enligt radioprofilen Kjell Alinge som skriver så här om Be
 ::: part
 :::
 
-1996 är ett märkligt tomtår, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
+1996 är ett märkligt tomt år, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
 ::: indent
 Annars går början av året åt till att avsluta första Beck-serien, efter det är det stiltje. Avståndet mellan den yttre världen och mitt skrivande har dragits ut under en längre tid, skrivandet har blivit ett skrivande per se, inte en direkt reaktion på omvärlden.
 :::
@@ -538,7 +538,7 @@ Ulf Linde har slutat som konstintendent på Moderna Museet och tagit över Thiel
 
 Så här skriver Linde om Carsten i inbjudan till utställningen:
 
-**”Han kom från ett annat håll, en främling som bara dök upp i konstlivet - helt fri från omgivningens   jargong. Det var på sextitalet, och även om hans målningar var ”samhällskritiska” liknade de inga andras; de var desperat kvicka, djupt ytliga - på en gång smaklösa och smakliga.**
+**”Han kom från ett annat håll, en främling som bara dök upp i konstlivet - helt fri från omgivningens   jargong. Det var på sextiotalet, och även om hans målningar var ”samhällskritiska” liknade de inga andras; de var desperat kvicka, djupt ytliga - på en gång smaklösa och smakliga.**
 
 **En desillusionerad dandy på ovanligt gott humör - ungefär så upplevde man Carsten Regild. En narr, en joker, med blåsyra i sin raffräschör, en Picabia som sa NON till allt med en ironisk diktion lånad från pladdriga reklamfilmer.**
 
@@ -566,7 +566,7 @@ Jag skriver själv en text till utställningskatalogen med titeln ”*Konstens �
 ::: accordion
 **”Det finns en bristpunkt i varje människa, en punkt där kollapsen bidar. Den punkten är konstens öga. Därifrån återvänder ingen oanfrätt: det blicken sett i konstens öga utesluter allt slagg. Somliga av oss sugs mot punkten, med eller mot vår vilja. Somliga flyr åt andra hållet. Carsten flydde aldrig. Obönhörligt sögs han mot sin bristpunkt, balanserade över avgrunden och återvände: punkten blev hans öga.**
 
-**Det var därifrån han målade. Anfrätt, och konstant besatt: han brast på duken. Resultatet var vackert och påfrestande. Exakt och gåtfullt. Han skar ett snitt i varje tavla och presenterade sin bristpunkt: han målade kollapsen. Inte sin egen, den hade han dresserat, utan vår. Samtidens kollaps. Den är avläsbar i varje bild, för den som vågar. Den är där för oss, vi som glider vårdslösa genom världen. För att vi ska minnas det vi helst vill glömma: hur det egentligen ser ut. På riktigt. När sanningen är det enda som återstår. Det blev hans verk. Och öde. När andra samlade sin kompetens i estetiskt  fulländade tavlor, slet Carsten upp ett trasigt hål av skräck. Fulhet, skam, groteskeri ... han visste sin omutliga uppgift: att förvalta skriket. Han var alltigenom sann. Det gjorde honom farlig, och förtvivlad. Och mycket utanför. Han visste för mycket om det förbjudna. Om det som avtäcks vid bristpunkten: han visste vem han var. Det är få förunnat, och det har sitt pris. Konstens öga är obarmhärtigt, i bristpunkten finns ingen nåd. Där härskar ett säreget ultimatum: berätta exakt det du ser, eller brist. Carsten berättade. Om absolut kärlek, som det innersta och yttersta av allt: han älskade sin kvinna tills han dog. Om ondskan, den lismande ondskan, som omärkligt förvandlar oss till det vi en gång fruktade. Om längtan, efter den sortens samhörighet som utesluter alla andra. Om hungern, det skållade barnet, den hunger som handlar om bekräftelse, eller bara enkel tröst. Om hatet, skuggan som förföljer oss, rösten av den innan, som förminskar oss med flit: han visste allt om den sortens hat. Och han berättade. Han berättade om det rudimentära. Om lusten, glädjen, den färgade hjärnan som exploderar i en orgasm av primitiv lycka. Om sexualiteten. Sexualiteten, som flåsar genom kroppen som en rabiesdrabbad vinthund: han vågade glänta på mörkret. Han vågade se. Åt oss. Och berätta. Han arbetade utan förtecken, avskalat och direkt, han hade gångavstånd till det undermedvetna. Hans redskap var skurna ur omvärlden, tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som till ät hans blick att betrakta tillvaron med skoningslös konsekvens: han hade tolkningsföreträde till det djupt skrämmande. Och sanna: konstens öga. Nu är han död ... och jag såg honom senast igår, när han leende gled genom minnet och kastade släckt ljus mot himlen.”**
+**Det var därifrån han målade. Anfrätt, och konstant besatt: han brast på duken. Resultatet var vackert och påfrestande. Exakt och gåtfullt. Han skar ett snitt i varje tavla och presenterade sin bristpunkt: han målade kollapsen. Inte sin egen, den hade han dresserat, utan vår. Samtidens kollaps. Den är avläsbar i varje bild, för den som vågar. Den är där för oss, vi som glider vårdslösa genom världen. För att vi ska minnas det vi helst vill glömma: hur det egentligen ser ut. På riktigt. När sanningen är det enda som återstår. Det blev hans verk. Och öde. När andra samlade sin kompetens i estetiskt  fulländade tavlor, slet Carsten upp ett trasigt hål av skräck. Fulhet, skam, groteskeri ... han visste sin omutliga uppgift: att förvalta skriket. Han var alltigenom sann. Det gjorde honom farlig, och förtvivlad. Och mycket utanför. Han visste för mycket om det förbjudna. Om det som avtäcks vid bristpunkten: han visste vem han var. Det är få förunnat, och det har sitt pris. Konstens öga är obarmhärtigt, i bristpunkten finns ingen nåd. Där härskar ett säreget ultimatum: berätta exakt det du ser, eller brist. Carsten berättade. Om absolut kärlek, som det innersta och yttersta av allt: han älskade sin kvinna tills han dog. Om ondskan, den lismande ondskan, som omärkligt förvandlar oss till det vi en gång fruktade. Om längtan, efter den sortens samhörighet som utesluter alla andra. Om hungern, det skållade barnet, den hunger som handlar om bekräftelse, eller bara enkel tröst. Om hatet, skuggan som förföljer oss, rösten av den innan, som förminskar oss med flit: han visste allt om den sortens hat. Och han berättade. Han berättade om det rudimentära. Om lusten, glädjen, den färgade hjärnan som exploderar i en orgasm av primitiv lycka. Om sexualiteten. Sexualiteten, som flåsar genom kroppen som en rabiesdrabbad vinthund: han vågade glänta på mörkret. Han vågade se. Åt oss. Och berätta. Han arbetade utan förtecken, avskalat och direkt, han hade gångavstånd till det undermedvetna. Hans redskap var skurna ur omvärlden, tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som tillät hans blick att betrakta tillvaron med skoningslös konsekvens: han hade tolkningsföreträde till det djupt skrämmande. Och sanna: konstens öga. Nu är han död ... och jag såg honom senast igår, när han leende gled genom minnet och kastade släckt ljus mot himlen.”**
 :::
 
 Till vernissaget trycker jag också upp en diktsamling, 38 epitaph till minne av Carsten. Den heter ”*Som en akt av längtan*” (finns redovisad i MINNEN). Så här lyder den första dikten:
@@ -660,7 +660,7 @@ Jag drar också nytta av Persbrandts förflutna som dansare:
 
 Filmen spelas in digitalt, den första långfilmen i Sverige som använder den tekniken. Mycket material, mycket i klippbordet, men relativt lättredigerat jämfört med konventionell film.
 
-Parentes på tal om klippningen: Cilla och jag har hanterat det faktum att jag som regissör kommer att vara tämligen frånvarande under hela inspelningsperioden, både fysiskt och mentalt. Hon har själv varit med på flera inspelningar och vet hur det fungerar. Vad vi inte riktigt har sett komma är fasen efter inspelningen - klippningen. Som fortsätter att involvera mig nästan lika mycket som inspelning, över långt tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
+Parentes på tal om klippningen: Cilla och jag har hanterat det faktum att jag som regissör kommer att vara tämligen frånvarande under hela inspelningsperioden, både fysiskt och mentalt. Hon har själv varit med på flera inspelningar och vet hur det fungerar. Vad vi inte riktigt har sett komma är fasen efter inspelningen - klippningen. Som fortsätter att involvera mig nästan lika mycket som inspelning, över lång tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
 ::: indent
 Vi reder ut det och jag lär mig en del.
 :::
@@ -928,7 +928,7 @@ Jag låter min nu 4-åriga dotter Molly spela den unga Lucia (som jag har döpt 
 Går genom tablåerna.
 :::
 
-Den första tablån är en teatersalong full med publik. En skådespelerska (Lena Endre) kommer in, hissar upp en dvärg (en kortvuxen, allts å) i benen och ställer en stor gnistrande dolk under hans huvud. Sen knyter hon repet runt ett stolsben och sätter sig på stolen. Därefter fäller hon upp en poesibok, förklarar att hon tänker läsa några dikter och ger en enda förutsättning till publiken: Om nån därute, en enda, hostar eller gäspar eller vänder sig bort, kommer hon omedelbart att resa på sig. Konsekvenserna för den hängande dvärgen är brutalt påtagliga.
+Den första tablån är en teatersalong full med publik. En skådespelerska (Lena Endre) kommer in, hissar upp en dvärg (en kortvuxen, alltså) i benen och ställer en stor gnistrande dolk under hans huvud. Sen knyter hon repet runt ett stolsben och sätter sig på stolen. Därefter fäller hon upp en poesibok, förklarar att hon tänker läsa några dikter och ger en enda förutsättning till publiken: Om nån därute, en enda, hostar eller gäspar eller vänder sig bort, kommer hon omedelbart att resa på sig. Konsekvenserna för den hängande dvärgen är brutalt påtagliga.
 ::: indent
 När jag har skrivit klart mina tablåer kontaktar jag dom jag vill ha i rollerna: Lena Endre, Halvar Björk, Bruno K. Öijer, Mikael Persbrandt, Marika Lagerkvist, Stefan Sauk och min yngste son Nick som gåtfullt lik.
 :::
@@ -966,7 +966,7 @@ Speciellt roulette.
 :::
 
 ::: indent
-Jag sätter alltid på samma nummer, 26, plus fyrkanten runt siffran. Under en filmfestival i Cannes promenerar jag ut till Casino Barri è re, satsar på min fyrkant, vinner 12.000 och promenerar tillbaka. Samma sak på ett nordiskt förbundsmöte i Tammerfors, casino på hotellet, fyrkanten, nästa dag köper jag en exklusiv läderjacka.
+Jag sätter alltid på samma nummer, 26, plus fyrkanten runt siffran. Under en filmfestival i Cannes promenerar jag ut till Casino Barrière, re, satsar på min fyrkant, vinner 12.000 och promenerar tillbaka. Samma sak på ett nordiskt förbundsmöte i Tammerfors, casino på hotellet, fyrkanten, nästa dag köper jag en exklusiv läderjacka.
 :::
 
 ::: indent
@@ -1164,6 +1164,10 @@ Och därinne ligger *”Georg von Ingenting”* och ruvar.
 Kanske lockar vi ut honom igen och skriver om manuset till en roman, i sinom.
 :::
 
+::: indent
+Tillägg: 2021 gör vi faktiskt det, skriver en roman med titeln ”*Georg von Ingenting*”. Den kommer ut på Norstedts 2022. Återbruk igen.
+:::
+
 ::: part
 :::
 
@@ -1262,7 +1266,7 @@ Istället skriver jag en text till julnumret av tidningen ”*Situation Stockhol
 <!-- PAGE 240 END -->
 
 <!-- PAGE 241 START -->
-**Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev då sig ro. Han tyckte om när det var över.**
+**Han tyckte om att bygga en kupa av snö och tända eld i kupan. Han tyckte om förväntan i det nalkande mörkret utanför och i barnens ögon. Han tyckte om att för en afton umgås med närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev dåsig ro. Han tyckte om när det var över.**
 
 **Då brukade han lämna huset, i ottan, när alla andra sov, och gå den långa vägen ner till sjön. Där tog han sig ut till den bortre udden, dit ingen brukade gå. Där ställde han sig vid uddens kant, i gryningens starka motljus och började skrika. Han skrek hårt och länge, ofta tills det värkte i bröstet, och så gick han hem.**
 
@@ -1433,13 +1437,13 @@ Det är inte så vanligt.
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/241.png)
 
-Bakgrund: Cilla och jag har hamnat i ett ekonomiskt vakuum - författartraumat. Samtidigt känner vi att vi vill skriva nåt helt eget, efter en del tröskande med Beck och annat, och skriver ihop ett synopsis på en kriminalhistoria som vi kallar ”*Graven*”. Vi lämnar den till Filmlance. Dom är inte intresserade. ”Vi är trötta på att göra deckare.” I samma veva ringer Daniel Alfredsson, nybliven chef på SVT Drama, och säger att han är ute efter svenska originalhistorier och undrar om vi är intresserade av att skriva.
+Bakgrund: Cilla och jag har hamnat i ett ekonomiskt vakuum - författartraumat. Samtidigt känner vi att vi vill skriva nåt helt eget, efter en del tröskande med Beck och annat, och skriver ihop ett synopsis på en kriminalhistoria som vi kallar ”*Graven*”. Vi lämnar den till Filmlance. Dom är inte intresserade. ”Vi är trötta på att göra deckare.” I samma veva ringer Daniel Alfredson, nybliven chef på SVT Drama, och säger att han är ute efter svenska originalhistorier och undrar om vi är intresserade av att skriva.
 ::: indent
 – Vi har redan skrivit en historia, jag kan skicka den, säger jag.
 :::
 
 ::: indent
-Alfredsson läser, bestämmer sig och projektet rullar igång. Valet av Marcimain som regissör är lite udda för oss, vi känner inte till honom, han har gjort några avsnitt i ett par tv-serier, men Danielsson propsar på att han skulle funka för det här.
+Alfredson läser, bestämmer sig och projektet rullar igång. Valet av Marcimain som regissör är lite udda för oss, vi känner inte till honom, han har gjort några avsnitt i ett par tv-serier, men Danielsson propsar på att han skulle funka för det här.
 :::
 
 ::: indent
@@ -1526,7 +1530,7 @@ Allt finns här att tolka, redan nu, men jag lagrar det till värre tider.
 
 Cilla och jag blir sugna på att skriva nåt vi aldrig har skrivit: Epok. Historia. 1700-tal. Valet faller på Axel von Fersen, greven och lebemannen. Hans liv innehåller allt. Politik, kärlek, krig, resor och ond bråd död (han stampas ihjäl av en mobb på Slottsbacken 1810 inför tigande soldater).
 ::: indent
-Det finns en uppsjölitteratur om Fersen, bättre eller sämre. Det finns också ett stort antal av hans dagböcker bevarade (dock inte dom som skrevs under den period han hade ett förhållande med den franska drottningen Marie Antoinette, dom brändes av hans betjänt på uppdrag av Fersen själv).
+Det finns en uppsjö litteratur om Fersen, bättre eller sämre. Det finns också ett stort antal av hans dagböcker bevarade (dock inte dom som skrevs under den period han hade ett förhållande med den franska drottningen Marie Antoinette, dom brändes av hans betjänt på uppdrag av Fersen själv).
 :::
 
 ::: indent
@@ -1648,7 +1652,7 @@ På tal om massajer: Vi går ute på en vidsträckt ödslig savann i sällskap m
 Massajen har hört den.
 :::
 
-Efter safarin tar vi ett inrikesflyg till den lillaön Lamu utanför Kenya.
+Efter safarin tar vi ett inrikesflyg till den lilla ön Lamu utanför Kenya.
 ::: indent
 Det är där det händer.
 :::

@@ -375,7 +375,7 @@ Föga anar jag effekterna av det här slumpartade uppdraget.
 
 <!-- PAGE 64 START -->
 ::: indent
-Effekt 1: Jag bjuds in på en fest hos Birgitta Andersson och Carl Zetterström (en av författarna till Kabaré Öppen Kanal, en mycket sympatisk man). Festen äger rum i deras östermalmslägenhet. Jag kommer dit med en flaska hembränt (egenproduktion). Lägenheten är imposant, vackra tavlor, varma mattor, fylld av kulturpersonligheter, vänner till värdparet, Hasse Alfredsson och Tage Danielsson och neråt. Min paranoia slår omedelbart till: fel snubbe på fel plats. Varför är jag här? Som vanligt i såna här sammanhang blir jag obekväm och överdriven. Jag vet inte vem jag ska föreställa, så jag förställer mig, utnyttjar min sprit och hamnar så småningom i en fåtölj där Birgitta Andersson med en mycket vänlig röst viskar: ”Du ska nog gå hem nu”.
+Effekt 1: Jag bjuds in på en fest hos Birgitta Andersson och Carl Zetterström (en av författarna till Kabaré Öppen Kanal, en mycket sympatisk man). Festen äger rum i deras östermalmslägenhet. Jag kommer dit med en flaska hembränt (egenproduktion). Lägenheten är imposant, vackra tavlor, varma mattor, fylld av kulturpersonligheter, vänner till värdparet, Hasse Alfredson och Tage Danielsson och neråt. Min paranoia slår omedelbart till: fel snubbe på fel plats. Varför är jag här? Som vanligt i såna här sammanhang blir jag obekväm och överdriven. Jag vet inte vem jag ska föreställa, så jag förställer mig, utnyttjar min sprit och hamnar så småningom i en fåtölj där Birgitta Andersson med en mycket vänlig röst viskar: ”Du ska nog gå hem nu”.
 :::
 
 ::: indent

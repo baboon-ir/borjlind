@@ -274,9 +274,9 @@ Och en bra skrivmaskin.
 Och gott vitt vin.
 :::
 
-Minne från Mallorca: Dagen efter jag har anlänt föreslår Gösta att vi gör en biltur upp i bergen, han vill visa ett vackert gammalt kloster. Vi åker dit och går in (klostret är öppet för allmänheten vissa tidpunkter). Stora tomma salar, här och där skymtar en diskret munk. Vi kommer in ett fönsterlöst rum som domineras av en väldig skänk i mörk ek, full med smålådor. Gösta blir nyfiken och går fram.
+Minne från Mallorca: Dagen efter jag har anlänt föreslår Gösta att vi gör en biltur upp i bergen, han vill visa ett vackert gammalt kloster. Vi åker dit och går in (klostret är öppet för allmänheten vissa tidpunkter). Stora tomma salar, här och där skymtar en diskret munk. Vi kommer in ett fönsterlöst rum som domineras av en väldig skänk i mörk ek, full med små lådor. Gösta blir nyfiken och går fram.
 ::: indent
-– Det finns säkert smålönnfack i en sån här ...
+– Det finns säkert små lönnfack i en sån här ...
 :::
 
 ::: indent
@@ -619,7 +619,7 @@ Det förflutna ljuger inte.
 :::
 
 ::: indent
-Sverigedemokraterna kommer att fåett skrämmande inflytande på det svenska samhällsklimatet på 2000-talet (jag återkommer till det).
+Sverigedemokraterna kommer att få ett skrämmande inflytande på det svenska samhällsklimatet på 2000-talet (jag återkommer till det).
 :::
 
 Själv skriver jag en musikalrevy till Maximteatern i samarbete med Lars Amble. Den får det klatschiga namnet ”*Zimzalabim*”.
@@ -643,7 +643,7 @@ Carsten och jag kontaktas av sångaren Peter Lemarc. Han vill arrangera en stöd
 :::
 
 ::: indent
-Konserten blir av, kyrkan är smockfull och skolan får ett ekonomiskt bidrag på 60.000 kronor. Själv framför jag en raplåt som ackompanjeras av Carsten påbongotrummor. Den heter ”*Detta är en sådan natt*”:
+Konserten blir av, kyrkan är smockfull och skolan får ett ekonomiskt bidrag på 60.000 kronor. Själv framför jag en raplåt som ackompanjeras av Carsten på bongotrummor. Den heter ”*Detta är en sådan natt*”:
 :::
 <!-- PAGE 178 END -->
 

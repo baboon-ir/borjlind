@@ -1,7 +1,7 @@
 # Beck triumferar
 
 <!-- PAGE 194 START -->
-Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam påotaliga scener och framfört egna texter med högt självförtroende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
+Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam på otaliga scener och framfört egna texter med högt självförtroende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
 
 Jag sköljer ner den obehagliga upplevelsen av Dylan-inspelningen med att skriva ett handfast manus till en tv-serie som heter ”*Läckan*”. Den bygger på en bok av ekonomen Klas Eklund (numera pappa till en poddare och en stjärnmäklare) och handlar om en korruptionsskandal i ”maktens korridorer”. Mord och spänning, med viss igenkänningsfaktor för en del i korridorerna. Mikael Ekman regisserar och Anders Ahlbom gör, förtjänstfullt, en omplacerad polis som ger sig in det politiska träsket.
 
@@ -185,7 +185,7 @@ Den mest intressanta texten är *”Där dom blinda barnen bor”*.
 **Där dom blinda barnen bor**
 :::
 
-På tal om allt som rinner ut i sanden: Jag har aldrig arbetat med Hasse Alfredsson. Hans två söner har jag tangerat i olika sammanhang, men aldrig Alfredsson själv. Det här året är det nära. Alfredsson har arbetat på ett manus till en tv-serie om Ivar Kreuger, den ryktbare finansmannen med ett spektakulärt liv och en dramatisk död.
+På tal om allt som rinner ut i sanden: Jag har aldrig arbetat med Hasse Alfredson. Hans två söner har jag tangerat i olika sammanhang, men aldrig Alfredson själv. Det här året är det nära. Alfredson har arbetat på ett manus till en tv-serie om Ivar Kreuger, den ryktbare finansmannen med ett spektakulärt liv och en dramatisk död.
 ::: indent
 Arbetet har kört fast.
 :::
@@ -193,7 +193,7 @@ Arbetet har kört fast.
 
 <!-- PAGE 198 START -->
 ::: indent
-Efter fjärde versionen av manuset föreslår Alfredsson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys på sex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredsson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett erbjudande han inte vill tacka nej till - som chef för Skansen. Jag får för mig att han har använt min analys som en förevändning att hoppa av. Kanske helt fel, men det känns halvkul för mig.
+Efter fjärde versionen av manuset föreslår Alfredson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys på sex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett erbjudande han inte vill tacka nej till - som chef för Skansen. Jag får för mig att han har använt min analys som en förevändning att hoppa av. Kanske helt fel, men det känns halvkul för mig.
 :::
 
 ::: indent
@@ -252,6 +252,9 @@ Mitt råd: Satsa inte på ”auteurer” innan dom kan hantverket (Bergman gjord
 <!-- PAGE 199 START -->
 ::: indent
 Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här landet. Den avgjort mest originelle är skribenten Lena Anderssons favoritobjekt Roy ”Hugo” Andersson. Hans kortfilm ”*Härlig är jorden*” som öppnar stafettserien ”*90 minuter 90-tal*” är magnifik, hans säregna filmspråk är unikt i världen.
+:::
+
+::: part
 :::
 
 [yt-video][https://www.youtube.com/watch?v=yJXN5VPkyH8]
@@ -441,7 +444,7 @@ Efter begravningen får jag en stor tavla av Amis. Det är Carstens sista målni
 **runt hans minne**
 :::
 
-Sågår Happy Cousins i graven med Carsten. Projektet som startade i efterdyningarna av vår mormors jordfästelse 1962 och pågick tills skissblocket föll ur hans hand.
+Så går Happy Cousins i graven med Carsten. Projektet som startade i efterdyningarna av vår mormors jordfästelse 1962 och pågick tills skissblocket föll ur hans hand.
 ::: indent
 Men vi gjorde en del på vägen.
 :::
@@ -493,7 +496,7 @@ Carsten tjatade genom åren på mig om vår släkt, han ville att jag skulle skr
 Det var aldrig nåt som lockade mig.
 :::
 
-Fotnot om Amis, Carstens änka: En vacker och remarkabel kvinna, gift med Carsten till hans död, själv konstnär en period. Hon figurerar påoändligt många av Carstens tavlor, i en eller annan form, deras relation satt aldrig fast. Länge förvarar hon hans aska i en liten urna påspiselkransen i hemmet.
+Fotnot om Amis, Carstens änka: En vacker och remarkabel kvinna, gift med Carsten till hans död, själv konstnär en period. Hon figurerar på oändligt många av Carstens tavlor, i en eller annan form, deras relation satt aldrig fast. Länge förvarar hon hans aska i en liten urna på spiselkransen i hemmet.
 ::: indent
 Kärlek.
 :::
@@ -576,7 +579,7 @@ Av många orsaker.
 <!-- PAGE 204 END -->
 
 <!-- PAGE 205 START -->
-Orsak 1 är färden dit: Duåker Silvervägen från Arjeplog mot Norge, direkt efter Arjeplog dör all uppkoppling och återkommer inte förrän du passerar samma punkt från andra hållet. Efter det är du totalt urkopplad, på det planet. Vid en liten by som heter Tjärnberg kliver du in i en helikopter och stiger mot fjällen, såpass lågt att du kan se renarna röra sig över kalfjället. Det är en fantastisk flygfärd (inte såfantastisk för Olivia Rönning i vår senaste bok ”*Fruset Guld*”, hon gör samma färd men kraschar mot en bergskam efter ett åsknedslag i maskinen). Helikoptern går ner i Miekaks fiskecamp. Den ligger precis intill ett dånande vattenfall, påkanten till en större sjöfull med feta rödingar och öringar. Där inkvarteras du i en enkel och funktionell trästuga och saknar ingenting.
+Orsak 1 är färden dit: Du åker Silvervägen från Arjeplog mot Norge, direkt efter Arjeplog dör all uppkoppling och återkommer inte förrän du passerar samma punkt från andra hållet. Efter det är du totalt urkopplad, på det planet. Vid en liten by som heter Tjärnberg kliver du in i en helikopter och stiger mot fjällen, så pass lågt att du kan se renarna röra sig över kalfjället. Det är en fantastisk flygfärd (inte så fantastisk för Olivia Rönning i vår senaste bok ”*Fruset Guld*”, hon gör samma färd men kraschar mot en bergskam efter ett åsknedslag i maskinen). Helikoptern går ner i Miekaks fiskecamp. Den ligger precis intill ett dånande vattenfall, på kanten till en större sjö full med feta rödingar och öringar. Där inkvarteras du i en enkel och funktionell trästuga och saknar ingenting.
 ::: indent
 Mobilen använder du som kamera och ficklampa så länge batteriet räcker, tröttnar du på att äta den fisk du får upp kan du inhandla Bullens Pilsnerkorv och en del annat smått och gott i en värdstuga.
 :::
@@ -629,13 +632,13 @@ Väl tillbaka i hamnen hissas fisken iland, hängs upp i en krok och vägs. Våg
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/601.JPG)
 
-Samtidigt ringer Gabriel till restaurangägaren och säger att vi har lite fisk nere påkajen, om han är intresserad.
+Samtidigt ringer Gabriel till restaurangägaren och säger att vi har lite fisk nere på kajen, om han är intresserad.
 ::: indent
 – Men ta med en bil.
 :::
 
 ::: indent
-Restaurangägaren är där påfem minuter, med en skåpbil. Han ser fisken, gapar, skakar på huvudet och ringer in extrapersonal till köket. Under tiden har båtägarna ringt till nån europeisk fiskeriförening och registrerat fångsten, det är tydligen ett rekord pågång för just den här arten.
+Restaurangägaren är där på fem minuter, med en skåpbil. Han ser fisken, gapar, skakar på huvudet och ringer in extrapersonal till köket. Under tiden har båtägarna ringt till nån europeisk fiskeriförening och registrerat fångsten, det är tydligen ett rekord pågång för just den här arten.
 :::
 
 ::: indent
@@ -682,9 +685,9 @@ På tal om resor: Tidskriften ”*Resguide*” hör av sig igen och vill ha en t
 
 **Jag hatar att resa.”**
 
-Jag kunde ha skildrat ett betydligt mer dramatiskt trauma från samma resa, sammaö. Jag har hyrt en lägenhet i ett vitt hus vid en blåvik. Ensam. Tanken är att jag äntligen ska fågrepp om min kaotiska textmassa, betitlad Baronessan Borelli.
+Jag kunde ha skildrat ett betydligt mer dramatiskt trauma från samma resa, samma ö. Jag har hyrt en lägenhet i ett vitt hus vid en blå vik. Ensam. Tanken är att jag äntligen ska få grepp om min kaotiska textmassa, betitlad Baronessan Borelli.
 ::: indent
-Det gåråt helvete.
+Det går åt helvete.
 :::
 
 ::: indent
@@ -742,7 +745,7 @@ Det här året får jag ett brev från redaktionen för Bra Böckers stora förf
 **Hans skamlösa sätt att upphöja poetiskt bråte till glödande lust är i de flesta fall utomordentligt pinsamt (när inte löjet ligger närmare till hands). Att följa hans irrsprång genom tidens tromb är extremt tröttande, eftersom Börjlind aldrig besvärat sig med någon som helst form av kontinuitet eller intellektuell förankring i den idéhistoria som ändå utgör sältan i all sant skapande. Rastlöst och utan känsla för valör eller genklang, sprider han sina undermåliga slagord över landet som en biologisk dynggrep. Att han trots allt är i befintligt skick till dags dato, och dessutom oförtrutet vältrar sin mediokra ideologi över dagens ungdom, är inte bara genant. Det är oroande. Börjlind har nämligen en kuslig förmåga att ge det mest banala uttryck en verbal stringens som för mer påvra intellekt kan skapa en känsla av äkthet. Jag tänker då på typiskt Börjlindska idiosynkrasier som ”God smak mjölkar ur testiklarna” och likartade floskler. Hur denna hämningslösa urvattning av allt vad konst är ska hejdas, är kanske mer en politisk (för att inte säga kriminalteknisk) fråga. Själv nöjer jag mig med att konstatera att det varken förr, och förhoppningsvis aldrig senare, har funnits en motsvarighet till detta herostratiskt ryktbara ”författarskap”. Ju förr det får falla i den glömska det tillhör, desto snabbare kan jag, bokförlaget Bra Böcker, Nobelpriskommittén och Antonia A:son Johnson ägna oss åt den litterära parnass som trots allt utgör kärnan i vår (och märk väl, även invandrarnas) kultur!”**
 :::
 
-Jag kan intyga allt som sägs i texten är sant, eftersom jag har skrivit den själv. Utanändringar från redaktionen för Bra Böcker (eller Antonia A:son Johnson).
+Jag kan intyga allt som sägs i texten är sant, eftersom jag har skrivit den själv. Utan ändringar från redaktionen för Bra Böcker (eller Antonia A:son Johnson).
 
 ::: part
 :::
@@ -762,7 +765,7 @@ Vid en jämförelse framstår Björks skulptur som tämligen oförarglig.
 <!-- PAGE 208 END -->
 
 <!-- PAGE 209 START -->
-Bestående effekt av femtioårsfyllandet: Min riktiga födelsedag infaller på en torsdag och firas enbart med en lättare mottagning på dagen. På kvällen intar några av mina vänner ärtsoppa och punsch på lokal och bestämmer sig för att skapa en tradition. Tillsammans med Cilla och mig bildas Ärtsklubben, åtta personer som under tio års tid träffas en gång i månaden och äter soppa (över tid tillkommer en del barn också).
+Bestående effekt av femtioårsfyllandet: Min riktiga födelsedag infaller på en torsdag och firas enbart med en lättare mottagning på dagen. På kvällen intar några av mina vänner ärtsoppa och punsch på lokal och bestämmer sig för att skapa en tradition. Tillsammans med Cilla och mig bildas Ärtklubben, åtta personer som under tio års tid träffas en gång i månaden och äter soppa (över tid tillkommer en del barn också).
 ::: indent
 Trevligt så länge det varade.
 :::
@@ -829,7 +832,7 @@ Jag delar i viss mån Hanna Olssons upprördhet.
 <!-- PAGE 209 END -->
 
 <!-- PAGE 210 START -->
-Och nu ett helt ovidkommande fragment som dyker upp, kanske som en association efter styckningen av da Costa, en information som jag har lagt påminnet. Eller på en kudde av pärlor. Det handlar om den engelska bödeln Albert Pierrepoint som sa såh är när arbetsbördan tidvis blev för stor:
+Och nu ett helt ovidkommande fragment som dyker upp, kanske som en association efter styckningen av da Costa, en information som jag har lagt på minnet. Eller på en kudde av pärlor. Det handlar om den engelska bödeln Albert Pierrepoint som sa så här när arbetsbördan tidvis blev för stor:
 ::: indent
 – Glädjen i jobbet försvann.
 :::
@@ -875,7 +878,7 @@ Dahlberg kommenterar aldrig tilltaget (hon hade, märkligt nog, ingenting att in
 
  Hur som helst.
 ::: indent
-Dalle och jag börjar skriva manus, var och en på sitt håll. Vi är snabbt på det klara med att filmen ska bygga påenskilda tablåer. Kittet mellan dom blir småreklamsnuttar. Dalle skriver också en ”ram” som ska ge känslan av att det faktiskt är en historia från a till ösom ska berättas.
+Dalle och jag börjar skriva manus, var och en på sitt håll. Vi är snabbt på det klara med att filmen ska bygga på enskilda tablåer. Kittet mellan dom blir småreklamsnuttar. Dalle skriver också en ”ram” som ska ge känslan av att det faktiskt är en historia från a till ö som ska berättas.
 :::
 
 ::: indent
