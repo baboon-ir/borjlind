@@ -1174,6 +1174,15 @@ a.rb-skip-btn:hover {
   border: 0px !important;
 }
 
+.memories,
+.memories p,
+.memories h1,
+.memories h2,
+.memories h3,
+.memories div {
+  text-align: center;
+}
+
 /* ============================================================
    Section 17 — Header layout (semantic classes)
    Replaces Tailwind utilities in header.njk (Plan 02)
