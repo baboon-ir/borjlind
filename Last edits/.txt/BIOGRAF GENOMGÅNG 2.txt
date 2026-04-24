@@ -1,0 +1,2382 @@
+Sid 93:
+
+Texttillägg.
+
+Texten:
+Zekeli ska inte med. Han har åkt till East Bay Terminal för att försöka ta sig till New York och vidare hem. Han orkar inte bära resväskan nerför trappan. ”Jag kan inte äta” säger han. ”Jag kan inte få i mig nån mat.” Under hela SF-vistelsen har han bara ätit stekta ägg och ostron. För övrigt har han levt på Jack Daniels och kaffe, då och då en flaska champagne och B-vitaminer.
+
+Ersätt med:
+Zekeli ska inte med. Han har åkt till East Bay Terminal för att försöka ta sig till New York och vidare hem. Han orkar inte bära resväskan nerför trappan. ”Jag kan inte äta” säger han. ”Jag kan inte få i mig nån mat. Ostronen är för stora, det känns som att få ett pojkollon i munnen”. Under hela SF-vistelsen har han bara ätit stekta ägg och ostron. För övrigt har han levt på Jack Daniels och kaffe, då och då en flaska champagne och B-vitaminer.
+
+*
+
+Sid 121:
+
+Särskrivning.
+
+Texten:
+– Han vaktar hennes lik.
+
+Vi lyckas beställa ett parägg av henne, bloody side up.
+
+Jag hittar en öppen presentshop i terminalen. Köper ett set med skolväska, krita och block till min dotter Sari och en vacker penna till min son Joakim.
+
+Sålångt hemifrån!
+
+
+Ersätts med:
+– Han vaktar hennes lik.
+
+Vi lyckas beställa ett par ägg av henne, bloody side up.
+
+Jag hittar en öppen presentshop i terminalen. Köper ett set med skolväska, krita och block till min dotter Sari och en vacker penna till min son Joakim.
+
+Så långt hemifrån!
+
+*
+
+Texten:
+Nebraska. Oerhört tråkigt landskap, oändligt och platt. Rullar genom förmiddagen, gråmolnfilter. Är människorna härute lyckliga? Delvis lyckliga? Lyckliga ibland? Saknar dom sina anhöriga? Gråter dom i vattnet när allting blir för vackert? Hur mår dom?
+
+Ersätt med:
+Nebraska. Oerhört tråkigt landskap, oändligt och platt. Rullar genom förmiddagen, grå molnfilter. Är människorna härute lyckliga? Delvis lyckliga? Lyckliga ibland? Saknar dom sina anhöriga? Gråter dom i vattnet när allting blir för vackert? Hur mår dom?
+
+*
+
+Sid 122:
+
+Särskrivning.
+
+Texten:
+Korsar Mississippi. Schacket fram, all öldrickning förbjuden på bussen, inga kassettbandspelare till åtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett par år senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
+
+Ersätt med:
+Korsar Mississippi. Schacket fram, all öldrickning förbjuden på bussen, inga kassettbandspelare tillåtna, av nån märklig anledning. Tror dom vi är spioner (när jag åker Transsibiriska järnvägen ett par år senare är det inga problem att ta med sig kassettbandspelare in i det slutna Sovjet).
+
+*
+
+Sid 123:
+
+Särskrivning.
+
+Texten:
+Tar en lätt joint i Pittsburg vid en vacker sjöoch får en hanterlig och välbehövligt skön flykt: Ett litet vitt hus med röd dörr, runt huset dansar en ring av halvmeterstora chips och en stor mun, plötsligt...
+
+Ersätts med:
+Tar en lätt joint i Pittsburg vid en vacker sjö och får en hanterlig och välbehövligt skön flykt: Ett litet vitt hus med röd dörr, runt huset dansar en ring av halvmeterstora chips och en stor mun, plötsligt...
+
+*
+
+Texten:
+Vi är väldigt långt från den serena miljön vid Lost Lake i Black Ridge, från bävrar som skapar vattenmålningar i ytan.
+
+Menändå.
+
+Ersätts med:
+Vi är väldigt långt från den serena miljön vid Lost Lake i Black Ridge, från bävrar som skapar vattenmålningar i ytan.
+
+Men ändå.
+
+*
+
+Texten:
+Ingen brådska, vi sitter i en fin, gammal inrökt bar, baseball på tv-n, servitrisen runt 60, stencool, med glimten iögat. Bruno spiller ut drinken, får en ny gratis. Det känns som äventyr i luften. Barradion smeker ut ”Plaisir dAmour”.
+
+Ersätt med:
+Ingen brådska, vi sitter i en fin, gammal inrökt bar, baseball på tv-n, servitrisen runt 60, stencool, med glimten i ögat. Bruno spiller ut drinken, får en ny gratis. Det känns som äventyr i luften. Barradion smeker ut ”Plaisir dAmour”.
+
+*
+
+Sid 126:
+
+Stavfel.
+
+Texten:
+Tar tunnelbanan. 50 cent. Tåget är fullständigt täckt av graffitti. Folk sitter utefter väggarna med blickarna ner i golvet. Åker mot 8:e,
+
+Ersätt med:
+Tar tunnelbanan. 50 cent. Tåget är fullständigt täckt av graffiti. Folk sitter utefter väggarna med blickarna ner i golvet. Åker mot 8:e,
+
+*
+
+Särskrivning.
+
+Texten:
+Vi har färdats från ostronpartyn via mäktigaöknar, dammpinade kyrkogårdar och vattenmålande bävrarända upp hit, till den aparta betongkoloss som heter Manhattan.
+
+
+Ersätts med:
+Vi har färdats från ostronpartyn via mäktiga öknar, dammpinade kyrkogårdar och vattenmålande bävrar ända upp hit, till den aparta betongkoloss som heter Manhattan.
+
+*
+
+Texten:
+Mycket att berätta, huvudsakligen för Tove. För Sari, som är femår, är jag rätt grannlaga med vad jag utesluter (det får hon läsa nu).
+
+Ersätt med:
+Mycket att berätta, huvudsakligen för Tove. För Sari, som är fem år, är jag rätt grannlaga med vad jag utesluter (det får hon läsa nu).
+
+*
+
+Texten:
+Jag och Lars-Ragnar Forssberg har lagt fram ett program för slag till Sveriges Radio, en dokumentärserie under namnet”5 x New York”. Det bygger mycket på det kontaktnät jag har skapat under min roadtrip.
+
+Ersätt med:
+Jag och Lars-Ragnar Forssberg har lagt fram ett programförslag till Sveriges Radio, en dokumentärserie under namnet”5 x New York”. Det bygger mycket på det kontaktnät jag har skapat under min roadtrip.
+
+*
+
+Sid 127:
+
+Särskrivning.
+
+Texten:
+1979 får jag min andra son. Nick, bror till Sari. Ett hjälplöst knyte med vackraögon och händer som kniper om mitt pekfinger.
+
+Ersätts med:
+1979 får jag min andra son. Nick, bror till Sari. Ett hjälplöst knyte med vackraögon och händer som kniper om mitt pekfinger.
+
+*
+
+Texten:
+Jag har nu tre barn, alla utan mellannamn, alla emotionella förankringar för mig. Familjen, min och Toves, är min fysiska tillflyktsort.
+
+Viälskar varandra.
+
+Ersätt med:
+Jag har nu tre barn, alla utan mellannamn, alla emotionella förankringar för mig. Familjen, min och Toves, är min fysiska tillflyktsort.
+
+Vi älskar varandra.
+
+*
+
+Sid 128:
+
+Särskrivning.
+
+Texten:
+Det går inte.
+
+Jag börjar i en annanände.
+
+Ersätt med:
+Det går inte.
+
+Jag börjar i en annan ände.
+
+*
+
+Texten:
+...henne in. Hela lägenheten är belamrad med tidningstravar, från väggarna i hallen och in i resten av rummen. I köket står ett stort antal småglasburkar uppställda på diskbänken. I varje burk har hon samlat olikfärgade snörstumpar. Hon tittar länge på mig när jag...
+
+Ersätt med:
+...henne in. Hela lägenheten är belamrad med tidningstravar, från väggarna i hallen och in i resten av rummen. I köket står ett stort antal små glasburkar uppställda på diskbänken. I varje burk har hon samlat olikfärgade snörstumpar. Hon tittar länge på mig när jag...
+
+*
+
+Sid 129:  
+
+Ord saknas.   
+
+Texten:
+Kort mellanspel: Jag får ett långt brev Expressens kulturchef Arne Ruth. Han beskriver en debattserie han har tänkt sig i tidningen, under namnet ”Befria Kulturen”, och ber mig om ett bidrag. Jag klipper upp hans...
+
+Ersätts med:
+Kort mellanspel: Jag får ett långt brev från Expressens kulturchef Arne Ruth. Han beskriver en debattserie han har tänkt sig i tidningen, under namnet ”Befria Kulturen”, och ber mig om ett bidrag. Jag klipper upp hans...
+
+*
+
+Särskrivning:
+
+Texten:
+När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda utän när jag klev in. Filmen har skakat om mig. Den har, som Ingmar Bergman senare ska sakna i en av mina egna filmer, nåttända in till smärtpunkten. Jag är våldsamt berörd. Det är en av dom filmer jag alltid nämner när jag tvingas namnge filmer som har påverkat mig.
+
+En annan är ” Krigarens själ”. Denär regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är...
+
+Ersätts med:
+När jag kommer ut på Kungsgatan efter filmen ser världen lite annorlunda ut än när jag klev in. Filmen har skakat om mig. Den har, som Ingmar Bergman senare ska sakna i en av mina egna filmer, nått ända in till smärtpunkten. Jag är våldsamt berörd. Det är en av dom filmer jag alltid nämner när jag tvingas namnge filmer som har påverkat mig.
+
+En annan är ” Krigarens själ”. Den är regisserad av Lee Tamahori, utspelar sig på Nya Zeeland och handlar om en fembarnsfamilj som bor i slummen med en extremt våldsam pappa. Historien i sig är...
+
+*
+
+Texten:
+Reflektion: Guillou är redan nu vänsterns mest briljante, hårdföre och muskulärt framträdande skribent, med ett påfallande personligt mod. Parallellt är han en imponerande kännare avårgångsviner och konnässör av utsökt konst.
+
+Ersätts med:
+Reflektion: Guillou är redan nu vänsterns mest briljante, hårdföre och muskulärt framträdande skribent, med ett påfallande personligt mod. Parallellt är han en imponerande kännare av årgångsviner och konnässör av utsökt konst.
+
+*
+
+
+
+
+Sid 130:
+
+Särskrivning.
+
+Texten:
+Körberg kläs under scenen om från en gråkommunalpolitiker till en fullödig agitator. Han avslutar sin förvandling med ett tal till publiken:
+
+Ersätt med:
+Körberg kläs under scenen om från en grå kommunalpolitiker till en fullödig agitator. Han avslutar sin förvandling med ett tal till publiken:
+
+*
+
+Texten:
+Dåett uppenbart satiriskt tal, i dagens Sverige finns det ett antal människor som skulle kunna hålla samma tal utan skuggan av satiriska förtecken.
+
+Ersätt med:
+Då ett uppenbart satiriskt tal, i dagens Sverige finns det ett antal människor som skulle kunna hålla samma tal utan skuggan av satiriska förtecken.
+
+*
+
+Sid 131:
+
+Särskrivning.
+
+Texten:
+Hemkommen från Luleåskriver jag sex satiriska personporträtt till tidningen Arbetaren. Dom kallas för ”Skarpa Skott” - en utomordentligt fånig rubricering.
+
+Ersätt med:
+Hemkommen från Luleå skriver jag sex satiriska personporträtt till tidningen Arbetaren. Dom kallas för ”Skarpa Skott” - en utomordentligt fånig rubricering.
+
+*
+
+Sid 133:
+
+Särskrivning.
+
+Texten:
+– Folk nöjer sig inte längre med att se en nyhetsreporter ståframför den utbrända skyskrapan och rapportera. Dom vill se när det brinner och hur folk försöker hoppa ur lågorna, säger Levy.
+
+Ersätt med:
+– Folk nöjer sig inte längre med att se en nyhetsreporter stå framför den utbrända skyskrapan och rapportera. Dom vill se när det brinner och hur folk försöker hoppa ur lågorna, säger Levy.
+
+*
+
+Texten:
+Under ett dygn får vi åka med ett av hans filmteam i New York och följa deras arbete pånära håll, när dom jagar mord, våldtäkter och bränder. När vi sätter oss i kamerabilen viskar Levy: ”Don´t panic until I do.”
+
+Ersätt med:
+Under ett dygn får vi åka med ett av hans filmteam i New York och följa deras arbete på nära håll, när dom jagar mord, våldtäkter och bränder. När vi sätter oss i kamerabilen viskar Levy: ”Don´t panic until I do.”
+
+*
+
+Texten:
+Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i ”Tillfälligt avbrott”. Denär klart påverkad av det vi upplevde med ”Action Movie News”:
+
+Ersätt med:
+Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i ”Tillfälligt avbrott”. Den är klart påverkad av det vi upplevde med ”Action Movie News”:
+
+*
+
+Texten:
+Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut småaskar vid golvlisterna med texten ”Cockroach Motel”.  Giftiga dödsfällor för kackerlackor. När jag vaknar...
+
+Ersätt med:
+Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut små askar vid golvlisterna med texten ”Cockroach Motel”.  Giftiga dödsfällor för kackerlackor. När jag vaknar...
+
+*
+
+Sid 134:
+
+Särskrivning.
+
+
+
+Texten:
+Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsplats i utkanten av Queens. Urblåsta hus nära vattnet. Tysta svarta män i bilvrak. Fel miljöatt vakna i. Fel hudfärg. Fel språk. Fel signaler. Jag skriver senare en lång dikt i Svenska Dagbladet om den morgonen:
+
+Ersätt med:
+Minne av New York 3: Mörker. Uppvaknande. Tungt huvud. Ensam på en parkeringsplats i utkanten av Queens. Urblåsta hus nära vattnet. Tysta svarta män i bilvrak. Fel miljö att vakna i. Fel hudfärg. Fel språk. Fel signaler. Jag skriver senare en lång dikt i Svenska Dagbladet om den morgonen:
+
+*
+
+Sid 134:
+
+Ta bort asteriskerna mitt i långa dikten. Ska vara en löpande text!
+
+*
+
+Sid 136:
+
+Särskrivning.
+
+Texten:
+En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva Kocken, som är involverad i nästan alla scener rakt igenom. Manuset vandrar runt i filmsverige och letar sig så småningom utomlands. Det ena märkliga skådespelar för slaget efter det andra virvlar runt. En morgon ringer Arehn och är...
+
+Ersätt med:
+En annan orsak kan vara problemet att hitta rätt huvudrollsinnehavare, själva Kocken, som är involverad i nästan alla scener rakt igenom. Manuset vandrar runt i filmsverige och letar sig så småningom utomlands. Det ena märkliga skådespelarförslaget efter det andra virvlar runt. En morgon ringer Arehn och är...
+
+*
+
+Texten:
+...Brandauer rollen som Beethoven i en storfilm och hoppar av vårt projekt.
+
+Exitösterrikaren.
+
+Men Arehn ger inte upp. Han får höra att de Niro är i Stockholm och bor på Hotel Diplomat. Arehn går dit påvinst och förlust, lämnar en engelsk version av manuset i receptionen med adress de Niro.
+
+Ersätt med:
+...Brandauer rollen som Beethoven i en storfilm och hoppar av vårt projekt.
+
+Exit österrikaren.
+
+Men Arehn ger inte upp. Han får höra att de Niro är i Stockholm och bor på Hotel Diplomat. Arehn går dit på vinst och förlust, lämnar en engelsk version av manuset i receptionen med adress de Niro.
+
+*
+
+Texten:
+Han vill verkligen göra filmen själv.
+
+Denär hans baby.
+
+Ett beslut som jag har den största respekt för (jag reagerade likartat när Apple ville koppla bort mig som text författare i London). Däremot hade det naturligtvis varit en viss fjäder i hatten för mig om mitt manus hade blivit film i USA med de Niro i huvudrollen.
+
+Ersätt med:
+Han vill verkligen göra filmen själv.
+
+Den är hans baby.
+
+Ett beslut som jag har den största respekt för (jag reagerade likartat när Apple ville koppla bort mig som  i London). Däremot hade det naturligtvis varit en viss fjäder i hatten för mig om mitt manus hade blivit film i USA med de Niro i huvudrollen.
+
+*
+
+Sid 137:
+
+Särskrivning.
+
+Texten:
+Vi flyttar till Skarpö.
+
+Jag kommer att tillbringa tio lyckligaår härute, med hyfsad ekonomi, bra fysik, underbar familj, närhet till havet. Och nästan enbart uppåtjobb.
+
+Ersätt med:
+Vi flyttar till Skarpö.
+
+Jag kommer att tillbringa tio lyckliga år härute, med hyfsad ekonomi, bra fysik, underbar familj, närhet till havet. Och nästan enbart uppåtjobb.
+
+*
+
+Texten:
+Skrapandet börjar inte så bra. Sammaår som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett parår sen). Förövaren är inte...
+
+Ersätt med:
+Skrapandet börjar inte så bra. Samma år som vi flyttar ut från stan skjuts John Lennon, en av mina imaginära ascendenter, skjuts på öppen gata utanför huset där han bor (där Bruno och jag vacklade förbi på väg upp från Central Park för ett par år sen). Förövaren är inte...
+
+*
+
+Texten:
+Jag sörjer och spelar hans skivor.
+
+Om någraår ska en annan begåvad man mördas på öppen gata.
+
+Ersätt med:
+Jag sörjer och spelar hans skivor.
+
+Om några år ska en annan begåvad man mördas på öppen gata.
+
+*
+
+Sid 138:
+
+Särskrivning.
+
+Texten:
+Carstens visuella uppfinningsrikedom smittar ocksåav sig på hans generationskamrater:
+
+Ersätt med:
+Carstens visuella uppfinningsrikedom smittar också av sig på hans generationskamrater:
+
+*
+
+Sid 139:
+
+Särskrivning.
+
+
+
+Texten:
+Jag blir nyfiken, läser boken och skriver ett manus på 3 x 50 minuter (mitt första tv-manus). Det är också för sta gången Gösta och jag samarbetar intimt.
+
+Ersätt med:
+Jag blir nyfiken, läser boken och skriver ett manus på 3 x 50 minuter (mitt första tv-manus). Det är också första gången Gösta och jag samarbetar intimt.
+
+*
+
+Sid 141:
+
+Särskrivning.
+
+Texten:
+Andra uppskattar låten desto mer. Skivbolaget Metronome kontaktar oss och vill ge ut låten som en maxisingel.
+
+Såsker.
+
+Ersätt med:
+Andra uppskattar låten desto mer. Skivbolaget Metronome kontaktar oss och vill ge ut låten som en maxisingel.
+
+Så sker.
+
+*
+
+Texten:
+Omslaget är en parafras på Beatles ”Sgt Pepper” (eller för den delen Frank Zappas mycket roligare ”We are only in it for the money”).
+
+Påbaksidan av singeln läser jag en egen text, ackompanjerad av Stefan Nilsson. Den heter ”Between you and me and the gateway”.
+
+Ersätt med:
+Omslaget är en parafras på Beatles ”Sgt Pepper” (eller för den delen Frank Zappas mycket roligare ”We are only in it for the money”).
+
+På baksidan av singeln läser jag en egen text, ackompanjerad av Stefan Nilsson. Den heter ”Between you and me and the gateway”.
+
+*
+
+
+
+
+Sid 142:
+
+Särskrivning.
+
+Texten:
+Låten skaåterbrukas tioår senare, 1990, då en försvarlig del av den svenska musikeliten framför den i tv-programmet “Sista Skriket”(jag kommer dit).
+
+Ersätt med:
+Låten ska återbrukas tio år senare, 1990, då en försvarlig del av den svenska musikeliten framför den i tv-programmet “Sista Skriket”(jag kommer dit).
+
+*
+
+Texten:
+Vid den här tiden läser jag fortfarande väldigt mycket böcker (Tove läserännu mer). Jag har fortfarande en hunger efter andras berättelser, andras sätt att formulera sig, andras språk och ordval, andras tankar som jag inte har tänkt själv.
+
+Ersätt med:
+Vid den här tiden läser jag fortfarande väldigt mycket böcker (Tove läser ännu mer). Jag har fortfarande en hunger efter andras berättelser, andras sätt att formulera sig, andras språk och ordval, andras tankar som jag inte har tänkt själv.
+
+*
+
+Sid 142:
+
+LÄS MER ska in ett stycke ovanför, det som börjar med "Funktion innebär att varje handling..."
+
+*
+
+Sid 144:
+
+Särskrivning.
+
+Texten:
+Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jagälskarögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett...
+
+Ersätt med:
+Scenen är uppbyggd framför ett altare i en stor kyrksal. I bänkarna sitter 455 amerikaner av blandad härkomst. Jag älskar ögonblicket. Exakt när jag kliver ut på scenen exploderar himlen utanför. En våldsam blixt flammar upp hela salen, följt av ett...
+
+*
+
+Texten:
+Tvåsaker lockar mig med hans förfrågan. Det ena är att jag vet hur otroligt roligt och inspirerande det är att arbeta tätt med Gösta. Uppfordrande, men vidgande. Det andra är utmaningen. En komedi? Eller familjefilm, som Gösta förklarar det. Han säger också:
+
+– Underskatta inte värdet av att fåmänniskor att skratta och måbra. Dåblir du trång.
+
+Ersätt med:
+Två saker lockar mig med hans förfrågan. Det ena är att jag vet hur otroligt roligt och inspirerande det är att arbeta tätt med Gösta. Uppfordrande, men vidgande. Det andra är utmaningen. En komedi? Eller familjefilm, som Gösta förklarar det. Han säger också:
+
+– Underskatta inte värdet av att få människor att skratta och måbra. Då blir du trång.
+
+*
+
+Sid 145:
+
+Särskrivning.
+
+Texten:
+Vi börjar gåi bergen, prata, gåoch prata, oändliga promenader med prat om allt och ingenting och inemellan matnyttiga saker och svalkande drycker. Gösta vill att huvudpersonen i den svenska varianten ska heta Charles-Ingvar Jönsson och kallas för ”Sickan”(ett hommage till skådespelerskan Sickan Carlsson).
+
+Ersätt med:
+Vi börjar gå i bergen, prata, gå och prata, oändliga promenader med prat om allt och ingenting och inemellan matnyttiga saker och svalkande drycker. Gösta vill att huvudpersonen i den svenska varianten ska heta Charles-Ingvar Jönsson och kallas för ”Sickan”(ett hommage till skådespelerskan Sickan Carlsson).
+
+*
+
+Texten:
+Manuset blir klart, filmen spelas in, Jonas Cornell regisserar den (Arehn har hoppat av tidigare, av privata skäl). Publikenälskar filmen,”Varning för Jönssonligan”.
+
+Ersätt med:
+Manuset blir klart, filmen spelas in, Jonas Cornell regisserar den (Arehn har hoppat av tidigare, av privata skäl). Publiken älskar filmen,”Varning för Jönssonligan”.
+
+*
+
+
+Texten:
+Över en miljon människor går och ser den. Än idag, 40 (!)år senare, visas filmen i olika tv-kanaleråret runt. Vi har uppenbarligen hittat en perfekt formel, en nivåoch attityd som är exakt rätt, med ett komiskt geni i mitten.
+
+Jag ska komma att skriva ytterligare 4 Jönssonfilmer (när Henrik Dorsin 2016 vill fåmig att skriva ytterligare en tackar jag nej - det är över 20 år sen förra gången).
+
+Ersätt med:
+Över en miljon människor går och ser den. Än idag, 40 (!)år senare, visas filmen i olika tv-kanaler året runt. Vi har uppenbarligen hittat en perfekt formel, en nivå och attityd som är exakt rätt, med ett komiskt geni i mitten.
+
+Jag ska komma att skriva ytterligare 4 Jönssonfilmer (när Henrik Dorsin 2016 vill fåmig att skriva ytterligare en tackar jag nej - det är över 20 år sen förra gången).
+
+*
+
+Sid 146:
+
+Den långa dikten LUPUS ULTRA ska inte brytas upp av asterisker, ska vara en löpande text.
+
+*
+
+Sid 148:
+
+Särskrivning.
+
+Texten:
+...vägrar att offentliggöra utredningsmaterialet. Trots det publiceras det som en departementspromemoria 1980 och kommer ut i bokformåret efter. 
+
+Ersätt med:
+...vägrar att offentliggöra utredningsmaterialet. Trots det publiceras det som en departementspromemoria 1980 och kommer ut i bokform året efter. 
+
+*
+
+
+
+
+
+
+
+
+
+Sid 149:
+
+Särskrivning.
+
+Texten:
+Tanken visar sig merän rätt. Större delen av resan slipper vi distraheras av utsikten genom kupéfönstret. Sovjeterna har nämligen planterat täta björkpalissader längs hela banvallen för att skyla fattigdomen utanför. Bara när vi då och dåstannar till vid olika stationer får vi en glimt av landskapet bortom björkarna.
+
+Ersätt med:
+Tanken visar sig mer än rätt. Större delen av resan slipper vi distraheras av utsikten genom kupéfönstret. Sovjeterna har nämligen planterat täta björkpalissader längs hela banvallen för att skyla fattigdomen utanför. Bara när vi då och då stannar till vid olika stationer får vi en glimt av landskapet bortom björkarna.
+
+*
+
+Texten:
+Vi åker i en gemensam förstaklasskupémed uppfällbara sängar, hyfsat rymligt, vacker träinredning. Påbordet vid fönstret riggar vi bandspelaren och börjar gå igenom den minst sagt digra utredningsluntan.
+
+Ersätt med:
+Vi åker i en gemensam förstaklasskupé med uppfällbara sängar, hyfsat rymligt, vacker träinredning. På bordet vid fönstret riggar vi bandspelaren och börjar gå igenom den minst sagt digra utredningsluntan.
+
+*
+
+Texten:
+Den magnifika upplevelsen vid stranden till världens djupaste sjöförtas en aning av blodhundarnas närvaro i bakgrunden.
+
+Minne 4: Vi når vår slutdestination, Chabarovsk, och går in på en bar. Påväggen bakom disken sitter ett stort fotografi av det svenska landslaget i bandy. VM har just gått i Chabarovsk och Sovjetunionen har för första gången förlorat finalen - till Sverige.
+
+Ersätt med:
+Den magnifika upplevelsen vid stranden till världens djupaste sjö förtas en aning av blodhundarnas närvaro i bakgrunden.
+
+Minne 4: Vi når vår slutdestination, Chabarovsk, och går in på en bar. På väggen bakom disken sitter ett stort fotografi av det svenska landslaget i bandy. VM har just gått i Chabarovsk och Sovjetunionen har för första gången förlorat finalen - till Sverige.
+
+*
+
+Sid 151:
+
+Särskrivning.
+
+Texten:
+Men innan dess ringer Gösta Ekman igen. Han undrar om jag vill komma ner till hans lantställe i Sälshög utanför Tomelilla. Han och Mats Arehn har presenterat ett program för slag till SVT, dom vill göra ett antal kortfilmer med Göstas karaktär Papphammar. Nu behöver Gösta ett bollplank, behöver testa sina idéer.
+
+Jagåker ner.
+
+Ersätt med:
+Men innan dess ringer Gösta Ekman igen. Han undrar om jag vill komma ner till hans lantställe i Sälshög utanför Tomelilla. Han och Mats Arehn har presenterat ett
+ till SVT, dom vill göra ett antal kortfilmer med Göstas karaktär Papphammar. Nu behöver Gösta ett bollplank, behöver testa sina idéer.
+
+Jag åker ner.
+
+*
+
+Texten:
+...till Gösta. Han har glömt att lämna det kvällen innan.
+
+Såhär i efterhand: Borde vi inte själva ha märkt att vi inte fick nåt vigselbevis?
+
+Ersätts med:
+...till Gösta. Han har glömt att lämna det kvällen innan.
+
+Så här i efterhand: Borde vi inte själva ha märkt att vi inte fick nåt vigselbevis?
+
+*
+
+Sid 152:
+
+Stavfel Celines text.
+
+Texten:
+...snacka i ett ... Man skär ner ... Man ger upp ... Man har hållit på och pratat i trettio år ... Man är inte länge så mån om att ha rätt. Man tappar till och med lusten att bevara den lilla plats man...
+
+
+
+
+Ersätt med:
+...snacka i ett ... Man skär ner ... Man ger upp ... Man har hållit på och pratat i trettio år ... Man är inte längre så mån om att ha rätt. Man tappar till och med lusten att bevara den lilla plats man...
+
+*
+
+Sid 153:
+
+Särskrivning.
+
+Texten:
+Det tredje boken är betydligt friskare och roligare: “En småländsk tragedi” av snillet Frithiof Nilsson Piraten. Den hade jag gärna sett som film. Men det kommer inte heller till skott -över tid kommer jag att skriva ganska många treatment och synopsis som aldrig realiseras, delvis på grund av varierande kvalitépå mitt eget arbete, delvis för att...
+
+Ersätts med:
+Det tredje boken är betydligt friskare och roligare: “En småländsk tragedi” av snillet Frithiof Nilsson Piraten. Den hade jag gärna sett som film. Men det kommer inte heller till skott - över tid kommer jag att skriva ganska många treatment och synopsis som aldrig realiseras, delvis på grund av varierande kvalité på mitt eget arbete, delvis för att...
+
+*
+
+Sid 154:
+
+Särskrivning.
+
+Texten:
+Ett tips: färsk, rundröktål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
+
+Ersätt med:
+Ett tips: färsk, rundrökt ål på en skiva danskt rågbröd, lätt kryddat med nymald svartpeppar och en iskall stänkare till det.
+
+*
+
+Sid 155:
+
+Dikten: NI SKA VARA HJÄRTLIGT VÄLKOMNA..." ska inte brytas upp av asterisker, ska vara en löpande text.
+
+*
+
+
+Sid 156:
+
+Samma sak här: Dikten "Vi ser en bettlare som slickar porten..." ska inte brytas upp av asterisker.
+
+*
+
+Sid 158:
+
+Särskrivning.
+
+Texten:
+Ljuvliga tanke.
+
+En formidabel chans att nåut till alla instängda.
+
+Jag tackar ja.
+
+Ersätt med:
+Ljuvliga tanke.
+
+En formidabel chans att nå ut till alla instängda.
+
+Jag tackar ja.
+
+*
+
+Texten:
+– Det är en jävla tur att det är snoppen och inteöronen som är våra könsorgan, tänk dig att gåpå stan, se en snygg tjej och plötsligt ståröronen rakt ut, illröda.
+
+Ersätt med:
+– Det är en jävla tur att det är snoppen och inte öronen som är våra könsorgan, tänk dig att gå på stan, se en snygg tjej och plötsligt står öronen rakt ut, illröda.
+
+*
+
+Sid 160:
+
+Särskrivning.
+
+Texten:
+Jan-Olof Strandberg framför dikten i SVT påföljandeår, själv läser jag den på den stora ANC-galan i Göteborg 1985. Jag framför den också året efter vid en mäktig och sorgsen manifestation på Sergels Torg till minne av Olof Palme.
+
+
+Ersätt med:
+Jan-Olof Strandberg framför dikten i SVT påföljande år, själv läser jag den på den stora ANC-galan i Göteborg 1985. Jag framför den också året efter vid en mäktig och sorgsen manifestation på Sergels Torg till minne av Olof Palme.
+
+*
+
+Texten:
+Så hur upprörda blir ”vi”?
+
+Klädsamt upprörda över bristen påsen information om haveriet.
+
+Ersätt med:
+Så hur upprörda blir ”vi”?
+
+Klädsamt upprörda över bristen på sen information om haveriet.
+
+*
+
+Sid 161:
+
+Särskrivning.
+
+Texten: 
+Strax innan skriver jag en krogshow till Lars Amble. Showen bär hans eget namn och sätts upp på Bacchi Wapen i Gamla Stan. Jag har arbetat med Amble ett antal gånger, i radio- och revysammanhang. Han har en utomordentlig diktion och väjer aldrig för provocerande material. Dessutom är han snabb och rörlig i vindsvåningen och ofta lätt påfoten.
+
+Ersätt med:
+Strax innan skriver jag en krogshow till Lars Amble. Showen bär hans eget namn och sätts upp på Bacchi Wapen i Gamla Stan. Jag har arbetat med Amble ett antal gånger, i radio- och revysammanhang. Han har en utomordentlig diktion och väjer aldrig för provocerande material. Dessutom är han snabb och rörlig i vindsvåningen och ofta lätt på foten.
+
+*
+
+Texten:
+Vissa dagar sitter jag stilla vid mitt spröjsade fönster och tittar ut påingenting, eller det som är ingenting när man inte har kontakt med omvärlden. Jag kunde ha sett gröna träd och ett staket och ett rullandeäpple på marken, men jag ser ingenting.
+
+
+
+
+Ersätt med:
+Vissa dagar sitter jag stilla vid mitt spröjsade fönster och tittar ut på ingenting, eller det som är ingenting när man inte har kontakt med omvärlden. Jag kunde ha sett gröna träd och ett staket och ett rullande äpple på marken, men jag ser ingenting.
+
+*
+
+Texten:
+Andra dagar ligger jag raklång på golvet och lyssnar påingenting, i stereo: jag försöker höra tystnaden. Det är svårt, ljud ger inte upp så lätt, det tar tid. Så småningom tar det inre brusetöver, ett avlägset rymdepos anas, djupt inne i hjärnan. Ligger jag tillräckligt länge kan jag urskilja slingor därinne, stråk av ljusår som drar förbi, ibland mörka mystiska ljud, som från okända oceanbottnar.
+
+Ersätt med:
+Andra dagar ligger jag raklång på golvet och lyssnar på ingenting, i stereo: jag försöker höra tystnaden. Det är svårt, ljud ger inte upp så lätt, det tar tid. Så småningom tar det inre bruset över, ett avlägset rymdepos anas, djupt inne i hjärnan. Ligger jag tillräckligt länge kan jag urskilja slingor därinne, stråk av ljusår som drar förbi, ibland mörka mystiska ljud, som från okända oceanbottnar.
+
+*
+
+Sid 162:
+
+Särskrivning.
+
+Texten:
+...medvetande. Då är det alltid spännande efteråt, att läsa vad det var som for förbi. Ofta är det en text som jag aldrig kunde ha skrivit om jag hade tänkt skriva den. Denär en gåva från mitt undermedvetna.
+
+En gång hamnade jag i det tillståndet, en eftermiddag på en glasveranda med ett glas kallt, vitt vin intill mig. Plötsligt började jag skriva utan att tänka påvad jag skrev, jag försökte bara hinna med. I en dryg halvtimme skrev jag utan att ha en aning om vad jag skrev, det bara forsade ur mig.
+
+Såtog det slut.
+
+Ersätt med:
+...medvetande. Då är det alltid spännande efteråt, att läsa vad det var som for förbi. Ofta är det en text som jag aldrig kunde ha skrivit om jag hade tänkt skriva den. Den är en gåva från mitt undermedvetna.
+
+
+
+En gång hamnade jag i det tillståndet, en eftermiddag på en glasveranda med ett glas kallt, vitt vin intill mig. Plötsligt började jag skriva utan att tänka på vad jag skrev, jag försökte bara hinna med. I en dryg halvtimme skrev jag utan att ha en aning om vad jag skrev, det bara forsade ur mig.
+
+Så tog det slut.
+
+*
+
+Texten:
+Jag försökte alla datatekniska tricks jag kunde utan att hitta den, mer och mer desperat.
+
+Kontaktade experter, fick hjälp - texten var försvunnen.
+
+Ochär så än idag.
+
+Kanske, men bara kanske, skrev jag aldrig texten.
+
+Ersätt med:
+Jag försökte alla datatekniska tricks jag kunde utan att hitta den, mer och mer desperat.
+
+Kontaktade experter, fick hjälp - texten var försvunnen.
+
+Och är så än idag.
+
+Kanske, men bara kanske, skrev jag aldrig texten.
+
+*
+
+Texten:
+– Vi vill ha en bild av Fälldin påomslaget, den med plåstret.
+
+– Carstens?
+
+– Ja.
+
+Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sju åren och få namnet ”s.k. satir”. Påförekommen anledning.
+
+Ersätt med:
+– Vi vill ha en bild av Fälldin på omslaget, den med plåstret.
+
+– Carstens?
+
+– Ja.
+
+Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sju åren och få namnet ”s.k. satir”. På förekommen anledning.
+
+*
+
+Sid 163:
+
+Särskrivning.
+
+Texten:
+Såhar Carsten en ny utställning på Galleri Engström. Den heter “Nofretete”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det...
+
+Ersätt med:
+Så har Carsten en ny utställning på Galleri Engström. Den heter “Nofretete”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det...
+
+*
+
+Texten:
+Ett par nyhetsartiklar fångar min uppmärksamhet. Dom handlar om hur vackra kvinnor frånöstländer kontaktar svenska tjänstemän påmellannivåoch förleder dom att börjaägna sigåt industrispionage. Via erotiskt umgänge. Kontakterna tas på olika mässor runt om i Europa.
+
+Ersätt med:
+Ett par nyhetsartiklar fångar min uppmärksamhet. Dom handlar om hur vackra kvinnor från östländer kontaktar svenska tjänstemän på mellannivå och förleder dom att börja ägna sig åt industrispionage. Via erotiskt umgänge. Kontakterna tas på olika mässor runt om i Europa.
+
+*
+
+Sid 164:
+
+Särskrivning.
+
+Texten:
+Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, hon är mycket sympatisk, vacker och avspänd. Efter det åker jag och Dabrowski till Hellströms sommarhus på Torö- en ösom har sin egen skvallernivå.
+
+
+
+Ersätt med:
+Vi träffar Fältskog på en välvald och mörk restaurang, pratar lite löst, hon är mycket sympatisk, vacker och avspänd. Efter det åker jag och Dabrowski till Hellströms sommarhus på Torö- en ö som har sin egen skvallernivå.
+
+*
+
+Texten:
+Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp påköksbordet till sin fru: ”va rörigt det blev”).
+
+Ersätt med:
+Ett citat från den amerikanske poeten Kenneth Patchen (han tog livet av sig och lämnade en handskriven lapp på köksbordet till sin fru: ”va rörigt det blev”).
+
+*
+
+Sid 165:
+
+Särskrivning.
+
+Texten:
+Jag är besatt av ord, av orden i sig, das Wort an sich, oavsett vad dom betyder, vad dom har för mening.”Genomsprungen, fylld av förlåtelse, närskott, återflykt, inuti den vita sorgen.” Orden klöser mig i ansiktet, lockar in mig i en ogenomtränglig djungel, får mig att gåvilse i min egen hjärna.
+
+Jag vet inte vad jag villåt.
+
+Ersätt med:
+Jag är besatt av ord, av orden i sig, das Wort an sich, oavsett vad dom betyder, vad dom har för mening.”Genomsprungen, fylld av förlåtelse, närskott, återflykt, inuti den vita sorgen.” Orden klöser mig i ansiktet, lockar in mig i en ogenomtränglig djungel, får mig att gå vilse i min egen hjärna.
+
+Jag vet inte vad jag vill åt.
+
+*
+
+
+
+
+
+
+
+
+
+Sid 166:
+
+Särskrivning.
+
+Texten:
+Jag vet hur jag själv fungerar när jag ska läsa en ny bok: första sidan, ofta bara första meningen - vrider det inte till dåorkar jag inte fortsätta (naturligtvis ett idiotiskt sätt att förhålla sig till litteratur, men jag får pungsvett när en bok inleds med tvåsidors uppräkning av alla inblandades namn och yrken, ibland följt av kartor!). Jag vill slukas direkt, vilket gör att jag sällan har fullföljt dom böcker som jag kunde ha haft nytta av, rent litterärt.
+
+Ersätt med:
+Jag vet hur jag själv fungerar när jag ska läsa en ny bok: första sidan, ofta bara första meningen - vrider det inte till då orkar jag inte fortsätta (naturligtvis ett idiotiskt sätt att förhålla sig till litteratur, men jag får pungsvett när en bok inleds med två sidors uppräkning av alla inblandades namn och yrken, ibland följt av kartor!). Jag vill slukas direkt, vilket gör att jag sällan har fullföljt dom böcker som jag kunde ha haft nytta av, rent litterärt.
+
+*
+
+Texten:
+Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lundqvist. Såhär kul har hans alter ego Klas Katt det:
+
+Ersätt med: 
+Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lundqvist. Så här kul har hans alter ego Klas Katt det:
+
+*
+
+Texten:
+Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket märkliga livshistoria. Tillsammans med filmaren Elisabeth Wennberg skriver vi ett program för slag till SVT med titeln ”Du får hela min kropp”. Vi vill göra en dokumentärfilm om och med Wellström. Förslaget börjar så här:
+
+Ersätt med:
+Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket märkliga livshistoria. Tillsammans med filmaren Elisabeth Wennberg skriver vi ett programförslag till SVT med titeln ”Du får hela min kropp”. Vi vill göra en dokumentärfilm om och med Wellström. Förslaget börjar så här:
+
+*
+
+
+Sid 167:
+
+Tecken tas bort.
+
+Texten:
+I sitt testamente har han donerat sin hud till ett museum i Holland. Huden har också efterfrågats av intendenten för Tatueringsmuséet i Japan.”
+
+Ersätts med:
+I sitt testamente har han donerat sin hud till ett museum i Holland. Huden har också efterfrågats av intendenten för Tatueringsmuséet i Japan.”
+
+*
+
+Sid 169:
+
+Film från ANC-galan. Står bara "Du är offline" i en svart ruta?
+
+*
+
+Sid 170:
+
+Samma sak. Filmade inslaget ersatt med "Du är offline". Jag misstänker att det här är nåt fel bara på datorn där jag sitter, har ingen wifi, går vi mobilen.
+
+*
+
+Sid 171:
+
+Särskrivning.
+
+Texten:
+Vi kommer in ett fönsterlöst rum som domineras av en väldig skänk i mörk ek, full med smålådor. Gösta blir nyfiken och går fram.
+
+– Det finns säkert smålönnfack i en sån här ...
+
+Ersätt med:
+Vi kommer in ett fönsterlöst rum som domineras av en väldig skänk i mörk ek, full med små lådor. Gösta blir nyfiken och går fram.
+
+– Det finns säkert små lönnfack i en sån här ...
+
+*
+
+
+
+Sid 172:
+
+Särskrivning.
+
+Texten:
+Fruktbart minne från ”Morrhår & Ärtor”: Gösta vill att Lena Nyman ska ta en whisky med honom i en tågkupé.
+
+– Man kanske kan fålite sponsring på det? säger han.
+
+Ersätts med:
+Fruktbart minne från ”Morrhår & Ärtor”: Gösta vill att Lena Nyman ska ta en whisky med honom i en tågkupé.
+
+– Man kanske kan få lite sponsring på det? säger han.
+
+*
+
+Sid 174:
+
+Särskrivning.
+
+Texten:
+...Ekman, dom tidigare har delvis byggt på danska förlagor. Vi döper den helt enkelt till ”Jönssonligan dyker upp igen.” Konceptet är intakt. Snillet i mitten, omgiven av tvåburleska hantlangare och en bedårande kvinna som sidekick: Doris, kongenialt gestaltad av...
+
+Ersätts med:
+...Ekman, dom tidigare har delvis byggt på danska förlagor. Vi döper den helt enkelt till ”Jönssonligan dyker upp igen.” Konceptet är intakt. Snillet i mitten, omgiven av två burleska hantlangare och en bedårande kvinna som sidekick: Doris, kongenialt gestaltad av...
+
+*
+
+Sid 175:
+
+Särskrivning.
+
+Texten:
+Mordet på Palme är tveklöst det som tar längst tid att processa när det händer, mentalt. Sanningen är iskall, han är död, men mördad? PåSveavägen? Det är, som jag nämnt, bara fyra månader sen han satt med oss artister i Göteborg och var djupt engagerad i stödet till ANC. Nu ligger han skjuten på Sabbatsberg?
+
+
+Ersätt med:
+Mordet på Palme är tveklöst det som tar längst tid att processa när det händer, mentalt. Sanningen är iskall, han är död, men mördad? På Sveavägen? Det är, som jag nämnt, bara fyra månader sen han satt med oss artister i Göteborg och var djupt engagerad i stödet till ANC. Nu ligger han skjuten på Sabbatsberg?
+
+*
+
+Texten:
+Fackeltåget på Sergels Torg hjälper till att härbärgera det som hänt, emotionellt. När jag läser min dikt i mörkret, ser utöver alla eldarna, upplever den totala tystnaden, den sorgens kollektiva tystnad som...
+
+Ersätt med:
+Fackeltåget på Sergels Torg hjälper till att härbärgera det som hänt, emotionellt. När jag läser min dikt i mörkret, ser ut över alla eldarna, upplever den totala tystnaden, den sorgens kollektiva tystnad som...
+
+*
+
+Sid 178:
+
+Särskrivning.
+
+Texten:
+Sverigedemokraterna kommer att fåett skrämmande inflytande på det svenska samhällsklimatet på 2000-talet (jag återkommer till det).
+
+Ersätt med:
+Sverigedemokraterna kommer att få ett skrämmande inflytande på det svenska samhällsklimatet på 2000-talet (jag återkommer till det).
+
+*
+
+Texten:
+Isoleringen i skärgården, mediaskuggan, tystnaden, har fått mig att tappa kontakten med en del av mig själv. Kanske en nödvändig ansamling inför dom kommandeåren, men jag är inte helt bekväm med att trampa för mycket vatten, mitt kreativa ego börjar surna till.
+
+Det blir inte påbättre humör av att skriva ”Jönssonligan på Mallorca”, den fjärde filmen i serien. Roligt bitvis, men trots allt pårutinens brant.
+
+
+
+
+
+
+Ersätt med:
+Isoleringen i skärgården, mediaskuggan, tystnaden, har fått mig att tappa kontakten med en del av mig själv. Kanske en nödvändig ansamling inför dom kommande åren, men jag är inte helt bekväm med att trampa för mycket vatten, mitt kreativa ego börjar surna till.
+
+Det blir inte på bättre humör av att skriva ”Jönssonligan på Mallorca”, den fjärde filmen i serien. Roligt bitvis, men trots allt på rutinens brant.
+
+*
+
+Sid 179:
+
+Särskrivning.
+
+Texten:
+Konserten blir av, kyrkan är smockfull och skolan får ett ekonomiskt bidrag på 60.000 kronor. Själv framför jag en raplåt som ackompanjeras av Carsten påbongotrummor. Den heter ”Detta är en sådan natt”:
+
+Ersätt med:
+Konserten blir av, kyrkan är smockfull och skolan får ett ekonomiskt bidrag på 60.000 kronor. Själv framför jag en raplåt som ackompanjeras av Carsten på bongotrummor. Den heter ”Detta är en sådan natt”:
+
+*
+
+Den långa dikten "Detta är en sådan natt" ska inte brytas upp av avsterisker i mitten, ska vara en löpande text.
+
+*
+
+Sid 182:
+
+Särskrivning.
+
+Texten:
+Dessutom är han extremt snabb på att memorera manus, en fördel när vi ska producera nytt material en gång i veckan.
+
+Han är också på fallande vänfast.
+
+Ersätt med:
+Dessutom är han extremt snabb på att memorera manus, en fördel när vi ska producera nytt material en gång i veckan.
+
+Han är också påfallande vänfast.
+
+*
+
+Sid 183:
+
+Särskrivning.
+
+Texten:
+Så här långt, i slutet av 80-talet, är livet fortfarande hanterbart. Dom tioåren på ön har fjärmat mig en hel del från det som gröpte ur tillvaron och slet sönder mig. Jag har landat i ett annat jag. Föga anar jag vad som väntar runt hörnet (vi gör ju sällan det).
+
+Ersätt med:
+Så här långt, i slutet av 80-talet, är livet fortfarande hanterbart. Dom tio åren på ön har fjärmat mig en hel del från det som gröpte ur tillvaron och slet sönder mig. Jag har landat i ett annat jag. Föga anar jag vad som väntar runt hörnet (vi gör ju sällan det).
+
+*
+
+Sid 185:
+
+Särskrivning.
+
+Texten:
+Cilla och jag gifter oss någraår senare. Bröllopsresan går till Venedig. Den våta vålnaden är försvunnen och Cilla blir den tredje grundpelaren i mitt liv (till dags dato har vi varit tillsammans i 30 år och har en dotter, Molly, till henne återkommer jag).
+
+Ersätt med:
+Cilla och jag gifter oss några år senare. Bröllopsresan går till Venedig. Den våta vålnaden är försvunnen och Cilla blir den tredje grundpelaren i mitt liv (till dags dato har vi varit tillsammans i 30 år och har en dotter, Molly, till henne återkommer jag).
+
+*
+
+Texten:
+Småglädjekorn i tillvaron: Nelson Mandela släpps fri. Äntligen. ANC-s kamp har gått i mål och världen kommer att få lära sig ett nytt begrepp: försoning, istället för hämnd. Ett konkret exempel är Robben Island, fängelset där Mandela satt i allaår. Dom vita fångvaktarna anställs efter Mandelas maktövertagande för att sköta fängelsets löpande verksamhet som minnesplats.
+
+Ersätt med:
+Små glädjekorn i tillvaron: Nelson Mandela släpps fri. Äntligen. ANC-s kamp har gått i mål och världen kommer att få lära sig ett nytt begrepp: försoning, i stället för hämnd. Ett konkret exempel är Robben Island, fängelset där Mandela satt i alla år. Dom vita fångvaktarna anställs efter Mandelas maktövertagande för att sköta fängelsets löpande verksamhet som minnesplats.
+
+*
+
+Sid 186:
+
+Särskrivning.
+
+Texten:
+Under repetitionen känner jag att det är nånting som saknas. En stund innan premiären kommer jag påvad jag behöver. Jag springer över till NK, damavdelningen, hittar en expedit, lätt andfådd.
+
+Ersätt med:
+Under repetitionen känner jag att det är nånting som saknas. En stund innan premiären kommer jag på vad jag behöver. Jag springer över till NK, damavdelningen, hittar en expedit, lätt andfådd.
+
+*
+
+Sid 189:
+
+Särskrivning.
+
+Texten:
+På tal om järnvägsrestaurangen vid Tekniska: ett klassisk replikutbyte (ur ”Morrhår och Ärtor”). Gösta Ekman sitter ensam vid ett bord i den tomma restaurangen. Kyparen kommer fram. Gösta tittar upp.
+
+– Tvåstarköl, tack.
+
+Ersätt med:
+På tal om järnvägsrestaurangen vid Tekniska: ett klassisk replikutbyte (ur ”Morrhår och Ärtor”). Gösta Ekman sitter ensam vid ett bord i den tomma restaurangen. Kyparen kommer fram. Gösta tittar upp.
+
+– Två starköl, tack.
+
+*
+
+Texten:
+Serien spelas in i underjorden under S:t Eriksplan. Platsen döps till Lilla Beirut. Det är en stor, genomsunkig källarlokal med taskig luft och ett eller annat snabbfotat skadedjur iögonvrån. Carsten och hans assistent Anders bygger upp en fantastisk scenografi, sprängfylld med avantgardistiska objekt och målningar. Nakna skyltdockor, uppstoppade djur, klockor, graffitti, snurrande Duchamphjul.
+
+
+Ersätt med:
+Serien spelas in i underjorden under S:t Eriksplan. Platsen döps till Lilla Beirut. Det är en stor, genomsunkig källarlokal med taskig luft och ett eller annat snabbfotat skadedjur i ögonvrån. Carsten och hans assistent Anders bygger upp en fantastisk scenografi, sprängfylld med avantgardistiska objekt och målningar. Nakna skyltdockor, uppstoppade djur, klockor, graffiti, snurrande Duchamphjul.
+
+*
+
+Tillägg:
+
+Dom bygger också en bar som heter ”BALOOBA BAR” där vi serverar öl och vin. Baren blir ett naturligt häng efter varje avslutad inspelning, team och artister blandas. Senare på natten kommer andra godsaker fram.
+
+Efter detta stycke:
+
+I filmen BONGO i början av detta dokument syns Carsten i BALLOBA BAR.
+
+*
+
+Sid 190:
+
+Särskrivning.
+
+Texten:
+Minne från Lilla Beirut: Inspelningsteamet utgörs av gamla tunga rävar på SVT, män som är vana vid helt andra förutsättningar. Ljus studio, flinka assistenter, stenhårt inspelningsschema. Här ska dom arbeta i ett mörkt kaos, mer eller mindre påuppstuds. Efter första inspelningsdagen ringer en av kameraveteranerna till dramachefen Lars Säfström och säger:
+
+Ersätts med:
+Minne från Lilla Beirut: Inspelningsteamet utgörs av gamla tunga rävar på SVT, män som är vana vid helt andra förutsättningar. Ljus studio, flinka assistenter, stenhårt inspelningsschema. Här ska dom arbeta i ett mörkt kaos, mer eller mindre på uppstuds. Efter första inspelningsdagen ringer en av kameraveteranerna till dramachefen Lars Säfström och säger:
+
+*
+
+
+
+
+
+
+
+Sid 192:
+
+Särskrivning.
+
+Texten:
+Rebellen utan Ålder och ser honom böja sin smärta mot flygeln och hör honom rulla sina svarta tärningar av elfenben: helle älskad av fåän hatad av ingen ... han har ingenting att bevara längre, utom kunskapen om det förrådda, och en jättelik svartmålad glödlampa sprutar sitt...
+
+Ersätt med:
+Rebellen utan Ålder och ser honom böja sin smärta mot flygeln och hör honom rulla sina svarta tärningar av elfenben: helle älskad av få än hatad av ingen ... han har ingenting att bevara längre, utom kunskapen om det förrådda, och en jättelik svartmålad glödlampa sprutar sitt...
+
+*
+
+Felstavning.
+
+Texten:
+Av någon anledning finns inte serien” Sista Skriket” bevarat i SVT:s arkiv.
+
+Ersätt med:
+Av någon anledning finns inte serien” Sista Skriket” bevarad i SVT:s arkiv.
+
+*
+
+Sid 193:
+
+Särskrivning.
+
+Texten:
+...han vill lämna bakom sig. Han vill inte konfronteras med det.
+
+– Men du får gärna gåvidare med materialet, om du vill.
+
+Det känns inte speciellt relevant. Historien begravs påde oinspelade manusens patetiska kyrkogård, gravstenarnas titlar gråter.
+
+Ersätt med:
+...han vill lämna bakom sig. Han vill inte konfronteras med det.
+
+– Men du får gärna gå vidare med materialet, om du vill.
+
+Det känns inte speciellt relevant. Historien begravs på de oinspelade manusens patetiska kyrkogård, gravstenarnas titlar gråter.
+
+*
+
+Texten:
+Reflektion: Det är en aning beklämmande att konstatera hur mycket tid av mitt liv jag har lagt ner påidéer, projekt, synopsis, manus med mera ... som aldrig har blivit av. Flammat upp i...
+
+Ersätt med:
+Reflektion: Det är en aning beklämmande att konstatera hur mycket tid av mitt liv jag har lagt ner på idéer, projekt, synopsis, manus med mera ... som aldrig har blivit av. Flammat upp i...
+
+*
+
+Sid 194:
+
+Särskrivning.
+
+Texten:
+Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam påotaliga scener och framfört egna texter med högt självförtroende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
+
+Ersätt med:
+Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag har vid det här laget stått ensam på otaliga scener och framfört egna texter med högt självförtroende. Den här gången knyter det sig. Jag mår dåligt efter inspelningen.
+
+*
+
+Texten:
+Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannar påskrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde...
+
+Ersätt med:
+Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannar på skrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde...
+
+*
+
+
+
+Sid 196:
+
+Särskrivnng.
+
+Texten:
+En mycket bättre idé kommer från musikern Göran Fristorp. Han ringer och frågar om jag har några texter han kan tonsätta till en ny skiva. Han får en pärm med dikter, väljer utåtta stycken och spelar in skivan ”Amabile”.
+
+Ersätt med:
+En mycket bättre idé kommer från musikern Göran Fristorp. Han ringer och frågar om jag har några texter han kan tonsätta till en ny skiva. Han får en pärm med dikter, väljer ut åtta stycken och spelar in skivan ”Amabile”.
+
+*
+
+Sångtexten "Där dom blinda barnen bor" ska inte delas upp av asterisker, ska vara löpande text.
+
+*
+
+Sid 197:
+
+Felstavningar.
+
+Texten:
+På tal om allt som rinner ut i sanden: Jag har aldrig arbetat med Hasse Alfredsson. Hans två söner har jag tangerat i olika sammanhang, men aldrig Alfredsson själv. Det här året är det nära. Alfredsson har arbetat på ett manus till en tv-serie om Ivar Kreuger, den ryktbare finansmannen med ett spektakulärt liv och en dramatisk död.
+
+Arbetet har kört fast.
+
+Efter fjärde versionen av manuset föreslår Alfredsson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys på sex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredsson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett...
+
+Ersätt med: På tal om allt som rinner ut i sanden: Jag har aldrig arbetat med Hasse Alfredson. Hans två söner har jag tangerat i olika sammanhang, men aldrig Alfredson själv. Det här året är det nära. Alfredson har arbetat på ett manus till en tv-serie om Ivar Kreuger, den ryktbare finansmannen med ett spektakulärt liv och en dramatisk död.
+
+Arbetet har kört fast.
+
+Efter fjärde versionen av manuset föreslår Alfredson att jag ska kopplas in för att se om jag kan komma upp med några idéer som kan föra projektet vidare. Jag får hans manus och gör en grundlig analys på sex sidor. Vad jag tycker fungerar, vad som inte gör det, vad som behöver utvecklas och hur. Alfredson får min analys. Två dagar senare får jag höra att han har hoppat av projektet. Han har fått ett...
+
+*
+
+Sid 198:
+
+Särskrivning.
+
+Texten:
+Dags för mitt yngstaättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”Min store tjocke far” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningen äger rum och...
+
+Ersätt med:
+Dags för mitt yngsta ättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”Min store tjocke far” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningen äger rum och...
+
+*
+
+Sid 199:
+
+Texten:
+
+Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här landet. Den avgjort mest originelle är skribenten Lena Anderssons favoritobjekt Roy ”Hugo” Andersson. Hans kortfilm ”Härlig är jorden” som öppnar stafettserien ”90 minuter 90-tal” är magnifik, hans säregna filmspråk är unikt i världen.
+
+Efter detta stycke borde det vara ett mellanstreck rakt över, för att skilja från den film som kommer efter som handlar om helt andra saker.
+
+*
+
+Sid 202:
+
+Särskrivning.
+
+Texten:
+Sågår Happy Cousins i graven med Carsten. Projektet som startade i efterdyningarna av vår mormors jordfästelse 1962 och pågick tills skissblocket föll ur hans hand.
+
+
+Ersätt med:
+Så går Happy Cousins i graven med Carsten. Projektet som startade i efterdyningarna av vår mormors jordfästelse 1962 och pågick tills skissblocket föll ur hans hand.
+
+*
+
+Texten:
+...ytterst välklädd, med en märkbar distans till sin omgivning. Jag var turbulent, på alla plan. Ändåtriggade vi varandra, från olika håll. I botten låg naturligtvis det som är grunden i alla fungerande...
+
+Ersätt med:
+...ytterst välklädd, med en märkbar distans till sin omgivning. Jag var turbulent, på alla plan. Ändå triggade vi varandra, från olika håll. I botten låg naturligtvis det som är grunden i alla fungerande...
+
+*
+
+Sid 203:
+
+Särskrivning.
+
+Texten:
+Fotnot om Amis, Carstens änka: En vacker och remarkabel kvinna, gift med Carsten till hans död, själv konstnär en period. Hon figurerar påoändligt många av Carstens tavlor, i en eller annan form, deras relation satt aldrig fast. Länge förvarar hon hans aska i en liten urna påspiselkransen i hemmet.
+
+Ersätt med:
+Fotnot om Amis, Carstens änka: En vacker och remarkabel kvinna, gift med Carsten till hans död, själv konstnär en period. Hon figurerar på oändligt många av Carstens tavlor, i en eller annan form, deras relation satt aldrig fast. Länge förvarar hon hans aska i en liten urna på spiselkransen i hemmet.
+
+*
+
+Sid 204:
+
+Särskrivning.
+
+Texten:
+Stefan och jag går också vidare från ”Tillfällgt Avbrot t” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han...
+
+
+
+Ersätt med:
+Stefan och jag går också vidare från ”Tillfällgt Avbrott” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han...
+
+*
+
+Texten:
+Äntligen är jag framme vid en av mina kommandeälsklingsflykter: flugfiske. Cilla har flugfiskat i många år, jag har nöjt mig med spinnfiske. När hon tar med mig upp i fjällen, högt ovanför Arjeplog, till en liten fiskecamp vid Piteälvens upprinnelse blir jag helt såld.
+
+Ersätt med:
+Äntligen är jag framme vid en av mina kommande älsklingsflykter: flugfiske. Cilla har flugfiskat i många år, jag har nöjt mig med spinnfiske. När hon tar med mig upp i fjällen, högt ovanför Arjeplog, till en liten fiskecamp vid Piteälvens upprinnelse blir jag helt såld.
+
+*
+
+Sid 205:
+
+Särskrivning.
+
+Texten:
+Orsak 1 är färden dit: Duåker Silvervägen från Arjeplog mot Norge, direkt efter Arjeplog dör all uppkoppling och återkommer inte förrän du passerar samma punkt från andra hållet. Efter det är du totalt urkopplad, på det planet. Vid en liten by som heter Tjärnberg kliver du in i en helikopter och stiger mot fjällen, såpass lågt att du kan se renarna röra sig över kalfjället. Det är en fantastisk flygfärd (inte såfantastisk för Olivia Rönning i vår senaste bok ”Fruset Guld”, hon gör samma färd men kraschar mot en bergskam efter ett åsknedslag i maskinen). Helikoptern går ner i Miekaks fiskecamp. Den ligger precis intill ett dånande vattenfall, påkanten till en större sjöfull med feta rödingar och öringar. Där inkvarteras du i en enkel och funktionell trästuga och saknar ingenting.
+
+Ersätt med:
+Orsak 1 är färden dit: Du åker Silvervägen från Arjeplog mot Norge, direkt efter Arjeplog dör all uppkoppling och återkommer inte förrän du passerar samma punkt från andra hållet. Efter det är du totalt urkopplad, på det planet. Vid en liten by som heter Tjärnberg kliver du in i en helikopter och stiger mot fjällen, så pass lågt att du kan se renarna röra sig över kalfjället. Det är en fantastisk flygfärd (inte så fantastisk för Olivia Rönning i vår senaste bok ”Fruset Guld”, hon gör samma färd men kraschar mot en bergskam efter ett åsknedslag i maskinen). Helikoptern går ner i Miekaks fiskecamp. Den ligger precis intill ett dånande vattenfall, på kanten till en större sjö full med feta rödingar och öringar. Där inkvarteras du i en enkel och funktionell trästuga och saknar ingenting.
+
+*
+
+Texten:
+...hjortron och renar och skygga ripor. Det klara, iskalla blåvattnet som strömmar från alla håll och kanter och smakar bättreän det dyraste importvattnet på Operakällaren.
+
+Ersätt med:
+...hjortron och renar och skygga ripor. Det klara, iskalla blå vattnet som strömmar från alla håll och kanter och smakar bättre än det dyraste importvattnet på Operakällaren.
+
+*
+
+Texten:
+Orsak 3 är flugfisket: För den som aldrig har flugfiskat är det svårt att förklara det förtrollande. Det som gör att du tillbringar timmar stående i strida forsar enbart fokuserad påfisket. Hur du rensar huvudet på allt utom det som gäller där du står, hoppet om ett hugg, ett motryck, en tyst kamp med en glittrande muskel som då och dåslungar sig över vattenytan. Ibland får du in den, ibland inte.
+
+Ersätt med:
+Orsak 3 är flugfisket: För den som aldrig har flugfiskat är det svårt att förklara det förtrollande. Det som gör att du tillbringar timmar stående i strida forsar enbart fokuserad på fisket. Hur du rensar huvudet på allt utom det som gäller där du står, hoppet om ett hugg, ett motryck, en tyst kamp med en glittrande muskel som då och då slungar sig över vattenytan. Ibland får du in den, ibland inte.
+
+*
+
+Texten:
+Till flugfisket och Miekakåtervänder jag så ofta jag kan. Det, och svampplockning, är lungorna i mitt liv (nuförtiden).
+
+Ersätt med:
+Till flugfisket och Miekak återvänder jag så ofta jag kan. Det, och svampplockning, är lungorna i mitt liv (nuförtiden).
+
+*
+
+Texten:
+...restaurangkedjor lite runt om i världen. En kväll berättar vi för honom att vi ska ut på lite havsfiske nästa dag.
+
+– Får ni nån fisk såta med den hit så ska jag laga till den, säger han.
+
+Ersätt med:
+...restaurangkedjor lite runt om i världen. En kväll berättar vi för honom att vi ska ut på lite havsfiske nästa dag.
+
+– Får ni nån fisk så ta med den hit så ska jag laga till den, säger han.
+
+*
+
+Texten:
+Nästa morgonåker vi ut i en hyrd båt, ”Rabao”, med tre mans besättning. Efter en timme hugger det till i ett av spöna, linan forsar ut. Jag spänns fast i stolen akter över och börjar veva in, släpper efter, vevar in. Efter en kvart är armarna totalt slut. Nick taröver. Han orkar betydligt längre, men ger upp till slut. Gabriel tar vid, en vältränad ung man. I drygt en timme arbetar vi tillsammans för att fåin fisken till båten. När den närmar sig märker vi hur besättningskillarna blir mer och mer upphetsade. Fortfarande har vi inte sett vad det är vi har påkroken, men vi fattar att det inte är en sardin. Till slut får vi in bytet nära båten och ser vad det är - en enorm tonfisk. Alla fem hjälpsåt med händer och olika redskap för att fåombord bjässen.
+
+Ersätt med:
+Nästa morgon åker vi ut i en hyrd båt, ”Rabao”, med tre mans besättning. Efter en timme hugger det till i ett av spöna, linan forsar ut. Jag spänns fast i stolen akteröver och börjar veva in, släpper efter, vevar in. Efter en kvart är armarna totalt slut. Nick tar över. Han orkar betydligt längre, men ger upp till slut. Gabriel tar vid, en vältränad ung man. I drygt en timme arbetar vi tillsammans för att få in fisken till båten. När den närmar sig märker vi hur besättningskillarna blir mer och mer upphetsade. Fortfarande har vi inte sett vad det är vi har  , men vi fattar att det inte är en sardin. Till slut får vi in bytet nära båten och ser vad det är - en enorm tonfisk. Alla fem hjälps åt med händer och olika redskap för att få ombord bjässen.
+
+*
+
+Sid 206:
+
+Särskrivning.
+
+Texten:
+Samtidigt ringer Gabriel till restaurangägaren och säger att vi har lite fisk nere påkajen, om han är intresserad.
+
+– Men ta med en bil.
+
+Restaurangägaren är där påfem minuter, med en skåpbil. Han ser fisken, gapar, skakar på huvudet och ringer in extrapersonal till köket.
+
+
+
+
+
+
+
+
+Ersätt med:
+Samtidigt ringer Gabriel till restaurangägaren och säger att vi har lite fisk nere på kajen, om han är intresserad.
+
+– Men ta med en bil.
+
+Restaurangägaren är där på fem minuter, med en skåpbil. Han ser fisken, gapar, skakar på huvudet och ringer in extrapersonal till köket.
+
+*
+
+Texten:
+Konklusion: Tvåkvällar i rad bjuds vi påtonfisk anrättad på alla upptänkliga gourmetvis nere i hamnen. Med utsökt vitt vin till. Åtskilliga gäster förbryllas av dom tre utlänningarna som behandlas som rockstjärnor av personalen. Efteråt har vi förstått vilken guldgruva restaurangägaren komöver, han hade fått färskt tonfiskkött för åtskilliga veckor framöver.
+
+Ersätt med:
+Konklusion: Två kvällar i rad bjuds vi   anrättad på alla upptänkliga gourmetvis nere i hamnen. Med utsökt vitt vin till. Åtskilliga gäster förbryllas av dom tre utlänningarna som behandlas som rockstjärnor av personalen. Efteråt har vi förstått vilken guldgruva restaurangägaren kom över, han hade fått färskt tonfiskkött för åtskilliga veckor framöver.
+
+*
+
+Texten:
+...kroken och känner ett kort stick. Strax efter får jag svårt att andas och sjunker ner mot relingen, tröjan blir blöt av svett. Nick ropar påmannen som kör båten. Han kommer ut, ser fisken pådäcket och blir påtagligt skärrad. Viskande förklarar han för Nick att det är en Tracina, den har en giftig tagg på ryggen, giftet är väldigt starkt och kan orsaka hjärtstopp. Nick tittar på mig och jag ser hur orolig han ser ut.”Ska farsan döhär? Mitt ute påhavet i en fiskebåt?”
+
+Ersätt med:
+...kroken och känner ett kort stick. Strax efter får jag svårt att andas och sjunker ner mot relingen, tröjan blir blöt av svett. Nick ropar på mannen som kör båten. Han kommer ut, ser fisken på däcket och blir påtagligt skärrad. Viskande förklarar han för Nick att det är en Tracina, den har en giftig tagg på ryggen, giftet är väldigt starkt och kan orsaka hjärtstopp. Nick tittar på mig och jag ser hur orolig han ser ut.”Ska farsan dö här? Mitt ute på havet i en fiskebåt?”
+
+*
+
+
+
+Texten:
+Samtidigt sätter mannen full fart in mot hamnen i La Maddalena. Jag sitter stilla pådäck, efter en halvtimme avtar trycket i bröstet, andningen går lättare, svettningarna lägger sig. Väl inne i hamnen har jag nästan inga känningar kvar och kan gåiland för egen maskin. Förmodligen fick jag ett mycket ytligt stick. Mannen med båten är lättad, av flera skäl, antagligen.
+
+Ersätt med:
+Samtidigt sätter mannen full fart in mot hamnen i La Maddalena. Jag sitter stilla på däck, efter en halvtimme avtar trycket i bröstet, andningen går lättare, svettningarna lägger sig. Väl inne i hamnen har jag nästan inga känningar kvar och kan gå iland för egen maskin. Förmodligen fick jag ett mycket ytligt stick. Mannen med båten är lättad, av flera skäl, antagligen.
+
+*
+
+Sid 207:
+
+Särskrivning.
+
+Texten:
+Jag kunde ha skildrat ett betydligt mer dramatiskt trauma från samma resa, sammaö. Jag har hyrt en lägenhet i ett vitt hus vid en blåvik. Ensam. Tanken är att jag äntligen ska fågrepp om min kaotiska textmassa, betitlad Baronessan Borelli.
+
+Det gåråt helvete.
+
+Ersätt med:
+Jag kunde ha skildrat ett betydligt mer dramatiskt trauma från samma resa, samma ö. Jag har hyrt en lägenhet i ett vitt hus vid en blå vik. Ensam. Tanken är att jag äntligen ska få grepp om min kaotiska textmassa, betitlad Baronessan Borelli.
+
+Det går åt helvete.
+ 
+*
+
+Texten:
+Jag träffar Slas ett par gånger ihop med Gösta, men får aldrig tillfälle att berätta hur han räddade livet på mig en natt i Grekland.
+
+Elleråtminstone förlängde det.
+
+Det häråret får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill  att ha med mig, för första gången. Det får dom. Såhär lyder texten om mig i boken:
+
+
+
+Ersätt med:
+Jag träffar Slas ett par gånger ihop med Gösta, men får aldrig tillfälle att berätta hur han räddade livet på mig en natt i Grekland.
+
+Eller åtminstone förlängde det.
+
+Det här året får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill  att ha med mig, för första gången. Det får dom. Så här lyder texten om mig i boken:
+
+*
+
+Sid 208:
+
+Särskrivning.
+
+Texten:
+Jag kan intyga allt som sägs i texten är sant, eftersom jag har skrivit den själv. Utanändringar från redaktionen för Bra Böcker (eller Antonia A:son Johnson).
+
+Ersätt med:
+Jag kan intyga allt som sägs i texten är sant, eftersom jag har skrivit den själv. Utan ändringar från redaktionen för Bra Böcker (eller Antonia A:son Johnson).
+
+*
+
+Texten:
+Nederdelen av ett kranium inneslutet i ett öppet trävisir. Påefterfesten i vår lägenhet orsakar skulpturen våldsamma diskussioner. Det handlar om skändandet av döda. En av gästerna vill kasta ut föremålet genom fönstret. Jag förstår inte riktigt upprördheten.
+
+Många år senare besöker jag och tvåav mina barn, Joakim och Sari, den märkliga skelettkyrkan i Kutna Hora utanför Prag. Ossariet nere i källaren är konstfullt utsmyckat med ben från cirka 40.000 människor, bland annat hänger en stor sexarmad ljuskrona i taket, helt gjord av skelettdelar och kranium.
+
+Ersätt med:
+Nederdelen av ett kranium inneslutet i ett öppet trävisir. På efterfesten i vår lägenhet orsakar skulpturen våldsamma diskussioner. Det handlar om skändandet av döda. En av gästerna vill kasta ut föremålet genom fönstret. Jag förstår inte riktigt upprördheten.
+
+Många år senare besöker jag och två av mina barn, Joakim och Sari, den märkliga skelettkyrkan i Kutna Hora utanför Prag. Ossariet nere i källaren är konstfullt utsmyckat med ben från cirka 40.000 människor, bland annat hänger en stor sexarmad ljuskrona i taket, helt gjord av skelettdelar och kranium.
+
+*
+
+Sid 209:
+
+Felstavning.
+
+Texten:
+...bestämmer sig för att skapa en tradition. Tillsammans med Cilla och mig bildas Ärtsklubben, åtta personer som under tio års tid träffas en gång i månaden och äter soppa (över tid tillkommer en del barn också).
+
+Ersätt med:
+...bestämmer sig för att skapa en tradition. Tillsammans med Cilla och mig bildas Ärtklubben, åtta personer som under tio års tid träffas en gång i månaden och äter soppa (över tid tillkommer en del barn också).
+
+*
+
+Texten:
+När vi kliver in i hennes lägenhet har hon tänt stearinljus och smådoftljus över allt, det råder en nästan sakral stämning i rummet. Jag blir obehaglig till mods. Obehaget minskar inte när Olsson vänder sig mot mig direkt efter vi har hälsat och säger:
+
+– Varför var du såvidrig mot Kerstin Thorvall i den där satiren, kan du förklara det?
+
+Ersätt med:
+När vi kliver in i hennes lägenhet har hon tänt stearinljus och små doftljus över allt, det råder en nästan sakral stämning i rummet. Jag blir obehaglig till mods. Obehaget minskar inte när Olsson vänder sig mot mig direkt efter vi har hälsat och säger:
+
+– Varför var du så vidrig mot Kerstin Thorvall i den där satiren, kan du förklara det?
+
+*
+
+Texten:
+...tragedin, en medial exponering i tv-form skulle inte underlätta deras liv. Hur vällovligt syftetänär.
+
+Inte så svårt att förstå.
+
+Så, manuset läggs påis ... och där ligger det än idag (även om isen har smält).
+
+Ersätt med:
+...tragedin, en medial exponering i tv-form skulle inte underlätta deras liv. Hur vällovligt syftet än är.
+
+Inte så svårt att förstå.
+
+Så, manuset läggs på is ... och där ligger det än idag (även om isen har smält).
+
+*
+
+Sid 210:
+
+Särskrivning.
+
+Texten:
+Och nu ett helt ovidkommande fragment som dyker upp, kanske som en association efter styckningen av da Costa, en information som jag har lagt påminnet. Eller på en kudde av pärlor. Det handlar om den engelska bödeln Albert Pierrepoint som sa såh är när arbetsbördan tidvis blev för stor:
+
+Ersätt med:
+Och nu ett helt ovidkommande fragment som dyker upp, kanske som en association efter styckningen av da Costa, en information som jag har lagt på minnet. Eller på en kudde av pärlor. Det handlar om den engelska bödeln Albert Pierrepoint som sa så här när arbetsbördan tidvis blev för stor:
+
+*
+
+Texten:
+På tal om det har jag alltid varit förtjust i författaren Ernst J ü ngers lakoniska konstaterande:”Bödelns medlidande ligger i det säkra hugget.”
+
+Ersätt med:
+På tal om det har jag alltid varit förtjust i författaren Ernst Jüngers lakoniska konstaterande:”Bödelns medlidande ligger i det säkra hugget.”
+
+*
+
+Texten:
+Peter Dalle och jag börjar bolla idéer. Jag ringer en nära vän och filmproducent, Christer Abrahamsen på Cinema Art, en av fåraka och pålitliga personer på den här nivån, orädd och generös.
+
+Ersätt med:
+Peter Dalle och jag börjar bolla idéer. Jag ringer en nära vän och filmproducent, Christer Abrahamsen på Cinema Art, en av få raka och pålitliga personer på den här nivån, orädd och generös.
+
+*
+
+Texten:
+Dahlberg kommenterar aldrig tilltaget (hon hade, märkligt nog, ingenting att invända tidigare när delar av Lorrygänget satte upp en kabarésom dom kallade ”Lorry på Tyrol”).
+
+Ersätt med:
+Dahlberg kommenterar aldrig tilltaget (hon hade, märkligt nog, ingenting att invända tidigare när delar av Lorrygänget satte upp en kabaré som dom kallade ”Lorry på Tyrol”).
+
+*
+
+Texten:
+Dalle och jag börjar skriva manus, var och en på sitt håll. Vi är snabbt på det klara med att filmen ska bygga påenskilda tablåer. Kittet mellan dom blir småreklamsnuttar. Dalle skriver också en ”ram” som ska ge känslan av att det faktiskt är en historia från a till ösom ska berättas.
+
+Vilket det inteär.
+
+Ersätt med:
+Dalle och jag börjar skriva manus, var och en på sitt håll. Vi är snabbt på det klara med att filmen ska bygga på enskilda tablåer. Kittet mellan dom blir små reklamsnuttar. Dalle skriver också en ”ram” som ska ge känslan av att det faktiskt är en historia från a till ö som ska berättas.
+
+Vilket det inte är.
+
+*
+
+Sid 214:
+
+Felstavning.
+
+Texten:
+...med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originel livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska...
+
+Ersätt med:
+...med en funktionell verktygslåda. Nu vill han göra en film om sin pappa, en mycket originell livsälskare och charlatan. Jag förstår att det är en historia som har ruvat i Arehns hjärta länge. Han vill att den ska...
+
+*
+
+Texten:
+Två män träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånskäppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då.
+
+
+
+Ersätt med:
+Två män träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånsk äppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då.
+
+*
+
+Texten:
+Förövrigt är det en pladderpjäs där jag excellerar i nonsensdialog med underskruv, Lars Norén utan Lars Norén.
+
+Ersätt med:
+För övrigt är det en pladderpjäs där jag excellerar i nonsensdialog med underskruv, Lars Norén utan Lars Norén.
+
+*
+
+Sid 218:
+
+Särskrivning.
+
+Texten:
+...kom han inte ut på scenen. Teaterdirektören tillkallades. Ekman satt på golvet i sin loge med ett antal små miniatyrelefanter framför sig.
+
+– Titta så lessna elefanterna är, sa han. Så åålessna.
+
+Ersätt med:
+...kom han inte ut på scenen. Teaterdirektören tillkallades. Ekman satt på golvet i sin loge med ett antal små miniatyrelefanter framför sig.
+
+– Titta så lessna elefanterna är, sa han. Sååå lessna.
+
+*
+
+Sid 220:
+
+Särskrivning.
+
+Texten:
+Enögda Biertéhade två friska ögon och en blick som kunde paralysera en jaktfalk i flykten: hon såg mycket bra, speciellt i mörker. Sitt öknamn hade hon aldrig ifrågasatt. Ingen annan heller. Enögda Biertéifrågasatte man inte. På sin höjd bytte man rykten bakom hennes rygg, små rykten, ofarliga, som aldrig skulle våga sig in i Biertés tillvaro.
+
+Till Enögda Biertérasslade samtliga byns kvinnor den eftermiddagen.
+
+Ersätt med:
+Enögda Bierté hade två friska ögon och en blick som kunde paralysera en jaktfalk i flykten: hon såg mycket bra, speciellt i mörker. Sitt öknamn hade hon aldrig ifrågasatt. Ingen annan heller. Enögda Bierté ifrågasatte man inte. På sin höjd bytte man rykten bakom hennes rygg, små rykten, ofarliga, som aldrig skulle våga sig in i Biertés tillvaro.
+
+Till Enögda Bierté rasslade samtliga byns kvinnor den eftermiddagen.
+
+*
+
+Texten:
+Enögda Biertéstod i dörröppningen till sitt dova stenhus, hennes röst nådde ut över hela svärmen.
+
+Ersätt med:
+Enögda Bierté stod i dörröppningen till sitt dova stenhus, hennes röst nådde ut över hela svärmen.
+
+*
+
+Sid 221:
+
+Särskrivning.
+
+Texten:
+Enögda Biertévisste. Naturligtvis. Ingen hade väntat sig annat. Hennes makt byggde på det. Hon hade redan...
+
+Ersätt med:
+Enögda Bierté visste. Naturligtvis. Ingen hade väntat sig annat. Hennes makt byggde på det. Hon hade redan...
+
+*
+
+Texten:
+Så lyfte Biertéförsiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.
+
+Ersätt med:
+Så lyfte Bierté försiktigt det första sköra arket upp i läshöjd, blåste bort ett moln av partiklar och fokuserade sin gulgrå blick.
+
+*
+
+
+
+
+Sid 222:
+
+Särskrivning.
+
+Texten:
+Enögda Biertésänkte pappret en aning, hon visste redan vad som skulle komma.
+
+Ersätt med:
+Enögda Bierté sänkte pappret en aning, hon visste redan vad som skulle komma.
+
+*
+
+Texten:
+Det var inte Vattenkvinnan som frågade. Det var en röst vilken som helst ur svärmen på golvet, och Biertédrog in luft. Hennes blick släppte pappret, för första gången, och hon...
+
+Ersätt med:
+Det var inte Vattenkvinnan som frågade. Det var en röst vilken som helst ur svärmen på golvet, och Bierté drog in luft. Hennes blick släppte pappret, för första gången, och hon...
+
+*
+
+Texten:
+...hade en helt ny klang i rösten var det nog bara Enögda Biertésom uppfattade.
+
+Ersätt med:
+...hade en helt ny klang i rösten var det nog bara Enögda Bierté som uppfattade.
+
+*
+
+Texten:
+Det var Kvinnan utan sorg som frågade och i hennes inandning slog ekot av det första skottet in i rummet. Enögda Bierténästan viskade sitt svar till kvinnan.
+
+Ersätt med:
+Det var Kvinnan utan sorg som frågade och i hennes inandning slog ekot av det första skottet in i rummet. Enögda Bierté nästan viskade sitt svar till kvinnan.
+
+*
+
+
+
+
+
+
+
+Sid 220:
+
+Särskrivning.
+
+Texten:
+Kommen så långt känner jag att jag villåt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
+
+Ersätt med:
+Kommen så långt känner jag att jag vill åt en annan ingång, mer analog med ursprungsberättelsen, med det jag själv gillar. Så jag börjar om:
+
+*
+
+Sid 222:
+
+Särskrivning.
+
+Texten:
+...på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och ska åter förenas med sin älskade Brynhilde.
+
+Ersätt med:
+...på sin döda släkt. Efter fullgjort uppdrag blir han kallad Sigurd Fafnesbane och ska återförenas med sin älskade Brynhilde.
+
+*
+
+Sid 226:
+
+Särskrivning.
+
+Texten:
+Till slut går det så långt att tidskriften Cafébasunerar ut: ”Vi måste organisera oss i kampen för ett stänkarfritt Sverige!”
+
+Ersätt med:
+Till slut går det så långt att tidskriften Café basunerar ut: ”Vi måste organisera oss i kampen för ett stänkarfritt Sverige!”
+
+*
+
+
+
+
+
+
+Sid 227:
+
+Särskrivning.
+
+Texten:
+1996 är ett märkligt tomtår, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
+
+Ersätt med:
+1996 är ett märkligt tomt år, förutom det glädjande i att bli farfar. Det är Joakim och hans fru Pia som får Ludvig, mitt första barnbarn (han ska många år senare ansvara för byggandet av den här hemsidan).
+
+*
+
+Sid 229:
+
+Stavfel.
+
+Texten:
+”Han kom från ett annat håll, en främling som bara dök upp i konstlivet - helt fri från omgivningens   jargong. Det var på sextitalet, och även om hans målningar var ”samhällskritiska” liknade de inga andras; de var desperat kvicka, djupt ytliga -
+
+Ersätts med:
+”Han kom från ett annat håll, en främling som bara dök upp i konstlivet - helt fri från omgivningens   jargong. Det var på sextiotalet, och även om hans målningar var ”samhällskritiska” liknade de inga andras; de var desperat kvicka, djupt ytliga -
+
+*
+
+Sid 230:
+
+Särskrivning.
+
+Texten: ...tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som till ät hans blick att betrakta tillvaron med skoningslös...
+
+Ersätt med:
+...tydliga och komplexa. Han skapade ett universum av enkla symboler, en uppsättning bländande nycklar, som tillät hans blick att betrakta tillvaron med skoningslös...
+
+*
+
+
+Sid 231:
+
+Videon inte tillgänglig.
+
+*
+
+Stavfel.
+
+Texten:
+...fortsätter att involvera mig nästan lika mycket som inspelning, över långt tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
+
+Ersätt med:
+...fortsätter att involvera mig nästan lika mycket som inspelning, över lång tid. Till slut får Cilla nog, sätter ner foten och vi har vår första och enda kris i förhållandet.
+
+*
+
+Sid 235:
+
+Särskrivning.
+
+Texten:
+Den första tablån är en teatersalong full med publik. En skådespelerska (Lena Endre) kommer in, hissar upp en dvärg (en kortvuxen, allts å) i benen och ställer en stor gnistrande dolk under...
+
+Ersätt med:
+Den första tablån är en teatersalong full med publik. En skådespelerska (Lena Endre) kommer in, hissar upp en dvärg (en kortvuxen, alltså) i benen och ställer en stor gnistrande dolk under...
+
+*
+
+Sid 236:
+
+Särskrivning.
+
+Texten:
+...siffran. Under en filmfestival i Cannes promenerar jag ut till Casino Barri è re, satsar på min fyrkant, vinner 12.000 och promenerar tillbaka. Samma sak på ett nordiskt förbundsmöte i Tammerfors,
+
+Ersätt med:
+...siffran. Under en filmfestival i Cannes promenerar jag ut till Casino Barrière, satsar på min fyrkant, vinner 12.000 och promenerar tillbaka. Samma sak på ett nordiskt förbundsmöte i Tammerfors,
+
+*
+
+Sid 238:
+
+Tillägg.
+
+Kanske lockar vi ut honom igen och skriver om manuset till en roman, i sinom.
+
+Tillägg: 2021 gör vi faktiskt det, skriver en roman med titeln "Georg von Ingenting". Den kommer ut på Norstedts 2022. Återbruk igen.
+
+*
+
+Sid 241:
+
+Särskrivning.
+
+Texten:
+...närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev då sig ro. Han tyckte om när det var över.
+
+Ersätt med:
+...närrelaterade människor, i en varm förströdd gemenskap, när det utanför blev utanför och det innanför blev dåsig ro. Han tyckte om när det var över.
+
+*
+
+Sid 242:
+
+Ord strykas.
+
+Texten:
+...bland annat författaren Peter Curman, jag själv och Cilla. På plats tillsluter sig en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
+
+Ersätt med:
+...bland annat författaren Peter Curman, jag själv och Cilla. På plats tillsluter sig en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
+
+*
+
+
+
+
+Ändrat ord.
+
+Texten:
+Vi förväntas ha med oss utbytesgåvor, det är protokoll A i umgänget med kineser. Lätt panik. Ambassadören kommer på att det...
+
+Ersätt med:
+Vi förväntas ha med oss utbytesgåvor, det är formulär A i umgänget med kineser. Lätt panik. Ambassadören kommer på att det...
+
+*
+
+Sid 244:
+
+Särskrivning.
+
+Texten:
+Det finns en uppsjölitteratur om Fersen, bättre eller sämre. Det finns också ett stort antal av hans dagböcker bevarade (dock inte dom...
+
+Ersätt med:
+Det finns en uppsjö litteratur om Fersen, bättre eller sämre. Det finns också ett stort antal av hans dagböcker bevarade (dock inte dom...
+
+*
+
+Sid 246:
+
+Särskrivning.
+
+Texten:
+Massajen har hört den.
+
+Efter safarin tar vi ett inrikesflyg till den lillaön Lamu utanför Kenya.
+
+Ersätt med:
+Massajen har hört den.
+
+Efter safarin tar vi ett inrikesflyg till den lilla ön Lamu utanför Kenya.
+
+*
+
+Ändra ord.
+
+Texten:
+...hundratals människor. Närmare epicentrum dör drygt en kvarts miljard.
+
+Ersätt med:
+...hundratals människor. Närmare epicentrum dör drygt en kvarts miljon.
+
+*
+
+Sid 251:
+
+Särskrivning.
+
+Texten:
+Om du minns
+
+Tommy gör en gripande tolkning påskivan ”Sjung tills du stupar”.
+
+Ersätt med:
+Om du minns
+
+Tommy gör en gripande tolkning på skivan ”Sjung tills du stupar”.
+
+*
+
+Sid 258:
+
+Särskrivning.
+
+Texten:
+Efteråt går jag ut för att få luft, svalka ner blodet. Och tänker: musik är förödande ... förödande över lägset alla andra emotionella instrument. Det går inte att värja sig. Jag borde ha vetat det, efter att...
+
+Ersätt med:
+Efteråt går jag ut för att få luft, svalka ner blodet. Och tänker: musik är förödande ... förödande överlägset alla andra emotionella instrument. Det går inte att värja sig. Jag borde ha vetat det, efter att...
+
+*
+
+Sid 263:
+
+Särskrivning.
+
+
+
+
+
+
+
+Texten:
+...en kreativ förlossning. Du vill inte att det ska sluta i ett missfall. Har det gjort det för många gånger såkänner du att det är vettigare att befrukta andra sammanhang. Där du bestämmer att barnet ska födas och se exakt ut såsom du har beskrivit det. Som i en bok.
+
+Missfall tär pålusten.
+
+Ersätt med:
+...en kreativ förlossning. Du vill inte att det ska sluta i ett missfall. Har det gjort det för många gånger så känner du att det är vettigare att befrukta andra sammanhang. Där du bestämmer att barnet ska födas och se exakt ut så som du har beskrivit det. Som i en bok.
+
+Missfall tär på lusten.
+
+*
+
+Sid 264:
+
+Särskrivning.
+
+Texten:
+...kluvna ligger i att Blomgren vill att vi själva skriver manuset till serien.
+
+– Varför gåöverån efter vatten?
+
+Ersätt med:
+...kluvna ligger i att Blomgren vill att vi själva skriver manuset till serien.
+
+– Varför gå över ån efter vatten?
+
+*
+
+Texten:
+...avslutas och alla försvinner ut. I dörren drar Stormare mig i armen och viskar:
+
+– Smutsigaögon, din och Sauks pjäs, otroligt bra, jag vill sätta upp den i LA.
+
+Jag nickar och anar, merän jag vet (jag är ingen kiromantiker): det här med Stormare kommer nog inte att fungera.
+
+
+
+
+
+
+Ersätt med:
+...avslutas och alla försvinner ut. I dörren drar Stormare mig i armen och viskar:
+
+– Smutsiga ögon, din och Sauks pjäs, otroligt bra, jag vill sätta upp den i LA.
+
+Jag nickar och anar, mer än jag vet (jag är ingen kiromantiker): det här med Stormare kommer nog inte att fungera.
+
+*
+
+Texten:
+Vi har tidigt i processen föreslagit Kjelle, han är en fenomenal skådis, emot honom har talat hansålder i förhållande till Tom Stilton.
+
+Ersätt med:
+Vi har tidigt i processen föreslagit Kjelle, han är en fenomenal skådis, emot honom har talat hans ålder i förhållande till Tom Stilton.
+
+*
+
+Texten:
+Såmed en kall, god terminalöl i handen ringer jag Kjelle, frågar om han är intresserad av att göra Tom Stilton och han svarar omedelbart ja.
+
+Bakgrund: Kjelle, som jag känner väl sen länge (ända sen vår kabarépå Dramaten 1978), har flera gånger berättat om hur förtjust han är i våra böcker och hur Tom Stilton vore en kanonroll.
+
+Ersätt med:
+Så med en kall, god terminalöl i handen ringer jag Kjelle, frågar om han är intresserad av att göra Tom Stilton och han svarar omedelbart ja.
+
+Bakgrund: Kjelle, som jag känner väl sen länge (ända sen vår kabaré på Dramaten 1978), har flera gånger berättat om hur förtjust han är i våra böcker och hur Tom Stilton vore en kanonroll.
+
+*
+
+Sid 265:
+
+Särskrivning.
+
+Texten:
+Novellen publiceras senareäven i den svenska antologin ”Svart Lucia” och ges ocksåut i bokform av Bokfabriken i Malmö.
+
+
+Ersätt med:
+Novellen publiceras senare även i den svenska antologin ”Svart Lucia” och ges också ut i bokform av Bokfabriken i Malmö.
+
+*
+
+Texten:
+...huvudrollen (förmodligen mest känd som Albus Dumbledore i Harry Potter-serien). Denär skriven av tv-geniet Dennis Potter och handlar om författaren Philip Marlowe, specialist pånoir-deckare. Marlow ligger på sjukhus och behandlas för svår psoriasis, i sina yrselanfall ser han sig själv i en fantasivärld där han agerar som deckar författaren Raymond Chandlers huvudperson Philip Marlowe. Ofta brister han ut i sång i sin yrsel.
+
+Ersätt med:
+...huvudrollen (förmodligen mest känd som Albus Dumbledore i Harry Potter-serien). Den är skriven av tv-geniet Dennis Potter och handlar om författaren Philip Marlowe, specialist på noir-deckare. Marlow ligger på sjukhus och behandlas för svår psoriasis, i sina yrselanfall ser han sig själv i en fantasivärld där han agerar som deckarförfattaren Raymond Chandlers huvudperson Philip Marlowe. Ofta brister han ut i sång i sin yrsel.
+
+*
+
+Sid 266:
+
+Särskrivning.
+
+Texten:
+En man som snabbt kommer att demontera all värdig kommunikation på alla plan. Dom närmasteåren kommer han att göra världen till en långt farligare platsän innan, enbart genom sin privata stupiditet.
+
+Ersätt med:
+En man som snabbt kommer att demontera all värdig kommunikation på alla plan. Dom närmaste åren kommer han att göra världen till en långt farligare plats än innan, enbart genom sin privata stupiditet.
+
+*
+
+Texten:
+Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, klyvas i tvåo för sonliga hatblock, påeldat av den man som ska utgöra symbolen för ”världens mäktigaste land”.
+
+Ersätt med:
+Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, klyvas i två 
+oförsonliga hatblock, påeldat av den man som ska utgöra symbolen för ”världens mäktigaste land”.
+
+*
+
+Texten:
+Jimmie Åkesson? Eller Putin? Eller Bolsonaro? Eller den gula löken i Peking, Xi Jinping? Eller Viktor Orb á n i Ungern? Lukatjenka? Eller...
+
+Ersätt med:
+Jimmie Åkesson? Eller Putin? Eller Bolsonaro? Eller den gula löken i Peking, Xi Jinping? Eller Viktor Orbán i Ungern? Lukatjenka? Eller...
+
+*
+
+Texten:
+Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Ståinte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
+
+Ersätt med:
+Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Stå inte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
+
+*
+
+Texten:
+Och framför allt: odla konsten att orkaälska, när ingenting att älska finns kvar. Odla hoppet om en värdig tillvaro, även när skuggorna ryter i natten.
+
+Ersätt med:
+Och framför allt: odla konsten att orka älska, när ingenting att älska finns kvar. Odla hoppet om en värdig tillvaro, även när skuggorna ryter i natten.
+
+*
+
+Sid 267:
+
+Särskrivning.
+
+Texten:
+Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidigt höst. Påbetongpuckeln nedanför Bellmansgatan har någon sprejat: ”Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.”. Det är 39 år sen jag skrev det i ”Persona Non Grata”. Hur har det hamnat som graffitti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
+
+
+Ersätt med:
+Out of the blue, privat feedback 2: Jag går på Hornsgatan i riktning mot Mariatorget, tidig höst. På betongpuckeln nedanför Bellmansgatan har någon sprejat: ”Det är inte dom utslagna som ska in i samhället, det är dom inslagna som ska ut.”. Det är 39 år sen jag skrev det i ”Persona Non Grata”. Hur har det hamnat som graffiti 2017? När jag passerar samma ställe en vecka senare är det bortsanerat.
+
+*
+
+Texten:
+– Nästan varje morgon värmer jag mjölk till kaffet, jag använder en liten elvisp för att fåupp skum och nästan varje gång tänker jag på Gösta, på Mallorca, han ville alltid ha varm skummad mjölk till kaffet och använde en gaffel för att fåupp skummet, det tog sin tid, jag satt vid det vackra köksbordet och iakttog hur han frenetiskt vispade och vispade med sin gaffel, för mig var inte skum såviktigt, men tydligen för honom ... det var bara det, men det har fastnat.
+
+Ersätt med:
+– Nästan varje morgon värmer jag mjölk till kaffet, jag använder en liten elvisp för att få upp skum och nästan varje gång tänker jag på Gösta, på Mallorca, han ville alltid ha varm skummad mjölk till kaffet och använde en gaffel för att få upp skummet, det tog sin tid, jag satt vid det vackra köksbordet och iakttog hur han frenetiskt vispade och vispade med sin gaffel, för mig var inte skum så viktigt, men tydligen för honom ... det var bara det, men det har fastnat.
+
+*
+
+Texten:
+Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par småkoltrastar på fönsterblecket, ocksåi brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog småkoltrastar på fönsterblecket.
+
+Såkan ocksåkärlek uttryckas.
+
+Ersätt med:
+Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par små koltrastar på fönsterblecket, också i brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog små koltrastar på fönsterblecket.
+
+Så kan också kärlek uttryckas.
+
+*
+
+Sid 268:
+
+Särskrivning.
+
+Texten:
+Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest påhänderna. Du ritade med händerna, småskisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var...
+
+Ersätt med:
+Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest på händerna. Du ritade med händerna, små skisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var...
+
+*
+
+Texten:
+...tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var över ens. Det var vi...
+ 
+Ersätt med:
+...tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var överens. Det var vi...
+
+*
+
+Texten:
+...sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom däråren? Jag kom från en spårvagns för are i Malmömed ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, tvåinledningsfraser och sålossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. Påtå, det var sådu förhöjde mig. Kanske inte alltid såkomfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka pådina händer, tvåkrabbor av mjuk längtan, det fanns nåt i dina händer som var såsökande. Som var du.
+
+
+
+
+
+
+
+
+
+Ersätt med:
+...sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom där åren? Jag kom från en spårvagnsförare i Malmö med ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, två inledningsfraser och så lossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. På tå, det var så du förhöjde mig. Kanske inte alltid så komfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka på dina händer, två krabbor av mjuk längtan, det fanns nåt i dina händer som var så sökande. Som var du.
+
+*
+
+Texten:
+En vecka efter Göstas död dundrar en lastbil ner längs Drottninggatan i Stockholm och dödar ett antal människor. En lågpannad man från Uzbekistan anser att han agerar påuppdrag av terrororganorganisationens IS.
+
+Ersätt med:
+En vecka efter Göstas död dundrar en lastbil ner längs Drottninggatan i Stockholm och dödar ett antal människor. En lågpannad man från Uzbekistan anser att han agerar på uppdrag av terrororganorganisationens IS.
+
+*
+
+Texten:
+Han är bara ytterligare ett exempel påindivider som är uppskruvade i huvudet av en ideologi som rättfärdigar dom att begåvåldshandlingar (typ Lasermannen och nynazisterna som mördade John Hron).
+
+Men då det framkallar en ”nationella uppslutning”. Plötsligt...
+
+Ersätt med:
+Han är bara ytterligare ett exempel på individer som är uppskruvade i huvudet av en ideologi som rättfärdigar dom att begå våldshandlingar (typ Lasermannen och nynazisterna som mördade John Hron).
+
+Men då det framkallar en ”nationella uppslutning”. Plötsligt...
+
+*
+
+Sid 270:
+
+Felstavning.
+
+Texten:
+Jag letar fram min gamla dikt om Sverige från 1977, en par av stroferna lyder:
+
+Ersätt med:
+Jag letar fram min gamla dikt om Sverige från 1977, ett par av stroferna lyder:
+
+*
+
+Särskrivning.
+
+Texten:
+...samer inte är svenskar och vill stå på Öresundsbron och skjuta ankommande flyktingar och skrika ” segra eller d ö”!
+
+Ersätt med:
+...samer inte är svenskar och vill stå på Öresundsbron och skjuta ankommande flyktingar och skrika ” segra eller dö”!
+
+*
+
+Texten:
+Kort om stort: den här hösten sätter sig en ung tjej med en skylt i Slottsbacken och protester mot den klimat för störing som pågår. Det är en fredag och hon skolkar från skolan. Hon sitter där nästa fredag också, med samma skylt och samma budskap. Hon heter Greta Thunberg och kommer inom kort att bli världsberömd, fåsitt porträtt påframsidan av tidningen ”Life”, initiera en global proteströrelse under namnet ”Fridays for Future” och provocera puckot i Vita Huset.
+
+Ersätt med:
+Kort om stort: den här hösten sätter sig en ung tjej med en skylt i Slottsbacken och protester mot den klimatförstöring som pågår. Det är en fredag och hon skolkar från skolan. Hon sitter där nästa fredag också, med samma skylt och samma budskap. Hon heter Greta Thunberg och kommer inom kort att bli världsberömd, få sitt porträtt på framsidan av tidningen ”Life”, initiera en global proteströrelse under namnet ”Fridays for Future” och provocera puckot i Vita Huset.
+
+*
+
+Texten:
+Modet att ur en personlig vrede gåut på torget och visa vem man är och vad man tycker och ståför det.
+
+Ersätt med:
+Modet att ur en personlig vrede gå ut på torget och visa vem man är och vad man tycker och stå för det.
+
+*
+
+
+Texten:
+Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. Påutställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
+
+Ersätt med:
+Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. På utställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
+
+*
+
+Sid 271:
+
+Särskrivning.
+
+Texten:
+Att världen skulle gåatt förädla.
+
+Ersätt med:
+Att världen skulle gå att förädla.
+
+*
+
+Texten:
+– Viåt allt, på den tiden, och spydde ut det för att äta mer. Vi var konstant hungriga.
+
+Ersätt med:
+– Vi åt allt, på den tiden, och spydde ut det för att äta mer. Vi var konstant hungriga.
+
+*
+
+Sid 272:
+
+Särskrivning.
+
+Texten:
+Ibland, nakna gryningar när hjärnan är genomspolad av friskt syre, blir jag sugen påsatirformen igen. Den riktiga, råa, den som inte väjer. Den som nästan inte finns idag.
+
+Ersätt med:
+Ibland, nakna gryningar när hjärnan är genomspolad av friskt syre, blir jag sugen på satirformen igen. Den riktiga, råa, den som inte väjer. Den som nästan inte finns idag.
+
+*
+
+
+Texten:
+Kanske, dom försökeråtminstone lyfta en aning påtaket, begåvat och lätt anarkistiskt.
+
+Ersätt med:
+Kanske, dom försöker åtminstone lyfta en aning på taket, begåvat och lätt anarkistiskt.
+
+*
+
+Texten:
+Det finns ingenting som maktmänniskor hatar merän skrattet, förlöjligandet av deras egen uppblåsthet, det finns ingenting dom fruktar merän att förminskas, att bli ett avklätt beläte.
+
+Såhar det alltid varit.
+
+Och det kan satirenåstadkomma.
+
+Ersätt med:
+Det finns ingenting som maktmänniskor hatar mer än skrattet, förlöjligandet av deras egen uppblåsthet, det finns ingenting dom fruktar mer än att förminskas, att bli ett avklätt beläte.
+
+Så har det alltid varit.
+
+Och det kan satiren åstadkomma.
+
+*
+
+Texttillägg:
+Jag kanske skriver en liten fabel, helt enkelt: ”Hycklarnas Afton - sagan om hur Vindflöjeln och den lilla Hackspetten träffade herr Kackerlacka.”
+
+Den  kunde börja så här:
+
+Ersätt med:
+Jag kanske skriver en liten fabel, helt enkelt: ”Hycklarnas Afton - sagan om hur Vindflöjeln och den lilla Hackspetten träffade herr Kackerlacka.”
+
+En liten mjuksatir som kunde börja så här:
+
+*
+
+
+
+
+
+
+Sid 274:
+
+Särskrivning.
+
+Texten:
+2020 blir ett märkligtår.
+
+Coronan slår till och lamslår världen. Ordet ”karantän” får en global och fruktansvärd innebörd, det handlar inte om pudelfrakt längre. Hela tillvaron förändras.
+
+Ersätt med:
+2020 blir ett märkligt år.
+
+Coronan slår till och lamslår världen. Ordet ”karantän” får en global och fruktansvärd innebörd, det handlar inte om pudelfrakt längre. Hela tillvaron förändras.
+
+*
+
+Texten:
+Ett antal idioter runt om i världen ser till att konsekvenserna av coronan blir mycket värreän den behövde bli. Återigen slås man av den deprimerande stupiditeten hos män med makt. Alla dom som urholkar demokratin. Som urholkar idén om att dom mångas ansvar är att skydda dom få, inte utplåna dom. Att behandlingen av dom fåär dom mångas testamente. Att styrka mäts i omtanke, inte i förtryck.
+
+Ersätt med:
+Ett antal idioter runt om i världen ser till att konsekvenserna av coronan blir mycket värre än den behövde bli. Återigen slås man av den deprimerande stupiditeten hos män med makt. Alla dom som urholkar demokratin. Som urholkar idén om att dom mångas ansvar är att skydda dom få, inte utplåna dom. Att behandlingen av dom få är dom mångas testamente. Att styrka mäts i omtanke, inte i förtryck.
+
+*
+
+Sid 275:
+
+Särskrivning.
+
+Texten:
+Förmodligen handlar det om den utmätta tiden: ju mindre man har att se fram emot, desto mer ser man bakåt.
+
+Där har det juändåhänt en del.
+
+Ändåmessade jag till minäldste son nyss: Framtiden tillhör dom som erövrar den!
+
+
+Ersätt med:
+Förmodligen handlar det om den utmätta tiden: ju mindre man har att se fram emot, desto mer ser man bakåt.
+
+Där har det ju ändå hänt en del.
+
+Ändå messade jag till min äldste son nyss: Framtiden tillhör dom som erövrar den!
+
+*
+
+Texten:
+Inte mycket att göraåt nu.
+
+Ersätt med:
+Inte mycket att göra åt nu.
+
+*
+
+Sid 276:
+
+Nytt ord.
+
+Texten:
+Men en sak har jag lärt mig: det nådda är aska i en urna av tid, livet rör sig över gravarna, bort mot ljuset. Allt måste erövras igen.
+
+Ersätt med:
+Men en sak har jag lärt mig: det ernådda är aska i en urna av tid, livet rör sig över gravarna, bort mot ljuset. Allt måste erövras igen.
+
+*
+
+Texten:
+Fotnot: Så långt möjligt har tillstånd inhämtats för publicerat material i Självbiografin.
+
+Ersätt med:
+Fotnot: Så långt möjligt har tillstånd inhämtats för publicerat material i Biografin.
+
+*
+
