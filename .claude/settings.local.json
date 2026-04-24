@@ -6,7 +6,16 @@
       "mcp__plugin_playwright_playwright__browser_take_screenshot",
       "mcp__plugin_playwright_playwright__browser_evaluate",
       "mcp__plugin_playwright_playwright__browser_resize",
-      "mcp__plugin_playwright_playwright__browser_click"
+      "mcp__plugin_playwright_playwright__browser_click",
+      "Bash(python3 -c ':*)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(perl -pi -e 's/^\\\\*\\\\*\\\\s+/\\\\*\\\\*/' content/pages/biografi/chapters/chapter-05-lanthandeln-i-ekskogen.md)",
+      "Bash(grep:*)",
+      "Bash(perl -pi -e 's/^\\\\*\\\\*\\\\*\\\\s+/\\\\*\\\\*\\\\*/' content/pages/biografi/chapters/chapter-*.md)",
+      "Bash(npm run:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)"
     ]
   }
 }

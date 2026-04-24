@@ -509,7 +509,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("docs/**");
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("**/.trash_restructure/**");
-  eleventyConfig.ignores.add(".planning/**");
   eleventyConfig.ignores.add("content/pages/biografi/chapters/**");
   eleventyConfig.ignores.add("Last edits/**");
   eleventyConfig.ignores.add("biografi-textfel-14-apr.md");
