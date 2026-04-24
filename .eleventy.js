@@ -508,6 +508,7 @@ module.exports = function (eleventyConfig) {
   // Ignore non-site markdown
   eleventyConfig.ignores.add("docs/**");
   eleventyConfig.ignores.add("README.md");
+  eleventyConfig.ignores.add("CLAUDE.md");
   eleventyConfig.ignores.add("**/.trash_restructure/**");
   eleventyConfig.ignores.add("content/pages/biografi/chapters/**");
   eleventyConfig.ignores.add("Last edits/**");
