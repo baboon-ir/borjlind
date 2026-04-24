@@ -511,9 +511,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("**/.trash_restructure/**");
   eleventyConfig.ignores.add(".planning/**");
   eleventyConfig.ignores.add("content/pages/biografi/chapters/**");
-  eleventyConfig.ignores.add("gemini.md");
-  eleventyConfig.ignores.add("gemini-brief.md");
-  eleventyConfig.ignores.add("gemini-report.md");
+  eleventyConfig.ignores.add("Last edits/**");
+  eleventyConfig.ignores.add("biografi-textfel-14-apr.md");
 
   // Set custom markdown library with container support
   eleventyConfig.setLibrary("md", md);
