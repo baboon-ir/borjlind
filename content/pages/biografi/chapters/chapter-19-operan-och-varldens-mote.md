@@ -966,7 +966,7 @@ Speciellt roulette.
 :::
 
 ::: indent
-Jag sätter alltid på samma nummer, 26, plus fyrkanten runt siffran. Under en filmfestival i Cannes promenerar jag ut till Casino Barrière, re, satsar på min fyrkant, vinner 12.000 och promenerar tillbaka. Samma sak på ett nordiskt förbundsmöte i Tammerfors, casino på hotellet, fyrkanten, nästa dag köper jag en exklusiv läderjacka.
+Jag sätter alltid på samma nummer, 26, plus fyrkanten runt siffran. Under en filmfestival i Cannes promenerar jag ut till Casino Barrière, satsar på min fyrkant, vinner 12.000 och promenerar tillbaka. Samma sak på ett nordiskt förbundsmöte i Tammerfors, casino på hotellet, fyrkanten, nästa dag köper jag en exklusiv läderjacka.
 :::
 
 ::: indent
@@ -1354,7 +1354,7 @@ Men året inleds med ett förord till en samlingsutgåva av Bruno K. Öijer i Li
 ::: part
 :::
 
-Kulturmingel på hög nivå: Föreningen KLYS (Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd) får en inbjudan till Kina för att ”främja kulturutbytet”. Vi är en relativt stor delegation som åker, bland annat författaren Peter Curman, jag själv och Cilla. På plats tillsluter sig en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
+Kulturmingel på hög nivå: Föreningen KLYS (Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd) får en inbjudan till Kina för att ”främja kulturutbytet”. Vi är en relativt stor delegation som åker, bland annat författaren Peter Curman, jag själv och Cilla. På plats tillsluter en polsk före detta kulturminister, en mexikansk filmare och några andra kulturarbetare från olika delar av världen.
 ::: indent
 När vi besöker svenska ambassaden i Peking första kvällen frågar ambassadören vilka gåvor vi har med oss.
 :::
@@ -1364,7 +1364,7 @@ När vi besöker svenska ambassaden i Peking första kvällen frågar ambassadö
 :::
 
 ::: indent
-Vi förväntas ha med oss utbytesgåvor, det är protokoll A i umgänget med kineser. Lätt panik. Ambassadören kommer på att det finns en kartong med Astrid Lindgren-böcker i en garderob. På svenska. Böckerna plockas fram.
+Vi förväntas ha med oss utbytesgåvor, det är formulär A i umgänget med kineser. Lätt panik. Ambassadören kommer på att det finns en kartong med Astrid Lindgren-böcker i en garderob. På svenska. Böckerna plockas fram.
 :::
 
 ::: indent
@@ -1666,7 +1666,7 @@ Det börjar med att fiskarna nere i hamnen reagerar, vattennivån är märkligt 
 :::
 
 ::: indent
-En jordbävning har ägt rum i Indiska Oceanen, väster om ön Sumatra i Indonesien, den mäter 9,3 på Richterskalan. Än har den inte nått den afrikanska östkusten, när den gör det omkommer hundratals människor. Närmare epicentrum dör drygt en kvarts miljard.
+En jordbävning har ägt rum i Indiska Oceanen, väster om ön Sumatra i Indonesien, den mäter 9,3 på Richterskalan. Än har den inte nått den afrikanska östkusten, när den gör det omkommer hundratals människor. Närmare epicentrum dör drygt en kvarts miljon.
 :::
 
 ::: indent

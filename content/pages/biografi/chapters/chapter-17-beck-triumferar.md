@@ -109,11 +109,9 @@ Den mest intressanta texten är *”Där dom blinda barnen bor”*.
 **Till en gång som går till gud**
 **Och till luckan finns en nyckel**
 **Som är gjord av människohud**
-:::
 <!-- PAGE 196 END -->
 
 <!-- PAGE 197 START -->
-::: poem
 **Jag kom dit en natt i höstas**
 **För att leta efter ljus**
 **Mina tankar var till salu**
@@ -469,7 +467,7 @@ Multimediabegreppet faller ur tiden, alla rättar in sig i leden igen.
 Ny tid nalkas.
 :::
 
-Funderingar runt Happy Cousins: Vad var det som brann mellan oss? Kusiner, förvisso, men det är ingen förklaring. Vi var väldigt olika som personer. Carsten var stram, avskalad, med en förfinad smak, alltid ytterst välklädd, med en märkbar distans till sin omgivning. Jag var turbulent, på alla plan. Ändåtriggade vi varandra, från olika håll. I botten låg naturligtvis det som är grunden i alla fungerande relationer: respekt. Jag för hans måleri, han för mitt skrivande.
+Funderingar runt Happy Cousins: Vad var det som brann mellan oss? Kusiner, förvisso, men det är ingen förklaring. Vi var väldigt olika som personer. Carsten var stram, avskalad, med en förfinad smak, alltid ytterst välklädd, med en märkbar distans till sin omgivning. Jag var turbulent, på alla plan. Ändå triggade vi varandra, från olika håll. I botten låg naturligtvis det som är grunden i alla fungerande relationer: respekt. Jag för hans måleri, han för mitt skrivande.
 ::: indent
 Men ändå?
 :::
@@ -550,7 +548,7 @@ Det blir en egendomlig liten serie.
 :::
 
 ::: indent
-Stefan och jag går också vidare från ”*Tillfällgt Avbrot* t” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han bemöter det mesta i tillvaron med sitt specialuttryck ”*Aaahhh ... jag är skeptisk!*” Även det ett uttryck som fäster långt utanför tv-rutan.
+Stefan och jag går också vidare från ”*Tillfällgt Avbrott*” och släpper lös ett antal mer eller mindre skruvade karaktärer mitt i programmen, däribland Doktor Dengroth, överläkare på Danderyds Sjukhus. Han bemöter det mesta i tillvaron med sitt specialuttryck ”*Aaahhh ... jag är skeptisk!*” Även det ett uttryck som fäster långt utanför tv-rutan.
 :::
 
 ::: part
@@ -572,7 +570,7 @@ Spinoff: Regissören Mikael Håfström gör en tv-film av pjäsen för SVT, med 
 Pjäsen sätts också upp på Boulevardteatern våren 2011 och hösten 2020 spelas den på Teater Vestvolden i Köpenhamn. Där heter den *”Käre Far - ett sidste farvel”*.
 :::
 
-Äntligen är jag framme vid en av mina kommandeälsklingsflykter: flugfiske. Cilla har flugfiskat i många år, jag har nöjt mig med spinnfiske. När hon tar med mig upp i fjällen, högt ovanför Arjeplog, till en liten fiskecamp vid Piteälvens upprinnelse blir jag helt såld.
+Äntligen är jag framme vid en av mina kommande älsklingsflykter: flugfiske. Cilla har flugfiskat i många år, jag har nöjt mig med spinnfiske. När hon tar med mig upp i fjällen, högt ovanför Arjeplog, till en liten fiskecamp vid Piteälvens upprinnelse blir jag helt såld.
 ::: indent
 Av många orsaker.
 :::
@@ -585,7 +583,7 @@ Mobilen använder du som kamera och ficklampa så länge batteriet räcker, trö
 :::
 
 ::: indent
-Orsak 2 är naturen: Du befinner dig i ett av Europas sista vildmarksområden, Sverige när det är som vackrast och mest bortglömt. Allt har vidunderliga proportioner. Dom majestätiska bergen, med sina fickor fulla av gnistrande snö. Kalfjällen, med hjortron och renar och skygga ripor. Det klara, iskalla blåvattnet som strömmar från alla håll och kanter och smakar bättreän det dyraste importvattnet på Operakällaren.
+Orsak 2 är naturen: Du befinner dig i ett av Europas sista vildmarksområden, Sverige när det är som vackrast och mest bortglömt. Allt har vidunderliga proportioner. Dom majestätiska bergen, med sina fickor fulla av gnistrande snö. Kalfjällen, med hjortron och renar och skygga ripor. Det klara, iskalla blå vattnet som strömmar från alla håll och kanter och smakar bättre än det dyraste importvattnet på Operakällaren.
 :::
 
 ::: indent
@@ -606,18 +604,18 @@ Det är magiskt.
 
 [yt-video][https://www.youtube.com/watch?v=lNLWyhbUI5Q]
 
-Till flugfisket och Miekakåtervänder jag så ofta jag kan. Det, och svampplockning, är lungorna i mitt liv (nuförtiden).
+Till flugfisket och Miekak återvänder jag så ofta jag kan. Det, och svampplockning, är lungorna i mitt liv (nuförtiden).
 
 ::: part
 :::
 
 Roligt fiskeminne av ett helt annat slag: Jag, min son Nick och hans kusin Gabriel är på Azorerna. Gabriel är en otvungen person, talar flytande spanska och lär snabbt känna en restaurangägare nere i hamnen i Ponta Delgada. En man som har basat över restaurangkedjor lite runt om i världen. En kväll berättar vi för honom att vi ska ut på lite havsfiske nästa dag.
 ::: indent
-– Får ni nån fisk såta med den hit så ska jag laga till den, säger han.
+– Får ni nån fisk så ta med den hit så ska jag laga till den, säger han.
 :::
 
 ::: indent
-Nästa morgonåker vi ut i en hyrd båt, *”Rabao”*, med tre mans besättning. Efter en timme hugger det till i ett av spöna, linan forsar ut. Jag spänns fast i stolen akter över och börjar veva in, släpper efter, vevar in. Efter en kvart är armarna totalt slut. Nick taröver. Han orkar betydligt längre, men ger upp till slut. Gabriel tar vid, en vältränad ung man. I drygt en timme arbetar vi tillsammans för att fåin fisken till båten. När den närmar sig märker vi hur besättningskillarna blir mer och mer upphetsade. Fortfarande har vi inte sett vad det är vi har påkroken, men vi fattar att det inte är en sardin. Till slut får vi in bytet nära båten och ser vad det är - en enorm tonfisk. Alla fem hjälpsåt med händer och olika redskap för att fåombord bjässen.
+Nästa morgon åker vi ut i en hyrd båt, *”Rabao”*, med tre mans besättning. Efter en timme hugger det till i ett av spöna, linan forsar ut. Jag spänns fast i stolen akter över och börjar veva in, släpper efter, vevar in. Efter en kvart är armarna totalt slut. Nick tar över. Han orkar betydligt längre, men ger upp till slut. Gabriel tar vid, en vältränad ung man. I drygt en timme arbetar vi tillsammans för att få in fisken till båten. När den närmar sig märker vi hur besättningskillarna blir mer och mer upphetsade. Fortfarande har vi inte sett vad det är vi har på kroken, men vi fattar att det inte är en sardin. Till slut får vi in bytet nära båten och ser vad det är - en enorm tonfisk. Alla fem hjälps åt med händer och olika redskap för att få ombord bjässen.
 :::
 
 ::: indent
@@ -642,7 +640,7 @@ Restaurangägaren är där på fem minuter, med en skåpbil. Han ser fisken, gap
 :::
 
 ::: indent
-Konklusion: Tvåkvällar i rad bjuds vi påtonfisk anrättad på alla upptänkliga gourmetvis nere i hamnen. Med utsökt vitt vin till. Åtskilliga gäster förbryllas av dom tre utlänningarna som behandlas som rockstjärnor av personalen. Efteråt har vi förstått vilken guldgruva restaurangägaren komöver, han hade fått färskt tonfiskkött för åtskilliga veckor framöver.
+Konklusion: Två kvällar i rad bjuds vi på tonfisk anrättad på alla upptänkliga gourmetvis nere i hamnen. Med utsökt vitt vin till. Åtskilliga gäster förbryllas av dom tre utlänningarna som behandlas som rockstjärnor av personalen. Efteråt har vi förstått vilken guldgruva restaurangägaren kom över, han hade fått färskt tonfiskkött för åtskilliga veckor framöver.
 :::
 
 ::: indent
@@ -653,13 +651,13 @@ Minst.
 Själv tänker jag på Hemingway och ”*Den gamle och havet*”. Vår fångst känns som en liten hämnd för ”spiken” i Havanna.
 :::
 
-Mindre roligt fiskeminne: Jag, Nick och Gabriel är ute på en fisketur utanför Sardinien. Jag får upp en mindre, okänd fisk, lossar den från kroken och känner ett kort stick. Strax efter får jag svårt att andas och sjunker ner mot relingen, tröjan blir blöt av svett. Nick ropar påmannen som kör båten. Han kommer ut, ser fisken pådäcket och blir påtagligt skärrad. Viskande förklarar han för Nick att det är en Tracina, den har en giftig tagg på ryggen, giftet är väldigt starkt och kan orsaka hjärtstopp. Nick tittar på mig och jag ser hur orolig han ser ut.”Ska farsan döhär? Mitt ute påhavet i en fiskebåt?”
+Mindre roligt fiskeminne: Jag, Nick och Gabriel är ute på en fisketur utanför Sardinien. Jag får upp en mindre, okänd fisk, lossar den från kroken och känner ett kort stick. Strax efter får jag svårt att andas och sjunker ner mot relingen, tröjan blir blöt av svett. Nick ropar på mannen som kör båten. Han kommer ut, ser fisken på däcket och blir påtagligt skärrad. Viskande förklarar han för Nick att det är en Tracina, den har en giftig tagg på ryggen, giftet är väldigt starkt och kan orsaka hjärtstopp. Nick tittar på mig och jag ser hur orolig han ser ut.”Ska farsan dö här? Mitt ute på havet i en fiskebåt?”
 ::: indent
 Typ.
 :::
 
 ::: indent
-Samtidigt sätter mannen full fart in mot hamnen i La Maddalena. Jag sitter stilla pådäck, efter en halvtimme avtar trycket i bröstet, andningen går lättare, svettningarna lägger sig. Väl inne i hamnen har jag nästan inga känningar kvar och kan gåiland för egen maskin. Förmodligen fick jag ett mycket ytligt stick. Mannen med båten är lättad, av flera skäl, antagligen.
+Samtidigt sätter mannen full fart in mot hamnen i La Maddalena. Jag sitter stilla på däck, efter en halvtimme avtar trycket i bröstet, andningen går lättare, svettningarna lägger sig. Väl inne i hamnen har jag nästan inga känningar kvar och kan gå iland för egen maskin. Förmodligen fick jag ett mycket ytligt stick. Mannen med båten är lättad, av flera skäl, antagligen.
 :::
 
 ::: indent
@@ -719,13 +717,13 @@ Jag träffar Slas ett par gånger ihop med Gösta, men får aldrig tillfälle at
 :::
 
 ::: indent
-Elleråtminstone förlängde det.
+Eller åtminstone förlängde det.
 :::
 
 ::: part
 :::
 
-Det här året får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill att ha med mig, för första gången. Det får dom. Så här lyder texten om mig i boken:
+Det här året får jag ett brev från redaktionen för Bra Böckers stora författarlexikon. Dom vill ha med mig, för första gången. Det får dom. Så här lyder texten om mig i boken:
 
 **”Att i lexikal form behöva nedteckna en informationstext om Rolf Börjlinds författarskap är en mycket motbjudande uppgift.**
 
@@ -754,9 +752,9 @@ Jag fyller 50. Det är som att fylla 49 fast ett år senare och lite mer fest oc
 
 ![Döden i lusthuset.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/238.jpg)
 
-Nederdelen av ett kranium inneslutet i ett öppet trävisir. Påefterfesten i vår lägenhet orsakar skulpturen våldsamma diskussioner. Det handlar om skändandet av döda. En av gästerna vill kasta ut föremålet genom fönstret. Jag förstår inte riktigt upprördheten.
+Nederdelen av ett kranium inneslutet i ett öppet trävisir. På efterfesten i vår lägenhet orsakar skulpturen våldsamma diskussioner. Det handlar om skändandet av döda. En av gästerna vill kasta ut föremålet genom fönstret. Jag förstår inte riktigt upprördheten.
 ::: indent
-Många år senare besöker jag och tvåav mina barn, Joakim och Sari, den märkliga skelettkyrkan i Kutna Hora utanför Prag. Ossariet nere i källaren är konstfullt utsmyckat med ben från cirka 40.000 människor, bland annat hänger en stor sexarmad ljuskrona i taket, helt gjord av skelettdelar och kranium.
+Många år senare besöker jag och två av mina barn, Joakim och Sari, den märkliga skelettkyrkan i Kutna Hora utanför Prag. Ossariet nere i källaren är konstfullt utsmyckat med ben från cirka 40.000 människor, bland annat hänger en stor sexarmad ljuskrona i taket, helt gjord av skelettdelar och kranium.
 :::
 
 ![Dödskapellet i Kutna Hora.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/292.png)
@@ -783,11 +781,11 @@ Det blir ett egendomligt möte.
 :::
 
 ::: indent
-När vi kliver in i hennes lägenhet har hon tänt stearinljus och smådoftljus över allt, det råder en nästan sakral stämning i rummet. Jag blir obehaglig till mods. Obehaget minskar inte när Olsson vänder sig mot mig direkt efter vi har hälsat och säger:
+När vi kliver in i hennes lägenhet har hon tänt stearinljus och små doftljus över allt, det råder en nästan sakral stämning i rummet. Jag blir obehaglig till mods. Obehaget minskar inte när Olsson vänder sig mot mig direkt efter vi har hälsat och säger:
 :::
 
 ::: indent
-– Varför var du såvidrig mot Kerstin Thorvall i den där satiren, kan du förklara det?
+– Varför var du så vidrig mot Kerstin Thorvall i den där satiren, kan du förklara det?
 :::
 
 ::: indent
@@ -807,7 +805,7 @@ Men.
 :::
 
 ::: indent
-Olsson kontaktar oss. Hon har bestämt sig. Hon vill inte att vi gör tv-serien. Hon vill inte att vi använder hennes bok som underlag. Hennes skäl är flera, men viktigast är omtanken om da Costas mamma och syster. Dom lever redan med outhärdliga sår efter tragedin, en medial exponering i tv-form skulle inte underlätta deras liv. Hur vällovligt syftetänär.
+Olsson kontaktar oss. Hon har bestämt sig. Hon vill inte att vi gör tv-serien. Hon vill inte att vi använder hennes bok som underlag. Hennes skäl är flera, men viktigast är omtanken om da Costas mamma och syster. Dom lever redan med outhärdliga sår efter tragedin, en medial exponering i tv-form skulle inte underlätta deras liv. Hur vällovligt syftet än är.
 :::
 
 ::: indent
@@ -815,7 +813,7 @@ Inte så svårt att förstå.
 :::
 
 ::: indent
-Så, manuset läggs påis ... och där ligger det än idag (även om isen har smält).
+Så, manuset läggs på is ... och där ligger det än idag (även om isen har smält).
 :::
 
 Minne från arbetet: åklagaren Anders Helins ”bevingade” omdöme om ett par av da Costas arbetskamrater, prostituerade, som kunde ha talat till hennes fördel:
@@ -842,7 +840,7 @@ Alla har olika referensramar.
 :::
 
 ::: indent
-På tal om det har jag alltid varit förtjust i författaren Ernst J ü ngers lakoniska konstaterande:”*Bödelns medlidande ligger i det säkra hugget*.”
+På tal om det har jag alltid varit förtjust i författaren Ernst Jüngers lakoniska konstaterande:”*Bödelns medlidande ligger i det säkra hugget*.”
 :::
 
 ::: indent
@@ -873,16 +871,16 @@ Han tänder på idén. Vi frågar runt och alla inblandade verkar sugna på att 
 :::
 
 ::: indent
-Dahlberg kommenterar aldrig tilltaget (hon hade, märkligt nog, ingenting att invända tidigare när delar av Lorrygänget satte upp en kabarésom dom kallade ”*Lorry på Tyrol*”).
+Dahlberg kommenterar aldrig tilltaget (hon hade, märkligt nog, ingenting att invända tidigare när delar av Lorrygänget satte upp en kabaré som dom kallade ”*Lorry på Tyrol*”).
 :::
 
  Hur som helst.
 ::: indent
-Dalle och jag börjar skriva manus, var och en på sitt håll. Vi är snabbt på det klara med att filmen ska bygga på enskilda tablåer. Kittet mellan dom blir småreklamsnuttar. Dalle skriver också en ”ram” som ska ge känslan av att det faktiskt är en historia från a till ö som ska berättas.
+Dalle och jag börjar skriva manus, var och en på sitt håll. Vi är snabbt på det klara med att filmen ska bygga på enskilda tablåer. Kittet mellan dom blir små reklamsnuttar. Dalle skriver också en ”ram” som ska ge känslan av att det faktiskt är en historia från a till ö som ska berättas.
 :::
 
 ::: indent
-Vilket det inteär.
+Vilket det inte är.
 :::
 
 ::: indent

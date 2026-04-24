@@ -473,7 +473,7 @@ Men nu är han mördad.
 Det är svårt att ta in.
 :::
 
-Fackeltåget på Sergels Torg hjälper till att härbärgera det som hänt, emotionellt. När jag läser min dikt i mörkret, ser utöver alla eldarna, upplever den totala tystnaden, den sorgens kollektiva tystnad som bara ett trauma på den här nivån kan åstadkomma, blir jag en del av nåt större. Jag har aldrig riktigt upplevt det tidigare.
+Fackeltåget på Sergels Torg hjälper till att härbärgera det som hänt, emotionellt. När jag läser min dikt i mörkret, ser ut över alla eldarna, upplever den totala tystnaden, den sorgens kollektiva tystnad som bara ett trauma på den här nivån kan åstadkomma, blir jag en del av nåt större. Jag har aldrig riktigt upplevt det tidigare.
 ::: indent
 Samma sak när Fryshuset ordnar en minneskonsert för Olof Palme. Janne Schaffer, J-son Lind, Wiehe, Afzelius. Jag framför ”*Nyttiga Idioter*” igen. Stark och stämningsfull konsert.
 :::
@@ -628,11 +628,11 @@ Jag är lite ute och cyklar.
 :::
 
 ::: indent
-Isoleringen i skärgården, mediaskuggan, tystnaden, har fått mig att tappa kontakten med en del av mig själv. Kanske en nödvändig ansamling inför dom kommandeåren, men jag är inte helt bekväm med att trampa för mycket vatten, mitt kreativa ego börjar surna till.
+Isoleringen i skärgården, mediaskuggan, tystnaden, har fått mig att tappa kontakten med en del av mig själv. Kanske en nödvändig ansamling inför dom kommande åren, men jag är inte helt bekväm med att trampa för mycket vatten, mitt kreativa ego börjar surna till.
 :::
 
 ::: indent
-Det blir inte påbättre humör av att skriva ”*Jönssonligan på Mallorca*”, den fjärde filmen i serien. Roligt bitvis, men trots allt pårutinens brant.
+Det blir inte på bättre humör av att skriva ”*Jönssonligan på Mallorca*”, den fjärde filmen i serien. Roligt bitvis, men trots allt på rutinens brant.
 :::
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/256.png)
@@ -677,9 +677,7 @@ Konserten blir av, kyrkan är smockfull och skolan får ett ekonomiskt bidrag p�
 
 **detta är en natt för hundar, och för regn**
 **detta är en natt för hundar, och för regn**
-:::
 
-::: poem
 **och i underjorden silar pundaren**
 **en extrasläng ur sin kopp**
 **och singlar in en ljudlös vintergata**

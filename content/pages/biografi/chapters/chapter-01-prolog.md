@@ -25,7 +25,7 @@
 juni 2020
 :::
 
-Jag sitter i mitt arbetshus i skärgården och tittar utöver en liten insjö. Längre ut, i den stora världen, sveper ett virus över jorden. Härinne är det dags att städa.
+Jag sitter i mitt arbetshus i skärgården och tittar ut över en liten insjö. Längre ut, i den stora världen, sveper ett virus över jorden. Härinne är det dags att städa.
 ::: indent
 Döstäda.
 :::

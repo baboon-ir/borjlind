@@ -1062,11 +1062,11 @@ Jag har aldrig träffat Stormare, han är för mig en rätt stereotyp skådespel
 :::
 
 ::: indent
-– Smutsigaögon, din och Sauks pjäs, otroligt bra, jag vill sätta upp den i LA.
+– Smutsiga ögon, din och Sauks pjäs, otroligt bra, jag vill sätta upp den i LA.
 :::
 
 ::: indent
-Jag nickar och anar, merän jag vet (jag är ingen kiromantiker): det här med Stormare kommer nog inte att fungera.
+Jag nickar och anar, mer än jag vet (jag är ingen kiromantiker): det här med Stormare kommer nog inte att fungera.
 :::
 
 ::: indent
@@ -1082,7 +1082,7 @@ Resultat: Cilla och jag får ett samtal på Arlanda Express.
 :::
 
 ::: indent
-Vi har tidigt i processen föreslagit Kjelle, han är en fenomenal skådis, emot honom har talat hansålder i förhållande till Tom Stilton.
+Vi har tidigt i processen föreslagit Kjelle, han är en fenomenal skådis, emot honom har talat hans ålder i förhållande till Tom Stilton.
 :::
 
 ::: indent
@@ -1094,11 +1094,11 @@ Men visst.
 :::
 
 ::: indent
-Såmed en kall, god terminalöl i handen ringer jag Kjelle, frågar om han är intresserad av att göra Tom Stilton och han svarar omedelbart ja.
+Så med en kall, god terminalöl i handen ringer jag Kjelle, frågar om han är intresserad av att göra Tom Stilton och han svarar omedelbart ja.
 :::
 
 ::: indent
-Bakgrund: Kjelle, som jag känner väl sen länge (ända sen vår kabarépå Dramaten 1978), har flera gånger berättat om hur förtjust han är i våra böcker och hur Tom Stilton vore en kanonroll.
+Bakgrund: Kjelle, som jag känner väl sen länge (ända sen vår kabaré på Dramaten 1978), har flera gånger berättat om hur förtjust han är i våra böcker och hur Tom Stilton vore en kanonroll.
 :::
 
 ::: indent
@@ -1177,7 +1177,7 @@ Det är sorgen i att kunna tänka.
 :::
 
 ::: indent
-Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, klyvas i tvåo för sonliga hatblock, påeldat av den man som ska utgöra symbolen för ”världens mäktigaste land”.
+Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, klyvas i två oförsonliga hatblock, påeldat av den man som ska utgöra symbolen för ”världens mäktigaste land”.
 :::
 
 ::: indent
@@ -1192,7 +1192,7 @@ Men så är demokratins spelregler, säger en del. Eller som Carsten sa på 70-t
 :::
 
 ::: indent
-Men är det verkligen så? Vem har förtjänat Donald Trump? Eller Jimmie Åkesson? Eller Putin? Eller Bolsonaro? Eller den gula löken i Peking, Xi Jinping? Eller Viktor Orb á n i Ungern? Lukatjenka? Eller alla andra exempel på män som har privat makt som mål och mening? Varför skulle vi ha förtjänat dessa politiska missfoster? Har vi oss själva att skylla?
+Men är det verkligen så? Vem har förtjänat Donald Trump? Eller Jimmie Åkesson? Eller Putin? Eller Bolsonaro? Eller den gula löken i Peking, Xi Jinping? Eller Viktor Orbán i Ungern? Lukatjenka? Eller alla andra exempel på män som har privat makt som mål och mening? Varför skulle vi ha förtjänat dessa politiska missfoster? Har vi oss själva att skylla?
 :::
 
 ::: indent
@@ -1224,9 +1224,9 @@ Men skrämmande är det, i all sin blinda och förödande framfart.
 ::: part
 :::
 
-Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Ståinte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
+Till mina barn och barnbarn: Gör det lilla ni kan, tänk rätt och högt. Böj er inte för mörkret, skapa det ljus ni kan, oavsett hur långt det når. Stå inte still, rör er mot det möjliga. Och kom ihåg: gräset är alltid brunare på andra sidan.
 ::: indent
-Och framför allt: odla konsten att orkaälska, när ingenting att älska finns kvar. Odla hoppet om en värdig tillvaro, även när skuggorna ryter i natten.
+Och framför allt: odla konsten att orka älska, när ingenting att älska finns kvar. Odla hoppet om en värdig tillvaro, även när skuggorna ryter i natten.
 :::
 
 ::: indent
@@ -1287,20 +1287,20 @@ Så jag förklarade:
 :::
 
 ::: indent
-– Nästan varje morgon värmer jag mjölk till kaffet, jag använder en liten elvisp för att fåupp skum och nästan varje gång tänker jag på Gösta, på Mallorca, han ville alltid ha varm skummad mjölk till kaffet och använde en gaffel för att fåupp skummet, det tog sin tid, jag satt vid det vackra köksbordet och iakttog hur han frenetiskt vispade och vispade med sin gaffel, för mig var inte skum såviktigt, men tydligen för honom ... det var bara det, men det har fastnat.
+– Nästan varje morgon värmer jag mjölk till kaffet, jag använder en liten elvisp för att få upp skum och nästan varje gång tänker jag på Gösta, på Mallorca, han ville alltid ha varm skummad mjölk till kaffet och använde en gaffel för att få upp skummet, det tog sin tid, jag satt vid det vackra köksbordet och iakttog hur han frenetiskt vispade och vispade med sin gaffel, för mig var inte skum så viktigt, men tydligen för honom ... det var bara det, men det har fastnat.
 :::
 <!-- PAGE 267 END -->
 
 <!-- PAGE 268 START -->
 ::: indent
-Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par småkoltrastar på fönsterblecket, ocksåi brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog småkoltrastar på fönsterblecket.
+Marie-Louise gör sen en av dom vackraste gravstenar jag känner till. En stor fönsterram i brons som reser sig över Göstas grav på Katarina kyrkogård, längst ner i ramen sitter ett par små koltrastar på fönsterblecket, också i brons. Upprinnelsen är ett fönster i hennes och Göstas bostad, han satt ofta i en stol och tittade ut genom ett fönster och iakttog små koltrastar på fönsterblecket.
 :::
 
 ::: indent
-Såkan ocksåkärlek uttryckas.
+Så kan också kärlek uttryckas.
 :::
 
-Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest på händerna. Du ritade med händerna, små skisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var varma, dom gånger du la högerhanden ovan på min vänsterhand och tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var över ens. Det var vi nog, oftast. Dina händer sträckte sig ibland mot böcker, bokryggar, titlar från världens alla hörn och jag fick en bok i knät. Behåll den. Du hade nästan alltid tvåexemplar av alla böcker du gillade. Ett för dina egna marginalanteckningar, ett för mindre vetgiriga vänner. Som jag, som sällan läste. Vi pratade inte så ofta om kvinnor. Eller gjorde vi det? Jo, det gjorde vi nog, kvinnor ur det förflutna och kvinnor som hade förflyttat oss. Närmast varandra kom vi när vi skrattade, när vi sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom däråren? Jag kom från en spårvagns för are i Malmömed ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, tvåinledningsfraser och sålossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. Påtå, det var sådu förhöjde mig. Kanske inte alltid såkomfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka pådina händer, tvåkrabbor av mjuk längtan, det fanns nåt i dina händer som var såsökande. Som var du.
+Minnesord till Gösta: Du hade vackra, kraftiga händer, mina är mer spensliga, dina la jag märke till tidigt. Jag tänkte att kvinnor tycker om såna händer. När du spelade piano tittade jag mest på händerna. Du ritade med händerna, små skisser till en vägghylla i Fornalutx, ett tegeltak, ett snabbt streck av en profil, lite som Slas. Dina händer var varma, dom gånger du la högerhanden ovan på min vänsterhand och tyckte att vi kanske skulle tänka över det en gång till. Du tänkte. Du sådde. Jag skördade och båda log. Som om vi var överens. Det var vi nog, oftast. Dina händer sträckte sig ibland mot böcker, bokryggar, titlar från världens alla hörn och jag fick en bok i knät. Behåll den. Du hade nästan alltid två exemplar av alla böcker du gillade. Ett för dina egna marginalanteckningar, ett för mindre vetgiriga vänner. Som jag, som sällan läste. Vi pratade inte så ofta om kvinnor. Eller gjorde vi det? Jo, det gjorde vi nog, kvinnor ur det förflutna och kvinnor som hade förflyttat oss. Närmast varandra kom vi när vi skrattade, när vi sögs in i ett skratt och blev en. För din del ett skrockande, för mig ofta ett asgarv. Och bortom det? Vad pågick mellan oss, dom där åren? Jag kom från en spårvagnsförare i Malmö med ett förflutet i en sillfabrik, du kom från en Wrangel och en Ekman. Många i din omgivning tyckte att jag var vulgär. Det tyckte inte du. Våra telefonsamtal, två inledningsfraser och så lossnade tillvaron. Högt och lågt. Snabba snitt genom samtiden. Du tvingade mig ut på isen, alltid. På tå, det var så du förhöjde mig. Kanske inte alltid så komfortabelt, du sög energi. Men dina händer, jag kunde alltid falla tillbaka på dina händer, två krabbor av mjuk längtan, det fanns nåt i dina händer som var så sökande. Som var du.
 ::: indent
 Mjukt ljus över  en vän.
 :::
@@ -1308,17 +1308,17 @@ Mjukt ljus över  en vän.
 ::: part
 :::
 
-En vecka efter Göstas död dundrar en lastbil ner längs Drottninggatan i Stockholm och dödar ett antal människor. En lågpannad man från Uzbekistan anser att han agerar påuppdrag av terrororganorganisationens IS.
+En vecka efter Göstas död dundrar en lastbil ner längs Drottninggatan i Stockholm och dödar ett antal människor. En lågpannad man från Uzbekistan anser att han agerar på uppdrag av terrororganorganisationens IS.
 ::: indent
 Vilket han inte alls gör.
 :::
 
 ::: indent
-Han är bara ytterligare ett exempel påindivider som är uppskruvade i huvudet av en ideologi som rättfärdigar dom att begåvåldshandlingar (typ Lasermannen och nynazisterna som mördade John Hron).
+Han är bara ytterligare ett exempel på individer som är uppskruvade i huvudet av en ideologi som rättfärdigar dom att begå våldshandlingar (typ Lasermannen och nynazisterna som mördade John Hron).
 :::
 
 ::: indent
-Men då det framkallar en ”nationella uppslutning”. Plötsligt samverkar myndigheter på alla plan. En massiv medial exponering tröstar oss. Får oss att lita på våra myndigheters handlingskraft. Får oss att känna oss delaktiga i en kollektiv tragedi.
+Men det framkallar en ”nationella uppslutning”. Plötsligt samverkar myndigheter på alla plan. En massiv medial exponering tröstar oss. Får oss att lita på våra myndigheters handlingskraft. Får oss att känna oss delaktiga i en kollektiv tragedi.
 :::
 
 ::: indent
@@ -1388,7 +1388,7 @@ Skrämmande.
 **...**
 :::
 
-Då en obehaglig föraning, 41 år senare en brutal verklighet. Som väldigt få bjuder motstånd. Jag kan sakna Olof Palme i det här läget. Hans blixtrande intellekt, hans hetta och skoningslösa retorik hade gjort kebab av Jimmie Åkesson. Istället bjuds den skånske kameleonten på lunch och smicker i högeranfrätta finrum medan hans bulvaner går runt och misshandlar folk med järnrör och påstår att samer inte är svenskar och vill stå på Öresundsbron och skjuta ankommande flyktingar och skrika ” segra eller d ö”!
+Då en obehaglig föraning, 41 år senare en brutal verklighet. Som väldigt få bjuder motstånd. Jag kan sakna Olof Palme i det här läget. Hans blixtrande intellekt, hans hetta och skoningslösa retorik hade gjort kebab av Jimmie Åkesson. Istället bjuds den skånske kameleonten på lunch och smicker i högeranfrätta finrum medan hans bulvaner går runt och misshandlar folk med järnrör och påstår att samer inte är svenskar och vill stå på Öresundsbron och skjuta ankommande flyktingar och skrika ” segra eller dö”!
 
 ::: poem
 **dolt**
@@ -1398,13 +1398,13 @@ Då en obehaglig föraning, 41 år senare en brutal verklighet. Som väldigt få
 ***Bruno K Öijer***
 :::
 
-Kort om stort: den här hösten sätter sig en ung tjej med en skylt i Slottsbacken och protester mot den klimat för störing som pågår. Det är en fredag och hon skolkar från skolan. Hon sitter där nästa fredag också, med samma skylt och samma budskap. Hon heter Greta Thunberg och kommer inom kort att bli världsberömd, fåsitt porträtt påframsidan av tidningen *”Life”*, initiera en global proteströrelse under namnet *”Fridays for Future”* och provocera puckot i Vita Huset.
+Kort om stort: den här hösten sätter sig en ung tjej med en skylt i Slottsbacken och protester mot den klimatförstöring som pågår. Det är en fredag och hon skolkar från skolan. Hon sitter där nästa fredag också, med samma skylt och samma budskap. Hon heter Greta Thunberg och kommer inom kort att bli världsberömd, få sitt porträtt på framsidan av tidningen *”Life”*, initiera en global proteströrelse under namnet *”Fridays for Future”* och provocera puckot i Vita Huset.
 ::: indent
 För mig representerar hon det jag saknar mest idag: civilkurage.
 :::
 
 ::: indent
-Modet att ur en personlig vrede gåut på torget och visa vem man är och vad man tycker och ståför det.
+Modet att ur en personlig vrede gå ut på torget och visa vem man är och vad man tycker och stå för det.
 :::
 
 ::: indent
@@ -1432,7 +1432,7 @@ Jag och Amis medverkar en kväll i en utfrågning om Vargen. Vi  berättar om ba
 :::
 
 ::: indent
-– Viåt allt, på den tiden, och spydde ut det för att äta mer. Vi var konstant hungriga.
+– Vi åt allt, på den tiden, och spydde ut det för att äta mer. Vi var konstant hungriga.
 :::
 
 ::: indent
@@ -1492,7 +1492,7 @@ Varför?
 :::
 
 ::: indent
-Det finns ju en uppsjöav personangrepp som ligger oskrivna, en skrämmande mängd perverterade företeelser, men ingen tar sig an dom? Det är som om tiden har sänkt en ängslig filt av konformitet över allt som produceras.
+Det finns ju en uppsjö av personangrepp som ligger oskrivna, en skrämmande mängd perverterade företeelser, men ingen tar sig an dom? Det är som om tiden har sänkt en ängslig filt av konformitet över allt som produceras.
 :::
 
 ::: indent
@@ -1500,7 +1500,7 @@ Grotesco?
 :::
 
 ::: indent
-Kanske, dom försökeråtminstone lyfta en aning påtaket, begåvat och lätt anarkistiskt.
+Kanske, dom försöker åtminstone lyfta en aning på taket, begåvat och lätt anarkistiskt.
 :::
 
 ::: indent
@@ -1539,15 +1539,15 @@ Men det finns ingen, eller nästan ingen, som använder sig av satiren som vapen
 :::
 
 ::: indent
-Det finns ingenting som maktmänniskor hatar merän skrattet, förlöjligandet av deras egen uppblåsthet, det finns ingenting dom fruktar merän att förminskas, att bli ett avklätt beläte.
+Det finns ingenting som maktmänniskor hatar mer än skrattet, förlöjligandet av deras egen uppblåsthet, det finns ingenting dom fruktar mer än att förminskas, att bli ett avklätt beläte.
 :::
 
 ::: indent
-Såhar det alltid varit.
+Så har det alltid varit.
 :::
 
 ::: indent
-Och det kan satirenåstadkomma.
+Och det kan satiren åstadkomma.
 :::
 
  Den riktiga satiren.
@@ -1567,7 +1567,7 @@ Vem vet.
 Jag kanske skriver en liten fabel, helt enkelt: *”Hycklarnas Afton - sagan om hur Vindflöjeln och den lilla Hackspetten träffade herr Kackerlacka.”*
 :::
 
-Den kunde börja så här:
+En liten mjuksatir som kunde börja så här:
 
 ***”Vindflöjeln och den lilla Hackspetten satt på taknocken och tittade ut över nejden. Det började skymma och båda var lite missnöjda.***
 
@@ -1699,7 +1699,7 @@ Magkänsla, bara.
 :::
 
 ::: indent
-Ett antal idioter runt om i världen ser till att konsekvenserna av coronan blir mycket värreän den behövde bli. Återigen slås man av den deprimerande stupiditeten hos män med makt. Alla dom som urholkar demokratin. Som urholkar idén om att dom mångas ansvar är att skydda dom få, inte utplåna dom. Att behandlingen av dom fåär dom mångas testamente. Att styrka mäts i omtanke, inte i förtryck.
+Ett antal idioter runt om i världen ser till att konsekvenserna av coronan blir mycket värre än den behövde bli. Återigen slås man av den deprimerande stupiditeten hos män med makt. Alla dom som urholkar demokratin. Som urholkar idén om att dom mångas ansvar är att skydda dom få, inte utplåna dom. Att behandlingen av dom få är dom mångas testamente. Att styrka mäts i omtanke, inte i förtryck.
 :::
 
 ::: indent
@@ -1780,7 +1780,7 @@ Funderar också på mitt eget splittrade skrivande. Jag har alltid beundrat kons
 :::
 
 ::: indent
-Inte mycket att göraåt nu.
+Inte mycket att göra åt nu.
 :::
 
 ::: indent

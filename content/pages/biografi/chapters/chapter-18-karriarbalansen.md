@@ -212,7 +212,7 @@ Själv går jag vidare och skriver en ny pjäs till Scen Offside. Den heter ”*
 
 ![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/515.png)
 
-Två män träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånskäppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
+Två män träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånsk äppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
 ::: indent
 Ett par gånger före premiären samlas vi hemma hos mig och Cilla för att provlaga hela menyn, stämma av tider och repliker för att få måltiden att ticka in rätt på scenen. En av replikerna minns jag:
 :::
@@ -222,7 +222,7 @@ Ett par gånger före premiären samlas vi hemma hos mig och Cilla för att prov
 :::
 
 ::: indent
-Förövrigt är det en pladderpjäs där jag excellerar i nonsensdialog med underskruv, Lars Norén utan Lars Norén.
+För övrigt är det en pladderpjäs där jag excellerar i nonsensdialog med underskruv, Lars Norén utan Lars Norén.
 :::
 
 ::: indent

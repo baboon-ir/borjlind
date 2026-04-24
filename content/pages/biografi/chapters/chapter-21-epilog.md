@@ -24,7 +24,7 @@ Snart börjar vi på vår sjunde deckare, “*Den barmhärtige Samariten*”.
 
 Slutord: Nåt jag ångrar så här långt? Inte mycket. Gjort är gjort, utifrån dom förutsättningar som rådde. Många val kunde ha gjorts annorlunda, gett enklare kärlek, mer insikt och bättre kulturellt utfall (med facit i hand är alla människor smartare än dom var). Men det är som det är. Eller som John Holm påpekade: Lagt kort ligger.
 ::: indent
-Men en sak har jag lärt mig: det erernådda är aska i en urna av tid, livet rör sig över gravarna, bort mot ljuset. Allt måste erövras igen.
+Men en sak har jag lärt mig: det ernådda är aska i en urna av tid, livet rör sig över gravarna, bort mot ljuset. Allt måste erövras igen.
 :::
 
 ::: indent
@@ -39,7 +39,7 @@ Hela tiden.
 
 ::: part
 
-*Fotnot: Så långt möjligt har tillstånd inhämtats för publicerat material i Självbiografin.*
+*Fotnot: Så långt möjligt har tillstånd inhämtats för publicerat material i Biografin.*
 
 *Slutligen: ett stort och varmt tack till Ludvig Börjlind, Håkan-Filip Swahn Suazo, Dennis Dufbäck och Sebastian Lindfors för bygget av den här hemsidan.*
 <!-- PAGE 276 END -->

@@ -737,7 +737,7 @@ Minne 3: Vi kommer till Irkutsk, vid Bajkalsjön. Tåget ska göra stopp ett ant
 :::
 
 ::: indent
-Den magnifika upplevelsen vid stranden till världens djupaste sjöförtas en aning av blodhundarnas närvaro i bakgrunden..
+Den magnifika upplevelsen vid stranden till världens djupaste sjö förtas en aning av blodhundarnas närvaro i bakgrunden..
 :::
 <!-- PAGE 149 END -->
 

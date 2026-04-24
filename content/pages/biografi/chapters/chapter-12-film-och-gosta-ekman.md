@@ -86,7 +86,7 @@ Det känns.
 Sista repliken vi hör när vi lämnar terminalen: ”There was only one killed.”
 :::
 
-Nebraska. Oerhört tråkigt landskap, oändligt och platt. Rullar genom förmiddagen, gråmolnfilter. Är människorna härute lyckliga? Delvis lyckliga? Lyckliga ibland? Saknar dom sina anhöriga? Gråter dom i vattnet när allting blir för vackert? Hur mår dom?
+Nebraska. Oerhört tråkigt landskap, oändligt och platt. Rullar genom förmiddagen, grå molnfilter. Är människorna härute lyckliga? Delvis lyckliga? Lyckliga ibland? Saknar dom sina anhöriga? Gråter dom i vattnet när allting blir för vackert? Hur mår dom?
 ::: indent
 Bruno sover en orolig, genomsvettig timme. Ser hälsosamt galen ut när han tvingas till medvetande av ”Street Legal” på kassetten. Jag tittar ut. Mobila hus. Ta ditt hem och åk. Överallt sveper dom förbi, hela tiden på väg. Vart? In i glömskan?
 :::
@@ -209,7 +209,7 @@ Vi är väldigt långt från den serena miljön vid Lost Lake i Black Ridge, fr�
 :::
 
 ::: indent
-Menändå.
+Men ändå.
 :::
 
 Äntligen ut ur Gråhunden för gott!
@@ -222,7 +222,7 @@ Jag går ut och ringer Robban Broberg. Inget svar. Bruno ringer Staffan Scheja. 
 :::
 
 ::: indent
-Ingen brådska, vi sitter i en fin, gammal inrökt bar, baseball på tv-n, servitrisen runt 60, stencool, med glimten iögat. Bruno spiller ut drinken, får en ny gratis. Det känns som äventyr i luften. Barradion smeker ut ”Plaisir dAmour”.
+Ingen brådska, vi sitter i en fin, gammal inrökt bar, baseball på tv-n, servitrisen runt 60, stencool, med glimten i ögat. Bruno spiller ut drinken, får en ny gratis. Det känns som äventyr i luften. Barradion smeker ut ”Plaisir dAmour”.
 :::
 
 ::: indent
@@ -548,7 +548,7 @@ Jag börjar i en annan ände.
 
 Minne från Grev Magnigatan: Tvärs över gården från mitt skrivrum bor en mycket märklig kvinna. Hon står ofta i sitt fönster i en tunn, rosa morgonrock. Hennes långa vita hår faller ner över axlarna. Då och då skrapar hon på fönsterblecket med naglarna och strax efter landar ett antal kråkor på blecket.
 ::: indent
-En dag går jag upp till henne och ringer på. Hon släpper in mig utan ett ord, som om hon väntade att jag skulle komma. Jag går efter henne in. Hela lägenheten är belamrad med tidningstravar, från väggarna i hallen och in i resten av rummen. I köket står ett stort antal småglasburkar uppställda på diskbänken. I varje burk har hon samlat olikfärgade snörstumpar. Hon tittar länge på mig när jag kommer in. Till slut säger hon:
+En dag går jag upp till henne och ringer på. Hon släpper in mig utan ett ord, som om hon väntade att jag skulle komma. Jag går efter henne in. Hela lägenheten är belamrad med tidningstravar, från väggarna i hallen och in i resten av rummen. I köket står ett stort antal små glasburkar uppställda på diskbänken. I varje burk har hon samlat olikfärgade snörstumpar. Hon tittar länge på mig när jag kommer in. Till slut säger hon:
 :::
 
 ::: indent
@@ -870,7 +870,7 @@ Många år senare skriver jag en text som Stefan Sauk framför i Lorry, i *”Ti
 
 [yt-video][https://www.youtube.com/watch?v=LG5jYI7piBc&t=1s]
 
-Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut småaskar vid golvlisterna med texten ”*Cockroach Motel*”.  Giftiga dödsfällor för kackerlackor. När jag vaknar är lägenheten tom. Min vana trogen kollar jag hennes bokhylla. Jag drar ut en tjock bok (jag tror det är ”*Brott och Straff*”) och fäller upp den. Inuti boken är alla sidorna utskurna i form av en liten pistol. Placerad där, med pärmarna igenslagna: det perfekta smuggelobjektet. Romanen som vapen, på riktigt.
+Minne från New York 1: Jag sover över på golvet hos en kvinna i Chinatown. Hon har placerat ut små askar vid golvlisterna med texten ”*Cockroach Motel*”.  Giftiga dödsfällor för kackerlackor. När jag vaknar är lägenheten tom. Min vana trogen kollar jag hennes bokhylla. Jag drar ut en tjock bok (jag tror det är ”*Brott och Straff*”) och fäller upp den. Inuti boken är alla sidorna utskurna i form av en liten pistol. Placerad där, med pärmarna igenslagna: det perfekta smuggelobjektet. Romanen som vapen, på riktigt.
 ::: indent
 Kvinnan hävdar senare att hon aldrig har smugglat nån pistol i boken.
 :::
