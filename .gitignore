@@ -3,4 +3,7 @@ _site
 .DS_Store
 .env
 *.mp4
-*.mp4
+
+# Apple Pages-master och RTF-export av biografin (stora binärer)
+*.pages
+*.rtf
