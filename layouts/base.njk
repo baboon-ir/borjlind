@@ -34,7 +34,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/fav.png" />
     <link rel="shortcut icon" href="/assets/images/fav.png" />
     <link rel="apple-touch-icon" href="/assets/images/fav.png" />
-    <link rel="stylesheet" href="/assets/css/main.css" />
+    <style>{{ inlineCss | safe }}</style>
   </head>
   <body class="rb-body {{ bodyClass }}">
     {% if not noHeader %}{% include "header.njk" %}{% endif %}

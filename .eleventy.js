@@ -309,6 +309,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "assets/js/nav.js": "assets/js/nav.js" });
   eleventyConfig.addPassthroughCopy({ "assets/js/section-reader.js": "assets/js/section-reader.js" });
 
+  // Inline main.css i <head> för att eliminera render-blocking
+  eleventyConfig.addWatchTarget("assets/css/main.css");
+  eleventyConfig.addGlobalData("inlineCss", () =>
+    fs.readFileSync(path.join(__dirname, "assets/css/main.css"), "utf8")
+  );
+
   // If you add images later, place them in assets/images/.
   eleventyConfig.addPassthroughCopy({ "assets/images": "assets/images" });
   // Favicon at root for browsers that look for /favicon.png
