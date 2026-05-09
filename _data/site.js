@@ -1,4 +1,4 @@
 module.exports = {
-  url: "https://borjlind.se",
+  url: "https://rolfborjlind.com",
   title: "Rolf Börjlind",
 };
