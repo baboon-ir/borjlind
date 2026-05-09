@@ -131,7 +131,7 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
 
-.h-full { height: calc(100svh - var(--header-h)); }
+.h-full { height: calc(100dvh - var(--header-h)); }
 
 /* ============================================================
    Section 4 — Hub background components
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   position: relative;
   background-color: var(--color-hub);
   overflow: hidden;
-  height: 100svh;
+  height: 100dvh;
 }
 
 .rb-hub-bg footer {
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   top: 0;
   left: 0;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   background-image: url('/assets/images/pattern.png');
   background-size: cover;
   background-position: center;
@@ -168,7 +168,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   top: 0;
   left: 0;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   object-fit: cover;
   z-index: 0;
 }
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 { line-height: 1.05; }
   top: 0;
   left: 0;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   background: rgba(0, 0, 0, 0.6);
   z-index: 1;
   pointer-events: none;
@@ -1836,6 +1836,12 @@ a.rb-skip-btn:hover {
 ===================================================== */
 
 /* ── Multi-level sidebar navigation ── */
+/* Lås bakgrundsscroll när drawer:n är öppen */
+html.rb-site-nav-open,
+html.rb-site-nav-open body {
+  overflow: hidden;
+}
+
 .rb-site-nav {
   position: fixed;
   inset: 0;
