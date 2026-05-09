@@ -506,13 +506,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("json", (val) => JSON.stringify(val));
 
   // Ignore non-site markdown
-  eleventyConfig.ignores.add("docs/**");
-  eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("CLAUDE.md");
-  eleventyConfig.ignores.add("**/.trash_restructure/**");
   eleventyConfig.ignores.add("content/pages/biografi/chapters/**");
   eleventyConfig.ignores.add("Last edits/**");
-  eleventyConfig.ignores.add("biografi-textfel-14-apr.md");
 
   // Set custom markdown library with container support
   eleventyConfig.setLibrary("md", md);
