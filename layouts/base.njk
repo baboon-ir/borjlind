@@ -12,6 +12,7 @@
     {% endif %}
     {% set pageDesc = description or teaser or "Rolf Sigvard Börjlind, född 7 oktober 1943 i Västra Skrävlinge församling i Malmö, är en svensk poet, skådespelare, regissör, romanförfattare och manusförfattare. Börjlind är mest känd för filmerna om Jönssonligan samt filmerna om Martin Beck som gjordes 1997–2007." %}
     {% set siteUrl = site.url or "https://borjlind.se" %}
+    {% set pageOgImage = ogImage or (siteUrl + "/assets/images/og-image-general.png") %}
     <title>{{ pageTitle }}</title>
     <meta name="description" content="{{ pageDesc }}" />
 
@@ -19,7 +20,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ pageTitle }}" />
     <meta property="og:description" content="{{ pageDesc }}" />
-    <meta property="og:image" content="https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/og-image.png" />
+    <meta property="og:image" content="{{ pageOgImage }}" />
     <meta property="og:url" content="{{ siteUrl }}{{ page.url }}" />
     <meta property="og:locale" content="sv_SE" />
     <meta property="og:site_name" content="Rolf Börjlind" />
@@ -28,7 +29,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ pageTitle }}" />
     <meta name="twitter:description" content="{{ pageDesc }}" />
-    <meta name="twitter:image" content="https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/og-image.png" />
+    <meta name="twitter:image" content="{{ pageOgImage }}" />
 
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/fav.png" />
     <link rel="shortcut icon" href="/assets/images/fav.png" />
