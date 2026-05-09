@@ -1468,7 +1468,7 @@ a.rb-skip-btn:hover {
   text-align: center;
   padding: 3rem 2rem;
   border: 0.5px solid var(--rb-border);
-  margin: 2rem auto;
+  margin: 0 auto 2rem;
   overflow: hidden;
   background:
     url('/assets/images/pattern.png') center / cover no-repeat;
