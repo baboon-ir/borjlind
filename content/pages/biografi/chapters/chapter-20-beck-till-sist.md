@@ -95,7 +95,7 @@ Jag har inte haft kontakt med honom på flera år, livet har styrt mig åt andra
 Men hans mjuka teckningar finns kvar.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/287.jpg)
+![](https://www.rolfborjlind.com/img/287.jpg)
 
 ::: part
 :::
@@ -387,11 +387,11 @@ Det förflutna är en båge av tid, pilen landar där du står.
 
 För mig blir utställningen en resa, på många plan. Dels i återskapandet av dom verk Carsten och jag gjorde 1966 (in i minsta vattenslang och genomskinliga slipsar),  dels i berättelsen om Happy Cousins. Jag bestämmer mig snabbt för att utforma utställningskatalogen som det sista numret av Vargen, nummer 9. Det som aldrig kom ut. Framsidan ser ut som alla tidigare Vargen, men mannen med hatten har slutna ögon.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/213.jpg)
+![](https://www.rolfborjlind.com/img/213.jpg)
 
 I numret/katalogen går jag igenom Carstens och min resa, utformat på det sätt vi skapade Vargen: fragmentariskt, illustrativt, lekfullt, provokativt.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/214.png)
+![](https://www.rolfborjlind.com/img/214.png)
 
 Jag försöker berätta på det sätt vi försökte berätta.
 ::: indent
@@ -400,7 +400,7 @@ Utställningen har vernissage hösten 2009.
 <!-- PAGE 253 END -->
 
 <!-- PAGE 254 START -->
-![Mr Ray Balon Sinclair på Dagens Nyheter.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/400.png)
+![Mr Ray Balon Sinclair på Dagens Nyheter.](https://www.rolfborjlind.com/img/400.png)
 
 ::: part
 :::
@@ -514,15 +514,15 @@ Men vi får slutföra vårt manusarbete under hyfsat lugna former.
 
 Enligt mig: Den bästa av dom fem filmer vi skriver är ”*Europa Blues*” och regisseras av två tämligen okända herrar, Niklas Ohlson och Mattias Ohlsson. Dom ska senare komma att regissera vår tv-serie ”*Springfloden*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/276.jpg)
+![](https://www.rolfborjlind.com/img/276.jpg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/277.jpeg)
+![](https://www.rolfborjlind.com/img/277.jpeg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/278.jpg)
+![](https://www.rolfborjlind.com/img/278.jpg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/279.jpeg)
+![](https://www.rolfborjlind.com/img/279.jpeg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/280.jpeg)
+![](https://www.rolfborjlind.com/img/280.jpeg)
 
 Reflektion: Strulet och svårigheterna med Dahl-projektet bidrar påtagligt till Cillas och mitt beslut att börja skriva egna böcker, vilket vi gör strax därefter.
 
@@ -553,7 +553,7 @@ Några frågor, en vargtimme när sömnen tuggar på lakanet och liemannen går 
 **Idag?**
 :::
 
-![Curre Hillfon.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/306.png)
+![Curre Hillfon.](https://www.rolfborjlind.com/img/306.png)
 
 ::: part
 :::
@@ -608,7 +608,7 @@ Jag blir tillfrågad om att skriva en text om satir till Teaterhögskolans samli
 Dagen efter dör han.
 :::
 
-![Ångbåt. Oljemålning. OE.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/224.png)
+![Ångbåt. Oljemålning. OE.](https://www.rolfborjlind.com/img/224.png)
 
 ::: part
 :::
@@ -737,19 +737,19 @@ Som jag nämnt tidigare är vår första titel på boken ”*Varför saknade ing
 
 Boken kommer ut 2011 och vår agent Lena Stjernström lyckas sälja den till 35 länder runt om i världen.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
+![](https://www.rolfborjlind.com/img/274.jpg)
 
 Roligaste utländska boken: Den kinesiska, där historien börjar på sista sidan och texten står rakt upp och ner i kryptiska kolumner.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/284.png)
+![](https://www.rolfborjlind.com/img/284.png)
 <!-- PAGE 259 END -->
 
 <!-- PAGE 260 START -->
 Näst roligast: De länder där dom har egna varianter på våra efternamn. Ibland heter vi ”Börlindovski”, ibland totalt otolkbara namn. ”Björling” känns helt ok i det perspektivet.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/701.jpeg)
+![](https://www.rolfborjlind.com/img/701.jpeg)
 
-![Min dotter Sari fyndar i Belgrad.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/702.png)
+![Min dotter Sari fyndar i Belgrad.](https://www.rolfborjlind.com/img/702.png)
 
 Att skriva och ge ut en bok, en deckare, får konsekvenser som vi inte är riktigt beredda på. Vi har legat i mediaskugga mycket länge, mycket medvetet, den biten av offentlighet är vi totalt ointresserade av. Nu tvingas vi ut i ljuset. Det handlar om marknadsföring. Det handlar om att åka runt på Bokens Dag och prata om vår bok, att uppträda i olika sammanhang med andra författare, att befinna sig på bibliotek med åtta välvilliga äldre damer, i teatersalonger med 400 personer och taskig medhörning och på krimfestivaler.
 ::: indent
@@ -835,7 +835,7 @@ Kanske hade han skrivkramp.
 
 Dom följande åren skriver vi ytterligare fem böcker.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/329.png)
+![](https://www.rolfborjlind.com/img/329.png)
 
 ::: part
 :::
@@ -867,7 +867,7 @@ Udda konstruktionsdetalj i ”*Sov du lilla videung*”: Vi låter boken inledas
 <!-- PAGE 261 END -->
 
 <!-- PAGE 262 START -->
-![Stadiet innan vi börjar skriva.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/518.png)
+![Stadiet innan vi börjar skriva.](https://www.rolfborjlind.com/img/518.png)
 
 Femte boken, ”*Kallbrand*”, skrivs i efterdyningarna av terrordådet på Drottninggatan. Det är en bok som fokuserar på hur långt en pedofil är beredd att gå för att rädda sitt eget skinn. Väldigt långt, visar det sig.
 ::: indent
@@ -946,7 +946,7 @@ Skriva på näsor är inte helt oangenämt.
 ::: part
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5225.jpg)
+![](https://www.rolfborjlind.com/img/5225.jpg)
 
 Det här året dör Lena Nyman, i februari, efter en längre tids sjukdom. Vi har inte haft nån närmare kontakt sen hennes medverkan i ”Sista Skriket”, men hennes bortgång skapar en bro till det förflutna. Till dygnen när vi satt på Mallorca och drack vin och pratade om ”Morrhår&Ärtor”. Hennes särpräglade gestaltningsförmåga i alla olika roller i ”Sista Skriket” sitter kvar. Hennes djupa inlevelse i den text jag skrev till henne, talet till en dotter som hon aldrig fick. Här framför hon den till en samuraj-akt av Stefan Sauk:
 
@@ -1046,7 +1046,7 @@ Det är Cilla som kommenterar. Varför ska andra manusförfattare skriva manus p
 Så jag backar in i manusfållan igen och skriver manuset till ”*Springfloden*” ihop med Cilla.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/274.jpg)
+![](https://www.rolfborjlind.com/img/274.jpg)
 
 Parentes om Minken: Han är ursprungligen tänkt som en form av side-kick, ungefär som Grannen i Beck, en gestalt som kommer in från fel håll. Det fungerar bra i den första boken, i den andra drar vi ner på honom. Vi tycker inte han fyller den funktion vi har tänkt. Så kommer tv-serien ”*Springfloden*”, där Minken gestaltas på ett fullständigt kongenialt sätt av skådespelaren Johan Widerberg. Och tränger ut ordentligt genom rutan.
 
@@ -1184,7 +1184,7 @@ Privat reflektion: Det är rätt plågsamt att se en nation rämna i realtid, kl
 En man som utarmar det han är satt att förvalta.
 :::
 
-![CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/330.jpg)
+![CR.](https://www.rolfborjlind.com/img/330.jpg)
 
 Det är många sätt obegripligt
 ::: indent
@@ -1219,7 +1219,7 @@ Men skrämmande är det, i all sin blinda och förödande framfart.
 **ny tid nalkas**
 :::
 
-![Åke Hodell: Norra begravningsplatsen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/305.png)
+![Åke Hodell: Norra begravningsplatsen.](https://www.rolfborjlind.com/img/305.png)
 
 ::: part
 :::
@@ -1233,7 +1233,7 @@ Och framför allt: odla konsten att orka älska, när ingenting att älska finns
 Dröm gärna, men se er för när ni går över gatan.
 :::
 
-![Den tredje familjen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/602.JPEG)
+![Den tredje familjen.](https://www.rolfborjlind.com/img/602.JPEG)
 <!-- PAGE 266 END -->
 
 <!-- PAGE 267 START -->
@@ -1372,7 +1372,7 @@ Metoo-reflektion i efterdyningarna: Hundratusentals kvinnor över hela världen 
 
 Så har vi riksdagsval i vårt land, en nationell begivenhet, inte minst i massmedia. Utfallet blir skrämmande. Sverigedemokraterna blir tredje största parti i Sverige. Det osannolika har passerat det sannolika och blivit ett faktum. Brunskjortorna har färgats blå och rasismen har ändrat förtecken. Nu kallas den ”migrationsproblematik” och dominerar debatten.
 
-![Skånska Lasses kommentar om rasism.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/252.png)
+![Skånska Lasses kommentar om rasism.](https://www.rolfborjlind.com/img/252.png)
 
 Skrämmande.
 
@@ -1416,9 +1416,9 @@ Civilt motstånd, när det är som bäst.
 
 Kulturtidskriften OEI gör en utställning på Moderna Museet, med  inspiration från Vargens utställning 1975. På utställningen exponeras ett stort urval dokument runt bland annat Vargen, arbetet med den, tankarna runt den.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331.jpeg)
+![](https://www.rolfborjlind.com/img/331.jpeg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/331A.jpeg)
+![](https://www.rolfborjlind.com/img/331A.jpeg)
 
 Jag besöker utställningen. Det är lite märkligt att se Carstens och mitt projekt redovisat i den här miljön, 43 år senare. Det väcker en del känslor. Saknad efter kusinen, efter den vulkaniska optimism vi hade, hur vi trodde att allt var möjligt.
 ::: indent
@@ -1446,7 +1446,7 @@ Och mitt i allt detta kommer mitt femte barnbarn. Det är yngste sonen Nick och 
 
 Cillas och min dotter Molly bor i Köpenhamn och är 24 år. Hon har avslutat filmskolan i Stockholm och arbetar på en servering. Jag vet att hon skriver bra, jag har läst mycket av henne genom åren. Nu föreslår jag att vi ska skriva en bok ihop. En ljudbok, direkt för den marknaden. Det är nytt för mig och definitivt för henne. Vi kontaktar ljudboksförlaget Storytel som blir intresserade. Samtidigt får mitt eget förlag Norstedts höra talas om våra planer och föreslår att vi ska ge ut boken på deras ljudboksförlag istället, Tiden. Min agent tycker att vi ska välja det senare, vilket vi gör. Under ett drygt halvår skriver vi boken, som får namnet ”*Mörkret oss emellan*”, en psykologisk thriller som utspelar sig i ett hus i Stockholms skärgård. Den är uppdelad i åtta avsnitt och läses in av Nina Zanjani.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/700.png)
+![](https://www.rolfborjlind.com/img/700.png)
 
 Det är stimulerande och lärorikt att arbeta med sin dotter. Hon har kunskaper som jag är totalt renons på och vice versa. Tillsammans flätar vi ihop historien med ganska få kontroverser, delvis på distans.
 ::: indent
@@ -1515,7 +1515,7 @@ Han är modig.
 Men utöver det? Vågar vi inte uppröra längre? På riktigt? Har den digitala undervegetationens dreglande sekatörer klippt ner oss till harmlösa underhållare? Till stumma trygghetsnarkomaner?
 :::
 
-![Vad är det för fel på lite lugn och ro?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/297.png)
+![Vad är det för fel på lite lugn och ro?](https://www.rolfborjlind.com/img/297.png)
 
 Var finns vreden?
 ::: indent
@@ -1793,7 +1793,7 @@ Snart är jag igenom det jag skulle genomföra. Slutet på historien, som Guillo
 
 I sista minuten: Just när jag skriver detta får jag ett brev med en tidning i, det är *”Situation Stockholm”* som fyller 25 år och vill tacka olika människor som medverkat.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/302.png)
+![](https://www.rolfborjlind.com/img/302.png)
 
 Jag konstaterar att epitetet *”hänsynslös häcklare”* fortfarande hängde med 1999 och att jag log. I intervjun säger jag:
 

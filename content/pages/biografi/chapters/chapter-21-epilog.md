@@ -20,7 +20,7 @@ Det är förtröstansfullt.
 Snart börjar vi på vår sjunde deckare, “*Den barmhärtige Samariten*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/800.png)
+![](https://www.rolfborjlind.com/img/800.png)
 
 Slutord: Nåt jag ångrar så här långt? Inte mycket. Gjort är gjort, utifrån dom förutsättningar som rådde. Många val kunde ha gjorts annorlunda, gett enklare kärlek, mer insikt och bättre kulturellt utfall (med facit i hand är alla människor smartare än dom var). Men det är som det är. Eller som John Holm påpekade: Lagt kort ligger.
 ::: indent
@@ -33,9 +33,9 @@ Hela tiden.
 
 [yt-video][https://www.youtube.com/watch?v=dbnsIydaYYg]
 
-![...so far, so good...](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/248.png)
+![...so far, so good...](https://www.rolfborjlind.com/img/248.png)
 
-![Lars Lerin.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/309.png)
+![Lars Lerin.](https://www.rolfborjlind.com/img/309.png)
 
 ::: part
 

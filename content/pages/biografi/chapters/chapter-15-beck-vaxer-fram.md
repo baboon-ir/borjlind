@@ -36,11 +36,11 @@ Sen är det vitt och blankt.
 Och tyst.
 :::
 
-![Mitt i meningslösheten passerar ett spjut av tid.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/283.png)
+![Mitt i meningslösheten passerar ett spjut av tid.](https://www.rolfborjlind.com/img/283.png)
 
 Vilket påminner mig om min favoritdystopiker, vännen och tecknaren Gunnar Lundqvist. Så här kul har hans alter ego Klas Katt det:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/251.png)
+![](https://www.rolfborjlind.com/img/251.png)
 
 ::: part
 :::
@@ -64,7 +64,7 @@ Carsten och jag är fascinerade av kroppspoeten Lars Wellström, av hans mycket 
 
 **- Som en Rolls-Royce bland tusen folkvagnar.**
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/198.png)
+![](https://www.rolfborjlind.com/img/198.png)
 
 **I sitt testamente har han donerat sin hud till ett museum i Holland. Huden har också efterfrågats av intendenten för Tatueringsmuséet i Japan.”**
 
@@ -79,14 +79,14 @@ Den andra skriver jag tillsammans med Carsten. Den heter ”*Snusk och fusk i ko
 Parallellt färdigställer jag manuset till min andra Jönsson-film: ”*Jönssonligan får guldfeber*”. Det sker i samarbete med Gösta Ekman, fortfarande i viss utsträckning på en dansk förlaga.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/254.jpg)
+![](https://www.rolfborjlind.com/img/254.jpg)
 
 Mest spektakulärt i filmen är scenen när Gösta/Sickan hänger i visarna på den enorma guldklockan på Stadshustornets ena sida. Många turister har blivit rejält förvirrade och besvikna när dom konstaterat att det inte finns nån klocka på Stadshuset (scenen spelades in i en stor ateljé i Köpenhamn och printades in på Stadshuset).
 ::: indent
 I samband med den här inspelningen börjar jag diskutera en helt annan sorts film med Gösta och Mats Arehn. En slags absurd mordhistoria, delvis byggd på svart humor, delvis på en madröm som Arehn haft. Jag sätter mig ner och skriver ett förstamanus. Arehn lyckas få finansiering och filmen spelas in med Gösta och Sten Ljunggren i dom bärande rollerna (den innehåller också ett kvinnligt lik och mig själv som polis i en biroll). Filmen heter ”*Dödspolare*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/199.png)
+![](https://www.rolfborjlind.com/img/199.png)
 
 Intrigen är enkel. Två killar vaknar upp, otroligt bakfulla, i soffan ligger en död kvinna. Ingen av männen kommer ihåg vad som har hänt på natten. Ringa polisen? Då blir det ingen film, som Hitchcock alltid påpekade. Så hur ska dom lösa situationen?
 ::: indent
@@ -287,7 +287,7 @@ Gösta har titeln på sin film klar från början:”*Morrhår & Ärtor*”. Utt
 
 **- Du klipper av morrhåren på en katt, sticker in dom i gröna ärtor, klipper av ändarna och bjuder på ärtsoppa. Dom små morrhåren går genom magen, ut i blodet och rakt upp hjärtat, som en propp, sen dör man. Pang!**
 
-![Logotype.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/201.png)
+![Logotype.](https://www.rolfborjlind.com/img/201.png)
 
 När vi är klara med manuset lämnar Gösta det till Tage Danielsson. Den person han har mest respekt för i det här sammanhanget. Tage läser och Gösta är påtagligt nervös inför hans reaktion. Den blir bra. Han tycker mycket om manuset. Lite långt, det är den enda invändningen. Gösta är glad och lättad.
 ::: indent
@@ -333,7 +333,7 @@ Fruktbart minne från ”*Morrhår & Ärtor*”: Gösta vill att Lena Nyman ska 
 Sagt och gjort. Gösta kontaktar en whiskyimportör, gör en deal som renderar oss ett antal gratis kartonger Jameson och ser sen till att flaskan i tågkupén hamnar med etiketten mot kameran. Tidig produktplacering.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/200.png)
+![](https://www.rolfborjlind.com/img/200.png)
 
 När inspelningen är klar har vi slutfest under äppelträden i Toves och min trädgård på Skarpö. Uppsluppet. Mitt i maten klingar Kent Andersson i sitt glas, reser sig och deklamerar en limerick han suttit och plitat ihop:
 
@@ -380,9 +380,9 @@ Vi får se.
 
 För att skaka av mig romanmonstret skriver jag fyra sångtexter till Anna-Lotta Larssons lp *”Natt efter Natt”*  och en till Mats Ronanders lp *”Tokig”*.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/512.jpg)
+![](https://www.rolfborjlind.com/img/512.jpg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/513.png)
+![](https://www.rolfborjlind.com/img/513.png)
 
 ::: part
 :::
@@ -431,7 +431,7 @@ Fortfarande är det en rolig kvartett att skriva om.
 Fortfarande är figurerna älskade.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/255.png)
+![](https://www.rolfborjlind.com/img/255.png)
 
 ::: part
 :::
@@ -533,7 +533,7 @@ Senare ska jag söka upp den där puckeln, med pannlampa mitt i natten, hitta de
 Varför?
 :::
 
-![Gåtans tjusning ligger inte i svaret.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/177.png)
+![Gåtans tjusning ligger inte i svaret.](https://www.rolfborjlind.com/img/177.png)
 
 ::: part
 :::
@@ -563,17 +563,17 @@ Så tilldelas jag Årets Klappa av Föreningen Sveriges Spelfilmsregissörer, f�
 Men lite uppskattning är alltid välkommet.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/289.png)
+![](https://www.rolfborjlind.com/img/289.png)
 
 Samtidigt har Carsten en utställning på Boibrino Gallery i Stockholm. En av målningarna heter ”*Gobelängjungfrun*” (enligt Carsten ett transformerat minne av tapisserisviten ”*Damen med enhörningen*” i medeltidsmuseet i Cluny):
 
-![Gobelängjungfrun.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/202.png)
+![Gobelängjungfrun.](https://www.rolfborjlind.com/img/202.png)
 <!-- PAGE 176 END -->
 
 <!-- PAGE 177 START -->
 Själv föredrar jag pendangen till den målningen:
 
-![Vampyrjungfrun.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/203.png)
+![Vampyrjungfrun.](https://www.rolfborjlind.com/img/203.png)
 
 ::: part
 :::
@@ -609,7 +609,7 @@ Istället skriver jag manus till ett poesi- och musikprogram för SR i samarbete
 
 Roligt händer nästa år: Min äldste son Joakim har en av huvudrollerna i en tv-serie som heter ”*Xerxes*”. Peter Schildt regisserar. Jag är imponerad av Jockes prestation, han har en naturlig trovärdighet som inte är så vanlig (även om det är extremt svårt att se en så närstående människa gestalta en annan människa, svårt att filtrera bort Joakim).
 
-![Ynglingen längst till höger.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/247.png)
+![Ynglingen längst till höger.](https://www.rolfborjlind.com/img/247.png)
 <!-- PAGE 177 END -->
 
 <!-- PAGE 178 START -->
@@ -635,7 +635,7 @@ Isoleringen i skärgården, mediaskuggan, tystnaden, har fått mig att tappa kon
 Det blir inte på bättre humör av att skriva ”*Jönssonligan på Mallorca*”, den fjärde filmen i serien. Roligt bitvis, men trots allt på rutinens brant.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/256.png)
+![](https://www.rolfborjlind.com/img/256.png)
 
 Däremot innebär nästa projekt en viss stimulans.
 ::: indent
@@ -751,7 +751,7 @@ Allt ska samsas i samma värld.
 
 Här hemma har Carsten en utställning på Sveavägen tillsammans med tre outsiders i konstvärlden: Curre Hillfon, Kjartan Slettermark (den rosa pudelmannen) och Leif Tjerned. Dom kallar utställningen för ”*Cadavre Exquis* - *Utsökta kroppar*”, inspirerade av surrealisternas lek med ”vikgubbar”.
 
-![Skiss till Cadavre Exquis.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/204.png)
+![Skiss till Cadavre Exquis.](https://www.rolfborjlind.com/img/204.png)
 
 Jag skriver en text till deras katalog:
 

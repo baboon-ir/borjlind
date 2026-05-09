@@ -1,7 +1,7 @@
 # Konstnärsuppvaknandet
 
 <!-- PAGE 55 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/154.png)
+![](https://www.rolfborjlind.com/img/154.png)
 
 ::: part
 :::

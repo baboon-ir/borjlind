@@ -321,9 +321,9 @@ Boulder är den största universitetsstaden i Colorado. Den är också säte fö
 Nåja.
 :::
 
-![Allen Ginsberg](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/322.png)
+![Allen Ginsberg](https://www.rolfborjlind.com/img/322.png)
 
-![Anne Waldman](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/321.png)
+![Anne Waldman](https://www.rolfborjlind.com/img/321.png)
 
 Ginsberg och Waldman undervisar fortfarande där idag. Det är en av anledningarna till vårt besök. Bruno har, via Ferlinghetti, fått en länk till Ginsberg.
 
@@ -1320,14 +1320,14 @@ Vi rycker lite på axlarna. Ginsberg tittar på Brunos omslag till boken ”*c/o
 – Titta här på bilden av dig, varför ska du se så allvarig ut? Varför ler du inte? Det är så här vi bevarar borgarnas myt om den galne konstnären som ingen behöver lyssna till. Fel bild, Bruno!
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/315.png)
+![](https://www.rolfborjlind.com/img/315.png)
 
 Bruno biter ihop och orkar inte peka på väggen bakom, där Ginsberg kärleksfullt har hängt upp en stor bild av en vild och galen Rimbaud.
 ::: indent
 Stämningen i köket falnar ner, blir mer privat, avspänd. Ginsberg lånar Brunos pipa, jag ger honom min röda hawaiislips som tack för frukosten. Han skriver ett par ”dikter” som han dedicerar till oss. I min föreslår han att vi ska älska i en svensk grav eller på ängarna runt Naropa. Jag vet inte riktigt hur jag ska tolka det.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/317.png)
+![](https://www.rolfborjlind.com/img/317.png)
 
 Ginsberg får mitt ex av ”*Persona Non Grata*” och blir fascinerad av boken, bilderna, och visar mig en folder med en bild av påven knullande en blodig kvinna. Jag förstår inte riktigt kopplingen. Han sträcker över min bok.
 ::: indent

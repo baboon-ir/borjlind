@@ -21,7 +21,7 @@ I ett annat rum, ett trångt rum, bygger jag ett runkbås. Dofter av tigerbalsam
 Onaneringen går på repeat.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/109.png)
+![](https://www.rolfborjlind.com/img/109.png)
 
 Ett annat rum kommer man upp till via en trästege. Rummets väggar är helt inklädda med böcker, fastnitade i omslagen så att boksidorna vaggar i den svala vinden från en fläkt. Mitt i rummet står en nersliten läderfåtölj. I fåtöljen sitter en man i jacka utan huvud. På hans vita t-shirt syns blodfläckar. Hans armar vilar mot armstöden, två brödknivar är huggna genom händerna. Ur hans kapade strupe hörs den tyska statsterroristen Ulrike Meinhofs röst: ”*This is Ulrike Meinhof, speaking to the inhabitans of earth. You must make your death publik*.”
 ::: indent
@@ -32,17 +32,17 @@ Mannen har läderboots på sig.
 
 I en av de stora hallarna bygger jag en tv-vägg. 30 apparater ställda på varann, alla med sönderslagna skärmar utom två. I den ena uppträder en Fågelskrämma, gestaltad av skådespelaren Sten Ljunggren. Han framför min dikt ”*Sverige är inte Sverige.*”
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/130.png)
+![](https://www.rolfborjlind.com/img/130.png)
 
 I den andra visas en film som heter ”*Från Strand till Strand*”. Jag har ställt upp en videokamera längs bak i den sista tomma t-banevagnen innan avfärd från Farsta Strand och låtit den filma tills tåget når slutstationen Hässelby strand och vagnen töms igen. Filmen dokumenterar vad som händer i vagnen under resan från strand till strand (den är något mindre tråkig än tågfilmen till Köpenhamn).
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/158.png)
+![](https://www.rolfborjlind.com/img/158.png)
 
 En annan stor vägg i samma hall har jag klätt in med vita plastmasker. Jag har värmt alla maskerna några sekunder i en het ugn, vilket deformerat deras utseende. Över alla maskerna har jag sprayat den svenska flaggan, kraftigt gult och blått.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/112.png)
+![](https://www.rolfborjlind.com/img/112.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/113.png)
+![](https://www.rolfborjlind.com/img/113.png)
 <!-- PAGE 71 END -->
 
 <!-- PAGE 72 START -->
@@ -53,13 +53,13 @@ Så mörka nätter finns inte.
 
 Ett stort rum innanför hallen täcker jag med torr jord, som en upptrampad cirkusmanege, och låter min kompis Ove Enervald måla upp en hel vägg i blank fyrfärg med glada, vackra femtiotalsmänniskor, en klichéfamilj som badar och spelar tennis. Den är målad på vita, perforerade masonitskivor.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/114.png)
+![](https://www.rolfborjlind.com/img/114.png)
 
 Väggen mittemot pryds av en gravt missbildad familj, dominerad av en skiapod.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/115.png)
+![](https://www.rolfborjlind.com/img/115.png)
 
-![Frågor på det?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/116.png)
+![Frågor på det?](https://www.rolfborjlind.com/img/116.png)
 
 Mitt i rummet har jag placerat en träpiedestal med en glaskub på. Innanför glaskuben ligger en äkta hjärna (dock inte av mänskligt ursprung, det är en kalvhjärna). Under utställningens gång bildas vita likmaskar i hjärnan.
 
@@ -155,15 +155,15 @@ Men elva helsidor hinner bara bli åtta, sen bryts vårt kontrakt. Orsaken är e
 Innan dess publiceras ett antal andra fejkade intervjuer.
 :::
 
-![Björn Borg.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/118.png)
+![Björn Borg.](https://www.rolfborjlind.com/img/118.png)
 
-![Pehr Gyllenhammar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/119.png)
+![Pehr Gyllenhammar.](https://www.rolfborjlind.com/img/119.png)
 
 Rolig info: På Volvos bilfabrik i Göteborg klistras intervjun med Gyllenhammar upp på ett antal pelare i maskinhallen. Av arbetarna.
 
-![Ingmar Bergman.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/120.png)
+![Ingmar Bergman.](https://www.rolfborjlind.com/img/120.png)
 
-![Kerstin Thorvall.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/121.png)
+![Kerstin Thorvall.](https://www.rolfborjlind.com/img/121.png)
 
 Den fingerade intervju med Kerstin Thorvall kretsar kring hennes självutlämnande böcker. Intervjun, som alla dom andra, väcker bestörtning i vissa kretsar. Främst för att Thorvall själv säger att intervjun fått henne att sluta vilja skriva och flytta utomlands (jag har under årens lopp fått ”försvara” just den intervjun i högre utsträckning än dom andra). I en debattartikel i DN går tre kvinnor till rasande attack mot intervjun och mig under rubriken ”*Varför angripa en försvarslös?*”. Enligt kvinnorna ”*tyder satiren på att kvinnoförtrycket hårdnat och att kvinnokampen går in i ett nytt skede*”.
 ::: indent
@@ -174,7 +174,7 @@ Fotnot: På tal om självutlämnande böcker skulle jag rekommendera ”*La Casi
 
 Så trycks den beryktade intervjun med statsminister Thorbjörn Fälldin.
 
-![Thorbjörn Fälldin.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/122.png)
+![Thorbjörn Fälldin.](https://www.rolfborjlind.com/img/122.png)
 <!-- PAGE 74 END -->
 
 <!-- PAGE 75 START -->
@@ -274,7 +274,7 @@ Så var det med den mamman.
 
 Bakgrund till satirerna: Jag gör en mycket grannlaga research kring varje person jag porträtterar. Läser all tillgänglig information, pratar med människor i personernas närhet, fiskar upp ”skvaller”. Inför porträttet av Fälldin kommer jag över en internrapport från ett möte i Centerpartiets ledning. På mötet drar deras strateg Gustav Jonnegård upp riktlinjerna för hur dom ska hantera Olof Palme i dom kommande debatterna. Planen är att medvetet profilera Fälldin så att han framstår som Palmes raka motsats - den långsamme och eftertänksamme mot den rappe och snabbtänkte. Man vill förstärka en del av Fälldins drag och tona ner andra. Förändra hans personlighet en aning. Detta ligger till grund för satirens utformning av Fälldin som ”schizofren”.
 
-![Hans Ericson.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/123.png)
+![Hans Ericson.](https://www.rolfborjlind.com/img/123.png)
 
 Påföljande intervju görs med transportbasen och fackpampen Hans Ericson, en man som arbetar hårt på sin image som stenhård machoman.
 ::: indent
@@ -308,11 +308,11 @@ Intervjun hinner tryckas innan Aftonbladets ledning får frossa. Hela upplagan m
 Samtidigt går Aftonbladets ledarredaktion ut med en svartinramad svanskrypning som, sett ur ett tryckfrihetsperspektiv, är tämligen motbjudande.
 :::
 
-![Fri press?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/124.png)
+![Fri press?](https://www.rolfborjlind.com/img/124.png)
 
 Eller den här, från husse själv.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/164.png)
+![](https://www.rolfborjlind.com/img/164.png)
 
 En tid efter satirernas publicering uttalar sig Fälldin offentligt:
 
@@ -364,17 +364,17 @@ Vad tror dom att ”den där” ska göra?
 
  Mer skoj: Ett stort antal ”kulturpersonligheter” börjar göra egna fingerade intervjuer med mig i olika publikationer. Förmodligen i ett försök att visa hur nedrigt mitt stilgrepp är, jag ska få smaka på min egen medicin. Lars Forsell gör ett halvpatetiskt försök i Expressen. Roligast är nästan DN:s legendariske tecknare Ströyer:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/133.png)
+![](https://www.rolfborjlind.com/img/133.png)
 
 Även intelligensreserven är påtå:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/161.png)
+![](https://www.rolfborjlind.com/img/161.png)
 
 Brevet innehåller en studie i svart:
 <!-- PAGE 78 END -->
 
 <!-- PAGE 79 START -->
-![Obs: Ej självporträtt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/165.png)
+![Obs: Ej självporträtt.](https://www.rolfborjlind.com/img/165.png)
 
 Inget av detta bekommer mig.
 ::: indent
@@ -486,7 +486,7 @@ Det finns inget nytt i detta. Det finns bara en omstörtande formförändring av
 
 Så sätter jag punkt för eländet.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/166.png)
+![](https://www.rolfborjlind.com/img/166.png)
 
 ::: part
 :::
@@ -517,7 +517,7 @@ En annan resa går till New York. Jag träffar svarta män med långa svajande n
 <!-- PAGE 82 START -->
 Men året börjar med den ärevördiga teatern Dramatens första satiriska kabaré - “*ÖPPEN LOKAL - KLACKARNA I TAKET!*”. Jag, Lars-Ragnar Forssberg, Jan Guillou och trubaduren Finn Zetterholm är huvudförfattare. Gästförfattare är bland annat PC Jersild, Lars Molin, Lars Ardelius och Margareta Garpe. I ensemblen ingår Kjell Bergqvist, Tommy Körberg, Lars Amble och Liz Nilheim. Sören Brunes står för en fantastisk scenografi!
 
-![Observera min tröja, treinta y ocho, min ärevördiga Pamplonaklassiker. Still going efter 15 år.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/316.png)
+![Observera min tröja, treinta y ocho, min ärevördiga Pamplonaklassiker. Still going efter 15 år.](https://www.rolfborjlind.com/img/316.png)
 
 Till radioprogrammet Kabaré Öppen Kanal bildade Mikael Wiehe sin Kabaréorkester. Musikerna var bosatta i Malmö. Nu behöver vi en fast stockholmsbaserad orkester. Jag har lyssnat på jazzfusionsgruppen Kornet, unga musiker från Norrland, och känt att det skulle kunna vara ett spännande inslag i ett satirsammanhang. Jag ringer deras trummis Åke Sundqvist och frågar om dom skulle vara intresserade av att vara husband på en kabaré på Dramaten under våren.
 ::: indent
@@ -569,7 +569,7 @@ Resultat 1: I princip vartenda pubbesök slutar med hänförda lokalbor som and�
 Resultat 2: Varje morgon vi kommer ner till bageriet bjuds vi också på ett glas av den mörka, mustiga drycken. Tommy går upp 8 kilo under resan.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/293.png)
+![](https://www.rolfborjlind.com/img/293.png)
 
 Tips från en irländsk bartender: skummet på en Guinness måste vara så fast att du kan sätta en tändsticka rakt upp och ner i det.
 ::: indent

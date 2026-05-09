@@ -5,7 +5,7 @@ Märkligt nog är jag påtagligt nervös när jag ska framföra texten i tv. Jag
 
 Jag sköljer ner den obehagliga upplevelsen av Dylan-inspelningen med att skriva ett handfast manus till en tv-serie som heter ”*Läckan*”. Den bygger på en bok av ekonomen Klas Eklund (numera pappa till en poddare och en stjärnmäklare) och handlar om en korruptionsskandal i ”maktens korridorer”. Mord och spänning, med viss igenkänningsfaktor för en del i korridorerna. Mikael Ekman regisserar och Anders Ahlbom gör, förtjänstfullt, en omplacerad polis som ger sig in det politiska träsket.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/290.jpg)
+![](https://www.rolfborjlind.com/img/290.jpg)
 
 Generellt: Det är ytterst sällan svenska filmskapare förmår att gestalta den politiska världen på ett hyfsat trovärdigt sätt. Eller den finansiella. Det blir oftast yxigt, ytligt, med dialoger som borde ha stannat på skrivbordet - en tegelsten i munnen läggs till en annan. Vi låg länge långt efter den angloamerikanska filmen/tv-n när det gällde att berätta kriminalhistorier. Där är vi ikapp med råge. Nästa steg är att komma ikapp deras sätt att skildra maktvärlden.
 ::: indent
@@ -80,7 +80,7 @@ Istället skriver jag manus till ”*Jönssonligan och den svarta diamanten*”.
 <!-- PAGE 195 END -->
 
 <!-- PAGE 196 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/257.png)
+![](https://www.rolfborjlind.com/img/257.png)
 
 Det blir mitt sista Jönssonmanus.
 ::: indent
@@ -223,7 +223,7 @@ Corny detalj i mina anteckningar: Det här året skickas världens första sms. 
 
 Dags för mitt yngsta ättelägg, Nick, att göra debut som skådespelare. Han spelar sonen till Rolf Lassgård i filmen ”*Min store tjocke far*” i regi av Kjell-Åke Andersson. Nick är 12 år när inspelningen äger rum och gör en fantastisk insats. Det är gripande att se honom, av flera orsaker (på grund av skilsmässan från Tove har jag en utomordentligt sårig relation till Sari och Nick, det ska ta många år och tunga terapitimmar innan det reder ut sig).
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/325.jpeg)
+![](https://www.rolfborjlind.com/img/325.jpeg)
 
 Filmen blir Lassgårds genombrott som skådespelare och renderar honom en Guldbagge. Välförtjänt.
 ::: indent
@@ -260,7 +260,7 @@ Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här la
 ::: part
 :::
 
-![C.O. REX](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/139.png)
+![C.O. REX](https://www.rolfborjlind.com/img/139.png)
 
 ::: poem
 **mannen bor i tegelhuset nu**
@@ -282,13 +282,13 @@ Med detta sagt anser jag att vi har några rikt begåvade auteurer i det här la
 
 Carsten ligger på Radiumhemmet, ändstationen, klockan tickar ner. Han är oändligt trött och tärd. Via en liten låda på magen självdoserar han sitt morfin. Jag sitter vid sängkanten. Han håller fram ett skissblock. Vi pratar om en ny utställning på Moderna Museet. Han vill kalla den för ”*Show Down*”. I blocket har han gjort några enkla skisser till utställningen.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/228.png)
+![](https://www.rolfborjlind.com/img/228.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/232.png)
+![](https://www.rolfborjlind.com/img/232.png)
 
 Den märkligaste skissen är den här, ett betongfundament med ett kritvitt träd i, på grenarna hänger svarta glödlampor som frukter (jag använder senare idén i min kortfilm ”*Fatimas tredje hemlighet*”):
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/233.png)
+![](https://www.rolfborjlind.com/img/233.png)
 
 [yt-video][https://www.youtube.com/watch?v=i_QMuDi4HJc]
 
@@ -332,15 +332,15 @@ Jag skriver senare en dikt om upplevelsen:
 
 Den sista teckning Carsten gör är den här:
 
-![There must be some way out of here said the Joker to the Thief.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/227.png)
+![There must be some way out of here said the Joker to the Thief.](https://www.rolfborjlind.com/img/227.png)
 
 En månad senare är han död, den tredje mars 1992.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/246.png)
+![](https://www.rolfborjlind.com/img/246.png)
 
 Rekyl: I flera år och många gånger efter hans död är jag på väg till telefonen för att ringa honom och fråga nåt när jag kommer på: Men han finns ju inte längre? Han är ju död? Vem ska jag då fråga?
 
-![Självporträtt 2.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/195.png)
+![Självporträtt 2.](https://www.rolfborjlind.com/img/195.png)
 
 Begravningen äger rum i Skeppsholmskyrkan och förrättas av biskop Caroline Krook. Hon har ett möte med mig och Carstens änka Amis för att ”informera sig” om den avlidne. Amis påpekar att Carsten inte var religiös och inte trodde på Gud. Biskopen noterar det med viss syrlighet.
 ::: indent
@@ -429,7 +429,7 @@ Minne från gravölet på restaurang Pelikan: Jag blir ensam kvar vid ett bord m
 
 Efter begravningen får jag en stor tavla av Amis. Det är Carstens sista målning, ett ödsligt och gripande testamente:
 
-![Sista Skriket. Beskuren.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/326.png)
+![Sista Skriket. Beskuren.](https://www.rolfborjlind.com/img/326.png)
 
 ::: poem
 **nyss gled han genom duken**
@@ -556,7 +556,7 @@ Stefan och jag går också vidare från ”*Tillfällgt Avbrott*” och släpper
 
 Tidigare på året har jag och Stefan skrivit en helaftonspjäs till Scen Offside, en nystartad teater i kvarteren bakom LO-borgen. Pjäsen heter “*Smutsiga Ögon*”, en enmansföreställning.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/291.jpeg)
+![](https://www.rolfborjlind.com/img/291.jpeg)
 
 Stefan spelar en brusten reklamman som har sökt sig till en ödslig lokal för att hantera sin dotters självmordsförsök. Han rannsakar sitt och sin familjs liv, i skenet av den tid vi lever i, och kommer fram till ett svart hål. Föreställningen börjar med att Stefan trycker på dotterns gamla kassettbandspelare och lyssnar en stund på en låt av Status Quo... och slutar med ett skott i mörkret.
 ::: indent
@@ -628,7 +628,7 @@ Det är ingen sinekur.
 <!-- PAGE 206 START -->
 Väl tillbaka i hamnen hissas fisken iland, hängs upp i en krok och vägs. Vågen stannar på 121 kilo.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/601.JPG)
+![](https://www.rolfborjlind.com/img/601.JPG)
 
 Samtidigt ringer Gabriel till restaurangägaren och säger att vi har lite fisk nere på kajen, om han är intresserad.
 ::: indent
@@ -750,14 +750,14 @@ Jag kan intyga allt som sägs i texten är sant, eftersom jag har skrivit den sj
 
 Jag fyller 50. Det är som att fylla 49 fast ett år senare och lite mer fest och något fler gåvor. Av några vänner får jag en märklig skulptur i present, gjord av den skicklige konstnären Karl-Olov Björk.
 
-![Döden i lusthuset.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/238.jpg)
+![Döden i lusthuset.](https://www.rolfborjlind.com/img/238.jpg)
 
 Nederdelen av ett kranium inneslutet i ett öppet trävisir. På efterfesten i vår lägenhet orsakar skulpturen våldsamma diskussioner. Det handlar om skändandet av döda. En av gästerna vill kasta ut föremålet genom fönstret. Jag förstår inte riktigt upprördheten.
 ::: indent
 Många år senare besöker jag och två av mina barn, Joakim och Sari, den märkliga skelettkyrkan i Kutna Hora utanför Prag. Ossariet nere i källaren är konstfullt utsmyckat med ben från cirka 40.000 människor, bland annat hänger en stor sexarmad ljuskrona i taket, helt gjord av skelettdelar och kranium.
 :::
 
-![Dödskapellet i Kutna Hora.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/292.png)
+![Dödskapellet i Kutna Hora.](https://www.rolfborjlind.com/img/292.png)
 
 Vid en jämförelse framstår Björks skulptur som tämligen oförarglig.
 <!-- PAGE 208 END -->
@@ -863,7 +863,7 @@ Fotnot: Vid den här tidpunkten är filmbranschen full av skrupelfria månglare 
 
 Eller som jag själv skriver om en producent på den här tiden: *”Han har en eminent förmåga att driva en drillborr genom kraniet på unga begåvningar och dränera deras talang med ett sugrör av sedlar.”*
 
-![Målning av Ove Enervald.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/226.png)
+![Målning av Ove Enervald.](https://www.rolfborjlind.com/img/226.png)
 
 Men alltså inte Abrahamsen.
 ::: indent
@@ -887,7 +887,7 @@ Vilket det inte är.
 Filmen spelas in med Dalle som regissör och blir en stor framgång. Året efter tilldelas jag och Dalle en guldbagge för bästa manus. I mitt korta tal ger jag juryn en eloge för modet att premiera komik. Det hör inte till vanligheterna i dom här sammanhangen.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/268.jpeg)
+![](https://www.rolfborjlind.com/img/268.jpeg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/327.jpg)
+![](https://www.rolfborjlind.com/img/327.jpg)
 <!-- PAGE 210 END -->

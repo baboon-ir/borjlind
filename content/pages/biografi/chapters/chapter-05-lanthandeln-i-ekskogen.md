@@ -30,7 +30,7 @@ Illa slutar det också för Oves bekant några år senare, då han ertappas med 
 ::: part
 :::
 
-![Pre Corona.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/152.png)
+![Pre Corona.](https://www.rolfborjlind.com/img/152.png)
 
 https://youtu.be/drqYgCuWU_k
 <!-- PAGE 40 END -->
@@ -50,14 +50,14 @@ Minne av Skånska Lasse: efter en natt med musik och godis hittar jag honom sova
 Skånska är utbildad på Beckmans Reklamskola, diskar i köket på restaurang Rendezvous och får kraftig psoriasis. På nätterna sitter han hemma och skapar miniatyrmålningar med minimala penselstrån.
 :::
 
-![Format: 32 x 26 cm. Eller minusformat.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/221.png)
+![Format: 32 x 26 cm. Eller minusformat.](https://www.rolfborjlind.com/img/221.png)
 
 Skånska är en extremt snäll människa (den förste som även introducerar mig för Tom Waits) och har som valspråk: ”*Fortsätt bakåt!*”. Han lever ett ensligt liv och hittas i sin lägenhet på Söder flera dygn efter sin död.
 ::: indent
 En av Skånskas favoriter är den amerikanske tecknaren och låtskrivaren Shel Silverstein. Det är så jag kommer i kontakt med honom. Han tecknar för Playboy och skriver ett antal klassiska sånger till Dr Hook and the Medicine Show - ”*Sylvias Mother*”, till exempel. Vid ett besök i San Francisco söker jag upp hans husbåt.
 :::
 
-![Min favoritteckning av Silverstein.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/184.png)
+![Min favoritteckning av Silverstein.](https://www.rolfborjlind.com/img/184.png)
 
 ::: part
 :::
@@ -194,7 +194,7 @@ Så lite payoff på omkullkörningen blev det.
 
 Det här året avslutas med att Carsten och jag framför en happening för barn på Moderna Museet tillsammans med musikgrupperna Contact och Skäggmanslaget. Den heter ”*Boom! Boom! Boom!*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/242.png)
+![](https://www.rolfborjlind.com/img/242.png)
 
 Det är vår första happening på museet och kommer att följas av flera.
 ::: indent
@@ -215,21 +215,21 @@ Sportminne från OS -68: Jag följer tävlingarna på tv. Det är dags för höj
 
 Året efter gör Carsten en egen kulturaktion värd att nämnas. Han hyr en annonsplats i Stockholms tunnelbana. Den första affischen (i jätteformat) informerar om den kommande utställningen som han kallar ”*Instant Art*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/50.png)
+![](https://www.rolfborjlind.com/img/50.png)
 
 En av de följande affischerna har texten ”GUD ÄR INTE ALLS FÖDD PÅ EN TORSDAG. HAN ÄR FÖDD PÅ EN ONSDAG. PRECIS SOM JAG”. Texten illustreras av en Joker.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/141.png)
+![](https://www.rolfborjlind.com/img/141.png)
 
 När han i oktober sätter upp en affisch med en lösnäsa och texten “VI HAR TA ME' FAN DOM POLITIKER VI FÖRTJÄNAR” plockas den ner klockan halvtvå på natten och kontraktet bryts. SL:s chef är rädd för att nån kan tro att det är politisk propaganda och sånt får inte förekomma i t-banan.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/51.png)
+![](https://www.rolfborjlind.com/img/51.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/51A.png)
+![](https://www.rolfborjlind.com/img/51A.png)
 
 Carsten har också sin första separatutställning på Moderna Museet. Den heter ”*Nekropolis*” och består av målningar och olika objekt.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/146.png)
+![](https://www.rolfborjlind.com/img/146.png)
 
 <span id="år-1970" class="rb-year-anchor" data-year-range="1970–1980"></span>
 
@@ -269,7 +269,7 @@ En bok.
 Jag ger den titeln ”*Förbjudet att luta sig ut genom huvudet*”. Titeln alluderar på dom varningsskyltar i metall som sitter vid alla kupéfönster på SJ. Carsten trycker boken, jag binder ihop den för hand med svarta sammetsband. Den har undertiteln ”*Läsebok för blottare*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/53.png)
+![](https://www.rolfborjlind.com/img/53.png)
 
 ::: poem
 **mina händer håller om dina**
@@ -321,7 +321,7 @@ Det ska komma fler.
 Boken avslutas med en teckning av Carsten.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/54.png)
+![](https://www.rolfborjlind.com/img/54.png)
 
 Vackraste minnet från Rödön: Jag blir kär i en av kvinnorna i kollektivet. Tove. Hennes intellekt och distanserade attityd är våldsamt attraktivt - en spännande kvinna med magnifik integritet. Dessutom är vårt förflutna tämligen analogt: barn som brutit sig loss och skapat egna villkor.
 ::: indent
@@ -341,7 +341,7 @@ Efter en stund ombeds jag av en anställd på varuhuset att följa med upp till 
 Jag återvänder till mitt säljställe och bjuder ut min bok utan fortsatta störningar.
 :::
 
-![Ordet är ute.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/55.jpg)
+![Ordet är ute.](https://www.rolfborjlind.com/img/55.jpg)
 
 ::: part
 :::
@@ -375,33 +375,33 @@ Jag medverkar i tidningen 1988 med texten *”Skrattar bäst som skrattar sist.�
 
 Sen några år ingår jag i en musikgrupp som heter ”*Sergeant Honolulu Double Fucking Five*”. Gruppen består av fem medlemmar och är en utlöpare från gymnasietiden på Lidingö. Själv spelar jag gitarr, skriver texter och sjunger. Gruppen framträder på olika pubar och musikscener i Stockholm under flera år. Främst på vispråmen Storken och Mosebacke Etablissemang. Vårt musikaliska utbud består till stor del av satiriska pastischer på olika musikgenrer. Bland annat gör vi en version av den populära hawaianska slangdängan ”*Puti Puti*”. En av våra sånger, ”*Små blå duvor*” tävlar på Svensktoppen.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/57.png)
+![](https://www.rolfborjlind.com/img/57.png)
 
 Skivproducenten Gert Palmqvist spelar in en lp med oss på Metronome.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/58A.jpg)
+![](https://www.rolfborjlind.com/img/58A.jpg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/58C.jpg)
+![](https://www.rolfborjlind.com/img/58C.jpg)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/58B.png)
+![](https://www.rolfborjlind.com/img/58B.png)
 
 ::: part
 :::
 
 Det här året hittar Carsten en annons från Försvarsmakten som kommer att få följdverkningar för både honom och mig. Främst för honom.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/59.png)
+![](https://www.rolfborjlind.com/img/59.png)
 
 Det är en annons som förklarar hur man ska agera i händelse av ett atombombsanfall. Om man bär hatt, vilket man förutses göra, ska man vika ner brättet för att skydda ögonen. Bilden av mannen med hatten kommer att bli en livslång symbol för Carsten, varierad och använd i otaliga variationer. Främst i hans egna verk, men också i våra gemensamma. Till exempel Kulturmagasinet Vargen.
 ::: indent
 För att försäkra sig om bilden tar han patent på den.
 :::
 
-![Lupus Ultra](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/153.png)
+![Lupus Ultra](https://www.rolfborjlind.com/img/153.png)
 
 Redan samma år dyker hattmannen upp i en stor målning av Carsten.
 
-![Vargmålningen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/60.png)
+![Vargmålningen.](https://www.rolfborjlind.com/img/60.png)
 
 Carsten hittar också en artikel om en märklig händelse:
 
@@ -411,7 +411,7 @@ Carsten hittar också en artikel om en märklig händelse:
 <!-- PAGE 48 START -->
 **”Vargpojken, som tros vara i 35-årsåldern, avled igår efter 20 år på ett sjukhus i Lucnow i norra Indien. Lång tid hade han lidit av kroniska andningsbesvär och epilepsi. Mysteriet med Vargpojken började 1953 då en spårvägare fann en naken utmärglad pojke ihopkrupen bakom några väskor på en avlägsen station. Pojken omhändertogs på sjukhus där läkarna med stigande förtjusning observerade hans beteende. Han kunde inte gå upprätt, men sprang däremot mycket snabbt på alla fyra. Han åt endast frukt och rått kött och vägrade intaga kokt föda. Pojken kunde bara utstöta djurliknande läten och när han blev rädd eller arg morrade han och visade tänder som en varg. Under alla år på sjukhuset gjorde Vargpojken ytterst små framsteg. Han lärde sig sova i en sängbur och gick med på att bära vissa klädesplagg, men lärde sig aldrig att tala och förblev fasansfullt skygg. Den enda han någon gång log mot var den sköterska som behandlade honom. Under alla år har vetenskapsmän och politiker tvistat om den gåtfulle pojken. Var han verkligen en varg? Uppfostrad i djungeln? En del svarar otvunget ja på dessa frågor. Andra har spridit ut rykten om att vargpojken i själva verket skulle vara en imbecill 13-åring som föräldrarna övergivit med flit för att staten skulle ta hand om honom. Vargpojken tog hemligheten med sig i döden.”**
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/61.png)
+![](https://www.rolfborjlind.com/img/61.png)
 
 Berättelsen om Vargpojken gör ett bestående intryck på Carsten.
 
@@ -467,15 +467,15 @@ Den 28 maj 1973 (på Mors Dag) avhålls i Gamla Riksdagshuset i Stockholm en ”
 **...**
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/62.png)
+![](https://www.rolfborjlind.com/img/62.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/63.png)
+![](https://www.rolfborjlind.com/img/63.png)
 
 Från en av läktarna lyckas Carsten kasta ner 600 röda lösnäsor i plast över den sammanbitna publiken.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/66.png)
+![](https://www.rolfborjlind.com/img/66.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/65.png)
+![](https://www.rolfborjlind.com/img/65.png)
 
 Efter den fem minuter långa aktionen försvinner vi lika osynligt som vi dök upp. Plastgitarren skänker vi till den förvirrade mötesordföranden Sandro Key-Åberg.
 
@@ -525,14 +525,14 @@ Min andra bok heter ”*Dvärgarnas Vendetta*”. En diktsamling. Bokens skrivs 
 Men Carsten gör ett vackert dadaistiskt omslag.
 :::
 
-![Hopp är dom maktlösas heroin.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/67.png)
+![Hopp är dom maktlösas heroin.](https://www.rolfborjlind.com/img/67.png)
 
 ::: part
 :::
 
 Carsten och jag bjuds in till fest på Moderna Museet. En tillställning med internationella förtecken. En bit in i drickandet stöter vi ihop med den amerikanske dokumentärfilmaren och Vietnamaktivisten Emilie d`Antonio. Han är världsberömd för den klassiska dokumentärslakten av Richard Nixon: ”*Milhouse - a white comedy*”.
 
-![America first!](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/68.png)
+![America first!](https://www.rolfborjlind.com/img/68.png)
 
 Vi samtalar länge och yvigt. d`Antonio är upprörd över ”träkuken” Pinochet, generalen som leder en militärjunta i Chile och har torkade människoöron i en skål på skrivbordet. Som hundgodis.
 ::: indent
@@ -549,20 +549,20 @@ Det är delvis en reaktion på konstmarknadens korrupta verksamhet.
 
 d`Antonio åker till USA och Carsten och jag producerar en konstmapp med 16 screenporträtt av Andy Warhol i olika färger, signerade ”*Maximoff*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/69.jpg)
+![](https://www.rolfborjlind.com/img/69.jpg)
 
 d`Antonio får konstmappen, jobbar hårt med sina kontakter, men lyckas aldrig få porträtten utställda i New York.
 ::: indent
 Carsten gör också några mycket vackra hommage till amerikanska popkonstnärer i akvarell/collage-teknik som signeras ”*Maximoff*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/70.png)
+![](https://www.rolfborjlind.com/img/70.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/71.png)
+![](https://www.rolfborjlind.com/img/71.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/72.png)
+![](https://www.rolfborjlind.com/img/72.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/73.png)
+![](https://www.rolfborjlind.com/img/73.png)
 
 Strax efteråt åker vi till New York för att träffa d`Antonio. Han har lovat att skriva en dagbok i den tidskrift vi planerar att ge ut senare under året, Kulturmagasinet Vargen. Under vistelsen gör vi vår andra större kulturaktion.
 ::: indent
@@ -583,11 +583,11 @@ I gryningen påföljande dag smyger hans hustru upp till konsulatets port och h�
 Hon delar uppenbarligen inte sin mans vurm för monarkin.
 :::
 
-![Stora idioter graveras på små frimärken.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/74.png)
+![Stora idioter graveras på små frimärken.](https://www.rolfborjlind.com/img/74.png)
 
 Vi återvänder hem och startar arbetet på Kulturmagasinet Vargen, tillsammans med Carstens fru Amis.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/900.png)
+![](https://www.rolfborjlind.com/img/900.png)
 
 Tanken är att komma ut med åtta nummer på två år. För att ge tidskriften en viss etablerad tyngd ber vi konstkritikern Olle Granath att ingå i redaktionen. Han tackar ja. För att också ge tidskriften en patafysisk anstrykning ber vi den finske konstnären JO Mallander att ingå. Även han tackar ja.
 
@@ -620,24 +620,24 @@ Vargens dynamik etableras snabbt. Långt senare beskriver Olle Granath tidskrift
 <!-- PAGE 52 START -->
 Han kunde ha lagt till ett annat axplock: Marie-Louise Ekman, Bruno K. Öijer, Öyvind Fahlström och Ulf Lundell. Eller Ivan Agueli och Bengt Emil Johnson. Eller Pugh Rogefeldt. Den kulturella spännvidden är imponerande.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/77.png)
+![](https://www.rolfborjlind.com/img/77.png)
 
 Fotnot: Fjärtarnas Konung heter Joseph Pujol, lever mellan 1857 och 1945 och är berömd över hela Europa. Via sitt anus kan han släcka stearinljus på en halvmeters avstånd, imitera dragbasuner och fioler, fjärta enklare melodier och slunga ut vatten drygt fyra meter. Han är ett stort dragplåster på Världsutställningen i Paris.
 
-![Fjärtarnas Konung.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/78.png)
+![Fjärtarnas Konung.](https://www.rolfborjlind.com/img/78.png)
 
 Vargens redigeringsprincip bygger på en blandning av respekt för det enskilda bidraget och en strävan att skapa ett nytt uttryck. För oss är tidskriften ett sätt att via andra människors material åstadkomma en förskjutning i det till synes sedda - genom att kombinera enkelt och svårt på ett för oss attraktivt och fruktbart sätt och därigenom låta vårt konstnärliga credo exponeras genom andra.
 ::: indent
 Vargen är i grunden ett enda långt collage.
 :::
 
-![Margareta Renberg.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/233A.png)
+![Margareta Renberg.](https://www.rolfborjlind.com/img/233A.png)
 
-![Hans Brul Nordenström.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/234.png)
+![Hans Brul Nordenström.](https://www.rolfborjlind.com/img/234.png)
 
-![Lars Hillersberg.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/235.png)
+![Lars Hillersberg.](https://www.rolfborjlind.com/img/235.png)
 
-![Stig Danielsson.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/236.png)
+![Stig Danielsson.](https://www.rolfborjlind.com/img/236.png)
 
 ::: part
 :::
@@ -777,7 +777,7 @@ I backspegeln kanske det finns ett annat sätt att se på det, två hjälplösa 
 
 Landad i Sverige dyker jag in i den verklighet som är min. Jag sammanställer en omfångsrik antologi som heter “*Nya Tider Nya Änglar*”.
 
-![Carstens svarta glödlampa.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/79.png)
+![Carstens svarta glödlampa.](https://www.rolfborjlind.com/img/79.png)
 
 Den innehåller djupt personliga och mycket utlämnande intervjuer med fyra poeter: Eric Fylkeson, Bruno K. Öijer, Per Lindgren och Margareta Renberg. Samt två musiker: Mikael Wiehe och Bernt Staf.
 ::: indent
@@ -796,7 +796,7 @@ Bruno K (som bor i undervåningen i vårt hus i Ekskogen, intill pannrummet) är
 En ljudkassett med uppläsningar av poeterna bifogas boken som ges ut i form av en gul Jiffypåse med bok + kassett i. Av Bo Cavefors Bokförlag i Lund.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/81.jpg)
+![](https://www.rolfborjlind.com/img/81.jpg)
 
 Såhär i efterhand visar projektet en del av Bo Cavefors mod och nyfikenhet - inte många förläggare skulle ge ut en Jiffypåse med poeter.
 

@@ -1,7 +1,7 @@
 # Prolog
 
 <!-- PAGE 1 START -->
-![Mitt i meningslösheten passerar ett spjut av tid.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/248.png)
+![Mitt i meningslösheten passerar ett spjut av tid.](https://www.rolfborjlind.com/img/248.png)
 <!-- PAGE 1 END -->
 
 <!-- PAGE 2 START -->

@@ -71,7 +71,7 @@ Sauk och jag träffas. Vi känner rätt snabbt att vi kan funka ihop. Jag skrive
 Producenten heter Tommy Bennwik, Sundvall regisserar, sex skådespelare medverkar: Lena Endre, Ulla Skoog, Claes Månsson, Peter Dalle, Johan Ulveson och Stefan Sauk. Ett 20-tal författare anlitas. Rätt snabbt lägger vi gemensamt fast en form för programmet, som delas in i sju block : Sketcher, reklamavbrott, sketcher, Sauk, sketcher, reklamavbrott, sketcher. En enkel och tydlig struktur som bibehålls genom alla år serien sänds.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/267.jpeg)
+![](https://www.rolfborjlind.com/img/267.jpeg)
 
 Carsten och jag kommer snabbt fram till en layout för reklamfilmerna. Inslagen ska påannonseras som ”*Kanal C*” med Carstens stiliserade öga som logotype.
 
@@ -120,7 +120,7 @@ Då finns det annat du kan göra.
 <!-- PAGE 182 END -->
 
 <!-- PAGE 183 START -->
-![Köp en öde ö.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/299.png)
+![Köp en öde ö.](https://www.rolfborjlind.com/img/299.png)
 
 Lorrys framgångar beror på flera olika saker, enligt min uppfattning. Mixen mellan begåvade humorsketcher, relativt rå reklamsatir och Stefans personliga gestaltningar visar sig fungera utomordentligt bra. Programmen faller olika smaker på läppen. Dessutom är samtliga skådespelare utomordentligt duktiga på att leverera, alla har den där speciella tajmingen som krävs för att humor ska fungera. De flesta är också relativt okända för den stora publiken. En av dom, Peter Dalle, bidrar dessutom med ett antal suveränt drastiska texter, med en utsökt fingertoppskänsla för underskruv (han blir sedermera också regissör för serien när Kjell Sundvall slutar).
 
@@ -138,7 +138,7 @@ Jag missar premiären.
 Jag skriver också 4 sångtexter till Anna-Lotta Larsson skiva *”Vädur”*.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/514.png)
+![](https://www.rolfborjlind.com/img/514.png)
 
 Den vackraste är en svensk version av Bette Midlers låt *”The Rose”*, den mest poetiska är ”*Nu rider han på floden*”.
 
@@ -216,7 +216,7 @@ Happy Cousins då?
 Stoppa sorgen i en gammal säck och skratta och var glad?
 :::
 
-![Skratta åt vadå?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/300.png)
+![Skratta åt vadå?](https://www.rolfborjlind.com/img/300.png)
 
 Så här i efterhand förstår jag hur insikten om att Carsten var på väg att dö påverkade mig, på flera plan, sköt ut mig i en vilsenhet som jag inte var beredd på. Grundvalarna gungade.
 ::: indent
@@ -230,7 +230,7 @@ Det skulle få komplicerade effekter.
 
 Lorry nomineras till Guldrosen, Europas finaste tv-pris. Det ska delas ut i Montreaux och delar av Lorrygänget åker dit. Inklusive jag själv. Vi vinner inte, alla åker hem utom jag som fortsätter till Venedig. Ensam. Senast jag var där gjorde jag en dokumentärfilm för Moderna Museet, nu har jag ingen annan avsikt med besöket än att fly. Jag är djupt förvirrad och har mist fotfästet. Orsaken är min nyblivna förälskelse i Cilla Gemvall.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/2000.jpeg)
+![](https://www.rolfborjlind.com/img/2000.jpeg)
 
 Vi har arbetat ihop en längre tid med Lorry och drabbats av varann. Varför vet jag inte riktigt (vem har svaret på sånt?). Jag har varit ihop med Tove i 18 år, älskar henne, älskar mina barn, mina omständigheter, vår trygga borg mot omvärlden. Ändå faller jag handlöst in en förälskelse som snabbt övergår i en ohejdbar passion, eller en ”våldsam sinnesrörelse” som är den lexikala beskrivningen.
 ::: indent
@@ -274,7 +274,7 @@ Intrikat.
 
 Carsten kämpar med sin cancer. Han har en stor separatutställning på Kulturhuset i Stockholm. Han kallar den ”*Terra Incognito*”. Den består av 10 kvadratiska målningar i formatet 2 x 2 meter.
 
-![RA - 4,3,2,1,12,11,10,9,8,7 - D kr DADA - ell (SIC)](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/206.png)
+![RA - 4,3,2,1,12,11,10,9,8,7 - D kr DADA - ell (SIC)](https://www.rolfborjlind.com/img/206.png)
 
 Jag skriver en text till katalogen som jag döper efter ett lysande uttryck av Cornelis Vreeswijk: ”*Medan natten obönhörligen faller ... *”.
 
@@ -315,7 +315,7 @@ Jag skriver en text till katalogen som jag döper efter ett lysande uttryck av C
 
 I samband med utställningen arrangerar Gateway sina sista tre multimediaföreställningar (live, vi kommer att använda konceptet i en tv-serie senare det här året). Det sker också på Kulturhuset. Vi döper arrangemanget till ”*Sista Skriket - en futuristisk happening i 5 paket*”. Medverkande är en blandning av poeter, konstnärer, musiker och skådespelare: Karl-Erik Welin, Stefan Sauk, Janne Schaffer, Sten Hansson, Ola Magnell, Curre Hillfon, Mats Ronander, Bruno K Öijer, Åke Sundqvist, Anna-Lotta Larsson m.fl.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/207.png)
+![](https://www.rolfborjlind.com/img/207.png)
 
 Den stora hörsalen är fullsatt på premiären, 400 människor. Inledningsnumret sker i en helt nersläckt salong med svarta fönster. När numret närmar sig slutet höjs sakta de mekaniska ridåer som sitter mellan dom enorma glasfönstren, långsamt blottas hela innerstaden utanför, med neonljus och flämtande bilstrålkastare. Känslan av att sitta i ett rymdskepp är påtaglig.
 ::: indent
@@ -617,7 +617,7 @@ Hela tv-serien avslutas med ett specialprogram där Bruno K. Öijer framför sin
 
 Skivbolaget Sonet ger senare ut en samlings-cd med musikmaterial ur tv-serien.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/310.jpg)
+![](https://www.rolfborjlind.com/img/310.jpg)
 
 Så här sammanfattar jag hela inspelningen i en text till cd-skivan:
 

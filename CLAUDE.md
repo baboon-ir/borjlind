@@ -31,7 +31,7 @@ Läsaren är **segmentbaserad och scroll-driven** — inte paged/swipe. Footer-s
 
 ## Media
 Alla bilder och videos ligger externt på **Cloudflare R2**:
-`https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/...`
+`https://www.rolfborjlind.com/img/...`
 
 Bara `assets/images/` (favicon m.m.) ligger lokalt i repot.
 

@@ -25,7 +25,7 @@ Han bjuder på kaffe.
 
 Jag blir nyfiken, läser boken och skriver ett manus på 3 x 50 minuter (mitt första tv-manus). Det är också första gången Gösta och jag samarbetar intimt.
 
-![Snillen spekulerar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/172.png)
+![Snillen spekulerar.](https://www.rolfborjlind.com/img/172.png)
 
 Serien regisseras av Mats Arehn (som jag kommer att samarbeta med många gånger framöver) och sänds i SVT. Det är min första tv-serie, mitt andra manus efter “*Kocken*”. Fortfarande är det enbart lustfyllt att skriva i den här formen (det ska i viss mån komma att ändras en bit in på 2000-talet).
 
@@ -128,7 +128,7 @@ Carsten och jag bjuds in av Svenska Filminstitutet att medverka i deras kortfilm
 Vi har just bildat en multimusikgrupp som heter Gateway, tillsammans med den suveräne rockgitarristen Mats ”Malla” Ronander och Stefan Nilsson (vi har ett par andra namn på gruppen först, Flying Toasters och Gentlemen Junkies, men fastnar för Gateway).
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/174.png)
+![](https://www.rolfborjlind.com/img/174.png)
 
 Vi bestämmer oss för att vårt bidrag till ”*S80*” ska skapas av Gateway och utformas som en musikvideo med titeln ”*Konst är dyrbarare än korv*” - återigen ett Picabia-uttryck.
 ::: indent
@@ -158,7 +158,7 @@ Andra uppskattar låten desto mer. Skivbolaget Metronome kontaktar oss och vill 
 Så sker.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/173.jpg)
+![](https://www.rolfborjlind.com/img/173.jpg)
 
 Omslaget är en parafras på Beatles ”*Sgt Pepper*” (eller för den delen Frank Zappas mycket roligare ”*We are only in it for the money*”).
 ::: indent
@@ -366,7 +366,7 @@ Jag tycker det är kul.
 Båda tycker att namnet ”Vanheden” är kul. Gösta vill att han ska spelas av Ulf Brunnberg.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/600.JPG)
+![](https://www.rolfborjlind.com/img/600.JPG)
 
 Själv föreslår jag att Sickans antagonist, ”storskurken”, ska heta Wall-Enberg, alluderande på finansmännen Anders Wall och bröderna Wallenberg. Gösta köper det.
 ::: indent
@@ -380,7 +380,7 @@ Men gång stimulerar tänkandet, blir min erfarenhet av arbetet med Gösta (plus
 
 Manuset blir klart, filmen spelas in, Jonas Cornell regisserar den (Arehn har hoppat av tidigare, av privata skäl). Publiken älskar filmen, “*Varning för Jönssonligan*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/253.png)
+![](https://www.rolfborjlind.com/img/253.png)
 
 Över en miljon människor går och ser den. Än idag, 40 (!) år senare, visas filmen i olika tv-kanaler året runt. Vi har uppenbarligen hittat en perfekt formel, en nivå och attityd som är exakt rätt, med ett komiskt geni i mitten.
 
@@ -660,7 +660,7 @@ Patetiskt.
 
 Istället skriver Carsten och jag ett hörspel om Kulturmagasinet Vargen till Sveriges Radio. Vi döper det till “*Caligula says it´s ok*”. Manuset består av en dialog mellan två personer och framförs av Claire Wikholm och Sten Ljunggren. Dialogen är uppbyggd av fritt urklippta meningar och ord ur alla Vargtidningarna (enligt dada-modell). Hela framförandet ackompanjeras av elektronmusikern Sten Hanssons ljudslingor.
 
-![Caligula says it´s ok.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/171.png)
+![Caligula says it´s ok.](https://www.rolfborjlind.com/img/171.png)
 
 ::: part
 :::
@@ -785,7 +785,7 @@ Men det var värt försöket.
 
 Tillbaka i Sverige börjar jag på pjäsen. För att bottna ordentligt i det jag vill beskriva läser jag också GW Perssons böcker ”*Horor, hallickar och torskar*” och ”*Profitörerna*”, Sven-Axel Månssons långa skrift “*Könshandelns främjare och profitörer*” samt konstnären Stig Danielsons magiska konstbok ”*Ömhetens kaniner*” - teckningar och texter av och om dom prostituerade han umgåtts med under flera år.
 
-![Ömhetens kaniner (beskuren).](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/192.png)
+![Ömhetens kaniner (beskuren).](https://www.rolfborjlind.com/img/192.png)
 
 Jag kokar ner allt material till ett drygt två timmar långt manus, diskuterar med Sten, skriver om, vässar texten. Sten sätter upp pjäsen i Luleå. På scen agerar Sara Arnia, Eva Munter, Gustav Levin och Carl Magnus Dellow.
 ::: indent
@@ -862,7 +862,7 @@ Men men.
 <!-- PAGE 152 START -->
 Papphammarsketcherna klipps senare ihop till en långfilm och visas på biograf.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/266.jpeg)
+![](https://www.rolfborjlind.com/img/266.jpeg)
 
 I backspegeln: Papphammar var i vissa avseenden Göstas alter ego. Mannen som gör vad som faller honom in (i en linje från Kolingen, Rit-Ola, Storm P och framför allt Buster Keaton). Dessutom var karaktären hans egen, Hasse & Tage var inte inblandade. Under många år kreerade Gösta gestalter under deras paraply. Papphammar bröt ut honom ur den hegemonin.
 
@@ -873,7 +873,7 @@ I backspegeln: Papphammar var i vissa avseenden Göstas alter ego. Mannen som g�
 
 Under arbetet med Papphammar har Carsten haft en separatutställning i Västtyskland med namnet ”*Kunst Is Wertvoller Als Wurst*”. Det borde ha varit ”*Als Bratwurst*”. Strax efter har han sin tredje separatutställning på Moderna Museet. Den heter ”*Vargens Öga*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/189.png)
+![](https://www.rolfborjlind.com/img/189.png)
 
 ::: poem
 **På den åttonde dagen**
@@ -882,7 +882,7 @@ Under arbetet med Papphammar har Carsten haft en separatutställning i Västtysk
 **Tills ögat, förundrat, spetsades på universums rop.**
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/190.png)
+![](https://www.rolfborjlind.com/img/190.png)
 
 I katalogen citerar Carsten en bit av feelgoodprofeten Celine:
 
@@ -890,7 +890,7 @@ I katalogen citerar Carsten en bit av feelgoodprofeten Celine:
 
 I samband med utställningen gör vi en multimediaföreställning på Moderna Museet med namnet ”*Gateway*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/191.png)
+![](https://www.rolfborjlind.com/img/191.png)
 
 Det är första gången vi framträder med gruppen. Tidigare har vi gjort den långa Korvlåten, nu ska vi göra ett scenframträdande.
 ::: indent
@@ -925,7 +925,7 @@ Medverkande är Carsten, jag själv, Stefan Nilsson och Malla. I föreställning
 
 Fotnot: Det finns varelser på andra sidan jorden som också gillar Gateway:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/239.jpeg)
+![](https://www.rolfborjlind.com/img/239.jpeg)
 
 ::: part
 :::

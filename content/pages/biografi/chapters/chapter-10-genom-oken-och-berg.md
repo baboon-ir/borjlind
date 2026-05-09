@@ -602,7 +602,7 @@ Men det var här det skedde.
 Kan vi bocka av det.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/188.jpg)
+![](https://www.rolfborjlind.com/img/188.jpg)
 <!-- PAGE 104 END -->
 
 <!-- PAGE 105 START -->
@@ -672,7 +672,7 @@ Jag somnar direkt och drömmer om Wyatt Earps vackra, tredje fru, Josephine Earp
 Det sista vi gör i Tombstone är att ta ett fotografi. På riktigt. Vi går in i en fotoateljé på Allen St och tar en porträttbild.
 
 ![We were so much older then
-We are younger than that now.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/311.png)
+We are younger than that now.](https://www.rolfborjlind.com/img/311.png)
 <!-- PAGE 105 END -->
 
 <!-- PAGE 106 START -->

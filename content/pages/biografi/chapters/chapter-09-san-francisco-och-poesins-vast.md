@@ -577,7 +577,7 @@ Men en briljant översättare.
 Bruno och jag glider över Golden Gate-bron och lämnar San Fransisco. Det är onsdagen den 26 juli. Bilen är en Plymouth Volare Stationwagon -77. Vi döper den till Silverkungen.
 :::
 
-![Silverkungen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/314.png)
+![Silverkungen.](https://www.rolfborjlind.com/img/314.png)
 
 Det är gott om utrymme. Fantastisk luftkonditionering. Perfekt radio som dånar ut rockmusik. Samma dag som vi sticker har Stones sin avskedskonsert i San Francisco. Mick Jagger fyller 34 år, radion kör ett hyllningsprogram i 90 minuter.
 ::: indent

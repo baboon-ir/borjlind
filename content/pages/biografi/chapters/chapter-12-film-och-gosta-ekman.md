@@ -458,7 +458,7 @@ Vi åker till New York.
 Serien spelas in på plats under tre veckor. Medverkar gör bl.a gatuteatergruppen Squad, poeterna Allen Ginsberg och Anne Waldman, filmarna John Douglas, de`Antonio och Jack Churchill, konstnärerna Peter Åström och Mihail, musikerna Staffan Scheja och Jojje Wadenius, skådisen Kjell Bergqvist samt ett stort antal kulturarbetare i New York.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/131.png)
+![](https://www.rolfborjlind.com/img/131.png)
 
 Minne från inspelningen 1: Vi ska besöka en klinik där man behandlar drogberoende. Kliniken ligger på en mörk bakgata i Bronx. Vi öppnar dörren och kommer in ett svagt upplyst rum, det luktar instängt. När ögonen har vant sig ser vi ett antal storvuxna män sittande på låga bänkar runt väggarna med nakna överkroppar. Alla är svarta. Alla har höga, svajande nålar i svålen. Rakt upp ur huvudet. Det är fullkomligt tyst. Det är en mycket bisarr scen. Det tar en stund innan vi får klart för oss att drogbehandlingen innefattar akupunktur.
 
@@ -486,7 +486,7 @@ Den som väcker mig har en djurmask över ansiktet och säger att tiden är ute.
 
 Konstnären Peter Tillberg har gjort en lysande målning som illustrerar var roten till det onda börjar:
 
-![Är du lönsam, lille vän?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/296.png)
+![Är du lönsam, lille vän?](https://www.rolfborjlind.com/img/296.png)
 
 ::: part
 :::
@@ -574,14 +574,14 @@ Jag använder henne senare i en Beckfilm, “*Pensionat Pärlan*”, där Beck o
 
 I mars det här året gör Carsten och jag tre multimediaföreställningar på Moderna Museet under namnet ”*Panik*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/134.png)
+![](https://www.rolfborjlind.com/img/134.png)
 
 Varje föreställning inleds med att Carsten, i elegant svart frack och vit halsduk, avlossar en k-pistsalva över publiken (inga kulor, bara tomskott). Under drygt en timme varvar vi musik, film, manifest och poesi.
 ::: indent
 Ur innehållet: Jag framför ”*Råttor av glas*” - monologen som nekrolog. Carsten visar kortfilmen ”*Love is a mystery*”. Stefan Nilsson improviserar på flygel över temat ”*Stilla natt, heliga natt*”. Bruno K framför texter ur sin nya diktsamling ”*Spelarens sten*”. Allt integreras till en surrealistisk blandning av mörker och dov frånvaro.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/144.png)
+![](https://www.rolfborjlind.com/img/144.png)
 <!-- PAGE 128 END -->
 
 <!-- PAGE 129 START -->
@@ -712,7 +712,7 @@ Möjligen med ”inspiration” från den dikten skriver jag strax efter min fö
 Mystisk metafor.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/295.jpeg)
+![](https://www.rolfborjlind.com/img/295.jpeg)
 
 ::: part
 :::
@@ -816,11 +816,11 @@ Upplyftande.
 Arbetet sker tillsammans med Lars Ragnar Forssberg och Stefan Nilsson. Vi bryter ner Hughes fantastiska diktsvit till scener, monologer, musik, körer. En helaftonsföreställning i 3 akter: *Födelsen*, *Livet* och *Döden.* Lindblom avser att sätta upp verket på Dramaten. Carsten skapar en symbol till projektet.
 :::
 
-![Truth Kills Everybody.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/138.png)
+![Truth Kills Everybody.](https://www.rolfborjlind.com/img/138.png)
 
 Och två skisser till huvudrollen:
 
-![Kråka.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/145.png)
+![Kråka.](https://www.rolfborjlind.com/img/145.png)
 <!-- PAGE 132 END -->
 
 <!-- PAGE 133 START -->
@@ -1189,11 +1189,11 @@ Om några år ska en annan begåvad man mördas på öppen gata.
 
 Carsten börjar det här året, 1980, med att ge ut en konstbok, ”*LUPUS ULTRA*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/170.png)
+![](https://www.rolfborjlind.com/img/170.png)
 
 Det är en översikt av hans konstnärliga verksamhet så här långt. En generös och mäktig bok i mycket stort format, garnerad med vackra målningar.
 
-![The End.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/188A.png)
+![The End.](https://www.rolfborjlind.com/img/188A.png)
 
 Konstintendenten Ulf Linde skriver ett intressant förord med rubriken ”*Det Omognas Strategi*”:
 
@@ -1216,7 +1216,7 @@ Sista sidan i boken täcks av ett av Carstens favoritcitat, av Leonardo da Vinci
 **Latriner efter sig.**
 :::
 
-![I begynnelsen skalade Gud en banan.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/82.png)
+![I begynnelsen skalade Gud en banan.](https://www.rolfborjlind.com/img/82.png)
 
 ::: part
 :::
@@ -1232,9 +1232,9 @@ Några privata ord om Carstens måleri: Han arbetar konsekvent med symboler, ett
 
 Carstens visuella uppfinningsrikedom smittar också av sig på hans generationskamrater:
 
-![Frimärken. Carsten Regild. 1975.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1000.png)
+![Frimärken. Carsten Regild. 1975.](https://www.rolfborjlind.com/img/1000.png)
 
-![Frimärken. Jan Håfström. 2011.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1001.png)
+![Frimärken. Jan Håfström. 2011.](https://www.rolfborjlind.com/img/1001.png)
 
 Jag har precis kommit ut ur duschen på Skarpö, otorkad, när Tove sträcker över telefonen.
 ::: indent

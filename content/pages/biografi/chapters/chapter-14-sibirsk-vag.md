@@ -39,7 +39,7 @@ Carsten och jag försöker utveckla begreppet multimedia,  dvs en form där olik
 Musik, poesi, film, drama, gestaltning.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/298.jpg)
+![](https://www.rolfborjlind.com/img/298.jpg)
 
 ::: part
 :::
@@ -84,7 +84,7 @@ Föreställningen öppnar med en prolog av den heltatuerade kroppspoeten Lars We
 ::: part
 :::
 
-![Wellströms julpussel.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/193.png)
+![Wellströms julpussel.](https://www.rolfborjlind.com/img/193.png)
 
 Mer ur föreställningen: Stefan Nilsson framför ett eget stycke på piano som heter ”*Tribute to Ferlin*”. En bit in i musiken stiger spridda körröster upp ur salongen - Leif Strand Kammarkör sitter utplacerade i den stora publiken och fullföljer Stefans pianoverk.
 ::: indent
@@ -174,7 +174,7 @@ Och jag minns:
 
 Samtidigt har Carsten en utställning på Galleri Engström i Stockholm: *”333/207”*.
 
-![Jorum Njetta.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/194.png)
+![Jorum Njetta.](https://www.rolfborjlind.com/img/194.png)
 
 Jag skriver en text till katalogen som handlar om Carstens och min privata resa (så här långt):
 
@@ -225,7 +225,7 @@ Bit den hand.
 
 Det här året skriver jag också ett filmmanus som heter “*Kalabaliken i Bender*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/261.jpeg)
+![](https://www.rolfborjlind.com/img/261.jpeg)
 <!-- PAGE 158 END -->
 
 <!-- PAGE 159 START -->
@@ -536,7 +536,7 @@ Och är så än idag.
 Det är en redaktör på Federativs Förlag som ringer. Dom vill ge ut en bok med mina satiriska texter. En antologi. Den ska täcka dom senaste sju åren och få namnet ”*s.k. satir*”. På förekommen anledning.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/196.png)
+![](https://www.rolfborjlind.com/img/196.png)
 
 Jag skriver ett kort förord:
 
@@ -556,7 +556,7 @@ Ord och inga visor.
 <!-- PAGE 163 START -->
 Så har Carsten en ny utställning på Galleri Engström. Den heter “*Nofretete*”. Galleriet drivs av Göran Engström, en ljuvlig människa, en renässanspilot med äkta smak för det gränslösa, det tidlösa och det nya. Han är den förste som visar David Hockney i Sverige, på 70-talet. Carsten trivs med honom.
 
-![Vargens hjärta.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/197.png)
+![Vargens hjärta.](https://www.rolfborjlind.com/img/197.png)
 
 Jag bidrar med en kort text till katalogen: “*When future became history*”:
 

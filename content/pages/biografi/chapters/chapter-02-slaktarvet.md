@@ -36,14 +36,14 @@ Strössla med lakonismer? Gärna.
 Så långt möjligt ska jag belägga det jag redovisar. Mitt privata arkiv är, som sagt, tämligen omfattande. Slår minnet fel får det korrigeras i efterhand, alla har luckor (den som minns sextitalet var inte med, typ).
 :::
 
-![Pssst… I'm on fire](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/500.jpg)
+![Pssst… I'm on fire](https://www.rolfborjlind.com/img/500.jpg)
 
 Att lägga ut min berättelse digitalt, öppet för den som vill ta del av det, gör också att jag slipper förhålla mig till balansen mellan privat och ”allmängiltigt”, vad som är intressant för vem (vilket jag ändå aldrig kan spekulera i). Det jag väljer att berätta är det jag vill förmedla, är det ointressant är det bara att scrolla eller klicka bort, kostnadsfritt.
 ::: indent
 Eller enkelt uttryckt: take it or leave it.
 :::
 
-![CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/52.png)
+![CR.](https://www.rolfborjlind.com/img/52.png)
 
 ::: poem
 **Tre år innan jag föds tappar nazisterna en bomb i Slottsparken i Malmö.**
@@ -55,7 +55,7 @@ Eller enkelt uttryckt: take it or leave it.
 **Bågen mellan då och nu är min berättelse.**
 :::
 
-![Livet är obeskrivligt roligt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/1.png)
+![Livet är obeskrivligt roligt.](https://www.rolfborjlind.com/img/1.png)
 <!-- PAGE 4 END -->
 
 <!-- PAGE 5 START -->
@@ -63,7 +63,7 @@ Eller enkelt uttryckt: take it or leave it.
 :::
 Jag föds i oktober 1943 i Västra Skrävlinge. En församling i Malmö med ett roligt namn. Zlatan föds där 38 år senare. Jag döps till Rolf Sigvard.
 
-![Som barn kan jag se mycket oskyldig ut.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/2.png)
+![Som barn kan jag se mycket oskyldig ut.](https://www.rolfborjlind.com/img/2.png)
 
 Min morfar är sjöman och har tatuerade armar. Han heter Ernst. När han mönstrar av blir han arborrare på Kockums varv i Malmö och över tid en känd numismatiker. Vid ett specialbeställt inbrott i hans lägenhet stjäls alla godbitarna ur hans myntsamling.
 ::: indent
@@ -82,7 +82,7 @@ Det är spännande.
 Mormor ligger delvis i dunkel. Hon heter Beatha och är dotter till en välbärgad skånsk bonde. Hennes gråa hår är prydligt uppsatt med tunna, bruna nålar, ansiktet är runt och vänligt. Hemmet är alltid välstädat. Över soffan i vardagsrummet hänger en guldinramad variant av ungraren Charles Rokas målning ”*Zigenarflickan*”, en ung kvinna med yppiga och blottade bröst.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/323.png)
+![](https://www.rolfborjlind.com/img/323.png)
 
 Ett, kan det tyckas, ekivokt motiv i det för övrigt mycket prudentliga hemmet, eventuellt en relikt från morfars sjömansår.
 ::: indent
@@ -93,7 +93,7 @@ Minne av mormor: Hon luktar nybakta bullar.
 Ernst och Beatha får två döttrar som blir mödrar till Happy Cousins - min kusin Carsten och mig.
 :::
 
-![Kusin Carsten & Kusin Jag](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/244.png)
+![Kusin Carsten & Kusin Jag](https://www.rolfborjlind.com/img/244.png)
 
 Farmor och farfar bor i kvarteret Korpen, en bit från Triangeln i Malmö. Det är ett fattigt och nergånget område med stark proletär aura. Bo Widerberg har fångat den bra i sin film med samma namn.
 ::: indent
@@ -121,14 +121,14 @@ Sen många år använder jag namnet ”Månsson” när jag beställer bord elle
 
 Farfar Nils är en mycket excentrisk man som promenerar runt i Malmö iförd stor slokhatt och röd fladdrande halsduk. Hans begivenhet på starka drycker gör att många av hans vackra möbler hamnar som betalning på olika krogar i staden. Inte mycket rinner tillbaka till Emma och de nio barnen.
 
-![Upphovsmannen.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/5.png)
+![Upphovsmannen.](https://www.rolfborjlind.com/img/5.png)
 
 En gång lämnar han hemmet utan ett ord och återvänder åtskilliga månader senare med en liten torkad Edelweiss. Den är till Emma. Han har fotvandrat till Engadin i Alperna, plockat blomman och snidat en vacker svart ram till den.
 ::: indent
 Farmor hänger tavlan ovanför sin säng.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/308.jpg)
+![](https://www.rolfborjlind.com/img/308.jpg)
 
 Farfar avlider efter ett onyktert fall i källartrappan när jag är tre år.
 ::: indent

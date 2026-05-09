@@ -3,7 +3,7 @@
 <!-- PAGE 56 START -->
 Vår nästa kulturaktion är inspirerad av den förste existentialisten, Friedrich Nietzsche, och hans uttryck “*Sjukdom är till salu*”. Under en balettföreställning i Blå Hallen av gruppen Nordstjernan kastar vi ut 500 kondoleanskort från balkongen (som vi har tryck upp hos Carsten).
 
-![Formen är budskapet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/83.png)
+![Formen är budskapet.](https://www.rolfborjlind.com/img/83.png)
 
 Ett intressant inslag i baletten är ett stort antal sköldpaddor som extremt långsamt rör sig över golvet med små tända lampor på sköldarna.
 ::: indent
@@ -36,7 +36,7 @@ Minne från Ekskogen 3: I en del av lanthandels undervåning bor ett par med ett
 
 ”Jag var tretton när det hände, vi kom på besök till farmors gård i Uppland med mamma och pappa, dom drack sig fulla och började bråka och till slut gick farmor ut, hon orkade inte vara kvar, hon visste att nyckelknippan skulle komma fram igen, att dom skulle ta ut det på mig, hon orkade inte se det ... när knippan kom hann jag undan för att dom var så fulla och sprang ut för att hämta farmor. Jag hittade henne i ladan, hon hängde i ett rep från nån takbjälke, jag försökte hämta mamma och pappa men dom var aspackade så jag gick tillbaka och tog ner farmor själv och la henne på jordgolvet i ladan ... sen satt jag hos henne i flera timmar i mörkret och bara grina … jag älskade farmor.”
 
-![Ångesten är ondskans moder och våldet är det vilsna barnets rop på hjälp.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/182.png)
+![Ångesten är ondskans moder och våldet är det vilsna barnets rop på hjälp.](https://www.rolfborjlind.com/img/182.png)
 
 I vår första kriminalroman, “*Springfloden*”, låter vi en av karaktärerna, Enögda Vera, berätta historien som sin egen.
 
@@ -48,7 +48,7 @@ I vår första kriminalroman, “*Springfloden*”, låter vi en av karaktärern
 <!-- PAGE 57 START -->
 Moderna Museet återinvigs 7 november 1975, efter en omfattande till- och ombyggnad. Carsten och jag ska svara för en av de tre utställningar som ska manifestera invigningen. Vi har presenterat vårt projekt i Vargen nummer 7 (som också blir vår katalog). Vi kallar utställningen för ”*TAG PLATS - DÖRRARNA STÄNGS*”.
 
-![Logotype.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/84.png)
+![Logotype.](https://www.rolfborjlind.com/img/84.png)
 
 Den består av fem delar, uppdelade på fem rum.
 ::: indent
@@ -60,29 +60,29 @@ Den andra delen är ett videorum. Här visas nonstop videos av in- och utländsk
 Den tredje delen är en internationell idébank, ett kartotek där kulturarbetare från fem världsdelar presenterar idéer, projekt, utkast, skisser. Ett resultat av vårt kedjebrev i Vargen nummer 4. Deras material finns tillgängligt i namngivna pärmar för besökarna (ett kartotek som tyvärr senare ”förskingras” av museets personal av oklara orsaker).
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/85.png)
+![](https://www.rolfborjlind.com/img/85.png)
 
 Den fjärde delen är en realistiskt uppbyggd ”tunnelbanestation” med perronger, originalräls, syllar, makadam och en repeterande röst i högtalaren som påminner om att dörrarna stängs.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/86.png)
+![](https://www.rolfborjlind.com/img/86.png)
 
-![Tag plats, dörrarna stängs.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/87.png)
+![Tag plats, dörrarna stängs.](https://www.rolfborjlind.com/img/87.png)
 
 På stationens ”affischplatser” hänger tio bilder som Carsten och jag har skapat, i formatet 5 x 2,5 meter. Tanken är att visa hur t-banans informationsutbud skulle kunna utformas om andra än rent kommersiella intressen producerade informationen (Carsten har redan prövat det i sitt projekt *”Instant Art”*). Affischerna görs direkt på plats på museet inom loppet av 14 dagar. Den flyktiga, skissartade karaktären speglar informationens omsättningshastighet i en tänkt ”t-banetidning”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/88.png)
+![](https://www.rolfborjlind.com/img/88.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/89.png)
+![](https://www.rolfborjlind.com/img/89.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/90.png)
+![](https://www.rolfborjlind.com/img/90.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/91.png)
+![](https://www.rolfborjlind.com/img/91.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/92.png)
+![](https://www.rolfborjlind.com/img/92.png)
 
 Carsten kopierar konstnären Malevitj berömda svarta kvadrat och klipper upp den i 27 pusselbitar, bokstaverade från A till Ö. Jag sätter en text under.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/179.png)
+![](https://www.rolfborjlind.com/img/179.png)
 
 En annan av affischerna kommenterar barnets situation i samhället:
 <!-- PAGE 57 END -->
@@ -103,11 +103,11 @@ Han har påfallande sönderrökt röst och diamantblanka ögon. Jag upplever att
 Annan affisch: Carsten hänger upp en stor burk fylld med vit färg i ett snöre i taket, gör hål i botten på burken och sätter den i rotation. Virveln skapar sig själv över det enorma svarta pappret: ”Framtiden tillhör dom som erövrar den.”
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/178.png)
+![](https://www.rolfborjlind.com/img/178.png)
 
 Den femte delen i vår utställning äger rum i museets biosalong. Där uppför vi tre Vargkabaréer, tre på varann följande söndagar. Förebilden är dadaisternas *”Cabaret Voltaire”*.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/245.png)
+![](https://www.rolfborjlind.com/img/245.png)
 
 Den startas 1916 i Zürich av konstnären Hugo Ball och hans hustru Emmy Hennings. Varje kabaré är ett sällsynt sammelsurium. Människor i groteska ansiktsmasker utför okontrollerade danser, poeter läser simultandikter ackompanjerade av olika slaginstrument, konstnärer går runt med sina senaste tavlor på scenen, allt händer på en och samma gång. Ett magnifikt kaos, multimedia i dess prydno.
 ::: indent
@@ -126,9 +126,9 @@ För att nämna ett axplock.
 I den första kabarén uppträder bland annat jag själv, Carsten, pianisten Stefan Nilsson och poeten Bruno K. Öijer.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/94.png)
+![](https://www.rolfborjlind.com/img/94.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/95.png)
+![](https://www.rolfborjlind.com/img/95.png)
 
 Jag gör entré i rullstol. Texten jag framför heter “*Vem kan tatuera ett telefonnummer över min skräck?*”. Delar av föreställningen filmas av Johan Donner och sänds i SVT med titeln “*Att leva är att dö en smula*”.
 
@@ -141,15 +141,15 @@ När vår utställningen är slut producerar Moderna Museet en konstportfölj.
 <!-- PAGE 58 END -->
 
 <!-- PAGE 59 START -->
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/98.png)
+![](https://www.rolfborjlind.com/img/98.png)
 
 Den innehåller 10 grafiska tryck av våra affischer på ”tunnelbanan”. Ett av dom ser ut så här.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/99.png)
+![](https://www.rolfborjlind.com/img/99.png)
 
 Ulf Linde skriver ett engagerat förord till portföljen.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/100.png)
+![](https://www.rolfborjlind.com/img/100.png)
 
 Som sagt, mycket är vunnet när fusket blir skrattretande. Som ett eko genom konsthistorien.
 
@@ -160,7 +160,7 @@ Senare samma år har Carsten och jag vår första utställning på Galleri S:t P
 
 **”Måla upp bifogade kondoleanskort”** ***Sjukdom är till salu*** **” i formatet 3 x 2 meter på den vänstra väggen. Fyll bifogade svarta plastsäckar (mer eller mindre) med valfritt innehåll. Placera ut efter gottfinnande (se skiss).”**
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/243.png)
+![](https://www.rolfborjlind.com/img/243.png)
 
 Fotnot: Förlaget Bakhåll ger 2014 ut en bok av Jean Sellem, “*Sweden today*”. Den innehåller 1000 helsvarta sidor och uppges vara resultatet av Sellems forskning kring det kulturella läget i nationen.
 ::: indent
@@ -183,7 +183,7 @@ Allt är möjligt, det omöjliga är en lögn.
 <!-- PAGE 60 START -->
 Parallellt med inspelningen skriver jag en text till stenciltidskriften Guru Papers, en av de viktigaste pamflettbladen i skuggan av Vargen. Tidskriften har det uppfriskande mottot: ”*Spräng den förbannade kultureliten!*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/162.png)
+![](https://www.rolfborjlind.com/img/162.png)
 
 Det nummer jag medverkar i är utarbetat av poeterna Per-Erik Söder och Bruno K. Öijer och inleds med: “*Detta är vårt sista nr. Vi ses aldrig mer. Lyckligtvis.*” Själv levererar jag en ganska personlig reflektion.
 
@@ -212,7 +212,7 @@ Men föraktet eskalerar och kommer att kulminera i en gigantisk manifestation i 
 Det är ingenting som berör mig. Just då. Den politiska scenen är fortfarande en del av det jag föraktar. Demokrati? Absolut. Men jag har aldrig röstat på nåt parti, helt enkelt för att inget parti skulle rösta på mig. Jag är utanför det spelet (som Myrdal skrev). Den svarta stjärnan. Den romantiska vurmen för det utopiska, flörten med anarkismen. Jag behåller gärna den känslan ett tag till.
 :::
 
-![För att få efterföljare måste du springa snabbare än dom andra.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/169.png)
+![För att få efterföljare måste du springa snabbare än dom andra.](https://www.rolfborjlind.com/img/169.png)
 
 ::: part
 :::
@@ -233,7 +233,7 @@ Jag borde också ha lärt mig lite mer om att leva familjeliv. Mitt vulkaniska b
 Men jag får den, av Tove.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/101.png)
+![](https://www.rolfborjlind.com/img/101.png)
 
 ::: part
 :::
@@ -256,7 +256,7 @@ En del reser sig och går ut.
 
 Carsten och jag fortsätter till Lund. Vi har vår andra utställning på Galleri Sellem. Vi kallar den ”*Räkna de lyckliga stunderna blott*”. Vi köper bland annat en grå rullgardin och kopierar några svartvita objekt på den.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/142.png)
+![](https://www.rolfborjlind.com/img/142.png)
 
 2019 läggs gardinen ut på Bukowskis onlineauktion - trots ett mycket facilt pris förblir den osåld.
 ::: indent
@@ -299,7 +299,7 @@ Men arkivet blir aldrig av.
 
 Parallellt med mitt dokumentärfilmande i Venedig gör Carsten sin första videoshow på Moderna Museet. Den heter ”*Sista Skriket*” (en titel som ska återkomma på många företeelser framöver) och äger rum i Bion. Carsten har byggt en trälabyrint i form av en stiliserad hjärna. I den bisarra labyrinten springer två vita möss runt. Deras irrande projiceras på salongens stora duk. Showen pågår i 8 timmar.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/143.png)
+![](https://www.rolfborjlind.com/img/143.png)
 
 ::: part
 :::
@@ -386,7 +386,7 @@ Effekt 2: Mitt satirskrivande flödar igång och kulminerar i ett åtal av stats
 Effekt 3: Jag inleder ett intimt samarbete med Gösta Ekman som ska pågå i över ett decennium.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/102.png)
+![](https://www.rolfborjlind.com/img/102.png)
 
 ::: part
 :::
@@ -527,7 +527,7 @@ Ett stående inslag i varje program är två gestalter som rätt och slätt kall
 Kabaré Öppen Kanal läggs ner av Sveriges Radio i slutet på våren.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/301.png)
+![](https://www.rolfborjlind.com/img/301.png)
 
 Förmodligen har mängden radioanmälningar (27 stycken) tärt på tålamodet. Kanske har brev som det här från högerpolitikern och riksdagsmannen Anders Björck till radiochefen Otto Nordensköld bidragit till beslutet:
 
@@ -548,11 +548,11 @@ Kanske skulle Björcks egna ord till Carl Lidbom i konstitutionsutskottet klinga
 <!-- PAGE 67 START -->
 Satiren har rullat igång. Min talang när det gäller förlöjligandets ädla konst (en gåva från dadaisterna) sprider sig. Jag kontaktas av SVT för att tillsammans med reportern och författaren Lars-Ragnar Forssberg skriva texter till fem satirprogram som ska heta “*Kabaré Öppen Final*”(inte speciellt originellt, men ändå). Vi får göra tre av programmen innan vårt kontrakt bryts. Anledningen kan vara flera. Kanske för att vi visar den nyfödda prinsessan Victorias dop upp och ner? Kanske för att vi visar brösten som ammar den nyfödda? Kanske för att vi tittar in i framtiden och låter Sten Ljunggren uppträda som drottning Victoria, lyckligt gift med en shejk sen hon nobbat en svart man som Palme utsett som gemål? Eller för att jag själv uppträder som tv-presentatör med två blågula flaggor utstickande ur öronen?
 
-![Och nu över till vädret.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/167.png)
+![Och nu över till vädret.](https://www.rolfborjlind.com/img/167.png)
 
 Eller för att vi presenterar en kunglig oäkting som kräver att bli regent före Victoria, Knut Bengtsson från Tranås, ”*Kung Knut*” kallad.
 
-![Kung Knut.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/168.png)
+![Kung Knut.](https://www.rolfborjlind.com/img/168.png)
 
 Jag vet inte.
 ::: indent
@@ -571,7 +571,7 @@ Uppenbarligen är det lätt att stöta sig med det svenska folket, eller delar a
 
 Men innan dess skriver jag min tredje bok, en experimentell bildtextroman med titeln *”Persona Non Grata”*.  Undertiteln är “*Romanen som process*”.
 
-![varför skulle jag förneka det vackra inom mig bara för att det är bestialiskt](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/103.png)
+![varför skulle jag förneka det vackra inom mig bara för att det är bestialiskt](https://www.rolfborjlind.com/img/103.png)
 
 Boken är i lp-format (efter modell från vår Londonbok). På sista insidan ligger en vinylskiva. På skivan läser jag en egen text som spelas in i elektronmusikstudion Fylkingen och ackompanjeras av musikern Sten Hansson: ”*Dina fotspår utplånas framför dig*.”
 
@@ -622,7 +622,7 @@ Boken är en enda lång, manisk uttömning, en febrig semantisk syndaflod. Uttry
 
 **”Texten är som om författaren matat en atombomb med essensen från modernistiska hjärnor och låtit den krevera i en självskrivande dator - associationerna tar aldrig slut, reaktionerna löper fram över sidorna i ett språk som förintar, utplånar sig själv. Läsaren är helt utlämnad. På en enda sida hinner Börjlind riva ner alla begrepp och normer som man överhuvudtaget orkat bygga upp: ”Jag orkar inte hålla fast allt det jag benämner.” Som blåste man ut väggarna i ett hus: där står en och duschar, en annan sitter på dass,  en tredje ligger på sängen och masturberar och en liten flicka gråter ner i läxboken. Konfrontationen blir total. I boken finns också en vacker bild på Friedrich Nietzsches dödsmask.**
 
-![Sjukdom är till salu.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/132.png)
+![Sjukdom är till salu.](https://www.rolfborjlind.com/img/132.png)
 
 **Nietzsche gick loss på Västerlandets hela system av moral och försökte riva ner det så gott han kunde med sin filosofiska slägga och lyckades väl ganska bra med det. Börjlind i sin tur går omkring i dom rykande ruinerna efter tysken, på gott och ont. Han hittar bland spillrorna ett trasigt och misshandlat begrepp här och ett där och han plockar upp dom för en granskning. Sen samlar han ihop bråten i en hög, häller bensin på hela rasket och tänder på. Hela hans textmassa är ett referat från anarkisternas krigsdans runt detta moraliska bål.”**
 
@@ -632,7 +632,7 @@ Det finns andra omdömen: ”*En verbal diarré av sällan skådat slag*” är 
 <!-- PAGE 69 START -->
 Ett slumpvis fotosnitt ur boken:
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/303.jpg)
+![](https://www.rolfborjlind.com/img/303.jpg)
 
 På andra ställen i boken är språket sorgset och sökande:
 
@@ -663,11 +663,11 @@ Droppvis kommer gåtfulla syner:
 
 **”... ur sitt glittrande strupformade svarta hål väver spindeln sina grymma logaritmer, tråd för tråd till ett åderverk av bestialiska uppdrag ... med en obekymrad sekund kvar av ett fritt liv svävar insekten in i slakthuset ... sakta gungar spindeln fram mot den feta uppsvällda nattfjärilen, trådarna vaggar rytmiskt i takt med vingarnas sjungande dödsångest, målmedvetet griper det krälande djuret sitt pulserande offer och punkterar buken med sina välslipade knivar, ljudlöst äter sig den ludna hungern in i kroppen ... några få färglösa droppar slår i golvet som helgmålsringningar ...”**
 
-![I varje regnbåge pekar jag ut svart.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/104.png)
+![I varje regnbåge pekar jag ut svart.](https://www.rolfborjlind.com/img/104.png)
 
 Fotot av mig i boken föranleder en upprörd kritiker att förklara hela boken som en enda lång herointripp: ”*Det mest uppenbara beviset är Börjlinds egna ögon! Sjuka ögon!*” Sanningen är att en begåvad tv-maskör, Elisabeth Ekman, har målat ”ögon“ på mina slutna ögonlock. Vi ser det vi vill se och blundar oss in i glömskan.
 
-![det är inte dom utslagna som ska in i samhället det är dom inslagna som ska ut](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/156.png)
+![det är inte dom utslagna som ska in i samhället det är dom inslagna som ska ut](https://www.rolfborjlind.com/img/156.png)
 
 ::: part
 :::
@@ -686,7 +686,7 @@ Det är en kvinna som säger det. Hon heter Monica Nieckels och är intendent p�
 Den 15 oktober är det vernissage. Utställningen är delvis inspirerad av amerikanen Edward Kienholtz makabra miljöinstallationer. Jag har tillägnat den ”*byfånarna, som fyller förväntningarna med fisk*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/186.jpg)
+![](https://www.rolfborjlind.com/img/186.jpg)
 
 I inbjudan till utställningen skriver museet: ”*Den svenska skräckkammaren gestaltad i fem psykiska och fysiska miljöer. Ljud, ljus, lukt, film, video. Följ ankarkättingen från framsidan.*”
 ::: indent
@@ -711,9 +711,9 @@ Längs väggarna ligger ”kroppar” insvepta i svart plast.
 
 I ett av rummen täcker jag golvet med gnistrande stålskivor lagda på tegelstenar. På väggarna hänger långa selar med brinnande värmeljus. I högtalare hörs dova hjärtslag. Fyra blå polissirener sitter i takhörnen. Mitt i rummet placerar jag en kuvös. I kuvösen ligger ett naket spädbarn, ett tickande tidtagarur och en levande liten boaorm som snirklar runt barnet.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/106.png)
+![](https://www.rolfborjlind.com/img/106.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/107.png)
+![](https://www.rolfborjlind.com/img/107.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/108.png)
+![](https://www.rolfborjlind.com/img/108.png)
 <!-- PAGE 70 END -->

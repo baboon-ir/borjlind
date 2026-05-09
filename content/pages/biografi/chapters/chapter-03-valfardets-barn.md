@@ -199,7 +199,7 @@ Idag är Den Osynlige försvunnen. Eventuellt dyker han upp i livets slutskede, 
 
 Sverige är ett rikt och välskött land vid den här tiden. Vår utrikespolitiska servilitet under krigsåren har skapat ett unikt läge i Europa. Näringslivet blomstrar och välfärden skjuter i höjden. Familjerna skaffar tv, fäderna tittar på fotboll, hemmafruarna lyssnar på Lily Berglunds pekoral ”*Vad tar ni för valpen där i fönstret?*”
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/6.png)
+![](https://www.rolfborjlind.com/img/6.png)
 <!-- PAGE 10 END -->
 
 <!-- PAGE 11 START -->
@@ -294,7 +294,7 @@ En stor blå teddybjörn.
 Jag får ihop till en björn efter flera timmar och ger den till min lillasyster Christina på julafton.
 :::
 
-![Osvedd nallebjörn.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/7.png)
+![Osvedd nallebjörn.](https://www.rolfborjlind.com/img/7.png)
 
 På kvällen kommer björnen för nära dom levande ljusen i granen och blir totalt söndersvedd. En svartsolkig garnkropp är allt som blir kvar.
 ::: indent
@@ -395,7 +395,7 @@ Etyder utan vikt, men jag smakar på orden, jag prövar dom verbala vingarna. Ja
 Jag sätter också in titeln ”Författare” i telefonkatalogen, vilket provocerar mina föräldrar oerhört. När jag visar dom att jag är omnämnd redan i Strindbergs klassiker ”*Hemsöborna*” skakar dom på huvudet.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/320.png)
+![](https://www.rolfborjlind.com/img/320.png)
 
 Mitt första dadaistiska infall.
 ::: indent
@@ -538,7 +538,7 @@ Jag kliver ut i offentligheten den nittonde april 1964. En söndag. Då publicer
 En märklig profetia, med facit i hand.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/8.jpg)
+![](https://www.rolfborjlind.com/img/8.jpg)
 
 DN har anordnat en skrivtävling för gymnasieelever över hela Sverige under namnet ”*Ung Profil*”. Tidningen har ställt sex frågor som ska besvaras efter eget gottfinnande. De tio bästa resultaten belönas med en resa till San Remo. Fyra av mina svar publiceras på förstasidan och vittnar om en obefintlig rädsla för begreppet pretentiös. Jag blir en av tio ”vinnare”.
 ::: indent
@@ -573,7 +573,7 @@ Det är en svår tid.
 **alla saknar frimärke**
 :::
 
-![Mediterande filosof. Beskuren. Rembrandt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/149.png)
+![Mediterande filosof. Beskuren. Rembrandt.](https://www.rolfborjlind.com/img/149.png)
 <!-- PAGE 16 END -->
 
 <!-- PAGE 17 START -->
@@ -729,7 +729,7 @@ Vilket det gör, visar det sig (då har jag ändå inte nämnt dom dresserade fl
 <!-- PAGE 19 END -->
 
 <!-- PAGE 20 START -->
-![När börjar dansen?!](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/9.png)
+![När börjar dansen?!](https://www.rolfborjlind.com/img/9.png)
 
 Jag gör ett kort gästspel som vikarierande lärare i Bodals skola på Lidingö. Långt hår, utsvängda fiskbensmönstrade byxor och boots, tämligen olik dom andra i kollegierummet. Min undervisningsteknik går ut på frihet under ansvar.
 ::: indent
@@ -747,7 +747,7 @@ Det vi kommer att kalla multimedia.
 Artikeln illustreras av en bild-ljud-dikt ur poeten Åke Hodells diktsamling ”*General Bussig*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/148.png)
+![](https://www.rolfborjlind.com/img/148.png)
 
 Minne från journalistutbildningen: Jag bevakar en presskonferens på Hotell Flamingo i Solna med Bob Dylan. Jag har sett honom kvällen innan på Konserthuset. Presskonferensen är outhärdligt pinsam. Ett antal journalister, ledda av reportern Lennart Swahn, försöker ifrågasätta Dylans roll som ”språkrör för en ny generation”. Dylan själv har aldrig påtagit sig den rollen. Han försöker förklara det:
 ::: indent
@@ -784,7 +784,7 @@ Begåvade följeslagare är en ynnest.
 Första minnet av Dylan: Jag sitter i min kompis Ted Ströms pojkrum på Lidingö. Året är 1963. Jag spelar gitarr och han banjo. Vi har en musikgrupp som sjunger covers på Brothers Four och Kingston Trio,  låtar som ”*Tom Doley*”. Brasmusik. Ted rattar in Radio Luxemburg, ”*The Great 208*”, och plötsligt händer det. Betydligt kraftigare än i en Gevaliareklam. En röst sprakar ut i rummet och trollbinder oss. Det är inte orden, inte ens musiken, det är rösten. Dylans.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/324.jpeg)
+![](https://www.rolfborjlind.com/img/324.jpeg)
 
 Han sjunger ”*Blowing in the wind*”, en sång som så småningom förvandlas till just brasmusik. Men nu, i det här ögonblicket, låter hans röst som ingenting vi har hört tidigare och åstadkommer nånting som jag inte kan förklara. Som inför ett konstverk som plötsligt drabbar dig utan att du vet varför. När låten är slut tittar jag på Ted och båda inser att vi förmodligen aldrig mer kommer att sjunga ”*Tom Doley*”.
 ::: indent
@@ -807,7 +807,7 @@ Men det finns ett problem: Jag är inte bara ung. Jag är också utomordentligt 
 ::: part
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/127.png)
+![](https://www.rolfborjlind.com/img/127.png)
 
 Och så drar det igång, ett nytt och livsavgörande kapitel i mitt liv: resan mot min samlade kvarlåtenskap.
 ::: indent
@@ -816,11 +816,11 @@ Eller inte just nu. Det börjar egentligen tre år tidigare i ett skånskt kapel
 <!-- PAGE 21 END -->
 
 <!-- PAGE 22 START -->
-![Självporträtt CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/147.png)
+![Självporträtt CR.](https://www.rolfborjlind.com/img/147.png)
 
 På nattåget tillbaka till Stockholm dricker vi oss fram till ett gemensamt kulturprojekt: Happy Cousins - en författare och en konstnär. Motto: Vi ska inte förändra världen, vi ska förädla den. Projektet ska komma att pågå utan avbrott i nästan trettio år, tills Carsten dör i cancer 1992 - Carsten i rollen som ”Jokern”, jag i rollen som ”Tjuven”.
 
-![Vi tar fram en stämpel med vårt varumärke.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/11.png)
+![Vi tar fram en stämpel med vårt varumärke.](https://www.rolfborjlind.com/img/11.png)
 
 ::: part
 :::
@@ -833,11 +833,11 @@ En förövning.
 Carsten målar senare en tavla han döper till ”*Still Life*”.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/12.png)
+![](https://www.rolfborjlind.com/img/12.png)
 
 Vi är båda berusade av inspiration. Den som flödar mellan oss och den som framtiden erbjuder. Jag hoppar av Journalisthögskolan och Carsten slutar som art director på Gutenberg hus i Köpenhamn - en fast anställning som kostar på att avbryta (Carsten är också gift, med Amis, och har en liten dotter, Johanna). Men vi är totalt fokuserade på att försöka skapa nåt banbrytande. Nåt osett. ”*The sky is the limit*.” Det osedda blir en bildpoesibok i ett unikt format: 32 sidor som är 1 meter gånger 70 centimeter och heter ”*The Mister Ray Balon Sinclaire*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/13.png)
+![](https://www.rolfborjlind.com/img/13.png)
 
 ::: accordion
 **”Det är egentligen inte själva partiklarna som bygger upp honom, jämför helgonen, utan det faktum att han aldrig har vridit sig på ett kors, dvs hängt över deras dubbelsängar och utsatts för körens himmelska hyllning. Medveten om detta har han också kunnat skapa en värld där han osökt kan fälla ut sina vingar; en värld utan partiklar och helgon.**
@@ -853,35 +853,35 @@ Som utvalt offer (vilket måste betraktas som en unik händelse i ditt liv) för
 ---
 ::: part
 :::
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/14.jpg)
+![](https://www.rolfborjlind.com/img/14.jpg)
 
 Vi lämnar boken till Bonniers förlag som tackar nej. Motivet är bokens format. Vi har en viss förståelse för refuseringen och gör om boken i ett mer tryckvänligt format: A4. Det hjälper inte mycket.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/17.png)
+![](https://www.rolfborjlind.com/img/17.png)
 
 Vi ger inte upp utan förvandlar boken till ett ljud/musikverk som vi erbjuder grammofonbolaget Metronome. Även dom tackar nej.
 ::: indent
 Då bestämmer vi oss för att göra en konstutställning av materialet. Vi kompletterar boken med ett antal objekt och har vår första konstutställning på Galleri Maxim 1966 (en lokal i nuvarande Maximtunneln vid Norrmalmstorg).
 :::
 
-![Vernissagekortet](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/18.png)
+![Vernissagekortet](https://www.rolfborjlind.com/img/18.png)
 
 De 32 boksidorna exponeras på väggarna och kompletteras med objekt, målningar och texter som kommenterar boken. Bland annat en stor roterande röd mun med numrerade tänder, två parafraser på konstnären Jasper Jones berömda grå amerikanska flagga med ordet LINDERGARDEN överklistrat, en gulsvart trädgårdsslang som ringlar ut över golvet och en tavla med transparant duk.
 ::: indent
 Det är en mycket annorlunda konstutställning.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/151.png)
+![](https://www.rolfborjlind.com/img/151.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/19.png)
+![](https://www.rolfborjlind.com/img/19.png)
 
-![Genomskinlig plast får samma funktion som mörker. Man ser ingenting.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/20.png)
+![Genomskinlig plast får samma funktion som mörker. Man ser ingenting.](https://www.rolfborjlind.com/img/20.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/160.jpg)
+![](https://www.rolfborjlind.com/img/160.jpg)
 
 Utställningsbesökarna kan köpa transparanta slipsar, 4 olika t-shirts med tryckta bilddikter på samt falska guldtackor (hela utställningen återskapas 43 år senare på Galleri Bohman i Stockholm).
 
-![Min favorittröja](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/21.png)
+![Min favorittröja](https://www.rolfborjlind.com/img/21.png)
 
 Fotnot: Vid den här tidpunkten är beteckningar som till exempel indian, neger, lapp, eskimå, zigenare eller dvärg fortfarande legio i folkmun. Idag vet vi bättre: ”*Snövit och de sju betydligt under medellängd.*”
 
@@ -893,11 +893,11 @@ Utställningens grundtanke, att föra ihop text och bild till ett tredje, ett id
 :::
 Samtidigt som vi har vår utställning på Maxim ska en ny klädbutik öppna, granne med galleriet: Gul&Blå - i första hand inriktad på moderna jeans i alla varianter. Vi får kontakt med ägaren Lars Knutsson och kommer överens om att han ska sälja våra 4 t-shirts i butiken.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/501.png)
+![](https://www.rolfborjlind.com/img/501.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/502.png)
+![](https://www.rolfborjlind.com/img/502.png)
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/503.png)
+![](https://www.rolfborjlind.com/img/503.png)
 
 Invigningen av Gul&Blå ska bli ett kändisevenemang. Jag föreslår Knutsson att jag ska filma hela invigningen. Han tycker det är en bra idé. Vi hyr en 16-millimeterskamera. Jag lyckas ta mig upp ovanför järnkonstruktionen i taket på Maximtunneln med kameran och får en perfekt vinkel på premiärminglet. Filmen lämnas till labbet och Knutsson är nyfiken på materialet.
 ::: indent
@@ -916,11 +916,11 @@ Däremot säljer tröjorna ganska bra.
 :::
 Efter den kreativa urladdning med Ray-utställningen vill Carsten och jag komprimera vårt uttryck. Vi åker med våra familjer till Skåne för att få inspiration. Mina föräldrar har ett sommarställe i Lilla Beddinge, själva har de flyttat till Spanien med Christina (hon är 13 år när det sker och slits bort från alla sammanhang här hemma, en tragedi i sig).
 
-![Familjerna.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/22.png)
+![Familjerna.](https://www.rolfborjlind.com/img/22.png)
 
 Under vistelsen skapar vi en ny bildpoesibok som är den första bokens raka motsats. Vi kallar den för ”*Den andra våldsamma döden*”. Ett mycket sparsmakat och hårt stiliserat verk. 36 spatiösa sidor med en enkel form och en text på (Arvo Pärts sakrala ”*Spiegel im Spiegel*” hade kunnat vara en fantastisk inspirationskälla till det här verket om han hade skrivit kompositionen 38 år tidigare).
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/23.jpg)
+![](https://www.rolfborjlind.com/img/23.jpg)
 
 Vi erbjuder boken till Bonniers som tackar nej igen. Långt senare, i samband med att jag börjar skriva kriminalromaner, har jag funderat över uttrycket ”*Den andra våldsamma döden*”. Jag har svårt att härleda det.
 
@@ -931,7 +931,7 @@ Vår avvikande utställning på Galleri Maxim har gett ett visst eko i konstvär
 Det blir vårt första litterära manifest, en form av programförklaring i det rådande kulturläget. Vi kallar artikeln *”Happy days are here again and Santa Claus is back in business”*. Rubriken till artikeln formger vi som en bildsida som illustrerar texten.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/24.png)
+![](https://www.rolfborjlind.com/img/24.png)
 
 Texten avslutas så här:
 <!-- PAGE 24 END -->
@@ -947,21 +947,21 @@ Texten avslutas så här:
 
 Vi gör också ett förslag till tidskriftens omslag, som på ett uppsluppet sätt illustrerar vår text. Vi använder våra barn, sysslingarna, som fotomodeller. Allt är fortfarande en lek på fullt allvar.
 
-![Det finns alltid ett alternativ.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/26.png)
+![Det finns alltid ett alternativ.](https://www.rolfborjlind.com/img/26.png)
 
 Pengar tjänar vi inte på vår konstnärliga verksamhet. Men vi försöker. I raskt takt producerar vi tre verk för att få en utkomst av det vi tror på. Först en lång dialog mellan oss två om vårt behov av pengar som helt enkelt heter ”*Pengar*”. Dialogen illustreras av Carsten.
 
-![Eller finns det kanske någon djupare mening med denna underliga situation?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/27.png)
+![Eller finns det kanske någon djupare mening med denna underliga situation?](https://www.rolfborjlind.com/img/27.png)
 
 Inget förlag är intresserat. Efter det gör vi vår första konstmapp, en portfolio med namnet ”*Antimateriefängelset*”. En bild av en Assa-nyckel och ett antal upplösta Rochack-bilder i svart tusch. Vi testar vår omgivning.
 
-![Antimateriefängelset.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/28.png)
+![Antimateriefängelset.](https://www.rolfborjlind.com/img/28.png)
 
-![Assa Assa vad du är vacker.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/29.png)
+![Assa Assa vad du är vacker.](https://www.rolfborjlind.com/img/29.png)
 
 Mappen är omöjlig att avyttra och skänks till museiintendenten Carlo Derket. Efter det gör vi ett försök med en regelrätt stipendieansökan till Bonniers Stipendienämnd. Nämnden består av 12 personer. Vår ansökan består av en bananlåda i trä som innehåller 12 blå papphimlar, 12 uppblåsta plastpåsar, 12 kulturdemokratiska löpartröjor betitlade ”*Hungrig*” samt 1 ex av vår nya konstmapp ”*Anvisningar*”.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/30.png)
+![](https://www.rolfborjlind.com/img/30.png)
 
 Ansökan avslås.
 <!-- PAGE 25 END -->
@@ -971,7 +971,7 @@ Ansökan avslås.
 :::
 Carsten och jag har i princip dygnet-runt-kontakt. Mitt huvud är sprängfyllt av idéer om allt och ingenting. Jag är uppslukad av tanken på att ”allt är möjligt”. Vad ”allt” egentligen är har jag svårare att ringa in. Men jag får hjälp av Carsten. Han är oerhört inläst på dadaismen och surrealismen. Han älskar Picabia.
 
-![Man bör byta åsikter som man byter skjortor.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/31.png)
+![Man bör byta åsikter som man byter skjortor.](https://www.rolfborjlind.com/img/31.png)
 
 Han leder in mig i dadavärlden under dom här åren. Det är jag evigt tacksam för. Chirico, Tzara, Cabaret Voltaire i Zurich (senare förebild för ett antal kabaréer vi gör på Moderna Museet), Hugo Ball, Paul Eluard, Breton, Magritte, Man Ray. Och den suraste av dom alla: Antoine Artaud.
 
@@ -990,7 +990,7 @@ Jag är mycket förtjust i Myrdals text när den kommer, i hans hållning över 
 Men tillbaka till dadaismen. Äntligen får jag kontakt med det gränslösa föraktet och det upproriska skrattet, med förlöjligandets ädla konst och det undermedvetnas välsignelse, med den dresserade spontaniteten och bejakandet av infantila infall: barnet mitt i världen.
 :::
 
-![MAMA CAN ALSO BE DADA](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/175.png)
+![MAMA CAN ALSO BE DADA](https://www.rolfborjlind.com/img/175.png)
 
 **”DADA hyllar skandalen som arbetsform. Dom hyr egna turistbussar i Paris och åker runt med dom vettskrämda turisterna och förevisar äckliga bordeller, skrotade järnvägsstationer och övergivna kyrkogårdar. DADA nästlar sig in på politikernas banketter, river dukarna av borden med porslin och kristaller och hädar församlingarna med ursinniga frihetstal. DADA ställer sig i talarstolar, knäpper ner byxorna och pissar på åhörarna. DADA skickar tunga resväskor till officiella konsttävlingar. Resväskorna är fulla av skitiga underkläder och DADA hävdar att det är den enda rena konsten. DADA startar egna kabaréer i storstäderna, ger ut tidningar, skapar konst, poesi, musik, teater. DADA lär världen att världen är DADA. DADA lär världen ett nytt språk och ett nytt sätt att förhålla sig till den västerländska meningslösheten.”**
 
@@ -1030,7 +1030,7 @@ Carsten leder mig också till konstnären Marcel Duchamp. Knepigare territorium.
 Däremot blir jag fascinerad av schweizaren Arthur Cravan (som egentligen hette Fabian Lloyd). Cravan var en vildsint poet och boxare och en av dadaisternas tidiga favoriter (hans moster var gift med Oscar Wilde). Han var två meter lång och gick en gång en boxningsmatch mot Jack Johnson, den förste svarte tungviktsmästaren.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/217.png)
+![](https://www.rolfborjlind.com/img/217.png)
 
 Cravan föll i golvet utan att Johnson hade träffat honom.
 ::: indent

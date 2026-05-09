@@ -210,7 +210,7 @@ Detta är den definitivt sista omgången av ”*Lorry*”.
 
 Cilla och jag lämnar innerstan, vi har ett litet barn och söker oss ut en bit från avgaserna. Det blir ett hus i Nacka, tillräckligt stort för att fungera både som hem och arbetsplats. Molly får en dagisplats på ett föräldrakollektiv och jag får en kort story i handen. Den är skriven av Christer Abrahamsen och regissören Mikael Hylin. Dom vill ha hjälp att utveckla den till ett långfilmsmanus. Grundidén är en vältränad pilot som under en dykning slår huvudet i botten och ådrar sig en nackskada som delvis invalidiserar honom. Historien handlar om hur han och hans kvinna försöker klara av att gå vidare med sitt radikalt förändrade förhållande. Ett relationsdrama, helt enkelt. Jag skriver manuset och inser åter igen vad som är så lockande med att skriva manus: det är otroligt svårt.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/258.png)
+![](https://www.rolfborjlind.com/img/258.png)
 
  Filmen får titeln *”Älskar, älskar inte”* och spelas in med Thomas Hanzon och Camilla Lundén i huvudrollerna. Abrahamsen, som har personliga relationer till Ingmar Bergman, berättar vad mästerregissören sagt när han sett filmen:
 ::: indent
@@ -229,7 +229,7 @@ Det är den 18 augusti 1995, på morgonen, när nyheten når mig. Kvällen innan
 Reflektion: Ungdomarna som sparkar ihjäl Hron är nynazister, dvs omhuldar samma ideologi som har legat till grund för Sverigedemokraternas ungdomsförbund när det startades av nazisten Robert Wennerstedt tre år tidigare. När mordet äger rum har Jimmie Åkesson varit aktiv medlem i förbundet i ett år.
 :::
 
-![Dödskalle. CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/307.png)
+![Dödskalle. CR.](https://www.rolfborjlind.com/img/307.png)
 
 ::: part
 :::
@@ -419,7 +419,7 @@ Det är enbart pinsamt.
 Direkt corny Grannenminne: Inför en Guldbaggegala får Filminstitutet för sig att kontakta den framgångsrika kommunikationsbyrån Acne för att skapa lite hajp runt årets utdelning. Det resulterar i  en liten docka föreställande Grannen, förpackad i en plastkartong som en Star Wars-figur, ful och olik. Den delas ut med ett drinkset och en liten plastcigarill.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/328.png)
+![](https://www.rolfborjlind.com/img/328.png)
 
 Hej och hå.
 ::: indent
@@ -459,7 +459,7 @@ Beck-serien släpps och visas i TV4. Kritiken är bitvis hård från professione
 Nåväl, var och en efter tycke och smak (tv-publiken delar inte hans uppfattningen, men det är en annan sak).
 :::
 
-![Cillas och mina 26 Beck-filmer.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/516.png)
+![Cillas och mina 26 Beck-filmer.](https://www.rolfborjlind.com/img/516.png)
 
 Apropå reaktionerna på Beckserien: det svala mottagande den får på många håll i Sverige speglar förmodligen tv-recensenternas ärliga uppfattning. Jag noterar det och tänker inte mer på det. Inte förrän jag besöker olika författarsammanhang i dom nordiska länderna och blir mött med en oerhörd respekt för just Beckserien. I Danmark och Norge berättar regissörer och manusförfattare att ”*Beck är ribban för oss*”... detta är ett tag innan danskarna började göra några av tv-världens bästa krimiserier, ”*Brottet*” till exempel.
 ::: indent
@@ -470,7 +470,7 @@ Och det får mig att reflektera över det Croneman skrev, om att ge sig på en n
 Å andra sidan skrev samme Croneman så här ett tag senare:
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/225.png)
+![](https://www.rolfborjlind.com/img/225.png)
 
 Efterhandskommentar om den första Beckserien: Den höjde tempot. Den vässade dialogen. Den drog upp dagsaktuell kriminalitet och försökte gestalta den inom ramen för 90 minuter. Den hade humor. Och framför allt: den hade några oerhört begåvade skådespelare. Några av filmerna försvarade tveklöst sitt utrymme.
 ::: indent
@@ -534,7 +534,7 @@ Njut!
 
 Ulf Linde har slutat som konstintendent på Moderna Museet och tagit över Thielska Galleriet på Djurgården. Han arrangerar en minnesutställning med Carstens verk.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/209.png)
+![](https://www.rolfborjlind.com/img/209.png)
 
 Så här skriver Linde om Carsten i inbjudan till utställningen:
 
@@ -559,7 +559,7 @@ Så här skriver Linde om Carsten i inbjudan till utställningen:
 ::: part
 :::
 
-![Miss Bulb - glödlampa på målad gips.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/210.png)
+![Miss Bulb - glödlampa på målad gips.](https://www.rolfborjlind.com/img/210.png)
 
 Jag skriver själv en text till utställningskatalogen med titeln ”*Konstens Öga*”:
 
@@ -584,7 +584,7 @@ Till vernissaget trycker jag också upp en diktsamling, 38 epitaph till minne av
 **mellan händer som sörjt sig vackra**
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/304.png)
+![](https://www.rolfborjlind.com/img/304.png)
 
 ::: part
 :::
@@ -611,7 +611,7 @@ Så här beskriver filmprofessorn Leif Furhammar dom småstänkarna:
 ::: part
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/211.png)
+![](https://www.rolfborjlind.com/img/211.png)
 
 Dags att debutera som långfilmsregissör.
 ::: indent
@@ -1055,7 +1055,7 @@ SVT visar resultatet.
 Roligast under inspelningen: Papphammar sitter i köket och klipper till en sprattelfigur av sig själv.
 :::
 
-![Sprattelhammar.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/215.png)
+![Sprattelhammar.](https://www.rolfborjlind.com/img/215.png)
 
 ::: part
 :::
@@ -1237,7 +1237,7 @@ Vårt hem förvandlades till produktionskontor igen.
 Sauk har skapat en karaktär som vi döper till ”*Gunnar Govin*”. En mycket beskedlig och förundrad människa med stor nyfikenhet på tillvaron. Vi ger filmen en undertitel: ”*En man - ett liv - en resa.*” Till vår hjälp tar vi Marika Lagercrantz, Kjelle Bergqvist, Mikael Persbrandt och Andrea Edwards.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/517.jpg)
+![](https://www.rolfborjlind.com/img/517.jpg)
 
 Ett av inslagen i videon är en kommentar till ”den tunga förorts-rapen”:
 
@@ -1417,7 +1417,7 @@ Jag ser den inte.
 Inte av nonchalans, jag ser ytterst sällan egna produktioner, förmodligen av ångest (jag går också ytterst sällan på egna premiärer, det är förknippat med för mycket alkohol för att balansera socialiseringen).
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/260.jpg)
+![](https://www.rolfborjlind.com/img/260.jpg)
 
 ::: part
 :::
@@ -1435,7 +1435,7 @@ Vilket är en eloge till regissören Mikael Marcimain. Han har litat totalt på 
 Det är inte så vanligt.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/241.png)
+![](https://www.rolfborjlind.com/img/241.png)
 
 Bakgrund: Cilla och jag har hamnat i ett ekonomiskt vakuum - författartraumat. Samtidigt känner vi att vi vill skriva nåt helt eget, efter en del tröskande med Beck och annat, och skriver ihop ett synopsis på en kriminalhistoria som vi kallar ”*Graven*”. Vi lämnar den till Filmlance. Dom är inte intresserade. ”Vi är trötta på att göra deckare.” I samma veva ringer Daniel Alfredson, nybliven chef på SVT Drama, och säger att han är ute efter svenska originalhistorier och undrar om vi är intresserade av att skriva.
 ::: indent
@@ -1599,7 +1599,7 @@ Mankell dyker upp igen: Cilla och jag blir tillfrågade om vi vill skriva ett av
 Inte så mycket av Mankells ”utkast” finns kvar i berättelsen.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/262.jpeg)
+![](https://www.rolfborjlind.com/img/262.jpeg)
 
 Ett tag innan har jag fått ett akutsamtal. Det ska göras en långfilm på Mankells bok ”*Innan Frosten*”, man har problem med manuset, med dialogen, och vill att jag åker ner till Ystad för att skriva om den. Ett blixtuppdrag. Det gillar jag. Instängd i ett hotellrum ett par dygn, massera en dialog, ta bra betalt, åka hem och äta gott.
 ::: indent
@@ -1769,7 +1769,7 @@ Been there, done that, är väl kontentan.
 
 Det här året gör jag också ett besök i Kapstaden.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/263.jpg)
+![](https://www.rolfborjlind.com/img/263.jpg)
 
 Mitt manus ”*Kocken*” från 1979 är äntligen under inspelning. Till slut har Arehn fått ihop en finansiering och en bra huvudrollsinnehavare: Kjelle Bergqvist (som har hoppat av rollen som Wallander i en kommande tv-serie för att få göra Kocken).
 
@@ -1830,7 +1830,7 @@ Vi skriver också en fristående fortsättning på vår kriminalserie ”*Graven
 Men den fungerar.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/264.jpg)
+![](https://www.rolfborjlind.com/img/264.jpg)
 
 Jag blir också ombedd att skriva en text till Ingvar Hirdwall, han ska uppträda som Grannen på Guldbaggegalan. Jag är inte så förtjust i det, att exploatera en karaktär utanför det sammanhang den ingår i, det funkar sällan.
 ::: indent

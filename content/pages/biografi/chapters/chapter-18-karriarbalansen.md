@@ -204,13 +204,13 @@ Filmen ska utspelas på 40-talet, huvudsakligen, och spelas in på lite olika st
 Manuset blir klart ett tag senare, filmen spelas in och Peter Haber gör en lysande rolltolkning av Arehns pappa. Han blir välförtjänt guldbaggenominerad för sin insats.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/259.jpeg)
+![](https://www.rolfborjlind.com/img/259.jpeg)
 
 Filmen går senare som tv-serie.
 
 Själv går jag vidare och skriver en ny pjäs till Scen Offside. Den heter ”*Från lem till lever*”. Förmodligen är det en komedi, med viss underskruv. I programbladet beskrivs föreställningen som ”en väldoftande komedi, en osande samtidssatir och en hoppfull och innerlig samtidssaga om 90-talets människor.”
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/515.png)
+![](https://www.rolfborjlind.com/img/515.png)
 
 Två män träffas på scen för att laga en trerätters middag ihop - Rårakor med sikrom, Skärgårdsgryta och Skånsk äppelkaka. En tredje person sitter vid ett piano och spelar melodier då och då. Skådespelarna är Anders Beckman, Lars-Göran Persson och musikern Tomas Elfstadius.
 ::: indent
@@ -348,7 +348,7 @@ Lindblom och jag har samarbetat tidigare, i Kråka-projektet, och fått bra kont
 Eftersom jag och Cilla just befinner oss djupt inne i en mörk skog på jakt efter svamp, ett av våra tunga intressen, så ber jag att få återkomma. Så fort jag stöter på en liten porcini, en späd stensopp med utsökt smak, vet jag vad jag ska svara.
 :::
 
-![Lindblom & Börjlind](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/212.png)
+![Lindblom & Börjlind](https://www.rolfborjlind.com/img/212.png)
 
 Lindblom och jag träffas. Hon vill göra en enkel och rak film, med en enda person i centrum. Keve Hjelm. Hon vill att filmen ska handla om vad vi gör med vår jord (detta är alltså 1992). I princip handlar det om en monolog, gestaltad av en ensam man i ett litet torp som försöker leva nära jorden, nära ljuset, tätt intill den rytm som ingen längre minns, som försöker hålla sig fast i en värld som försvinner.
 ::: indent

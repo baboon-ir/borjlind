@@ -91,11 +91,11 @@ Exit straffregistret.
 Annat minne från dom lätta fötternas tid: En av mina bästa polare är konstnären Ove Enervald (*Paletten*), en väldigt begåvad tecknare och målare.
 :::
 
-![Myggjagare. Blyerts. OE.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/220.png)
+![Myggjagare. Blyerts. OE.](https://www.rolfborjlind.com/img/220.png)
 
 Vi är båda singlar och roterar i nattlivet. En morgon vaknar jag med Oves huvud underligt intryckt i magen. Jag försöker röra mig, vrida mig. Det är mörkt och mycket trångt. Bakom mig ser jag en lucka, utanför luckan är det ljus. Jag vrider mig förbi Ove och kravlar mig ut genom luckan. I solen utanför står ett antal barn och flera vuxna och tittar på mig. Vi har hamnat i en lekpark i Gamla Stan på natten, krupit in i en liten koja och somnat. Föräldrarnas tysta minspel avslöjar att vi inte delar samma tillvaro.
 
-![Grillfest på lördag?](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/183.png)
+![Grillfest på lördag?](https://www.rolfborjlind.com/img/183.png)
 
 På tal om trånga utrymmen: Jag har en släng av klaustrofobi. Riktigt trånga utrymmen är ingenting som lockar mig. I min och Cilla Börjlinds kriminalroman ”*Springfloden*” försöker en av huvudkaraktärerna, Stilton, åla sig igenom en lång, minimal och helt svart berggång, halvvägs in fastnar han och kommer varken bakåt eller framåt. Det var en mardröm att skriva den scenen, svett och tryck i bröstet.
 ::: indent
@@ -168,7 +168,7 @@ Så även inom dom områden vi rör oss i. ”Politiskt engagerad konst” är r
 Carsten försörjer sig som art director, jag frilansar som copywriter. Vi är ”reklamare” och hatas av ”rättrogna” för att vi säljer Fyffes bananer och dadaistisk konst med samma förstulna leende. Vi beskylls för att sakna politiska förtecken, vilket är infantilt: allt som driver med det besuttna är per definition politiskt - det handlar om underminerandets försåtliga konst.
 :::
 
-!["Always on the outside, of whatever side there was."](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/32.png)
+!["Always on the outside, of whatever side there was."](https://www.rolfborjlind.com/img/32.png)
 
 Det är en märklig tid på många sätt. Fri, berusande och extremt trång på samma gång. Hedonistisk, optimistisk. Allt nu! Det är en ungdomsrevolt som drar genom västvärlden. Musik och politik. Fri sex. Glada droger. Flower Power. Dont trust people over thirty! Förmodligen är det en tid som saknar motsvarighet i det förflutna. Mycket tack vare massmedia. För första gången finns det en känsla av livekontakt med unga människor runt om i västvärlden. Den gemensamma nämnaren är inte speciellt gemensam. Den kan vara politisk, musikalisk, anarkistisk eller allt på samma gång.
 ::: indent
@@ -183,9 +183,9 @@ Och ett vidrigt krig i Vietnam.
 ### Två ”ikoniska” foton från Vietnam.
 :::
 
-![En offentlig avrättning utan domstol.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/136.png)
+![En offentlig avrättning utan domstol.](https://www.rolfborjlind.com/img/136.png)
 
-![Ett springande brinnande napalmoffer. (Bilden tagen av Huyan Cong.)](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/137.png)
+![Ett springande brinnande napalmoffer. (Bilden tagen av Huyan Cong.)](https://www.rolfborjlind.com/img/137.png)
 
 Fotnot: En enda gång går jag i ett demonstrationståg. Det är julen 1972 när USA bombar Hanoi sönder och samman. Statsminister Olof Palmes ödesmättade ord om bombningen bidrar:
 
@@ -195,7 +195,7 @@ Inte så populärt uttalande i USA.
 
 Det här året, 1967, avrättas också en revolutionär legend.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/159.jpg)
+![](https://www.rolfborjlind.com/img/159.jpg)
 
 Che Guevara skjuts ihjäl i Bolivia och förvandlas till ett av västvärldens mest exploaterade varumärken. En kaffekopp? En t-shirt? En slips? Eller kanske ett Che-citat till drinken?
 
@@ -245,7 +245,7 @@ Vår nästa utställning på Galleri Maxim tar avstamp i omvärldens konformisti
 
 Vi väljer att ställa ut sex meterhöga, till hälften uppblåsta plastdjur, hopsjunkna och skamsna, samt 36 studier i akvarell av en pressad Kalle Anka.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/34.png)
+![](https://www.rolfborjlind.com/img/34.png)
 
 I inbjudan till utställningen citerar vi en textbit av författaren Thomas Tidholm:
 
@@ -261,7 +261,7 @@ Texten handlar om Bob Dylan, men vi tycker att det är en relevant beskrivning a
 
 I utställningen ingår också en 2 x 4 meter stor tavla med futuristiska seriefigurer.
 
-![Förlagan till den stora målningen ”Demonen”.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/35.png)
+![Förlagan till den stora målningen ”Demonen”.](https://www.rolfborjlind.com/img/35.png)
 
 Carsten använder en helt ny teknik. Istället för penslar arbetar han med en smal sprayspruta kopplad till en gastub via en gummislang - han smeker fram dom gröna figurerna på tavelduken. Effekten blir en extremt slät yta - konstkritikern Ulf Linde är tvungen att ställa sig vid kanten av tavlan och titta ut över duken för att notera tekniken.
 ::: indent
@@ -329,7 +329,7 @@ Dikt om ett av mina förhållanden:
 **det var hon som märkte mig först**
 :::
 
-![Be my baby. CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/185.png)
+![Be my baby. CR.](https://www.rolfborjlind.com/img/185.png)
 
 ::: part
 :::
@@ -342,15 +342,15 @@ Den dör en dramatisk död.
 En granne till Carsten kommer ner i ateljén, ser spindeln på golvet och reagerar som många fobiker gör. Han stampar ihjäl den innan Carsten hinner vända sig om.
 :::
 
-![Det är inte så populärt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/36.png)
+![Det är inte så populärt.](https://www.rolfborjlind.com/img/36.png)
 
 För att späda på vår image som cyniska reklamare (och i viss mån våra ekonomiska resurser) utformar Carsten och jag två annonskampanjer för NK. Kompaniet har startat ett undervaruhus med namnet ”K”, inriktat på ”ungdomen”. Vår första affisch ser ut så här.
 
-![Pårökt, men i tiden.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/37.png)
+![Pårökt, men i tiden.](https://www.rolfborjlind.com/img/37.png)
 
 Och vår andra kampanj i samma veva går under namnet ”*påp*”.
 
-![Eller som en av våra stora poeter skrev: ”Jag har sålt mina visor till nöjets estrader, och gud må förlåta mig somliga rader.”](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/38.png)
+![Eller som en av våra stora poeter skrev: ”Jag har sålt mina visor till nöjets estrader, och gud må förlåta mig somliga rader.”](https://www.rolfborjlind.com/img/38.png)
 
 Samtidigt som vi gör våra NK-kampanjer får vi ett brev från Bo Lindwall på Nationalmuseum. Han meddelar att Nordiska Konstförbundet har valt ut oss att ”med högst fem målningar” representera Sverige på den Nordiska Ungdomsbiennalen i Helsingfors. Och tillägger i brevet: ”Såvida ytterligare material föreligger, såsom manifest, citat eller kommentarer till Er verksamhet mottas de med tacksamhet.”
 ::: indent
@@ -367,11 +367,11 @@ Vi skriver till Konstakademien i Stockholm och ber att få låna en ateljé med 
 Vi får låna en mycket stor ateljé högt upp i den anrika byggnaden. Längs den största väggen spänner vi upp en vit tom duk i det kolossala formatet 2 x 5 meter. Vi transporterar också dit ett piano. Vi har sex veckor på oss. Jag spelar och Carsten tänker.
 :::
 
-![Första skissen till biennalbidraget.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/39.png)
+![Första skissen till biennalbidraget.](https://www.rolfborjlind.com/img/39.png)
 
 Till slut kommer vi fram till vad vi vill presentera. Mitt på den stora duken målar Carsten en ursinnig liten man som inte får igång sin gräsklippare. Den säger bara ”*Pfut*”, vilket också blir tavlans titel.
 
-![Pfut.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/40.png)
+![Pfut.](https://www.rolfborjlind.com/img/40.png)
 
 Förlagan är en annons i Readers Digest, en reklam för ”*Mower Power*”. Tavlan tolkas senare som en ironisk kommentar till begreppet Flower Power.
 ::: indent
@@ -382,7 +382,7 @@ Det är den inte.
 Alla deltagare på biennalen får utforma ett eget vykort som inbjudan till utställningen. Vårt ser ut så här.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/41.png)
+![](https://www.rolfborjlind.com/img/41.png)
 
 Med en text på baksidan:
 
@@ -436,7 +436,7 @@ Resten av äventyret i Helsingfors ligger i barmhärtigt mörker.
 
 Men lite innan Helsingfors, redan på våren, ska jag träffa en av mina stora idoler, Jimi Hendrix. På Gröna Lund. Upptakten är Liljevalchs Vårutställning. Vi deltar på den med fyra kvadratiska tavlor. Varje tavla har ett identiskt motiv: bakdelen på en tiger på väg ut ur tavlan.
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/42.png)
+![](https://www.rolfborjlind.com/img/42.png)
 
 En röd, en gul, en grön och en röd. Titlarna på tavlorna är Hösten, Sommaren, Våren och Vintern. En besökare köper Hösten.
 ::: indent
@@ -459,7 +459,7 @@ Det hade blivit ett bra omslag.
 Warhol hade gillat det.
 :::
 
-![Gul Hund. CR.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/43.png)
+![Gul Hund. CR.](https://www.rolfborjlind.com/img/43.png)
 <!-- PAGE 36 END -->
 
 <!-- PAGE 37 START -->
@@ -558,7 +558,7 @@ Själv vill jag tatuera mig.
 Min polare Ove Enervald, som nu går på Konstakademien, har gjort en stram, vacker etsning av en svart femuddig stjärna.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/181.png)
+![](https://www.rolfborjlind.com/img/181.png)
 
 Vi bestämmer oss för att tatuera in en motsvarande stjärna på våra överarmar. I Nyhavn i Köpenhamn, hos den berömde Tattoo Jack. I en second-handbutik på Högbergsgatan köper vi två sidlånga svarta rockar, två vackra hawaiislipsar (min ska jag skänka till poeten Allen Ginsberg en frukost i Colorado många år senare) och två tur och returbiljetter. Under tågresan filmar vi rakt ut genom kupéfönstret hela vägen ner (några år innan har Andy Warhol filmat sin sovande älskare Giorno i drygt fem timmar, allt är möjligt). Väl hemma konstaterar vi en flummig natt att tågfilmen förmodligen är världens i särklass tråkigaste rulle.
 ::: indent
@@ -589,7 +589,7 @@ Jag har funderat på det, lockelsen i just den symbolen. Anarki? När David Bowi
 En bit hud som hänger ihop med en död vän och en tågresa.
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/157.png)
+![](https://www.rolfborjlind.com/img/157.png)
 
 För övrigt den enda tatuering jag har (på utsidan).
 
@@ -601,31 +601,31 @@ Jag kör mer och mer taxi, mår så där, försöker fungera som ”frånvarande
 Samtidigt: Carsten och jag blir ombedda att göra en kortfilm för tv, en barnfilm. Vi spelar in den i en trädgård i Djursholm och döper den till ”*Bobo*”.
 :::
 
-![En dag på jobbet.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/44.png)
+![En dag på jobbet.](https://www.rolfborjlind.com/img/44.png)
 
 Filmen är tio minuter lång, svartvit, och sänds i SVT. Vår första tv-produktion.
 <!-- PAGE 38 END -->
 
 <!-- PAGE 39 START -->
-![Carsten spelar rollen som sig själv.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/45.png)
+![Carsten spelar rollen som sig själv.](https://www.rolfborjlind.com/img/45.png)
 
 När vi är klara med kortfilmen börjar vi strukturera Dantes ”*Inferno*” till en popmusikal, i samarbete med musikern Ted Ström. Vi tillbringar ett antal dagar på en isolerad lantgård och arbetar fram ett bild/text-manus.
 
-![Inferno.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/46.png)
+![Inferno.](https://www.rolfborjlind.com/img/46.png)
 
 Projektet förblir oavslutat och är ytterligare ett exempel på hur vi försöker hela tiden. Med allt möjligt. Utan att lyckas. Fantasin bågnar, men mycket hamnar på hälleberget.
 ::: indent
 Så även en ny reklamkampanj som vi gör till NK under namnet ”*Även mördare bär morgonrockar*” (vad är det för fel på det upplägget?).
 :::
 
-![](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/155.png)
+![](https://www.rolfborjlind.com/img/155.png)
 
 NK betalar en symbolisk summa, kopierar våra layoutidéer och använder dom i sin egen marknadsföring tre år senare.
 ::: indent
 Begreppet upphovsrätt har inte slagit igenom ännu.
 :::
 
-![Ibland har vi bara roligt.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/47.png)
+![Ibland har vi bara roligt.](https://www.rolfborjlind.com/img/47.png)
 
 Ibland är vi mer konkreta. Under några hektiska dagar sätter vi upp stora vitmålade masonitskivor runt om i Stockholm. Vi kallar projektet ”*Graffiti*”. Tanken är att förbipasserande människor ska fylla dom med teckningar och text, varefter skivorna ska tas ner och ställas ut på ett offentligt galleri - en konkretisering av begreppet ”yttrandefrihet”.
 ::: indent
@@ -638,5 +638,5 @@ Fotnot: I början av det här året startar en tidning som heter ”*Puss*”, e
 :::
 Jag behöver komma bort från det höga varvet i Stockholm (det tar på kroppen). Jag åker till Hälsingland i sällskap med Ove Enervald. Vi har fått låna ett hus i den lilla ensligt belägna byn Kölsjön. Vi ska ägna oss åt att skriva och måla. Vi tar med oss The Bands skiva ”*Big Pink*” och lite förnödenheter. Huset har tre rum. Ove ställer upp stafflit i stora rummet, jag tar ett mindre, med utsikt mot en grusväg.
 
-![Ove gör en snabbskiss av mig.](https://pub-511c9170c3a84a38827fa0aaa81fbdc9.r2.dev/img/48.png)
+![Ove gör en snabbskiss av mig.](https://www.rolfborjlind.com/img/48.png)
 <!-- PAGE 39 END -->
