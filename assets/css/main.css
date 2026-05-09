@@ -1614,10 +1614,13 @@ a.rb-skip-btn:hover {
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
   gap: 0.5rem;
 }
+
+.rb-reader-bar > :first-child { justify-self: start; }
+.rb-reader-bar > :last-child { justify-self: end; }
 
 @media (max-width: 768px), (pointer: coarse) {
   .rb-reader-bar {
