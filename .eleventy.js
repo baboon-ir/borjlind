@@ -508,7 +508,6 @@ module.exports = function (eleventyConfig) {
   // Ignore non-site markdown
   eleventyConfig.ignores.add("CLAUDE.md");
   eleventyConfig.ignores.add("content/pages/biografi/chapters/**");
-  eleventyConfig.ignores.add("Last edits/**");
 
   // Set custom markdown library with container support
   eleventyConfig.setLibrary("md", md);

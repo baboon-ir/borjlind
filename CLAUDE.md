@@ -56,7 +56,7 @@ Arbeta alltid på `dev`-branch eller feature-branch — merge till `main` först
 När Rolf levererar rättningar som `.docx`:
 - **Använd inte** `textutil -convert txt` — genomstrukna stycken försvinner
 - Unzippa docx och parsa `word/document.xml` på `<w:strike/>` för att hitta text som ska tas bort
-- Rättningskällor arkiveras i `Last edits/` (exkluderade från build)
+- Rättningskällor checkas inte in — håll dem utanför repot
 
 ## Vad som inte är i repot längre
 v1.0 GSD-planering, one-off migrationsscripts, AI-arbetsanteckningar och tomma image-stubs raderades i april 2026. Git-historiken har allt om det behövs.
